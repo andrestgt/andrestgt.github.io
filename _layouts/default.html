@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 820px;
+      margin: 3rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+    }
+    nav a {
+      margin-right: 1rem;
+      text-decoration: none;
+    }
+    nav {
+      margin-bottom: 2.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/travels/">Travels</a>
+  <a href="/food/">Food</a>
+  <a href="/about/">About</a>
+</nav>
+
+{{ content }}
+
+</body>
+</html>
