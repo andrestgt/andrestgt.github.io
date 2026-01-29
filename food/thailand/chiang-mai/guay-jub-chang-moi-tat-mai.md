@@ -14,11 +14,10 @@ Guay Jub Chang Moi Tat Mai is a very popular old school soup place. It seems the
 
 ## Ratings
 
-**Overall:** 6.5 / 10  
-**Food:** 7 / 10  
+**Overall:** 7.5 / 10  
+**Food:** 7.5 / 10  
 **Service:** 6 / 10  
 **Atmosphere:** 6 / 10  
-**Price level:** Low
-
+**Price level:** Budget
 ## Practical
 📍 [View on Google Maps](https://maps.google.com/?q=Guay+Jub+Chang+Moi+Tat+Mai)
