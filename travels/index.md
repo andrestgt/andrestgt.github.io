@@ -1,16 +1,9 @@
 ---
 layout: default
-title: Travels
+title: Travelogues
+section: travelogue
 ---
 
-## Travelogues
+# Travelogues
 
-<ul>
-{% for page in site.pages %}
-  {% if page.section == "travelogue" %}
-    <li>
-      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>
+Long-form travel writing, organised by journey and country.
