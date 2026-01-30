@@ -27,11 +27,7 @@ body_class: travelogue
 
 ## Prologue
 
-## Prologue
-
 ![Frankfurt Airport](photos/germany/frankfurt/Frankfurt.jpg)
-
-### Day 1–2 | 13.–14.7.
 
 
 ### Day 1–2 | 13.–14.7.  
