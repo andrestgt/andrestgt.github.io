@@ -173,6 +173,8 @@ We had already been to the most stylish café in town (well, the only stylish on
 
 ## Laos
 
+<div class="country laos">
+
 ### Day 14 | 26.7 | 38 km  
 **Nong Khai – Vientiane**
 
@@ -584,7 +586,11 @@ As everywhere, there was delicious Mekong fish, prepared in various ways as Laab
 
 But the spring rolls (10,000k) also tasted excellent, as did the pork with basil (15,000k).
 
+</div>
+
 ## Cambodia
+
+<div class="country cambodia">
 
 ### Day 29 | 10.8. | 89 km  
 **Don Khone – Stung Treng (Cambodia)**
@@ -799,7 +805,11 @@ For lunch, we went to Khmer Borane. They offer upscale, very tasty local special
 
 In the evening, we ate on Sisowath Quay again, this time in the northern part, at the Riverhouse. This is probably the most elegant establishment in the area, a stylishly decorated restaurant with a menu of selected French, Mediterranean, and Asian dishes. The Riverhouse is one of the more expensive places in the city, but the quality of the cuisine was compelling, with excellent ingredients prepared flawlessly. As hors d'oeuvres, we ordered a fine Vegetarian Mezze Marocain ($8) and Artichoke Mousse with Smoked Salmon ($6.90). The main courses were chicken breast stuffed with spinach and pine nuts ($10.90) and, as a highlight, homemade Terrine de Foie Gras ($10.90). The fact that we stayed under €40 despite numerous alcoholic drinks was due to the generous Happy Hour, which lasts from 3 PM to 9 PM here. The cocktails ($3.50–$4.00 for two) tasted decent and were strong. We had a nightcap at the Riverside Bistro, still the nicest and most comfortable of the "same same but different wicker-chair corner cafés" along the riverfront. However, you should definitely skip the German Potato Salad—with mayo and apples—that's simply unacceptable.
 
+</div>
+
 ## Vietnam
+
+<div class="country vietnam">
 
 ### Day 44 | 25.8. | 95 km  
 **Phnom Penh – Neak Luong – Chau Doc**
@@ -949,7 +959,12 @@ We were very lucky with accommodation in Hanoi. The Sunshine 2 Hotel on Ma May w
 
 We had a set menu and a cheese plate at Café des Arts and a light dinner at La Place Café.
 
-## Epilogue  
+</div>
+
+## Epilogue
+
+<div class="country epilogue">
+
 ### Days 58 & 59 | 8. & 9.9. | 24 + 30 km  
 **Hanoi**
 
@@ -983,6 +998,8 @@ We had already eaten very well here in the spring. The French chef is excellent 
 
 ### Old Hanoi Café
 After walking past this truly pretty, inviting Old Quarter café on Ma May countless times, we finally managed to try the Old Hanoi shortly before heading to the airport. Like the long-established Little Hanoi, it's an ideal place for a quick snack or to rest a bit after a 'shopping spree' or city exploration. You sit on comfortable wicker chairs or sofas in a classic, beautiful interior, and the food is very good, which it should be, as they also offer cooking classes here. There is a good selection of classic Vietnamese bistro cuisine at the usual (now quite high) Old Quarter café prices. The spring rolls (35,000d) were homemade and freshly prepared, and the Cha Ca (59,000d) was even truly excellent—the best I've had so far—served with rice paper and fresh vegetables for wrapping, plus a very fine dip with dill instead of the authentic but awful shrimp paste sauce.
+
+</div>
 
 ---
 
