@@ -9,9 +9,8 @@ title: Travels
 {% for page in site.pages %}
   {% if page.section == "travelogue" %}
     <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
     </li>
   {% endif %}
 {% endfor %}
 </ul>
-
