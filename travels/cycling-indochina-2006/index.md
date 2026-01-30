@@ -1,8 +1,11 @@
 ---
-layout: default
 title: Cycling Indochina
+section: travelogue
+date: 2006-10-31
+layout: default
 permalink: /travels/cycling-indochina/
 ---
+
 <a id="top"></a>
 
 ## Contents
