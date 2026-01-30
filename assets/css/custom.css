@@ -2,37 +2,38 @@
    Custom styles for long travelogues only
    Does NOT affect food reviews
    ================================================== */
+
 /* ===== Travelogue country blocks ===== */
 
-body.travelogue .country {
+.travelogue .country {
   padding: 1.6rem 1.8rem;
   margin: 3rem 0;
   border-radius: 12px;
 }
 
-/* Individual countries */
+/* ===== Individual countries ===== */
 
-body.travelogue .country.thailand {
+.travelogue .country.thailand {
   background: #fff3e0;
   border-left: 6px solid #f4a261;
 }
 
-body.travelogue .country.laos {
+.travelogue .country.laos {
   background: #eef7f1;
   border-left: 6px solid #2a9d8f;
 }
 
-body.travelogue .country.cambodia {
+.travelogue .country.cambodia {
   background: #fbeaea;
   border-left: 6px solid #c44536;
 }
 
-body.travelogue .country.vietnam {
+.travelogue .country.vietnam {
   background: #eef3fb;
   border-left: 6px solid #3a5bdc;
 }
 
-body.travelogue .country.epilogue {
+.travelogue .country.epilogue {
   background: #f5f5f5;
   border-left: 6px solid #888;
 }
