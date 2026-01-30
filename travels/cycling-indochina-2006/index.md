@@ -27,7 +27,10 @@ body_class: travelogue
 
 ## Prologue
 
-![Frankfurt departure](/photos/germany/frankfurt/Frankfurt.jpg)
+<figure class="travel-photo">
+  <img src="/photos/germany/frankfurt/Frankfurt.jpg" alt="Frankfurt Hbf">
+  <figcaption>Frankfurt Hbf</figcaption>
+</figure>
 
 ### Day 1–2 | 13.–14.7.  
 **Frankfurt – Dhaka – Bangkok**
