@@ -37,3 +37,22 @@
   background: #f5f5f5;
   border-left: 6px solid #888;
 }
+
+/* ===== Culinary sections ===== */
+
+body.travelogue .culinary {
+  margin: 2.5rem 0;
+}
+
+body.travelogue .culinary .place {
+  padding: 0.9rem 1.1rem;
+  margin: 1rem 0;
+  border-left: 4px solid #ccc;
+  background: #fafafa;
+}
+
+body.travelogue .culinary .place strong {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+}
