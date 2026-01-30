@@ -3,6 +3,6 @@ layout: default
 title: Travels
 ---
 
-# Travels
+## Travelogues
 
-Countries, cities, and long detours.
+- [Cycling Indochina 2006](/travels/cycling-indochina-2006/)
