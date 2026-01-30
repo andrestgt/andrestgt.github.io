@@ -5,5 +5,7 @@ title: Food
 
 # Food
 
+Countries covered so far.
+
 ## Thailand
-- [Chiang Mai](/food/thailand/chiang-mai/)
+- [Thailand](/food/thailand/)
