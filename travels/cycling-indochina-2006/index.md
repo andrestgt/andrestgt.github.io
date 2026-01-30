@@ -963,9 +963,9 @@ We had a set menu and a cheese plate at Café des Arts and a light dinner at La 
 
 ## Epilogue
 
-<div class="country epilogue">
+<section class="country epilogue">
 
-### Days 58 & 59 | 8. & 9.9. | 24 + 30 km  
+### Days 58 & 59 | 8.–9.9. | 24 + 30 km  
 **Hanoi**
 
 ---
@@ -973,32 +973,88 @@ We had a set menu and a cheese plate at Café des Arts and a light dinner at La 
 ## Hanoi Cafés & Restaurants
 
 ### Café des Arts
-We had visited this stylishly furnished brasserie—with art on the walls and a comfortable sofa on the first floor—six years ago, but only for cocktails. The food here is very expensive, and we wanted to see if the hefty prices were justified. We ordered the cheapest set menu together for $10. For starters, there was a simple country paté with excellent rustic bread, the main course was calf's head with rice and vegetables, and for dessert, a Crème Brulée that was a bit too firm in consistency. Simple French comfort food, quite tasty, but still too expensive. The beautiful ambience and good, but not exceptional, food do not justify such exorbitant prices.
+
+We had visited this stylishly furnished brasserie—with art on the walls and a comfortable sofa on the first floor—six years ago, but only for cocktails. The food here is very expensive, and we wanted to see if the hefty prices were justified.
+
+We ordered the cheapest set menu together for $10. For starters, there was a simple country paté with excellent rustic bread, the main course was calf's head with rice and vegetables, and for dessert, a Crème Brulée that was a bit too firm in consistency. Simple French comfort food, quite tasty, but still too expensive. The beautiful ambience and good, but not exceptional, food do not justify such exorbitant prices.
+
+---
 
 ### Café La Place
-A very nice little café in a prime location on the Cathedral Square, with charming retro decor, including an orange espresso machine from the 70s with matching orange lamps over the bar. The espresso here is good, as is the simple Asian and Western bistro food. Prices are quite moderate by Hanoi standards (the eggplant and mushroom stew in a clay pot cost 35,000d). They could still work a little on the cappuccino, though. Cinnamon really doesn't belong on it.
+
+A very nice little café in a prime location on the Cathedral Square, with charming retro decor, including an orange espresso machine from the 70s with matching orange lamps over the bar. The espresso here is good, as is the simple Asian and Western bistro food.
+
+Prices are quite moderate by Hanoi standards (the eggplant and mushroom stew in a clay pot cost 35,000d). They could still work a little on the cappuccino, though. Cinnamon really doesn't belong on it.
+
+---
 
 ### Diva Café
-Located right next to the Café au Lac, the Diva is also a slightly more upscale café with seating in the courtyard in front of an old colonial villa. The Vietnamese bistro cuisine, featuring the usual suspects, is quite decent. Salads cost around 40,000d, but the portions are rather small. However, since the coffee here is significantly worse than next door and also more expensive, the Diva is not an alternative to the Café au Lac.
+
+Located right next to the Café au Lac, the Diva is also a slightly more upscale café with seating in the courtyard in front of an old colonial villa. The Vietnamese bistro cuisine, featuring the usual suspects, is quite decent.
+
+Salads cost around 40,000d, but the portions are rather small. However, since the coffee here is significantly worse than next door and also more expensive, the Diva is not an alternative to the Café au Lac.
+
+---
 
 ### Bobby Chinn
-Hanoi's ultimate restaurant offers modern international cuisine in a comfortable, stylish, yet unpretentious setting. The menu isn't extensive but includes interesting creations with influences from all over the world. At lunchtime, some of the dishes are $2–$3 cheaper, but the prices are reasonable anyway given the quality and ambience—and the portions are certainly not Nouvelle Cuisine. As hors d'oeuvres, we had beetroot salad with wonderful goat cheese in a walnut crust ($6) and Foie Gras in rice paper with caramelized apples ($15). Both tasted flawless, as did the main courses: chicken with gnocchi, spinach, and pine nuts ($10) and the Arabian Mezze ($10) with pita. But at Bobby Chinn, you don't just eat excellently; you can also relax wonderfully in the super-cosy, dark lounge, smoke shisha ($3), or drink cocktails—and this overall concept is what makes this restaurant so unique.
+
+Hanoi's ultimate restaurant offers modern international cuisine in a comfortable, stylish, yet unpretentious setting. The menu isn't extensive but includes interesting creations with influences from all over the world.
+
+At lunchtime, some of the dishes are $2–$3 cheaper, but the prices are reasonable anyway given the quality and ambience—and the portions are certainly not Nouvelle Cuisine.
+
+As hors d'oeuvres, we had beetroot salad with wonderful goat cheese in a walnut crust ($6) and Foie Gras in rice paper with caramelized apples ($15). Both tasted flawless, as did the main courses: chicken with gnocchi, spinach, and pine nuts ($10) and the Arabian Mezze ($10) with pita.
+
+But at Bobby Chinn, you don't just eat excellently; you can also relax wonderfully in the super-cosy, dark lounge, smoke shisha ($3), or drink cocktails—and this overall concept is what makes this restaurant so unique.
+
+---
 
 ### Tamarind Café
-This beautiful, highly praised vegetarian restaurant unfortunately did not deliver what the excellent, interesting menu promised. While they have really good juices and yogurt-fruit shakes, and the decor is very pleasant—colourful and comfortable—the dishes we ordered really didn't impress me. The Oriental skewers with grilled vegetables ($3.10) were served with a very fine chickpea-peanut sauce, but the vegetables were too dry and not seasoned enough. The Malay Quesadillas ($5.30) lacked the right kick and tasted a little bland. A real shame, as the concept is very good.
+
+This beautiful, highly praised vegetarian restaurant unfortunately did not deliver what the excellent, interesting menu promised.
+
+While they have really good juices and yogurt-fruit shakes, and the decor is very pleasant—colourful and comfortable—the dishes we ordered really didn't impress me. The Oriental skewers with grilled vegetables ($3.10) were served with a very fine chickpea-peanut sauce, but the vegetables were too dry and not seasoned enough.
+
+The Malay Quesadillas ($5.30) lacked the right kick and tasted a little bland. A real shame, as the concept is very good.
+
+---
 
 ### Red Beer
-Hanoi's most famous beer pub. A microbrewery that brews two different types of beer: a dark, Belgian-style one (Red Beer) and a German, Pilsner-style one. A large glass (650 ml) of draught costs 30,000d or 22,000d, which is a lot of money for a beer in Vietnam, but it must be said that the quality of the brew here is miles above the ordinary, cheap Bia Hoi—even I can tell that as a non-beer specialist. Surprisingly, you can also eat excellently and relatively cheaply at Red Beer for the area. The extensive menu offers pub food Vietnamese-style and a few Western dishes. The Vietnamese dishes were all authentic, tasty, and freshly prepared. Crispy spring rolls (30,000d), green papaya salad with dried beef (30,000d), and clams with chilli and lemongrass (40,000d).
+
+Hanoi's most famous beer pub. A microbrewery that brews two different types of beer: a dark, Belgian-style one (Red Beer) and a German, Pilsner-style one.
+
+A large glass (650 ml) of draught costs 30,000d or 22,000d, which is a lot of money for a beer in Vietnam, but it must be said that the quality of the brew here is miles above the ordinary, cheap Bia Hoi—even I can tell that as a non-beer specialist.
+
+Surprisingly, you can also eat excellently and relatively cheaply at Red Beer for the area. Crispy spring rolls (30,000d), green papaya salad with dried beef (30,000d), and clams with chilli and lemongrass (40,000d).
+
+---
 
 ### Pane e Vino
-A minimalist but stylishly furnished Italian spot—café, enoteca, and restaurant. Here you can sit wonderfully at the counter next to the designer espresso machine, admire the old film posters on the walls, and drink your breakfast cappuccino, which, while not cheap ($2), is expertly prepared; perhaps the best in the city. The owner is a real Italian and seems to know a lot about gastronomy. The menu offers an excellent selection of dishes, although they are quite expensive even by Hanoi standards. However, the quality seems to be high. We only had two small items for breakfast here, but the Parma ham on the bruschetta ($3) was excellent, as was the original Pecorino served with the walnut salad ($5).
+
+A minimalist but stylishly furnished Italian spot—café, enoteca, and restaurant. Here you can sit wonderfully at the counter next to the designer espresso machine, admire the old film posters on the walls, and drink your breakfast cappuccino, which, while not cheap ($2), is expertly prepared; perhaps the best in the city.
+
+The owner is a real Italian and seems to know a lot about gastronomy. The menu offers an excellent selection of dishes, although they are quite expensive even by Hanoi standards. The quality, however, seems to be high.
+
+We only had two small items for breakfast here, but the Parma ham on the bruschetta ($3) was excellent, as was the original Pecorino served with the walnut salad ($5).
+
+---
 
 ### Green Tangerine
-We had already eaten very well here in the spring. The French chef is excellent at his craft and offers fresh, creative fusion cuisine that is certainly among the best Hanoi has to offer culinarily. The portions are generous, the à la carte prices are absolutely fair, and the lunch menu for 95,000d is a real bargain. Today we opted for the beef carpaccio with garlic-roasted potatoes and, for dessert, the mango-passion fruit cheesecake. Also outstanding in taste and beautifully presented were the two à la carte dishes we ordered: the goat cheese mousse with pistachio pastry ($6.70) and the delicious, very generously portioned tuna tartare with tagliatelle ($12.50).
+
+We had already eaten very well here in the spring. The French chef is excellent at his craft and offers fresh, creative fusion cuisine that is certainly among the best Hanoi has to offer culinarily.
+
+The portions are generous, the à la carte prices are absolutely fair, and the lunch menu for 95,000d is a real bargain.
+
+Today we opted for the beef carpaccio with garlic-roasted potatoes and, for dessert, the mango-passion fruit cheesecake. Also outstanding in taste and beautifully presented were the goat cheese mousse with pistachio pastry ($6.70) and the very generously portioned tuna tartare with tagliatelle ($12.50).
+
+---
 
 ### Old Hanoi Café
-After walking past this truly pretty, inviting Old Quarter café on Ma May countless times, we finally managed to try the Old Hanoi shortly before heading to the airport. Like the long-established Little Hanoi, it's an ideal place for a quick snack or to rest a bit after a 'shopping spree' or city exploration. You sit on comfortable wicker chairs or sofas in a classic, beautiful interior, and the food is very good, which it should be, as they also offer cooking classes here. There is a good selection of classic Vietnamese bistro cuisine at the usual (now quite high) Old Quarter café prices. The spring rolls (35,000d) were homemade and freshly prepared, and the Cha Ca (59,000d) was even truly excellent—the best I've had so far—served with rice paper and fresh vegetables for wrapping, plus a very fine dip with dill instead of the authentic but awful shrimp paste sauce.
 
+After walking past this truly pretty, inviting Old Quarter café on Ma May countless times, we finally managed to try the Old Hanoi shortly before heading to the airport.
+
+Like the long-established Little Hanoi, it's an ideal place for a quick snack or to rest a bit after a shopping spree or city exploration. You sit on comfortable wicker chairs or sofas in a classic, beautiful interior.
+
+The spring rolls (35,000d) were homemade and freshly prepared, and the Cha Ca (59,000d) was truly excellent—the best I've had so far—served with rice paper and fresh vegetables for wrapping, plus a very fine dip with dill instead of the authentic but awful shrimp paste sauce.
 
 ---
 
@@ -1012,5 +1068,4 @@ After walking past this truly pretty, inviting Old Quarter café on Ma May count
 | Cambodian Riel (Riel) | 5,000 |
 | Vietnamese Dong (Dong) | 19,500 |
 
-</div>
-
+</section>
