@@ -8,7 +8,9 @@ section: food
 *Phuket Town · Singaporean / Malaysian · Restaurant*
 
 <figure>
-  <img src="/photos/thailand/phuket/laopasatfood.jpg" alt="Laksa and Char Kway Teow at Lao Pa Sat, Phuket Town">
+  <a href="/photos/thailand/phuket/laopasatfood.jpg" target="_blank">
+    <img src="/photos/thailand/phuket/laopasatfood.jpg" alt="Laksa and Char Kway Teow at Lao Pa Sat">
+  </a>
   <figcaption>Laksa and Char Kway Teow</figcaption>
 </figure>
 
