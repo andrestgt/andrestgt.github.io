@@ -998,7 +998,6 @@ We had already eaten very well here in the spring. The French chef is excellent 
 ### Old Hanoi Café
 After walking past this truly pretty, inviting Old Quarter café on Ma May countless times, we finally managed to try the Old Hanoi shortly before heading to the airport. Like the long-established Little Hanoi, it's an ideal place for a quick snack or to rest a bit after a 'shopping spree' or city exploration. You sit on comfortable wicker chairs or sofas in a classic, beautiful interior, and the food is very good, which it should be, as they also offer cooking classes here. There is a good selection of classic Vietnamese bistro cuisine at the usual (now quite high) Old Quarter café prices. The spring rolls (35,000d) were homemade and freshly prepared, and the Cha Ca (59,000d) was even truly excellent—the best I've had so far—served with rice paper and fresh vegetables for wrapping, plus a very fine dip with dill instead of the authentic but awful shrimp paste sauce.
 
-</div>
 
 ---
 
@@ -1012,5 +1011,5 @@ After walking past this truly pretty, inviting Old Quarter café on Ma May count
 | Cambodian Riel (Riel) | 5,000 |
 | Vietnamese Dong (Dong) | 19,500 |
 
-
+</div>
 
