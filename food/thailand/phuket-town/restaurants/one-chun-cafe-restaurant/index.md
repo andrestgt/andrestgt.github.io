@@ -8,9 +8,10 @@ section: food
 *Phuket Old Town · Southern Thai · Restaurant*
 
 <figure>
-  <img src="/photos/thailand/phuket-town/restaurants/one-chun/one-chun-main.jpg" alt="One Chun Cafe & Restaurant">
+  <img src="/photos/thailand/phuket/onechuninterior.jpg" alt="One Chun Cafe & Restaurant interior">
   <figcaption>One Chun Cafe & Restaurant, Phuket Old Town</figcaption>
 </figure>
+
 
 If One Chun didn’t carry a Michelin Bib Gourmand recommendation, it would probably register as just another slightly upmarket but otherwise traditional Southern Thai restaurant in Phuket Old Town. That’s not meant negatively. It’s a pleasant place, nicely decorated, with good service and a menu built almost entirely around Thai classics.
 
