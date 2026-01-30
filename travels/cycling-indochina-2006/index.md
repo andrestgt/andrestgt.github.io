@@ -48,15 +48,15 @@ Back at the airport, we used our Biman vouchers, and it genuinely seemed like we
 ### Day 3 | 15.7  
 **Dhaka – Bangkok**
 <figure class="travel-photo">
-  <img src="/photos/bangladesh/dhaka/Dhaka.jpg" alt="Dhaka Hotel">
-  <figcaption>Dhaka Hotel</figcaption>
+  <img src="/photos/bangladesh/dhaka/Dhaka.jpg" alt="Hotel in Dhaka">
+  <figcaption>Hotel in Dhaka</figcaption>
 </figure>
 
 The night wasn’t very long, as for some mysterious reason, we were summoned for breakfast before six. The onward flight to Bangkok was scheduled for 10:25 AM. After breakfast, we were informed that the flight had been moved to 2:30 PM. All the better: since we were already in Dhaka, we had plenty of time to have a look around—though strangely, all the other travellers preferred to stay put in the hotel. We hired a taxi for three hours (750 TK) and had him drive us around the area with a few stops along the way. Apart from the architecturally, well, adventurous Parliament House, Dhaka doesn’t really have any tourist sights; it’s a vast sprawl of featureless, often half-finished, buildings. There doesn't seem to be a proper old town like in Lahore or Delhi. However, the city is by no means uninteresting. The sheer thousands of partly ornate rickshaws, the main mode of transport here, are quite a sight, as are the old double-decker buses. Besides, tropical cities, even if they're not pretty, always have a special atmosphere.
 
 <figure class="travel-photo">
-  <img src="/photos/bangladesh/dhaka/Dhaka.jpg" alt="Parliament Building">
-  <figcaption>Parliament Building</figcaption>
+  <img src="/photos/bangladesh/dhaka/Dhaka2.jpg" alt="National Parliament House, Dhaka">
+  <figcaption>National Parliament House, Dhaka</figcaption>
 </figure>
 
 
