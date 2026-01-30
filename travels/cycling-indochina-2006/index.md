@@ -4,4 +4,5 @@ title: Cycling Indochina
 ---
 
 # Cycling Indochina  
-*Thailand · Laos · Cambodia · Vietnam — Summer 2006*
+*Thailand · Laos · Cambodia · Vietnam  — July–September 2006*
+
