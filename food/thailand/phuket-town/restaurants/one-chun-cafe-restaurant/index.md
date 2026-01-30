@@ -34,5 +34,11 @@ The chicken curry was very good. The fish balls were tasty as well, but felt a l
 
 ### Practical
 
-📍 [View on Google Maps](https://maps.google.com)
+<p class="map-link">
+  <a href="https://maps.app.goo.gl/Da6GDiBS1kt5pe778"
+     target="_blank"
+     rel="noopener">
+    One Chun Restaurant (Google Maps)
+  </a>
+</p>
 
