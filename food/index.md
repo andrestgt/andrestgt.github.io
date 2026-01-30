@@ -5,4 +5,5 @@ title: Food
 
 # Food
 
-Restaurant reviews and food notes.
+## Thailand
+- [Chiang Mai](/food/thailand/chiang-mai/)
