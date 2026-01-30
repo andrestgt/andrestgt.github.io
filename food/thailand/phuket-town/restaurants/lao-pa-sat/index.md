@@ -1,6 +1,7 @@
 ---
-title: Lao Pa Sat (เหล่า​ ปาสะ)
-layout: default
+layout: food-review
+title: Lao Pa Sat (เหล่า ปาสะ)
+permalink: /food/thailand/phuket-town/restaurants/lao-pa-sat/
 ---
 
 # เหล่า​ ปาสะ (Lao Pa Sat)
