@@ -8,6 +8,8 @@ permalink: /travels/cycling-indochina/
 
 <div id="top"></div>
 
+<div class="travelogue">
+
 
 ## Contents
 - [Prologue](#prologue)
@@ -987,4 +989,6 @@ After walking past this truly pretty, inviting Old Quarter café on Ma May count
 | Lao Kip (Kip) | 12,500 |
 | Cambodian Riel (Riel) | 5,000 |
 | Vietnamese Dong (Dong) | 19,500 |
+
+</div>
 
