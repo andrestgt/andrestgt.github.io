@@ -37,5 +37,7 @@ The chicken curry was very good. The fish balls were tasty as well, but felt a l
 ### Practical
 
 🗺️ **Google Maps:** https://maps.app.goo.gl/47kDLtjrMd53uz55A 
+
 🍽️ **Cuisine:** Southern Thai
-💰 **Price level:**  200-300 Bt
+
+💰 **Price level:**  400-800 Bt
