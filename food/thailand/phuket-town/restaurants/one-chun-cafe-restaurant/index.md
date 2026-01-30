@@ -20,11 +20,11 @@ The chicken curry was very good. The fish balls were tasty as well, but felt a l
 
 ### Ratings
 
-- **Overall:** 7.5 / 10  
+- **Overall:** 8 / 10  
 - **Food:** 7.5 / 10  
-- **Service:** 7 / 10  
-- **Atmosphere:** 7 / 10  
-- **Price level:** Mid-range  
+- **Service:** 9 / 10  
+- **Atmosphere:** 8 / 10  
+- **Price level:** 400-600 Bt
 
 ### Practical
 
