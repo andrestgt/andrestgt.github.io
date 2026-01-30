@@ -963,7 +963,8 @@ We had a set menu and a cheese plate at Café des Arts and a light dinner at La 
 
 ## Epilogue
 
-<section class="country epilogue">
+<div class="country epilogue" markdown="1">
+
 
 ### Days 58 & 59 | 8.–9.9. | 24 + 30 km  
 **Hanoi**
@@ -1068,4 +1069,5 @@ The spring rolls (35,000d) were homemade and freshly prepared, and the Cha Ca (5
 | Cambodian Riel (Riel) | 5,000 |
 | Vietnamese Dong (Dong) | 19,500 |
 
-</section>
+</div>
+
