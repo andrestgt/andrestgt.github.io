@@ -60,6 +60,10 @@ We eventually got away around 3 PM and finally arrived in Bangkok after a two-ho
 
 For dinner, we went to Cabbages & Condoms on Soi 12, one of Bangkok’s most famous restaurants, probably because it’s a non-profit venture supporting HIV-positive people. But the food was also genuinely excellent—classic Thai cuisine, impeccably prepared—and the décor is rather artful; who knew condoms could be used for so many things! The open-air area with its fountain and string lights offered a touch of the tropics right in the concrete jungle of Sukhumvit. We ordered three starters: Thai Dim Sum, Fried Morning Glory, and the "Special Thai Appetizer," and for the main course, steamed seafood in coconut cream with lemongrass (200B). Everything was delicious! Cabbages & Condoms isn't exactly cheap, but the whole meal cost less than €15, including drinks.
 
+<figure class="travel-photo">
+  <img src="photos/thailand/bangkok/Cabbages & Condoms.jpg" alt="Cabbages & Condoms">
+  <figcaption>Cabbages & Condoms</figcaption>
+</figure>
 
 ## Thailand
 
