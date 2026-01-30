@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cycling Indochina
+permalink: /travels/cycling-indochina/
+---
 <a id="top"></a>
 
 ## Contents
@@ -7,10 +12,7 @@
 - [Cambodia](#cambodia)
 - [Vietnam](#vietnam)
 - [Epilogue](#epilogue)
----
-layout: default
-title: Cycling Indochina
----
+
 
 # Cycling Indochina  
 *Thailand · Laos · Cambodia · Vietnam  — July–September 2006*
