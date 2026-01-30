@@ -136,18 +136,16 @@ body.travelogue h2 {
   <a href="/about/">About</a>
 </nav>
 
-<main>
+<main id="top">
+
   {% if page.section == "travelogue" %}
-    <nav class="chapter-nav">
-      <a href="#top">↑ Top</a>
-    </nav>
+    {% include travelogue-nav.html %}
   {% endif %}
 
- {% if page.section == "travelogue" %}
-  {% include travelogue-nav.html %}
-{% endif %}
+  {{ content }}
 
-{{ content }}
+</main>
+
 
 </main>
 
