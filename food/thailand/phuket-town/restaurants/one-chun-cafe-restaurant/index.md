@@ -24,13 +24,15 @@ The chicken curry was very good. The fish balls were tasty as well, but felt a l
   <figcaption>Phuket Fish Balls and Chicken Curry</figcaption>
 </figure>
 
-### Ratings
+## Ratings
 
-- **Overall:** 8 / 10  
-- **Food:** 7.5 / 10  
-- **Service:** 9 / 10  
-- **Atmosphere:** 8 / 10  
-- **Price level:** 400-600 Bt
+| Category        | Score |
+|-----------------|-------|
+| Food            | 7.5/10  |
+| Service         | 8/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 9/10  |
+| Overall         | 7.5/10 |
 
 ### Practical
 
