@@ -55,6 +55,7 @@ The night wasn’t very long, as for some mysterious reason, we were summoned fo
   <figcaption>Parliament Building</figcaption>
 </figure>
 
+
 We eventually got away around 3 PM and finally arrived in Bangkok after a two-hour flight, 54 hours behind schedule. Taking the bikes on the airport bus (50B) was no problem, and we reached Sukhumvit around half-past seven in the evening, only to find that hotel after hotel was completely booked up. Fortunately, we finally found a room at the Promenade on Soi 8. It was a standard, mid-range hotel with no particular charm, but the rooms were very decent, freshly renovated, spacious, and came with the usual comforts for that price range, like a mini-bar and a bath. 1200 Baht was a fair price for this area.
 
 For dinner, we went to Cabbages & Condoms on Soi 12, one of Bangkok’s most famous restaurants, probably because it’s a non-profit venture supporting HIV-positive people. But the food was also genuinely excellent—classic Thai cuisine, impeccably prepared—and the décor is rather artful; who knew condoms could be used for so many things! The open-air area with its fountain and string lights offered a touch of the tropics right in the concrete jungle of Sukhumvit. We ordered three starters: Thai Dim Sum, Fried Morning Glory, and the "Special Thai Appetizer," and for the main course, steamed seafood in coconut cream with lemongrass (200B). Everything was delicious! Cabbages & Condoms isn't exactly cheap, but the whole meal cost less than €15, including drinks.
