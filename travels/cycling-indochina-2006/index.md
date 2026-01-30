@@ -172,8 +172,8 @@ We had already been to the most stylish café in town (well, the only stylish on
 
 ## Laos
 
-<div class="country laos">
-
+<div class="country laos" markdown="1">
+  
 ### Day 14 | 26.7 | 38 km  
 **Nong Khai – Vientiane**
 
@@ -589,7 +589,7 @@ But the spring rolls (10,000k) also tasted excellent, as did the pork with basil
 
 ## Cambodia
 
-<div class="country cambodia">
+<div class="country cambodia" markdown="1">
 
 ### Day 29 | 10.8. | 89 km  
 **Don Khone – Stung Treng (Cambodia)**
@@ -808,7 +808,7 @@ In the evening, we ate on Sisowath Quay again, this time in the northern part, a
 
 ## Vietnam
 
-<div class="country vietnam">
+<div class="country vietnam" markdown="1">
 
 ### Day 44 | 25.8. | 95 km  
 **Phnom Penh – Neak Luong – Chau Doc**
