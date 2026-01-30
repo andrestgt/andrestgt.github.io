@@ -282,21 +282,49 @@ What I particularly like about Luang Prabang is that tourism doesn't seem to dis
 The fact that tourism can have positive consequences when managed correctly is shown by the city's gastronomic diversity. For a country like Laos, which lags a bit behind the rest of the region culinarily, the situation in Luang Prabang is paradise.
 
 Our gastronomic tour of the city deserves its own chapter:
+
 #### Culinary Stops in Luang Prabang
 
-Sala Café: Perhaps the prettiest café in the city, with comfortable chairs in a small tropical oasis above the Nam Khan. Very good bistro cuisine (Eggplant Salad, 38,000k) and fruit shakes. Prices are high-end, but the portions are generous and the ambience is superb.
+**Sala Café**  
+Perhaps the prettiest café in the city, with comfortable chairs in a small tropical oasis above the Nam Khan.  
+Very good bistro cuisine (eggplant salad, 38,000k) and fruit shakes. Prices are high-end, but portions are generous and the ambience is superb.
 
-3 Nagas: A chic restaurant in a beautiful colonial villa. They exclusively serve traditional Laotian cuisine, but at a very high standard, using the best quality ingredients. The service is attentive, and the prices are correspondingly high, but still reasonable given the quality. The Grilled Buffalo Fillet ($5.40) was absolutely magnificent, and the Steamed Fish in Banana Leaf filled with Pork ($6) was heavenly. The Laab of raw minced beef ($5) was classically delicious. However, I wasn't keen on the traditional Luang Prabang deer stew ($5), which wasn't due to the quality but rather a specific seasoning wood commonly used in Laotian cooking, whose anise-like flavour takes a lot of getting used to.
+---
 
-Tum Tum Cheng: Also located in an old villa on Sakkarine Road, but a little simpler and cheaper than 3 Nagas. They also offer cooking classes—whose most famous participant, according to their own advertising, was Jamie Oliver. Tum Tum Cheng also focuses mainly on traditional Laotian and local cuisine. We only had breakfast here, but what we tried was good and relatively inexpensive. The spring rolls (22,000k) could have been a bit crispier, but the Luang Prabang Noodle Soup (22,000k) was tasty, and the Sticky Rice Salad (25,000k) was a real hit.
+**3 Nagas**  
+A chic restaurant in a beautiful colonial villa, specialising exclusively in traditional Laotian cuisine prepared to a very high standard.  
+Excellent ingredients, attentive service, and correspondingly high prices, though still reasonable for the quality. Highlights included the grilled buffalo fillet and the steamed fish in banana leaf; the deer stew was less to my taste due to its anise-like seasoning.
 
-Tamnak Lao: Another villa restaurant on Sakkarine Road with a very nice first-floor balcony. This is one of the city's most popular Laotian restaurants, although it also offers Western food. A step down from 3 Nagas in terms of both price and quality, but Tamnak Lao is still recommendable. The standard could be described as "good home-style cooking"; the dishes tasted just like those from a good street food stall. For starters, we had prawns and vegetables in pastry (35,000k) and eggplant dip with baguette. For the main course, there were seasonal local chanterelles with pork (40,000k) and fried fish in ginger sauce (Fragrant Fish, 35,000k). Not outstanding in flavour, but good.
+---
 
-Maylek Pub: This pleasant bar-café had thick cushions for comfortable seating, played Manu Chao, and served a decent Café au Lait (20,000k). Thanks to the cheap drinks, it’s certainly not a bad place to hang out in the evening.
+**Tum Tum Cheng**  
+Located in another old villa on Sakkarine Road, simpler and cheaper than 3 Nagas.  
+Focuses on traditional Laotian and local cuisine. Breakfast was solid rather than memorable; the Luang Prabang noodle soup was tasty, and the sticky rice salad a real hit.
 
-Mekong Riverside Restaurants: The numerous simple eateries along the Mekong can be described as “same same but different.” In the dry season, you can lounge on bamboo mats right by the riverbank, but for now, you have to settle for the promenade. They all offer a relaxed atmosphere, a lovely river view, cheap fruit shakes, and a menu of inexpensive Lao and Farang (Western) standard dishes, which were always perfectly fine taste-wise, and locals like to eat here too. However, the food isn't the main reason to come here; it’s the atmosphere and the cheap beer, which you absolutely must order with the local specialty, Kai Phaen (fried river algae), as a snack. Served with the Cheo Bong dipping sauce, it’s a real delicacy. In my opinion, the nicest spot to sit is at View Kheam Khong.
+---
 
-The Apsara: The smart, stylish restaurant of the boutique hotel of the same name on the Nam Khan is rightly considered one of the best in the city. The small but refined menu offers Far Eastern and Western dishes with a creative touch at higher, but justified, prices. The service is impeccable, and the ambience is lovely. The food quality ranged from faultless (the Thai eggplant salad, $4.50) to very tasty (the Watercress, Blue Cheese, and Walnut Salad, $4.50) and absolutely heavenly. The latter applied to the house speciality: the whole roasted fish for two, stuffed with lemongrass, in a tamarind-garlic sauce. The pleasure cost $12, but the fish was truly huge, with perfect, firm flesh, and the sauce complemented it excellently. A culinary revelation and worth every penny.
+**Tamnak Lao**  
+A popular Laotian restaurant in a villa on Sakkarine Road, with a very pleasant first-floor balcony.  
+A step down from 3 Nagas in both price and refinement, but still recommendable. Think good home-style cooking rather than fine dining.
+
+---
+
+**Maylek Pub**  
+A relaxed bar-café with thick cushions, Manu Chao on the stereo, and a laid-back traveller atmosphere.  
+Decent café au lait (20,000k) and a good place to linger in the evening.
+
+---
+
+**Mekong Riverside Restaurants**  
+A string of simple eateries along the Mekong promenade.  
+Cheap fruit shakes, Lao and Farang standards, and a relaxed river view. Come for the atmosphere rather than culinary ambition; beer with Kai Phaen (fried river algae) and Cheo Bong is the local ritual.
+
+---
+
+**The Apsara**  
+The stylish restaurant of the boutique hotel of the same name on the Nam Khan.  
+Refined Far Eastern and Western dishes at higher, but justified, prices. Standout dish: the whole roasted fish for two, stuffed with lemongrass in a tamarind-garlic sauce — outstanding and worth every cent.
+
 
 We stayed at the Sayo River Guesthouse on the Mekong riverside road. Our very spacious, flawless room was nicely furnished, with two beds, air-con, a fridge, satellite TV, a seating area, and even some artwork. The bathroom with a hot water shower was also massive. Top guesthouse standard for an extremely fair price of $20. Highly recommended.
 
@@ -689,21 +717,52 @@ Due to the huge offering, Siem Reap again deserves an extra culinary chapter, al
 
 #### Culinary Stops in Siem Reap
 
-Dead Fish Restaurant: This huge, originally furnished restaurant belonged to our guesthouse. It had seating cushions on wooden platforms, seating areas over small, water-filled basins, or regular tables with comfortable chairs. At night, the place turns into a cocktail bar and beer pub. The menu mainly offers Thai dishes, but also local food like Amok. Prices are at the usual, slightly upscale Siem Reap level (mains between $3–$6), with good quality cuisine.
+**Dead Fish Restaurant**  
+This huge, originally furnished restaurant belonged to our guesthouse. It had seating cushions on wooden platforms, seating areas over small, water-filled basins, or regular tables with comfortable chairs. At night, the place turns into a cocktail bar and beer pub.  
+Prices are at the usual, slightly upscale Siem Reap level (mains between $3–$6), with good quality cuisine.
 
-Le Tigre de Papier: Khmer restaurant and cooking school on Bar St. Cosy wicker chairs and a prime people-watching location. Tasty, quite authentic cuisine at acceptable prices; a glass of beer with the meal was 50 cents. Decent spring rolls ($2.50), fine Khmer Beef Curry ($3), and a generous portion of mixed, good-quality meat for self-grilling ($5).
+---
 
-Red Piano: Perhaps the most beautiful and cosiest café-restaurant on Bar St. We didn't eat here, though. Not a particularly good Cappuccino ($1.50), high-end pricing.
+**Le Tigre de Papier**  
+Khmer restaurant and cooking school on Bar St. Cosy wicker chairs and a prime people-watching location. Tasty, quite authentic cuisine at acceptable prices; a glass of beer with the meal was 50 cents.  
+Decent spring rolls ($2.50), fine Khmer Beef Curry ($3), and a generous portion of mixed, good-quality meat for self-grilling ($5).
 
-Blue Pumpkin: Not an ideal location on a rather busy street, but stylishly and very cosily furnished inside. A bakery with discreet big-city chic. Decent Pita Sandwiches ($3–$4) and tasty health shakes.
+---
 
-Le Grand Café: Classically chic café in a colonial villa by the old market. It's a really nice and comfortable place to sit, and the service is impeccable. However, this is also the most expensive establishment in the area, with inflated drink prices and very unspectacular food; a rather bland tourist Amok costs over $5 here.
+**Red Piano**  
+Perhaps the most beautiful and cosiest café-restaurant on Bar St. We didn’t eat here, though.  
+Not a particularly good cappuccino ($1.50), high-end pricing.
 
-Easy Speaking Pub: This place has the cheapest beer on Bar St. A glass of beer with the meal was just 25 cents. You also sit comfortably here, and the food prices are moderate. It is hardly gourmet cuisine, but the fried fish and grilled beef (both $3) were great as a snack with beer.
+---
 
-Kampuccino: A simpler café-restaurant with Western and Khmer cuisine in a beautiful, shaded old colonial building by the river. Decent coffee and good, relatively inexpensive food. The fried chicken with basil tasted authentically Khmer ($2), and the Mediterranean Platter offered fresh pita and very tasty dips like hummus, eggplant mousse, and couscous salad for $5.50. Highly recommended!
+**Blue Pumpkin**  
+Not an ideal location on a rather busy street, but stylishly and very cosily furnished inside. A bakery with discreet big-city chic.  
+Decent pita sandwiches ($3–$4) and tasty health shakes.
 
-Angkor Palm: Newly opened, higher-end establishment next to the Blue Pumpkin. You don't sit as nicely outside here as on Bar St or the Alley, but the interior is very nicely furnished. The food quality is a step above the usual standard in the area, so the prices are absolutely justified. All the dishes we ordered tasted excellent, especially the raw marinated beef salad ($4) and the beef fillet in pepper sauce ($5.50, including a glass of red wine). They also have good spring rolls, especially the fresh ones ($2.50). Angkor Palm currently has perhaps the best cuisine in the area around the Old Market.
+---
+
+**Le Grand Café**  
+Classically chic café in a colonial villa by the old market. It’s a really nice and comfortable place to sit, and the service is impeccable.  
+However, this is also the most expensive establishment in the area; a rather bland tourist Amok costs over $5.
+
+---
+
+**Easy Speaking Pub**  
+This place has the cheapest beer on Bar St. A glass of beer with the meal was just 25 cents.  
+Not gourmet cuisine, but the fried fish and grilled beef (both $3) were great with beer.
+
+---
+
+**Kampuccino**  
+A simpler café-restaurant with Western and Khmer cuisine in a beautiful, shaded old colonial building by the river.  
+The fried chicken with basil ($2) tasted authentically Khmer; the Mediterranean platter ($5.50) is highly recommended.
+
+---
+
+**Angkor Palm**  
+Newly opened, higher-end establishment next to the Blue Pumpkin. You don’t sit as nicely outside here, but the interior is very well done.  
+Food quality is clearly above the local average. Highlights included raw marinated beef salad ($4) and beef fillet in pepper sauce ($5.50, including a glass of red wine).
+
 
 ### Day 36 | 17.8. | 25 km  
 **Siem Reap – Battambang**
