@@ -1,6 +1,6 @@
 <nav class="travelogue-nav">
   <ul>
-    {% assign trips = site.pages | where: "section", "travelogue" | sort: "date" %}
+    {% assign trips = site.pages | where: "section", "travelogue" | sort: "date" | reverse %}
     {% for p in trips %}
       {% if p.title %}
         <li>
