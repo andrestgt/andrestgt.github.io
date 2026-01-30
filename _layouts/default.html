@@ -61,32 +61,37 @@ a:hover {
   text-decoration: underline;
 }
 
-/* 🔒 GLOBAL IMAGE SAFETY — THIS IS THE KEY */
+/* BASE IMAGE RULE — never allow oversized images */
 img {
-  max-width: 100% !important;
-  height: auto !important;
+  max-width: 100%;
+  height: auto;
   display: block;
   margin: 1.5rem auto;
   border-radius: 6px;
 }
 
-/* Secondary images only (below text) */
+/* SECONDARY IMAGES (dish photos with captions) */
 figure img {
-  max-width: 33% !important;
+  max-width: 50%;
 }
 
-/* Mobile sanity */
-@media (max-width: 600px) {
-  figure img {
-    max-width: 70% !important;
-  }
+/* Captions */
+figure {
+  text-align: center;
+  margin: 1.5rem auto;
 }
 
 figcaption {
   font-size: 0.85rem;
   color: #666;
   margin-top: 0.4rem;
-  text-align: center;
+}
+
+/* Mobile adjustment */
+@media (max-width: 600px) {
+  figure img {
+    max-width: 80%;
+  }
 }
 
 
