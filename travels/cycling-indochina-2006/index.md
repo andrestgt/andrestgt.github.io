@@ -3,7 +3,6 @@ title: Cycling Indochina
 section: travelogue
 date: 2006-10-31
 layout: default
-permalink: /travels/cycling-indochina/
 ---
 
 <div id="top"></div>
