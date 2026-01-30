@@ -5,4 +5,13 @@ title: Travels
 
 ## Travelogues
 
-- [Cycling Indochina 2006](/travels/cycling-indochina-2006/)
+<ul>
+{% for page in site.pages %}
+  {% if page.section == "travelogue" %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
