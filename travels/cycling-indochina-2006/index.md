@@ -7,7 +7,7 @@ layout: default
 
 <div id="top"></div>
 
-<div class="travelogue">
+<div class="travelogue" markdown="1">
 
 
 ## Contents
