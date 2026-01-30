@@ -28,12 +28,11 @@ body_class: travelogue
 ## Prologue
 
 <figure>
-  <a href="/photos/germany/frankfurt/frankfurt-hbf.jpg" target="_blank">
-    <img src="/photos/germany/frankfurt/frankfurt-hbf.jpg" alt="Frankfurt Hauptbahnhof departure">
+  <a href="/photos/germany/frankfurt/Frankfurt.jpg" target="_blank">
+    <img src="/photos/germany/frankfurt/Frankfurt.jpg" alt="Frankfurt departure">
   </a>
   <figcaption>Frankfurt Hbf</figcaption>
 </figure>
-
 
 
 ### Day 1–2 | 13.–14.7.  
