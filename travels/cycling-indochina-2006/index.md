@@ -27,10 +27,12 @@ body_class: travelogue
 
 ## Prologue
 
+![Frankfurt departure](/photos/germany/frankfurt/Frankfurt.jpg)
+
 ### Day 1–2 | 13.–14.7.  
 **Frankfurt – Dhaka – Bangkok**
 
-![Frankfurt departure](/photos/germany/frankfurt/Frankfurt.jpg)
+
 
 When you choose to fly with Biman and save nearly €200, you have to accept that your arrival at your destination will be significantly delayed.
 
