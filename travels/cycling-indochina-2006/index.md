@@ -1012,5 +1012,5 @@ After walking past this truly pretty, inviting Old Quarter café on Ma May count
 | Cambodian Riel (Riel) | 5,000 |
 | Vietnamese Dong (Dong) | 19,500 |
 
-</div>
+
 
