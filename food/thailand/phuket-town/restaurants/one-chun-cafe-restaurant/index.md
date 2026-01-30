@@ -36,11 +36,6 @@ The chicken curry was very good. The fish balls were tasty as well, but felt a l
 
 ### Practical
 
-<p class="map-link">
-  <a href="https://maps.app.goo.gl/Da6GDiBS1kt5pe778"
-     target="_blank"
-     rel="noopener">
-    One Chun Restaurant (Google Maps)
-  </a>
-</p>
-
+🗺️ **Google Maps:** https://maps.app.goo.gl/t1SAXyN9Uz4bYEj46 ](https://maps.app.goo.gl/47kDLtjrMd53uz55A 
+🍽️ **Cuisine:** Southern Thai
+💰 **Price level:**  200-300 Bt
