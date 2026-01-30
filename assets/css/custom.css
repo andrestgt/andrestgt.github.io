@@ -37,3 +37,7 @@
   background: #f5f5f5;
   border-left: 6px solid #888;
 }
+body.travelogue {
+  background: hotpink !important;
+}
+
