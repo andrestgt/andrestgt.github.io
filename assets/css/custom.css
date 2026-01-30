@@ -56,3 +56,30 @@ body.travelogue .culinary .place strong {
   font-size: 0.95rem;
   letter-spacing: 0.02em;
 }
+/* =========================
+   Travelogue photo rows
+   ========================= */
+
+body.travelogue .photo-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+body.travelogue .photo-row figure {
+  margin: 0;
+}
+
+body.travelogue .photo-row img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Mobile: stack images */
+@media (max-width: 700px) {
+  body.travelogue .photo-row {
+    grid-template-columns: 1fr;
+  }
+}
