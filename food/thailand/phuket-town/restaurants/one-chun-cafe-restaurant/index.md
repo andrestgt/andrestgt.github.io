@@ -20,7 +20,9 @@ The cooking isn’t particularly creative or adventurous, but it’s solid and g
 The chicken curry was very good. The fish balls were tasty as well, but felt a little bare, coming simply topped with some garlic and little else in the way of herbs or seasoning. The deep-fried eggs were slightly dry.
 
 <figure>
-  <img src="/photos/thailand/phuket/onechunfood.jpg" alt="Phuket fish balls and chicken curry at One Chun">
+  <a href="/photos/thailand/phuket/onechunfood.jpg" target="_blank">
+    <img src="/photos/thailand/phuket/onechunfood.jpg" alt="Phuket fish balls and chicken curry">
+  </a>
   <figcaption>Phuket Fish Balls and Chicken Curry</figcaption>
 </figure>
 
