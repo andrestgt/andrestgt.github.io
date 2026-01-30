@@ -143,7 +143,12 @@ body.travelogue h2 {
     </nav>
   {% endif %}
 
-  {{ content }}
+ {% if page.section == "travelogue" %}
+  {% include travelogue-nav.html %}
+{% endif %}
+
+{{ content }}
+
 </main>
 
 </body>
