@@ -32,6 +32,8 @@ body_class: travelogue
   <figcaption>Frankfurt Hbf</figcaption>
 </figure>
 
+
+
 ### Day 1–2 | 13.–14.7.  
 **Frankfurt – Dhaka – Bangkok**
 
@@ -68,6 +70,12 @@ For dinner, we went to Cabbages & Condoms on Soi 12, one of Bangkok’s most fam
   <figcaption>Cabbages & Condoms</figcaption>
 </figure>
 
+ <figure>
+    <img src="/photos/thailand/bangkok/Cabbages and Condomsfood.jpg" alt="Food at Cabbages & Condoms">
+    <figcaption>Food at Cabbages & Condoms</figcaption>
+  </figure>
+
+</div>
 
 ## Thailand
 
