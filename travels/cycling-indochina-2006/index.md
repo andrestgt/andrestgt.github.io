@@ -6,7 +6,8 @@ layout: default
 permalink: /travels/cycling-indochina/
 ---
 
-<a id="top"></a>
+<div id="top"></div>
+
 
 ## Contents
 - [Prologue](#prologue)
@@ -17,8 +18,10 @@ permalink: /travels/cycling-indochina/
 - [Epilogue](#epilogue)
 
 
-# Cycling Indochina  
-*Thailand · Laos · Cambodia · Vietnam  — July–September 2006*
+<p class="subtitle">
+  Thailand · Laos · Cambodia · Vietnam — July–September 2006
+</p>
+
 
 ## Prologue
 
