@@ -15,5 +15,22 @@ The name is clearly a reference to Singapore’s Lau Pa Sat, but Lao Pa Sat in P
 
 We had the laksa and the char kway teow, and both were really excellent: rich and well-balanced. Prices are very reasonable and roughly in line with what you’d pay at a hawker centre in Singapore, which makes it good value.
 
-[View on Google Maps](https://maps.app.goo.gl/t1SAXyN9Uz4bYEj46)
+## Ratings
+
+| Category        | Score |
+|-----------------|-------|
+| Food            | 9.5/10  |
+| Authenticity    | 9/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 9/10 |
+
+---
+
+## Practical Information
+
+📍 **Location:** Phuket Town  
+🗺️ **Google Maps:** https://maps.app.goo.gl/t1SAXyN9Uz4bYEj46  
+🍽️ **Cuisine:** Singaporean / Malaysian  
+💰 **Price level:**  200-300 Bt
 
