@@ -30,7 +30,7 @@ body_class: travelogue
 ### Day 1–2 | 13.–14.7.  
 **Frankfurt – Dhaka – Bangkok**
 
-![Frankfurt departure](/photos/germany/frankfurt/frankfurt.jpg)
+![Frankfurt departure](/photos/germany/frankfurt/Frankfurt.jpg
 
 
 When you choose to fly with Biman and save nearly €200, you have to accept that your arrival at your destination will be significantly delayed. We were no exception. When we rocked up at Frankfurt Airport, the departures board already showed our 3:20 PM flight was delayed until 11:45 PM. Luckily, we were able to check in our luggage straight away, and the bikes were accepted with no fuss and no extra charge. Relieved of our baggage, we did the only sensible thing and hopped on the S-Bahn into Frankfurt, which suited me fine as I’d never seen the city before. It was a hot, muggy summer’s day, and most cities look attractive when the weather's good—even Frankfurt. The city’s famous skyline is quite nice to look at from the Main bridges, although in other countries, people would just smile wearily at the handful of skyscrapers. The small old town centre around the Römer is rather pretty, but the city’s real highlight is the Sachsenhausen district south of the river. It’s a lovely area packed with street cafés, pubs, and beer gardens tucked away in cobbled alleys. As a tourist, I couldn’t resist drinking two glasses of Ebbelwoi (apple wine) and eating a portion of Frankfurter sausages there.
