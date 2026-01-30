@@ -1,8 +1,9 @@
 ---
-title: Cycling Indochina
-section: travelogue
-date: 2006-10-31
 layout: default
+title: Cycling Indochina
+body_class: travelogue
+---
+
 ---
 
 <div id="top"></div>
