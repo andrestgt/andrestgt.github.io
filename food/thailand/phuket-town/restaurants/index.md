@@ -7,4 +7,4 @@ title: Phuket Town – Restaurants
 
 - [One Chun Cafe & Restaurant](/food/thailand/phuket-town/restaurants/one-chun-cafe-restaurant/)
 
-
+[Lao Pa Sat (เหล่า ปาสะ)](/food/thailand/phuket-town/restaurants/lao-pa-sat/)
