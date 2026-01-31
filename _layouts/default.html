@@ -280,8 +280,7 @@ body.travels h2 {
     padding: 4rem 1.2rem;
   }
 
-  /* TRAVELS HERO – MOBILE POSITIONING */
-
+   /* TRAVELS HERO – MOBILE POSITIONING */
   body.travels h1 {
     top: 1.5rem;
     left: 1.2rem;
@@ -296,11 +295,15 @@ body.travels h2 {
     margin-top: 7.5rem;
   }
 
+  /* FORCE FOOD HOMEPAGE BACKGROUND */
+  body.food {
+    background: url("/photos/background/food.jpg") center center / cover no-repeat fixed;
+  }
+
 }
 </style>
 
-
-  {% seo %}
+{% seo %}
 </head>
 
 <body class="{{ page.section }}{% if page.homepage %} homepage{% endif %}">
