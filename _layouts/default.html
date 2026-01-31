@@ -18,6 +18,29 @@
   }
 
   /* =========================
+     GLOBAL BACKGROUND LAYER
+     ========================= */
+
+  body.homepage::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image: url("/photos/background/home.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -2;
+  }
+
+  body.homepage::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(255,255,255,0.85);
+    z-index: -1;
+  }
+
+  /* =========================
      BASE LAYOUT
      ========================= */
 
@@ -30,27 +53,11 @@
     background: #fff;
   }
 
-  /* =========================
-     HOMEPAGE BACKGROUND
-     ========================= */
-
   body.homepage {
-    background-image: url("/photos/background/home.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background: transparent;
   }
 
-  body.homepage main {
-    background: rgba(255, 255, 255, 0.92);
-    padding: 2.5rem 2rem;
-    border-radius: 16px;
-  }
-
-  /* =========================
-     HEADINGS
-     ========================= */
+  /* Headings */
 
   h1, h2, h3 {
     font-family: "Inter", system-ui, sans-serif;
@@ -67,6 +74,97 @@
     margin-top: 2.5rem;
     margin-bottom: 1rem;
   }
+
+  /* Navigation */
+
+  nav {
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.8rem;
+    margin-bottom: 2.5rem;
+  }
+
+  nav a {
+    font-family: "Inter", system-ui, sans-serif;
+    font-size: 0.95rem;
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #333;
+  }
+
+  nav a:hover {
+    color: var(--accent);
+  }
+
+  /* Text */
+
+  p {
+    margin: 1.2rem 0;
+  }
+
+  a {
+    color: var(--accent);
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Images */
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5rem auto;
+    border-radius: 6px;
+  }
+
+  figure img {
+    max-width: 66%;
+  }
+
+  figure {
+    text-align: center;
+    margin: 1.5rem auto;
+  }
+
+  figcaption {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 0.4rem;
+  }
+
+  /* Mobile */
+
+  @media (max-width: 600px) {
+    figure img {
+      max-width: 85%;
+    }
+  }
+  </style>
+
+  {% seo %}
+</head>
+
+<body class="{{ page.section }}{% if page.homepage %} homepage{% endif %}">
+
+  <nav>
+    <a href="/">Home</a>
+    <a href="/travels/">Travels</a>
+    <a href="/food/">Food</a>
+    <a href="/about/">About</a>
+  </nav>
+
+  <main id="top">
+    {% if page.section == "travelogue" %}
+      {% include travelogue-nav.html %}
+    {% endif %}
+
+    {{ content }}
+  </main>
+
+</body>
+</html>  }
 
   /* =========================
      NAVIGATION
