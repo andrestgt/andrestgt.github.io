@@ -512,7 +512,7 @@ body.food.thailand.phuket-town.restaurants main * {
 }
 
     
-   /* =====================
+  /* =====================
    MOBILE
    ===================== */
 
@@ -559,20 +559,24 @@ body.food.thailand.phuket-town.restaurants main * {
     margin-top: 7.5rem;
   }
 
-  /* =====================
-     PHUKET TOWN — RESTAURANTS — LAO PA SAT ONLY
-     ===================== */
+ /* =====================
+   PHUKET TOWN — RESTAURANTS — LAO PA SAT ONLY (MOBILE)
+   ===================== */
 
-  body.food.thailand.phuket-town.restaurants main p:nth-of-type(5),
-  body.food.thailand.phuket-town.restaurants main p:nth-of-type(6),
-  body.food.thailand.phuket-town.restaurants main p:nth-of-type(7),
-  body.food.thailand.phuket-town.restaurants main p:nth-of-type(8) {
-    color: #000;
-  }
+/* Lao Pa Sat title */
+body.food.thailand.phuket-town.restaurants main h3:nth-of-type(2) {
+  color: #000;
+}
+
+/* Lao Pa Sat meta, description, link */
+body.food.thailand.phuket-town.restaurants main h3:nth-of-type(2) + p,
+body.food.thailand.phuket-town.restaurants main h3:nth-of-type(2) + p + p,
+body.food.thailand.phuket-town.restaurants main h3:nth-of-type(2) + p + p + p {
+  color: #000;
 }
 
 
-</style>
+  </style>
 
 {% seo %}
 </head>
