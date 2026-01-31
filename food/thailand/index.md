@@ -7,7 +7,7 @@ section: food thailand
 
 # Thailand
 
-Cities covered so far.
+Cities covered 
 
 - [Chiang Mai](/food/thailand/chiang-mai/)
 - [Bangkok](/food/thailand/bangkok/)
