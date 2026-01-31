@@ -213,11 +213,13 @@
    ===================== */
 
 body.travels {
+  position: relative;
   max-width: none;
   margin: 0;
   padding: 0;
   background: url("/photos/background/travelogues.jpg") center center / cover no-repeat fixed;
 }
+
 
 body.travels main {
   max-width: 820px;
@@ -239,6 +241,26 @@ body.travels p,
 body.travels a {
   color: #fff;
   text-shadow: none;
+}
+/* TRAVELS TITLE POSITIONING */
+
+body.travels h1 {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  margin: 0;
+}
+
+body.travels h1 + p {
+  position: absolute;
+  top: 5.5rem;
+  left: 2rem;
+  margin: 0;
+  max-width: 420px;
+}
+
+body.travels main {
+  padding-top: 10rem;
 }
 
 
