@@ -5,7 +5,7 @@ homepage: true
 ---
 
 
-# André Schoch
+# André Mohr
 
 Travel writing, restaurant reviews, and notes from the road.
 
