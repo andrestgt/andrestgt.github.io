@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Chiang Mai – Food & Drink
+title: Chiang Mai
+section: food thailand chiang-mai
 ---
+
 
 # Chiang Mai
 
