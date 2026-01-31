@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Restaurants in Phuket Town
-section: food
+title: Restaurants
+section: food thailand phuket-town restaurants
 ---
+
 
 # Restaurants in Phuket Town
 
