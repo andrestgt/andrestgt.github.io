@@ -7,4 +7,6 @@ title: Phuket Town – Restaurants
 
 - [One Chun Cafe & Restaurant](/food/thailand/phuket-town/restaurants/one-chun-cafe-restaurant/)
 
-[Lao Pa Sat (เหล่า ปาสะ)](/food/thailand/phuket-town/restaurants/lao-pa-sat/)
+- [Lao Pa Sat (เหล่า ปาสะ)](/food/thailand/phuket-town/restaurants/lao-pa-sat/)
+
+- [Xi Mian Chinese Noodles](/food/thailand/phuket-town/restaurants/xi-mian-chinese-noodles/)
