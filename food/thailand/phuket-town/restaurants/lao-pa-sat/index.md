@@ -32,7 +32,7 @@ Prices are very reasonable and roughly in line with what you’d pay at a hawker
 
 ### Practical
 
-🗺️ **Google Maps:** https://maps.app.goo.gl/t1SAXyN9Uz4bYEj46  
+🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/t1SAXyN9Uz4bYEj46)
 
 🍽️ **Cuisine:** Singaporean / Malaysian  
 
