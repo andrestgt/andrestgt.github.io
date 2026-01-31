@@ -222,7 +222,7 @@ body.travels h2 {
       text-shadow: 0 2px 12px rgba(0,0,0,0.45);
     }
 
-   /* ABOUT PAGE PHOTOS */
+  /* ABOUT PAGE PHOTOS */
 
 .about-photos {
   margin-top: 2.5rem;
@@ -231,13 +231,15 @@ body.travels h2 {
   justify-content: center;
 }
 
-.about-photos figure img {
-  max-width: 100%;
+.about-photos img {
+  width: 270px;
+  height: auto;
+  display: block;
 }
 
-
+/* 🔑 override global figure rule */
 .about-photos figure img {
-  max-width: 100%; /* override global figure rule */
+  max-width: none;
 }
 
 .about-photos figure {
