@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Home
+homepage: true
 ---
+
 
 # André Schoch
 
