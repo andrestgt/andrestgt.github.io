@@ -46,7 +46,8 @@ They serve good coffee at reasonable prices, and the atmosphere makes it an exce
 
 ### Practical
 
-🗺️ **Google Maps:** https://maps.app.goo.gl/dHeUPeAp1URXKatC7
+🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/ESTAg6DcKnwWSFrv5)
+
 
 ☕ **Type:** Café
 
