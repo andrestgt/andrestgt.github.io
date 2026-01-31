@@ -4,8 +4,6 @@ title: Travelogues
 section: travels
 ---
 
----
-
 # Travelogues
 
 Long-form travel writing, organised by journey and country.
@@ -14,4 +12,3 @@ Long-form travel writing, organised by journey and country.
 Thailand · Laos · Cambodia · Vietnam
 
 → [Read the full travelogue](/travels/cycling-indochina-2006/)
-
