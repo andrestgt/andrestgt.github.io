@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Phuket Town – Food & Drink
+title: Phuket Town
+section: food thailand phuket-town
 ---
+
 
 # Phuket Town
 
