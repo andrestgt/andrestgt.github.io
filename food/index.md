@@ -10,5 +10,5 @@ section: food
 
 Countries covered so far.
 
-## Thailand
+
 - [Thailand](/food/thailand/)
