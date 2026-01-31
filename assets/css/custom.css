@@ -89,7 +89,7 @@ body.travelogue .photo-row img {
    ========================= */
 
 body.homepage {
-  background-image: url("/photos/site/home.jpg");
+  background-image: url("/photos/background/home.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
