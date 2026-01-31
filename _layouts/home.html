@@ -27,20 +27,31 @@
     }
 
     /* =====================
-       PAGE LAYOUT
+       PAGE STRUCTURE
        ===================== */
 
     .page {
       min-height: 100vh;
       display: flex;
       flex-direction: column;
-      justify-content: center;
     }
 
-    .content {
+    /* Top content (name + tagline) */
+    .top {
       max-width: 820px;
       margin: 0 auto;
-      padding: 4rem 1.5rem;
+      padding: 4rem 1.5rem 2rem;
+    }
+
+    /* Bottom navigation */
+    .bottom {
+      margin-top: auto;              /* pushes this block down */
+      padding: 6rem 1.5rem 3rem;     /* controls how low it sits */
+    }
+
+    .bottom-inner {
+      max-width: 820px;
+      margin: 0 auto;
     }
 
     /* =====================
@@ -56,8 +67,8 @@
 
     p {
       color: #ffffff;
-      text-shadow: 0 2px 14px rgba(0,0,0,0.55);
       margin: 1.2rem 0;
+      text-shadow: 0 2px 14px rgba(0,0,0,0.55);
     }
 
     /* =====================
@@ -68,6 +79,7 @@
       color: #ff3b3b;
       text-decoration: none;
       font-family: "Inter", system-ui, sans-serif;
+      font-weight: 600;
     }
 
     a:hover {
@@ -75,17 +87,13 @@
     }
 
     /* =====================
-       NAVIGATION (LOWER HALF)
+       LOWER NAVIGATION
        ===================== */
 
-    nav {
-      margin-top: 4rem; /* pushes it down */
-    }
-
     nav a {
-      margin-right: 1.5rem;
-      font-size: 1rem;
-      font-weight: 600;
+      display: block;
+      margin: 0.6rem 0;
+      font-size: 1.05rem;
     }
 
     /* =====================
@@ -93,12 +101,12 @@
        ===================== */
 
     @media (max-width: 600px) {
-      .content {
-        padding: 3rem 1.2rem;
+      .top {
+        padding: 3rem 1.2rem 1.5rem;
       }
 
-      nav {
-        margin-top: 3rem;
+      .bottom {
+        padding: 4rem 1.2rem 2.5rem;
       }
     }
   </style>
@@ -109,17 +117,26 @@
 <body>
 
   <div class="page">
-    <div class="content">
 
+    <!-- TOP: Name + tagline (unchanged position) -->
+    <div class="top">
       {{ content }}
-
-      <nav>
-        <a href="/travels/">Travels</a>
-        <a href="/food/">Food</a>
-        <a href="/about/">About</a>
-      </nav>
-
     </div>
+
+    <!-- BOTTOM: Navigation links -->
+    <div class="bottom">
+      <div class="bottom-inner">
+        <nav>
+          <a href="/food/">Food</a>
+          <a href="/food/">Restaurant reviews by place</a>
+          <a href="/travels/">Travels</a>
+          <a href="/travels/">Travel writing</a>
+          <a href="/about/">About</a>
+          <a href="/about/">About this site</a>
+        </nav>
+      </div>
+    </div>
+
   </div>
 
 </body>
