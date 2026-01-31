@@ -222,7 +222,7 @@ body.travels h2 {
       text-shadow: 0 2px 12px rgba(0,0,0,0.45);
     }
 
-    /* ABOUT PAGE PHOTOS */
+   /* ABOUT PAGE PHOTOS */
 
 .about-photos {
   margin-top: 2.5rem;
@@ -232,9 +232,27 @@ body.travels h2 {
 }
 
 .about-photos img {
-  max-width: 180px;
+  max-width: 270px; /* desktop size */
   height: auto;
 }
+
+.about-photos figure img {
+  max-width: 100%; /* override global figure rule */
+}
+
+.about-photos figure {
+  margin: 0;
+  text-align: center;
+}
+
+.about-photos figcaption {
+  margin-top: 0.4rem;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+
 
   /* =====================
    MOBILE
