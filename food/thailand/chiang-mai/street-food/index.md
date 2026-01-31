@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Chiang Mai – Street Food & Basic Eateries
+title: Basic eateries
+section: food thailand chiang-mai basic
 ---
+
 
 # Street food & basic eateries (Chiang Mai)
 
