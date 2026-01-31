@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Thailand – Food & Drink
+title: Thailand
+section: food thailand
 ---
+
 
 # Thailand
 
