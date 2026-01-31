@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Food
-background: /photos/background/food.jpg
 ---
 
 
