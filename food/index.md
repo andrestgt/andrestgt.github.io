@@ -4,11 +4,23 @@ title: Food
 section: food
 ---
 
-
-
 # Food
 
-Countries covered
+Countries covered so far.
 
+## Asia
 
 - [Thailand](/food/thailand/)
+- [Vietnam](/food/vietnam/)
+- [Philippines](/food/philippines/)
+- [Malaysia](/food/malaysia/)
+- [Indonesia](/food/indonesia/)
+- [Laos](/food/laos/)
+
+## Europe
+
+- [Germany](/food/germany/)
+- [France](/food/france/)
+- [Spain](/food/spain/)
+- [Portugal](/food/portugal/)
+- [Greece](/food/greece/)
