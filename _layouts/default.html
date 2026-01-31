@@ -272,6 +272,25 @@ body.food nav {
   border-bottom: none;
 }
 
+    /* =====================
+   FOOD HOMEPAGE CENTERING
+   ===================== */
+
+body.food {
+  min-height: 100vh;
+  position: relative;
+}
+
+body.food main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 820px;
+  width: 100%;
+  padding: 0 1.5rem;
+}
+
   /* =====================
    MOBILE
    ===================== */
@@ -307,13 +326,13 @@ body.food nav {
     left: 1.2rem;
   }
 
-  body.travels h2 {
+ body.travels h2 {
     margin-top: 7.5rem;
   }
 
   
 
-}
+
 </style>
 
 {% seo %}
