@@ -560,6 +560,20 @@ body.food.thailand.phuket-town.restaurants main * {
   }
 }
 
+    /* =====================
+   PHUKET TOWN — RESTAURANTS — MOBILE ALTERNATION
+   ===================== */
+
+/* Each restaurant = 4 paragraphs
+   Even restaurants (2, 4, 6…) → black */
+
+body.food.thailand.phuket-town.restaurants main p:nth-of-type(8n+5),
+body.food.thailand.phuket-town.restaurants main p:nth-of-type(8n+6),
+body.food.thailand.phuket-town.restaurants main p:nth-of-type(8n+7),
+body.food.thailand.phuket-town.restaurants main p:nth-of-type(8n+8) {
+  color: #000;
+}
+
 </style>
 
 {% seo %}
