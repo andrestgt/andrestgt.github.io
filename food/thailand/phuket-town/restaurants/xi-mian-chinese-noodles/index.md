@@ -44,7 +44,7 @@ The space is modern, very clean and nicely decorated, and the food presentation 
 
 ### Practical
 
-🗺️ **Google Maps:** https://maps.app.goo.gl/ESTAg6DcKnwWSFrv5  
+🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/ESTAg6DcKnwWSFrv5)
 
 🍜 **Cuisine:** Chinese (handmade noodles, dumplings)  
 
