@@ -28,7 +28,7 @@ body_class: travelogue
 ## Prologue
 
 <figure>
-  <a href="/photos/germany/frankfurt/Frankfurt.jpg" target="_blank">
+  <a href="/photos/germany/frankfurt/Frankfurt.jpg" target="_blank" rel="noopener">
     <img src="/photos/germany/frankfurt/Frankfurt.jpg" alt="Frankfurt departure">
   </a>
   <figcaption>Frankfurt Hbf</figcaption>
