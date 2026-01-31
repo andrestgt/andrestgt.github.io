@@ -1,8 +1,20 @@
 ---
 layout: default
-title: Phuket Town – Cafés
+title: Cafés in Phuket Town
+section: food
 ---
 
-# Cafés (Phuket Town)
+# Cafés in Phuket Town
 
-Coming soon.
+Cafés worth stopping at in and around Phuket Town.
+
+---
+
+## Origami Café
+*Near Bus Station*
+
+A beautifully decorated café away from the Old Town crowds, with characterful interiors and good coffee at reasonable prices.
+
+→ [Read the full review](/food/thailand/phuket-town/cafes/origami-cafe/)
+
+
