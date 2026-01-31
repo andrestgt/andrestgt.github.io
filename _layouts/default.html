@@ -13,12 +13,13 @@
   <style>
   :root {
     --accent: #1a4fd8;
-    --accent-soft: #e8edff;
     --text-muted: #666;
     --rule: #e5e5e5;
   }
 
-  /* Base layout */
+  /* =========================
+     BASE LAYOUT
+     ========================= */
 
   body {
     font-family: "Source Serif 4", Georgia, serif;
@@ -29,7 +30,27 @@
     background: #fff;
   }
 
-  /* Headings */
+  /* =========================
+     HOMEPAGE BACKGROUND
+     ========================= */
+
+  body.homepage {
+    background-image: url("/photos/background/home.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  body.homepage main {
+    background: rgba(255, 255, 255, 0.92);
+    padding: 2.5rem 2rem;
+    border-radius: 16px;
+  }
+
+  /* =========================
+     HEADINGS
+     ========================= */
 
   h1, h2, h3 {
     font-family: "Inter", system-ui, sans-serif;
@@ -47,7 +68,9 @@
     margin-bottom: 1rem;
   }
 
-  /* Navigation */
+  /* =========================
+     NAVIGATION
+     ========================= */
 
   nav {
     border-bottom: 1px solid var(--rule);
@@ -67,6 +90,126 @@
     color: var(--accent);
   }
 
+  /* =========================
+     TEXT
+     ========================= */
+
+  p {
+    margin: 1.2rem 0;
+  }
+
+  a {
+    color: var(--accent);
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* =========================
+     IMAGES
+     ========================= */
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5rem auto;
+    border-radius: 6px;
+  }
+
+  figure img {
+    max-width: 66%;
+  }
+
+  figure {
+    text-align: center;
+    margin: 1.5rem auto;
+  }
+
+  figcaption {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 0.4rem;
+  }
+
+  /* =========================
+     TRAVELOGUE ONLY
+     ========================= */
+
+  body.travelogue {
+    font-size: 1.05rem;
+  }
+
+  body.travelogue p {
+    margin: 1.4rem 0;
+  }
+
+  /* Country blocks */
+
+  body.travelogue .country {
+    margin: 3rem 0;
+    padding: 1.6rem 1.8rem;
+    border-radius: 12px;
+  }
+
+  body.travelogue .country.thailand {
+    background: #fff3e0;
+    border-left: 6px solid #f4a261;
+  }
+
+  body.travelogue .country.laos {
+    background: #eef7f1;
+    border-left: 6px solid #2a9d8f;
+  }
+
+  body.travelogue .country.cambodia {
+    background: #fbeaea;
+    border-left: 6px solid #c44536;
+  }
+
+  body.travelogue .country.vietnam {
+    background: #eef3fb;
+    border-left: 6px solid #3a5bdc;
+  }
+
+  /* =========================
+     MOBILE
+     ========================= */
+
+  @media (max-width: 600px) {
+    figure img {
+      max-width: 85%;
+    }
+
+    body.homepage main {
+      padding: 2rem 1.5rem;
+    }
+  }
+  </style>
+
+  {% seo %}
+</head>
+
+<body class="{{ page.section }}{% if page.homepage %} homepage{% endif %}">
+
+  <nav>
+    <a href="/">Home</a>
+    <a href="/travels/">Travels</a>
+    <a href="/food/">Food</a>
+    <a href="/about/">About</a>
+  </nav>
+
+  <main id="top">
+    {% if page.section == "travelogue" %}
+      {% include travelogue-nav.html %}
+    {% endif %}
+
+    {{ content }}
+  </main>
+
+</body>
+</html>
   /* Text */
 
   p {
