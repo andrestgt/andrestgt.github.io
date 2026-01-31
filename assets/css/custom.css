@@ -83,3 +83,22 @@ body.travelogue .photo-row img {
     grid-template-columns: 1fr;
   }
 }
+
+/* =========================
+   HOMEPAGE BACKGROUND
+   ========================= */
+
+body.homepage {
+  background-image: url("/photos/site/home.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* Make homepage text readable */
+body.homepage main {
+  background: rgba(255, 255, 255, 0.88);
+  padding: 3rem;
+  border-radius: 14px;
+}
+
