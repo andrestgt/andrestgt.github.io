@@ -5,15 +5,6 @@ section: food
 ---
 
 ## Xi Mian Chinese Noodles
-*Phuket Old Town · Chinese · Restaurant*
-
----
-layout: default
-title: Xi Mian Chinese Noodles
-section: food
----
-
-## Xi Mian Chinese Noodles
 *Phuket Old Town · Chinese · Noodles · Restaurant*
 
 <figure>
@@ -46,16 +37,15 @@ The space is modern, very clean and nicely decorated, and the food presentation 
 | Category        | Score |
 |-----------------|-------|
 | Food            | 8/10  |
-| Service         | 8/10 |
-| Value for money | 8/10 |
+| Service         | 8/10  |
+| Value for money | 8/10  |
 | Atmosphere      | 8/10  |
 | Overall         | 8/10  |
 
 ### Practical
 
-🗺️ **Google Maps:** *(https://maps.app.goo.gl/ESTAg6DcKnwWSFrv5)*
+🗺️ **Google Maps:** https://maps.app.goo.gl/ESTAg6DcKnwWSFrv5
 
 🍜 **Cuisine:** Chinese (handmade noodles, dumplings)
 
-💰 **Price level:** 150-300 Bt
-
+💰 **Price level:** 150–300 Bt
