@@ -23,30 +23,36 @@
       color: #ffffff;
     }
 
+    h1, h2 {
+      font-family: "Inter", system-ui, sans-serif;
+      letter-spacing: -0.01em;
+      margin: 0;
+    }
+
+    p {
+      margin: 0;
+    }
+
     a {
-      color: #ff3b3b;
+      color: #ff2d2d; /* bright red links */
       text-decoration: none;
+      font-family: "Inter", system-ui, sans-serif;
+      font-weight: 600;
     }
 
     a:hover {
       text-decoration: underline;
     }
 
-    h1, h2 {
-      font-family: "Inter", system-ui, sans-serif;
-      margin: 0;
-    }
-
     /* =====================
-       LAYOUT STRUCTURE
+       PAGE STRUCTURE
        ===================== */
 
     .page {
       min-height: 100vh;
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
-      padding: 4rem 1.5rem 3rem;
+      padding: 4rem 1.5rem;
     }
 
     /* =====================
@@ -70,19 +76,30 @@
     }
 
     /* =====================
-       BOTTOM NAV
+       LOWER HALF
        ===================== */
 
-    .bottom-nav {
+    .lower {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       text-align: center;
-      font-family: "Inter", system-ui, sans-serif;
-      font-size: 1rem;
-      margin-top: 6rem;
     }
 
-    .bottom-nav a {
-      margin: 0 1rem;
+    .sections {
+      font-family: "Inter", system-ui, sans-serif;
+    }
+
+    .section {
+      margin: 2.8rem 0;
+    }
+
+    .section h2 {
+      font-size: 1.2rem;
       font-weight: 600;
+      margin-bottom: 0.6rem;
+      color: #ffffff;
     }
 
     /* =====================
@@ -94,8 +111,12 @@
         font-size: 2rem;
       }
 
-      .bottom-nav {
-        font-size: 0.95rem;
+      .hero p {
+        font-size: 1rem;
+      }
+
+      .section {
+        margin: 2.2rem 0;
       }
     }
   </style>
@@ -108,17 +129,29 @@
     <!-- TOP -->
     <div class="hero">
       <h1>André Mohr</h1>
-      <p>
-        Travel writing, restaurant reviews, and notes from the road
-      </p>
+      <p>Travel writing, restaurant reviews, and notes from the road</p>
     </div>
 
-    <!-- BOTTOM -->
-    <div class="bottom-nav">
-      <a href="/">Home</a>
-      <a href="/travels/">Travels</a>
-      <a href="/food/">Food</a>
-      <a href="/about/">About</a>
+    <!-- LOWER HALF -->
+    <div class="lower">
+      <div class="sections">
+
+        <div class="section">
+          <h2>Food</h2>
+          <a href="/food/">Restaurant Reviews by Place</a>
+        </div>
+
+        <div class="section">
+          <h2>Travels</h2>
+          <a href="/travels/">Travel Writing</a>
+        </div>
+
+        <div class="section">
+          <h2>About</h2>
+          <a href="/about/">About this site</a>
+        </div>
+
+      </div>
     </div>
 
   </div>
