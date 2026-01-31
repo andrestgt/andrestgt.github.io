@@ -158,7 +158,8 @@
   {% seo %}
 </head>
 
-<body class="{{ page.body_class }}">
+<body class="{{ page.section }}{% if page.homepage %} homepage{% endif %}">
+
 
   <nav>
     <a href="/">Home</a>
