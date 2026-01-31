@@ -27,8 +27,13 @@
       margin: 3rem auto;
       padding: 0 1rem;
       line-height: 1.7;
-      background: #fff;
       color: #111;
+    }
+
+    body[style*="background-image"] main {
+      background: rgba(255, 255, 255, 0.92);
+      padding: 2rem;
+      border-radius: 12px;
     }
 
     h1, h2, h3 {
@@ -96,69 +101,3 @@
     }
 
     /* =====================
-       TRAVELOGUE ONLY
-       ===================== */
-
-    body.travelogue {
-      font-size: 1.05rem;
-    }
-
-    body.travelogue .country {
-      margin: 3rem 0;
-      padding: 1.6rem 1.8rem;
-      border-radius: 12px;
-    }
-
-    body.travelogue .country.thailand {
-      background: #fff3e0;
-      border-left: 6px solid #f4a261;
-    }
-
-    body.travelogue .country.laos {
-      background: #eef7f1;
-      border-left: 6px solid #2a9d8f;
-    }
-
-    body.travelogue .country.cambodia {
-      background: #fbeaea;
-      border-left: 6px solid #c44536;
-    }
-
-    body.travelogue .country.vietnam {
-      background: #eef3fb;
-      border-left: 6px solid #3a5bdc;
-    }
-
-    /* =====================
-       MOBILE
-       ===================== */
-
-    @media (max-width: 600px) {
-      figure img {
-        max-width: 85%;
-      }
-    }
-  </style>
-
-  {% seo %}
-</head>
-
-<body class="{{ page.section }}">
-
-  <nav>
-    <a href="/">Home</a>
-    <a href="/travels/">Travels</a>
-    <a href="/food/">Food</a>
-    <a href="/about/">About</a>
-  </nav>
-
-  <main id="top">
-    {% if page.section == "travelogue" %}
-      {% include travelogue-nav.html %}
-    {% endif %}
-
-    {{ content }}
-  </main>
-
-</body>
-</html>
