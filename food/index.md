@@ -8,7 +8,7 @@ section: food
 
 # Food
 
-Countries covered so far.
+Countries covered
 
 
 - [Thailand](/food/thailand/)
