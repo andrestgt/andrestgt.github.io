@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Travelogues
+section: travels
+---
+
 ---
 
 # Travelogues
