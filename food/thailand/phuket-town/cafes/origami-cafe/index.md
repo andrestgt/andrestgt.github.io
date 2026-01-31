@@ -5,27 +5,49 @@ section: food
 ---
 
 ## Origami Café
-*Near Bus Station · Café*
+*Phuket Town · Café*
 
-Origami is not in the Old Town, but in a rather drab location near the bus station. That might not sound inviting, but it’s worth the short walk. Inside, the café is beautifully decorated and very different from the modern, chic but often uncomfortable hipster cafés in the old town.
+<figure>
+  <a href="/photos/thailand/phuket/origamiinterior.jpg" target="_blank">
+    <img src="/photos/thailand/phuket/origamiinterior.jpg" alt="Origami Café interior">
+  </a>
+  <figcaption>Origami Café interior</figcaption>
+</figure>
 
-The interior is more ornate, with old ceramics and vases, small tables, and a lot of character. It feels genuinely cosy and lived-in rather than designed for Instagram.
+Origami is not located in Phuket Old Town, but in a rather drab area near the bus station. That might not sound particularly inviting, but it’s well worth the short walk. Inside, the café is beautifully decorated and very different from the modern, chic but often uncomfortable hipster cafés in the Old Town.
 
-They serve good coffee at reasonable prices, and the space is genuinely pleasant to sit in. Even if you’re not catching a bus, Origami is well worth seeking out for a proper coffee break away from the usual Old Town crowd.
+The interior feels more ornate and personal, with old ceramics, vases, small tables, and a lot of character. It’s a genuinely pleasant place to sit, calm and relaxed rather than trendy.
+
+They serve good coffee at reasonable prices, and the atmosphere makes it an excellent spot for a proper break. Even if you’re not catching a bus, Origami is worth seeking out as a quieter alternative to the often crowded cafés in the Old Town.
+
+<figure>
+  <a href="/photos/thailand/phuket/origami1.jpg" target="_blank">
+    <img src="/photos/thailand/phuket/origami1.jpg" alt="Coffee at Origami Café">
+  </a>
+  <figcaption>Coffee at Origami Café</figcaption>
+</figure>
+
+<figure>
+  <a href="/photos/thailand/phuket/origami2.jpg" target="_blank">
+    <img src="/photos/thailand/phuket/origami2.jpg" alt="Interior details at Origami Café">
+  </a>
+  <figcaption>Interior details</figcaption>
+</figure>
 
 ## Ratings
 
 | Category        | Score |
 |-----------------|-------|
 | Coffee          | 8/10  |
+| Service         | 8/10  |
 | Value for money | 8/10  |
 | Atmosphere      | 9/10  |
 | Overall         | 8.5/10 |
 
 ### Practical
 
-🗺️ **Google Maps:** https://maps.app.goo.gl/dHeUPeAp1URXKatC7  
+🗺️ **Google Maps:** https://maps.app.goo.gl/dHeUPeAp1URXKatC7
 
-☕ **Type:** Café  
+☕ **Type:** Café
 
-💰 **Price level:** 60–120 Bt
+💰 **Price level:** Moderate
