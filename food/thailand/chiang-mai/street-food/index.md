@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Basic eateries
-section: food thailand chiang-mai basic
+category: true
+slug: basic-eateries
 ---
 
 
