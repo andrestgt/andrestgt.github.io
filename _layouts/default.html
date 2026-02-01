@@ -317,11 +317,6 @@ body.food.food-city.phuket-town a:hover {
   text-decoration: underline;
 }
 
-  /* FOOD — PHUKET TOWN / RESTAURANTS: force black content */
-body.food.food-category.restaurants.phuket-town main,
-body.food.food-category.restaurants.phuket-town main * {
-  color: #111 !important;
-}
     
     /* GLOBAL — remove all divider lines site-wide */
 h1,
@@ -330,16 +325,19 @@ nav,
 hr {
   border: none;
 }  
-   
+  
     /* DESKTOP — show full background image (no cropping) */
 @media (min-width: 1024px) {
-  body.food.food-country,
-  body.food.food-city,
-  body.food.food-category {
-    background-size: contain;
+  body.food.food-category.cafes,
+  body.food.food-category.restaurants {
+    background-size: contain !important;
     background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
   }
 }
+
+
 
     /* =====================================================
        MOBILE
