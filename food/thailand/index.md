@@ -1,7 +1,8 @@
 ---
 layout: default
 section: food
-index: true
+country: true
+slug: thailand
 ---
 
 
