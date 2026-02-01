@@ -16,17 +16,18 @@
       --text-muted: #666;
       --rule: #e5e5e5;
       --content-max: 820px;
-      --hero-min-height: 56vh;         /* mobile default */
-      --hero-desktop-height: 82vh;     /* desktop target (more page-filling) */
+      --hero-mobile-height: 56vh;
+      --hero-desktop-height: 100vh; /* now full viewport on desktop */
       --hero-overlay: rgba(0,0,0,0.35);
       --hero-overlay-strong: rgba(0,0,0,0.52);
+      --read-full-blue: #1a4fd8;
     }
 
-    /* ---------------------------
-       BASE
-       --------------------------- */
-
     html,body { height: 100%; }
+
+    /* ---------------------------
+       GLOBAL BASE
+       --------------------------- */
 
     body {
       font-family: "Source Serif 4", Georgia, serif;
@@ -69,7 +70,6 @@
       color: #333;
     }
 
-    /* main content wrapper for consistent width/positioning */
     main#top {
       max-width: var(--content-max);
       margin: 0 auto;
@@ -82,33 +82,37 @@
     hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
 
     /* ---------------------------
-       FOOD: base
-       --------------------------- */
-
-    body.food { /* no background by default */ }
-
-    /* ---------------------------
        HERO / BACKGROUND LAYOUT
+       - full-bleed hero (spans viewport width)
+       - hero-inner is centered and constrained to content width
        --------------------------- */
 
     .site-hero {
       position: relative;
-      width: 100%;
-      min-height: var(--hero-min-height);
+      /* full-bleed trick: make the element span the viewport even though it sits inside a constrained container */
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      width: 100vw;
+
+      /* height controlled by media queries */
+      min-height: var(--hero-mobile-height);
+
       display: flex;
       align-items: center;
       justify-content: flex-start;
       box-sizing: border-box;
       overflow: hidden;
       color: #fff;
-      background-color: #000; /* fallback */
+      background-color: #000;
       background-position: center center;
       background-repeat: no-repeat;
-      background-size: cover;          /* IMPORTANT: cover prevents distortion */
-      background-attachment: scroll;   /* avoid fixed for mobile */
+      background-size: cover;        /* prevents distortion; crops instead */
+      background-attachment: scroll; /* avoid fixed for mobile */
+      z-index: 10;
     }
 
-    /* overlay for legibility */
     .site-hero::before {
       content: "";
       position: absolute;
@@ -128,7 +132,7 @@
       box-sizing: border-box;
     }
 
-    /* nav floats on hero pages */
+    /* when hero present, nav floats on top */
     body.food .site-hero nav,
     body.travels.index .site-hero nav {
       position: absolute;
@@ -158,7 +162,7 @@
       z-index: 20;
     }
 
-    /* restaurant review pages keep non-hero layout */
+    /* restaurant review pages keep non-hero layout (locked) */
     body.food.food-review {
       background: #fff !important;
       color: #111 !important;
@@ -172,24 +176,20 @@
     body.food.food-review main { position: static !important; transform: none !important; padding: 0; }
 
     /* ---------------------------
-       PER-PAGE HERO IMAGE ASSIGNMENTS
+       PER-PAGE HERO IMAGES
+       (assign by body classes)
        --------------------------- */
 
-    body.food.index .site-hero {
-      background-image: url("/photos/background/food.jpg");
-      min-height: var(--hero-min-height);
-    }
-
+    body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: var(--hero-mobile-height); }
     body.food.food-country.thailand .site-hero       { background-image: url("/photos/background/foodthailand.jpg"); }
     body.food.food-city.chiang-mai .site-hero        { background-image: url("/photos/background/foodthaicm.png"); }
     body.food.food-city.phuket-town .site-hero       { background-image: url("/photos/background/foodthaipt.jpg"); }
     body.food.food-category.basic-eateries .site-hero{ background-image: url("/photos/background/cmbasic.jpg"); }
     body.food.food-category.restaurants .site-hero   { background-image: url("/photos/background/ptrestaurants.jpg"); }
     body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
+    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-mobile-height); }
 
-    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-min-height); }
-
-    /* Default hero text/link colour */
+    /* default hero text/link colour */
     body.food.food-country .hero-inner,
     body.food.food-city .hero-inner,
     body.food.food-category .hero-inner,
@@ -206,39 +206,21 @@
       color: #fff;
     }
 
-    /* Phuket restaurants — keep the previously requested contrast switch behaviour */
-    @media (max-width: 900px) {
-      body.food.food-city.phuket-town.food-category.restaurants main,
-      body.food.food-city.phuket-town.food-category.restaurants .page-body {
-        color: #111 !important;
-      }
-      body.food.food-city.phuket-town.food-category.restaurants .page-body a { color: #000 !important; }
-    }
-    @media (min-width: 901px) {
-      body.food.food-city.phuket-town.food-category.restaurants .hero-inner,
-      body.food.food-city.phuket-town.food-category.restaurants .page-body {
-        color: #fff !important;
-      }
-      body.food.food-city.phuket-town.food-category.restaurants .page-body a { color: #fff !important; }
-    }
-
     /* ---------------------------
-       REMOVE LINES / FRAMES INSIDE HERO (your request)
-       Targets only elements that sit inside the hero so non-hero pages keep their dividers.
+       REMOVE LINES / FRAMES INSIDE HERO
+       (targets only hero children — leaves non-hero pages' dividers intact)
        --------------------------- */
 
-    /* remove borders, outlines and shadows for anything inside the hero */
     .site-hero *,
     .site-hero *::before,
     .site-hero *::after {
       border: none !important;
       box-shadow: none !important;
       outline: none !important;
-      background-image: none !important; /* prevents accidental framed backgrounds */
+      background-image: none !important;
       background-color: transparent !important;
     }
 
-    /* ensure headings inside hero have no divider line */
     .site-hero h1,
     .site-hero h2,
     .site-hero h3 {
@@ -248,14 +230,12 @@
       background: transparent !important;
     }
 
-    /* ensure nav inside hero has no divider or background */
     .site-hero nav {
       border: none !important;
       background: transparent !important;
       box-shadow: none !important;
     }
 
-    /* remove figure/figcaption frames inside hero */
     .site-hero figure, .site-hero figcaption {
       border: none !important;
       box-shadow: none !important;
@@ -264,20 +244,22 @@
     }
 
     /* ---------------------------
-       DESKTOP: make hero more page-filling vertically
+       DESKTOP (make hero fill page)
+       - hero spans full viewport width (already done with full-bleed trick)
+       - use full viewport height for stronger desktop presence
+       - tighten hero-inner so background area is more visible
        --------------------------- */
 
     @media (min-width: 1024px) {
       .site-hero {
-        min-height: var(--hero-desktop-height); /* larger vertical footprint on desktop */
-        background-size: cover;                 /* keep cover */
+        min-height: var(--hero-desktop-height); /* now 100vh */
+        background-size: cover;
         background-position: center center;
       }
 
-      /* slightly reduce hero-inner width so the visual background area is more visible horizontally */
-      .hero-inner { max-width: 760px; padding-left: 3rem; padding-right: 3rem; }
+      /* narrow the hero-inner slightly so the image shows more */
+      .hero-inner { max-width: 720px; padding-left: 3rem; padding-right: 3rem; }
 
-      /* content below hero keeps a comfortable gap */
       .page-body { margin-top: 2rem; }
     }
 
@@ -287,33 +269,31 @@
 
     @media (max-width: 600px) {
       body { margin: 0; padding: 0; }
-      .site-hero { min-height: 44vh; }
+      .site-hero { min-height: 44vh; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; }
       .hero-inner { padding: 1.6rem; }
       nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
       main#top { padding-top: 1rem; }
       .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
     }
+
+    /* ---------------------------
+       "Read the full review" link styling
+       - default style for read-full class
+       - JS (below) will add .read-full to links that match the phrase
+       --------------------------- */
+
+    a.read-full {
+      color: var(--read-full-blue) !important;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    a.read-full:hover {
+      text-decoration: underline;
+    }
+
   </style>
 
   {% seo %}
-
-  {% if page.section == "food" and page.city == "phuket-town" and page.category == "restaurants" %}
-  <style>
-    @media (max-width: 900px) {
-      main, main p, main li, main h1, main h2, main h3, main span, main div {
-        color: #111 !important;
-      }
-      main a { color: #000 !important; }
-    }
-    @media (min-width: 901px) {
-      main, main p, main li, main h1, main h2, main h3, main span, main div {
-        color: #fff !important;
-      }
-      main a { color: #fff !important; }
-    }
-  </style>
-  {% endif %}
-
 </head>
 
 <body class="
@@ -326,8 +306,9 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- HERO wrapper -->
+  <!-- HERO wrapper (full-bleed) -->
   <header class="site-hero" role="banner" aria-label="Page hero">
+    <!-- navigation floats above hero -->
     <nav>
       <a href="/">Home</a>
       <a href="/travels/">Travels</a>
@@ -345,9 +326,54 @@
     </div>
   </header>
 
+  <!-- main content -->
   <main id="top" class="page-body" role="main">
     {{ content }}
   </main>
+
+  <!-- Tiny script: detect "Read the full review" links and add .read-full class on restaurant & cafe landing pages -->
+  <script>
+    (function () {
+      // run only on categories landing pages for restaurants or cafes
+      var body = document.body;
+      if (!body) return;
+
+      var hasCategory = body.classList.contains('food-category');
+      var isRestaurants = body.classList.contains('restaurants') || body.classList.contains('food-category') && body.classList.contains('food-city') && body.classList.contains('phuket-town') && false;
+      // better to check the specific class combos:
+      var isRestaurantsLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('restaurants') || body.className.indexOf('restaurants') !== -1);
+      var isCafesLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('cafes') || body.className.indexOf('cafes') !== -1);
+
+      if (!(isRestaurantsLanding || isCafesLanding)) {
+        // Do nothing unless on a restaurants or cafes landing page
+        return;
+      }
+
+      // Normalize and match anchor text to identify the "read the full review" links.
+      var anchors = Array.prototype.slice.call(document.querySelectorAll('a'));
+      anchors.forEach(function(a){
+        if (!a || !a.textContent) return;
+        var txt = a.textContent.trim().toLowerCase();
+
+        // match a few reasonable variants of the phrase
+        var matches = [
+          'read the full review',
+          'read full review',
+          'read the review',
+          'read review',
+          'read the full article',
+          'read more'
+        ];
+
+        for (var i=0;i<matches.length;i++){
+          if (txt === matches[i] || txt.indexOf(matches[i]) !== -1) {
+            a.classList.add('read-full');
+            break;
+          }
+        }
+      });
+    })();
+  </script>
 
 </body>
 </html>
