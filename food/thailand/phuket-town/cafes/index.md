@@ -4,9 +4,8 @@ section: food
 country: thailand
 city: phuket-town
 category: cafes
-slug: cafes
+slug: cafes phuket-town
 ---
-
 
 # Cafés in Phuket Town
 
