@@ -1,8 +1,10 @@
 ---
 layout: default
 title: One Chun Cafe & Restaurant
-section: food
+section: food thailand phuket-town
+review: true
 ---
+
 
 ## One Chun Cafe & Restaurant
 *Phuket Old Town · Southern Thai · Restaurant*
