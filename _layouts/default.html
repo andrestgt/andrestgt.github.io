@@ -17,9 +17,9 @@
       --rule: #e5e5e5;
     }
 
-    /* =====================
-       BASE (ALL PAGES)
-       ===================== */
+    /* =====================================================
+       BASE — applies to EVERY page unless explicitly overridden
+       ===================================================== */
 
     body {
       font-family: "Source Serif 4", Georgia, serif;
@@ -69,9 +69,9 @@
       margin-top: 0.4rem;
     }
 
-    /* =====================
+    /* =====================================================
        NAVIGATION
-       ===================== */
+       ===================================================== */
 
     nav {
       border-bottom: 1px solid var(--rule);
@@ -87,19 +87,19 @@
       color: #333;
     }
 
-    /* =====================
-       FOOD — BASE RESET
-       ===================== */
+    /* =====================================================
+       FOOD — BASE RESET (no background by default)
+       ===================================================== */
 
     body.food {
       background: #fff;
       color: #111;
     }
 
-    /* =====================
+    /* =====================================================
        FOOD — PAGES WITH BACKGROUNDS
-       (overview / country / city / category)
-       ===================== */
+       (overview · country · city · category)
+       ===================================================== */
 
     body.food.food-country,
     body.food.food-city,
@@ -141,33 +141,38 @@
       padding-left: 2rem;
     }
 
-    /* =====================
+    /* =====================================================
        FOOD — BACKGROUND IMAGES
-       ===================== */
+       ===================================================== */
 
     body.food.food-country.thailand {
-      background: url("/photos/background/foodthailand.jpg") center / cover no-repeat fixed;
+      background: url("/photos/background/foodthailand.jpg")
+                  center / cover no-repeat fixed;
     }
 
     body.food.food-city.chiang-mai {
-      background: url("/photos/background/foodthaicm.png") center / cover no-repeat fixed;
+      background: url("/photos/background/foodthaicm.png")
+                  center / cover no-repeat fixed;
     }
 
     body.food.food-city.phuket-town {
-      background: url("/photos/background/foodthaipt.jpg") center / cover no-repeat fixed;
+      background: url("/photos/background/foodthaipt.jpg")
+                  center / cover no-repeat fixed;
     }
 
     body.food.food-category.basic-eateries {
-      background: url("/photos/background/cmbasic.jpg") center / cover no-repeat fixed;
+      background: url("/photos/background/cmbasic.jpg")
+                  center / cover no-repeat fixed;
     }
 
     body.food.food-category.restaurants {
-      background: url("/photos/background/ptrestaurants.jpg") center / cover no-repeat fixed;
+      background: url("/photos/background/ptrestaurants.jpg")
+                  center / cover no-repeat fixed;
     }
 
-    /* =====================
-       FOOD — REVIEW PAGES
-       ===================== */
+    /* =====================================================
+       FOOD — RESTAURANT REVIEWS (locked, no background)
+       ===================================================== */
 
     body.food.food-review {
       background: #fff !important;
@@ -191,36 +196,37 @@
       padding: 0;
     }
 
-    /* =====================
-   TRAVELS — OVERVIEW PAGE
-   ===================== */
+    /* =====================================================
+       TRAVELS — INDEX PAGE
+       ===================================================== */
 
-body.travels.index {
-  max-width: none;
-  margin: 0;
-  padding: 0;
-  min-height: 100vh;
-  background: url("/photos/background/travelogues.jpg") center / cover no-repeat fixed;
-  color: #fff;
-}
+    body.travels.index {
+      max-width: none;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      background: url("/photos/background/travelogues.jpg")
+                  center / cover no-repeat fixed;
+      color: #fff;
+    }
 
-body.travels.index nav {
-  border-bottom: none;
-}
+    body.travels.index nav {
+      border-bottom: none;
+    }
 
-body.travels.index nav a {
-  color: #fff;
-}
+    body.travels.index nav a {
+      color: #fff;
+    }
 
-body.travels.index h1,
-body.travels.index h2,
-body.travels.index p {
-  color: #fff;
-}
+    body.travels.index h1,
+    body.travels.index h2,
+    body.travels.index p {
+      color: #fff;
+    }
 
-    /* =====================
+    /* =====================================================
        MOBILE
-       ===================== */
+       ===================================================== */
 
     @media (max-width: 600px) {
 
@@ -244,6 +250,7 @@ body.travels.index p {
 
 <body class="
   {{ page.section }}
+  {% if page.index %} index{% endif %}
   {% if page.country %} food-country{% endif %}
   {% if page.city %} food-city{% endif %}
   {% if page.category %} food-category{% endif %}
