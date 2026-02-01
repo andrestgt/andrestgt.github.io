@@ -350,9 +350,25 @@ hr {
 
   {% if page.section == "food" and page.city == "phuket-town" and page.category == "restaurants" %}
   <style>
+    /* Text black */
     main,
-    main * {
+    main p,
+    main li,
+    main h1,
+    main h2,
+    main h3,
+    main span,
+    main div {
       color: #111 !important;
+    }
+
+    /* Links stay white */
+    main a {
+      color: #fff !important;
+    }
+
+    main a:hover {
+      text-decoration: underline;
     }
   </style>
   {% endif %}
