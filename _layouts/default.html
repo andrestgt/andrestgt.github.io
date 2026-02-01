@@ -244,18 +244,168 @@
 
     .site-hero figure, .site-hero figcaption { border: none !important; box-shadow: none !important; background: transparent !important; color: inherit; }
 
-    /* ---------------------------
-       DESKTOP: stronger hero (full viewport)
+   /* ---------------------------
+       DESKTOP IMPROVEMENTS
        --------------------------- */
 
     @media (min-width: 1024px) {
+      
+      /* 1. Better content width for readability */
+      body {
+        max-width: 900px;
+        padding: 0 3rem;
+        margin: 3rem auto;
+      }
+
+      /* 2. Improved hero - 70vh instead of 100vh */
       .site-hero {
-        min-height: var(--hero-desktop-height); /* 100vh */
+        min-height: 70vh;
         background-size: cover;
         background-position: center center;
+        background-attachment: fixed; /* parallax effect */
       }
-      .hero-inner { max-width: 720px; padding-left: 3rem; padding-right: 3rem; }
-      .page-body { margin-top: 2rem; }
+
+      /* 3. Better hero text positioning */
+      .hero-inner {
+        max-width: 800px;
+        padding: 3rem 4rem;
+      }
+
+      /* 4. Hero typography scaling */
+      .hero-inner h1 {
+        font-size: 2.8rem;
+        line-height: 1.2;
+        margin-bottom: 1rem;
+      }
+
+      .hero-inner .subtitle {
+        font-size: 1.3rem;
+        line-height: 1.6;
+      }
+
+      /* 5. Navigation improvements - better positioning */
+      body.food.index nav.site-nav,
+      body.food.food-country nav.site-nav,
+      body.food.food-city nav.site-nav,
+      body.food.food-category nav.site-nav,
+      body.travels.index nav.site-nav {
+        top: 2rem;
+        right: 3rem;
+      }
+
+      body.food.index nav.site-nav a,
+      body.food.food-country nav.site-nav a,
+      body.food.food-city nav.site-nav a,
+      body.food.food-category nav.site-nav a,
+      body.travels.index nav.site-nav a {
+        font-size: 1rem;
+        margin-left: 1.5rem;
+        font-weight: 500;
+      }
+
+      /* 6. Page content improvements */
+      .page-body {
+        padding: 0 3rem 5rem;
+        margin-top: 3rem;
+      }
+
+      .page-body h1 {
+        font-size: 2.2rem;
+      }
+
+      .page-body h2 {
+        font-size: 1.6rem;
+        margin-top: 2.5rem;
+      }
+
+      .page-body h3 {
+        font-size: 1.3rem;
+        margin-top: 2rem;
+      }
+
+      .page-body p {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        margin: 1.4rem 0;
+      }
+
+      /* 7. Review pages - constrain width */
+      body.food.food-review {
+        max-width: 800px;
+        padding: 0 3rem;
+      }
+
+      body.food.food-review main#top {
+        padding: 2rem 0 5rem;
+      }
+
+      /* 8. Images - better sizing */
+      img {
+        border-radius: 8px;
+      }
+
+      figure {
+        margin: 2.5rem auto;
+      }
+
+      figcaption {
+        font-size: 0.9rem;
+        margin-top: 0.6rem;
+      }
+
+      /* 9. Travelogue country blocks - better spacing */
+      .travelogue .country {
+        padding: 2.5rem 3rem;
+        margin: 4rem 0;
+        border-radius: 16px;
+      }
+
+      /* 10. Culinary sections */
+      body.travelogue .culinary .place {
+        padding: 1.2rem 1.5rem;
+        margin: 1.5rem 0;
+      }
+
+      /* 11. Photo rows - optimal width */
+      body.travelogue .photo-row {
+        max-width: 100%;
+        gap: 1.5rem;
+        margin: 3rem 0;
+      }
+
+      body.travelogue .photo-row img {
+        border-radius: 10px;
+      }
+    }
+
+    /* ---------------------------
+       LARGE DESKTOP (1400px+)
+       --------------------------- */
+
+    @media (min-width: 1400px) {
+      
+      /* Limit max width on very large screens */
+      body {
+        max-width: 1000px;
+      }
+
+      .hero-inner {
+        max-width: 900px;
+        padding-left: 5rem;
+      }
+
+      .hero-inner h1 {
+        font-size: 3.2rem;
+      }
+
+      .hero-inner .subtitle {
+        font-size: 1.4rem;
+      }
+
+      .page-body p {
+        font-size: 1.1rem;
+        line-height: 1.85;
+      }
     }
 
     /* ---------------------------
