@@ -1,13 +1,18 @@
 ---
 layout: default
 section: food
-title: Basic eateries
-category: true
+city: chiang-mai
+category: basic-eateries
 slug: basic-eateries
+title: Street food & basic eateries
+subtitle: Authentic local flavors in Chiang Mai's casual dining scene
 ---
 
+# Street food & basic eateries in Chiang Mai
 
+A selection of street food stalls and casual eateries serving simple dishes at local prices.
 
-# Street food & basic eateries (Chiang Mai)
-
-- [Guay Jub Chang Moi Tat Mai](./guay-jub-chang-moi-tat-mai.html)
+## Guay Jub Chang Moi Tat Mai
+Chiang Mai Old City · Thai
+A popular local spot specializing in guay jub (rolled rice noodle soup), known for its rich broth and tender pork.
+→ [Read the full review](./guay-jub-chang-moi-tat-mai.html)
