@@ -58,6 +58,17 @@
       border-radius: 6px;
     }
 
+    figure {
+      margin: 1.5rem auto;
+      text-align: center;
+    }
+
+    figcaption {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 0.4rem;
+    }
+
     /* =====================
        NAVIGATION
        ===================== */
@@ -77,34 +88,51 @@
     }
 
     /* =====================
-       FOOD — INDEX PAGES ONLY
+       FOOD — BASE RESET
        ===================== */
 
-    body.food.index {
+    body.food {
+      background: #fff;
+      color: #111;
+    }
+
+    /* =====================
+       FOOD — PAGES WITH BACKGROUNDS
+       (overview / country / city / category)
+       ===================== */
+
+    body.food.food-country,
+    body.food.food-city,
+    body.food.food-category {
       max-width: none;
       margin: 0;
       padding: 0;
       min-height: 100vh;
-      background: url("/photos/background/food.jpg") center / cover no-repeat fixed;
       color: #fff;
     }
 
-    body.food.index nav {
+    body.food.food-country nav,
+    body.food.food-city nav,
+    body.food.food-category nav {
       border-bottom: none;
     }
 
-    body.food.index nav a {
+    body.food.food-country nav a,
+    body.food.food-city nav a,
+    body.food.food-category nav a {
       color: #fff;
     }
 
-    body.food.index h1,
-    body.food.index h2,
-    body.food.index > main > p {
-      color: #fff;
+    body.food.food-country h1,
+    body.food.food-city h1,
+    body.food.food-category h1 {
       border-bottom: none;
+      color: #fff;
     }
 
-    body.food.index main {
+    body.food.food-country main,
+    body.food.food-city main,
+    body.food.food-category main {
       position: absolute;
       top: 50%;
       left: 0;
@@ -114,36 +142,52 @@
     }
 
     /* =====================
-       FOOD — COUNTRY / CITY BACKGROUNDS
+       FOOD — BACKGROUND IMAGES
        ===================== */
 
-    body.food.thailand.index {
-      background-image: url("/photos/background/foodthailand.jpg");
+    body.food.food-country.thailand {
+      background: url("/photos/background/foodthailand.jpg") center / cover no-repeat fixed;
     }
 
-    body.food.thailand.chiang-mai.index {
-      background-image: url("/photos/background/foodthaicm.png");
+    body.food.food-city.chiang-mai {
+      background: url("/photos/background/foodthaicm.png") center / cover no-repeat fixed;
     }
 
-    body.food.thailand.phuket-town.index {
-      background-image: url("/photos/background/foodthaipt.jpg");
+    body.food.food-city.phuket-town {
+      background: url("/photos/background/foodthaipt.jpg") center / cover no-repeat fixed;
+    }
+
+    body.food.food-category.basic-eateries {
+      background: url("/photos/background/cmbasic.jpg") center / cover no-repeat fixed;
+    }
+
+    body.food.food-category.restaurants {
+      background: url("/photos/background/ptrestaurants.jpg") center / cover no-repeat fixed;
     }
 
     /* =====================
-       FOOD — REVIEWS (NO BACKGROUND)
+       FOOD — REVIEW PAGES
        ===================== */
 
-    body.food.review {
-      background: #fff;
-      color: #111;
+    body.food.food-review {
+      background: #fff !important;
+      color: #111 !important;
       max-width: 820px;
       margin: 3rem auto;
       padding: 0 1.5rem;
     }
 
-    body.food.review main {
-      position: static;
-      transform: none;
+    body.food.food-review nav a {
+      color: #333;
+    }
+
+    body.food.food-review h1 {
+      border-bottom: 2px solid var(--rule);
+    }
+
+    body.food.food-review main {
+      position: static !important;
+      transform: none !important;
       padding: 0;
     }
 
@@ -152,14 +196,19 @@
        ===================== */
 
     @media (max-width: 600px) {
-      body.food.index main {
+
+      body.food.food-country main,
+      body.food.food-city main,
+      body.food.food-category main {
         position: static;
         transform: none;
         margin: 4rem 0 0 0;
         padding: 0 1.5rem;
       }
 
-      nav { text-align: left; }
+      nav {
+        text-align: left;
+      }
     }
   </style>
 
@@ -168,8 +217,10 @@
 
 <body class="
   {{ page.section }}
-  {% if page.index %} index{% endif %}
-  {% if page.review %} review{% endif %}
+  {% if page.country %} food-country{% endif %}
+  {% if page.city %} food-city{% endif %}
+  {% if page.category %} food-category{% endif %}
+  {% if page.review %} food-review{% endif %}
 ">
 
   <nav>
