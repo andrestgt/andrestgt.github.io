@@ -339,15 +339,13 @@
         padding: 2rem 0 5rem;
       }
 
-      /* Hide hero on review and about pages on desktop */
-      body.food.food-review .site-hero,
-      body.about .site-hero {
+      /* Hide hero on non-hero pages on desktop */
+      body.food.food-review .site-hero {
         display: none;
       }
 
-      /* Ensure nav stays visible and dark on review/about pages */
-      body.food.food-review nav.site-nav,
-      body.about nav.site-nav {
+      /* Ensure nav stays visible and dark on review pages */
+      body.food.food-review nav.site-nav {
         position: relative;
         top: auto;
         right: auto;
@@ -356,8 +354,7 @@
         margin-bottom: 2.5rem;
       }
 
-      body.food.food-review nav.site-nav a,
-      body.about nav.site-nav a {
+      body.food.food-review nav.site-nav a {
         color: #333;
       }
 
@@ -478,8 +475,8 @@
     <a href="/about/">About</a>
   </nav>
 
-  <!-- HERO: rendered only when this is not a review page -->
-  {% unless page.review %}
+  <!-- HERO: rendered only when this is not a review or about page -->
+  {% unless page.review or page.section == 'about' %}
   <header class="site-hero" role="banner" aria-label="Page hero">
     <div class="hero-inner">
       {% if page.title %}
