@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Chiang Mai
-section: food thailand chiang-mai
+section: food
+index: true
 ---
 
 
