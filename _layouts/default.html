@@ -183,16 +183,7 @@ body.has-hero {
 
 {% assign is_about_page = page.url == "/about/" %}
 
-  <body class="
-  {{ page.section }}
-  {% if page.index %} index{% endif %}
-  {% if page.country %} food-country{% endif %}
-  {% if page.city %} food-city{% endif %}
-  {% if page.category %} food-category{% endif %}
-  {% if page.review %} food-review{% endif %}
-  {% if page.slug %} {{ page.slug }}{% endif %}
-  {% unless is_review_page or is_about_page %} has-hero{% endunless %}
-">
+  <body class="{% capture body_classes %}{{ page.section }}{% if page.index %} index{% endif %}{% if page.country %} food-country{% endif %}{% if page.city %} food-city{% endif %}{% if page.category %} food-category{% endif %}{% if page.review %} food-review{% endif %}{% if page.slug %} {{ page.slug }}{% endif %}{% unless is_review_page or is_about_page %} has-hero{% endunless %}{% endcapture %}{{ body_classes | strip }}">
 
 
 
