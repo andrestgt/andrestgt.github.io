@@ -2,8 +2,9 @@
 layout: default
 section: food
 type: food-city
-city: phuket-town
 country: thailand
+city: phuket-town
+slug: phuket-town
 
 ---
 
