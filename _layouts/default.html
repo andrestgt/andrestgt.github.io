@@ -31,8 +31,8 @@
       line-height: 1.7;
       background: #fff;
       color: #111;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
     }
 
     h1,h2,h3 { font-family: "Inter", system-ui, sans-serif; margin: 0 0 .6rem 0; }
@@ -43,13 +43,7 @@
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 1.5rem auto;
-      border-radius: 6px;
-    }
+    img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; border-radius: 6px; }
 
     figure { margin: 1.5rem auto; text-align: center; }
     figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
@@ -81,9 +75,7 @@
 
     hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
 
-    /* ---------------------------
-       HERO / BACKGROUND
-       --------------------------- */
+    /* ================= HERO ================= */
 
     .site-hero {
       position: relative;
@@ -92,6 +84,7 @@
       display: flex;
       align-items: center;
       justify-content: flex-start;
+      box-sizing: border-box;
       overflow: hidden;
       color: #fff;
       background-color: #000;
@@ -116,14 +109,29 @@
       margin: 0 auto;
       position: relative;
       z-index: 10;
+      box-sizing: border-box;
     }
 
+    /* REMOVE LINES / FRAMES INSIDE HERO (your earlier fix) */
+    .site-hero *,
+    .site-hero *::before,
+    .site-hero *::after {
+      border: none !important;
+      box-shadow: none !important;
+      outline: none !important;
+      background: transparent !important;
+    }
+
+    /* FLOAT NAV ON HERO PAGES */
     body.food .site-hero nav,
     body.travels.index .site-hero nav {
       position: absolute;
       top: 1.1rem;
       right: 1.5rem;
+      left: auto;
+      text-align: right;
       border-bottom: none;
+      z-index: 15;
       background: transparent;
       padding: 0;
       margin: 0;
@@ -134,24 +142,7 @@
       color: #fff;
     }
 
-    /* ---------------------------
-       REVIEW PAGE LOCK
-       --------------------------- */
-
-    body.food.food-review {
-      background: #fff !important;
-      color: #111 !important;
-      max-width: var(--content-max);
-      margin: 3rem auto;
-      padding: 0 1.5rem;
-    }
-
-    body.food.food-review nav a { color: #333; }
-
-    /* ---------------------------
-       HERO IMAGE ASSIGNMENTS
-       --------------------------- */
-
+    /* HERO IMAGES — UNCHANGED */
     body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: 68vh; }
     body.food.food-country.thailand .site-hero { background-image: url("/photos/background/foodthailand.jpg"); }
     body.food.food-city.chiang-mai .site-hero { background-image: url("/photos/background/foodthaicm.png"); }
@@ -161,12 +152,24 @@
     body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
     body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: 68vh; }
 
+    /* ================= MOBILE ================= */
+
     @media (max-width: 600px) {
       body { margin: 0; padding: 0; }
       .site-hero { min-height: 44vh; }
       .hero-inner { padding: 1.6rem; }
-      nav { text-align: left; padding: .6rem 1.5rem; }
+      nav { text-align: left; padding: .6rem 1.5rem; position: relative; }
       main#top { padding-top: 1rem; }
+      .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
+    }
+
+    /* ================= SAFETY GUARD =================
+       Even if someone breaks the template later,
+       hero can NEVER show on review/about pages.
+    */
+    body.food.food-review .site-hero,
+    body.about .site-hero {
+      display: none !important;
     }
   </style>
 
@@ -183,32 +186,25 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- HERO (disabled on review pages and about page) -->
-  {% if page.review != true and page.slug != "about" %}
-  <header class="site-hero" role="banner" aria-label="Page hero">
-    <nav>
-      <a href="/">Home</a>
-      <a href="/travels/">Travels</a>
-      <a href="/food/">Food</a>
-      <a href="/about/">About</a>
-    </nav>
-
-    <div class="hero-inner">
-      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
-      {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
-    </div>
-  </header>
-  {% else %}
-  <!-- NAV ONLY (review + about pages) -->
+  <!-- NAV (always present) -->
   <nav>
     <a href="/">Home</a>
     <a href="/travels/">Travels</a>
     <a href="/food/">Food</a>
     <a href="/about/">About</a>
   </nav>
+
+  <!-- HERO: ONLY for non-review AND non-about pages -->
+  {% if page.review != true and page.slug != "about" %}
+  <header class="site-hero" role="banner" aria-label="Page hero">
+    <div class="hero-inner">
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+    </div>
+  </header>
   {% endif %}
 
-  <main id="top" role="main">
+  <main id="top">
     {{ content }}
   </main>
 
