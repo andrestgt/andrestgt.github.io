@@ -2,10 +2,11 @@
 layout: default
 section: food
 country: thailand
-city: phuket-town
+-city: phuket-town
 category: restaurants
 slug: phuket-town
 ---
+
 
 # Restaurants 
 
