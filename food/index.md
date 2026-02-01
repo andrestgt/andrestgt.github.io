@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Food
 section: food
+index: true
 ---
+
 
 # Food
 
