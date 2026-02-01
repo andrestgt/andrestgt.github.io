@@ -1,12 +1,12 @@
 ---
 layout: default
 section: food
-city: phuket-town
 category: restaurants
 slug: phuket-town
 title: Restaurants
 subtitle: Restaurants in Phuket Town
 ---
+
 
 
 
