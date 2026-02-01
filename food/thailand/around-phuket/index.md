@@ -3,8 +3,8 @@ layout: default
 section: food
 city: around-phuket
 slug: around-phuket
-title: Around Phuket – Food & Drink
-subtitle: Beaches, bays, and neighborhoods beyond Phuket Town
+title: Around Phuket
+subtitle: Beyond Phuket Town
 ---
 
 # Around Phuket
