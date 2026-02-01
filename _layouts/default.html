@@ -289,7 +289,7 @@
       body.food.food-city nav.site-nav,
       body.food.food-category nav.site-nav,
       body.travels.index nav.site-nav {
-        top: 2rem;
+        top: 3rem;
         right: 3rem;
       }
 
@@ -337,6 +337,28 @@
 
       body.food.food-review main#top {
         padding: 2rem 0 5rem;
+      }
+
+      /* Hide hero on review and about pages on desktop */
+      body.food.food-review .site-hero,
+      body.about .site-hero {
+        display: none;
+      }
+
+      /* Ensure nav stays visible and dark on review/about pages */
+      body.food.food-review nav.site-nav,
+      body.about nav.site-nav {
+        position: relative;
+        top: auto;
+        right: auto;
+        border-bottom: 1px solid var(--rule);
+        padding: .6rem 0 .8rem;
+        margin-bottom: 2.5rem;
+      }
+
+      body.food.food-review nav.site-nav a,
+      body.about nav.site-nav a {
+        color: #333;
       }
 
       /* 8. Images - better sizing */
