@@ -186,6 +186,14 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
+  {% assign is_review_page = page.section == "food"
+  and page.city
+  and page.category
+  and page.index != true
+%}
+
+{% assign is_about_page = page.url == "/about/" %}
+
   <!-- NAV (always present) -->
   <nav>
     <a href="/">Home</a>
@@ -195,14 +203,14 @@
   </nav>
 
   <!-- HERO: ONLY for non-review AND non-about pages -->
-  {% if page.review != true and page.slug != "about" %}
-  <header class="site-hero" role="banner" aria-label="Page hero">
-    <div class="hero-inner">
-      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
-      {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
-    </div>
-  </header>
-  {% endif %}
+  
+  {% unless is_review_page or is_about_page %}
+<header class="site-hero">
+  ...
+</header>
+{% endunless %}
+
+
 
   <main id="top">
     {{ content }}
