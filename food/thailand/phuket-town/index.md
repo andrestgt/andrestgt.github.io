@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Phuket Town
-section: food thailand phuket-town
+section: food
+index: true
 ---
+
 
 
 # Phuket Town
