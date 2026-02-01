@@ -46,3 +46,7 @@ Prices are on the higher side, though that’s fairly normal for such a secluded
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/NMv49dSUnSRxY5TNA)
+
+🍽️ **Cuisine:** Thai, Seafood, Western
+
+💰 **Price level:** 400-600 Bt
