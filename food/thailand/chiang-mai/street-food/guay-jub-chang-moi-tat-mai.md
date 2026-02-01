@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Guay Jub Chang Moi Tat Mai
-section: food
+section: food thailand chiang-mai review
 ---
+
 
 ## Guay Jub Chang Moi Tat Mai
 *Chiang Mai · Northern Thai · Noodle Soup · Restaurant*
