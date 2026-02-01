@@ -5,7 +5,6 @@ index: true
 ---
 
 
-
 # Thailand
 
 Cities covered 
