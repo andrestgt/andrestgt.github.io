@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Origami Café
-section: food
+section: food thailand phuket-town review
 ---
+
 
 ## Origami Café
 *Phuket Town · Café*
