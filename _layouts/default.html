@@ -365,8 +365,29 @@ hr {
   {% seo %}
 
   {% if page.section == "food" and page.city == "phuket-town" and page.category == "restaurants" %}
-  <style>
-    /* Text black */
+<style>
+  /* MOBILE — black text, white links */
+  main,
+  main p,
+  main li,
+  main h1,
+  main h2,
+  main h3,
+  main span,
+  main div {
+    color: #111 !important;
+  }
+
+  main a {
+    color: #fff !important;
+  }
+
+  main a:hover {
+    text-decoration: underline;
+  }
+
+  /* DESKTOP — white text and links */
+  @media (min-width: 1024px) {
     main,
     main p,
     main li,
@@ -375,19 +396,15 @@ hr {
     main h3,
     main span,
     main div {
-      color: #111 !important;
-    }
-
-    /* Links stay white */
-    main a {
       color: #fff !important;
     }
 
-    main a:hover {
-      text-decoration: underline;
+    main a {
+      color: #fff !important;
     }
-  </style>
-  {% endif %}
+  }
+</style>
+{% endif %}
 
 </head>
 
