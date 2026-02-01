@@ -12,5 +12,16 @@ The menu is long and covers the usual Thai standards, with a strong focus on sea
 
 Prices are on the higher side, though that’s fairly normal for such a secluded spot with views like these. You are clearly paying in part for the location, but it helps that the food is perfectly decent. Not cheap, but still affordable, and a pleasant place to spend some time.
 
-🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/NMv49dSUnSRxY5TNA)
+## Ratings
 
+| Category        | Score |
+|-----------------|-------|
+| Food            | 8/10 |
+| Service         | 7.5/10 |
+| Value for money | 6.5/10  |
+| Atmosphere      | 9.5/10  |
+| Overall         | 8.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/NMv49dSUnSRxY5TNA)
