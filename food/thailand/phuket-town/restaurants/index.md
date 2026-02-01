@@ -8,7 +8,7 @@ slug: restaurants
 ---
 
 
-# Restaurants in Phuket Town
+# Restaurants 
 
 A small selection of restaurants worth seeking out in Phuket Town, ranging from traditional Thai cooking to Chinese noodles and Southeast Asian bistro food.
 
