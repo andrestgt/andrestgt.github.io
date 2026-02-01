@@ -1,9 +1,11 @@
 ---
 layout: default
+section: food
 title: Basic eateries
 category: true
 slug: basic-eateries
 ---
+
 
 
 # Street food & basic eateries (Chiang Mai)
