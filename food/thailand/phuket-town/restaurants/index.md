@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Restaurants
-section: food thailand phuket-town restaurants
+section: food
+country: thailand
+city: phuket-town
+category: restaurants
+slug: restaurants
 ---
 
 
