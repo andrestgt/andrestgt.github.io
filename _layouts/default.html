@@ -12,167 +12,161 @@
 
   <style>
     :root{
-      --accent:#1a4fd8;
-      --rule:#e5e5e5;
-      --content-max:820px;
+      --accent: #1a4fd8;
+      --text-muted: #666;
+      --rule: #e5e5e5;
+      --content-max: 820px;
+      --hero-min-height: 56vh;
+      --hero-overlay: rgba(0,0,0,0.35);
+      --hero-overlay-strong: rgba(0,0,0,0.52);
     }
 
-    html,body{height:100%;}
+    html,body { height: 100%; }
 
-    /* =========================
-       BASE
-       ========================= */
-
-    body{
-      font-family:"Source Serif 4",Georgia,serif;
-      max-width:var(--content-max);
-      margin:3rem auto;
-      padding:0 1.5rem;
-      line-height:1.7;
-      background:#fff;
-      color:#111;
+    body {
+      font-family: "Source Serif 4", Georgia, serif;
+      max-width: var(--content-max);
+      margin: 3rem auto;
+      padding: 0 1.5rem;
+      line-height: 1.7;
+      background: #fff;
+      color: #111;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
     }
 
-    h1,h2,h3{
-      font-family:"Inter",system-ui,sans-serif;
-      margin:0 0 .6rem 0;
+    h1,h2,h3 { font-family: "Inter", system-ui, sans-serif; margin: 0 0 .6rem 0; }
+    h1 { border-bottom: 2px solid var(--rule); padding-bottom: .4rem; margin-bottom: 1.2rem; }
+
+    p { margin: 1.2rem 0; }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 6px;
     }
 
-    h1{
-      border-bottom:2px solid var(--rule);
-      padding-bottom:.4rem;
-      margin-bottom:1.2rem;
+    figure { margin: 1.5rem auto; text-align: center; }
+    figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
+
+    nav {
+      border-bottom: 1px solid var(--rule);
+      padding: .6rem 0 .8rem;
+      margin-bottom: 2.5rem;
+      text-align: right;
+      position: relative;
+      z-index: 30;
     }
 
-    p{margin:1.2rem 0;}
-
-    a{color:var(--accent);text-decoration:none;}
-    a:hover{text-decoration:underline;}
-
-    img{
-      max-width:100%;
-      height:auto;
-      display:block;
-      margin:1.5rem auto;
-      border-radius:6px;
+    nav a {
+      font-family: "Inter", system-ui, sans-serif;
+      font-size: .95rem;
+      margin-left: 1rem;
+      color: #333;
     }
 
-    figure{margin:1.5rem auto;text-align:center;}
-    figcaption{font-size:.85rem;color:#666;margin-top:.4rem;}
-
-    hr{border:none;height:1px;background:var(--rule);margin:1.2rem 0;}
-
-    /* =========================
-       NAVIGATION
-       ========================= */
-
-    nav.site-nav{
-      border-bottom:1px solid var(--rule);
-      padding:.6rem 0 .8rem;
-      margin-bottom:2.5rem;
-      text-align:right;
-      position:relative;
-      z-index:20;
+    main#top {
+      max-width: var(--content-max);
+      margin: 0 auto;
+      padding: 1rem 0 4rem;
+      position: relative;
+      z-index: 40;
+      background: transparent;
     }
 
-    nav.site-nav a{
-      font-family:"Inter",system-ui,sans-serif;
-      font-size:.95rem;
-      margin-left:1rem;
-      color:#333;
+    hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
+
+    /* ---------------------------
+       HERO / BACKGROUND
+       --------------------------- */
+
+    .site-hero {
+      position: relative;
+      width: 100%;
+      min-height: var(--hero-min-height);
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      overflow: hidden;
+      color: #fff;
+      background-color: #000;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
     }
 
-    /* =========================
-       HERO (NON-REVIEW PAGES ONLY)
-       ========================= */
-
-    .site-hero{
-      position:relative;
-      left:50%;
-      right:50%;
-      margin-left:-50vw;
-      margin-right:-50vw;
-      width:100vw;
-      min-height:100vh;
-      background:#000 center/cover no-repeat;
-      z-index:5;
+    .site-hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: var(--hero-overlay);
+      pointer-events: none;
+      z-index: 5;
     }
 
-    .site-hero::before{
-      content:"";
-      position:absolute;
-      inset:0;
-      background:rgba(0,0,0,.35);
+    .hero-inner {
+      width: 100%;
+      max-width: var(--content-max);
+      padding: 2.5rem 1.5rem;
+      margin: 0 auto;
+      position: relative;
+      z-index: 10;
     }
 
-    .hero-inner{
-      position:relative;
-      max-width:var(--content-max);
-      margin:0 auto;
-      padding:3rem 1.5rem;
-      color:#fff;
-      z-index:10;
+    body.food .site-hero nav,
+    body.travels.index .site-hero nav {
+      position: absolute;
+      top: 1.1rem;
+      right: 1.5rem;
+      border-bottom: none;
+      background: transparent;
+      padding: 0;
+      margin: 0;
     }
 
-    /* =========================
-       REVIEW PAGES — HARD RESET
-       ========================= */
-
-    body.food.food-review{
-      background:#fff;
-      color:#111;
-      max-width:var(--content-max);
-      margin:3rem auto;
-      padding:0 1.5rem;
+    body.food .site-hero nav a,
+    body.travels.index .site-hero nav a {
+      color: #fff;
     }
 
-    /* absolutely no hero footprint */
-    body.food.food-review .site-hero{
-      display:none !important;
+    /* ---------------------------
+       REVIEW PAGE LOCK
+       --------------------------- */
+
+    body.food.food-review {
+      background: #fff !important;
+      color: #111 !important;
+      max-width: var(--content-max);
+      margin: 3rem auto;
+      padding: 0 1.5rem;
     }
 
-    /* nav stays normal + visible */
-    body.food.food-review nav.site-nav{
-      position:relative;
-      border-bottom:1px solid var(--rule);
-    }
+    body.food.food-review nav a { color: #333; }
 
-    body.food.food-review nav.site-nav a{
-      color:#333;
-    }
-
-    /* =========================
+    /* ---------------------------
        HERO IMAGE ASSIGNMENTS
-       ========================= */
+       --------------------------- */
 
-    body.food.index .site-hero{background-image:url("/photos/background/food.jpg");}
-    body.food.food-country.thailand .site-hero{background-image:url("/photos/background/foodthailand.jpg");}
-    body.food.food-city.chiang-mai .site-hero{background-image:url("/photos/background/foodthaicm.png");}
-    body.food.food-city.phuket-town .site-hero{background-image:url("/photos/background/foodthaipt.jpg");}
-    body.food.food-category.restaurants .site-hero{background-image:url("/photos/background/ptrestaurants.jpg");}
-    body.food.food-category.cafes.phuket-town .site-hero{background-image:url("/photos/background/ptcafes.jpg");}
-    body.travels.index .site-hero{background-image:url("/photos/background/travelogues.jpg");}
+    body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: 68vh; }
+    body.food.food-country.thailand .site-hero { background-image: url("/photos/background/foodthailand.jpg"); }
+    body.food.food-city.chiang-mai .site-hero { background-image: url("/photos/background/foodthaicm.png"); }
+    body.food.food-city.phuket-town .site-hero { background-image: url("/photos/background/foodthaipt.jpg"); }
+    body.food.food-category.basic-eateries .site-hero { background-image: url("/photos/background/cmbasic.jpg"); }
+    body.food.food-category.restaurants .site-hero { background-image: url("/photos/background/ptrestaurants.jpg"); }
+    body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
+    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: 68vh; }
 
-    /* =========================
-       MAIN CONTENT
-       ========================= */
-
-    main#top{
-      max-width:var(--content-max);
-      margin:0 auto;
-      padding:1rem 0 4rem;
-      position:relative;
-      z-index:10;
-    }
-
-    /* =========================
-       MOBILE
-       ========================= */
-
-    @media(max-width:600px){
-      body{margin:0;padding:0;}
-      nav.site-nav{text-align:left;padding:.6rem 1.5rem;}
-      main#top{padding:1rem 1.2rem 3rem;}
+    @media (max-width: 600px) {
+      body { margin: 0; padding: 0; }
+      .site-hero { min-height: 44vh; }
+      .hero-inner { padding: 1.6rem; }
+      nav { text-align: left; padding: .6rem 1.5rem; }
+      main#top { padding-top: 1rem; }
     }
   </style>
 
@@ -189,30 +183,34 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- NAV -->
-  <nav class="site-nav">
+  <!-- HERO (disabled on review pages and about page) -->
+  {% if page.review != true and page.slug != "about" %}
+  <header class="site-hero" role="banner" aria-label="Page hero">
+    <nav>
+      <a href="/">Home</a>
+      <a href="/travels/">Travels</a>
+      <a href="/food/">Food</a>
+      <a href="/about/">About</a>
+    </nav>
+
+    <div class="hero-inner">
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+    </div>
+  </header>
+  {% else %}
+  <!-- NAV ONLY (review + about pages) -->
+  <nav>
     <a href="/">Home</a>
     <a href="/travels/">Travels</a>
     <a href="/food/">Food</a>
     <a href="/about/">About</a>
   </nav>
+  {% endif %}
 
-  <!-- HERO (NOT rendered on review pages) -->
-  {% unless page.review %}
-  <header class="site-hero" role="banner">
-    <div class="hero-inner">
-      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
-      {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
-    </div>
-  </header>
-  {% endunless %}
-
-  <!-- CONTENT -->
-  <main id="top">
+  <main id="top" role="main">
     {{ content }}
   </main>
 
 </body>
 </html>
-
-
