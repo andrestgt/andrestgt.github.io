@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Xi Mian Chinese Noodles
-section: food
+section: food thailand phuket-town review
 ---
 
 ## Xi Mian Chinese Noodles
