@@ -1,8 +1,12 @@
 ---
 layout: default
-title: Cafés in Phuket Town
 section: food
+country: thailand
+city: phuket-town
+category: cafes
+slug: cafes
 ---
+
 
 # Cafés in Phuket Town
 
