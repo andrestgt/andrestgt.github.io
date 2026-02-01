@@ -16,7 +16,8 @@
       --text-muted: #666;
       --rule: #e5e5e5;
       --content-max: 820px;
-      --hero-min-height: 56vh;
+      --hero-min-height: 56vh;         /* mobile default */
+      --hero-desktop-height: 82vh;     /* desktop target (more page-filling) */
       --hero-overlay: rgba(0,0,0,0.35);
       --hero-overlay-strong: rgba(0,0,0,0.52);
     }
@@ -78,32 +79,25 @@
       background: transparent;
     }
 
-    /* remove global divider lines that were colliding with hero designs */
     hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
 
     /* ---------------------------
        FOOD: base
        --------------------------- */
 
-    /* pages that carry 'food' section remain unchanged by default */
-    body.food {
-      /* no background by default */
-    }
+    body.food { /* no background by default */ }
 
     /* ---------------------------
-       HERO / BACKGROUND LAYOUT (modern, predictable)
+       HERO / BACKGROUND LAYOUT
        --------------------------- */
 
-    /* The hero wrapper controls all background behaviour.
-       We set a default hero and then assign images by body class further down.
-    */
     .site-hero {
       position: relative;
       width: 100%;
       min-height: var(--hero-min-height);
       display: flex;
       align-items: center;
-      justify-content: flex-start; /* content sits to left by default */
+      justify-content: flex-start;
       box-sizing: border-box;
       overflow: hidden;
       color: #fff;
@@ -111,10 +105,10 @@
       background-position: center center;
       background-repeat: no-repeat;
       background-size: cover;          /* IMPORTANT: cover prevents distortion */
-      background-attachment: scroll;   /* avoid fixed (mobile/safari issues) */
+      background-attachment: scroll;   /* avoid fixed for mobile */
     }
 
-    /* overlay to ensure text legibility */
+    /* overlay for legibility */
     .site-hero::before {
       content: "";
       position: absolute;
@@ -124,7 +118,6 @@
       z-index: 5;
     }
 
-    /* inner hero content container aligns with the normal content width */
     .hero-inner {
       width: 100%;
       max-width: var(--content-max);
@@ -135,7 +128,7 @@
       box-sizing: border-box;
     }
 
-    /* when using a hero, we usually want the nav to float on top */
+    /* nav floats on hero pages */
     body.food .site-hero nav,
     body.travels.index .site-hero nav {
       position: absolute;
@@ -155,7 +148,6 @@
       color: #fff;
     }
 
-    /* content area that follows hero (for pages using hero) */
     .page-body {
       max-width: var(--content-max);
       margin: 2rem auto;
@@ -166,7 +158,7 @@
       z-index: 20;
     }
 
-    /* ensure restaurant review pages keep the non-hero layout (locked) */
+    /* restaurant review pages keep non-hero layout */
     body.food.food-review {
       background: #fff !important;
       color: #111 !important;
@@ -181,16 +173,13 @@
 
     /* ---------------------------
        PER-PAGE HERO IMAGE ASSIGNMENTS
-       Keep these simple: background-size: cover (no contain). Remove fixed attachments.
        --------------------------- */
 
-    /* homepage */
     body.food.index .site-hero {
       background-image: url("/photos/background/food.jpg");
-      min-height: 68vh;
+      min-height: var(--hero-min-height);
     }
 
-    /* country / city / category images */
     body.food.food-country.thailand .site-hero       { background-image: url("/photos/background/foodthailand.jpg"); }
     body.food.food-city.chiang-mai .site-hero        { background-image: url("/photos/background/foodthaicm.png"); }
     body.food.food-city.phuket-town .site-hero       { background-image: url("/photos/background/foodthaipt.jpg"); }
@@ -198,15 +187,9 @@
     body.food.food-category.restaurants .site-hero   { background-image: url("/photos/background/ptrestaurants.jpg"); }
     body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
 
-    /* travels index */
-    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: 68vh; }
+    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-min-height); }
 
-    /* ---------------------------
-       TEXT COLOR ADJUSTMENTS FOR SPECIFIC PAGES
-       (example: phuket-town restaurants had a special rule earlier)
-       --------------------------- */
-
-    /* Default for hero pages: white text / links */
+    /* Default hero text/link colour */
     body.food.food-country .hero-inner,
     body.food.food-city .hero-inner,
     body.food.food-category .hero-inner,
@@ -223,19 +206,14 @@
       color: #fff;
     }
 
-    /* Specific override you used previously: phuket-town restaurants
-       — mobile: prefer darker text on top of a lighter cropped hero,
-       — desktop: keep white (overlay makes white legible).
-       If you prefer different contrast, tweak the rgba in --hero-overlay variables.
-    */
+    /* Phuket restaurants — keep the previously requested contrast switch behaviour */
     @media (max-width: 900px) {
       body.food.food-city.phuket-town.food-category.restaurants main,
       body.food.food-city.phuket-town.food-category.restaurants .page-body {
-        color: #111 !important; /* mobile: darker text for readability if the crop exposes a bright area */
+        color: #111 !important;
       }
       body.food.food-city.phuket-town.food-category.restaurants .page-body a { color: #000 !important; }
     }
-
     @media (min-width: 901px) {
       body.food.food-city.phuket-town.food-category.restaurants .hero-inner,
       body.food.food-city.phuket-town.food-category.restaurants .page-body {
@@ -245,19 +223,66 @@
     }
 
     /* ---------------------------
-       DESKTOP TWEAKS
-       Do not change background-size to contain (that produced big white sidebars).
+       REMOVE LINES / FRAMES INSIDE HERO (your request)
+       Targets only elements that sit inside the hero so non-hero pages keep their dividers.
        --------------------------- */
 
-    @media (min-width: 1024px) {
-      .site-hero { background-size: cover; background-position: center center; }
+    /* remove borders, outlines and shadows for anything inside the hero */
+    .site-hero *,
+    .site-hero *::before,
+    .site-hero *::after {
+      border: none !important;
+      box-shadow: none !important;
+      outline: none !important;
+      background-image: none !important; /* prevents accidental framed backgrounds */
+      background-color: transparent !important;
+    }
 
-      /* main content sits over the hero, but the follow-up content should align left */
-      .page-body { margin-top: 1.8rem; }
+    /* ensure headings inside hero have no divider line */
+    .site-hero h1,
+    .site-hero h2,
+    .site-hero h3 {
+      border: none !important;
+      padding-bottom: 0 !important;
+      margin-bottom: .4rem !important;
+      background: transparent !important;
+    }
+
+    /* ensure nav inside hero has no divider or background */
+    .site-hero nav {
+      border: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+
+    /* remove figure/figcaption frames inside hero */
+    .site-hero figure, .site-hero figcaption {
+      border: none !important;
+      box-shadow: none !important;
+      background: transparent !important;
+      color: inherit;
     }
 
     /* ---------------------------
-       MOBILE LAYOUT
+       DESKTOP: make hero more page-filling vertically
+       --------------------------- */
+
+    @media (min-width: 1024px) {
+      .site-hero {
+        min-height: var(--hero-desktop-height); /* larger vertical footprint on desktop */
+        background-size: cover;                 /* keep cover */
+        background-position: center center;
+      }
+
+      /* slightly reduce hero-inner width so the visual background area is more visible horizontally */
+      .hero-inner { max-width: 760px; padding-left: 3rem; padding-right: 3rem; }
+
+      /* content below hero keeps a comfortable gap */
+      .page-body { margin-top: 2rem; }
+    }
+
+    /* ---------------------------
+       MOBILE
        --------------------------- */
 
     @media (max-width: 600px) {
@@ -273,9 +298,7 @@
   {% seo %}
 
   {% if page.section == "food" and page.city == "phuket-town" and page.category == "restaurants" %}
-  <!-- Inline page-level adjustments retained for compatibility (but minimal) -->
   <style>
-    /* Keep these here only if you need the explicit mobile/desktop switch for this page */
     @media (max-width: 900px) {
       main, main p, main li, main h1, main h2, main h3, main span, main div {
         color: #111 !important;
@@ -303,9 +326,8 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- HERO wrapper: present on pages that have background images (controlled by CSS via body classes) -->
+  <!-- HERO wrapper -->
   <header class="site-hero" role="banner" aria-label="Page hero">
-    <!-- navigation floats on top of hero for background pages -->
     <nav>
       <a href="/">Home</a>
       <a href="/travels/">Travels</a>
@@ -313,7 +335,6 @@
       <a href="/about/">About</a>
     </nav>
 
-    <!-- hero-inner holds title / tagline if you use them. If you don't want a title here, leave empty -->
     <div class="hero-inner">
       {% if page.title %}
         <h1>{{ page.title }}</h1>
@@ -324,7 +345,6 @@
     </div>
   </header>
 
-  <!-- page-body is where the normal, readable content lives -->
   <main id="top" class="page-body" role="main">
     {{ content }}
   </main>
