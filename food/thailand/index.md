@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Thailand
-section: food thailand
+section: food
+index: true
 ---
+
 
 
 # Thailand
