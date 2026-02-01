@@ -17,9 +17,8 @@
       --rule: #e5e5e5;
       --content-max: 820px;
       --hero-mobile-height: 56vh;
-      --hero-desktop-height: 100vh; /* now full viewport on desktop */
+      --hero-desktop-height: 100vh; /* desktop = full viewport */
       --hero-overlay: rgba(0,0,0,0.35);
-      --hero-overlay-strong: rgba(0,0,0,0.52);
       --read-full-blue: #1a4fd8;
     }
 
@@ -54,16 +53,18 @@
     figure { margin: 1.5rem auto; text-align: center; }
     figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
 
-    nav {
+    /* default nav (in-flow). Will be repositioned for hero pages via body class selectors */
+    nav.site-nav {
       border-bottom: 1px solid var(--rule);
       padding: .6rem 0 .8rem;
       margin-bottom: 2.5rem;
       text-align: right;
       position: relative;
       z-index: 30;
+      background: transparent;
     }
 
-    nav a {
+    nav.site-nav a {
       font-family: "Inter", system-ui, sans-serif;
       font-size: .95rem;
       margin-left: 1rem;
@@ -82,21 +83,20 @@
     hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
 
     /* ---------------------------
-       HERO / BACKGROUND LAYOUT
-       - full-bleed hero (spans viewport width)
-       - hero-inner is centered and constrained to content width
+       HERO / BACKGROUND (full-bleed)
        --------------------------- */
 
     .site-hero {
       position: relative;
-      /* full-bleed trick: make the element span the viewport even though it sits inside a constrained container */
+
+      /* full-bleed: span the viewport width even inside constrained container */
       left: 50%;
       right: 50%;
       margin-left: -50vw;
       margin-right: -50vw;
       width: 100vw;
 
-      /* height controlled by media queries */
+      /* height */
       min-height: var(--hero-mobile-height);
 
       display: flex;
@@ -108,8 +108,8 @@
       background-color: #000;
       background-position: center center;
       background-repeat: no-repeat;
-      background-size: cover;        /* prevents distortion; crops instead */
-      background-attachment: scroll; /* avoid fixed for mobile */
+      background-size: cover;
+      background-attachment: scroll;
       z-index: 10;
     }
 
@@ -132,26 +132,7 @@
       box-sizing: border-box;
     }
 
-    /* when hero present, nav floats on top */
-    body.food .site-hero nav,
-    body.travels.index .site-hero nav {
-      position: absolute;
-      top: 1.1rem;
-      right: 1.5rem;
-      left: auto;
-      text-align: right;
-      border-bottom: none;
-      z-index: 15;
-      background: transparent;
-      padding: 0;
-      margin: 0;
-    }
-
-    body.food .site-hero nav a,
-    body.travels.index .site-hero nav a {
-      color: #fff;
-    }
-
+    /* page content area */
     .page-body {
       max-width: var(--content-max);
       margin: 2rem auto;
@@ -162,7 +143,7 @@
       z-index: 20;
     }
 
-    /* restaurant review pages keep non-hero layout (locked) */
+    /* restaurant review pages should retain the locked non-hero layout */
     body.food.food-review {
       background: #fff !important;
       color: #111 !important;
@@ -170,14 +151,15 @@
       margin: 3rem auto;
       padding: 0 1.5rem;
     }
-
-    body.food.food-review nav a { color: #333; }
-    body.food.food-review h1 { border-bottom: 2px solid var(--rule); }
-    body.food.food-review main { position: static !important; transform: none !important; padding: 0; }
+    /* ensure nav on review pages stays in-flow and dark */
+    body.food.food-review nav.site-nav {
+      position: relative;
+      border-bottom: 1px solid var(--rule);
+    }
+    body.food.food-review nav.site-nav a { color: #333; }
 
     /* ---------------------------
-       PER-PAGE HERO IMAGES
-       (assign by body classes)
+       HERO IMAGE ASSIGNMENTS (by body class)
        --------------------------- */
 
     body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: var(--hero-mobile-height); }
@@ -187,6 +169,8 @@
     body.food.food-category.basic-eateries .site-hero{ background-image: url("/photos/background/cmbasic.jpg"); }
     body.food.food-category.restaurants .site-hero   { background-image: url("/photos/background/ptrestaurants.jpg"); }
     body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
+
+    /* travels index uses same hero system */
     body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-mobile-height); }
 
     /* default hero text/link colour */
@@ -197,7 +181,6 @@
     body.travels.index .hero-inner {
       color: #fff;
     }
-
     body.food.food-country .hero-inner a,
     body.food.food-city .hero-inner a,
     body.food.food-category .hero-inner a,
@@ -207,8 +190,37 @@
     }
 
     /* ---------------------------
-       REMOVE LINES / FRAMES INSIDE HERO
-       (targets only hero children — leaves non-hero pages' dividers intact)
+       NAV: float visually over hero only for hero pages
+       Use body class selectors so review pages keep normal nav.
+       --------------------------- */
+
+    /* hero nav (floating) */
+    body.food.index nav.site-nav,
+    body.food.food-country nav.site-nav,
+    body.food.food-city nav.site-nav,
+    body.food.food-category nav.site-nav,
+    body.travels.index nav.site-nav {
+      position: absolute;
+      top: 1.1rem;
+      right: 1.5rem;
+      left: auto;
+      text-align: right;
+      border-bottom: none;
+      z-index: 30;
+      background: transparent;
+      padding: 0;
+      margin: 0;
+    }
+    body.food.index nav.site-nav a,
+    body.food.food-country nav.site-nav a,
+    body.food.food-city nav.site-nav a,
+    body.food.food-category nav.site-nav a,
+    body.travels.index nav.site-nav a {
+      color: #fff;
+    }
+
+    /* ---------------------------
+       REMOVE LINES/FRAMES INSIDE HERO
        --------------------------- */
 
     .site-hero *,
@@ -221,45 +233,28 @@
       background-color: transparent !important;
     }
 
-    .site-hero h1,
-    .site-hero h2,
-    .site-hero h3 {
+    .site-hero h1, .site-hero h2, .site-hero h3 {
       border: none !important;
       padding-bottom: 0 !important;
       margin-bottom: .4rem !important;
       background: transparent !important;
     }
 
-    .site-hero nav {
-      border: none !important;
-      background: transparent !important;
-      box-shadow: none !important;
-    }
+    .site-hero nav { border: none !important; background: transparent !important; box-shadow: none !important; }
 
-    .site-hero figure, .site-hero figcaption {
-      border: none !important;
-      box-shadow: none !important;
-      background: transparent !important;
-      color: inherit;
-    }
+    .site-hero figure, .site-hero figcaption { border: none !important; box-shadow: none !important; background: transparent !important; color: inherit; }
 
     /* ---------------------------
-       DESKTOP (make hero fill page)
-       - hero spans full viewport width (already done with full-bleed trick)
-       - use full viewport height for stronger desktop presence
-       - tighten hero-inner so background area is more visible
+       DESKTOP: stronger hero (full viewport)
        --------------------------- */
 
     @media (min-width: 1024px) {
       .site-hero {
-        min-height: var(--hero-desktop-height); /* now 100vh */
+        min-height: var(--hero-desktop-height); /* 100vh */
         background-size: cover;
         background-position: center center;
       }
-
-      /* narrow the hero-inner slightly so the image shows more */
       .hero-inner { max-width: 720px; padding-left: 3rem; padding-right: 3rem; }
-
       .page-body { margin-top: 2rem; }
     }
 
@@ -271,15 +266,13 @@
       body { margin: 0; padding: 0; }
       .site-hero { min-height: 44vh; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; }
       .hero-inner { padding: 1.6rem; }
-      nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
+      nav.site-nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
       main#top { padding-top: 1rem; }
       .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
     }
 
     /* ---------------------------
-       "Read the full review" link styling
-       - default style for read-full class
-       - JS (below) will add .read-full to links that match the phrase
+       "Read the full review" link style
        --------------------------- */
 
     a.read-full {
@@ -287,9 +280,7 @@
       font-weight: 600;
       text-decoration: none;
     }
-    a.read-full:hover {
-      text-decoration: underline;
-    }
+    a.read-full:hover { text-decoration: underline; }
 
   </style>
 
@@ -306,16 +297,18 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- HERO wrapper (full-bleed) -->
-  <header class="site-hero" role="banner" aria-label="Page hero">
-    <!-- navigation floats above hero -->
-    <nav>
-      <a href="/">Home</a>
-      <a href="/travels/">Travels</a>
-      <a href="/food/">Food</a>
-      <a href="/about/">About</a>
-    </nav>
+  <!-- Nav (kept outside hero so review pages keep normal flow).
+       Visual float is controlled by the CSS body-class selectors above. -->
+  <nav class="site-nav">
+    <a href="/">Home</a>
+    <a href="/travels/">Travels</a>
+    <a href="/food/">Food</a>
+    <a href="/about/">About</a>
+  </nav>
 
+  <!-- HERO: rendered only when this is not a review page -->
+  {% unless page.review %}
+  <header class="site-hero" role="banner" aria-label="Page hero">
     <div class="hero-inner">
       {% if page.title %}
         <h1>{{ page.title }}</h1>
@@ -325,46 +318,38 @@
       {% endif %}
     </div>
   </header>
+  {% endunless %}
 
   <!-- main content -->
   <main id="top" class="page-body" role="main">
     {{ content }}
   </main>
 
-  <!-- Tiny script: detect "Read the full review" links and add .read-full class on restaurant & cafe landing pages -->
+  <!-- Tiny script: detect "Read the full review" links and add .read-full class on restaurants/cafes landing pages -->
   <script>
     (function () {
-      // run only on categories landing pages for restaurants or cafes
       var body = document.body;
       if (!body) return;
 
-      var hasCategory = body.classList.contains('food-category');
-      var isRestaurants = body.classList.contains('restaurants') || body.classList.contains('food-category') && body.classList.contains('food-city') && body.classList.contains('phuket-town') && false;
-      // better to check the specific class combos:
-      var isRestaurantsLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('restaurants') || body.className.indexOf('restaurants') !== -1);
-      var isCafesLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('cafes') || body.className.indexOf('cafes') !== -1);
+      var isLanding = body.classList.contains('food-category');
+      var isRestaurantsLanding = isLanding && (body.className.indexOf('restaurants') !== -1);
+      var isCafesLanding = isLanding && (body.className.indexOf('cafes') !== -1);
 
-      if (!(isRestaurantsLanding || isCafesLanding)) {
-        // Do nothing unless on a restaurants or cafes landing page
-        return;
-      }
+      if (!(isRestaurantsLanding || isCafesLanding)) return;
 
-      // Normalize and match anchor text to identify the "read the full review" links.
       var anchors = Array.prototype.slice.call(document.querySelectorAll('a'));
+      var matches = [
+        'read the full review',
+        'read full review',
+        'read the review',
+        'read review',
+        'read the full article',
+        'read more'
+      ];
+
       anchors.forEach(function(a){
         if (!a || !a.textContent) return;
         var txt = a.textContent.trim().toLowerCase();
-
-        // match a few reasonable variants of the phrase
-        var matches = [
-          'read the full review',
-          'read full review',
-          'read the review',
-          'read review',
-          'read the full article',
-          'read more'
-        ];
-
         for (var i=0;i<matches.length;i++){
           if (txt === matches[i] || txt.indexOf(matches[i]) !== -1) {
             a.classList.add('read-full');
