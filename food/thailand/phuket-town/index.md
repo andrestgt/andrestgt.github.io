@@ -1,7 +1,10 @@
 ---
 layout: default
 section: food
-index: true
+type: food-city
+city: phuket-town
+country: thailand
+
 ---
 
 
