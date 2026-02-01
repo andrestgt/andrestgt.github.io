@@ -504,13 +504,13 @@ body.food.food-city.food-category.cafes:not(.phuket-town) .site-hero {
 
 <body class="
   {{ page.section }}
-  {% if page.index %} index{% endif %}
   {% if page.country %} food-country{% endif %}
   {% if page.city %} food-city{% endif %}
-  {% if page.category %} food-category{% endif %}
+  {% if page.category %} food-category {{ page.category }}{% endif %}
   {% if page.review %} food-review{% endif %}
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
+
 
   <!-- Nav (kept outside hero so review pages keep normal flow).
        Visual float is controlled by the CSS body-class selectors above. -->
