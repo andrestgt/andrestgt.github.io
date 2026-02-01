@@ -4,9 +4,8 @@ section: food
 country: thailand
 city: phuket-town
 category: restaurants
-slug: restaurants
+slug: phuket-town
 ---
-
 
 # Restaurants 
 
