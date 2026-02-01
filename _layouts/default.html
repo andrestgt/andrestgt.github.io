@@ -12,285 +12,168 @@
 
   <style>
     :root{
-      --accent: #1a4fd8;
-      --text-muted: #666;
-      --rule: #e5e5e5;
-      --content-max: 820px;
-      --hero-mobile-height: 56vh;
-      --hero-desktop-height: 100vh; /* now full viewport on desktop */
-      --hero-overlay: rgba(0,0,0,0.35);
-      --hero-overlay-strong: rgba(0,0,0,0.52);
-      --read-full-blue: #1a4fd8;
+      --accent:#1a4fd8;
+      --rule:#e5e5e5;
+      --content-max:820px;
     }
 
-    html,body { height: 100%; }
+    html,body{height:100%;}
 
-    /* ---------------------------
-       GLOBAL BASE
-       --------------------------- */
+    /* =========================
+       BASE
+       ========================= */
 
-    body {
-      font-family: "Source Serif 4", Georgia, serif;
-      max-width: var(--content-max);
-      margin: 3rem auto;
-      padding: 0 1.5rem;
-      line-height: 1.7;
-      background: #fff;
-      color: #111;
-      -webkit-font-smoothing:antialiased;
-      -moz-osx-font-smoothing:grayscale;
+    body{
+      font-family:"Source Serif 4",Georgia,serif;
+      max-width:var(--content-max);
+      margin:3rem auto;
+      padding:0 1.5rem;
+      line-height:1.7;
+      background:#fff;
+      color:#111;
     }
 
-    h1,h2,h3 { font-family: "Inter", system-ui, sans-serif; margin: 0 0 .6rem 0; }
-    h1 { border-bottom: 2px solid var(--rule); padding-bottom: .4rem; margin-bottom: 1.2rem; }
-
-    p { margin: 1.2rem 0; }
-
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-
-    img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; border-radius: 6px; }
-
-    figure { margin: 1.5rem auto; text-align: center; }
-    figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
-
-    nav {
-      border-bottom: 1px solid var(--rule);
-      padding: .6rem 0 .8rem;
-      margin-bottom: 2.5rem;
-      text-align: right;
-      position: relative;
-      z-index: 30;
+    h1,h2,h3{
+      font-family:"Inter",system-ui,sans-serif;
+      margin:0 0 .6rem 0;
     }
 
-    nav a {
-      font-family: "Inter", system-ui, sans-serif;
-      font-size: .95rem;
-      margin-left: 1rem;
-      color: #333;
+    h1{
+      border-bottom:2px solid var(--rule);
+      padding-bottom:.4rem;
+      margin-bottom:1.2rem;
     }
 
-    main#top {
-      max-width: var(--content-max);
-      margin: 0 auto;
-      padding: 1rem 0 4rem;
-      position: relative;
-      z-index: 40;
-      background: transparent;
+    p{margin:1.2rem 0;}
+
+    a{color:var(--accent);text-decoration:none;}
+    a:hover{text-decoration:underline;}
+
+    img{
+      max-width:100%;
+      height:auto;
+      display:block;
+      margin:1.5rem auto;
+      border-radius:6px;
     }
 
-    hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
+    figure{margin:1.5rem auto;text-align:center;}
+    figcaption{font-size:.85rem;color:#666;margin-top:.4rem;}
 
-    /* ---------------------------
-       HERO / BACKGROUND LAYOUT
-       - full-bleed hero (spans viewport width)
-       - hero-inner is centered and constrained to content width
-       --------------------------- */
+    hr{border:none;height:1px;background:var(--rule);margin:1.2rem 0;}
 
-    .site-hero {
-      position: relative;
-      /* full-bleed trick: make the element span the viewport even though it sits inside a constrained container */
-      left: 50%;
-      right: 50%;
-      margin-left: -50vw;
-      margin-right: -50vw;
-      width: 100vw;
+    /* =========================
+       NAVIGATION
+       ========================= */
 
-      /* height controlled by media queries */
-      min-height: var(--hero-mobile-height);
-
-      display: flex;
-      align-items: center;
-      justify-content: flex-start;
-      box-sizing: border-box;
-      overflow: hidden;
-      color: #fff;
-      background-color: #000;
-      background-position: center center;
-      background-repeat: no-repeat;
-      background-size: cover;        /* prevents distortion; crops instead */
-      background-attachment: scroll; /* avoid fixed for mobile */
-      z-index: 10;
+    nav.site-nav{
+      border-bottom:1px solid var(--rule);
+      padding:.6rem 0 .8rem;
+      margin-bottom:2.5rem;
+      text-align:right;
+      position:relative;
+      z-index:20;
     }
 
-    .site-hero::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: var(--hero-overlay);
-      pointer-events: none;
-      z-index: 5;
+    nav.site-nav a{
+      font-family:"Inter",system-ui,sans-serif;
+      font-size:.95rem;
+      margin-left:1rem;
+      color:#333;
     }
 
-    .hero-inner {
-      width: 100%;
-      max-width: var(--content-max);
-      padding: 2.5rem 1.5rem;
-      margin: 0 auto;
-      position: relative;
-      z-index: 10;
-      box-sizing: border-box;
+    /* =========================
+       HERO (NON-REVIEW PAGES ONLY)
+       ========================= */
+
+    .site-hero{
+      position:relative;
+      left:50%;
+      right:50%;
+      margin-left:-50vw;
+      margin-right:-50vw;
+      width:100vw;
+      min-height:100vh;
+      background:#000 center/cover no-repeat;
+      z-index:5;
     }
 
-    /* when hero present, nav floats on top */
-    body.food .site-hero nav,
-    body.travels.index .site-hero nav {
-      position: absolute;
-      top: 1.1rem;
-      right: 1.5rem;
-      left: auto;
-      text-align: right;
-      border-bottom: none;
-      z-index: 15;
-      background: transparent;
-      padding: 0;
-      margin: 0;
+    .site-hero::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:rgba(0,0,0,.35);
     }
 
-    body.food .site-hero nav a,
-    body.travels.index .site-hero nav a {
-      color: #fff;
+    .hero-inner{
+      position:relative;
+      max-width:var(--content-max);
+      margin:0 auto;
+      padding:3rem 1.5rem;
+      color:#fff;
+      z-index:10;
     }
 
-    .page-body {
-      max-width: var(--content-max);
-      margin: 2rem auto;
-      padding: 0 1.5rem 4rem;
-      background: transparent;
-      color: inherit;
-      position: relative;
-      z-index: 20;
+    /* =========================
+       REVIEW PAGES — HARD RESET
+       ========================= */
+
+    body.food.food-review{
+      background:#fff;
+      color:#111;
+      max-width:var(--content-max);
+      margin:3rem auto;
+      padding:0 1.5rem;
     }
 
-    /* restaurant review pages keep non-hero layout (locked) */
-    body.food.food-review {
-      background: #fff !important;
-      color: #111 !important;
-      max-width: var(--content-max);
-      margin: 3rem auto;
-      padding: 0 1.5rem;
+    /* absolutely no hero footprint */
+    body.food.food-review .site-hero{
+      display:none !important;
     }
 
-    body.food.food-review nav a { color: #333; }
-    body.food.food-review h1 { border-bottom: 2px solid var(--rule); }
-    body.food.food-review main { position: static !important; transform: none !important; padding: 0; }
-
-    /* ---------------------------
-       PER-PAGE HERO IMAGES
-       (assign by body classes)
-       --------------------------- */
-
-    body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: var(--hero-mobile-height); }
-    body.food.food-country.thailand .site-hero       { background-image: url("/photos/background/foodthailand.jpg"); }
-    body.food.food-city.chiang-mai .site-hero        { background-image: url("/photos/background/foodthaicm.png"); }
-    body.food.food-city.phuket-town .site-hero       { background-image: url("/photos/background/foodthaipt.jpg"); }
-    body.food.food-category.basic-eateries .site-hero{ background-image: url("/photos/background/cmbasic.jpg"); }
-    body.food.food-category.restaurants .site-hero   { background-image: url("/photos/background/ptrestaurants.jpg"); }
-    body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
-    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-mobile-height); }
-
-    /* default hero text/link colour */
-    body.food.food-country .hero-inner,
-    body.food.food-city .hero-inner,
-    body.food.food-category .hero-inner,
-    body.food.index .hero-inner,
-    body.travels.index .hero-inner {
-      color: #fff;
+    /* nav stays normal + visible */
+    body.food.food-review nav.site-nav{
+      position:relative;
+      border-bottom:1px solid var(--rule);
     }
 
-    body.food.food-country .hero-inner a,
-    body.food.food-city .hero-inner a,
-    body.food.food-category .hero-inner a,
-    body.food.index .hero-inner a,
-    body.travels.index .hero-inner a {
-      color: #fff;
+    body.food.food-review nav.site-nav a{
+      color:#333;
     }
 
-    /* ---------------------------
-       REMOVE LINES / FRAMES INSIDE HERO
-       (targets only hero children — leaves non-hero pages' dividers intact)
-       --------------------------- */
+    /* =========================
+       HERO IMAGE ASSIGNMENTS
+       ========================= */
 
-    .site-hero *,
-    .site-hero *::before,
-    .site-hero *::after {
-      border: none !important;
-      box-shadow: none !important;
-      outline: none !important;
-      background-image: none !important;
-      background-color: transparent !important;
+    body.food.index .site-hero{background-image:url("/photos/background/food.jpg");}
+    body.food.food-country.thailand .site-hero{background-image:url("/photos/background/foodthailand.jpg");}
+    body.food.food-city.chiang-mai .site-hero{background-image:url("/photos/background/foodthaicm.png");}
+    body.food.food-city.phuket-town .site-hero{background-image:url("/photos/background/foodthaipt.jpg");}
+    body.food.food-category.restaurants .site-hero{background-image:url("/photos/background/ptrestaurants.jpg");}
+    body.food.food-category.cafes.phuket-town .site-hero{background-image:url("/photos/background/ptcafes.jpg");}
+    body.travels.index .site-hero{background-image:url("/photos/background/travelogues.jpg");}
+
+    /* =========================
+       MAIN CONTENT
+       ========================= */
+
+    main#top{
+      max-width:var(--content-max);
+      margin:0 auto;
+      padding:1rem 0 4rem;
+      position:relative;
+      z-index:10;
     }
 
-    .site-hero h1,
-    .site-hero h2,
-    .site-hero h3 {
-      border: none !important;
-      padding-bottom: 0 !important;
-      margin-bottom: .4rem !important;
-      background: transparent !important;
-    }
-
-    .site-hero nav {
-      border: none !important;
-      background: transparent !important;
-      box-shadow: none !important;
-    }
-
-    .site-hero figure, .site-hero figcaption {
-      border: none !important;
-      box-shadow: none !important;
-      background: transparent !important;
-      color: inherit;
-    }
-
-    /* ---------------------------
-       DESKTOP (make hero fill page)
-       - hero spans full viewport width (already done with full-bleed trick)
-       - use full viewport height for stronger desktop presence
-       - tighten hero-inner so background area is more visible
-       --------------------------- */
-
-    @media (min-width: 1024px) {
-      .site-hero {
-        min-height: var(--hero-desktop-height); /* now 100vh */
-        background-size: cover;
-        background-position: center center;
-      }
-
-      /* narrow the hero-inner slightly so the image shows more */
-      .hero-inner { max-width: 720px; padding-left: 3rem; padding-right: 3rem; }
-
-      .page-body { margin-top: 2rem; }
-    }
-
-    /* ---------------------------
+    /* =========================
        MOBILE
-       --------------------------- */
+       ========================= */
 
-    @media (max-width: 600px) {
-      body { margin: 0; padding: 0; }
-      .site-hero { min-height: 44vh; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; }
-      .hero-inner { padding: 1.6rem; }
-      nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
-      main#top { padding-top: 1rem; }
-      .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
+    @media(max-width:600px){
+      body{margin:0;padding:0;}
+      nav.site-nav{text-align:left;padding:.6rem 1.5rem;}
+      main#top{padding:1rem 1.2rem 3rem;}
     }
-
-    /* ---------------------------
-       "Read the full review" link styling
-       - default style for read-full class
-       - JS (below) will add .read-full to links that match the phrase
-       --------------------------- */
-
-    a.read-full {
-      color: var(--read-full-blue) !important;
-      font-weight: 600;
-      text-decoration: none;
-    }
-    a.read-full:hover {
-      text-decoration: underline;
-    }
-
   </style>
 
   {% seo %}
@@ -306,75 +189,30 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- HERO wrapper (full-bleed) -->
-  <header class="site-hero" role="banner" aria-label="Page hero">
-    <!-- navigation floats above hero -->
-    <nav>
-      <a href="/">Home</a>
-      <a href="/travels/">Travels</a>
-      <a href="/food/">Food</a>
-      <a href="/about/">About</a>
-    </nav>
+  <!-- NAV -->
+  <nav class="site-nav">
+    <a href="/">Home</a>
+    <a href="/travels/">Travels</a>
+    <a href="/food/">Food</a>
+    <a href="/about/">About</a>
+  </nav>
 
+  <!-- HERO (NOT rendered on review pages) -->
+  {% unless page.review %}
+  <header class="site-hero" role="banner">
     <div class="hero-inner">
-      {% if page.title %}
-        <h1>{{ page.title }}</h1>
-      {% endif %}
-      {% if page.subtitle %}
-        <p class="subtitle">{{ page.subtitle }}</p>
-      {% endif %}
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
     </div>
   </header>
+  {% endunless %}
 
-  <!-- main content -->
-  <main id="top" class="page-body" role="main">
+  <!-- CONTENT -->
+  <main id="top">
     {{ content }}
   </main>
 
-  <!-- Tiny script: detect "Read the full review" links and add .read-full class on restaurant & cafe landing pages -->
-  <script>
-    (function () {
-      // run only on categories landing pages for restaurants or cafes
-      var body = document.body;
-      if (!body) return;
-
-      var hasCategory = body.classList.contains('food-category');
-      var isRestaurants = body.classList.contains('restaurants') || body.classList.contains('food-category') && body.classList.contains('food-city') && body.classList.contains('phuket-town') && false;
-      // better to check the specific class combos:
-      var isRestaurantsLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('restaurants') || body.className.indexOf('restaurants') !== -1);
-      var isCafesLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('cafes') || body.className.indexOf('cafes') !== -1);
-
-      if (!(isRestaurantsLanding || isCafesLanding)) {
-        // Do nothing unless on a restaurants or cafes landing page
-        return;
-      }
-
-      // Normalize and match anchor text to identify the "read the full review" links.
-      var anchors = Array.prototype.slice.call(document.querySelectorAll('a'));
-      anchors.forEach(function(a){
-        if (!a || !a.textContent) return;
-        var txt = a.textContent.trim().toLowerCase();
-
-        // match a few reasonable variants of the phrase
-        var matches = [
-          'read the full review',
-          'read full review',
-          'read the review',
-          'read review',
-          'read the full article',
-          'read more'
-        ];
-
-        for (var i=0;i<matches.length;i++){
-          if (txt === matches[i] || txt.indexOf(matches[i]) !== -1) {
-            a.classList.add('read-full');
-            break;
-          }
-        }
-      });
-    })();
-  </script>
-
 </body>
 </html>
+
 
