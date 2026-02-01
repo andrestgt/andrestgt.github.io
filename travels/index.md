@@ -2,6 +2,7 @@
 layout: default
 title: Travelogues
 section: travels
+index: true
 ---
 
 # Travelogues
