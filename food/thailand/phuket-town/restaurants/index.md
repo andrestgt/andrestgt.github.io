@@ -40,3 +40,9 @@ A small, modern bistro inspired by Singaporean and Malaysian hawker cuisine, off
 A modern noodle shop specialising in Chinese handmade noodles and dumplings, ideal for a quick but well-executed meal in the Old Town.
 
 → [Read the full review](/food/thailand/phuket-town/restaurants/xi-mian-chinese-noodles/)
+
+
+---
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
