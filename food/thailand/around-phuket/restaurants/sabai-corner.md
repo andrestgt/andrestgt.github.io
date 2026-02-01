@@ -1,1 +1,16 @@
+---
+layout: default
+section: food
+review: true
+title: Sabai Corner
+subtitle: Kata / Karon · Restaurant
+---
+
+A quiet road through lush greenery leads to Sabai Corner, an open-air restaurant with a terrace and sweeping views over Kata and Karon. The setting is the main draw here, and it really is worth the trip for the view alone.
+
+The menu is long and covers the usual Thai standards, with a strong focus on seafood, alongside a number of Western dishes. The food is straightforward and absolutely solid, exactly what you would expect in this kind of place. Nothing particularly memorable, but also nothing to complain about.
+
+Prices are on the higher side, though that’s fairly normal for such a secluded spot with views like these. You are clearly paying in part for the location, but it helps that the food is perfectly decent. Not cheap, but still affordable, and a pleasant place to spend some time.
+
+🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/NMv49dSUnSRxY5TNA)
 
