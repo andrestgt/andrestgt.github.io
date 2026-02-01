@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Lao Pa Sat
-section: food
+section: food thailand phuket-town review
 ---
+
 
 ## Lao Pa Sat
 *Phuket Town · Singaporean / Malaysian · Restaurant*
