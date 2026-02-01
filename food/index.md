@@ -2,7 +2,9 @@
 layout: default
 section: food
 index: true
+slug: food
 ---
+
 
 
 # Food
