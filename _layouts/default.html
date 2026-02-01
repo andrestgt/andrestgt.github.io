@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,8 +17,9 @@
       --rule: #e5e5e5;
       --content-max: 820px;
       --hero-mobile-height: 56vh;
-      --hero-desktop-height: 100vh;
+      --hero-desktop-height: 100vh; /* now full viewport on desktop */
       --hero-overlay: rgba(0,0,0,0.35);
+      --hero-overlay-strong: rgba(0,0,0,0.52);
       --read-full-blue: #1a4fd8;
     }
 
@@ -45,36 +45,29 @@
     h1 { border-bottom: 2px solid var(--rule); padding-bottom: .4rem; margin-bottom: 1.2rem; }
 
     p { margin: 1.2rem 0; }
+
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
     img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; border-radius: 6px; }
+
     figure { margin: 1.5rem auto; text-align: center; }
     figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
-    hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
 
-    /* ---------------------------
-       NAV (in-flow by default)
-       --------------------------- */
-
-    nav.site-nav {
+    nav {
       border-bottom: 1px solid var(--rule);
       padding: .6rem 0 .8rem;
       margin-bottom: 2.5rem;
       text-align: right;
       position: relative;
       z-index: 30;
-      background: transparent;
-      transition: background .18s ease, box-shadow .18s ease, color .18s ease;
     }
 
-    /* default links (for non-hero pages) */
-    nav.site-nav a {
+    nav a {
       font-family: "Inter", system-ui, sans-serif;
       font-size: .95rem;
       margin-left: 1rem;
       color: #333;
-      transition: color .18s ease;
     }
 
     main#top {
@@ -86,21 +79,26 @@
       background: transparent;
     }
 
+    hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
+
     /* ---------------------------
-       HERO — full-bleed wrapper
+       HERO / BACKGROUND LAYOUT
+       - full-bleed hero (spans viewport width)
+       - hero-inner is centered and constrained to content width
        --------------------------- */
 
     .site-hero {
       position: relative;
-
-      /* full-bleed inside centered page */
+      /* full-bleed trick: make the element span the viewport even though it sits inside a constrained container */
       left: 50%;
       right: 50%;
       margin-left: -50vw;
       margin-right: -50vw;
       width: 100vw;
 
+      /* height controlled by media queries */
       min-height: var(--hero-mobile-height);
+
       display: flex;
       align-items: center;
       justify-content: flex-start;
@@ -110,8 +108,8 @@
       background-color: #000;
       background-position: center center;
       background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: scroll;
+      background-size: cover;        /* prevents distortion; crops instead */
+      background-attachment: scroll; /* avoid fixed for mobile */
       z-index: 10;
     }
 
@@ -134,9 +132,24 @@
       box-sizing: border-box;
     }
 
-    /* hide hero-inner visually so only nav is visible above the hero */
-    .site-hero .hero-inner {
-      display: none;
+    /* when hero present, nav floats on top */
+    body.food .site-hero nav,
+    body.travels.index .site-hero nav {
+      position: absolute;
+      top: 1.1rem;
+      right: 1.5rem;
+      left: auto;
+      text-align: right;
+      border-bottom: none;
+      z-index: 15;
+      background: transparent;
+      padding: 0;
+      margin: 0;
+    }
+
+    body.food .site-hero nav a,
+    body.travels.index .site-hero nav a {
+      color: #fff;
     }
 
     .page-body {
@@ -149,10 +162,7 @@
       z-index: 20;
     }
 
-    /* ---------------------------
-       REVIEW PAGES: no hero at all
-       --------------------------- */
-
+    /* restaurant review pages keep non-hero layout (locked) */
     body.food.food-review {
       background: #fff !important;
       color: #111 !important;
@@ -161,14 +171,13 @@
       padding: 0 1.5rem;
     }
 
-    body.food.food-review nav.site-nav {
-      position: relative;
-      border-bottom: 1px solid var(--rule);
-    }
-    body.food.food-review nav.site-nav a { color: #333; }
+    body.food.food-review nav a { color: #333; }
+    body.food.food-review h1 { border-bottom: 2px solid var(--rule); }
+    body.food.food-review main { position: static !important; transform: none !important; padding: 0; }
 
     /* ---------------------------
-       HERO IMAGE ASSIGNMENTS
+       PER-PAGE HERO IMAGES
+       (assign by body classes)
        --------------------------- */
 
     body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: var(--hero-mobile-height); }
@@ -180,36 +189,31 @@
     body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
     body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-mobile-height); }
 
-    /* make nav float on hero pages and set white links for contrast */
-    body.food.index nav.site-nav,
-    body.food.food-country nav.site-nav,
-    body.food.food-city nav.site-nav,
-    body.food.food-category nav.site-nav,
-    body.travels.index nav.site-nav {
-      position: absolute;
-      top: 1.1rem;
-      right: 1.5rem;
-      left: auto;
-      text-align: right;
-      border-bottom: none;
-      z-index: 30;
-      background: transparent;
-      padding: 0;
-      margin: 0;
+    /* default hero text/link colour */
+    body.food.food-country .hero-inner,
+    body.food.food-city .hero-inner,
+    body.food.food-category .hero-inner,
+    body.food.index .hero-inner,
+    body.travels.index .hero-inner {
+      color: #fff;
     }
-    body.food.index nav.site-nav a,
-    body.food.food-country nav.site-nav a,
-    body.food.food-city nav.site-nav a,
-    body.food.food-category nav.site-nav a,
-    body.travels.index nav.site-nav a {
+
+    body.food.food-country .hero-inner a,
+    body.food.food-city .hero-inner a,
+    body.food.food-category .hero-inner a,
+    body.food.index .hero-inner a,
+    body.travels.index .hero-inner a {
       color: #fff;
     }
 
     /* ---------------------------
-       REMOVE LINES/FRAMES INSIDE HERO
+       REMOVE LINES / FRAMES INSIDE HERO
+       (targets only hero children — leaves non-hero pages' dividers intact)
        --------------------------- */
 
-    .site-hero *, .site-hero *::before, .site-hero *::after {
+    .site-hero *,
+    .site-hero *::before,
+    .site-hero *::after {
       border: none !important;
       box-shadow: none !important;
       outline: none !important;
@@ -217,25 +221,65 @@
       background-color: transparent !important;
     }
 
+    .site-hero h1,
+    .site-hero h2,
+    .site-hero h3 {
+      border: none !important;
+      padding-bottom: 0 !important;
+      margin-bottom: .4rem !important;
+      background: transparent !important;
+    }
+
+    .site-hero nav {
+      border: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+
+    .site-hero figure, .site-hero figcaption {
+      border: none !important;
+      box-shadow: none !important;
+      background: transparent !important;
+      color: inherit;
+    }
+
     /* ---------------------------
-       ADAPTIVE NAV: scrolled / clipped state
-       - added so white links remain visible when hero top gets cut off
+       DESKTOP (make hero fill page)
+       - hero spans full viewport width (already done with full-bleed trick)
+       - use full viewport height for stronger desktop presence
+       - tighten hero-inner so background area is more visible
        --------------------------- */
 
-    nav.site-nav.scrolled {
-      background: rgba(255,255,255,0.94);
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    }
-    nav.site-nav.scrolled a {
-      color: #111;
-    }
+    @media (min-width: 1024px) {
+      .site-hero {
+        min-height: var(--hero-desktop-height); /* now 100vh */
+        background-size: cover;
+        background-position: center center;
+      }
 
-    /* ensure transition is smooth */
-    nav.site-nav { transition: background .18s ease, box-shadow .18s ease, color .18s ease; }
-    nav.site-nav a { transition: color .18s ease; }
+      /* narrow the hero-inner slightly so the image shows more */
+      .hero-inner { max-width: 720px; padding-left: 3rem; padding-right: 3rem; }
+
+      .page-body { margin-top: 2rem; }
+    }
 
     /* ---------------------------
-       "Read the full review" link style
+       MOBILE
+       --------------------------- */
+
+    @media (max-width: 600px) {
+      body { margin: 0; padding: 0; }
+      .site-hero { min-height: 44vh; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; }
+      .hero-inner { padding: 1.6rem; }
+      nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
+      main#top { padding-top: 1rem; }
+      .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
+    }
+
+    /* ---------------------------
+       "Read the full review" link styling
+       - default style for read-full class
+       - JS (below) will add .read-full to links that match the phrase
        --------------------------- */
 
     a.read-full {
@@ -243,26 +287,10 @@
       font-weight: 600;
       text-decoration: none;
     }
-    a.read-full:hover { text-decoration: underline; }
-
-    /* ---------------------------
-       DESKTOP / MOBILE TWEAKS
-       --------------------------- */
-
-    @media (min-width: 1024px) {
-      .site-hero { min-height: var(--hero-desktop-height); background-size: cover; background-position: center center; }
-      .hero-inner { max-width: 720px; padding-left: 3rem; padding-right: 3rem; }
-      .page-body { margin-top: 2rem; }
+    a.read-full:hover {
+      text-decoration: underline;
     }
 
-    @media (max-width: 600px) {
-      body { margin: 0; padding: 0; }
-      .site-hero { min-height: 44vh; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; }
-      .hero-inner { padding: 1.6rem; }
-      nav.site-nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
-      main#top { padding-top: 1rem; }
-      .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
-    }
   </style>
 
   {% seo %}
@@ -278,18 +306,17 @@
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- Nav (kept outside hero so review pages keep normal flow) -->
-  <nav class="site-nav" role="navigation" aria-label="Main">
-    <a href="/">Home</a>
-    <a href="/travels/">Travels</a>
-    <a href="/food/">Food</a>
-    <a href="/about/">About</a>
-  </nav>
-
-  <!-- HERO: not shown on review pages; hero-inner kept but hidden so only nav shows on hero pages -->
-  {% unless page.review %}
+  <!-- HERO wrapper (full-bleed) -->
   <header class="site-hero" role="banner" aria-label="Page hero">
-    <div class="hero-inner" aria-hidden="true">
+    <!-- navigation floats above hero -->
+    <nav>
+      <a href="/">Home</a>
+      <a href="/travels/">Travels</a>
+      <a href="/food/">Food</a>
+      <a href="/about/">About</a>
+    </nav>
+
+    <div class="hero-inner">
       {% if page.title %}
         <h1>{{ page.title }}</h1>
       {% endif %}
@@ -298,71 +325,56 @@
       {% endif %}
     </div>
   </header>
-  {% endunless %}
 
   <!-- main content -->
   <main id="top" class="page-body" role="main">
     {{ content }}
   </main>
 
-  <!-- Scripts: adaptive nav + read-full detection -->
+  <!-- Tiny script: detect "Read the full review" links and add .read-full class on restaurant & cafe landing pages -->
   <script>
     (function () {
-      // Adaptive nav: switch to scrolled state when hero top is clipped or page scrolled
-      var nav = document.querySelector('nav.site-nav');
-      var hero = document.querySelector('.site-hero');
+      // run only on categories landing pages for restaurants or cafes
+      var body = document.body;
+      if (!body) return;
 
-      function updateNavState() {
-        if (!nav) return;
-        var clipped = false;
+      var hasCategory = body.classList.contains('food-category');
+      var isRestaurants = body.classList.contains('restaurants') || body.classList.contains('food-category') && body.classList.contains('food-city') && body.classList.contains('phuket-town') && false;
+      // better to check the specific class combos:
+      var isRestaurantsLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('restaurants') || body.className.indexOf('restaurants') !== -1);
+      var isCafesLanding = body.classList.contains('food-category') && document.querySelector('.site-hero') && (body.classList.contains('cafes') || body.className.indexOf('cafes') !== -1);
 
-        if (hero) {
-          var r = hero.getBoundingClientRect();
-          // clipped when hero's top is above or nearly at top of viewport
-          clipped = r.top < 2; // small tolerance
-        } else {
-          clipped = window.scrollY > 10;
-        }
-
-        if (clipped) nav.classList.add('scrolled');
-        else nav.classList.remove('scrolled');
+      if (!(isRestaurantsLanding || isCafesLanding)) {
+        // Do nothing unless on a restaurants or cafes landing page
+        return;
       }
 
-      // Run on load, scroll and resize
-      updateNavState();
-      window.addEventListener('scroll', updateNavState, { passive: true });
-      window.addEventListener('resize', updateNavState);
+      // Normalize and match anchor text to identify the "read the full review" links.
+      var anchors = Array.prototype.slice.call(document.querySelectorAll('a'));
+      anchors.forEach(function(a){
+        if (!a || !a.textContent) return;
+        var txt = a.textContent.trim().toLowerCase();
 
-      // Read-the-full-review link detection (applies on restaurants/cafes landing pages)
-      (function(){
-        var body = document.body;
-        if (!body) return;
-        var isLanding = body.classList.contains('food-category');
-        var isRestaurantsLanding = isLanding && (body.className.indexOf('restaurants') !== -1);
-        var isCafesLanding = isLanding && (body.className.indexOf('cafes') !== -1);
-
-        if (!(isRestaurantsLanding || isCafesLanding)) return;
-
-        var anchors = Array.prototype.slice.call(document.querySelectorAll('a'));
+        // match a few reasonable variants of the phrase
         var matches = [
-          'read the full review','read full review','read the review','read review',
-          'read the full article','read more'
+          'read the full review',
+          'read full review',
+          'read the review',
+          'read review',
+          'read the full article',
+          'read more'
         ];
 
-        anchors.forEach(function(a){
-          if (!a || !a.textContent) return;
-          var txt = a.textContent.trim().toLowerCase();
-          for (var i=0;i<matches.length;i++){
-            if (txt === matches[i] || txt.indexOf(matches[i]) !== -1) {
-              a.classList.add('read-full');
-              break;
-            }
+        for (var i=0;i<matches.length;i++){
+          if (txt === matches[i] || txt.indexOf(matches[i]) !== -1) {
+            a.classList.add('read-full');
+            break;
           }
-        });
-      })();
-
+        }
+      });
     })();
   </script>
 
 </body>
 </html>
+
