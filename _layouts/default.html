@@ -282,6 +282,179 @@
     }
     a.read-full:hover { text-decoration: underline; }
 
+    /* ==================================================
+   DESKTOP IMPROVEMENTS
+   Add these to your existing <style> block
+   ================================================== */
+
+/* ---------------------------
+   DESKTOP ENHANCEMENTS (1024px+)
+   --------------------------- */
+
+@media (min-width: 1024px) {
+  
+  /* 1. Better content width for readability */
+  body {
+    max-width: 900px; /* slightly wider than mobile */
+    padding: 0 3rem;
+    margin: 3rem auto;
+  }
+
+  /* 2. Improved hero height - 100vh is too tall, 70vh is better */
+  .site-hero {
+    min-height: 70vh; /* reduced from 100vh */
+    background-attachment: fixed; /* parallax effect */
+  }
+
+  /* 3. Better hero text positioning */
+  .hero-inner {
+    max-width: 800px;
+    padding: 3rem 4rem;
+  }
+
+  /* 4. Hero typography scaling */
+  .hero-inner h1 {
+    font-size: 2.8rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+  }
+
+  .hero-inner .subtitle {
+    font-size: 1.3rem;
+    line-height: 1.6;
+  }
+
+  /* 5. Navigation improvements - better positioning */
+  body.food.index nav.site-nav,
+  body.food.food-country nav.site-nav,
+  body.food.food-city nav.site-nav,
+  body.food.food-category nav.site-nav,
+  body.travels.index nav.site-nav {
+    top: 2rem;
+    right: 3rem; /* align with content padding */
+  }
+
+  body.food.index nav.site-nav a,
+  body.food.food-country nav.site-nav a,
+  body.food.food-city nav.site-nav a,
+  body.food.food-category nav.site-nav a,
+  body.travels.index nav.site-nav a {
+    font-size: 1rem;
+    margin-left: 1.5rem;
+    font-weight: 500;
+  }
+
+  /* 6. Page content typography */
+  .page-body {
+    padding: 0 3rem 5rem;
+    margin-top: 3rem;
+  }
+
+  .page-body h1 {
+    font-size: 2.2rem;
+  }
+
+  .page-body h2 {
+    font-size: 1.6rem;
+    margin-top: 2.5rem;
+  }
+
+  .page-body h3 {
+    font-size: 1.3rem;
+    margin-top: 2rem;
+  }
+
+  .page-body p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    margin: 1.4rem 0;
+  }
+
+  /* 7. Review pages - constrain width */
+  body.food.food-review {
+    max-width: 800px;
+    padding: 0 3rem;
+  }
+
+  body.food.food-review main#top {
+    padding: 2rem 0 5rem;
+  }
+
+  /* 8. Images - better sizing */
+  img {
+    border-radius: 8px;
+  }
+
+  figure {
+    margin: 2.5rem auto;
+  }
+
+  figcaption {
+    font-size: 0.9rem;
+    margin-top: 0.6rem;
+  }
+}
+
+/* ---------------------------
+   LARGE DESKTOP (1400px+)
+   --------------------------- */
+
+@media (min-width: 1400px) {
+  
+  /* Limit max width on very large screens */
+  body {
+    max-width: 1000px;
+  }
+
+  .hero-inner {
+    max-width: 900px;
+    padding-left: 5rem;
+  }
+
+  .hero-inner h1 {
+    font-size: 3.2rem;
+  }
+
+  .hero-inner .subtitle {
+    font-size: 1.4rem;
+  }
+
+  .page-body p {
+    font-size: 1.1rem;
+    line-height: 1.85;
+  }
+}
+
+/* ---------------------------
+   TRAVELOGUE-SPECIFIC DESKTOP
+   --------------------------- */
+
+@media (min-width: 1024px) {
+  
+  /* Country blocks - better spacing */
+  .travelogue .country {
+    padding: 2.5rem 3rem;
+    margin: 4rem 0;
+    border-radius: 16px;
+  }
+
+  /* Culinary sections */
+  body.travelogue .culinary .place {
+    padding: 1.2rem 1.5rem;
+    margin: 1.5rem 0;
+  }
+
+  /* Photo rows - optimal width */
+  body.travelogue .photo-row {
+    max-width: 100%;
+    gap: 1.5rem;
+    margin: 3rem 0;
+  }
+
+  body.travelogue .photo-row img {
+    border-radius: 10px;
+  }
+}
   </style>
 
   {% seo %}
