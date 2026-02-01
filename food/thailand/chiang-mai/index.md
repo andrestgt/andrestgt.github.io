@@ -1,7 +1,8 @@
 ---
 layout: default
 section: food
-index: true
+city: true
+slug: chiang-mai
 ---
 
 
