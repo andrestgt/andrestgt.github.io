@@ -11,432 +11,285 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
 
   <style>
-    :root {
+    :root{
       --accent: #1a4fd8;
       --text-muted: #666;
       --rule: #e5e5e5;
+      --content-max: 820px;
+      --hero-min-height: 56vh;
+      --hero-overlay: rgba(0,0,0,0.35);
+      --hero-overlay-strong: rgba(0,0,0,0.52);
     }
 
-    /* =====================================================
-       BASE — applies to EVERY page unless explicitly overridden
-       ===================================================== */
+    /* ---------------------------
+       BASE
+       --------------------------- */
+
+    html,body { height: 100%; }
 
     body {
       font-family: "Source Serif 4", Georgia, serif;
-      max-width: 820px;
+      max-width: var(--content-max);
       margin: 3rem auto;
       padding: 0 1.5rem;
       line-height: 1.7;
       background: #fff;
       color: #111;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
     }
 
-    h1, h2, h3 {
-      font-family: "Inter", system-ui, sans-serif;
-    }
-
-    h1 {
-      border-bottom: 2px solid var(--rule);
-      padding-bottom: 0.4rem;
-      margin-bottom: 1.2rem;
-    }
+    h1,h2,h3 { font-family: "Inter", system-ui, sans-serif; margin: 0 0 .6rem 0; }
+    h1 { border-bottom: 2px solid var(--rule); padding-bottom: .4rem; margin-bottom: 1.2rem; }
 
     p { margin: 1.2rem 0; }
 
-    a {
-      color: var(--accent);
-      text-decoration: none;
-    }
-
+    a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 1.5rem auto;
-      border-radius: 6px;
-    }
+    img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; border-radius: 6px; }
 
-    figure {
-      margin: 1.5rem auto;
-      text-align: center;
-    }
-
-    figcaption {
-      font-size: 0.85rem;
-      color: var(--text-muted);
-      margin-top: 0.4rem;
-    }
-
-    /* =====================================================
-       NAVIGATION
-       ===================================================== */
+    figure { margin: 1.5rem auto; text-align: center; }
+    figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
 
     nav {
       border-bottom: 1px solid var(--rule);
-      padding-bottom: 0.8rem;
+      padding: .6rem 0 .8rem;
       margin-bottom: 2.5rem;
       text-align: right;
+      position: relative;
+      z-index: 30;
     }
 
     nav a {
       font-family: "Inter", system-ui, sans-serif;
-      font-size: 0.95rem;
+      font-size: .95rem;
       margin-left: 1rem;
       color: #333;
     }
 
-    /* =====================================================
-       FOOD — BASE RESET (no background by default)
-       ===================================================== */
+    /* main content wrapper for consistent width/positioning */
+    main#top {
+      max-width: var(--content-max);
+      margin: 0 auto;
+      padding: 1rem 0 4rem;
+      position: relative;
+      z-index: 40;
+      background: transparent;
+    }
 
+    /* remove global divider lines that were colliding with hero designs */
+    hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
+
+    /* ---------------------------
+       FOOD: base
+       --------------------------- */
+
+    /* pages that carry 'food' section remain unchanged by default */
     body.food {
-      background: #fff;
-      color: #111;
+      /* no background by default */
     }
 
-    /* =====================================================
-       FOOD — PAGES WITH BACKGROUNDS
-       (overview · country · city · category)
-       ===================================================== */
+    /* ---------------------------
+       HERO / BACKGROUND LAYOUT (modern, predictable)
+       --------------------------- */
 
-    body.food.food-country,
-    body.food.food-city,
-    body.food.food-category {
-      max-width: none;
-      margin: 0;
+    /* The hero wrapper controls all background behaviour.
+       We set a default hero and then assign images by body class further down.
+    */
+    .site-hero {
+      position: relative;
+      width: 100%;
+      min-height: var(--hero-min-height);
+      display: flex;
+      align-items: center;
+      justify-content: flex-start; /* content sits to left by default */
+      box-sizing: border-box;
+      overflow: hidden;
+      color: #fff;
+      background-color: #000; /* fallback */
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;          /* IMPORTANT: cover prevents distortion */
+      background-attachment: scroll;   /* avoid fixed (mobile/safari issues) */
+    }
+
+    /* overlay to ensure text legibility */
+    .site-hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: var(--hero-overlay);
+      pointer-events: none;
+      z-index: 5;
+    }
+
+    /* inner hero content container aligns with the normal content width */
+    .hero-inner {
+      width: 100%;
+      max-width: var(--content-max);
+      padding: 2.5rem 1.5rem;
+      margin: 0 auto;
+      position: relative;
+      z-index: 10;
+      box-sizing: border-box;
+    }
+
+    /* when using a hero, we usually want the nav to float on top */
+    body.food .site-hero nav,
+    body.travels.index .site-hero nav {
+      position: absolute;
+      top: 1.1rem;
+      right: 1.5rem;
+      left: auto;
+      text-align: right;
+      border-bottom: none;
+      z-index: 15;
+      background: transparent;
       padding: 0;
-      min-height: 100vh;
+      margin: 0;
+    }
+
+    body.food .site-hero nav a,
+    body.travels.index .site-hero nav a {
       color: #fff;
     }
 
-    body.food.food-country nav,
-    body.food.food-city nav,
-    body.food.food-category nav {
-      border-bottom: none;
+    /* content area that follows hero (for pages using hero) */
+    .page-body {
+      max-width: var(--content-max);
+      margin: 2rem auto;
+      padding: 0 1.5rem 4rem;
+      background: transparent;
+      color: inherit;
+      position: relative;
+      z-index: 20;
     }
 
-    body.food.food-country nav a,
-    body.food.food-city nav a,
-    body.food.food-category nav a {
-      color: #fff;
-    }
-
-    body.food.food-country h1,
-    body.food.food-city h1,
-    body.food.food-category h1 {
-      border-bottom: none;
-      color: #fff;
-    }
-
-   body.food.food-country main,
-body.food.food-city main,
-body.food.food-category main {
-  max-width: 820px;
-  padding-left: 2rem;
-}
-
-
-   /* =====================================================
-   FOOD — BACKGROUND IMAGES
-   (mobile-first defaults)
-   ===================================================== */
-
-/* FOOD — COUNTRY: THAILAND */
-body.food.food-country.thailand {
-  background-image: url("/photos/background/foodthailand.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-/* FOOD — CITY: CHIANG MAI */
-body.food.food-city.chiang-mai {
-  background-image: url("/photos/background/foodthaicm.png");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-/* FOOD — CITY: PHUKET TOWN */
-body.food.food-city.phuket-town {
-  background-image: url("/photos/background/foodthaipt.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-/* FOOD — CATEGORY: BASIC EATERIES (Chiang Mai) */
-body.food.food-category.basic-eateries {
-  background-image: url("/photos/background/cmbasic.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-/* FOOD — CATEGORY: RESTAURANTS (Phuket Town) */
-body.food.food-category.restaurants {
-  background-image: url("/photos/background/ptrestaurants.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-body.food.food-category.cafes.phuket-town {
-  background-image: url("/photos/background/ptcafes.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;        /* mobile default */
-  background-attachment: fixed; /* mobile default */
-}
-
-
-
-        /* =====================================================
-       FOOD — RESTAURANT REVIEWS (locked, no background)
-       ===================================================== */
-
+    /* ensure restaurant review pages keep the non-hero layout (locked) */
     body.food.food-review {
       background: #fff !important;
       color: #111 !important;
-      max-width: 820px;
+      max-width: var(--content-max);
       margin: 3rem auto;
       padding: 0 1.5rem;
     }
 
-    body.food.food-review nav a {
-      color: #333;
+    body.food.food-review nav a { color: #333; }
+    body.food.food-review h1 { border-bottom: 2px solid var(--rule); }
+    body.food.food-review main { position: static !important; transform: none !important; padding: 0; }
+
+    /* ---------------------------
+       PER-PAGE HERO IMAGE ASSIGNMENTS
+       Keep these simple: background-size: cover (no contain). Remove fixed attachments.
+       --------------------------- */
+
+    /* homepage */
+    body.food.index .site-hero {
+      background-image: url("/photos/background/food.jpg");
+      min-height: 68vh;
     }
 
-    body.food.food-review h1 {
-      border-bottom: 2px solid var(--rule);
-    }
+    /* country / city / category images */
+    body.food.food-country.thailand .site-hero       { background-image: url("/photos/background/foodthailand.jpg"); }
+    body.food.food-city.chiang-mai .site-hero        { background-image: url("/photos/background/foodthaicm.png"); }
+    body.food.food-city.phuket-town .site-hero       { background-image: url("/photos/background/foodthaipt.jpg"); }
+    body.food.food-category.basic-eateries .site-hero{ background-image: url("/photos/background/cmbasic.jpg"); }
+    body.food.food-category.restaurants .site-hero   { background-image: url("/photos/background/ptrestaurants.jpg"); }
+    body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
 
-    body.food.food-review main {
-      position: static !important;
-      transform: none !important;
-      padding: 0;
-    }
+    /* travels index */
+    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: 68vh; }
 
-    /* FOOD — HOMEPAGE */
-body.food.index {
-  background: url("/photos/background/food.jpg")
-              center / cover no-repeat fixed;
-  max-width: none;
-  margin: 0;
-  padding: 0;
-  min-height: 100vh;
-  color: #fff;
-}
+    /* ---------------------------
+       TEXT COLOR ADJUSTMENTS FOR SPECIFIC PAGES
+       (example: phuket-town restaurants had a special rule earlier)
+       --------------------------- */
 
-   /* FOOD — HOMEPAGE: remove divider lines */
-
-body.food.index h1,
-body.food.index h2 {
-  border-bottom: none;
-}
-
-body.food.index nav {
-  border-bottom: none;
-}
- 
-    /* FOOD — CATEGORY: STREET FOOD (Chiang Mai) */
-
-body.food.food-category.street-food,
-body.food.food-category.street-food h1,
-body.food.food-category.street-food h2,
-body.food.food-category.street-food h3,
-body.food.food-category.street-food p,
-body.food.food-category.street-food li,
-body.food.food-category.street-food a {
-  color: #fff;
-}
-
-    /* =====================
-   FOOD — CHIANG MAI
-   Street food & basic eateries
-   ===================== */
-
-body.food.category.chiang-mai.basic-eateries a {
-  color: #fff;
-  text-decoration: none;
-}
-
-body.food.category.chiang-mai.basic-eateries a:hover {
-  text-decoration: underline;
-}
-
-    /* =====================================================
-       TRAVELS — INDEX PAGE
-       ===================================================== */
-
-    body.travels.index {
-      max-width: none;
-      margin: 0;
-      padding: 0;
-      min-height: 100vh;
-      background: url("/photos/background/travelogues.jpg")
-                  center / cover no-repeat fixed;
+    /* Default for hero pages: white text / links */
+    body.food.food-country .hero-inner,
+    body.food.food-city .hero-inner,
+    body.food.food-category .hero-inner,
+    body.food.index .hero-inner,
+    body.travels.index .hero-inner {
       color: #fff;
     }
 
-    body.travels.index nav {
-      border-bottom: none;
-    }
-
-    body.travels.index nav a {
+    body.food.food-country .hero-inner a,
+    body.food.food-city .hero-inner a,
+    body.food.food-category .hero-inner a,
+    body.food.index .hero-inner a,
+    body.travels.index .hero-inner a {
       color: #fff;
     }
 
-    body.travels.index h1,
-    body.travels.index h2,
-    body.travels.index p {
-      color: #fff;
+    /* Specific override you used previously: phuket-town restaurants
+       — mobile: prefer darker text on top of a lighter cropped hero,
+       — desktop: keep white (overlay makes white legible).
+       If you prefer different contrast, tweak the rgba in --hero-overlay variables.
+    */
+    @media (max-width: 900px) {
+      body.food.food-city.phuket-town.food-category.restaurants main,
+      body.food.food-city.phuket-town.food-category.restaurants .page-body {
+        color: #111 !important; /* mobile: darker text for readability if the crop exposes a bright area */
+      }
+      body.food.food-city.phuket-town.food-category.restaurants .page-body a { color: #000 !important; }
     }
 
-    /* TRAVELS PAGE — remove heading divider line */
-body.travels h1,
-body.travels h1::after,
-body.travels h1::before,
-body.travels hr {
-    border: none !important;
-    box-shadow: none !important;
-}
- 
-  /* TRAVELS — force white link colour */
-body.travels a,
-body.travels a:visited {
-    color: #ffffff;
-}
+    @media (min-width: 901px) {
+      body.food.food-city.phuket-town.food-category.restaurants .hero-inner,
+      body.food.food-city.phuket-town.food-category.restaurants .page-body {
+        color: #fff !important;
+      }
+      body.food.food-city.phuket-town.food-category.restaurants .page-body a { color: #fff !important; }
+    }
 
-    body.travels a:hover,
-body.travels a:active,
-body.travels a:focus {
-    color: #ffffff;
-}
-    
-    /* =====================
-   FOOD — BASIC EATERIES (Chiang Mai)
-   Force restaurant links white
-   ===================== */
+    /* ---------------------------
+       DESKTOP TWEAKS
+       Do not change background-size to contain (that produced big white sidebars).
+       --------------------------- */
 
-body.food.food-category.basic-eateries main a {
-  color: #fff !important;
-}
+    @media (min-width: 1024px) {
+      .site-hero { background-size: cover; background-position: center center; }
 
-    /* FOOD — PHUKET TOWN city home: force white links only here */
-body.food.food-city.phuket-town a {
-  color: #fff;
-}
+      /* main content sits over the hero, but the follow-up content should align left */
+      .page-body { margin-top: 1.8rem; }
+    }
 
-body.food.food-city.phuket-town a:hover {
-  text-decoration: underline;
-}
-
-    
-    /* GLOBAL — remove all divider lines site-wide */
-h1,
-h2,
-nav,
-hr {
-  border: none;
-}  
-  
-    /* DESKTOP — show full background image (no cropping) */
-@media (min-width: 1024px) {
-  body.food.food-category.cafes,
-  body.food.food-category.restaurants {
-    background-size: contain !important;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-  }
-}
-
-/* DESKTOP — normal document flow for food pages */
-@media (min-width: 1024px) {
-  body.food.food-country main,
-  body.food.food-city main,
-  body.food.food-category main {
-    position: relative;
-    top: auto;
-    left: auto;
-    transform: none;
-    margin: 0;
-  }
-}
-
-
-    /* =====================================================
-       MOBILE
-       ===================================================== */
+    /* ---------------------------
+       MOBILE LAYOUT
+       --------------------------- */
 
     @media (max-width: 600px) {
-
-      body.food.food-country main,
-      body.food.food-city main,
-      body.food.food-category main {
-        position: static;
-        transform: none;
-        margin: 4rem 0 0 0;
-        padding: 0 1.5rem;
-      }
-
-      nav {
-        text-align: left;
-      }
+      body { margin: 0; padding: 0; }
+      .site-hero { min-height: 44vh; }
+      .hero-inner { padding: 1.6rem; }
+      nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
+      main#top { padding-top: 1rem; }
+      .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
     }
   </style>
 
   {% seo %}
 
   {% if page.section == "food" and page.city == "phuket-town" and page.category == "restaurants" %}
-<style>
-  /* MOBILE — black text, white links */
-  main,
-  main p,
-  main li,
-  main h1,
-  main h2,
-  main h3,
-  main span,
-  main div {
-    color: #111 !important;
-  }
-
-  main a {
-    color: #fff !important;
-  }
-
-  main a:hover {
-    text-decoration: underline;
-  }
-
-  /* DESKTOP — white text and links */
-  @media (min-width: 1024px) {
-    main,
-    main p,
-    main li,
-    main h1,
-    main h2,
-    main h3,
-    main span,
-    main div {
-      color: #fff !important;
+  <!-- Inline page-level adjustments retained for compatibility (but minimal) -->
+  <style>
+    /* Keep these here only if you need the explicit mobile/desktop switch for this page */
+    @media (max-width: 900px) {
+      main, main p, main li, main h1, main h2, main h3, main span, main div {
+        color: #111 !important;
+      }
+      main a { color: #000 !important; }
     }
-
-    main a {
-      color: #fff !important;
+    @media (min-width: 901px) {
+      main, main p, main li, main h1, main h2, main h3, main span, main div {
+        color: #fff !important;
+      }
+      main a { color: #fff !important; }
     }
-  }
-</style>
-{% endif %}
+  </style>
+  {% endif %}
 
 </head>
 
@@ -450,14 +303,29 @@ hr {
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <nav>
-    <a href="/">Home</a>
-    <a href="/travels/">Travels</a>
-    <a href="/food/">Food</a>
-    <a href="/about/">About</a>
-  </nav>
+  <!-- HERO wrapper: present on pages that have background images (controlled by CSS via body classes) -->
+  <header class="site-hero" role="banner" aria-label="Page hero">
+    <!-- navigation floats on top of hero for background pages -->
+    <nav>
+      <a href="/">Home</a>
+      <a href="/travels/">Travels</a>
+      <a href="/food/">Food</a>
+      <a href="/about/">About</a>
+    </nav>
 
-  <main id="top">
+    <!-- hero-inner holds title / tagline if you use them. If you don't want a title here, leave empty -->
+    <div class="hero-inner">
+      {% if page.title %}
+        <h1>{{ page.title }}</h1>
+      {% endif %}
+      {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
+  </header>
+
+  <!-- page-body is where the normal, readable content lives -->
+  <main id="top" class="page-body" role="main">
     {{ content }}
   </main>
 
