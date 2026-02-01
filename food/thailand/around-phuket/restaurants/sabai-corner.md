@@ -49,4 +49,4 @@ Prices are on the higher side, though that’s fairly normal for such a secluded
 
 🍽️ **Cuisine:** Thai, Seafood, Western
 
-💰 **Price level:** 400-600 Bt
+💰 **Price level:** 400-800 Bt
