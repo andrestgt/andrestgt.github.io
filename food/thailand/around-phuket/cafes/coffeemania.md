@@ -5,6 +5,12 @@ review: true
 title: COFFEEMANIA
 subtitle: Patong · Café & Bakery
 ---
+<figure>
+  <a href="/photos/thailand/phuket/coffeemania.jpg" target="_blank">
+    <img src="/photos/thailand/phuket/coffeemania.jpg" alt="Cappuccino and wrap at Coffeemania">
+  </a>
+  <figcaption>Cappuccino and wrap</figcaption>
+</figure>
 
 COFFEEMANIA is a welcoming neighbourhood café in Patong that offers genuine quality at fair prices.
         The coffee is properly made with good beans.
