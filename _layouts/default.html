@@ -331,6 +331,16 @@ hr {
   border: none;
 }  
    
+    /* DESKTOP — show full background image (no cropping) */
+@media (min-width: 1024px) {
+  body.food.food-country,
+  body.food.food-city,
+  body.food.food-category {
+    background-size: contain;
+    background-position: center center;
+  }
+}
+
     /* =====================================================
        MOBILE
        ===================================================== */
