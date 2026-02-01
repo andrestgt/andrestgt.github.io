@@ -281,15 +281,11 @@ body.food {
   position: relative;
 }
 
-body.food main {
+/* ONLY hero-style food landing pages */
+body.food.home main {
   position: absolute;
-  top: 50%;
-  left: 0;                    /* ← TRUE LEFT EDGE */
-  transform: translateY(-50%);
-  max-width: 820px;
-  padding-left: 2rem;         /* ← INTERNAL PADDING */
-  padding-right: 1rem;
 }
+
 
  /* =====================
    FOOD HOMEPAGE — TITLE COLORS
@@ -487,18 +483,6 @@ body.food.thailand.phuket-town.restaurants a {
 
 body.food.thailand.phuket-town.restaurants a:hover {
   color: #ff2a2a;
-}
-
- /* =====================
-   PHUKET TOWN — RESTAURANTS — ALL TEXT WHITE
-   ===================== */
-
-body.food.thailand.phuket-town.restaurants main {
-  color: #fff;
-}
-
-body.food.thailand.phuket-town.restaurants main a {
-  color: #fff;
 }
 
 
