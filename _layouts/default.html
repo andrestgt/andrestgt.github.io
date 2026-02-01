@@ -244,6 +244,23 @@
 
     .site-hero figure, .site-hero figcaption { border: none !important; box-shadow: none !important; background: transparent !important; color: inherit; }
 
+    /* Hide hero on pages without background images (review/about pages) */
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) .site-hero {
+      display: none;
+    }
+
+    /* Ensure nav is normal (not floating) on non-hero pages */
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) nav.site-nav {
+      position: relative;
+      top: auto;
+      right: auto;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) nav.site-nav a {
+      color: #333;
+    }
+
     /* ---------------------------
        DESKTOP IMPROVEMENTS
        --------------------------- */
