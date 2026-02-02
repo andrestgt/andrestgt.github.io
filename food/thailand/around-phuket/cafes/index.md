@@ -3,7 +3,6 @@ layout: default
 section: food
 city: around-phuket
 category: cafes
-slug: cafes
 title: Cafés
 subtitle: Coffee shops and bakeries around Phuket island
 ---
