@@ -164,17 +164,23 @@
 
     body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: var(--hero-mobile-height); }
     body.food.food-country.thailand .site-hero       { background-image: url("/photos/background/foodthailand.jpg"); }
+    
+    /* City landing pages (general) */
     body.food.food-city.chiang-mai .site-hero        { background-image: url("/photos/background/foodthaicm.png"); }
     body.food.food-city.phuket-town .site-hero       { background-image: url("/photos/background/foodthaipt.jpg"); }
     body.food.food-city.around-phuket .site-hero     { background-image: url("/photos/background/foodthaiap.jpg"); }
     body.food.food-city.koh-samui .site-hero         { background-image: url("/photos/background/foodks.jpg"); }
+    
+    /* Category pages (general - less specific) */
     body.food.food-category.basic-eateries .site-hero{ background-image: url("/photos/background/cmbasic.jpg"); }
     body.food.food-category.restaurants .site-hero   { background-image: url("/photos/background/ptrestaurants.jpg"); }
-    body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
-    body.food.food-category.cafes.around-phuket .site-hero { background-image: url("/photos/background/apcafes.jpg"); }
-    body.food.food-category.restaurants.around-phuket .site-hero { background-image: url("/photos/background/aprestaurants.jpg"); }
-    body.food.food-category.street-food.around-phuket .site-hero { background-image: url("/photos/background/apstreetfood.jpg"); }
-    body.food.food-category.bars-pubs.around-phuket .site-hero { background-image: url("/photos/background/apbars.jpg"); }
+    body.food.food-category.cafes .site-hero         { background-image: url("/photos/background/ptcafes.jpg"); }
+    
+    /* Category pages with specific cities (more specific - override above) */
+    body.food.food-category.around-phuket.cafes .site-hero { background-image: url("/photos/background/apcafes.jpg"); }
+    body.food.food-category.around-phuket.restaurants .site-hero { background-image: url("/photos/background/aprestaurants.jpg"); }
+    body.food.food-category.around-phuket.street-food .site-hero { background-image: url("/photos/background/apstreetfood.jpg"); }
+    body.food.food-category.around-phuket.bars-pubs .site-hero { background-image: url("/photos/background/apbars.jpg"); }
 
     /* travels index uses same hero system */
     body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-mobile-height); }
