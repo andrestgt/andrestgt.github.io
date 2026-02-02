@@ -158,34 +158,67 @@
     }
     body.food.food-review nav.site-nav a { color: #333; }
 
-   /* ---------------------------
+   
+/* ---------------------------
    HERO IMAGE ASSIGNMENTS (by body class)
+   Use increasing specificity
    --------------------------- */
 
+/* Level 1: Main index */
 body.food.index .site-hero {
   background-image: url("/photos/background/food.jpg");
-  min-height: var(--hero-mobile-height);
 }
 
-body.food.food-country.thailand .site-hero        { background-image: url("/photos/background/foodthailand.jpg"); }
+body.travels.index .site-hero {
+  background-image: url("/photos/background/travelogues.jpg");
+}
 
-body.food.food-city.chiang-mai .site-hero         { background-image: url("/photos/background/foodthaicm.png"); }
-body.food.food-city.phuket-town .site-hero        { background-image: url("/photos/background/foodthaipt.jpg"); }
-body.food.food-city.koh-samui .site-hero          { background-image: url("/photos/background/foodks.jpg"); }
-body.food.food-city.around-phuket .site-hero      { background-image: url("/photos/background/foodthaiap.jpg"); }
+/* Level 2: Country pages */
+body.food.food-country.thailand .site-hero {
+  background-image: url("/photos/background/foodthailand.jpg");
+}
 
-body.food.food-category.basic-eateries .site-hero { background-image: url("/photos/background/cmbasic.jpg"); }
+/* Level 3: City pages (more specific than country) */
+body.food.food-city.chiang-mai .site-hero {
+  background-image: url("/photos/background/foodthaicm.png");
+}
 
-/* Restaurants – Around Phuket */
-body.food.food-city.food-category.restaurants:not(.phuket-town) .site-hero {
+body.food.food-city.phuket-town .site-hero {
+  background-image: url("/photos/background/foodthaipt.jpg");
+}
+
+body.food.food-city.koh-samui .site-hero {
+  background-image: url("/photos/background/foodks.jpg");
+}
+
+body.food.food-city.around-phuket .site-hero {
+  background-image: url("/photos/background/foodthaiap.jpg");
+}
+
+/* Level 4: Category pages (most specific) */
+body.food.food-category.basic-eateries .site-hero {
+  background-image: url("/photos/background/cmbasic.jpg");
+}
+
+/* Cafés - Around Phuket (NOT Phuket Town) */
+body.food.food-category.cafes.around-phuket .site-hero {
+  background-image: url("/photos/background/apcafes.jpg");
+}
+
+/* Cafés - Phuket Town (most specific) */
+body.food.food-category.cafes.phuket-town .site-hero {
+  background-image: url("/photos/background/ptcafes.jpg");
+}
+
+/* Restaurants - Around Phuket */
+body.food.food-category.restaurants.around-phuket .site-hero {
   background-image: url("/photos/background/aprestaurants.jpg");
 }
 
-/* Restaurants – Phuket Town (must come AFTER) */
+/* Restaurants - Phuket Town (most specific wins) */
 body.food.food-category.restaurants.phuket-town .site-hero {
   background-image: url("/photos/background/ptrestaurants.jpg");
 }
-
 
 
 
