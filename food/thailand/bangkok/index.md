@@ -1,6 +1,10 @@
 ---
 layout: default
+section: food
+city: bangkok
+slug: bangkok
 title: Bangkok – Food & Drink
+subtitle: Street food, restaurants, and cafés in Thailand's capital
 ---
 
 # Bangkok
