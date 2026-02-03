@@ -20,6 +20,12 @@ A popular local spot specializing in guay jub (rolled rice noodle soup), known f
 ## Neng’s Clay Oven Roasted Pork
 Large open-air eatery built around clay ovens, best known for roasted chicken and pork belly.  
 → [Read the full review](/food/thailand/chiang-mai/basic-eateries/nengs-clay-oven-roasted-pork.html)
+
+## Yui’s Eatery
+Unassuming canteen-style spot across the river serving very good Thai-Chinese dishes at bargain prices.  
+→ [Read the full review](/food/thailand/chiang-mai/basic-eateries/yuis-eatery.html)
+---
+
 ---
 
 ---
