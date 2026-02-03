@@ -7,6 +7,8 @@ title: Chiang Rai & the Far North – Food & Drink
 subtitle: Northern Thai cuisine and cafés in Thailand's northernmost region
 ---
 
+# Chiang Rai & the Far North
+
 Reviews grouped by category.
 
 ## Street food & basic eateries
@@ -17,4 +19,3 @@ Reviews grouped by category.
 
 ## Cafés
 - [Cafés](/food/thailand/chiang-rai/cafes/)
-
