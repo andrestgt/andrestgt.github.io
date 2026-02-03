@@ -35,7 +35,7 @@ Nothing about Neng’s is fancy, but that’s precisely the point. For honest, w
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/XXXXXXXXXXX)
+🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/9H5Qy5m9w4Qh5d7A7)
 
 🍽️ **Cuisine:** Thai, Roasted meats
 
