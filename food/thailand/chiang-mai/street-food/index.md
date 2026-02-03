@@ -18,7 +18,7 @@ A popular local spot specializing in guay jub (rolled rice noodle soup), known f
 → [Read the full review](./guay-jub-chang-moi-tat-mai.html)
 
 ## Neng’s Clay Oven Roasted Pork
-Large open-air eatery centred around clay ovens, specialising in excellent roasted chicken and pork belly, particularly good with som tam. Simple sides are solid, prices are low, and it’s an easy, reliable place for an unfussy meal.  
+Large open-air eatery built around clay ovens, best known for roasted chicken and pork belly.  
 → [Read the full review](/food/thailand/chiang-mai/basic-eateries/nengs-clay-oven-roasted-pork.html)
 ---
 
