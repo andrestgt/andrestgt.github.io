@@ -16,3 +16,4 @@ Cities covered
 - [Phuket Town](/food/thailand/phuket-town/)
 - [Around Phuket](/food/thailand/around-phuket/)
 - [Koh Samui](/food/thailand/koh-samui/)
+- [Chiang Rai](/food/thailand/chiang-rai/)
