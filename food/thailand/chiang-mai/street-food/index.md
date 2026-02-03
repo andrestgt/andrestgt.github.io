@@ -2,11 +2,12 @@
 layout: default
 section: food
 city: chiang-mai
-category: basic-eateries
-slug: basic-eateries
+category: street-food
+slug: street-food
 title: Street food & basic eateries
 subtitle: Authentic local flavors in Chiang Mai's casual dining scene
 ---
+
 
 # Street food & basic eateries in Chiang Mai
 
