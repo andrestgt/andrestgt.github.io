@@ -19,3 +19,6 @@ Cities covered
 - [Con Dao](/food/vietnam/con-dao/)
 - [Phong Nha](/food/vietnam/phong-nha/)
 - [Sa Pa](/food/vietnam/sa-pa/)
+- [Đà Lạt](/food/vietnam/da-lat/)
+- [Huế](/food/vietnam/hue/)
+- [Quy Nhơn](/food/vietnam/quy-nhon/)
