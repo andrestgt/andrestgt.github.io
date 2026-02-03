@@ -15,7 +15,7 @@ section: food thailand chiang-mai review
   <figcaption>Guay Jub Chang Moi Tat Mai, Chiang Mai</figcaption>
 </figure>
 
-Guay Jub Chang Moi Tat Mai is a very popular old-school soup place in Chiang Mai, and there are often queues for a table. When I arrived it wasn’t particularly busy, but I still had to wait about half an hour for my soup, as they were busy preparing takeaway orders.
+Guay Jub Chang Moi Tat Mai is a very popular old-school soup place in Chiang Mai, and there are often queues for a table. When I arrived it wasn’t particularly busy, but I still had to wait about half an hour for my soup, as they were busy preparing takeaway orders. 
 
 Personally, I wouldn’t queue for their famous pork noodle soup. It’s a pleasant dish, and I really liked the rolled noodles and the crispy pork, but it didn’t quite live up to the hype for me. Solid, comforting food, but not something I’d go out of my way for.
 
