@@ -12,7 +12,7 @@ subtitle: Patong · Restaurant
   <figcaption>Seafood fried rice</figcaption>
 </figure>
 
-Of all the interchangeable tourist restaurants around Bangla Road in Patong, my nose and instinct led me to P.S. Restaurant. I can’t really explain why, but it usually works. At first glance, the place looks like a cheap, fairly joyless canteen, with no real charm to speak of.
+Of all the interchangeable tourist restaurants around Bangla Road in Patong, my nose and instinct led me to P.S. Restaurant. I can’t really explain why, but it usually works. At first glance, the place looks like a cheap, fairly joyless canteen, with no real charm to speak of. 
 
 The menu is huge and runs the full tourist-restaurant gamut, from Thai standards to Western staples like pizza, fries, and the usual crowd-pleasers. We stuck to basic Thai dishes: seafood fried rice and a chicken Massaman curry. The presentation was as plain as it gets, with absolutely no Instagram appeal, but the food itself was genuinely good. The seafood in the fried rice was fresh, and the curry was solid and well-balanced.
 
