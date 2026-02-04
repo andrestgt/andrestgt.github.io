@@ -20,5 +20,3 @@ Reviews grouped by category.
 ## Cafés
 - [Cafés](/food/vietnam/quy-nhon/cafes/)
 
-## Bars & pubs
-- [Bars & pubs](/food/vietnam/quy-nhon/bars-pubs/)
