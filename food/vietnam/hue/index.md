@@ -3,11 +3,11 @@ layout: default
 section: food
 city: hue
 slug: hue
-title: Huế – Food & Drink
-subtitle: Imperial cuisine, regional specialities and traditional dishes
+title: Hue – Food & Drink
+subtitle: Imperial cuisine in the ancient capital
 ---
 
-# Huế
+# Hue
 
 Reviews grouped by category.
 
@@ -22,4 +22,3 @@ Reviews grouped by category.
 
 ## Bars & pubs
 - [Bars & pubs](/food/vietnam/hue/bars-pubs/)
-
