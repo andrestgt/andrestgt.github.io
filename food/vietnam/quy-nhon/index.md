@@ -3,11 +3,11 @@ layout: default
 section: food
 city: quy-nhon
 slug: quy-nhon
-title: Quy Nhơn – Food & Drink
-subtitle: Coastal cooking, seafood and relaxed local places
+title: Quy Nhon – Food & Drink
+subtitle: Coastal dining in Central Vietnam
 ---
 
-# Quy Nhơn
+# Quy Nhon
 
 Reviews grouped by category.
 
@@ -22,4 +22,3 @@ Reviews grouped by category.
 
 ## Bars & pubs
 - [Bars & pubs](/food/vietnam/quy-nhon/bars-pubs/)
-
