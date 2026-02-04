@@ -11,8 +11,6 @@ subtitle: Beyond Phuket Town
 
 Reviews grouped by category.
 
-## Street food & basic eateries
-- [Street food & basic eateries](/food/thailand/around-phuket/street-food/)
 
 ## Restaurants
 - [Restaurants](/food/thailand/around-phuket/restaurants/)
@@ -20,5 +18,3 @@ Reviews grouped by category.
 ## Cafés
 - [Cafés](/food/thailand/around-phuket/cafes/)
 
-## Bars & pubs
-- [Bars & pubs](/food/thailand/around-phuket/bars-pubs/)
