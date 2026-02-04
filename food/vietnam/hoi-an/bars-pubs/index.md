@@ -12,7 +12,3 @@ subtitle: Cocktails, riverside bars, and relaxed evening spots
 
 A selection of bars and pubs in Hoi An, from relaxed riverside spots to late-night venues.
 
-## [Your Bar Name]
-Hoi An · Bar / Pub  
-Brief description here.  
-→ [Read the full review](/food/vietnam/hoi-an/bars-pubs/bar-name.html)
