@@ -4,8 +4,8 @@ section: food
 city: da-nang
 category: street-food
 slug: street-food
-title: Street food
-subtitle: Street food in Da Nang
+title: Street food & basic eateries
+subtitle: Street food & basic eateries in Da Nang
 ---
 
 # Street food in Da Nang
