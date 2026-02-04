@@ -2,23 +2,21 @@
 layout: default
 section: food
 city: con-dao
-slug: con-dao
-title: Con Dao – Food & Drink
-subtitle: Island dining and fresh seafood
+category: cafes
+slug: con-dao cafes
+title: Cafés
+subtitle: Cafés in Con Dao
 ---
 
-# Con Dao
+# Cafés in Con Dao
 
-Reviews grouped by category.
+A selection of cafés in Con Dao.
 
-## Street food & basic eateries
-- [Street food & basic eateries](/food/vietnam/con-dao/street-food/)
+<!-- Add your reviews here following this format:
 
-## Restaurants
-- [Restaurants](/food/vietnam/con-dao/restaurants/)
+## Restaurant Name
+Location · Type
+Brief one-sentence description.
+→ [Read the full review](/food/vietnam/con-dao/cafes/review-slug.html)
 
-## Cafés
-- [Cafés](/food/vietnam/con-dao/cafes/)
-
-## Bars & pubs
-- [Bars & pubs](/food/vietnam/con-dao/bars-pubs/)
+-->
