@@ -12,11 +12,10 @@ subtitle: Dining spots in Sa Pa
 
 A selection of restaurants in Sa Pa.
 
-<!-- Add your reviews here following this format:
+## Paradise Restaurant
+Sa Pa · Restaurant  
+Million-dollar views over Fansipan, best enjoyed from the veranda with a cold beer.  
+→ [Read the full review](/food/vietnam/sa-pa/restaurants/paradise-restaurant.html)
 
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/sa-pa/restaurants/review-slug.html)
 
 -->
