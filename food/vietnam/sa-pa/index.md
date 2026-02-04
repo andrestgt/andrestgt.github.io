@@ -20,5 +20,4 @@ Reviews grouped by category.
 ## Cafés
 - [Cafés](/food/vietnam/sa-pa/cafes/)
 
-## Bars & pubs
-- [Bars & pubs](/food/vietnam/sa-pa/bars-pubs/)
+
