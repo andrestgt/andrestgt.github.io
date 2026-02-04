@@ -17,8 +17,4 @@ Reviews grouped by category.
 ## Restaurants
 - [Restaurants](/food/vietnam/phong-nha/restaurants/)
 
-## Cafés
-- [Cafés](/food/vietnam/phong-nha/cafes/)
 
-## Bars & pubs
-- [Bars & pubs](/food/vietnam/phong-nha/bars-pubs/)
