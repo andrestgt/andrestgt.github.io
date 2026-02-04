@@ -3,11 +3,11 @@ layout: default
 section: food
 city: da-lat
 slug: da-lat
-title: Đà Lạt – Food & Drink
-subtitle: Highland cuisine, cafés and cool-climate comfort food
+title: Da Lat – Food & Drink
+subtitle: Highland cuisine and coffee culture
 ---
 
-# Đà Lạt
+# Da Lat
 
 Reviews grouped by category.
 
@@ -22,4 +22,3 @@ Reviews grouped by category.
 
 ## Bars & pubs
 - [Bars & pubs](/food/vietnam/da-lat/bars-pubs/)
-
