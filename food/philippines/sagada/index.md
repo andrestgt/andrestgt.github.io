@@ -7,7 +7,11 @@ title: Sagada – Food & Drink
 subtitle: Restaurants in Sagada
 ---
 
-# Sagada – Food & Drink
+# Sagada
 
 Reviews grouped by category.
+
+## Restaurants
+- [Restaurants](/food/philippines/sagada/restaurants/)
+
 
