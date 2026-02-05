@@ -12,11 +12,10 @@ subtitle: Coffee shops in Sa Pa
 
 A selection of cafés in this mountain town of Northern Vietnam.
 
-<!-- Add your reviews here following this format:
+## Le Petit Gecko
+Sa Pa · Café  
+A very pretty hill-tribe-inspired café with plants and flowers, let down by genuinely poor coffee and unhelpful service.  
+→ [Read the full review](/food/vietnam/sa-pa/cafes/le-petit-gecko.html)
 
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/sa-pa/cafes/review-slug.html)
 
 -->
