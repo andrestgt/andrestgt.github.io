@@ -7,7 +7,14 @@ title: Cebu – Food & Drink
 subtitle: Restaurants and cafés in Cebu and Mactan
 ---
 
-# Cebu – Food & Drink
+# Cebu
 
 Reviews grouped by category.
+
+## Restaurants
+- [Restaurants](/food/philippines/cebu/restaurants/)
+
+## Cafés
+- [Cafés](/food/philippines/cebu/cafes/)
+
 
