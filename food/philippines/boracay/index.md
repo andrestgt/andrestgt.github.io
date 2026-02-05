@@ -24,3 +24,4 @@ Reviews grouped by category.
 - [Bars & pubs](/food/philippines/boracay/bars-pubs/)
 
 
+
