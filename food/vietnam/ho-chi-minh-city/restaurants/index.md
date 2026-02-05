@@ -12,11 +12,7 @@ subtitle: Restaurants in Ho Chi Minh City
 
 A selection of restaurants in Ho Chi Minh City.
 
-<!-- Add your reviews here following this format:
-
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/ho-chi-minh-city/restaurants/review-slug.html)
-
--->
+## Crystal Jade Palace Restaurant  
+Ho Chi Minh City · Chinese (Dim Sum)  
+Upmarket dim sum restaurant in a five-star hotel, offering excellent dumplings at reasonable prices.  
+→ [Read the full review](/food/vietnam/ho-chi-minh-city/restaurants/crystal-jade-palace.html)
