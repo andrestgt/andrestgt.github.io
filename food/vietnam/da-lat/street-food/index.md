@@ -2,8 +2,8 @@
 layout: default
 section: food
 city: da-lat
-category: basic-eateries
-slug: basic-eateries
+category: street-food
+slug: street-food
 title: Street food & basic eateries
 subtitle: Street food & basic eateries in Da Lat
 ---
