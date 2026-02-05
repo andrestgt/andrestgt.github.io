@@ -7,7 +7,14 @@ title: Davao – Food & Drink
 subtitle: Restaurants and cafés in Davao
 ---
 
-# Davao – Food & Drink
+# Davao
 
 Reviews grouped by category.
+
+## Restaurants
+- [Restaurants](/food/philippines/davao/restaurants/)
+
+## Cafés
+- [Cafés](/food/philippines/davao/cafes/)
+
 
