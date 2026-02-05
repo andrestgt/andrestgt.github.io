@@ -7,7 +7,10 @@ title: Siquijor – Food & Drink
 subtitle: Restaurants in Siquijor
 ---
 
-# Siquijor – Food & Drink
+# Siquijor
 
 Reviews grouped by category.
+
+## Restaurants
+- [Restaurants](/food/philippines/siquijor/restaurants/)
 
