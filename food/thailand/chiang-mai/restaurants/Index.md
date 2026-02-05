@@ -20,7 +20,6 @@ Brief one-sentence description.
 → [Read the full review](/food/thailand/chiang-mai/restaurants/restaurant-name.html)
 
 -->
----
 
 **Price level note:**  
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
