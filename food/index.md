@@ -19,6 +19,7 @@ Countries covered
 - [Malaysia](/food/malaysia/)
 - [Indonesia](/food/indonesia/)
 - [Laos](/food/laos/)
+- [Cambodia](/food/cambodia/)
 - [India](/food/india/)
 
 ## Europe
