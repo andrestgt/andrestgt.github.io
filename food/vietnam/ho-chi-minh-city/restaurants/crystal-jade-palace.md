@@ -27,17 +27,17 @@ The main drawbacks are practical rather than culinary. Dim sum is only served be
   <a href="/photos/vietnam/ho-chi-minh-city/cj1.jpg" target="_blank">
     <img src="/photos/vietnam/hcm/cj1.jpg" alt="Dim sum dishes at Crystal Jade Palace">
   </a>
-  <figcaption>Har gow, siu mai, and other dim sum classics</figcaption>
+  <figcaption>dim sum</figcaption>
 </figure>
 
 ## Ratings
 | Category        | Score |
 |-----------------|-------|
-| Food            | 8 / 10 |
+| Food            | 9 / 10 |
 | Service         | 6 / 10 |
-| Value for money | 7 / 10 |
+| Value for money | 7.5 / 10 |
 | Atmosphere      | 8 / 10 |
-| **Overall**     | **7 / 10** |
+| **Overall**     | **8 / 10** |
 
 ### Practical
 
