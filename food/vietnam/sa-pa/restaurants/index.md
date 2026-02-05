@@ -16,4 +16,4 @@ A selection of restaurants in Sa Pa.
 
 Million-dollar views over Fansipan, best enjoyed from the veranda with a cold beer.
 
-→ [Read the full review](/food/vietnam/sa-pa/restaurants/paradise-restaurant/)
+→ [Read the full review](/food/vietnam/sa-pa/restaurants/paradise)
