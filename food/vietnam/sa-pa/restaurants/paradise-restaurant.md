@@ -19,13 +19,15 @@ Paradise Restaurant has million-dollar views over Fansipan and the surrounding c
 
 The food is okay and a bit overpriced — pretty standard for Sa Pa. The spring rolls were actually very good, though, and the fried noodles we had as beer snacks were absolutely fine.
 
+Still, the real reason to come here is the veranda. The views are the main attraction, and they’re genuinely impressive.
+
 <figure>
   <a href="/photos/vietnam/sapa/paradise-1.jpg" target="_blank">
     <img src="/photos/vietnam/sapa/paradise-1.jpg" alt="Spring rolls and snacks at Paradise Restaurant">
   </a>
 </figure>
 
-Still, the real reason to come here is the veranda. The views are the main attraction, and they’re genuinely impressive.
+
 
 <figure>
   <a href="/photos/vietnam/sapa/paradise-2.jpg" target="_blank">
