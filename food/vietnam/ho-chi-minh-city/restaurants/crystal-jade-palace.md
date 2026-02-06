@@ -32,6 +32,7 @@ The main drawbacks are practical rather than culinary. Dim sum is only served be
 </figure>
 
 ## Ratings
+
 | Category        | Score |
 |-----------------|-------|
 | Food            | 9 / 10 |
