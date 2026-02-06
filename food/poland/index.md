@@ -1,0 +1,13 @@
+---
+layout: default
+section: food
+country: poland
+title: Poland
+subtitle: Food & drink in Poland
+---
+# Poland
+
+Food & drink in Poland.
+
+## Destinations
+- [Kraków](/food/poland/krakow/)

@@ -32,3 +32,4 @@ Countries covered
 - [Hungary](/food/hungary/)
 - [Czechia](/food/czechia/)
 - [Slovakia](/food/slovakia/)
+- [Poland](/food/poland/)
