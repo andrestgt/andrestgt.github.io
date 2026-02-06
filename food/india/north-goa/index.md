@@ -2,10 +2,11 @@
 layout: default
 section: food
 city: north-goa
-title: North Goa (Panaji)
-subtitle: Food & drink in North Goa
+title: North Goa & Panaji
+subtitle: Food & drink in North Goa and Panaji
+
 ---
-# North Goa (Panaji)
+# North Goa & Panaji
 
 Explore the culinary scene in North Goa and Panaji.
 
