@@ -11,3 +11,4 @@ subtitle: Food & drink in Luzon
 - [Manila](/food/philippines/manila/)
 - [Baguio](/food/philippines/baguio/)
 - [Sagada](/food/philippines/sagada/)
+- [Vigan](/food/philippines/vigan/)
