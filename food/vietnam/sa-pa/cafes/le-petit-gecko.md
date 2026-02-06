@@ -2,6 +2,7 @@
 layout: default
 title: Le Petit Gecko
 section: food vietnam sa-pa review
+markdown: kramdown
 ---
 ## Le Petit Gecko
 *Sa Pa · Café*
