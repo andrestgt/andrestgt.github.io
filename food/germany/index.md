@@ -1,38 +1,22 @@
+---
+layout: default
+section: food
+country: germany
+title: Deutschland
+subtitle: Essen & Trinken in Deutschland
+---
+
 # Deutschland
 
-## Baden-Württemberg
-- Stuttgart & Region
-- Schwarzwald
-- Schwäbische Alb
-- Allgäu
-- Heidelberg
+Regionale Küche, Städte und kulinarische Landschaften in Deutschland.
 
-## Bayern
-- München & Region
-- Nürnberg
-- Bamberg
-- Dinkelsbühl
-- Lindau
+## Bundesländer & Regionen
 
-## Hessen
-- Frankfurt
-
-## Sachsen
-- Leipzig
-- Dresden
-
-## Nordrhein-Westfalen
-- Köln
-
-## Rheinland-Pfalz
-- Weinstraße
-
-## Saarland
-- Saarbrücken
-- Merzig
-- Losheim
-- Kirkel
-- Illingen
-
-## Berlin
-- Berlin
+- [Baden-Württemberg](/food/germany/baden-wuerttemberg/)
+- [Bayern](/food/germany/bayern/)
+- [Hessen](/food/germany/hessen/)
+- [Sachsen](/food/germany/sachsen/)
+- [Nordrhein-Westfalen](/food/germany/nrw/)
+- [Rheinland-Pfalz](/food/germany/rheinland-pfalz/)
+- [Saarland](/food/germany/saarland/)
+- [Berlin](/food/germany/berlin/)
