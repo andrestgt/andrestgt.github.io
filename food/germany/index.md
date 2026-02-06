@@ -8,15 +8,41 @@ subtitle: Essen & Trinken in Deutschland
 
 # Deutschland
 
-Regionale Küche, Städte und kulinarische Landschaften in Deutschland.
+Essen & Trinken in Deutschland – nach Bundesländern und Regionen geordnet.
 
-## Bundesländer & Regionen
+## Baden-Württemberg
+- [Stuttgart & Region](/food/germany/baden-wuerttemberg/stuttgart/)
+- [Schwarzwald](/food/germany/baden-wuerttemberg/schwarzwald/)
+- [Schwäbische Alb](/food/germany/baden-wuerttemberg/schwaebische-alb/)
+- [Allgäu](/food/germany/baden-wuerttemberg/allgaeu/)
+- [Heidelberg](/food/germany/baden-wuerttemberg/heidelberg/)
 
-- [Baden-Württemberg](/food/germany/baden-wuerttemberg/)
-- [Bayern](/food/germany/bayern/)
-- [Hessen](/food/germany/hessen/)
-- [Sachsen](/food/germany/sachsen/)
-- [Nordrhein-Westfalen](/food/germany/nrw/)
-- [Rheinland-Pfalz](/food/germany/rheinland-pfalz/)
-- [Saarland](/food/germany/saarland/)
+## Bayern
+- [München & Region](/food/germany/bayern/muenchen/)
+- [Nürnberg](/food/germany/bayern/nuernberg/)
+- [Bamberg](/food/germany/bayern/bamberg/)
+- [Dinkelsbühl](/food/germany/bayern/dinkelsbuehl/)
+- [Lindau](/food/germany/bayern/lindau/)
+
+## Hessen
+- [Frankfurt](/food/germany/hessen/frankfurt/)
+
+## Sachsen
+- [Leipzig](/food/germany/sachsen/leipzig/)
+- [Dresden](/food/germany/sachsen/dresden/)
+
+## Nordrhein-Westfalen
+- [Köln](/food/germany/nrw/koeln/)
+
+## Rheinland-Pfalz
+- [Weinstraße](/food/germany/rheinland-pfalz/weinstrasse/)
+
+## Saarland
+- [Saarbrücken](/food/germany/saarland/saarbruecken/)
+- [Merzig](/food/germany/saarland/merzig/)
+- [Losheim](/food/germany/saarland/losheim/)
+- [Kirkel](/food/germany/saarland/kirkel/)
+- [Illingen](/food/germany/saarland/illingen/)
+
+## Berlin
 - [Berlin](/food/germany/berlin/)
