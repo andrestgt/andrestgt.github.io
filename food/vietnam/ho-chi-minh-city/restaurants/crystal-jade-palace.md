@@ -3,6 +3,7 @@ layout: default
 title: Crystal Jade Palace Restaurant
 section: food
 review: true
+markdown: kramdown
 ---
 
 ## Crystal Jade Palace Restaurant  
