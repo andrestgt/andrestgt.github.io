@@ -19,7 +19,9 @@ Unfortunately, the coffee does not live up to the setting. I ordered a flat whit
 I politely asked if they could take it back and remake it as a proper flat white. The response was blunt: this was exactly what a flat white should look like, and they refused to remake it. At that point there wasn't much else to say.
 
 It's a shame, because the café itself has real charm. But when the coffee is this bad — and the attitude this inflexible — the décor becomes irrelevant. For a far safer option, Lê Gecko Café by the lake charges similar prices and at least serves drinkable coffee.
+
 ## Ratings
+
 | Category        | Score |
 |-----------------|-------|
 | Coffee          | 1/10  |
