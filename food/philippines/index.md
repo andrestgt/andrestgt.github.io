@@ -4,20 +4,27 @@ section: food
 country: philippines
 title: Philippines
 ---
-
 # Philippines
 
-## Cities covered
+Food & drink across the Philippines, organised by island group.
 
+## Luzon
 - [Manila](/food/philippines/manila/)
-- [Dumaguete](/food/philippines/dumaguete/)
-- [Bohol & Panglao](/food/philippines/bohol-panglao/)
-- [Boracay](/food/philippines/boracay/)
-- [Puerto Princesa](/food/philippines/puerto-princesa/)
-- [El Nido and the North](/food/philippines/el-nido/)
-- [Port Barton & San Vicente](/food/philippines/port-barton-san-vicente/)
-- [Davao](/food/philippines/davao/)
 - [Baguio](/food/philippines/baguio/)
 - [Sagada](/food/philippines/sagada/)
-- [Siquijor](/food/philippines/siquijor/)
+
+## Palawan
+- [El Nido & the North](/food/philippines/el-nido/)
+- [Puerto Princesa](/food/philippines/puerto-princesa/)
+- [Port Barton & San Vicente](/food/philippines/port-barton-san-vicente/)
+
+## Visayas
 - [Cebu](/food/philippines/cebu/)
+- [Bohol & Panglao](/food/philippines/bohol-panglao/)
+- [Dumaguete](/food/philippines/dumaguete/)
+- [Siquijor](/food/philippines/siquijor/)
+- [Boracay](/food/philippines/boracay/)
+
+## Mindanao
+- [Davao](/food/philippines/davao/)
+
