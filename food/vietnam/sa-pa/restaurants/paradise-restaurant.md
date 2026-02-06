@@ -12,6 +12,7 @@ Paradise Restaurant has million-dollar views over Fansipan and the surrounding c
 The food is okay and a bit overpriced—pretty standard for Sapa. The spring rolls were actually very good, though, and the fried noodles we had as beer snacks were absolutely fine. Still, the real reason to come here is the veranda. The views are the main attraction, and they're genuinely impressive.
 
 ## Ratings
+
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
