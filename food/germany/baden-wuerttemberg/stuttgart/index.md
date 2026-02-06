@@ -5,6 +5,7 @@ city: stuttgart
 title: Stuttgart & Region
 subtitle: Essen & Trinken in Stuttgart und Umgebung
 ---
+
 # Stuttgart & Region
 
 ## Kategorien
