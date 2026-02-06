@@ -23,7 +23,6 @@ The food is okay and a bit overpriced — pretty standard for Sa Pa. The spring 
   <a href="/photos/vietnam/sapa/paradise-1.jpg" target="_blank">
     <img src="/photos/vietnam/sapa/paradise-1.jpg" alt="Spring rolls and snacks at Paradise Restaurant">
   </a>
-  <figcaption>Simple food, but decent beer snacks</figcaption>
 </figure>
 
 Still, the real reason to come here is the veranda. The views are the main attraction, and they’re genuinely impressive.
@@ -32,8 +31,7 @@ Still, the real reason to come here is the veranda. The views are the main attra
   <a href="/photos/vietnam/sapa/paradise-2.jpg" target="_blank">
     <img src="/photos/vietnam/sapa/paradise-2.jpg" alt="Mountain views from Paradise Restaurant">
   </a>
-  <figcaption>The scenery does all the heavy lifting</figcaption>
-</figure>
+  </figure>
 
 ## Ratings
 
