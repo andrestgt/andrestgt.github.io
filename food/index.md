@@ -29,3 +29,4 @@ Countries covered
 - [Spain](/food/spain/)
 - [Portugal](/food/portugal/)
 - [Greece](/food/greece/)
+- [Hungary](/food/hungary/)
