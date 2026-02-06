@@ -618,9 +618,10 @@
   {% endunless %}
 
   <!-- main content -->
-  <main id="top" class="page-body" role="main">
-    {{ content }}
-  </main>
+<main id="top" class="page-body" role="main">
+  {{ content | markdownify }}
+</main>
+
 
   <!-- Tiny script: detect "Read the full review" links and add .read-full class on restaurants/cafes landing pages -->
   <script>
