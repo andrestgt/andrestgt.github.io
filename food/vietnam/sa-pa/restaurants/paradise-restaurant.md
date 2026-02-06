@@ -2,6 +2,7 @@
 layout: default
 title: Paradise Restaurant
 section: food vietnam sa-pa review
+markdown: kramdown
 ---
 ## Paradise Restaurant
 *Sa Pa · Restaurant*
