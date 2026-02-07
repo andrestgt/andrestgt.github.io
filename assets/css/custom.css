@@ -102,3 +102,32 @@ body.homepage main {
   border-radius: 14px;
 }
 
+/* =========================
+   Travelogue layout
+   ========================= */
+
+body.travelogue .travelogue {
+  max-width: 760px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+body.travelogue h3 {
+  margin-top: 3rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+body.travelogue h3::before {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  background: #000;
+  margin-bottom: 0.75rem;
+}
+
+body.travelogue hr {
+  margin: 3rem 0;
+}
