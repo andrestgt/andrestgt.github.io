@@ -3,6 +3,8 @@ layout: default
 section: food
 country: malaysia
 title: Malaysia
+hero: /photos/background/malaysia.jpg
+hero_overlay: false
 ---
 
 # Malaysia
