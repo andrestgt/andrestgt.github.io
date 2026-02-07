@@ -5,6 +5,7 @@ country: taiwan
 title: Taiwan
 subtitle: Food & drink in Taiwan
 hero: /photos/background/taiwan.jpg
+hero_overlay: false
 ---
 
 # Taiwan

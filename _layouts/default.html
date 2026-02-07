@@ -602,18 +602,25 @@
   </nav>
 
   <!-- HERO: rendered only when this is not a review or about page -->
-  {% unless page.review or page.section == 'about' %}
-  <header class="site-hero" role="banner" aria-label="Page hero">
-    <div class="hero-inner">
-      {% if page.title %}
-        <h1>{{ page.title }}</h1>
-      {% endif %}
-      {% if page.subtitle %}
-        <p class="subtitle">{{ page.subtitle }}</p>
-      {% endif %}
-    </div>
-  </header>
-  {% endunless %}
+{% unless page.review or page.section == 'about' %}
+<header
+  class="site-hero{% unless page.hero_overlay == false %} has-overlay{% endunless %}"
+  role="banner"
+  aria-label="Page hero"
+  {% if page.hero %}
+    style="background-image: url('{{ page.hero }}');"
+  {% endif %}
+>
+  <div class="hero-inner">
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+    {% if page.subtitle %}
+      <p class="subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+  </div>
+</header>
+{% endunless %}
 
   <!-- main content -->
 <main id="top" class="page-body" role="main">
