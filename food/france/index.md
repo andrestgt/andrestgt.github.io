@@ -4,6 +4,8 @@ section: food
 country: france
 title: France
 subtitle: Food & drink in France
+hero: /photos/background/france.jpg
+hero_overlay: false
 ---
 # France
 
