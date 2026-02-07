@@ -4,6 +4,7 @@ section: food
 country: czechia
 title: Czechia
 subtitle: Food & drink in Czechia
+hero: /photos/background/czechia.jpg
 ---
 # Czechia
 
