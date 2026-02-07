@@ -4,6 +4,7 @@ section: food
 country: hungary
 title: Hungary
 subtitle: Food & drink in Hungary
+hero: /photos/background/hungary.jpg
 ---
 # Hungary
 
