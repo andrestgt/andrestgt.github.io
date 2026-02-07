@@ -3,6 +3,8 @@ layout: default
 section: food
 country: cambodia
 title: Cambodia
+hero: /photos/background/cambodia.jpg
+hero_overlay: false
 ---
 
 # Cambodia
