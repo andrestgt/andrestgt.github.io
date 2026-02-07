@@ -4,6 +4,7 @@ section: food
 country: spain
 title: Spain
 subtitle: Food & drink in Spain
+hero: /photos/background/spain.jpg
 ---
 # Spain
 
