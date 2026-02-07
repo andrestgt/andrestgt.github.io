@@ -7,11 +7,6 @@ body_class: travelogue
 hero: /photos/background/travelogues.jpg
 ---
 
----
-layout: default
-title: Iran
-body_class: travelogue
----
 
 <div id="top"></div>
 
@@ -83,6 +78,8 @@ I also found it interesting that I was taken for a local almost everywhere and w
 After my tour of the north of the city, I ate a tasty Dizi (lamb stew) in the pleasant Iranian Traditional Restaurant, and before dinner I went for Qalyan, dates and Chai at Sofre Khane Ayyaram — a traditional teahouse and meeting place for Tehran’s young middle class — where I was treated extremely courteously, especially once it became apparent that I was a tourist.
 And then — would you believe it — that evening, travelling to dinner on Tehran’s modern metro, I realised Tehran had grown on me. Even if the city is ugly, stressful and polluted, a visit to Tehran is an essential part of a trip to Iran. It’s the pulsating heart of modern Iran; it’s also where you meet the most people you can talk to thanks to their good English. If Isfahan and Persepolis represent the past, then Tehran stands for the country’s present — with all its downsides and upsides.
 Dinner at Khayyam Restaurant was a fitting end to my week in Iran. Surely one of the most beautiful traditional restaurants in the country, set in a vaulted space and richly decorated with pools, carpets and cushion seating, it served wonderfully juicy lamb and chicken kebabs (Bakhtyeri Kebab, 5,500 T) with yoghurt, fresh herbs and grilled tomatoes.
+
+
 €1 = US$1.34 = 1,100 T = 11,000 rial
 
 
