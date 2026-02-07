@@ -4,6 +4,8 @@ section: food
 country: indonesia
 title: Indonesia
 subtitle: Food & drink across the Indonesian archipelago
+hero: /photos/background/indonesia.jpg
+hero_overlay: false
 ---
 # Indonesia
 
