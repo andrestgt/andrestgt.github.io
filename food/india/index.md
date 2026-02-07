@@ -5,6 +5,8 @@ country: true
 slug: india
 title: India – Food & Drink
 subtitle: Street food, restaurants, and cafés across India
+hero: /photos/background/india.jpg
+hero_overlay: false
 ---
 # India
 
