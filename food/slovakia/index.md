@@ -4,6 +4,7 @@ section: food
 country: slovakia
 title: Slovakia
 subtitle: Food & drink in Slovakia
+hero: /photos/background/slovakia.jpg
 ---
 # Slovakia
 
