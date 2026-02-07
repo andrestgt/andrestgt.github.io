@@ -3,6 +3,8 @@ layout: default
 section: food
 country: laos
 title: Laos
+hero: /photos/background/laos.jpg
+hero_overlay: false
 ---
 
 # Laos
