@@ -4,6 +4,8 @@ section: food
 country: germany
 title: Deutschland
 subtitle: Essen & Trinken in Deutschland
+hero: /photos/background/germany.png
+hero_overlay: false
 ---
 
 # Deutschland
