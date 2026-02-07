@@ -4,6 +4,7 @@ section: food
 country: greece
 title: Greece
 subtitle: Food & drink in Greece
+hero: /photos/background/greece.jpg
 ---
 # Greece
 
