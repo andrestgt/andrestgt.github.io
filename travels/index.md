@@ -9,6 +9,13 @@ index: true
 
 Long-form travel writing, organised by journey and country.
 
+## Iran (2007)
+Tehran · Yazd · Shiraz · Isfahan
+
+→ [Read the full travelogue](/travels/iran-2007/)
+
+
+
 ## Cycling Indochina (2006)
 Thailand · Laos · Cambodia · Vietnam
 
