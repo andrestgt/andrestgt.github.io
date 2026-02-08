@@ -4,7 +4,6 @@ title: Iran 2007
 subtitle: Tehran, Yazd, Shiraz and Isfahan
 section: travels
 body_class: travelogue
-hero: /photos/background/travelogues.jpg
 ---
 
 
@@ -12,8 +11,11 @@ hero: /photos/background/travelogues.jpg
 
 <div class="travelogue" markdown="1">
 
-# Iran  
-April 2007
+![Cycling in Iran, 2007](/photos/iran/traviran1.jpg)
+
+# Iran
+*April 2007*
+
 
 ---
 
