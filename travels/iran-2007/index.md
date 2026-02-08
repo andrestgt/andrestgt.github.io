@@ -11,7 +11,8 @@ body_class: travelogue
 
 <div class="travelogue" markdown="1">
 
-![Cycling in Iran, 2007](/photos/iran/traviran1.jpg)
+[![Cycling in Iran, 2007](/photos/iran/traviran1.jpg)](/photos/iran/traviran1.jpg)
+
 
 # Iran
 *April 2007*
