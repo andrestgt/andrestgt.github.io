@@ -8,16 +8,18 @@
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
   <style>
     :root{
       --accent: #1a4fd8;
+      --text-primary: #1a1a1a;
       --text-muted: #666;
       --rule: #e5e5e5;
       --content-max: 820px;
+      --travelogue-max: 720px;
       --hero-mobile-height: 56vh;
-      --hero-desktop-height: 100vh; /* desktop = full viewport */
+      --hero-desktop-height: 100vh;
       --hero-overlay: rgba(0,0,0,0.35);
       --read-full-blue: #1a4fd8;
     }
@@ -35,9 +37,9 @@
       padding: 0 1.5rem;
       line-height: 1.7;
       background: #fff;
-      color: #111;
-      -webkit-font-smoothing:antialiased;
-      -moz-osx-font-smoothing:grayscale;
+      color: var(--text-primary);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
     }
 
     h1,h2,h3 { font-family: "Inter", system-ui, sans-serif; margin: 0 0 .6rem 0; }
@@ -53,7 +55,6 @@
     figure { margin: 1.5rem auto; text-align: center; }
     figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
 
-    /* default nav (in-flow). Will be repositioned for hero pages via body class selectors */
     nav.site-nav {
       border-bottom: 1px solid var(--rule);
       padding: .6rem 0 .8rem;
@@ -83,22 +84,111 @@
     hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
 
     /* ---------------------------
-       HERO / BACKGROUND (full-bleed)
+       TRAVELOGUE-SPECIFIC TYPOGRAPHY
+       --------------------------- */
+
+    /* ---------------------------
+       TRAVELOGUE TYPOGRAPHY
+       --------------------------- */
+
+    body.travels {
+      font-family: "Lora", Georgia, serif;
+      max-width: var(--travelogue-max);
+      line-height: 1.85;
+      font-size: 1.0625rem;
+      color: #1a1a1a;
+    }
+
+    /* Main title */
+    body.travels .page-body h1 {
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 2.6rem;
+      line-height: 1.1;
+      letter-spacing: -0.03em;
+      border: none;
+      padding: 0;
+      margin-bottom: 0.25rem;
+      color: #111;
+    }
+
+    /* Date headings — small caps label style */
+    body.travels .page-body h2 {
+      font-family: "Inter", sans-serif;
+      font-weight: 500;
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-top: 4rem;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid #ebebeb;
+    }
+
+    /* Location subheadings — elegant italic serif */
+    body.travels .page-body h3 {
+      font-family: "Lora", Georgia, serif;
+      font-weight: 400;
+      font-style: italic;
+      font-size: 1.3rem;
+      color: #555;
+      margin-top: 2.5rem;
+      margin-bottom: 0.5rem;
+      border: none;
+    }
+
+    /* Body paragraphs */
+    body.travels .page-body p {
+      font-size: 1.0625rem;
+      line-height: 1.85;
+      margin: 1.5rem 0;
+      color: #1a1a1a;
+    }
+
+    /* Section dividers — short centred rule */
+    body.travels .page-body hr {
+      margin: 3.5rem auto;
+      width: 3rem;
+      height: 2px;
+      background: #ccc;
+      border: none;
+      display: block;
+    }
+
+    /* Photo captions — small grey label */
+    body.travels .page-body em {
+      font-family: "Inter", sans-serif;
+      font-style: normal;
+      font-size: 0.8rem;
+      letter-spacing: 0.03em;
+      color: #aaa;
+      display: block;
+      text-align: center;
+      margin-top: -0.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    /* Images */
+    body.travels .page-body img {
+      margin: 2.5rem auto 0.75rem;
+      border-radius: 4px;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+      width: 100%;
+    }
+
+    /* ---------------------------
+       HERO / BACKGROUND
        --------------------------- */
 
     .site-hero {
       position: relative;
-
-      /* full-bleed: span the viewport width even inside constrained container */
       left: 50%;
       right: 50%;
       margin-left: -50vw;
       margin-right: -50vw;
       width: 100vw;
-
-      /* height */
       min-height: var(--hero-mobile-height);
-
       display: flex;
       align-items: center;
       justify-content: flex-start;
@@ -132,7 +222,6 @@
       box-sizing: border-box;
     }
 
-    /* page content area */
     .page-body {
       max-width: var(--content-max);
       margin: 2rem auto;
@@ -143,58 +232,119 @@
       z-index: 20;
     }
 
-    /* restaurant review pages should retain the locked non-hero layout */
+    body.travels .page-body {
+      max-width: var(--travelogue-max);
+    }
+
+    /* Review pages */
     body.food.food-review {
       background: #fff !important;
-      color: #111 !important;
+      color: var(--text-primary) !important;
       max-width: var(--content-max);
       margin: 3rem auto;
       padding: 0 1.5rem;
     }
-    /* ensure nav on review pages stays in-flow and dark */
+
     body.food.food-review nav.site-nav {
       position: relative;
       border-bottom: 1px solid var(--rule);
     }
+
     body.food.food-review nav.site-nav a { color: #333; }
 
-    /* ---------------------------
-       HERO IMAGE ASSIGNMENTS (by body class)
-       --------------------------- */
+    /* [ALL THE HERO IMAGE ASSIGNMENTS - KEEPING EXACTLY AS IS] */
+    body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); }
+    body.food.food-country.thailand .site-hero { background-image: url("/photos/background/foodthailand.jpg"); }
+    body.food.food-country.vietnam .site-hero { background-image: url("/photos/background/foodvietnam.jpg"); }
+    body.food.food-city.chiang-mai .site-hero { background-image: url("/photos/background/foodthaicm.png"); }
+    body.food.food-city.chiang-rai .site-hero { background-image: url("/photos/background/foodthaicr.jpg"); }
+    body.food.food-city.phuket-town .site-hero { background-image: url("/photos/background/foodthaipt.jpg"); }
+    body.food.food-city.around-phuket .site-hero { background-image: url("/photos/background/foodthaiap.jpg"); }
+    body.food.food-city.koh-samui .site-hero { background-image: url("/photos/background/foodks.jpg"); }
+    body.food.food-city.bangkok .site-hero { background-image: url("/photos/background/foodthaibkk.jpg"); }
+    body.food.food-city.hanoi .site-hero { background-image: url("/photos/background/foodviethn.jpg"); }
+    body.food.food-city.ho-chi-minh-city .site-hero { background-image: url("/photos/background/foodviethcm.jpg"); }
+    body.food.food-city.hoi-an .site-hero { background-image: url("/photos/background/foodviethoian.jpg"); }
+    body.food.food-city.da-nang .site-hero { background-image: url("/photos/background/foodvietdn.jpg"); }
+    body.food.food-city.nha-trang .site-hero { background-image: url("/photos/background/foodvietnt.jpg"); }
+    body.food.food-city.con-dao .site-hero { background-image: url("/photos/background/foodvietcondao.jpg"); }
+    body.food.food-city.phong-nha .site-hero { background-image: url("/photos/background/foodvietpn.jpg"); }
+    body.food.food-city.sa-pa .site-hero { background-image: url("/photos/background/foodvietsapa.jpg"); }
+    body.food.food-city.quy-nhon .site-hero { background-image: url("/photos/background/foodvietqn.jpg"); }
+    body.food.food-city.da-lat .site-hero { background-image: url("/photos/background/foodvietdalat.jpg"); }
+    body.food.food-city.hue .site-hero { background-image: url("/photos/background/foodviethue.jpg"); }
+    body.food.food-city.food-category.chiang-mai.restaurants .site-hero{background-image:url("/photos/background/cmrestaurants.jpg")!important;}
+    body.food.food-city.food-category.chiang-mai.cafes .site-hero{background-image:url("/photos/background/cmcafes.jpg")!important;}
+    body.food.food-city.food-category.chiang-mai.street-food .site-hero{background-image:url("/photos/background/cmbasic.jpg")!important;}
+    body.food.food-city.food-category.chiang-mai.bars-pubs .site-hero{background-image:url("/photos/background/cmbars.jpg")!important;}
+    body.around-phuket.cafes .site-hero { background-image: url("/photos/background/apcafes.jpg") !important; }
+    body.around-phuket.restaurants .site-hero { background-image: url("/photos/background/aprestaurants.jpg") !important; }
+    body.around-phuket.street-food .site-hero { background-image: url("/photos/background/apstreetfood.jpg") !important; }
+    body.around-phuket.bars-pubs .site-hero { background-image: url("/photos/background/apbars.jpg") !important; }
+    body.koh-samui.cafes .site-hero { background-image: url("/photos/background/kscafes.jpg") !important; }
+    body.koh-samui.restaurants .site-hero { background-image: url("/photos/background/ksrestaurants.jpg") !important; }
+    body.koh-samui.street-food .site-hero { background-image: url("/photos/background/ksbasic.jpg") !important; }
+    body.koh-samui.bars-pubs .site-hero { background-image: url("/photos/background/ksbars.jpg") !important; }
+    body.bangkok.cafes .site-hero { background-image: url("/photos/background/bkkcafes.jpg") !important; }
+    body.bangkok.restaurants .site-hero { background-image: url("/photos/background/bkkrestaurants.jpg") !important; }
+    body.bangkok.street-food .site-hero { background-image: url("/photos/background/bkkbasic.jpg") !important; }
+    body.bangkok.bars-pubs .site-hero { background-image: url("/photos/background/bkkbars.jpg") !important; }
+    body.chiang-rai.cafes .site-hero { background-image: url("/photos/background/crcafes.jpg") !important; }
+    body.chiang-rai.restaurants .site-hero { background-image: url("/photos/background/crrestaurants.jpg") !important; }
+    body.chiang-rai.street-food .site-hero { background-image: url("/photos/background/crbasic.jpg") !important; }
+    body.hanoi.cafes .site-hero { background-image: url("/photos/background/hncafes.jpg") !important; }
+    body.hanoi.restaurants .site-hero { background-image: url("/photos/background/hnrestaurants.jpg") !important; }
+    body.hanoi.street-food .site-hero { background-image: url("/photos/background/hnbasic.jpg") !important; }
+    body.hanoi.bars-pubs .site-hero { background-image: url("/photos/background/hnbars.jpg") !important; }
+    body.ho-chi-minh-city.cafes .site-hero { background-image: url("/photos/background/hcmcafes.jpg") !important; }
+    body.ho-chi-minh-city.restaurants .site-hero { background-image: url("/photos/background/hcmrestaurants.jpg") !important; }
+    body.ho-chi-minh-city.street-food .site-hero { background-image: url("/photos/background/hcmbasic.jpg") !important; }
+    body.ho-chi-minh-city.bars-pubs .site-hero { background-image: url("/photos/background/hcmbars.jpg") !important; }
+    body.hoi-an.cafes .site-hero { background-image: url("/photos/background/hoiancafes.jpg") !important; }
+    body.hoi-an.restaurants .site-hero { background-image: url("/photos/background/hoianrestaurants.jpg") !important; }
+    body.hoi-an.street-food .site-hero { background-image: url("/photos/background/hoianbasic.jpg") !important; }
+    body.hoi-an.bars-pubs .site-hero{background-image:url("/photos/background/hoianbars.jpg")!important;}
+    body.da-nang.cafes .site-hero { background-image: url("/photos/background/danangcafes.jpg") !important; }
+    body.da-nang.restaurants .site-hero { background-image: url("/photos/background/danangrestaurants.jpg") !important; }
+    body.da-nang.bars-pubs .site-hero { background-image: url("/photos/background/danangbars.jpg") !important; }
+    body.da-nang.street-food .site-hero { background-image:url("/photos/background/danangbasic.jpg") !important; }
+    body.nha-trang.cafes .site-hero { background-image: url("/photos/background/ntcafes.jpg") !important; }
+    body.nha-trang.restaurants .site-hero { background-image: url("/photos/background/ntrestaurants.jpg") !important; }
+    body.nha-trang.street-food .site-hero { background-image: url("/photos/background/ntbasic.jpg") !important; }
+    body.nha-trang.bars-pubs .site-hero { background-image: url("/photos/background/ntbars.jpg") !important; }
+    body.phong-nha.street-food .site-hero { background-image: url("/photos/background/pnbasic.jpg") !important; }
+    body.phong-nha.restaurants .site-hero { background-image: url("/photos/background/pnrestaurants.jpg") !important; }
+    body.quy-nhon.cafes .site-hero { background-image: url("/photos/background/qncafes.jpg") !important; }
+    body.quy-nhon.restaurants .site-hero { background-image: url("/photos/background/qnrestaurants.jpg") !important; }
+    body.quy-nhon.street-food .site-hero { background-image: url("/photos/background/qnbasic.jpg") !important; }
+    body.da-lat.cafes .site-hero { background-image: url("/photos/background/dalatcafes.jpg") !important; }
+    body.da-lat.restaurants .site-hero { background-image: url("/photos/background/dalatrestaurants.jpg") !important; }
+    body.da-lat.bars-pubs .site-hero { background-image: url("/photos/background/dalatbars.jpg") !important; }
+    body.da-lat.street-food .site-hero{background-image:url("/photos/background/dalatbasic.jpg")!important;}
+    body.con-dao.cafes .site-hero { background-image: url("/photos/background/cdcafes.jpg") !important; }
+    body.con-dao.restaurants .site-hero { background-image: url("/photos/background/cdrestaurants.jpg") !important; }
+    body.hue.cafes .site-hero { background-image: url("/photos/background/huecafes.jpg") !important; }
+    body.hue.street-food .site-hero { background-image: url("/photos/background/huebasic.jpg") !important; }
+    body.hue.restaurants .site-hero { background-image: url("/photos/background/huerestaurants.jpg") !important; }
+    body.hue.bars-pubs .site-hero { background-image: url("/photos/background/huebars.jpg") !important; }
+    body.food.food-city.sa-pa.cafes .site-hero{background-image:url("/photos/background/sapacafes.jpg")!important;}
+    body.food.food-city.sa-pa.restaurants .site-hero{background-image:url("/photos/background/saparestaurants.jpg")!important;}
+    body.sa-pa.street-food .site-hero{background-image:url("/photos/background/sapabasic.jpg")!important;}
+    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); }
 
-    body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); min-height: var(--hero-mobile-height); }
-    body.food.food-country.thailand .site-hero       { background-image: url("/photos/background/foodthailand.jpg"); }
-    body.food.food-city.chiang-mai .site-hero        { background-image: url("/photos/background/foodthaicm.png"); }
-    body.food.food-city.phuket-town .site-hero       { background-image: url("/photos/background/foodthaipt.jpg"); }
-    body.food.food-category.basic-eateries .site-hero{ background-image: url("/photos/background/cmbasic.jpg"); }
-    body.food.food-category.restaurants .site-hero   { background-image: url("/photos/background/ptrestaurants.jpg"); }
-    body.food.food-category.cafes.phuket-town .site-hero { background-image: url("/photos/background/ptcafes.jpg"); }
-
-    /* travels index uses same hero system */
-    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); min-height: var(--hero-mobile-height); }
-
-    /* default hero text/link colour */
     body.food.food-country .hero-inner,
     body.food.food-city .hero-inner,
     body.food.food-category .hero-inner,
     body.food.index .hero-inner,
-    body.travels.index .hero-inner {
-      color: #fff;
-    }
+    body.travels.index .hero-inner { color: #fff; }
+
     body.food.food-country .hero-inner a,
     body.food.food-city .hero-inner a,
     body.food.food-category .hero-inner a,
     body.food.index .hero-inner a,
-    body.travels.index .hero-inner a {
-      color: #fff;
-    }
+    body.travels.index .hero-inner a { color: #fff; }
 
-    /* ---------------------------
-       NAV: float visually over hero only for hero pages
-       Use body class selectors so review pages keep normal nav.
-       --------------------------- */
-
-    /* hero nav (floating) */
+    /* Floating nav */
     body.food.index nav.site-nav,
     body.food.food-country nav.site-nav,
     body.food.food-city nav.site-nav,
@@ -211,17 +361,12 @@
       padding: 0;
       margin: 0;
     }
+
     body.food.index nav.site-nav a,
     body.food.food-country nav.site-nav a,
     body.food.food-city nav.site-nav a,
     body.food.food-category nav.site-nav a,
-    body.travels.index nav.site-nav a {
-      color: #fff;
-    }
-
-    /* ---------------------------
-       REMOVE LINES/FRAMES INSIDE HERO
-       --------------------------- */
+    body.travels.index nav.site-nav a { color: #fff; }
 
     .site-hero *,
     .site-hero *::before,
@@ -241,37 +386,67 @@
     }
 
     .site-hero nav { border: none !important; background: transparent !important; box-shadow: none !important; }
-
     .site-hero figure, .site-hero figcaption { border: none !important; box-shadow: none !important; background: transparent !important; color: inherit; }
 
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) .site-hero { display: none; }
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) nav.site-nav {
+      position: relative;
+      top: auto;
+      right: auto;
+      border-bottom: 1px solid var(--rule);
+    }
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) nav.site-nav a { color: #333; }
+
     /* ---------------------------
-       DESKTOP IMPROVEMENTS
+       DESKTOP
        --------------------------- */
 
     @media (min-width: 1024px) {
-      
-      /* 1. Better content width for readability */
       body {
         max-width: 900px;
         padding: 0 3rem;
         margin: 3rem auto;
       }
 
-      /* 2. Improved hero - 70vh instead of 100vh */
-      .site-hero {
-        min-height: 70vh;
-        background-size: cover;
-        background-position: center center;
-        background-attachment: fixed; /* parallax effect */
+      body.travels {
+        max-width: 680px;
+        font-size: 1.125rem;
+        line-height: 1.9;
       }
 
-      /* 3. Better hero text positioning */
+      body.travels .page-body h1 {
+        font-size: 3.5rem;
+        letter-spacing: -0.04em;
+      }
+
+      body.travels .page-body h2 {
+        font-size: 0.7rem;
+        letter-spacing: 0.22em;
+        margin-top: 5rem;
+      }
+
+      body.travels .page-body h3 {
+        font-size: 1.4rem;
+      }
+
+      body.travels .page-body p {
+        font-size: 1.125rem;
+        line-height: 1.9;
+        margin: 1.6rem 0;
+      }
+
+      .site-hero {
+        min-height: 90vh;
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+      }
+
       .hero-inner {
         max-width: 800px;
         padding: 3rem 4rem;
       }
 
-      /* 4. Hero typography scaling */
       .hero-inner h1 {
         font-size: 2.8rem;
         line-height: 1.2;
@@ -283,7 +458,6 @@
         line-height: 1.6;
       }
 
-      /* 5. Navigation improvements - better positioning */
       body.food.index nav.site-nav,
       body.food.food-country nav.site-nav,
       body.food.food-city nav.site-nav,
@@ -303,51 +477,24 @@
         font-weight: 500;
       }
 
-      /* 6. Page content improvements */
       .page-body {
         padding: 0 3rem 5rem;
         margin-top: 3rem;
       }
 
-      .page-body h1 {
-        font-size: 2.2rem;
-      }
+      .page-body h1 { font-size: 2.2rem; }
+      .page-body h2 { font-size: 1.6rem; margin-top: 2.5rem; }
+      .page-body h3 { font-size: 1.3rem; margin-top: 2rem; }
+      .page-body p { font-size: 1.05rem; line-height: 1.8; margin: 1.4rem 0; }
 
-      .page-body h2 {
-        font-size: 1.6rem;
-        margin-top: 2.5rem;
-      }
-
-      .page-body h3 {
-        font-size: 1.3rem;
-        margin-top: 2rem;
-      }
-
-      .page-body p {
-        font-size: 1.05rem;
-        line-height: 1.8;
-        margin: 1.4rem 0;
-      }
-
-      /* 7. Review pages - constrain width */
       body.food.food-review {
         max-width: 800px;
         padding: 0 3rem;
       }
 
-      body.food.food-review main#top {
-        padding: 2rem 0 5rem;
-      }
-
-      /* Hide hero on review and about pages on desktop */
-      body.food.food-review .site-hero,
-      body.about .site-hero {
-        display: none;
-      }
-
-      /* Ensure nav stays visible and dark on review/about pages */
-      body.food.food-review nav.site-nav,
-      body.about nav.site-nav {
+      body.food.food-review main#top { padding: 2rem 0 5rem; }
+      body.food.food-review .site-hero { display: none; }
+      body.food.food-review nav.site-nav {
         position: relative;
         top: auto;
         right: auto;
@@ -355,84 +502,46 @@
         padding: .6rem 0 .8rem;
         margin-bottom: 2.5rem;
       }
+      body.food.food-review nav.site-nav a { color: #333; }
 
-      body.food.food-review nav.site-nav a,
-      body.about nav.site-nav a {
-        color: #333;
-      }
+      img { border-radius: 8px; }
+      figure { margin: 2.5rem auto; }
+      figcaption { font-size: 0.9rem; margin-top: 0.6rem; }
 
-      /* 8. Images - better sizing */
-      img {
-        border-radius: 8px;
-      }
-
-      figure {
-        margin: 2.5rem auto;
-      }
-
-      figcaption {
-        font-size: 0.9rem;
-        margin-top: 0.6rem;
-      }
-
-      /* 9. Travelogue country blocks - better spacing */
       .travelogue .country {
         padding: 2.5rem 3rem;
         margin: 4rem 0;
         border-radius: 16px;
       }
 
-      /* 10. Culinary sections */
       body.travelogue .culinary .place {
         padding: 1.2rem 1.5rem;
         margin: 1.5rem 0;
       }
 
-      /* 11. Photo rows - optimal width */
       body.travelogue .photo-row {
         max-width: 100%;
         gap: 1.5rem;
         margin: 3rem 0;
       }
 
-      body.travelogue .photo-row img {
-        border-radius: 10px;
-      }
+      body.travelogue .photo-row img { border-radius: 10px; }
     }
 
-    /* ---------------------------
-       LARGE DESKTOP (1400px+)
-       --------------------------- */
-
     @media (min-width: 1400px) {
-      
-      /* Limit max width on very large screens */
-      body {
-        max-width: 1000px;
-      }
+      body { max-width: 1000px; }
+      body.travels { max-width: 800px; }
 
       .hero-inner {
         max-width: 900px;
         padding-left: 5rem;
       }
 
-      .hero-inner h1 {
-        font-size: 3.2rem;
-      }
-
-      .hero-inner .subtitle {
-        font-size: 1.4rem;
-      }
-
-      .page-body p {
-        font-size: 1.1rem;
-        line-height: 1.85;
-      }
+      .hero-inner h1 { font-size: 3.2rem; }
+      .hero-inner .subtitle { font-size: 1.4rem; }
+      .page-body p { font-size: 1.1rem; line-height: 1.85; }
+      body.travels .page-body p { font-size: 1.1875rem; line-height: 1.85; }
     }
-
-    /* ---------------------------
-       MOBILE
-       --------------------------- */
 
     @media (max-width: 600px) {
       body { margin: 0; padding: 0; }
@@ -443,16 +552,80 @@
       .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
     }
 
-    /* ---------------------------
-       "Read the full review" link style
-       --------------------------- */
-
     a.read-full {
       color: var(--read-full-blue) !important;
       font-weight: 600;
       text-decoration: none;
     }
     a.read-full:hover { text-decoration: underline; }
+
+    /* ---------------------------
+       LIGHTBOX
+       --------------------------- */
+
+    .lightbox-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      z-index: 1000;
+      cursor: zoom-out;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      box-sizing: border-box;
+    }
+
+    .lightbox-overlay.active {
+      display: flex;
+    }
+
+    .lightbox-overlay img {
+      max-width: 100%;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+      cursor: default;
+      margin: 0;
+      opacity: 1 !important;
+      transition: none !important;
+    }
+
+    .lightbox-caption {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 0;
+      right: 0;
+      text-align: center;
+      color: rgba(255,255,255,0.6);
+      font-family: "Inter", sans-serif;
+      font-size: 0.8rem;
+      letter-spacing: 0.03em;
+      pointer-events: none;
+      padding: 0 2rem;
+    }
+
+    .lightbox-close {
+      position: fixed;
+      top: 1.25rem;
+      right: 1.5rem;
+      color: rgba(255,255,255,0.7);
+      font-family: "Inter", sans-serif;
+      font-size: 1.75rem;
+      cursor: pointer;
+      line-height: 1;
+      z-index: 1001;
+    }
+
+    .lightbox-close:hover { color: #fff; }
+
+    .page-body img {
+      cursor: zoom-in;
+      transition: opacity 0.15s ease;
+    }
+
+    .page-body img:hover { opacity: 0.88; }
 
   </style>
 
@@ -464,13 +637,13 @@
   {% if page.index %} index{% endif %}
   {% if page.country %} food-country{% endif %}
   {% if page.city %} food-city{% endif %}
+  {% if page.city %} {{ page.city }}{% endif %}
   {% if page.category %} food-category{% endif %}
+  {% if page.category %} {{ page.category }}{% endif %}
   {% if page.review %} food-review{% endif %}
   {% if page.slug %} {{ page.slug }}{% endif %}
 ">
 
-  <!-- Nav (kept outside hero so review pages keep normal flow).
-       Visual float is controlled by the CSS body-class selectors above. -->
   <nav class="site-nav">
     <a href="/">Home</a>
     <a href="/travels/">Travels</a>
@@ -478,26 +651,81 @@
     <a href="/about/">About</a>
   </nav>
 
-  <!-- HERO: rendered only when this is not a review page -->
-  {% unless page.review %}
-  <header class="site-hero" role="banner" aria-label="Page hero">
-    <div class="hero-inner">
-      {% if page.title %}
-        <h1>{{ page.title }}</h1>
-      {% endif %}
-      {% if page.subtitle %}
-        <p class="subtitle">{{ page.subtitle }}</p>
-      {% endif %}
-    </div>
-  </header>
-  {% endunless %}
+{% unless page.review or page.section == 'about' %}
+<header
+  class="site-hero{% unless page.hero_overlay == false %} has-overlay{% endunless %}"
+  role="banner"
+  aria-label="Page hero"
+  {% if page.hero %}
+    style="background-image: url('{{ page.hero }}');"
+  {% endif %}
+>
+  <div class="hero-inner">
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+    {% if page.subtitle %}
+      <p class="subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+  </div>
+</header>
+{% endunless %}
 
-  <!-- main content -->
-  <main id="top" class="page-body" role="main">
-    {{ content }}
-  </main>
+<main id="top" class="page-body" role="main">
+  {{ content | markdownify }}
+</main>
 
-  <!-- Tiny script: detect "Read the full review" links and add .read-full class on restaurants/cafes landing pages -->
+  <!-- LIGHTBOX -->
+  <div class="lightbox-overlay" id="lightbox" role="dialog" aria-modal="true">
+    <span class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</span>
+    <img id="lightbox-img" src="" alt="">
+    <p class="lightbox-caption" id="lightbox-caption"></p>
+  </div>
+
+  <script>
+    (function () {
+      // Lightbox
+      var overlay = document.getElementById('lightbox');
+      var lbImg = document.getElementById('lightbox-img');
+      var lbCaption = document.getElementById('lightbox-caption');
+      var lbClose = document.getElementById('lightbox-close');
+
+      function openLightbox(src, alt) {
+        lbImg.src = src;
+        lbCaption.textContent = alt || '';
+        overlay.classList.add('active');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeLightbox() {
+        overlay.classList.remove('active');
+        lbImg.src = '';
+        document.body.style.overflow = '';
+      }
+
+      // Attach to all images in page-body (excluding hero)
+      var images = document.querySelectorAll('.page-body img');
+      images.forEach(function(img) {
+        img.addEventListener('click', function() {
+          openLightbox(img.src, img.alt);
+        });
+      });
+
+      // Close on overlay click
+      overlay.addEventListener('click', function(e) {
+        if (e.target === overlay || e.target === lbClose) closeLightbox();
+      });
+
+      // Close on X click
+      lbClose.addEventListener('click', closeLightbox);
+
+      // Close on Escape key
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') closeLightbox();
+      });
+    })();
+  </script>
+
   <script>
     (function () {
       var body = document.body;
