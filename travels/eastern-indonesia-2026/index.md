@@ -11,6 +11,9 @@ date: 2026-02-14
 
 A three-week journey through the remote islands of Eastern Indonesia — from the underwater paradise of Raja Ampat to the nutmeg-scented Banda Islands and the pristine beaches of the Kei Islands.
 
+![Piaynemo, Raja Ampat](/photos/travelogues/piaynemo.jpg)
+*The karst islands of Piaynemo, Raja Ampat*
+
 ---
 
 February 14, 2026
