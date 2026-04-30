@@ -608,14 +608,21 @@
 
     .lightbox-close {
       position: fixed;
-      top: 1.25rem;
-      right: 1.5rem;
-      color: rgba(255,255,255,0.7);
+      top: 0;
+      right: 0;
+      color: rgba(255,255,255,0.8);
       font-family: "Inter", sans-serif;
       font-size: 1.75rem;
       cursor: pointer;
       line-height: 1;
       z-index: 1001;
+      padding: 1.25rem 1.5rem;
+      /* large tap target for mobile */
+      min-width: 3rem;
+      min-height: 3rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .lightbox-close:hover { color: #fff; }
@@ -694,35 +701,70 @@
         lbImg.src = src;
         lbCaption.textContent = alt || '';
         overlay.classList.add('active');
+        // iOS-compatible scroll lock
+        document.body.style.position = 'fixed';
+        document.body.style.width = '100%';
         document.body.style.overflow = 'hidden';
       }
 
       function closeLightbox() {
         overlay.classList.remove('active');
         lbImg.src = '';
+        document.body.style.position = '';
+        document.body.style.width = '';
         document.body.style.overflow = '';
       }
 
-      // Attach to all images in page-body (excluding hero)
+      // Attach click AND touch to all images in page-body
       var images = document.querySelectorAll('.page-body img');
       images.forEach(function(img) {
-        img.addEventListener('click', function() {
+        // Make sure image is not inside an <a> tag already
+        img.style.cursor = 'zoom-in';
+
+        function handleOpen(e) {
+          e.preventDefault();
+          e.stopPropagation();
           openLightbox(img.src, img.alt);
-        });
+        }
+
+        img.addEventListener('click', handleOpen);
+        img.addEventListener('touchend', handleOpen, { passive: false });
       });
 
-      // Close on overlay click
-      overlay.addEventListener('click', function(e) {
-        if (e.target === overlay || e.target === lbClose) closeLightbox();
-      });
+      // Close on overlay background tap/click
+      function handleClose(e) {
+        if (e.target === overlay) {
+          e.preventDefault();
+          closeLightbox();
+        }
+      }
+      overlay.addEventListener('click', handleClose);
+      overlay.addEventListener('touchend', handleClose, { passive: false });
 
-      // Close on X click
-      lbClose.addEventListener('click', closeLightbox);
+      // Close on X button
+      function handleCloseBtn(e) {
+        e.preventDefault();
+        closeLightbox();
+      }
+      lbClose.addEventListener('click', handleCloseBtn);
+      lbClose.addEventListener('touchend', handleCloseBtn, { passive: false });
 
       // Close on Escape key
       document.addEventListener('keydown', function(e) {
         if (e.key === 'Escape') closeLightbox();
       });
+
+      // Swipe down to close on mobile
+      var touchStartY = 0;
+      overlay.addEventListener('touchstart', function(e) {
+        touchStartY = e.touches[0].clientY;
+      }, { passive: true });
+
+      overlay.addEventListener('touchend', function(e) {
+        var deltaY = e.changedTouches[0].clientY - touchStartY;
+        if (deltaY > 60) closeLightbox(); // swipe down 60px = close
+      }, { passive: true });
+
     })();
   </script>
 
