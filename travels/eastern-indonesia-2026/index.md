@@ -9,7 +9,7 @@ date: 2026-02-14
 # Eastern Indonesia
 **February 12–March 30, 2026**
 
-A six-week journey through the remote islands of Eastern Indonesia — from the underwater paradise of Raja Ampat to the nutmeg-scented Banda Islands and the pristine beaches of the Kei Islands.
+A six-week journey through the remote islands of Eastern Indonesia — from the underwater paradise of Raja Ampat to the historic spice islands of Banda and the powdery beaches of the Kei Islands.
 I put this site together because I found it surprisingly difficult to get up-to-date, reliable information on travelling in this part of Indonesia.
 
 ---
