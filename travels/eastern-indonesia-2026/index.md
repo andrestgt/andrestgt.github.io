@@ -7,9 +7,10 @@ date: 2026-02-14
 ---
 
 # Eastern Indonesia
-**February 14–March 3, 2026**
+**February 12–March 30, 2026**
 
-A three-week journey through the remote islands of Eastern Indonesia — from the underwater paradise of Raja Ampat to the nutmeg-scented Banda Islands and the pristine beaches of the Kei Islands.
+A six-week journey through the remote islands of Eastern Indonesia — from the underwater paradise of Raja Ampat to the historic spice islands of Banda and the powdery beaches of the Kei Islands.
+I put this site together because I found it surprisingly difficult to get up-to-date, reliable information on travelling in this part of Indonesia.
 
 ![Piaynemo, Raja Ampat](/photos/travelogues/piaynemo.jpg)
 *The karst islands of Piaynemo, Raja Ampat*
@@ -17,6 +18,7 @@ A three-week journey through the remote islands of Eastern Indonesia — from th
 ---
 
 February 14, 2026
+
 It's been quite an odyssey getting to Sorong. I started the trip on Wednesday morning with Deutsche Bahn, which was, unsurprisingly, delayed. I had expected that, though, so I'd built in a generous buffer before my flight from Munich. That gave me time to stop at Augustiner Bräustuben before heading to the airport, where they still serve some of the best beer at remarkably low prices, along with good, inexpensive food.
 At 9 p.m. I flew from Munich to Muscat, then on to Kuala Lumpur. At least everything ran on time. Oman Air isn't the most comfortable airline, to be honest, especially the Munich–Muscat leg, which was operated with a small short-haul aircraft for what is a six-hour flight. That was fairly uncomfortable. The Muscat–Kuala Lumpur flight was much better, on a larger plane. The food was actually quite good, but unless you kept actively asking for drinks you would probably have died of thirst — the service was really not great.
 I arrived in Kuala Lumpur around 8 p.m., and getting through immigration was a breeze. You don't even have to queue at counters anymore, you just go through the e-gate. That part was very pleasant, although waiting for the luggage still took a while, so I only made it to KL Sentral around 10:30 p.m.
@@ -42,7 +44,9 @@ After the anticlimax of the horrible fast ferry ride and the chaos at the jetty 
 Once we arrived, things didn’t exactly improve. All the bungalows at Black Tip were fully booked, even though we had reserved and paid in advance via stayrajampat.com, which is supposedly meant to prevent double bookings or overbookings. Apparently not. In the end, we agreed to stay for one night at the owner’s brother’s place, Bongso Homestay, which is actually on nearby Kri Island opposite Ransiwor. The bungalows there are much nicer, proper beds, direct water access via steps, fans, hammocks, so comfort-wise it was definitely an upgrade.
 The downside is the location. Kri is far more built up in that area than the quieter Black Tip spot on Ransiwor, so it doesn’t quite have the same scenic appeal. Still, since it was already late by the time we arrived, spending a night there probably wasn’t the worst outcome. The Black Tip bungalows are extremely basic, and although the setting is clearly the main attraction, having a slightly more comfortable first night didn’t hurt. We’ll see how it feels once we move over.
 One thing that genuinely surprised me was the food at Bongso Homestay. Dinner was very, very good, mackerel, aubergines, other vegetables, rice, corn fritters, plus bananas and dragon fruit. I’m not entirely convinced the meals at the other places will be as good as here, somehow I doubt it.
+
 February 16, 2026
+
 The next morning we finally moved over to Ransiwor Island and into the homestay we had originally booked, though not before making the most of the unexpected detour. This part of Kri is very congested with bungalows for a reason: the snorkelling right off the jetty in front of Soul Divers is considered among the better spots in Raja Ampat. And it really was quite beautiful. The coral isn’t in perfect condition, but honestly, where is it these days? Even so, Raja Ampat still seems to have healthier reefs than many other places. You can clearly see some stress and damage, but when it comes to fish life, it’s spectacular. Huge schools of small fish everywhere, but also quite a lot of surprisingly big reef fish. All the classic reef species seemed to be there, visibility was excellent, and at times it genuinely felt like swimming inside an aquarium.
 As for the accommodation itself, Black Tip Homestay, location-wise, it almost can’t be beat. Ransiwor is just a tiny island between Kri and Mansuar, and at low tide there are picturesque sandbars which you can even use to walk between the islands. It’s a spot of incredible beauty. There’s a small beach at all times here, and just three bungalows built on stilts. And make no mistake, they’re super bare-bones basic, as basic as it gets. There’s literally just a mattress, a mosquito net, and a small table inside the room, plus a small hammock outside on the terrace. Oh yeah, there’s a fan, but that really isn’t necessary. There’s always a breeze here and electricity is only available at night anyway, supposedly from 6 p.m. to midnight.
 As a matter of fact, I really like that many homestays here are very basic and built with local materials. There are enough places in the world where you can have full luxury with concrete and AC right by the beach. This kind of setup gives you a feeling of what the Thai islands used to be like 30 or 40 years ago. It fits the vibe very well. Plus, at around 400-something thousand rupiah including three meals, this is one of the cheapest places in Raja Ampat. Strangely enough, the only other place on the island next door has very similar huts but charges a lot more, so this is a really good deal.
@@ -51,7 +55,9 @@ Ransiwor Island is wedged between two prime snorkelling spots: the jetty in fron
 The Yenbuba jetty is, depending on the current, an easy swim from our homestay, but regardless of conditions it’s important to time your visit. I first went there quite early in the morning and there were no boats, nobody around — it was absolutely perfect. There was an abundance of large fish, including Napoleon wrasse and turtles underneath the jetty.
 When I returned later in the day, shortly before noon, things looked very different. All the big fish were gone and several dive boats had arrived, which made snorkelling around the jetty a bit tricky. On the other hand, getting there in the morning can be harder because the current is usually stronger.
 Fortunately, there is a great alternative if Yenbuba Jetty itself is too busy. It’s very pleasant simply to follow the edge of the reef toward Kri Island from the jetty. One of the healthiest-looking coral gardens can be found along that stretch, along with a remarkable abundance of reef fish and plenty of turtles. It also has that distinct aquarium-like feeling.
+
 February 20,2026
+
 The next day, we once more snorkelled over to Yenbuba Jetty and went ashore, walking through the sleepy, clean village of Yenbuba Village and along the beautiful mangrove forests on the coast of Mansuar Island.
 The coastal path isn’t very long. You can follow it for perhaps 25 minutes at most before it comes to an end. There is also a much longer inland path, but that’s a separate route altogether. Even so, the coastal stretch is very attractive, and the mangroves here are dense and quite impressive. About ten minutes past the village, there’s a long pier extending out toward the reef.
 From this pier, you can snorkel along the reef all the way to Kri Jetty, which is probably more than a kilometre. The reef is generally in decent condition, and fish life is fairly abundant, not quite as concentrated as around Yenbuba Jetty, but still among the better snorkelling spots in Raja Ampat.
@@ -65,7 +71,9 @@ On our second day here, we joined a snorkelling trip to Friwen Wall and Koi Isla
 Koi Island had more fish overall, but again not the same concentration of fish or turtles as the previously mentioned spots. During about 45 minutes in the water, I saw one turtle and one small reef shark. The reef itself was mixed: some sections were in very good shape, others already showing signs of decline. That said, this is nitpicking. By global standards, it is still very good snorkelling.
 Today we went on another trip to Manta Ridge and Manta Sandy, the former for snorkelling. It was extraordinary. I would not have expected to witness anything like that while simply snorkelling. We saw numerous manta rays, and at times they seemed almost to perform for us. They came incredibly close, even though we were not chasing them or trying to approach them. It felt like a genuine spectacle of nature unfolding right in front of us.
 The dive at Manta Sandy was equally impressive. We observed mantas at a feeding station and spent 70 minutes underwater. It was spectacular. At 500K rupiah, including equipment, it was also one of the least expensive dives I have done anywhere.
+
 February 23,2026
+
 Our last full day in Raja Ampat was the most action-packed and exhausting day of the trip so far, yet also one of the most magnificent.
 We managed to gather seven people to share a boat to Piaynemo, the famous karst rock formations almost two hours to the west of the central area. Boat rentals in Raja Ampat are extremely expensive, and I still find the pricing hard to justify. In our case, it was 5 million rupiah for the boat, including the geopark entrance fee and access to the Piaynemo viewpoint.
 On the way, I did my second and final dive in Raja Ampat at Melissa's Garden. It was a truly exceptional coral garden, full of both soft and hard corals in remarkably healthy condition, with barely any damaged patches. The sheer abundance of reef fish was astonishing. There were no mantas or turtles here, but we saw lobsters, huge stonefish, crocodile fish, and endless schools of fish moving through pristine coral structures. We stayed down for more than 70 minutes, and I enjoyed every minute of it.
@@ -127,7 +135,9 @@ That kind of thing leaves a bad impression. For the money it could be fine, but 
 After four days in Ambon, we finally managed to leave on the first available Pelni ferry, the Dobonsolo, which is apparently one of the faster ships. The ticket cost around 150K for the nine-hour journey to Banda Neira, which is of course the cheapest way of getting there.
 And we were very lucky. The ferry was not full, so neither the dormitory areas nor the outside decks felt crowded. Everything was reasonably clean, even the toilets. The crossing was calm and surprisingly pleasant.
 This was my first Pelni experience, and it turned out to be a positive one. But it was clearly down to luck. We met other travellers who had taken a different Pelni ship on the same route and described it as overcrowded and dirty.
+
 4 March, 2026
+
 Reaching the Banda Islands aboard a massive Pelni ferry has a certain magic to it, far more than arriving by plane or speedboat. Standing on deck as the ship slowly enters the narrow strait, the volcano rising on one side and the town lining the shore on the other, is simply spectacular. It feels like exactly the right way to approach this remote and extraordinary little place at the end of the world.
 The port lies directly in the centre of the tiny town, and the ferry releases its passengers straight into a lively night market. Women call out loudly, offering their food, and in the background the muezzin’s call to prayer drifts through the warm evening air.
 Arriving like this really did feel like stepping into an old exotic film from another era.
@@ -156,7 +166,9 @@ Another excellent snorkelling spot lies in the north of Banda Neira just off Mal
 Just off the eastern end of the runway to the north lies a reef that is absolutely spectacular. The soft and hard corals are dense, colourful and visibly healthy. It is rare to see a reef in such good condition anywhere, and almost unheard of to find one this good so close to a town. The sheer volume of fish is not quite as overwhelming as at some Raja Ampat sites, where it can feel like swimming through fish soup, but there is still plenty to see. Giant puffers, titan triggerfish, several reef sharks, and almost everything else you would hope for. The reef stretches for a remarkable distance along the coast, and after more than two hours in the water we still had not seen it all.
 While many of the well-known snorkelling spots around the Banda Islands, such as the Lava Flow, Malole Beach and the Runway Reef, are technically accessible on foot and by swimming, it usually involves quite a long walk and swim. For that reason it often makes more sense to visit them by boat.
 A round-the-island snorkelling trip that includes these sites as well as another stop behind Pulau Keraka, which in my opinion was the least impressive of the spots, can be arranged for around 500K for the boat. It makes for a very enjoyable day out on the water.
+
 March 6, 2026
+
 Everything changed on the 5th of March with the year’s first arrival of the speedboat from Ambon. As it happened, not just the speedboat arrived that day, but three ships in total. Two large Pelni vessels came into the harbour as well. It seemed that this date marked the beginning of the peak tourist season, and it also appeared to change the attitude of the locals almost overnight.
 Suddenly it became much easier to find something to eat or drink during the day. People welcomed you instead of ignoring you. It also seemed that the chef at Cilu Bintang had returned from his holiday, because we joined the evening buffet there.
 Cilu Bintang is the most atmospheric place in town anyway, but the quality of the buffet was quite a lot better than I expected. For 200K you get an all-you-can-eat spread that includes a delicious tuna ball soup, several kinds of grilled fish, prawns, satay lilit, juicy beef satay, tempeh goreng, aubergines with kenari nut sauce, salad, rice and fried rice. It was a really great buffet.
@@ -165,7 +177,9 @@ This sudden increase in visitors made us decide to move on and head to Pulau Hat
 A friend had told us that there had been absolutely no tourists on the island just the week before, but we did not want to take any risks.
 There was no public boat on that Friday. However, the fixer at our resort managed to secure two seats for us on a private boat that was making a cargo return trip to Hatta. We were able to get those seats for the same price we would have paid on the public boat, which is 100,000 rupiah per person, the standard tourist fare. Normally, private boats charge significantly more, so this worked out very well for us.
 It was a very basic boat without any shade, but the crossing only took about an hour or so. We also had the boat pretty much to ourselves, which made the trip quite convenient.
+
 March 12, 2026
+
 It turned out to be a good decision to go to Hatta as quickly as possible, because over the last few days the island had filled up rather quickly and there are not many accommodation options. As a matter of fact, all of the good bungalows had already been taken and only a few rather basic ones were still available. So we decided to wait for what is probably the nicest bungalow on the entire island at Vitalia Resort, which would be available the next day, and spent one night in one of the overflow rooms at the back of the bungalows in the main building.
 These rooms are quite basic, with just a bed and a fan and a simple bucket bathroom, but the good bungalow was definitely worth the wait. Quite inexplicably, the price per person, including all meals, for the nice bungalow was not that much higher than for the basic overflow rooms, 450K versus 350K. The bungalow itself was really lovely, with super comfortable hammocks, a spacious terrace, and a charming interior that had clearly been put together with a lot of care. It seems that the bungalow belongs to, or at least was decorated by, returning guests who spend extended periods here every year, because it felt much more like a private home than a typical homestay bungalow.
 There is no mobile internet reception on the island, but there is Starlink Wi-Fi available that works pretty much everywhere. Vouchers can be bought for very little money, around 5K for five days. It is quite slow, but it works. Electricity is available 24 hours a day.
@@ -183,7 +197,9 @@ On our last day in the Banda Islands we made a trip to the large island of Banda
 The island itself is very pleasant. The villages are clean, neat and very colourful, and it is a pleasure to walk along the coast with constant views of the impressive Api volcano and the blue sea.
 About forty-five minutes from the jetty there is a beautiful grove of large kenari and nutmeg trees, and on a hill nearby stand the ruins of a seventeenth-century fort that offer a spectacular view over Banda Api and Banda Neira.
 The people on Banda Besar are unbelievably friendly. Everyone smiles at you and greets you, even more so than in Banda Neira. It seems that not too many foreign visitors come here, but it is definitely a must-do when you are in the Banda Islands.
+
 March 14, 2026
+
 The Pelni ferry left early in the morning, right on time at 4 a.m., taking us back to Ambon. Our original plan had been to continue to the Kei Islands by ferry, but those boats only run twice a month and the next departure would have been on the 19th, too late for our schedule. So we changed plans, booked tickets for the Pelni ferry back to Ambon and a flight onward to Langgur, the easy way, or so I thought.
 This time the ferry was not the Dobonsolo but the Labobar, the biggest ship running on this route. It finally gave me the opportunity to experience one of those infamous Indonesian ferry journeys people always talk about and that I had somehow avoided until now.
 The boat was completely overbooked, dirty and incredibly stuffy. Getting to my allocated bunk already turned into a small struggle because I first had to move half a dozen people and their breakfast who had settled there. The whole ship felt packed far beyond capacity. I was also very happy that I did not have to use the restrooms.
@@ -194,7 +210,9 @@ Later in the afternoon we had much better espresso drinks at Midway Coffee, whic
 The hotel I had chosen for the short one-night stay, Biz Hotel, right in the centre of town, turned out to be a decent choice. By local standards, the hotel and the rooms were modern and clean, with air conditioning and Wi-Fi both working well and a surprisingly good bathroom. The only minor downside was the size. The rooms are quite small, but at 350K including breakfast it was still good value.
 For dinner we went to Sari Gurih again, but this time to the city location rather than the beach restaurant, which was just around the corner from our hotel. The atmosphere is obviously not as pleasant as sitting above the water. The restaurant itself feels rather institutional, but the service was good and the menu is the same.
 Personally, I found the ikan kuah kuning here to be inferior to the one at the beach location. That had nothing to do with the atmosphere, but rather with the fish they used. Instead of the firm white grouper-like fish served at the beach location, they used a mix of different fish, some of which I found chewy and quite bony. The broth itself, however, was still very good, as was the seafood capcay.
+
 March 21, 2026
+
 Our last island destination in the Moluccas looks on the map like one of the most remote places in Southeast Asia, much closer to the Northern Territory of Australia than to Jakarta. In reality, though, the Kei Islands, while giving you the feeling of being in an incredibly remote place, are actually easier to reach than the Banda Islands.
 They are connected to Ambon by a daily Lion Air flight on a regular aircraft, just a short one-hour hop, for which we paid a little over €40 one way.
 It would have been more romantic to arrive here after a long twelve-hour ferry ride from the remote Banda Islands to the even more remote Kei Islands, but after the last Pelni experience I was quite happy to do it the easy way.
@@ -236,7 +254,9 @@ In Langgur itself, The Malinan was a great find. It is an attractive place by th
 Probably the best restaurant on the island, and the one we kept going back to, was Forganza Café, just outside town towards the beach area. It is certainly the biggest restaurant on the island, but deservedly popular. On our first visit it was fully booked, and we could not even get a table.
 They have a massive barbecue, and all the fish and seafood is grilled over coconut shells. While their sea grape ceviche was a bit too coconut-heavy for my taste, they clearly had the best grilled squid. I also really liked their stir-fried leafy greens.
 They do add a 10% tax on top of the bill, but with prices this low, 65K for a whole grilled squid, 15K for sea grapes, and just 8K for a lime juice, it really does not hurt.
+
 March 27, 2026
+
 After a little over a week, we left the Kei Islands by plane, another Lion Air flight back to Ambon and onwards to Surabaya. The layover in Ambon was just an hour, so I was slightly concerned about making the connection, but it was all on one ticket and everything worked smoothly. In fact, we did not encounter any issues with our Lion Air flights on this trip. They were all on time. The combined fare was around 2.6 million rupiah.
 I chose Surabaya as our final destination and exit point over Jakarta and Bali because I had not been there since 2008, and back then I really enjoyed my week in the city. I was curious to see how it had changed, especially the Old Town.
 At the time, visiting the Old Town felt a bit like stepping into an old film. It was unbelievably dilapidated and exotic, with no tourist infrastructure to speak of. I am not even sure I saw a single Westerner during the entire week I spent in Surabaya in the 2000s.
@@ -277,7 +297,9 @@ The strip mall opposite Pakuwon Mall has a great open-air drinking area, includi
 Unfortunately, this particular branch was closed on the day I visited, but I was keen to try some craft beer while in Indonesia, so I ended up heading all the way to the far south of Surabaya to one of their other taprooms, which turned out to be worth the effort.
 The place itself was just a tiny, quite smoky bar with no outdoor seating, unlike the more appealing open-air setup at the Pakuwon branch, but the trip was still worthwhile because the beers were surprisingly good. They also offer an all-you-can-drink tasting option for just 200K rupiah.
 I particularly liked the session IPA and the porter, while their Weizenbock, at around 9.5%, was almost a bit too strong for my taste.
+
 March 31, 2026
+
 It is a fairly long flight of just over four hours from Surabaya to Bangkok, so the ticket price of €45 plus luggage was quite a bargain, and AirAsia even got me there on time, arriving at Don Mueang in the late afternoon.
 The airport buses now depart from a new station nearby, just outside the exit on the right-hand side, which makes the whole setup feel a bit more organised.
 During rush hour, though, it still took me almost two hours to get to Ratchadamri Skytrain station, from where I took the BTS across the river to Thonburi, where I had booked a room at Bella B Suites.
