@@ -9,6 +9,8 @@ date: 2006-03-03
 # Cycling Cambodia & Vietnam
 **March–April 2006**
 
+<img src="/photos/vietnam/cv2006-01.jpg" alt="Cycling Cambodia and Vietnam, 2006">
+
 A 35-day bicycle journey from Bangkok through Cambodia and the length of Vietnam, from the Mekong Delta to Hanoi.
 
 ---
