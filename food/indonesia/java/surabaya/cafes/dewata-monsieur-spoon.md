@@ -19,13 +19,13 @@ Worth stopping by if you're in the area and feel like something a bit different.
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8/10   |
-| Service         | 8/10   |
+| Service         | 7/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dewata+Monsieur+Spoon+Comunale+West+Market+Surabaya)
 ☕ **Type:** Café & Patisserie
-💰 **Price level:** Moderate
+💰 **Price level:** Moderate to Expensive
