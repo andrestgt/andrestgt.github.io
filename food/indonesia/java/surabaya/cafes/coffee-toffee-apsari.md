@@ -14,8 +14,8 @@ Prices are very reasonable, and the coffee is perfectly fine. If you're in the a
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7/10   |
-| Service         | 7/10   |
+| Coffee          | 7.5/10   |
+| Service         | 7.5/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
 | Overall         | 7.5/10 |
@@ -24,4 +24,4 @@ Prices are very reasonable, and the coffee is perfectly fine. If you're in the a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffee+Toffee+Apsari+Grahadi+Surabaya)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
