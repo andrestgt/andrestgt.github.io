@@ -14,14 +14,14 @@ If I had to choose between the branches in Surabaya, though, I would still go to
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
-| Value for money | 8/10   |
+| Food            | 8.5/10  |
+| Service         | 8/10  |
+| Value for money | 9/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Tei+Pakuwon+Mall+Surabaya)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** Rp 150,000–175,000 per person
+💰 **Price level:** Rp 150,000–200,000 per person
