@@ -2,7 +2,23 @@
 layout: default
 section: food
 city: surabaya
-title: Surabaya
-subtitle: Food & drink in Surabaya
+slug: surabaya
+title: Surabaya – Food & Drink
+subtitle: Restaurants, cafés, and street food in Java's second city
 ---
 
+# Surabaya
+
+Reviews grouped by category.
+
+## Street food & basic eateries
+- [Street food & basic eateries](/food/indonesia/java/surabaya/street-food/)
+
+## Restaurants
+- [Restaurants](/food/indonesia/java/surabaya/restaurants/)
+
+## Cafés
+- [Cafés](/food/indonesia/java/surabaya/cafes/)
+
+## Bars & pubs
+- [Bars & pubs](/food/indonesia/java/surabaya/bars-pubs/)
