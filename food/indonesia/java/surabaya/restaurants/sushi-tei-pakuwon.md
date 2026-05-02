@@ -6,9 +6,6 @@ title: Sushi Tei Pakuwon Mall
 subtitle: Pakuwon Mall · Japanese
 ---
 
-<!-- Add photo here once available -->
-<!-- <img src="/photos/indonesia/surabaya/sushi-tei-pakuwon.jpg" alt="Sushi Tei Pakuwon Mall"> -->
-
 Everything here is up to the usual Sushi Tei standard, with the same menu and consistent quality you get in Bangkok, Kuala Lumpur, or Jakarta.
 
 If I had to choose between the branches in Surabaya, though, I would still go to Tunjungan, mainly for the views and the overall nicer decor and atmosphere.
@@ -25,7 +22,6 @@ If I had to choose between the branches in Surabaya, though, I would still go to
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/?q=Pakuwon+Mall+Lt.2M+No.10-11,+Jl.+Raya+Lontar+No.2,+Surabaya)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Tei+Pakuwon+Mall+Surabaya)
 🍽️ **Cuisine:** Japanese, Sushi
 💰 **Price level:** Rp 150,000–175,000 per person
-🕐 **Visited:** April 2026
