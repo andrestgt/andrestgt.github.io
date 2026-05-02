@@ -16,11 +16,11 @@ Prices are very reasonable for what you get. It's one of those places where you 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 10/10  |
-| Service         | 8/10   |
+| Food            | 8/10  |
+| Service         | 7.5/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 9/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
