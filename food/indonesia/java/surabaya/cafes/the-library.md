@@ -16,11 +16,11 @@ Coffee was decent, nothing particularly memorable, and on the pricier side for S
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7/10   |
-| Service         | 7/10   |
+| Coffee          | 7.5/10   |
+| Service         | 8/10   |
 | Value for money | 6.5/10 |
 | Atmosphere      | 8.5/10 |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
