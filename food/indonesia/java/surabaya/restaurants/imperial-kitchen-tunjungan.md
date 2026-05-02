@@ -16,11 +16,11 @@ If you just want to try Imperial Kitchen and don't mind where to go, the Pakuwon
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 10/10  |
-| Service         | 6/10   |
+| Food            | 8/10  |
+| Service         | 4/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 7.5/10 |
+| Atmosphere      | 4/10   |
+| Overall         | 7/10 |
 
 ### Practical
 
