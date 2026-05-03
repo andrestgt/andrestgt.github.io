@@ -8,23 +8,27 @@ title: Cafés
 subtitle: Coffee shops in Kuta & the South
 ---
 
-# Cafés in Kuta & the South
+# Cafés
 
 Covering Canggu, Kuta, and Seminyak.
 
 ---
 
-## CRUMB & COASTER
-Kuta · Café
+## Crumb & Coaster
+*Kuta · Café*
 A nice and friendly little café with excellent coffees — a bit pricey for Kuta, but absolutely worth a stop.
-→ [Read the full review](./crumb-and-coaster.html)
+→ [Read the full review](/food/indonesia/bali/kuta-south/cafes/crumb-and-coaster/)
 
-## MEMORIAL CAFE
-Kuta · Café
+---
+
+## Memorial Cafe
+*Kuta · Café*
 A strategically located café on Jl Raya Kuta with reasonably good coffee at a decent price for the area.
-→ [Read the full review](./memorial-cafe.html)
+→ [Read the full review](/food/indonesia/bali/kuta-south/cafes/memorial-cafe/)
 
-## THE KOOP ROASTER & CAFE
-Seminyak · Specialty Coffee
+---
+
+## The Koop Roaster & Cafe
+*Seminyak · Specialty Coffee*
 More roastery than café — not particularly comfortable, but one of the best cups of coffee in Seminyak.
-→ [Read the full review](./the-koop-roaster.html)
+→ [Read the full review](/food/indonesia/bali/kuta-south/cafes/the-koop-roaster/)

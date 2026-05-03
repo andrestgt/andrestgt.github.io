@@ -8,9 +8,11 @@ title: Bars & pubs
 subtitle: Drinks and nightlife in Surabaya
 ---
 
-# Bars & pubs in Surabaya
+# Bars & pubs
 
-## CANARD TAPROOM & CAFE
-Rungkut · Craft Beer Bar
+---
+
+## Canard Taproom & Cafe
+*Rungkut · Craft Beer Bar*
 A small, basic taproom in the south of the city with surprisingly good craft beer — the best option in Surabaya for anyone who enjoys a proper beer.
-→ [Read the full review](./canard-taproom.html)
+→ [Read the full review](/food/indonesia/java/surabaya/bars-pubs/canard-taproom/)

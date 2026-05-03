@@ -8,9 +8,11 @@ title: Bars & pubs
 subtitle: Drinks and nightlife in Ambon
 ---
 
-# Bars & pubs in Ambon
+# Bars & pubs
 
-## SKY BAR – SWISS-BELHOTEL
-Uritetu, Sirimau · Rooftop Bar
+---
+
+## Sky Bar – Swiss-Belhotel
+*Sirimau · Rooftop Bar*
 The best views in downtown Ambon — a rooftop bar above the city chaos, with decent wines, cold beer, and reasonable prices.
-→ [Read the full review](./sky-bar-ambon.html)
+→ [Read the full review](/food/indonesia/maluku/ambon/bars-pubs/sky-bar-ambon/)

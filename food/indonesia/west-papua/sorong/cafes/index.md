@@ -8,11 +8,11 @@ title: Cafés
 subtitle: Coffee shops in Sorong
 ---
 
-# Cafés in Sorong
+# Cafés
 
 ---
 
-## WABI SABI COFFEE
-Kampung Baru, Sorong · Specialty Coffee
+## Wabi Sabi Coffee
+*Kampung Baru, Sorong · Specialty Coffee*
 Sorong's best coffee shop — large, modern, air-conditioned, with seriously good cappuccinos at 35K. A perfect stop while waiting for the ferry to Raja Ampat.
-→ [Read the full review](./wabisabi-coffee.html)
+→ [Read the full review](/food/indonesia/west-papua/sorong/cafes/wabisabi-coffee/)
