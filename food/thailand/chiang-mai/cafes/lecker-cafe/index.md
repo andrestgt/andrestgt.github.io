@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Lecker Café & Bistro
+subtitle: Si Phum, Old Town · Café
+---
+
+Arty little café/cocktail bar in a great location. You can choose between two kinds of roasts (I prefer the strong roast), and at 60 Bt their flat whites are excellent value.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8.5/10 |
+| Service         | 9/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 9/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lecker+Cafe+Bistro+Mun+Mueang+Rd+Chiang+Mai)
+☕ **Type:** Café & Cocktail Bar
+💰 **Price level:** Inexpensive

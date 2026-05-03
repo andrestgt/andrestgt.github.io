@@ -1,0 +1,27 @@
+---
+layout: default
+section: food
+review: true
+title: Coconut Shell Thai Food
+subtitle: Phra Sing, Old Town · Thai
+---
+
+This little tourist restaurant is an easy recommendation. They offer a solid menu of Thai classics, only mildly toned down for foreign palates. The red curry had a nice kick and came with a generous portion of tender pork. I also really enjoyed their signature dish — coconut eggs with sausage and basil. The larb moo was maybe a bit on the dry side, but still full of flavour.
+
+Quality-wise, it's right up there with your typical local Thai spot, and the prices are just as fair — most non-seafood mains and curries go for around 60 Bt. Everything, including the excellent mango shakes, is beautifully presented.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 9/10   |
+| Service         | 7.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 9/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coconut+Shell+Thai+Food+Ratchamanka+Rd+Chiang+Mai)
+🍽️ **Cuisine:** Thai
+💰 **Price level:** ฿60–100 per person

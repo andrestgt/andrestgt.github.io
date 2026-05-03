@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Thaan Aoan
+subtitle: Phra Sing, Old Town · Thai
+---
+
+Nice, inexpensive AC café in the old town, great for a coffee break. It's not cheap by Chiang Mai standards, but for the touristy old town area, prices are fair. Don't forget to ask them not to put cinnamon on the cappuccino — it comes by default, but without it, the coffee is actually very good. The Thai food, however, is toned down way too much for tourists, to the point of blandness… pity.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 9/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 6.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Thaan+Aoan+Prapokklao+Road+Chiang+Mai)
+🍽️ **Cuisine:** Thai
+💰 **Price level:** ฿100–200 per person
