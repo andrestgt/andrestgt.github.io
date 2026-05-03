@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Ryoshi Japanese Restaurant Ubud
+subtitle: Ubud · Japanese
+---
+
+Once Ubud's first Japanese address, this place has gone seriously downhill these past few years. Service is a joke, food presentation listless. Prices have gone up as quality has gone down. Saving grace is the quality of the fish, which is still good.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 4/10   |
+| Value for money | 5/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 5.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ryoshi+Japanese+Restaurant+Jl+Hanoman+Ubud+Bali)
+🍽️ **Cuisine:** Japanese
+💰 **Price level:** Moderate
