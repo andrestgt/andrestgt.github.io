@@ -12,14 +12,14 @@ For a coffee shop at an international airport the flat white here is surprisingl
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7.5/10 |
+| Coffee          | 8/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 5/10   |
 | Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Petit+Jemma+Juanda+Airport+Surabaya)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
