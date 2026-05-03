@@ -5,6 +5,7 @@ country: indonesia
 island: java
 title: Java
 subtitle: Food & drink across Java
+slug: java
 ---
 
 # Java

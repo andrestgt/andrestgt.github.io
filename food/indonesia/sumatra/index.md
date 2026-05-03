@@ -5,6 +5,7 @@ country: indonesia
 island: sumatra
 title: Sumatra
 subtitle: Food & drink across Sumatra
+slug: sumatra 
 ---
 
 # Sumatra

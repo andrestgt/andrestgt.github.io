@@ -5,6 +5,7 @@ country: indonesia
 island: sulawesi
 title: Sulawesi
 subtitle: Food & drink across Sulawesi
+slug: sulawesi
 ---
 
 # Sulawesi
