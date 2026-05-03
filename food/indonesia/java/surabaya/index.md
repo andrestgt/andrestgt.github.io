@@ -11,8 +11,6 @@ subtitle: Restaurants, cafés, and street food in Java's second city
 
 Reviews grouped by category.
 
-## Street food & basic eateries
-- [Street food & basic eateries](/food/indonesia/java/surabaya/street-food/)
 
 ## Restaurants
 - [Restaurants](/food/indonesia/java/surabaya/restaurants/)
