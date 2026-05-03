@@ -11,9 +11,6 @@ subtitle: Restaurants, cafés, and seafood in Ambon
 
 Reviews grouped by category.
 
-## Street food & basic eateries
-- [Street food & basic eateries](/food/indonesia/maluku/ambon/street-food/)
-
 ## Restaurants
 - [Restaurants](/food/indonesia/maluku/ambon/restaurants/)
 
