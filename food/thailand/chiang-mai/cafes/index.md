@@ -16,64 +16,57 @@ Chiang Mai has one of the best café scenes in Southeast Asia, with dozens of qu
 
 ## 32 Coffee Hill & Resort
 *Pa Pae, Mae Taeng · Café*
-A great place to break the journey between Chiang Mai and Pai — attractive setting, good Thai food, and decent coffees.
+A great place to break the journey between Chiang Mai and Pai — attractive setting, good Thai food, and decent coffees...
 → [Read the full review](/food/thailand/chiang-mai/cafes/32-coffee-hill/)
 
 ---
 
 ## Akha Ama Phrasingh
 *Si Phum, Old Town · Specialty Coffee*
-Minimalist coffee shop from Chiang Mai's most renowned roaster — very good coffees at reasonable prices, with a medium roast flat white among the better ones in town.
+Minimalist coffee shop from one of Chiang Mai's most renowned roasters — very good coffees at reasonable prices...
 → [Read the full review](/food/thailand/chiang-mai/cafes/akha-ama/)
 
 ---
 
 ## Bake n Wake
 *Chang Khlan · Café*
-Bright, air-conditioned café with very good lattes for 65 Bt.
+Bright, air-conditioned café with very good lattes for 65 Bt...
 → [Read the full review](/food/thailand/chiang-mai/cafes/bake-n-wake/)
 
 ---
 
 ## The Baristro Asian Style
 *Suthep · Café*
-An Instagram-first café that actually delivers — the Japanese-inspired architecture and garden create a genuine sense of calm, and the cappuccino at 85 Bt is nicely made.
+An Instagram-first café that actually delivers — the Japanese-inspired architecture and garden create a genuine sense of calm...
 → [Read the full review](/food/thailand/chiang-mai/cafes/baristro-asian-style/)
 
 ---
 
 ## The Baristro at Train Station
 *Wat Ket · Café*
-A chic, minimalist café that makes waiting for a train a pleasure — great lattes, fast WiFi, strong AC, and plenty of room for luggage.
+A chic, minimalist café that makes waiting for a train a pleasure...
 → [Read the full review](/food/thailand/chiang-mai/cafes/baristro-train-station/)
 
 ---
 
 ## Bear Hug Café
 *Chang Khlan · Café*
-Very pretty bear-themed café — the latte art is better than the coffee itself, but at 45 Bt it's perfectly fine, and the AC and WiFi are welcome.
+Very pretty bear-themed café but the latte art is better than the coffee itself...
 → [Read the full review](/food/thailand/chiang-mai/cafes/bear-hug-cafe/)
 
 ---
 
 ## Chomnok Chommai
 *Mae On · Café*
-The best view of the village from a nice veranda — good coffees at 50 Bt and decent cakes. Busy, but friendly. Recommended.
+The best view of the village from a nice veranda and good coffees...
 → [Read the full review](/food/thailand/chiang-mai/cafes/chomnok-chommai/)
 
 ---
 
 ## Clay Studio Coffee in the Garden
 *Phra Sing · Café*
-Nicely designed café with a big garden — good coffees and shakes at reasonable prices. Just make sure to ask for no cinnamon on the cappuccino.
+Nicely designed café with a big garden with good coffees and shakes at reasonable prices...
 → [Read the full review](/food/thailand/chiang-mai/cafes/clay-studio-coffee/)
-
----
-
-## The Coffee Club – Tha Phae
-*Si Phum · Café*
-Great coffee quality and very good Western and Thai food — not cheap, but always worth a visit.
-→ [Read the full review](/food/thailand/chiang-mai/cafes/coffee-club-tha-phae/)
 
 ---
 
