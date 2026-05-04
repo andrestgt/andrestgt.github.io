@@ -15,11 +15,11 @@ Very good cappuccino here, a big cup for 80 Bt. Great decor, some very comfy sof
 | Coffee          | 8/10   |
 | Service         | 7.5/10 |
 | Value for money | 6/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Woo+Cafe+Art+Gallery+Charoen+Rat+Rd+Chiang+Mai)
 ☕ **Type:** Café & Gallery
-💰 **Price level:** Expensive
+💰 **Price level:** Moderate to Expensive
