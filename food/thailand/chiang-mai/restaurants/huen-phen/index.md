@@ -15,9 +15,9 @@ The eggplant nam prik and pork cracklings were excellent, the 60 Bt kao soi moo 
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 9/10   |
+| Service         | 7.5/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
