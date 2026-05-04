@@ -14,11 +14,11 @@ Service is rough around the edges, closer to what you’d expect in rural China 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
+| Food            | 8/10   |
 | Service         | 6/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 8.5/10 |
+| Value for money | 8.5/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
