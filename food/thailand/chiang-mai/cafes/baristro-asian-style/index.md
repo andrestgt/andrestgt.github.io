@@ -15,7 +15,7 @@ We were lucky on the day we visited and found it relatively quiet, which made th
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8/10   |
-| Service         | 9/10   |
+| Service         | 7/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 8.5/10 |
