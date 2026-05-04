@@ -16,8 +16,8 @@ Lucky Elephant fits this rule quite well, it makes up for its noisy ring road lo
 |-----------------|--------|
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 6/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 6.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
