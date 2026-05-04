@@ -12,7 +12,7 @@ For me this is the best Tex-Mex food I've had anywhere in South East Asia. Consi
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 7.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 4/10   |
