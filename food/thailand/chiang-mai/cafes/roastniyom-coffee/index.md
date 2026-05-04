@@ -12,10 +12,10 @@ The coffee here is better than it was on my last visit 10 years ago, but for 70 
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 5.5/10 |
-| Service         | 6.5/10 |
-| Value for money | 5.5/10 |
-| Atmosphere      | 6/10   |
+| Coffee          | 6/10 |
+| Service         | 7/10 |
+| Value for money | 6/10 |
+| Atmosphere      | 6.5/10   |
 | Overall         | 6/10   |
 
 ### Practical
