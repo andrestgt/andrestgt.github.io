@@ -17,13 +17,13 @@ Free water is provided, ordering is easy via QR code, and there are cheap beers 
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 9/10   |
-| Service         | 9/10   |
+| Service         | 7.5/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Neng+Roasted+Pork+Rattanakosin+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Roast
-💰 **Price level:** ฿200–400 per person
+💰 **Price level:** ฿150–250 per person
