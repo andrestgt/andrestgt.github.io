@@ -16,10 +16,10 @@ I found the staff here very friendly and the free jugs of water were quickly ref
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
-| Service         | 9/10   |
+| Food            | 7/10 |
+| Service         | 8/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
