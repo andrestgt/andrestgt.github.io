@@ -16,8 +16,8 @@ The place was always empty when I went there early, which made it a convenient a
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7/10   |
-| Service         | 7/10   |
+| Coffee          | 8/10   |
+| Service         | 6/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 6.5/10 |
 | Overall         | 7/10   |
@@ -26,4 +26,4 @@ The place was always empty when I went there early, which made it a convenient a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gade+Coffee+Gold+Ambon)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
