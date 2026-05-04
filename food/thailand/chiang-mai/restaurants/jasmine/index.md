@@ -6,17 +6,17 @@ title: Jasmine
 subtitle: Chang Moi · Chinese, Dim Sum
 ---
 
-Dim sum places are surprisingly scarce in Chiang Mai, so this fading old fashioned hotel restaurant is still a decent choice, not great but not too expensive either. No atmosphere though.
+Dim sum places are surprisingly scarce in Chiang Mai, so this fading old fashioned hotel restaurant is still a decent choice, not great but not too expensive either. Not much atmosphere though.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6.5/10 |
+| Food            | 7.5/10   |
+| Service         | 7/10   |
+| Value for money | 6/10 |
 | Atmosphere      | 4/10   |
-| Overall         | 6/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
