@@ -15,7 +15,7 @@ Chiang Mai has some of the best street food in Thailand, from Anthony Bourdain's
 ---
 
 ## A.T. Thaifoods
-*Chang Phueak, Santitham · Street Food*
+*Chang Phueak, Santitham · Eatery*
 One of Santitham Road's highly recommended local spots — a very good version of khao kha moo at 50–60 Bt a plate...
 → [Read the full review](/food/thailand/chiang-mai/street-food/at-thaifoods/)
 
@@ -36,14 +36,14 @@ Anthony Bourdain's famous pork stew stall — juicy, tender meat, a sauce that i
 ---
 
 ## Guay Jub Chang Moi Tat Mai
-*Chang Moi · Street Food*
+*Chang Moi · Eatery*
 Very popular old-school pork noodle soup place — the rolled noodles and crispy pork are nice, but the 30-minute wait is hard to justify for what it is...
 → [Read the full review](/food/thailand/chiang-mai/street-food/guay-jub-chang-moi-tat-mai/)
 
 ---
 
 ## Krua Rim Khlong
-*Chang Khlan · Street Food*
+*Chang Khlan · Eatery*
 A small hole-in-the-wall by the Khlong Mae Kha canal — best for a light snack, a drink, and a rest while exploring the neighbourhood...
 → [Read the full review](/food/thailand/chiang-mai/street-food/krua-rim-khlong/)
 
@@ -57,7 +57,7 @@ As far as budget burgers go in Thailand, this one is legit — cheap, tasty, and
 ---
 
 ## Next-Level Som Tum
-*Chang Phueak, Santitham · Street Food*
+*Chang Phueak, Santitham · Eatery*
 One of Santitham Road's best local spots — properly spicy Thai food at rock-bottom prices with no concessions to tourist palates...
 → [Read the full review](/food/thailand/chiang-mai/street-food/next-level-som-tum/)
 
@@ -78,14 +78,14 @@ Not exactly Mexican, but surprisingly tasty drinking food at reasonable prices..
 ---
 
 ## Aroon Rai  
-*Old City · Thai Street Food*  
+*Old City · Eatery*  
 A long-standing local favourite serving straightforward Northern Thai dishes in a no-frills setting...  
 → [Read the full review](/food/thailand/chiang-mai/street-food/aroon-rai/)
 
 ---
 
 ## Barnakarn Kitchen  
-*Santitham · Thai Street Food*  
+*Santitham · Eatery*  
 An inner moat spot with a dependable menu and generous portions...  
 → [Read the full review](/food/thailand/chiang-mai/street-food/barnakarn-kitchen/)
 
@@ -106,35 +106,35 @@ One of Chiang Mai’s better-known khao soi spots, serving a slightly heavier ve
 ---
 
 ## Krua Por Piang  
-*Local neighbourhood · Thai Street Food*  
+*Local neighbourhood · Eatery*  
 A simple, local eatery offering standard Thai dishes at very reasonable prices...
 → [Read the full review](/food/thailand/chiang-mai/street-food/krua-por-piang/)
 
 ---
 
 ## Neng Roasted Pork  
-*Santitham · Street Food*  
+*Santitham · Eatery*  
 A well-known spot for crispy roasted pork - consistently popular and delicious...  
 → [Read the full review](/food/thailand/chiang-mai/street-food/neng-roasted-pork/)
 
 ---
 
 ## Sorn Chan  
-*Local neighbourhood · Thai Street Food*  
+*Local neighbourhood · Eatery*  
 A modest local place in prime location, focusing on regional dishes...  
 → [Read the full review](/food/thailand/chiang-mai/street-food/sorn-chan/)
 
 ---
 
 ## SP Chicken  
-*Old City · Street Food*  
+*Old City · Eatery*  
 Famous for its rotisserie-style grilled chicken...  
 → [Read the full review](/food/thailand/chiang-mai/street-food/sp-chicken/)
 
 ---
 
 ## Yui’s Eatery  
-*Local neighbourhood · Thai Street Food*  
+*Local neighbourhood · Eatery*  
 A casual spot offering a mix of Thai-Chinese favourites with friendly service and good value...  
 → [Read the full review](/food/thailand/chiang-mai/street-food/yuis-eatery/)
 
