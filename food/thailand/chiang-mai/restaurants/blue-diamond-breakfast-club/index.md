@@ -15,9 +15,9 @@ This used to be the best farang breakfast place in town a decade ago, and is sti
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 9/10   |
+| Service         | 7.5/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
