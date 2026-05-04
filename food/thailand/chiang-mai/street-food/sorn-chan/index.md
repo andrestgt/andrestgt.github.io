@@ -12,11 +12,11 @@ Basic local eatery in a prime location, just in front of Thapae Gate. They have 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
-| Service         | 6/10   |
+| Food            | 7/10 |
+| Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 7.5/10 |
-| Overall         | 7.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 7/10 |
 
 ### Practical
 
