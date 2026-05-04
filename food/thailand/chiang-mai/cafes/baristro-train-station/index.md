@@ -13,9 +13,9 @@ This chic, minimalist café is a much nicer place to wait for a train than the s
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8.5/10 |
-| Service         | 8.5/10 |
+| Service         | 7.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 8.5/10 |
 
 ### Practical
