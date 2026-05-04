@@ -72,145 +72,129 @@ Nicely designed café with a big garden with good coffees and shakes at reasonab
 
 ## Coffee Waan
 *Chang Khlan · Café*
-A rare find — a smooth latte for just 45 Bt without the bitter cheap-roast quality common at this price point. Limited and uncomfortable seating, but the AC works even in 40°C.
+A rare find — a smooth latte for just 45 Bt without the bitter cheap-roast quality common at this price point...
 → [Read the full review](/food/thailand/chiang-mai/cafes/coffee-waan/)
 
 ---
 
 ## Dee Cafe
 *Chang Phueak · Café*
-Small, bright and air-conditioned — flat whites at 45 Bt in a comfortable setting. One of the best value cups in Chiang Mai.
+Small, bright and air-conditioned — flat whites at 45 Bt in pleasant setting...
 → [Read the full review](/food/thailand/chiang-mai/cafes/dee-cafe/)
 
 ---
 
 ## Eden Caffee Mae Rim
 *Mae Rim · Café*
-Surprisingly good coffees at 50 Bt, with a nice veranda and a view. A good stop on the Mae Rim road.
+Surprisingly good coffees and a nice veranda and a view...
 → [Read the full review](/food/thailand/chiang-mai/cafes/eden-caffee-mae-rim/)
 
 ---
 
 ## Forty One Cafe
 *Haiya · Café*
-Comfy seating, strong AC, WiFi, and well-prepared lattes at 45 Bt — a convincing all-round package with very friendly service.
+Comfy seating, strong AC, WiFi, and well-prepared lattes...
 → [Read the full review](/food/thailand/chiang-mai/cafes/forty-one-cafe/)
 
 ---
 
 ## Gravity Café & Bistro
 *Si Phum, Old Town · Specialty Coffee*
-A quieter alternative to Stories with the same excellent coffee quality — the flat white at 65 Bt is among the best in Chiang Mai at this price.
+A quieter alternative to Stories with the same excellent coffee quality...
 → [Read the full review](/food/thailand/chiang-mai/cafes/gravity-cafe/)
 
 ---
 
 ## Herb Basics
 *Si Phum, Old Town · Café*
-A lovely shop that doubles as a café — good quality latte at 45 Bt in a nice atmosphere. A real steal by Old Town standards.
+A lovely shop that doubles as a café — decent quality latte in a nice atmosphere...
 → [Read the full review](/food/thailand/chiang-mai/cafes/herb-basics/)
 
 ---
 
-## Hug Coffee
-*Suthep · Café*
-Avoid. The coffee is so bitter it's barely drinkable.
-→ [Read the full review](/food/thailand/chiang-mai/cafes/hug-coffee/)
-
----
 
 ## Improvise Coffee
 *Chang Khlan · Specialty Coffee*
-Strong yet balanced espresso drinks in a spacious, air-conditioned setting — the strong roast cappuccino in a small cup is perfectly prepared. A winner.
+Strong yet balanced espresso drinks in a spacious, air-conditioned setting...
 → [Read the full review](/food/thailand/chiang-mai/cafes/improvise-coffee/)
 
 ---
 
 ## Kalm Kitchen
 *Phra Sing · Café*
-A very attractive art and craft centre with a nicely decorated café — pleasant to sit in, but the beans are on the bitter side and the lattes are overpriced at 85 Bt for the quality.
+A very attractive art and craft centre with a nicely decorated café...
 → [Read the full review](/food/thailand/chiang-mai/cafes/kalm-kitchen/)
 
 ---
 
 ## Lecker Café & Bistro
 *Si Phum, Old Town · Café & Cocktail Bar*
-An arty little café and cocktail bar in a great Old Town location — two roast options available, and the flat white at 60 Bt is excellent value.
+An arty little café in a great Old Town location...
 → [Read the full review](/food/thailand/chiang-mai/cafes/lecker-cafe/)
 
 ---
 
 ## Lung Pud Pa Peng Coffee
 *Mae On · Café*
-A lovely wooden house on a small creek — very popular with local tourists, quite good coffees, but very limited food options.
+A lovely wooden house on a small creek — very popular with local tourists...
 → [Read the full review](/food/thailand/chiang-mai/cafes/lung-pud-pa-peng-coffee/)
 
 ---
 
 ## Ombra Caffe
 *Chang Phueak · Café*
-Excellent flat white for 75 Bt — more co-working space than café, but if you need a good cup and a desk, this works very well.
+Excellent flat whites — more co-working space than café...
 → [Read the full review](/food/thailand/chiang-mai/cafes/ombra-caffe/)
 
 ---
 
 ## Overstand Coffee & Breakfast
 *Si Phum, Old Town · Café*
-Top marks for the coffees and quality sandwiches — a small, popular place where you won't linger long, and prices are slightly above average.
+Top marks for the coffees and quality sandwiches...
 → [Read the full review](/food/thailand/chiang-mai/cafes/overstand-coffee/)
 
 ---
 
 ## Pacamara Coffee Klang Wieng
 *Si Phum, Old Town · Specialty Coffee*
-Excellent cappuccino at fair prices — the only criticism is the limited and rather uncomfortable seating.
+Excellent cappuccino at fair prices...
 → [Read the full review](/food/thailand/chiang-mai/cafes/pacamara-coffee/)
 
 ---
 
-## Q Car Care
-*Nam Phrae, Phrao · Café*
-A cute little café with ice cold beer and a surprisingly extensive English menu of tasty Thai standards. A great pit stop on the road north.
-→ [Read the full review](/food/thailand/chiang-mai/cafes/q-car-care/)
-
----
 
 ## Ristr8to Original
 *Nimman · Specialty Coffee*
-A Chiang Mai institution that has barely changed its menu or prices in over a decade — still one of the go-to coffee shops in Nimman, with consistently excellent espresso drinks.
+A Chiang Mai institution that has not changed its menu or prices in over a decade...
 → [Read the full review](/food/thailand/chiang-mai/cafes/ristr8to/)
 
 ---
 
 ## Roastniyom Coffee
 *Chang Khlan · Café*
-Better than it was 10 years ago, but for 70 Bt there are better cups elsewhere in town.
+Better than it used to be, but for 70 Bt there are better cups elsewhere in town...
 → [Read the full review](/food/thailand/chiang-mai/cafes/roastniyom-coffee/)
 
 ---
 
 ## STORIES
 *Phra Sing, Old Town · Specialty Coffee*
-The busiest Old Town café, in a prime location opposite Thapae Gate — a bright, cool refuge from the heat with very good flat whites at 65 Bt and iced coffees served in glasses, not plastic.
+The busiest Old Town café, in a prime location opposite Thapae Gate...
 → [Read the full review](/food/thailand/chiang-mai/cafes/stories/)
 
 ---
 
 ## Third Place Coffee
 *Nimman · Specialty Coffee*
-Possibly the best flat white in Chiang Mai — excellent quality at just 75 Bt in a quiet corner of Nimman. Highly recommended.
+Possibly the best flat white in Chiang Mai...
 → [Read the full review](/food/thailand/chiang-mai/cafes/third-place-coffee/)
 
 ---
 
 ## Woo Cafe Art Gallery
 *Chang Moi · Café & Gallery*
-A big cup cappuccino for 80 Bt in beautiful surroundings with very comfy sofas — the food prices are over the top, but it's a great place for just a coffee.
+Beautiful surroundings with very comfy sofas, but the food prices are over the top...
 → [Read the full review](/food/thailand/chiang-mai/cafes/woo-cafe/)
 
 ---
 
-## Yes Coffee
-*Suthep · Café*
-No mugs, expensive, and cappuccino served too hot. Avoid.
-→ [Read the full review](/food/thailand/chiang-mai/cafes/yes-coffee/)
