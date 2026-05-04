@@ -6,16 +6,16 @@ title: Rajdarbar Indian Restaurant
 subtitle: Chang Khlan · Indian
 ---
 
-Had a takeaway chicken tikka masala and garlic naan. The bread was very good, with a very garlicky flavour. The masala gravy was also really good, spicy enough and creamy. The chicken tikka could have been a bit juicier, but overall for the price this is a solid recommendation.
+Had a takeaway chicken tikka masala and garlic naan. The bread was very good, with a very garlicky flavour. The masala gravy was also really good, spicy enough and creamy. The chicken tikka could have been a bit juicier, but overall for the price this is a clear recommendation.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7/10   |
+| Service         |  |
+| Value for money | 8/10 |
+| Atmosphere      |   |
 | Overall         | 7.5/10 |
 
 ### Practical
