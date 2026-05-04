@@ -15,13 +15,13 @@ Another positive aspect is the fact that their iced coffees come in glasses inst
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8.5/10 |
-| Service         | 8/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 8.5/10 |
+| Service         | 7.5/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Stories+Cafe+Rachadamnoen+Rd+Chiang+Mai)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
