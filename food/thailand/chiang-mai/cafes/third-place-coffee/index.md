@@ -13,10 +13,10 @@ Great little coffee shop in the quiet part of Nimman. The flat white here is rea
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Service         | 7.5/10 |
+| Value for money | 8.5/10   |
+| Atmosphere      | 7/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
