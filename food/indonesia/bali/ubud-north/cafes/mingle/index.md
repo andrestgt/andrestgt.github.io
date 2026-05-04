@@ -13,9 +13,9 @@ Comfy and inviting corner café. Their coffees are well prepared, but the slight
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 6/10   |
-| Service         | 7/10   |
+| Service         | 7.5/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 7/10   |
 
 ### Practical
