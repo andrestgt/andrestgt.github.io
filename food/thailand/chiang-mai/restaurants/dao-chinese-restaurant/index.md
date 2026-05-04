@@ -16,10 +16,10 @@ Oh and don't miss the spicy free pickles on the counter, they're delicious.
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
+| Food            | 8/10   |
 | Service         | 6/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 4/10   |
+| Atmosphere      | 6/10   |
 | Overall         | 8/10   |
 
 ### Practical
