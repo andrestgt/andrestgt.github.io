@@ -139,3 +139,8 @@ A casual spot offering a mix of Thai-Chinese favourites with friendly service an
 → [Read the full review](/food/thailand/chiang-mai/street-food/yuis-eatery/)
 
 ---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
+
+---
