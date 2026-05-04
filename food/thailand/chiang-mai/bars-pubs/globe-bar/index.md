@@ -15,8 +15,8 @@ They have very friendly staff, a free pool table and draft Tiger for only 45 Bt.
 | Category        | Score  |
 |-----------------|--------|
 | Bar food        | 7.5/10 |
-| Service         | 9/10   |
-| Value for money | 9/10   |
+| Service         | 7/10   |
+| Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
 | Overall         | 7.5/10 |
 
