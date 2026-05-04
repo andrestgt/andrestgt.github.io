@@ -17,8 +17,8 @@ The seafood capcay was very good, cooked with plenty of crunchy vegetables. Pric
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 9/10   |
-| Value for money | 7.5/10 |
+| Service         | 8/10   |
+| Value for money | 8/10 |
 | Atmosphere      | 6/10   |
 | Overall         | 7.5/10 |
 
