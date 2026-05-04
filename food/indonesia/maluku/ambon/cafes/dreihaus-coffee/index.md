@@ -16,14 +16,14 @@ If you care about coffee, this is the place to go in Ambon, even if you are stay
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 9/10   |
-| Service         | 8/10   |
+| Coffee          | 9.5/10   |
+| Service         | 6/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10   |
 | Overall         | 9/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dreihaus+Coffee+Rumah+Tiga+Ambon)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
