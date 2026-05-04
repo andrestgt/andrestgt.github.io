@@ -12,11 +12,11 @@ Strategic location for a coffee break on Jl Raya Kuta. Coffee drinks are not the
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 6.5/10 |
+| Coffee          | 7/10 |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 6.5/10 |
-| Overall         | 6.5/10 |
+| Atmosphere      | 7/10 |
+| Overall         | 7/10 |
 
 ### Practical
 
