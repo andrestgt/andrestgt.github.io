@@ -12,11 +12,11 @@ With most of the seaview restaurants in Fisherman Village charging pretty outrag
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 8.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 8.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
