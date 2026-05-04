@@ -16,28 +16,28 @@ Banda Neira has a small but decent selection of places to eat. Many restaurants 
 
 ## Cafe Terapung
 *Kampung Baru, Banda Neira · Seafood, Indonesian*
-The best meal in Banda Neira — a simple place on stilts above the water in the fishermen's quarter, serving perfectly grilled ikan bakar with excellent sambal.
+The best meal in Banda Neira — a simple place on stilts above the water in the fishermen's quarter, serving perfectly grilled ikan bakar with excellent sambal...
 → [Read the full review](/food/indonesia/maluku/banda-islands/restaurants/cafe-terapung/)
 
 ---
 
 ## Delfika 1 Guesthouse / Cafe
 *Banda Neira · Indonesian*
-A lovely courtyard setting with a koi pond makes this one of the most pleasant places on the island for dinner — the food is solid if a little sweet.
+A lovely courtyard setting with a koi pond makes this one of the most pleasant places on the island for dinner...
 → [Read the full review](/food/indonesia/maluku/banda-islands/restaurants/delfika-1/)
 
 ---
 
 ## Rumah Makan Nusantara
 *Banda Neira · Indonesian*
-A popular and reliable option when other places are closed, though the cooking was the least memorable of the restaurants we tried in Banda Neira.
+A popular and reliable option when other places are closed, though the cooking was the least memorable of the restaurants we tried in Banda Neira...
 → [Read the full review](/food/indonesia/maluku/banda-islands/restaurants/rumah-makan-nusantara/)
 
 ---
 
 ## Spice Island Cafe
 *Banda Neira · Indonesian*
-The most reliably open restaurant in Banda Neira, popular with Western visitors and serving a good range of local dishes — though the added 10% tax bumps up prices.
+The most reliably open restaurant in Banda Neira, popular with Western visitors and serving a good range of local dishes...
 → [Read the full review](/food/indonesia/maluku/banda-islands/restaurants/spice-island-cafe/)
 
 ---
