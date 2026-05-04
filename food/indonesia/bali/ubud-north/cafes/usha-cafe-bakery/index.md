@@ -12,14 +12,14 @@ The cappuccino here comes in a mug, Starbucks-style, but it's well prepared and 
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7.5/10 |
+| Coffee          | 8/10 |
 | Service         | 7.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 7/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 7.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Usha+Cafe+Bakery+Jl+Raya+Pengosekan+Mas+Ubud+Bali)
 ☕ **Type:** Café & Bakery
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
