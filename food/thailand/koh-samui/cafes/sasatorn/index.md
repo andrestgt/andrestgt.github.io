@@ -15,7 +15,7 @@ This is not only a very nicely decorated and friendly café, they also serve the
 | Coffee          | 8.5/10 |
 | Service         | 8.5/10 |
 | Value for money | 7/10   |
-| Atmosphere      | 8.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
