@@ -19,7 +19,7 @@ The food itself is good, but the courtyard makes it one of the best places in Ba
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7/10   |
-| Service         | 7/10   |
+| Service         | 6/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8.5/10 |
 | Overall         | 7.5/10 |
