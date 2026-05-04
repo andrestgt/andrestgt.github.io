@@ -13,13 +13,13 @@ Arty little café/cocktail bar in a great location. You can choose between two k
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8.5/10 |
-| Service         | 9/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Service         | 7/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lecker+Cafe+Bistro+Mun+Mueang+Rd+Chiang+Mai)
 ☕ **Type:** Café & Cocktail Bar
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
