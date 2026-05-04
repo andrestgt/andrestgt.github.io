@@ -19,7 +19,7 @@ If you're in the area and in the mood for a few cold beers with izakaya vibes, D
 | Food            | 7.5/10 |
 | Service         | 9/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
