@@ -22,4 +22,4 @@ Could be the best café in town. Modern, bright, comfy, with excellently prepare
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gangga+Coffee+Jl+Raya+Andong+Peliatan+Ubud+Bali)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** Moderate
