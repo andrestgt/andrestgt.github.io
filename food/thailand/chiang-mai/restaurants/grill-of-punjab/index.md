@@ -13,9 +13,9 @@ Got a delivery with Food Panda. Veg samosas, garlic naan and palak paneer. It's 
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 6/10   |
-| Service         | 7.5/10 |
+| Service         |  |
 | Value for money | 6.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      |  |
 | Overall         | 6/10   |
 
 ### Practical
