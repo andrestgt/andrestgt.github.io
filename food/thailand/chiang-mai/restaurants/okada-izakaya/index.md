@@ -12,11 +12,11 @@ Attractive, mid-priced izakaya in Nimman with tasty sashimi, yakitori and rolls.
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 9/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 7.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
