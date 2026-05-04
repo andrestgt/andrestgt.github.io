@@ -16,11 +16,11 @@ There was no hype visible when I visited, but it would certainly deserve it.
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| Food            | 8.5/10   |
+| Service         | 7/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Atmosphere      | 8.5/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
