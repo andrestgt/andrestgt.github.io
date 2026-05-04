@@ -15,9 +15,9 @@ There's nothing spectacular about the food or the freshness, but from the soft s
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7/10   |
+| Service         |   |
+| Value for money | 8/10 |
+| Atmosphere      |    |
 | Overall         | 7.5/10 |
 
 ### Practical
