@@ -18,11 +18,11 @@ But overall it's a great pizza. The anchovy and capers pizza on my second visit 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| Food            | 8.510   |
+| Service         | 8.5/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
