@@ -19,9 +19,9 @@ It is a simple, but dependable place to eat and one of the few restaurants where
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 7.5/10 |
+| Service         | 7/10 |
 | Value for money | 6.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
