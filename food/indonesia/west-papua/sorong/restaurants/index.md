@@ -16,21 +16,21 @@ Most visitors to Sorong are passing through on the way to Raja Ampat. The city h
 
 ## Arvac Lounge & Cafe
 *Sorong Airport · Indonesian*
-A surprisingly good airport option — solid sop buntut, excellent single-origin Papua coffee, and the fastest Wi-Fi in the airport. Worth the minimum spend if you're also eating.
+A surprisingly good airport option with excellent single-origin Papua coffee, and the fastest Wi-Fi in the airport...
 → [Read the full review](/food/indonesia/west-papua/sorong/restaurants/arvac-lounge/)
 
 ---
 
 ## Marina Star Restaurant Seafood
 *Pelabuhan Perikanan, Sorong · Seafood*
-A wonderful seaside restaurant on a wooden veranda overlooking the fishing harbour — excellent grilled squid and seafood mee goreng with a very spicy sambal.
+A wonderful seaside restaurant on a wooden veranda overlooking the fishing harbour...
 → [Read the full review](/food/indonesia/west-papua/sorong/restaurants/marina-star-seafood/)
 
 ---
 
 ## Restaurant Terrazza di Sorong
 *Sorong Barat · Italian*
-The default dinner spot for foreign visitors — a large open-air place with a proper Italian menu, good pizza and pasta, and cold beers. By Papua standards, very good.
+The default dinner spot for foreign visitors — a large open-air place with a proper Italian menu, good pizza and pasta...
 → [Read the full review](/food/indonesia/west-papua/sorong/restaurants/terrazza-di-sorong/)
 
 ---
