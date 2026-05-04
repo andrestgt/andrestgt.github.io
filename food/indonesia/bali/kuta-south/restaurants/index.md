@@ -16,21 +16,21 @@ Covering Canggu, Kuta, and Seminyak.
 
 ## KU DE TA
 *Seminyak · Beach Club*
-A legendary Bali beach club — scene-y in the evenings but with genuinely great food at reasonable prices for the quality, leaning towards Japanese.
+A legendary Bali beach club — scene-y in the evenings but with genuinely great food at reasonable prices...
 → [Read the full review](/food/indonesia/bali/kuta-south/restaurants/ku-de-ta/)
 
 ---
 
 ## Sushi Tei Beachwalk
 *Kuta · Japanese*
-The Beachwalk branch of Sushi Tei — a step below the usual chain standard, with salmon sashimi that disappointed.
+The Beachwalk branch of Sushi Tei is a step below the usual chain standards...
 → [Read the full review](/food/indonesia/bali/kuta-south/restaurants/sushi-tei-beachwalk/)
 
 ---
 
 ## Ulekan
 *Canggu · Indonesian*
-Pleasant countryside dining with a nice concept of small dishes — good food, though the price-to-value ratio could be better.
+Pleasant countryside dining with a nice concept of small dishes for sharing...
 → [Read the full review](/food/indonesia/bali/kuta-south/restaurants/ulekan/)
 
 ---
