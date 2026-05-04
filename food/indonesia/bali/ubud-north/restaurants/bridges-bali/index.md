@@ -13,10 +13,10 @@ Bridges is my favourite fine dining restaurant in Ubud. I had a nice meal at Moz
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 9/10   |
-| Service         | 9/10   |
+| Service         | 9.5/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 9.5/10 |
-| Overall         | 9/10   |
+| Atmosphere      | 10/10 |
+| Overall         | 9.5/10   |
 
 ### Practical
 
