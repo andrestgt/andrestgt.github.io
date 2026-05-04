@@ -21,12 +21,6 @@ Authentic Isaan street food in comfortable surroundings — properly spicy, no c
 
 ---
 
-## Aroon (Rai)
-*Chang Moi · Northern Thai*
-Old school Thai eatery serving very good Northern Thai food to tourists and locals alike — the spicy sour sausage salad alone is worth a visit.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/aroon-rai/)
-
----
 
 ## Auf der Au Garden German Buffet
 *Wat Ket · German Buffet*
@@ -35,12 +29,6 @@ An absolute nightmare for anyone trying to be on a diet — enormous amounts of 
 
 ---
 
-## Barnakarn Kitchen
-*Si Phum, Old Town · Thai*
-Basic Thai eatery in the Old Town with a large menu of wok-fried one plate dishes at 50–60 Bt — a solid option for a quick authentic meal in a touristy area.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/barnakarn-kitchen/)
-
----
 
 ## Big Big Shabu
 *Santitham · Mookata Buffet*
@@ -161,19 +149,6 @@ A jaw-droppingly gorgeous restaurant south of the city — come for the spectacu
 
 ---
 
-## Khao Soi Mae Manee
-*Chang Phueak · Northern Thai, Khao Soi*
-A basic alley eatery with a Michelin Bib Gourmand — the khao soi neua is wonderful, with a broth that is neither sugary nor overly coconutty. One of the best bowls in Chiang Mai.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/khao-soi-mae-manee/)
-
----
-
-## Khao Soi Maesai
-*Chang Phueak · Northern Thai, Khao Soi*
-One of Chiang Mai's best-known khao soi spots — light but flavourful broth, very low prices at just 50 baht a bowl. Worth visiting, but not worth queuing for.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/khao-soi-maesai/)
-
----
 
 ## Khanom Jeen Tai Baan
 *Phra Sing, Old Town · Northern Thai*
@@ -189,12 +164,6 @@ A very good vegan khao soi at 55 Bt and delicious stir-fried shirataki noodles �
 
 ---
 
-## Krua Por Piang
-*Suthep · Thai*
-Awkward location but really good food — the tom kha gai and spicy salad were excellent, and the red duck curry awaits a return visit.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/krua-por-piang/)
-
----
 
 ## Lookbua Thai Food Restaurant
 *Phra Sing, Old Town · Thai*
@@ -221,13 +190,6 @@ A neat little budget eatery in pricey Nimman — very good khao soi and nam ngia
 *Si Phum, Old Town · Japanese*
 The best sushi bar in Chiang Mai — the salmon sashimi, cut from a whole fresh fish in front of you, may be the best I've ever tasted. Super value for the quality.
 → [Read the full review](/food/thailand/chiang-mai/restaurants/musashi-sushi-bar/)
-
----
-
-## Neng Roasted Pork
-*Chang Moi · Thai, Roast*
-A large, popular open-air eatery with clay ovens — the roasted chicken and pork belly are both excellent, especially with som tam. One of the best places to eat in Chiang Mai.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/neng-roasted-pork/)
 
 ---
 
@@ -287,20 +249,6 @@ Popular local restaurant with good service and friendly staff — but the duck l
 
 ---
 
-## Sorn Chan
-*Chang Moi · Northern Thai*
-A basic eatery right in front of Thapae Gate serving locally specific versions of khao soi and larb — slightly sweet and heavy on innards, an acquired taste but not bad at all.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/sorn-chan/)
-
----
-
-## SP Chicken
-*Phra Sing · Thai, Grilled Chicken*
-The best gai yang in Chiang Mai — flavourful, garlicky chicken with good som tum and sticky rice, well organised, tourist-friendly, and still feels like a proper local eatery.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/sp-chicken/)
-
----
-
 ## Taiwanese Food Jinjiao Dumplings
 *Chang Phueak, Santitham · Taiwanese*
 A small Taiwanese dumpling place in the Santitham area — a great range of steamed and fried dumplings at very reasonable prices. One of my regular stops in the neighbourhood.
@@ -329,12 +277,6 @@ The most affordable place for wine and deli food in Thailand — an absolute win
 
 ---
 
-## Yui's Eatery
-*Wat Ket · Thai-Chinese*
-An unassuming canteen across the river that would have been easy to miss — excellent shrimp wontons and flavourful roasted duck at 50–60 Bt a bowl.
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/yuis-eatery/)
-
----
 
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
