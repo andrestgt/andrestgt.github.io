@@ -14,5 +14,5 @@ subtitle: Street food in Chiang Rai
 
 ## Chiang Rai Night Bazaar
 *Wiang, Chiang Rai · Night Market*
-A local institution — a large daily market with everything from fried insects to grilled meat and classic Thai comfort food. A bit touristy now, but still very good value and a convenient option.
+A large daily market with everything from fried insects to grilled meat and classic Thai comfort food...
 → [Read the full review](/food/thailand/chiang-rai/street-food/chiang-rai-night-bazaar/)
