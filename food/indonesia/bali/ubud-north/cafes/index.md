@@ -51,7 +51,7 @@ A chic café-patisserie with tasty croissants, decent baguettes, and good coffee
 
 ## MOTHER
 *Mas · Café*
-Well-prepared flat white at 28K++ in a pleasant setting — simple, unpretentious, and worth knowing about.
+Well-prepared coffees in a pleasant setting south of Monkey Forest..
 → [Read the full review](/food/indonesia/bali/ubud-north/cafes/mother/)
 
 ---
