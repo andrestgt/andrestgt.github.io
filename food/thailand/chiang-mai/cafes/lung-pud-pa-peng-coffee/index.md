@@ -12,10 +12,10 @@ For some reason this place is incredibly popular with local tourists. It's a lov
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7.5/10 |
+| Coffee          | 7/10 |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
