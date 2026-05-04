@@ -13,7 +13,7 @@ This shop doubles as a very nice café with drinks and coffees of good quality a
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 7/10   |
-| Service         | 8/10   |
+| Service         | 7/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
