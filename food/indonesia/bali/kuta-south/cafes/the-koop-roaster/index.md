@@ -22,4 +22,4 @@ More roastery than café, this is not a place to chill out comfortably. It is, h
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Koop+Roaster+Cafe+Jl+Drupadi+Seminyak+Bali)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** Moderate to expensive
