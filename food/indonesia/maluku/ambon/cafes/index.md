@@ -16,26 +16,26 @@ Ambon has a growing specialty coffee scene, with the best places concentrated in
 
 ## Barista Coffee Shop
 *Near Harbour · Café*
-Pretty-looking cappuccinos in a convenient location near the ferry port — more style than substance, but useful if you've just arrived by Pelni.
+Pretty-looking cappuccinos in a convenient location near the ferry port — more style than substance, but useful if you've just arrived by Pelni...
 → [Read the full review](/food/indonesia/maluku/ambon/cafes/barista-coffee/)
 
 ---
 
 ## Dreihaus Coffee
 *Rumah Tiga, University Area · Specialty Coffee*
-The best coffee in Ambon by some distance — exceptional beans, serious technique, and a stylish setting across the bridge from the city centre.
+The best coffee in Ambon by some distance — exceptional beans, serious technique, and a stylish interior across the bridge from the city centre...
 → [Read the full review](/food/indonesia/maluku/ambon/cafes/dreihaus-coffee/)
 
 ---
 
 ## The Gade Coffee & Gold
 *Tanah Tinggi · Café*
-The only decent coffee place in Ambon that opens early — strong, reliable, and good for a morning fix when everywhere else is still closed.
+The only decent coffee place in Ambon that opens early — strong, reliable, and good for a morning fix when everywhere else is still closed...
 → [Read the full review](/food/indonesia/maluku/ambon/cafes/gade-coffee/)
 
 ---
 
 ## Midway Coffee
 *Ahusen, City Centre · Specialty Coffee*
-The best coffee in the city centre — minimalist design, excellent cappuccino at 32K, and a good base if Dreihaus is too far.
+The best coffee in the city centre — minimalist design and excellent cappuccino 
 → [Read the full review](/food/indonesia/maluku/ambon/cafes/midway-coffee/)
