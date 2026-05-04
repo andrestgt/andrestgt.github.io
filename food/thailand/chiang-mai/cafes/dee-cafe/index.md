@@ -12,7 +12,7 @@ Dee is wee, bright, and air-conditioned. Their flat white may not be made with t
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7/10   |
+| Coffee          | 7.5/10   |
 | Service         | 8/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 7.5/10 |
