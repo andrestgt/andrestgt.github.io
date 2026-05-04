@@ -19,10 +19,10 @@ A beautiful place for drinks and, when the buffet is running, a very good place 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 5.5/10 |
-| Service         | 7.5/10 |
-| Value for money | 7.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 7.5/10 |
+| Service         | 7/10 |
+| Value for money | 9/10 |
+| Atmosphere      | 9.5/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
