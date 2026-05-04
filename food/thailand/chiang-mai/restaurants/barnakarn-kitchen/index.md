@@ -13,9 +13,9 @@ Basic Thai eatery in the Old Town offering a large menu of wok fried one plate d
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 9/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
+| Service         | 7.5/10   |
+| Value for money | 8/10 |
+| Atmosphere      | 7.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
