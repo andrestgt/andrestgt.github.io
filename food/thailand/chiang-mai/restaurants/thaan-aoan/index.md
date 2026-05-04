@@ -15,7 +15,7 @@ Nice, inexpensive AC café in the old town, great for a coffee break. It's not c
 | Food            | 6/10   |
 | Service         | 9/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 6.5/10 |
 
 ### Practical
