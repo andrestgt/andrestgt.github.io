@@ -74,3 +74,68 @@ Very good rotis with perfect texture and the right balance in the filling, fried
 *Si Phum, Old Town · Street Food*
 Not exactly Mexican, but surprisingly tasty drinking food at reasonable prices — guilty pleasure comfort food done well.
 → [Read the full review](/food/thailand/chiang-mai/street-food/tacos-bell/)
+
+---
+
+## Aroon Rai  
+*Old City · Thai Street Food*  
+A long-standing local favourite serving straightforward Northern Thai dishes in a busy, no-frills setting. Reliable, quick, and consistently good.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/aroon-rai/)
+
+---
+
+## Barnakarn Kitchen  
+*Santitham · Thai Street Food*  
+A solid neighbourhood spot with generous portions and bold flavours, popular with locals for its dependable, well-executed dishes.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/barnakarn-kitchen/)
+
+---
+
+## Khao Soi Mae Manee  
+*Santitham · Khao Soi*  
+A very good, balanced khao soi with rich curry broth and well-cooked noodles, offering excellent value for money in a local setting.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/khao-soi-mae-manee/)
+
+---
+
+## Khao Soi Maesai  
+*Chang Phueak · Khao Soi*  
+One of Chiang Mai’s better-known khao soi spots, serving a robust, slightly heavier version with deep, satisfying flavours.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/khao-soi-maesai/)
+
+---
+
+## Krua Por Piang  
+*Local neighbourhood · Thai Street Food*  
+A relaxed, local eatery offering classic Thai comfort dishes at very reasonable prices, with a focus on hearty, familiar flavours.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/krua-por-piang/)
+
+---
+
+## Neng Roasted Pork  
+*Santitham · Street Food*  
+A well-known spot for crispy roasted pork with rice, delivering exactly what you expect — simple, satisfying, and consistently popular.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/neng-roasted-pork/)
+
+---
+
+## Sorn Chan  
+*Local neighbourhood · Thai Street Food*  
+A modest local place with honest cooking and good value, focusing on straightforward Thai dishes without unnecessary embellishment.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/sorn-chan/)
+
+---
+
+## SP Chicken  
+*Old City · Street Food*  
+Famous for its rotisserie-style grilled chicken, crispy-skinned and juicy, served with classic Northern Thai sides.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/sp-chicken/)
+
+---
+
+## Yui’s Eatery  
+*Local neighbourhood · Thai Street Food*  
+A casual spot offering a mix of Thai favourites in a relaxed setting, with friendly service and good everyday value.  
+→ [Read the full review](/food/thailand/chiang-mai/street-food/yuis-eatery/)
+
+---
