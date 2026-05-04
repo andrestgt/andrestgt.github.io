@@ -19,7 +19,7 @@ Most seafood dishes were around 90K. Good portions, decent cooking, and a very a
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
