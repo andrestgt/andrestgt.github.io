@@ -18,11 +18,11 @@ Simple place, excellent cooking, and easily the best meal I had in Banda Neira.
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 7.5/10 |
+| Food            | 8.5/10   |
+| Service         | 7/10 |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
