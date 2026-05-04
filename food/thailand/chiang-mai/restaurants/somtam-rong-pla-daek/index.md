@@ -17,10 +17,10 @@ Service was good, with friendly English speaking staff.
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 6/10   |
-| Service         | 9/10   |
+| Service         | 8/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 7.5/10 |
-| Overall         | 6/10   |
+| Atmosphere      | 7/10 |
+| Overall         | 6.5/10   |
 
 ### Practical
 
