@@ -12,8 +12,8 @@ Pretty chic café-patisserie with nice croissants and decent baguettes. The coff
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7.5/10 |
-| Service         | 7.5/10 |
+| Coffee          | 8/10 |
+| Service         | 8/10 |
 | Value for money | 6.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
@@ -22,4 +22,4 @@ Pretty chic café-patisserie with nice croissants and decent baguettes. The coff
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Monsieur+Spoon+Jl+Hanoman+Ubud+Bali)
 ☕ **Type:** Café & Patisserie
-💰 **Price level:** Moderate
+💰 **Price level:** Moderate to expensive
