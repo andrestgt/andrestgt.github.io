@@ -14,8 +14,8 @@ Top notch chicken noodle soup. A little pricier maybe than your average eatery i
 |-----------------|--------|
 | Food            | 7.5/10 |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 8/10   |
+| Value for money | 8/10 |
+| Atmosphere      | 7/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
