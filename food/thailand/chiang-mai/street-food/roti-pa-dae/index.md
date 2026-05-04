@@ -18,11 +18,11 @@ It's cheap (cheaper than in Bangkok and similar to most in Chiang Mai) and tasty
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| Food            | 8/10   |
+| Service         | 8/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
