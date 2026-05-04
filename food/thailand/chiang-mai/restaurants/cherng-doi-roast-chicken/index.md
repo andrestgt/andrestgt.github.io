@@ -14,10 +14,10 @@ But for a Nimman location it's a reasonable option to satisfy your chicken cravi
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
-| Value for money | 6.5/10 |
-| Atmosphere      | 7/10   |
+| Value for money | 7/10 |
+| Atmosphere      | 6.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
