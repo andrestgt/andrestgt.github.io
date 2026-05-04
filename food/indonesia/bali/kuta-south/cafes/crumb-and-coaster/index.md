@@ -15,7 +15,7 @@ Just went there for coffee. It's a nice and friendly little place, a bit pricey 
 | Coffee          | 8.5/10 |
 | Service         | 8/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
