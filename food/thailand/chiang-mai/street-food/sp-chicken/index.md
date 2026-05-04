@@ -14,11 +14,11 @@ Prices are reasonable and other dishes such as larb moo and nam tok neua are tas
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| Food            | 8.5/10   |
+| Service         | 8/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
