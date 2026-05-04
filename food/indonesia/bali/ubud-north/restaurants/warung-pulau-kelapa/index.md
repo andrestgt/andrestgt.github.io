@@ -12,7 +12,7 @@ This used to be one of my favourite cheap warungs in Ubud, with a beautifully de
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7/10   |
+| Food            | 7.5/10   |
 | Service         | 7/10   |
 | Value for money | 5.5/10 |
 | Atmosphere      | 8/10   |
