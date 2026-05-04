@@ -16,10 +16,10 @@ There's a minimum spend of around 80K, so it's not really worth coming just for 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
-| Service         | 9/10   |
+| Food            | 8/10 |
+| Service         | 7.5/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 7/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
