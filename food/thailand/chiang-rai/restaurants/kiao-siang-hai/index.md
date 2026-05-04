@@ -13,9 +13,9 @@ Unexpected Chinese food on the river road of this sleepy town. It's a ramshackle
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 7/10   |
-| Value for money | 6.5/10 |
-| Atmosphere      | 7.5/10 |
+| Service         | 6/10   |
+| Value for money | 7/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
