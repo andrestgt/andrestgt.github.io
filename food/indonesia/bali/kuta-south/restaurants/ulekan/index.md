@@ -12,7 +12,7 @@ Pleasant countryside dining, great concept with the small dishes, so it's possib
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7/10   |
+| Food            | 7.6/10   |
 | Service         | 7/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 8/10   |
@@ -22,4 +22,4 @@ Pleasant countryside dining, great concept with the small dishes, so it's possib
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ulekan+Jl+Tegal+Sari+Pantai+Berawa+Tibubeneng+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Moderate
+💰 **Price level:** Moderate to expensive
