@@ -12,7 +12,7 @@ I used to stay around the corner from this place for a month in 2008 and it was 
 
 | Category        | Score  |
 |-----------------|--------|
-| Service         | 9/10   |
+| Service         | 8.5/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 8.5/10 |
@@ -21,4 +21,4 @@ I used to stay around the corner from this place for a month in 2008 and it was 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chill+Out+Bar+Si+Phum+Chiang+Mai)
 🍺 **Type:** Bar
-💰 **Price level:** Moderate
+💰 **Price level:** Inexpensive
