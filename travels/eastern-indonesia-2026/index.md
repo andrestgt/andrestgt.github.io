@@ -56,10 +56,8 @@ What followed next, which should really have been a pleasant, quick two-hour fas
 The air conditioning in economy didn’t work at all, so it was stiflingly hot. It smelled of sweat and vomit, breathing wasn’t exactly easy, and the whole cabin was packed well beyond any reasonable capacity with both people and luggage. Certainly a very local experience, and maybe the kind of thing one should experience occasionally when travelling, but definitely not something I feel the need to repeat. Otherwise you’d probably need another holiday straight after coming back from the islands.
 
 <figure>
-  <a href="/photos/travelogues/sorong-port.jpg">
-    <img src="/photos/travelogues/sorong-port.jpg" alt="Sorong Port" class="medium">
-  </a>
-  <figcaption>Sorong Port</figcaption>
+  <img src="/photos/travelogues/sorong-port.jpg" alt="Sorong Port">
+  <em>Sorong Port</em>
 </figure>
 
 I had read and heard very mixed things about getting the marine park ticket and the general entrance permit for Raja Ampat, but in the end it was easier than expected. The official marine park payment website was down all the time, but there’s a booth at the ferry port in Sorong where you can simply buy the plastic card on the spot. It costs 700K and is valid for a year.
@@ -73,10 +71,8 @@ After the anticlimax of the horrible fast ferry ride and the chaos at the jetty 
 Once we arrived, things didn’t exactly improve. All the bungalows at Black Tip were fully booked, even though we had reserved and paid in advance via stayrajampat.com, which is supposedly meant to prevent double bookings or overbookings. Apparently not. In the end, we agreed to stay for one night at the owner’s brother’s place, Bongso Homestay, which is actually on nearby Kri Island opposite Ransiwor. The bungalows there are much nicer, proper beds, direct water access via steps, fans, hammocks, so comfort-wise it was definitely an upgrade.
 
 <figure>
-  <a href="/photos/travelogues/rj1.jpg">
-    <img src="/photos/travelogues/rj1.jpg" alt="Kri Island" class="medium">
-  </a>
-  <figcaption>Kri Island</figcaption>
+  <img src="/photos/travelogues/rj1.jpg" alt="Kri Island">
+  <em>Kri Island</em>
 </figure>
 
 The downside is the location. Kri is far more built up in that area than the quieter Black Tip spot on Ransiwor, so it doesn’t quite have the same scenic appeal. Still, since it was already late by the time we arrived, spending a night there probably wasn’t the worst outcome. The Black Tip bungalows are extremely basic, and although the setting is clearly the main attraction, having a slightly more comfortable first night didn’t hurt. We’ll see how it feels once we move over.
@@ -93,17 +89,13 @@ As for the accommodation itself, Black Tip Homestay, location-wise, it almost ca
 <div class="photo-row">
 
   <figure>
-    <a href="/photos/travelogues/rj2.jpg">
-      <img src="/photos/travelogues/rj2.jpg" alt="Kri Island" class="medium">
-    </a>
-    <figcaption>Blacktip Homestay</figcaption>
+    <img src="/photos/travelogues/rj2.jpg" alt="Blacktip Homestay">
+    <em>Blacktip Homestay</em>
   </figure>
 
   <figure>
-    <a href="/photos/travelogues/rj3.jpg">
-      <img src="/photos/travelogues/rj3.jpg" alt="Kri Island" class="medium">
-    </a>
-    <figcaption>Ransiwor Island</figcaption>
+    <img src="/photos/travelogues/rj3.jpg" alt="Ransiwor Island">
+    <em>Ransiwor Island</em>
   </figure>
 
 </div>
@@ -119,31 +111,23 @@ The Yenbuba jetty is, depending on the current, an easy swim from our homestay, 
 <div class="photo-row four">
 
   <figure>
-    <a href="/photos/travelogues/rj4.jpg">
-      <img src="/photos/travelogues/rj4.jpg" alt="Kri Island" class="medium">
-    </a>
-    <figcaption> Yenbuba jetty</figcaption>
+    <img src="/photos/travelogues/rj4.jpg" alt="Yenbuba Jetty" class="medium">
+    <em>Yenbuba Jetty</em>
   </figure>
 
   <figure>
-    <a href="/photos/travelogues/rj5.jpg">
-      <img src="/photos/travelogues/rj5.jpg" alt="Kri Island" class="medium">
-    </a>
-    <figcaption> Yenbuba jetty</figcaption>
+    <img src="/photos/travelogues/rj5.jpg" alt="Yenbuba Jetty" class="medium">
+    <em>Yenbuba Jetty</em>
   </figure>
 
   <figure>
-    <a href="/photos/travelogues/rj6.jpg">
-      <img src="/photos/travelogues/rj6.jpg" alt="Kri Island" class="medium">
-    </a>
-    <figcaption> Yenbuba jetty</figcaption>
+    <img src="/photos/travelogues/rj6.jpg" alt="Yenbuba Jetty" class="medium">
+    <em>Yenbuba Jetty</em>
   </figure>
 
   <figure>
-    <a href="/photos/travelogues/rj7.jpg">
-      <img src="/photos/travelogues/rj7.jpg" alt="Kri Island" class="medium">
-    </a>
-    <figcaption> Yenbuba jetty</figcaption>
+    <img src="/photos/travelogues/rj7.jpg" alt="Yenbuba Jetty" class="medium">
+    <em>Yenbuba Jetty</em>
   </figure>
 
 </div>
