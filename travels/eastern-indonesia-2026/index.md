@@ -899,9 +899,25 @@ The next morning, I had my breakfast coffee just around the corner from my hotel
 After that, I took the Skytrain to Ratchaprasong for brunch at Praram 9 Kaiyang at the market, a large, formerly Michelin-recommended grilled chicken place with great views over CentralWorld and Pratunam.
 One of my favourite dishes in the world is grilled chicken with papaya salad and sticky rice. The version here was Bangkok-style, which means quite sweet, not exactly how I prefer it, but as one would expect in Bangkok. Other than that, though, it was flawless, and considering the view and location, very reasonably priced.
 
+<figure>
+  <img src="/photos/travelogues/bkk10.jpg" alt="Pratunam">
+  <em>Pratunam</em>
+</figure>
+
 To digest, I took a walk through CentralWorld, Siam Paragon, and Siam Discovery, then on to Jim Thompson House, continuing a bit along the canal before taking one of the small khlong long-tail boats to Banglamphu. From there, I went on another fairly long walk along the canal all the way to Rambuttri and Khao San.
 
+
+<figure>
+  <img src="/photos/travelogues/bkk11.jpg" alt="Banglamphu">
+  <em>Banglamphu</em>
+</figure>
+
 I only stopped once along the way, for a coffee at a new place with a very nice canal-side location called Richdee's Eatery and Cafe, where a latte was also 60 baht, and a good one at that.
+
+<figure>
+  <img src="/photos/travelogues/bkk12.jpg" alt="Chao Phraya">
+  <em>Chao Phraya</em>
+</figure>
 
 For an early dinner, I headed out to the outskirts of Thonburi, first by Skytrain and then by motorbike taxi, to Samkaew Craft Beer, a large, mostly open-air taproom with by far the most affordable craft beers in Bangkok.
 There was a buy-one-get-one offer, which seems to run almost daily, making the whole experience even better value. It is no surprise that the place filled up quickly and was completely packed as the evening went on.
@@ -912,6 +928,20 @@ I had one of my best cups of coffee in a hidden café at the end of a narrow cul
 
 In the afternoon, I ventured out of town to the popular Bang Nam Phueng floating market on a peninsula in the Chao Phraya River. Getting there required taking a bus from Lumphini to Khlong Toei bus terminal, followed by a short walk to Wat Khlong Toei Nok pier, where return tickets for the ferry across the Chao Phraya River cost 40 baht, with frequent departures.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/bkk6.jpg" alt="Chao Phraya">
+    <em>Chao Phraya</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/bkk7.jpg" alt="Chao Phraya">
+    <em>Chao Phraya</em>
+  </figure>
+
+</div>
+
 Once you arrive on the other side, you not only get great views over the river and the Bangkok skyline, but also the option of renting a bicycle to explore the peninsula and head out to the market.
 I rented one at M-Bike, the largest bike rental place in the area, and for 100 baht I got a decent mountain bike for the day.
 It is a real pleasure to ride along the narrow roads through the green countryside, feeling far removed from the big city, though the occasional stylish café along the way is a reminder that you are not far from urban Bangkok.
@@ -919,8 +949,40 @@ It is a real pleasure to ride along the narrow roads through the green countrysi
 The name of the market is a bit of a misnomer. It is not really a floating market, but rather a traditional Thai market, with food vendors, hawker stalls, and small shops selling clothes and souvenirs along the canal. It takes place at weekends only, and it seems to have evolved from something of an insider tip into a much more popular destination.
 Traffic around the market area can be quite heavy, as most people seem to arrive by car, which is clearly not the best option. It is far more enjoyable to come by bicycle.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/bkk3.jpg" alt="Bang Nam Phueng Floating Market">
+    <em>Bang Nam Phueng Floating Market</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/bkk4.jpg" alt="Bang Nam Phueng Floating Market">
+    <em>Bang Nam Phueng Floating Market</em>
+  </figure>
+
+</div>
+
 It is still a great day out, though, and I would definitely recommend it. Prices are low, and you can even get a fresh coconut for just 10 baht.
 What makes it particularly nice is that you do not have to stick to the main roads. While Google Maps is not especially helpful in this area, OpenStreetMap shows a network of tiny concrete paths along the canals and through the fields, perfect for exploring.
 
+<figure>
+  <img src="/photos/travelogues/bkk9.jpg" alt="Chao Phraya">
+</figure>
+
 On the way back, not far from the pier, I came across a sign for “Craft Beer and Neapolitan Pizza”, so I had to stop. The Junction is a great little pit stop.
 They were unfortunately out of craft beer, having had a party the night before, but their wood-fired pizzas are excellent and, at under 300 baht, very reasonably priced. Naturally, in Thailand, the right choice is the larb moo pizza, spicy and delicious.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/bkk1.jpg" alt="Chao Phraya">
+    <em>Chao Phraya</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/bkk2.jpg" alt="Chao Phraya">
+    <em>Chao Phraya</em>
+  </figure>
+
+</div>
