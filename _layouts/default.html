@@ -653,7 +653,11 @@ body.travels .page-body img.medium {
   margin: 1.5rem 0;
 }
 
-/* Photo row layout (desktop) */
+/* =========================
+   PHOTO ROW LAYOUT
+   ========================= */
+
+/* Base layout (desktop) */
 body.travels .photo-row {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -661,44 +665,43 @@ body.travels .photo-row {
   margin: 3rem 0;
 }
 
+/* 4 images in one row */
 body.travels .photo-row.four {
   grid-template-columns: repeat(4, 1fr);
 }
 
+/* Clean spacing */
 body.travels .photo-row figure {
   margin: 0;
 }
 
+/* Image behaviour */
 body.travels .photo-row img {
-  width: 100%;              /* 👈 important (prevents weird sizing) */
+  width: 100%;
   height: auto;
   border-radius: 10px;
 }
 
-    @media (min-width: 1400px) {
-      body { max-width: 1000px; }
-      body.travels { max-width: 800px; }
+      body.travels .photo-row img.small,
+body.travels .photo-row img.medium,
+body.travels .photo-row img.large {
+  width: 100% !important;
+}
+      
 
-      .hero-inner {
-        max-width: 900px;
-        padding-left: 5rem;
-      }
+/* =========================
+   MOBILE
+   ========================= */
 
-      .hero-inner h1 { font-size: 3.2rem; }
-      .hero-inner .subtitle { font-size: 1.4rem; }
-      .page-body p { font-size: 1.1rem; line-height: 1.85; }
-      body.travels .page-body p { font-size: 1.1875rem; line-height: 1.85; }
-    }
+@media (max-width: 600px) {
+  body.travels .photo-row {
+    grid-template-columns: 1fr;
+  }
 
-    @media (max-width: 600px) {
-      body { margin: 0; padding: 0; }
-      .site-hero { min-height: 44vh; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; }
-      .hero-inner { padding: 1.6rem; }
-      nav.site-nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
-      main#top { padding-top: 1rem; }
-      .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
-    }
-
+  body.travels .photo-row.four {
+    grid-template-columns: 1fr 1fr;
+  }
+}
     a.read-full {
       color: var(--read-full-blue) !important;
       font-weight: 600;
