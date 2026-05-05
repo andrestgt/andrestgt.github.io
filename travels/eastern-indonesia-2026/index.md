@@ -221,12 +221,31 @@ Considering we were in Papua, the pizza was very good. By Italian standards, it 
 
 So now that I’ve had some time to reflect, the obvious question is: is Raja Ampat paradise lost?
 
+<figure>
+  <img src="/photos/travelogues/rj21.jpg" alt="Yenbuba Jetty">
+  <em>Yenbuba Jetty</em>
+</figure>
+
 I think it’s too early to say that. What does seem clear is that it used to be even more of a paradise. Everyone I spoke to who had seen it a decade ago confirmed that the reefs were once in pristine condition. There’s no denying that they have deteriorated over the past ten years, as reefs have almost everywhere in the world.
 How much of that decline is due to climate change is debatable. Some of it, for sure. But there isn’t much obvious large-scale coral bleaching. Instead, you often see patches of coral that are simply dead, completely devastated. That could have different causes, possibly including what ends up in the water and also the increasing strain from tourism. One thing that surprised many travellers I met was just how touristy Raja Ampat already feels. We’re not talking about Bali- or Thai-islands-style tourism, but it does seem that nearly every available stretch of shoreline is being developed with new huts and bungalows.
 That inevitably puts pressure on a fragile environment. I’m not sure how much more large-scale development these islands can handle without losing what makes them special.
 And yet, everything is still incredibly beautiful. The marine life is stunning, and many reefs are still in very good condition. With the very high entrance and marine park fees, one can only hope that the money will go into sensible restrictions on further development and perhaps limits on visitor numbers to keep tourism at a manageable level.
 
 So, is it paradise lost? No, not yet.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/rj20.jpg" alt="Kri Island">
+    <em>Kri Island</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/rj22.jpg" alt="Ransiwor Island">
+    <em>Ransiwor Island</em>
+  </figure>
+
+</div>
 
 I would still recommend anyone to come and see. It remains a diver’s dream and a snorkeler’s paradise. Looking at photos of the huts and the beaches, I’m sure quite a few people would be jealous. But it is a thin line and a slippery slope, and I hope the government and the local communities, or both together, will find a solution that works for everyone before that line is crossed.
 I’m now very curious to see what the Banda Islands look like, because that’s where we’re headed next. At least from everything I’ve read and heard, it seems to be an area that has so far been able to avoid the onslaught of tourism that is affecting so many other places in Southeast Asia.
