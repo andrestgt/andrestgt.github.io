@@ -542,6 +542,11 @@ Our last island destination in the Moluccas looks on the map like one of the mos
 They are connected to Ambon by a daily Lion Air flight on a regular aircraft, just a short one-hour hop, for which we paid a little over €40 one way.
 It would have been more romantic to arrive here after a long twelve-hour ferry ride from the remote Banda Islands to the even more remote Kei Islands, but after the last Pelni experience I was quite happy to do it the easy way.
 
+<figure>
+  <img src="/photos/travelogues/kei1.jpg" alt="Langgur Airport">
+  <em>Langgur Airport</em>
+</figure>
+
 Kei Kecil's airport is quite far from both of the island's main towns, Langgur and Tual, as well as from the main tourist area around Ngurbloat Beach, and there is no public transport. So our resort arranged a taxi for the half-hour trip. The standard price for this seems to be around 250K at the moment.
 
 The day of our arrival marked the first spell of fair weather after a lengthy period of heavy rainstorms in the area. So when we reached the famous, highly praised white sand beach, which goes by several names depending on the village behind it but is really just one long continuous stretch, we were in for a bit of a shock.
@@ -552,6 +557,11 @@ Things, however, changed dramatically the following day. The sea was calm again,
 Even with calmer weather and sunshine, the problem of plastic being washed onto the beach every day remained. There was simply too much for locals and resort owners to keep it entirely clean. Some effort was made, though, and especially at low tide, when the beach is wide, the trash became far less noticeable.
 I imagine it is even more beautiful to visit during the late summer high season, when, as we were told, the beach is sparkling clean.
 
+<figure>
+  <img src="/photos/travelogues/kei16.jpg" alt="Ngurbloat Beach">
+  <em>Ngurbloat Beach</em>
+</figure>
+
 Although the beach looks quite touristy at first glance, there is actually not that much accommodation available. Resorts here consist of just one, a couple, or at most a handful of bungalows, and there are not many resorts along the beach to begin with. Under normal circumstances, this would not be much of an issue, as there are hardly more than a handful of Western tourists on the island at any given time. With Lebaran just around the corner, however, one of the main holiday periods in Indonesia, domestic tourism picks up significantly, and we were unable to book a single place for the full eight nights of our stay in the Kei Islands. So I simply booked whatever bungalows were available.
 
 My feelings about Ngurbloat Beach are quite mixed, to be honest. The middle section is full of little kiosks and picnic huts, mostly empty even at weekends. It doesn't exactly give you a hideaway feeling. The resorts don't help much either. They are built in a strange vaguely Moorish or Mediterranean style that has nothing whatsoever to do with a tropical beach in Southeast Asia, and they are made entirely of concrete, planted directly on the sand. There are no wooden bungalows, no natural materials, nothing you would really expect in a place like this. It is not particularly ecological and it does take something away from the overall impression.
@@ -560,6 +570,21 @@ In the end, we spent three nights at Coaster Cottages at the northern end of the
 
 Location-wise, I liked Coaster Cottages the best. They are at the very end of the beach in a secluded setting, surrounded by lush greenery, and it almost felt like having a private stretch of beach. These cottages, mostly built from wood, are set slightly back from the beach, which is actually a big advantage and makes the whole place feel much more natural.
 Plastic trash was still an issue at times, but that is clearly a seasonal problem.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/kei7.jpg" alt="Coaster Cottage">
+    <em>Coaster Cottage</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/kei8.jpg" alt="Coaster Cottage">
+    <em>Coaster Cottage</em>
+  </figure>
+
+</div>
+
 We stayed in a very large cottage with two big beds, a spacious bathroom with a proper mandi, and a big terrace. There was even a fridge, but apart from that everything was quite basic.
 The biggest drawback was that there was nowhere to properly lie down, just a few plastic chairs, no hammock, no sunbeds. It felt a bit odd, because when you stay somewhere like this by the beach, you really just want a place to lie down.
 There was no mobile internet reception in the hut, but they offered a Wi-Fi router at an additional cost, which was acceptable given that at 340K the cottage itself was good value for its size.
@@ -568,27 +593,109 @@ More problematic was the motorbike rental. They initially quoted 100K per day, b
 Noel Cottage was, overall, the nicest place we stayed at on Kei Kecil. It was also the most expensive, with their cute rooms going for 480K, but you are paying for the prime location right on the beach, the small private pool in front of the cottage, which is filled for you every day, and some creature comforts such as hot water and air conditioning.
 The owner is very friendly and genuinely keen to make things work for you. You get a good motorbike, can choose your preferred breakfast, and the staff are consistently welcoming. The whole place gives the impression that they actually value their guests, which is quite different from most other places we stayed at, where lethargic indifference was the norm.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/kei4.jpg" alt="Noel Cottage">
+    <em>Noel Cottage</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/kei5.jpg" alt="Noel Cottage">
+    <em>Noel Cottage</em>
+  </figure>
+
+</div>
+
 Renata Cottage was the cheapest of the three and offered large rooms with a spacious bathroom and veranda for a very reasonable 250K including breakfast, with both Wi-Fi and air conditioning working well. The rooms are quite nice for the price, and they're very good value.
 The location, set slightly back in the second row, actually worked quite well for me. I preferred it to some of the places right on the beach.
 
 We spent our days thoroughly exploring Kei Kecil by scooter. And while the island may appear rather low-key at first, with its low-lying, bush-covered landscape and without the dramatic scenery of the Banda volcano islands or the seascapes and underwater paradise of Raja Ampat, it still has a lot of nice surprises if you take the time to explore it.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/kei12.jpg" alt="Ohoidertutu">
+    <em>Ohoidertutu</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/kei13.jpg" alt="Ohoidertutu">
+    <em>Ohoidertutu</em>
+  </figure>
+
+</div>
+
 The first surprise is that the only two beaches with accommodation, Ngurbloat and Ohoidertawun, are far from being the most beautiful on the island; they're not even close.
-The beaches further south, especially the long crescent bay between the villages of Ohoider Tutu and Madwaer, are so jaw-droppingly beautiful and so close to a cliché travel magazine image that it is almost hard to believe they actually exist. This is where you find the super fine, powdery white sand, backed by coconut palms and fronted by crystal-clear water that is simply irresistible.
+The beaches further south, especially the long crescent bay between the villages of Ohoidertutu and Madwaer, are so jaw-droppingly beautiful and so close to a cliché travel magazine image that it is almost hard to believe they actually exist. This is where you find the super fine, powdery white sand, backed by coconut palms and fronted by crystal-clear water that is simply irresistible.
 What is even harder to understand is that there is not a single resort or any kind of accommodation here. And despite being west-facing and having perfect sunset views, there is virtually no trash or plastic on the beach. It simply does not get better than this.
+
+<figure>
+  <img src="/photos/travelogues/kei14.jpg" alt="Ohoidertutu">
+  <em>Ohoidertutu</em>
+</figure>
+
+<figure>
+  <img src="/photos/travelogues/kei15.jpg" alt="Metro Beach">
+  <em>Metro Beach</em>
+</figure>
 
 Another gorgeous stretch of sand a bit further to the north, maybe not quite as otherworldly simply because it is more narrow, but still super picturesque and great for swimming, is Ngur Vat Namsir Ohoi Wab. But again, there is no accommodation here either.
 
+<figure>
+  <img src="/photos/travelogues/kei11.jpg" alt="Ngur Vat Namsir Ohoi Wab">
+  <em>Ngur Vat Namsir Ohoi Wab</em>
+</figure>
+
 A worthwhile beauty spot closer to Ngurbloat is Tanjung Vat La Roa, a series of secluded and photogenic white sand coves that are perfect for swimming at low tide. They are connected by wooden plankways and small bridges, which give the whole place a slight Robinson Crusoe feel, although it is just a five-minute bumpy bike ride or a leisurely 20-minute walk past Ten Café.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/kei9.jpg" alt="Tanjung Vat La Roa">
+    <em>Tanjung Vat La Roa</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/kei10.jpg" alt="Tanjung Vat La Roa">
+    <em>Tanjung Vat La Roa</em>
+  </figure>
+
+</div>
 
 But possibly my favourite place on the island is not a magnificent beach, but Air Goa Hawang, a beautiful jungle cave with a pool of crystal-clear, cool water that is perfect for a refreshing swim, with bats flying overhead. I can imagine this place being quite busy at the weekend, but we went twice and both times had it to ourselves. It is also remarkably clean for a tourist attraction in Indonesia.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/kei2.jpg" alt="Air Goa Hawang">
+    <em>Air Goa Hawang</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/kei3.jpg" alt="Air Goa Hawang">
+    <em>Air Goa Hawang</em>
+  </figure>
+
+</div>
+
 But apart from the main attractions, what I really enjoyed about the Kei Islands is that they feel a bit like stepping back in time, to an era when it was still possible to explore a tropical island by scooter, no helmet, wind in your hair, hardly any traffic to worry about. An era when seafood and fish are still affordable, even in seaside restaurants, when you ride through picturesque villages, one of them even with a waterfall running through it and flowing straight into the sea, with friendly locals and kids waving as you pass by.
+
+<figure>
+  <img src="/photos/travelogues/kei18.jpg" alt="Air Terjun Evu">
+  <em>Air Terjun Evu</em>
+</figure>
+
 Yes, this place still exists. It's the Kei Islands.
 
 But is it really worth coming all the way to this remote place? I would say the answer is yes, but to really make the most of the islands, good weather is essential. The beaches are drop-dead gorgeous, but only when the sun is out and the crystal-clear water sparkles against the white sand.
 The garbage problem is seasonal as well. We were quite lucky to have a few sunny and dry days, but it is definitely a better idea to visit during the dry season.
 For me personally, though, what I really liked is that this is still a place where you can ride a scooter without worrying about traffic and eat delicious, very affordable seafood. There are not many places left in the world where that is still possible.
+
+<figure>
+  <img src="/photos/travelogues/kei19.jpg" alt="Tual">
+  <em>Tual</em>
+</figure>
 
 Talking about seafood, this is where Kei Kecil really delivers. One of the positive surprises for me was that there is not just a good beach café in Ngurbloat, but across the island, especially around Langgur, quite a few seaside restaurants offering a good variety of grilled and cooked fish and seafood at very reasonable prices.
 
@@ -607,25 +714,131 @@ They do add a 10% tax on top of the bill, but with prices this low, 65K for a wh
 After a little over a week, we left the Kei Islands by plane, another Lion Air flight back to Ambon and onwards to Surabaya. The layover in Ambon was just an hour, so I was slightly concerned about making the connection, but it was all on one ticket and everything worked smoothly. In fact, we did not encounter any issues with our Lion Air flights on this trip. They were all on time. The combined fare was around 2.6 million rupiah.
 
 I chose Surabaya as our final destination and exit point rather than Jakarta and Bali because I had not been there since 2008, and back then I really enjoyed my week in the city. I was curious to see how it had changed, especially the Old Town.
+
+<figure>
+  <img src="/photos/travelogues/sb18.jpg" alt="Chinatown">
+  <em>Chinatown</em>
+</figure>
+
 At the time, visiting the Old Town felt a bit like stepping into an old film. It was unbelievably dilapidated and exotic, with no tourist infrastructure to speak of. I am not even sure I saw a single Westerner during the entire week I spent in Surabaya in the 2000s.
+
+<figure>
+  <img src="/photos/travelogues/sb3.jpg" alt="Alun-Alun">
+  <em>Alun-Alun</em>
+</figure>
+
 I had read that some parts of the Old Town have undergone a degree of gentrification, and I was interested to see how things had developed.
 On top of that, in terms of value, Surabaya used to be, and still is, one of the best large cities in Southeast Asia, with excellent-value hotels and a fantastic variety of places to eat, particularly in its tremendous malls. I also like the fact that it is such a non-touristic place.
+
+<figure>
+  <img src="/photos/travelogues/sb1.jpg" alt="Waterplace">
+  <em>Waterplace</em>
+</figure>
+
+<figure>
+  <img src="/photos/travelogues/sb2.jpg" alt="West Surabaya">
+  <em>West Surabaya</em>
+</figure>
 
 We first spent three nights in West Surabaya, next to Pakuwon Mall, in a large condo complex called Waterplace. We found a very cheap two-bedroom apartment there on Agoda for just €20. While the apartment itself was not in great condition, rather dirty and somewhat neglected, the complex was quite impressive, and we were able to use all the amenities, including the extensive pool area in the centre of the compound.
 The location, right next to Pakuwon Mall, was also a major advantage, with a wide range of cafés and some of the best dining options in the mall, including sushi and dim sum restaurants.
 We spent some time exploring West Surabaya, an incredibly affluent and prosperous area that feels like a completely different world compared to the Old Town, where we spent our last two nights in a heritage hotel called Arcadia.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/sb6.jpg" alt="Arcadia Hotel">
+    <em>Arcadia Hotel</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/sb7.jpg" alt="Arcadia Hotel">
+    <em>Arcadia Hotel</em>
+  </figure>
+
+</div>
+
 We also took a short half-day trip to the neighbouring city of Gresik, which turned out to be a pleasant surprise. It has a small old quarter, really just a handful of streets, but with some genuine colonial gems.
 It also felt like a completely authentic Javanese city, with friendly people and no non-local tourists. It was simply a pleasure to explore on foot.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/sb4.jpg" alt="Gresik">
+    <em>Gresik</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/sb5.jpg" alt="Gresik">
+    <em>Gresik</em>
+  </figure>
+
+</div>
 
 But of course, most of our time in Surabaya was spent exploring not just the colonial Old Town and the Arab Quarter, but also some of the more hidden kampungs tucked away in the backstreets off the main roads.
 Some of these are not only very picturesque, but have also been thoughtfully spruced up to attract visitors, with colourful murals and small signs pointing out local points of interest, with the nicest of them probably being Kampung Lawas Maspati.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/sb16.jpg" alt="Surabaya Kampung">
+    <em>Surabaya Kampung</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/sb17.jpg" alt="Surabaya Kampung">
+    <em>Surabaya Kampung</em>
+  </figure>
+
+</div>
+
 Quite a bit of effort has gone into revamping the old Dutch quarter of Kota Lama in recent years, even though most of the buildings remain dilapidated and only a few have actually been restored. The area has clearly been made more visitor-friendly, mainly through added infrastructure aimed at attracting tourists. It has become quite popular with local visitors, and there are even a few hipster coffee shops in some of the still crumbling old buildings.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/sb8.jpg" alt="Kota Lama">
+    <em>Kota Lama</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/sb9.jpg" alt="Kota Lama">
+    <em>Kota Lama</em>
+  </figure>
+
+</div>
 
 Kota Tua, on the other hand, just across the Red Bridge, with its former Chinese and Arab quarters, remains very much old school, with rickshaws, timeless markets, crumbling buildings, and an atmosphere that still feels distinctly exotic even today.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/sb11.jpg" alt="Kota Tua">
+    <em>Kota Tua</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/sb12.jpg" alt="Kota Tua">
+    <em>Kota Tua</em>
+  </figure>
+
+</div>
+
 And then there is Tunjungan, with its large central mall and a heritage area full of cafés, shops, and restaurants.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/sb14.jpg" alt="Tunjungan">
+    <em>Tunjungan</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/sb15.jpg" alt="Tunjungan">
+    <em>Tunjungan</em>
+  </figure>
+
+</div>
 
 All things considered, I would regard Surabaya as one of the most underrated cities in Southeast Asia, and it is well worth a visit, even before taking into account the excellent food, quality cafés, and low prices.
 Where else could you spend the night in a heritage hotel, the Arcadia, right in the centre of the best part of the Old Town, in simple but modern and comfortable rooms (the former Ibis hotel), for 350K including a very tasty breakfast with plenty of delicious Indonesian dishes and a fresh egg station?
