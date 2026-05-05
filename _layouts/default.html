@@ -793,28 +793,42 @@ body.travels .page-body img.medium {
     .page-body img:hover { opacity: 0.88; }
 
      /* =========================
-   MOBILE — FINAL OVERRIDE
+   MOBILE 
    ========================= */
 
 @media (max-width: 600px) {
 
-  /* Force all travelogue images to same size */
+  /* FORCE all travel images to identical behaviour */
   body.travels .page-body img,
   body.travels .page-body img.small,
   body.travels .page-body img.medium,
   body.travels .page-body img.large {
+    display: block;
     width: 100% !important;
     max-width: 100% !important;
     height: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 
-  /* Stack ALL grids */
+  /* Remove figure inconsistencies */
+  body.travels .page-body figure {
+    width: 100%;
+    margin: 1.5rem 0 !important;
+  }
+
+  /* Kill grid differences completely */
   body.travels .photo-row,
   body.travels .photo-row.four {
-    grid-template-columns: 1fr !important;
+    display: block !important;
   }
 
-} 
+  body.travels .photo-row figure {
+    width: 100%;
+    margin: 1.5rem 0 !important;
+  }
+
+}
 
   </style>
 
