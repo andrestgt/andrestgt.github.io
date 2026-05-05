@@ -276,10 +276,20 @@ The island of Ambon, however, is a different matter. It is also very dirty, with
 On the first day we checked out the two most famous beaches, Natsepa Beach and Liang Beach. Both were rather disappointing, especially Natsepa. It is quite close to town and clearly functions as a local weekend hangout. There are ugly concrete constructions everywhere and rather dilapidated huts selling food and drinks. During the week it was completely deserted.
 Liang was not much better. It is not much of a beach, to be honest. What is very nice is the sea there. It is crystal clear and great for swimming, but again far from any kind of beach paradise. Judging by the number of beach huts standing around, it must turn into quite a circus at the weekend.
 
+<figure>
+  <img src="/photos/travelogues/ambon1.jpg" alt="Lubang Buaya Morella">
+  <em>Lubang Buaya Morella</em>
+</figure>
+
 The coastal road along the north coast is partly in poor condition, but the area itself is pleasant. There are a few coves with beautiful clear blue water that look very inviting. Unfortunately, most of them are private and built up with huts and cabins, so there is not much left that feels natural, but they are still nice to look at.
 
 The second day was much better. We explored the western part of the island, starting with the spectacular Air Terjun Taeno in Rumah Tiga. You have to pay a small entrance fee of 5,000 rupiah. The path is paved, but there are so many steep stairs that I doubt it will ever get terribly busy. During the week we were the only people there. It is a very beautiful waterfall, and there is a pool at the bottom where you can swim, although getting down to it is a bit slippery and requires some care. I loved the experience with the waterfall, even though the whole place wasn’t very clean, just like the entire island.
 After that we continued across the island towards the north coast, visited Fort Amsterdam in the pretty village of Hila, and then took the ring road all the way back to Ambon. That was a very scenic trip and definitely more interesting than the beaches.
+
+<figure>
+  <img src="/photos/travelogues/ambon2.jpg" alt="Air Terjun Rumahtiga">
+  <em>Air Terjun Rumahtiga</em>
+</figure>
 
 On our last day we explored the southern peninsula. We took quite an adventurous, incredibly steep road over the mountains to the picturesque fishing village of Hukurila, and then drove back along the coast in a loop towards Ambon Bay and the city.
 
@@ -303,6 +313,11 @@ The Wi-Fi mostly worked, the air conditioning worked very well, the beds were co
 The reason I wouldn’t stay here again is different. The hotel seems to be popular with military personnel, and the behaviour and noise level were at times excessive. On top of that, there was an unpleasant situation at checkout when staff tried to keep part of the key deposit by claiming there were stains on the sheets, which were not ours.
 That kind of thing leaves a bad impression. For the money it could be fine, but I would choose another place next time.
 
+<figure>
+  <img src="/photos/travelogues/ambon4.jpg" alt="Ambon Port">
+  <em>Ambon Port</em>
+</figure>
+
 After four days in Ambon, we finally managed to leave on the first available Pelni ferry, the Dobonsolo, which is apparently one of the faster ships. The ticket cost around 150K for the nine-hour journey to Banda Neira, which is of course the cheapest way of getting there.
 And we were very lucky. The ferry was not full, so neither the dormitory areas nor the outside decks felt crowded. Everything was reasonably clean, even the toilets. The crossing was calm and surprisingly pleasant.
 This was my first Pelni experience, and it turned out to be a positive one. But it was clearly down to luck. We met other travellers who had taken a different Pelni ship on the same route and described it as overcrowded and dirty.
@@ -321,6 +336,11 @@ And thankfully, because it is still difficult and time-consuming to reach, it at
 And on top of that, the violent inter-religious conflict of the late 1990s and early 2000s certainly did nothing to help tourism either.
 Banda Neira has a captivating power from the moment you arrive, and it only grows the longer you stay. The town has a distinctly colonial feel. Many of the old buildings are still standing, some restored or renovated, others left to decay, and together they create a very picturesque mix of styles.
 
+<figure>
+  <img src="/photos/travelogues/banda1.jpg" alt="Bandaneira">
+  <em>Bandaneira</em>
+</figure>
+
 Although Banda is not heavily geared towards tourism, simply because there are not that many visitors, there is a surprising high number of beautiful hotels. The genuine colonial remnant is The Maulana Hotel. Cilu Bintang is newer, but built in an elegant colonial style. Delfika and Ribka’s are both very beautiful hotels in old buildings, with beautifully decorated interiors and courtyards. Most of them are empty, with no guests at all, yet you can walk in, have a drink in beautiful surroundings, and pay no more than at an ordinary roadside tourist café elsewhere in Indonesia.
 
 There are also a few coffee shops in town. The one most worth mentioning is Serenade, a relatively recent opening that clearly aims to bring a bit of big-city café culture to Banda Neira. It is still very much a basic island place, just with better equipment and some ambition, and that is part of its charm. The machine espresso drinks were pretty good and very cheap, 20K for a latte, and they serve simple bistro dishes at similar prices. The spaghetti aglio e olio with prawns was well made and tasty, and the ayam goreng came with a properly spicy sambal. Most dishes fall in the 20 to 25K range, which is excellent value.
@@ -334,16 +354,63 @@ At the end of one of these alleys, hidden away above the water and not signposte
 
 We also had a couple of nice dinners in the beautiful courtyard garden of Delfika. The food here tends to be a little on the sweet side, but it is generally very tasty. They serve the usual dishes you find all over the island, fried aubergines either with kenari nut sauce or kecap manis, gado-gado, cumi goreng, tuna steak and similar classics. Everything is freshly prepared and takes quite a long time to arrive, but that is pretty much what you can expect anywhere on the island, so it is not really a problem. Prices are very reasonable considering the beautiful surroundings.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/banda11.jpg" alt="Bandaneira">
+    <em>Bandaneira</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/banda12.jpg" alt="Bandaneira">
+    <em>Bandaneira</em>
+  </figure>
+
+</div>
+
 One thing that surprised me quite a bit about Banda Neira is the somewhat unusual relationship to tourism. It is not so much that nobody tries to sell you anything, which in itself would actually be quite refreshing. The slightly odd thing is that people often seem completely indifferent even when you actively want to buy something from them. Whether you order food, sit down in a café or inquire about a room, the reaction often feels less like someone welcoming your business and more like you are bothering them. People are not unfriendly or hostile at all, but they also do not seem particularly eager or enthusiastic about serving visitors. It is a bit puzzling and slightly irritating at times, and it might be one of the reasons why there are hardly more than a couple of dozen tourists on the island at the moment.
 
 The same goes for the most beautiful place for drinks on the island, Cilu Bintang Estate, which has an amazing second-floor veranda with magnificent views across the water towards Gunung Api. It is a wonderful place to sit and have a fresh juice while enjoying the scenery. The juices are excellent and cost around 30K, which is more or less the same as anywhere else on the island, so the prices are very reasonable considering the beauty of the location and the elegant design of the place. They even list a flat white on the menu, but what arrives is really just a very milky café latte and not particularly good. Unfortunately their chef seems to be away during Ramadan and we heard from several people that the food currently served there is essentially inedible, so we did not even try it. As elsewhere on Banda Neira, there are hardly any guests staying and very little staff around, so most of the time you end up having the entire place to yourself.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/banda3.jpg" alt="Cilu Bintang Estate">
+    <em>Cilu Bintang Estate</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/banda4.jpg" alt="Cilu Bintang Estate">
+    <em>Cilu Bintang Estate</em>
+  </figure>
+
+</div>
+
 As it turns out, Spice Island Café seems to be the only place on the island that reliably serves food at almost any time of day and where the staff show at least a modest amount of eagerness to serve customers. That alone explains why it is so popular. The food is perfectly fine, but despite being a very simple place it ends up being the most expensive restaurant on the island because they add an extra 10% tax to the bill. That is somewhat unusual in a place like Banda Neira, where even the more elegant restaurants do not charge any additional tax.
+
+<figure>
+  <img src="/photos/travelogues/banda10.jpg" alt="Banda Neira">
+  <em>Banda Neira</em>
+</figure>
 
 From our lovely resort on Banda Api Island it is possible to take an enjoyable half-hour walk through a fishing village to a picturesque, though sadly rather dirty, black sand beach. From there you can follow the coast by snorkelling all the way to the most famous snorkelling site in Banda, known as the Lava Stream. In fact there are two Lava Streams located very close to each other.
 Reaching the first one requires a swim of roughly forty-five minutes, which is a bit strenuous but definitely worthwhile. On the way out the reef is not always particularly spectacular, but it is almost uninterrupted coral with only a few rocky patches along the way. These rocky sections are where reef sharks seem to hang around, because I spotted half a dozen of them on the way out.
 The first Lava Stream itself has a very attractive reef with healthy soft and hard corals, a good amount of fish life and the occasional turtle. The second Lava Stream further north looks quite different, with clearer water and a fairly steep drop-off. It has a completely different character but is equally impressive.
 Apart from what you see underwater, it is also a very special experience simply because you are snorkelling directly beneath the volcano with the massive lava fields of Gunung Api rising out of the water right in front of you.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/banda6.jpg" alt="Runway Reef">
+    <em>Runway Reef</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/banda7.jpg" alt="Lava Flow">
+    <em>Lava Flow</em>
+  </figure>
+
+</div>
 
 Another excellent snorkelling spot lies in the north of Banda Neira just off Malole Beach, where the reef slopes gently and appears very healthy with a decent amount of fish life. In theory it would even be possible to snorkel from Malole Beach all the way down to the runway along an almost uninterrupted stretch of coral reef.
 Just off the eastern end of the runway to the north lies a reef that is absolutely spectacular. The soft and hard corals are dense, colourful and visibly healthy. It is rare to see a reef in such good condition anywhere, and almost unheard of to find one this good so close to a town. The sheer volume of fish is not quite as overwhelming as at some Raja Ampat sites, where it can feel like swimming through fish soup, but there is still plenty to see. Giant puffers, titan triggerfish, several reef sharks, and almost everything else you would hope for. The reef stretches for a remarkable distance along the coast, and after more than two hours in the water we still had not seen it all.
@@ -357,6 +424,20 @@ A round-the-island snorkelling trip that includes these sites as well as another
 Everything changed on the 5th of March with the year’s first arrival of the speedboat from Ambon. As it happened, not just the speedboat arrived that day, but three ships in total. Two large Pelni vessels came into the harbour as well. It seemed that this date marked the beginning of the peak tourist season, and it also appeared to change the attitude of the locals almost overnight.
 Suddenly it became much easier to find something to eat or drink during the day. People welcomed you instead of ignoring you. It also seemed that the chef at Cilu Bintang had returned from his holiday, because we joined the evening buffet there.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/banda14.jpg" alt="Bandaneira">
+    <em>Bandaneira</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/banda15.jpg" alt="Bandaneira">
+    <em>Bandaneira</em>
+  </figure>
+
+</div>
+
 Cilu Bintang is the most atmospheric place in town anyway, but the quality of the buffet was considerably better than I expected. For 200K you get an all-you-can-eat spread that includes a delicious tuna ball soup, several kinds of grilled fish, prawns, satay lilit, juicy beef satay, tempeh goreng, aubergines with kenari nut sauce, salad, rice and fried rice. It was a really great buffet.
 The place was also quite busy, which made it clear that the arrival of those boats had changed things dramatically. In a single day, the number of tourists on the island seemed to have tripled, if not more.
 
@@ -369,8 +450,18 @@ It was a very basic boat without any shade, but the crossing only took about an 
 
 ## 12 March 2026
 
+<figure>
+  <img src="/photos/travelogues/hatta1.jpg" alt="Pulau Hatta">
+  <em>Pulau Hatta</em>
+</figure>
+
 It turned out to be a good decision to go to Hatta as quickly as possible, because over the last few days the island had filled up rather quickly and there are not many accommodation options. As a matter of fact, all of the good bungalows had already been taken and only a few rather basic ones were still available. So we decided to wait for what is probably the nicest bungalow on the entire island at Vitalia Resort, which would be available the next day, and spent one night in one of the overflow rooms at the back of the bungalows in the main building.
 These rooms are quite basic, with just a bed and a fan and a simple bucket bathroom, but the good bungalow was definitely worth the wait. Quite inexplicably, the price per person, including all meals, for the nice bungalow was not that much higher than for the basic overflow rooms, 450K versus 350K. The bungalow itself was really lovely, with super comfortable hammocks, a spacious terrace, and a charming interior that had clearly been put together with a lot of care. It seems that the bungalow belongs to, or at least was decorated by, returning guests who spend extended periods here every year, because it felt much more like a private home than a typical homestay bungalow.
+
+<figure>
+  <img src="/photos/travelogues/hatta2.jpg" alt="Vitalia Resort">
+  <em>Vitalia Resort</em>
+</figure>
 
 There is no mobile internet reception on the island, but there is Starlink Wi-Fi available that works pretty much everywhere. Vouchers can be bought for very little money, around 5K for five days. It is quite slow, but it works. Electricity is available 24 hours a day.
 
@@ -378,17 +469,42 @@ Food at the resort was very good by remote island standards. We got freshly caug
 
 The resort also sits on the nicest part of the beach, basically the only stretch that was still clean and wide enough to have some proper sand and that did not disappear completely at high tide. In front of the places further to the south, concrete walls mar the impression.
 
+<figure>
+  <img src="/photos/travelogues/hatta3.jpg" alt="Pulau Hatta">
+  <em>Pulau Hatta</em>
+</figure>
+
 The best thing about Hatta is that the reef starts right in front of the beach, about 50 meters out, so you have world-class snorkeling without ever having to take a boat. Our stay coincided with a rather bad weather period, so it was quite wavy, but there were no strong currents, which meant it was still possible to go snorkeling. I spent hours in the water exploring the reef.
 The coral here is not quite as plentiful and healthy as around Banda Neira, but there is a fantastic drop-off that you can basically swim along for more than a kilometer. Along that wall you do not just find nice corals but also an amazing amount of fish, including plenty of very big ones such as Napoleon wrasses. On top of that, during almost every snorkel session you can see a dozen turtles, lots of smaller reef sharks, and some bigger ones as well. I even saw a really big stingray, almost as big as a small manta. So yes, it is definitely world-class snorkeling.
 The visibility in front of the main part of the beach where all the bungalows are was rather poor, but as soon as you swam out towards the left-hand side, or south of the pier in the direction of Terapung Resort, the visibility improved dramatically, easily reaching 20 to 25 meters.
 
+<figure>
+  <img src="/photos/travelogues/hatta4.jpg" alt="Pulau Hatta">
+  <em>Pulau Hatta</em>
+</figure>
+
 Apart from snorkeling, though, there is little else you can do on the island. There is a narrow concrete road leading along the coast to another village, which makes for a nice walk, and the village itself is pretty and neat. But I would have been quite happy to stay three days at most. However, there simply were no public boats going back between Friday and Wednesday, so we ended up staying five nights in total.
+
+<figure>
+  <img src="/photos/travelogues/hatta5.jpg" alt="Pulau Hatta">
+  <em>Pulau Hatta</em>
+</figure>
 
 Upon our return to Banda Neira, we spent another couple of nights at Allan’s, and after the time on secluded Hatta I appreciated Allan’s and Banda Neira even more. Even though you are very close to a town where you can take nice walks, go for coffee and have a few restaurant options, staying on the other side of the strait still gives you that island feeling, without having to give up the small-town comforts.
 The bungalows at Allan’s are comfortable, with air conditioning and Wi-Fi, and because there are only a few of them and hardly any guests, the place feels very private.
 We also received a nice discount for our extended stay. In the end we paid only 350K with breakfast for the standard room and 400K for the deluxe bungalow.
 
+<figure>
+  <img src="/photos/travelogues/banda2.jpg" alt="Allan Bungalow">
+  <em>Allan Bungalow</em>
+</figure>
+
 During those last days in Banda Neira we also tried one more restaurant called Nusantara, which seems to be popular with tourists. Similar to Spice Island Café, it is usually open, which already gives it an advantage over other places on the island. However, I found the food here the least impressive of all the places we tried. The fried aubergines and the ulang-ulang were perfectly fine, although I had both dishes prepared better elsewhere. The ayam bakar, on the other hand, turned out to be just a couple of chicken wings completely drowned in sweet kecap manis, which was not really what I expected when ordering grilled chicken. That said, it is a friendly place and cheaper than Spice Island Café.
+
+<figure>
+  <img src="/photos/travelogues/banda9.jpg" alt="Banda Besar">
+  <em>Banda Besar</em>
+</figure>
 
 On our last day in the Banda Islands we made a trip to the large island of Banda Besar, which I enjoyed a lot. Compared to the outlying islands it is very easy to reach. Small public boats shuttle back and forth regularly for just 5,000 rupiah. You simply hop on one, there is no foreigner pricing and nobody tries to push you into chartering a private boat.
 The island itself is very pleasant. The villages are clean, neat and very colourful, and it is a pleasure to walk along the coast with constant views of the impressive Api volcano and the blue sea.
@@ -397,6 +513,11 @@ The people on Banda Besar are unbelievably friendly. Everyone smiles at you and 
 
 
 ## 14 March 2026
+
+<figure>
+  <img src="/photos/travelogues/banda8.jpg" alt="Banda Harbour">
+  <em>Banda Harbour</em>
+</figure>
 
 The Pelni ferry left early in the morning, right on time at 4 a.m., taking us back to Ambon. Our original plan had been to continue to the Kei Islands by ferry, but those boats only run twice a month and the next departure would have been on the 19th, too late for our schedule. So we changed plans, booked tickets for the Pelni ferry back to Ambon and a flight onward to Langgur, the easy way, or so I thought.
 This time the ferry was not the Dobonsolo but the Labobar, the biggest ship running on this route. It finally gave me the opportunity to experience one of those infamous Indonesian ferry journeys people always talk about and that I had somehow avoided until now.
