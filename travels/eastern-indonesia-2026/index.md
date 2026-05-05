@@ -116,6 +116,38 @@ Ransiwor Island is wedged between two prime snorkelling spots: the jetty in fron
 
 The Yenbuba jetty is, depending on the current, an easy swim from our homestay, but regardless of conditions it’s important to time your visit. I first went there quite early in the morning and there were no boats, nobody around — it was absolutely perfect. There was an abundance of large fish, including Napoleon wrasse and turtles underneath the jetty.
 
+<div class="photo-row four">
+
+  <figure>
+    <a href="/photos/travelogues/rj4.jpg">
+      <img src="/photos/travelogues/rj4.jpg" alt="Kri Island" class="small">
+    </a>
+    <figcaption>Kri Island</figcaption>
+  </figure>
+
+  <figure>
+    <a href="/photos/travelogues/rj5.jpg">
+      <img src="/photos/travelogues/rj5.jpg" alt="Kri Island" class="small">
+    </a>
+    <figcaption>Kri Island</figcaption>
+  </figure>
+
+  <figure>
+    <a href="/photos/travelogues/rj6.jpg">
+      <img src="/photos/travelogues/rj6.jpg" alt="Kri Island" class="small">
+    </a>
+    <figcaption>Kri Island</figcaption>
+  </figure>
+
+  <figure>
+    <a href="/photos/travelogues/rj7.jpg">
+      <img src="/photos/travelogues/rj7.jpg" alt="Kri Island" class="small">
+    </a>
+    <figcaption>Kri Island</figcaption>
+  </figure>
+
+</div>
+
 When I returned later in the day, shortly before noon, things looked very different. All the big fish were gone and several dive boats had arrived, which made snorkelling around the jetty a bit tricky. On the other hand, getting there in the morning can be harder because the current is usually stronger.
 
 Fortunately, there is a great alternative if Yenbuba Jetty itself is too busy. It’s very pleasant simply to follow the edge of the reef toward Kri Island from the jetty. One of the healthiest-looking coral gardens can be found along that stretch, along with a remarkable abundance of reef fish and plenty of turtles. It also has that distinct aquarium-like feeling.
