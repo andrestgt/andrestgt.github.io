@@ -190,12 +190,22 @@ Our last full day in Raja Ampat was the most action-packed and exhausting day of
 We managed to gather seven people to share a boat to Piaynemo, the famous karst rock formations almost two hours to the west of the central area. Boat rentals in Raja Ampat are extremely expensive, and I still find the pricing hard to justify. In our case, it was 5 million rupiah for the boat, including the geopark entrance fee and access to the Piaynemo viewpoint.
 On the way, I did my second and final dive in Raja Ampat at Melissa's Garden. It was a truly exceptional coral garden, full of both soft and hard corals in remarkably healthy condition, with barely any damaged patches. The sheer abundance of reef fish was astonishing. There were no mantas or turtles here, but we saw lobsters, huge stonefish, crocodile fish, and endless schools of fish moving through pristine coral structures. We stayed down for more than 70 minutes, and I enjoyed every minute of it.
 
+<figure>
+  <img src="/photos/travelogues/rj14.jpg" alt="Melissas Garden">
+  <em>Melissas Garden</em>
+</figure>
+
 Together with the one manta dive earlier in the week, these were the only two dives I did in Raja Ampat, and I feel I chose exactly the right sites. Between the mantas and the extraordinary coral diversity of Melissa’s Garden, I saw everything I had hoped to experience underwater here.
 
 Our second stop was Rufas Island, where I snorkelled. The underwater scenery was impressive: overhanging rock formations and even a small arch leading into an almost aquarium-like cove filled with healthy coral and unbelievable numbers of fish. We also saw several sharks. Only turtles were missing.
 
 Finally, we reached Piaynemo itself. Even entering the small lagoon by boat, surrounded by limestone karst formations, was beautiful, like a miniature version of Ha Long Bay. We were fortunate to be the last boat of the day, so we had the viewpoint almost entirely to ourselves. The panorama is spectacular, and there is a reason this landscape appears on the 100,000 rupiah banknote.
 The weather was not ideal, slightly overcast with some rain, but it was still an extraordinary day. Despite the high costs, this trip is an absolute must when visiting Raja Ampat.
+
+<figure>
+  <img src="/photos/travelogues/rj15.jpg" alt="Piaynemo">
+  <em>Piaynemo</em>
+</figure>
 
 Our departure day started with the first proper breakfast we had at Kordiris Dive Homestay: fried rice and an omelette. Until then, breakfast had mostly consisted of sweet items -  pastries, cakes and pancakes, which I do not consider particularly nutritious. That said, the food overall, while not quite as good as in the other homestays, which had been surprisingly tasty, was still perfectly acceptable.
 
