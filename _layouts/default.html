@@ -694,21 +694,20 @@ body.travels .photo-row img.large {
    ========================= */
 
 @media (max-width: 600px) {
-  body.travels .photo-row {
+
+  /* All images full width (main fix) */
+  body.travels .page-body img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* Stack ALL grids */
+  body.travels .photo-row,
+  body.travels .photo-row.four {
     grid-template-columns: 1fr;
   }
 
-  body.travels .photo-row.four {
-    grid-template-columns: 1fr 1fr;
-  }
 }
-    a.read-full {
-      color: var(--read-full-blue) !important;
-      font-weight: 600;
-      text-decoration: none;
-    }
-    a.read-full:hover { text-decoration: underline; }
-
     /* ---------------------------
    INLINE IMAGE SIZE VARIANTS
    --------------------------- */
