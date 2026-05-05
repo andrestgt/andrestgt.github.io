@@ -43,10 +43,8 @@ Sorong also has a very well-stocked supermarket called Saga, which is a useful s
 
 
 <figure>
-  <a href="/photos/travelogues/sorong.jpg">
-    <img src="/photos/travelogues/sorong.jpg" class="medium">
-  </a>
-  <figcaption>Sorong Marina</figcaption>
+  <img src="/photos/travelogues/sorong.jpg" alt="Sorong Marina">
+  <em>Sorong Marina</em>
 </figure>
 
 And finally, Sorong has something every coastal city really should have: a pleasant seaside restaurant with a wooden veranda overlooking a picturesque fishing harbour called Marina Star Seafood. The views are nice, the atmosphere is relaxed, and the food is very good, though not exactly cheap. We had grilled squid and seafood mee goreng, both excellent and served with a very spicy sambal. Most seafood dishes are around 150K rupiah and upwards. That pretty much filled the waiting time before the ferry.
@@ -108,7 +106,7 @@ Ransiwor Island is wedged between two prime snorkelling spots: the jetty in fron
 
 The Yenbuba jetty is, depending on the current, an easy swim from our homestay, but regardless of conditions it’s important to time your visit. I first went there quite early in the morning and there were no boats, nobody around — it was absolutely perfect. There was an abundance of large fish, including Napoleon wrasse and turtles underneath the jetty.
 
-<div class="photo-row four">
+<div class="photo-row">
 
   <figure>
     <img src="/photos/travelogues/rj4.jpg" alt="Yenbuba Jetty" class="medium">
