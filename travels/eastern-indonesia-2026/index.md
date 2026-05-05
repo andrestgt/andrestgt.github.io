@@ -195,6 +195,11 @@ Today we went on another trip to Manta Ridge and Manta Sandy, the former for sno
 The dive at Manta Sandy was equally impressive. We observed mantas at a feeding station and spent 70 minutes underwater. It was spectacular. At 500K rupiah, including equipment, it was also one of the least expensive dives I have done anywhere.
 
 
+<figure>
+  <img src="/photos/travelogues/rj12.jpg" alt="Manta Ridge">
+  <em>Manta Ridge</em>
+</figure>
+
 ## 23 February 2026
 
 Our last full day in Raja Ampat was the most action-packed and exhausting day of the trip so far, yet also one of the most magnificent.
