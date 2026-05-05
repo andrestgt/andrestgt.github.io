@@ -120,28 +120,28 @@ The Yenbuba jetty is, depending on the current, an easy swim from our homestay, 
 
   <figure>
     <a href="/photos/travelogues/rj4.jpg">
-      <img src="/photos/travelogues/rj4.jpg" alt="Kri Island" class="small">
+      <img src="/photos/travelogues/rj4.jpg" alt="Kri Island" class="medium">
     </a>
     <figcaption>Kri Island</figcaption>
   </figure>
 
   <figure>
     <a href="/photos/travelogues/rj5.jpg">
-      <img src="/photos/travelogues/rj5.jpg" alt="Kri Island" class="small">
+      <img src="/photos/travelogues/rj5.jpg" alt="Kri Island" class="medium">
     </a>
     <figcaption>Kri Island</figcaption>
   </figure>
 
   <figure>
     <a href="/photos/travelogues/rj6.jpg">
-      <img src="/photos/travelogues/rj6.jpg" alt="Kri Island" class="small">
+      <img src="/photos/travelogues/rj6.jpg" alt="Kri Island" class="medium">
     </a>
     <figcaption>Kri Island</figcaption>
   </figure>
 
   <figure>
     <a href="/photos/travelogues/rj7.jpg">
-      <img src="/photos/travelogues/rj7.jpg" alt="Kri Island" class="small">
+      <img src="/photos/travelogues/rj7.jpg" alt="Kri Island" class="medium">
     </a>
     <figcaption>Kri Island</figcaption>
   </figure>
