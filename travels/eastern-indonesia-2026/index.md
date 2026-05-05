@@ -55,6 +55,13 @@ What followed next, which should really have been a pleasant, quick two-hour fas
 
 The air conditioning in economy didn’t work at all, so it was stiflingly hot. It smelled of sweat and vomit, breathing wasn’t exactly easy, and the whole cabin was packed well beyond any reasonable capacity with both people and luggage. Certainly a very local experience, and maybe the kind of thing one should experience occasionally when travelling, but definitely not something I feel the need to repeat. Otherwise you’d probably need another holiday straight after coming back from the islands.
 
+<figure>
+  <a href="/photos/travelogues/sorong-port.jpg">
+    <img src="/photos/travelogues/sorong-port.jpg" alt="Sorong Port" class="medium">
+  </a>
+  <figcaption>Sorong Port</figcaption>
+</figure>
+
 I had read and heard very mixed things about getting the marine park ticket and the general entrance permit for Raja Ampat, but in the end it was easier than expected. The official marine park payment website was down all the time, but there’s a booth at the ferry port in Sorong where you can simply buy the plastic card on the spot. It costs 700K and is valid for a year.
 
 Slightly more chaotic, or just less well organised, was the general entrance fee that everyone has to pay, which is one million rupiah. In theory you can register online and transfer the money to an Indonesian bank account. That should probably work with services like Wise or Revolut, but I didn’t try it, and judging from the situation when we arrived, most other travellers hadn’t either.
