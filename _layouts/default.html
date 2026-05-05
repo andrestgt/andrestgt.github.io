@@ -689,29 +689,6 @@ body.travels .photo-row img.large {
 }
       
 
-/* =========================
-   MOBILE (FORCE UNIFORM IMAGES)
-   ========================= */
-
-@media (max-width: 600px) {
-
-  /* Kill ALL size variants */
-  body.travels .page-body img,
-  body.travels .page-body img.small,
-  body.travels .page-body img.medium,
-  body.travels .page-body img.large {
-    width: 100% !important;
-    max-width: 100% !important;
-    height: auto !important;
-  }
-
-  /* Stack all grids */
-  body.travels .photo-row,
-  body.travels .photo-row.four {
-    grid-template-columns: 1fr !important;
-  }
-
-}
     /* ---------------------------
    INLINE IMAGE SIZE VARIANTS
    --------------------------- */
@@ -814,6 +791,30 @@ body.travels .page-body img.medium {
     }
 
     .page-body img:hover { opacity: 0.88; }
+
+     /* =========================
+   MOBILE — FINAL OVERRIDE
+   ========================= */
+
+@media (max-width: 600px) {
+
+  /* Force all travelogue images to same size */
+  body.travels .page-body img,
+  body.travels .page-body img.small,
+  body.travels .page-body img.medium,
+  body.travels .page-body img.large {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Stack ALL grids */
+  body.travels .photo-row,
+  body.travels .photo-row.four {
+    grid-template-columns: 1fr !important;
+  }
+
+} 
 
   </style>
 
