@@ -648,17 +648,21 @@ body.travels .page-body img.medium {
         border-radius: 16px;
       }
 
-      body.travels .culinary .place {
-        padding: 1.2rem 1.5rem;
-        margin: 1.5rem 0;
-      }
+     body.travels .culinary .place {
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0;
+}
 
-     /* Photo row layout (desktop) */
+/* Photo row layout (desktop) */
 body.travels .photo-row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
   margin: 3rem 0;
+}
+
+body.travels .photo-row.four {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 body.travels .photo-row figure {
@@ -666,6 +670,8 @@ body.travels .photo-row figure {
 }
 
 body.travels .photo-row img {
+  width: 100%;              /* 👈 important (prevents weird sizing) */
+  height: auto;
   border-radius: 10px;
 }
 
