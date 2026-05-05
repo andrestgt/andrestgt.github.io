@@ -161,11 +161,11 @@ The coastal path isn’t very long. You can follow it for perhaps 25 minutes at 
 <div class="photo-row">
   <figure>
     <img src="/photos/travelogues/rj9.jpg" alt="Yenbuba Jetty">
-    <em> Yenbuba Jetty</em>
+    <em> Ransiwor Island</em>
   </figure>
   <figure>
     <img src="/photos/travelogues/rj10.jpg" alt="Ransiwor Island">
-    <em> Ransiwor Island</em>
+    <em> Yenbuba Jetty</em>
   </figure>
 </div>
 
