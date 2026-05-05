@@ -96,14 +96,14 @@ As for the accommodation itself, Black Tip Homestay, location-wise, it almost ca
     <a href="/photos/travelogues/rj2.jpg">
       <img src="/photos/travelogues/rj2.jpg" alt="Kri Island" class="medium">
     </a>
-    <figcaption>Kri Island</figcaption>
+    <figcaption>Blacktip Homestay</figcaption>
   </figure>
 
   <figure>
     <a href="/photos/travelogues/rj3.jpg">
       <img src="/photos/travelogues/rj3.jpg" alt="Kri Island" class="medium">
     </a>
-    <figcaption>Kri Island</figcaption>
+    <figcaption>Ransiwor Island</figcaption>
   </figure>
 
 </div>
