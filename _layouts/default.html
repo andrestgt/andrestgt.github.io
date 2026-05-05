@@ -642,25 +642,32 @@ body.travels .page-body img.medium {
       figure { margin: 2.5rem auto; }
       figcaption { font-size: 0.9rem; margin-top: 0.6rem; }
 
-      .travelogue .country {
+      .travels .country {
         padding: 2.5rem 3rem;
         margin: 4rem 0;
         border-radius: 16px;
       }
 
-      body.travelogue .culinary .place {
+      body.travels .culinary .place {
         padding: 1.2rem 1.5rem;
         margin: 1.5rem 0;
       }
 
-      body.travelogue .photo-row {
-        max-width: 100%;
-        gap: 1.5rem;
-        margin: 3rem 0;
-      }
+     /* Photo row layout (desktop) */
+body.travels .photo-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 3rem 0;
+}
 
-      body.travelogue .photo-row img { border-radius: 10px; }
-    }
+body.travels .photo-row figure {
+  margin: 0;
+}
+
+body.travels .photo-row img {
+  border-radius: 10px;
+}
 
     @media (min-width: 1400px) {
       body { max-width: 1000px; }
