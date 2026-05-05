@@ -690,21 +690,25 @@ body.travels .photo-row img.large {
       
 
 /* =========================
-   MOBILE
+   MOBILE (FORCE UNIFORM IMAGES)
    ========================= */
 
 @media (max-width: 600px) {
 
-  /* All images full width (main fix) */
-  body.travels .page-body img {
+  /* Kill ALL size variants */
+  body.travels .page-body img,
+  body.travels .page-body img.small,
+  body.travels .page-body img.medium,
+  body.travels .page-body img.large {
     width: 100% !important;
     max-width: 100% !important;
+    height: auto !important;
   }
 
-  /* Stack ALL grids */
+  /* Stack all grids */
   body.travels .photo-row,
   body.travels .photo-row.four {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 
 }
