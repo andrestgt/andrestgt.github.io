@@ -41,12 +41,6 @@ There’s an excellent modern, air-conditioned café called Wabi Sabi with very 
 
 Sorong also has a very well-stocked supermarket called Saga, which is a useful stop to pick up basic supplies before heading out to the islands.
 
-<figure>
-  <a href="/photos/travelogues/sorong.jpg">
-    <img src="/photos/travelogues/sorong.jpg" class="small">
-  </a>
-  <figcaption>Sorong Marina</figcaption>
-</figure>
 
 <figure>
   <a href="/photos/travelogues/sorong.jpg">
