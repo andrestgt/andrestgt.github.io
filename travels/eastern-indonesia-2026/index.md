@@ -72,6 +72,13 @@ After the anticlimax of the horrible fast ferry ride and the chaos at the jetty 
 
 Once we arrived, things didn’t exactly improve. All the bungalows at Black Tip were fully booked, even though we had reserved and paid in advance via stayrajampat.com, which is supposedly meant to prevent double bookings or overbookings. Apparently not. In the end, we agreed to stay for one night at the owner’s brother’s place, Bongso Homestay, which is actually on nearby Kri Island opposite Ransiwor. The bungalows there are much nicer, proper beds, direct water access via steps, fans, hammocks, so comfort-wise it was definitely an upgrade.
 
+<figure>
+  <a href="/photos/travelogues/rj1.jpg">
+    <img src="/photos/travelogues/rj1.jpg" alt="Kri Island" class="medium">
+  </a>
+  <figcaption>Kri Island</figcaption>
+</figure>
+
 The downside is the location. Kri is far more built up in that area than the quieter Black Tip spot on Ransiwor, so it doesn’t quite have the same scenic appeal. Still, since it was already late by the time we arrived, spending a night there probably wasn’t the worst outcome. The Black Tip bungalows are extremely basic, and although the setting is clearly the main attraction, having a slightly more comfortable first night didn’t hurt. We’ll see how it feels once we move over.
 
 One thing that genuinely surprised me was the food at Bongso Homestay. Dinner was very, very good, mackerel, aubergines, other vegetables, rice, corn fritters, plus bananas and dragon fruit. I’m not entirely convinced the meals at the other places will be as good as here, somehow I doubt it.
