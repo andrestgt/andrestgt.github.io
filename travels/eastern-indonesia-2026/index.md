@@ -41,15 +41,20 @@ There’s an excellent modern, air-conditioned café called Wabi Sabi with very 
 
 Sorong also has a very well-stocked supermarket called Saga, which is a useful stop to pick up basic supplies before heading out to the islands.
 
-![Sorong Marina](/photos/travelogues/sorong.jpg){: .small}
+<figure>
+  <a href="/photos/travelogues/sorong.jpg">
+    <img src="/photos/travelogues/sorong.jpg" class="small">
+  </a>
+  <figcaption>Sorong Marina</figcaption>
+</figure>
 
-*Sorong Marina*
+<figure>
+  <a href="/photos/travelogues/sorong.jpg">
+    <img src="/photos/travelogues/sorong.jpg" class="medium">
+  </a>
+  <figcaption>Sorong Marina</figcaption>
+</figure>
 
----
-
-![Sorong Marina](/photos/travelogues/sorong.jpg){: .medium}
-
-*Sorong Marina*
 And finally, Sorong has something every coastal city really should have: a pleasant seaside restaurant with a wooden veranda overlooking a picturesque fishing harbour called Marina Star Seafood. The views are nice, the atmosphere is relaxed, and the food is very good, though not exactly cheap. We had grilled squid and seafood mee goreng, both excellent and served with a very spicy sambal. Most seafood dishes are around 150K rupiah and upwards. That pretty much filled the waiting time before the ferry.
 
 What followed next, which should really have been a pleasant, quick two-hour fast ferry ride to Waisai, turned out to be the worst part of the trip so far. In a way, that was partly our own fault because we decided to rough it and buy economy tickets instead of VIP. They were 125K instead of 250K, but honestly that’s not something I would recommend or repeat.
