@@ -158,6 +158,17 @@ Fortunately, there is a great alternative if Yenbuba Jetty itself is too busy. I
 The next day, we once more snorkelled over to Yenbuba Jetty and went ashore, walking through the sleepy, clean village of Yenbuba Village and along the beautiful mangrove forests on the coast of Mansuar Island.
 The coastal path isn’t very long. You can follow it for perhaps 25 minutes at most before it comes to an end. There is also a much longer inland path, but that’s a separate route altogether. Even so, the coastal stretch is very attractive, and the mangroves here are dense and quite impressive. About ten minutes past the village, there’s a long pier extending out toward the reef.
 
+<div class="photo-row">
+  <figure>
+    <img src="/photos/travelogues/rj9.jpg" alt="Yenbuba Jetty">
+    <em>9 Yenbuba Jetty</em>
+  </figure>
+  <figure>
+    <img src="/photos/travelogues/rj10.jpg" alt="Ransiwor Island">
+    <em>10 Ransiwor Island</em>
+  </figure>
+</div>
+
 From this pier, you can snorkel along the reef all the way to Kri Jetty, which is probably more than a kilometre. The reef is generally in decent condition, and fish life is fairly abundant, not quite as concentrated as around Yenbuba Jetty, but still among the better snorkelling spots in Raja Ampat.
 
 I know this because I’m writing these lines from our second island stop in Raja Ampat. After a few days of snorkelling at several other spots, I still consider Yenbuba Jetty, and especially the reef stretch from there toward Kri at the back of Ransiwor Island, to offer the best snorkelling I’ve seen so far. The area around Kri Jetty is very good as well.
