@@ -90,6 +90,24 @@ The next morning we finally moved over to Ransiwor Island and into the homestay 
 
 As for the accommodation itself, Black Tip Homestay, location-wise, it almost can’t be beat. Ransiwor is just a tiny island between Kri and Mansuar, and at low tide there are picturesque sandbars which you can even use to walk between the islands. It’s a spot of incredible beauty. There’s a small beach at all times here, and just three bungalows built on stilts. And make no mistake, they’re super bare-bones basic, as basic as it gets. There’s literally just a mattress, a mosquito net, and a small table inside the room, plus a small hammock outside on the terrace. Oh yeah, there’s a fan, but that really isn’t necessary. There’s always a breeze here and electricity is only available at night anyway, supposedly from 6 p.m. to midnight.
 
+<div class="photo-row">
+
+  <figure>
+    <a href="/photos/travelogues/rj2.jpg">
+      <img src="/photos/travelogues/rj2.jpg" alt="Kri Island" class="small">
+    </a>
+    <figcaption>Kri Island</figcaption>
+  </figure>
+
+  <figure>
+    <a href="/photos/travelogues/rj3.jpg">
+      <img src="/photos/travelogues/rj3.jpg" alt="Kri Island" class="small">
+    </a>
+    <figcaption>Kri Island</figcaption>
+  </figure>
+
+</div>
+
 As a matter of fact, I really like that many homestays here are very basic and built with local materials. There are enough places in the world where you can have full luxury with concrete and AC right by the beach. This kind of setup gives you a feeling of what the Thai islands used to be like 30 or 40 years ago. It fits the vibe very well. Plus, at around 400-something thousand rupiah including three meals, this is one of the cheapest places in Raja Ampat. Strangely enough, the only other place on the island next door has very similar huts but charges a lot more, so this is a really good deal.
 
 The food is pretty good as well. There’s usually quite juicy Spanish mackerel or bonito, not cooked to death, plus vegetables like beans or aubergines and tempeh. So I really can’t complain about the food, and there’s plenty of it. We’re the only guests anyway. The bathrooms are shared with the more expensive resort next door, and they’re actually closer to our huts, so again, no complaints there. They’re super basic too, but you’ve got your mandi and a Western-style toilet, so there’s not much more you could ask for. The only slight drawback maybe is that the family, at least the owner, isn’t exactly helpful or particularly friendly, but on the other hand they leave you alone, which for me is fine. As long as you’re self-sufficient, you’ll do perfectly well here.
