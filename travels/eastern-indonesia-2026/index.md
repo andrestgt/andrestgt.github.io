@@ -177,6 +177,11 @@ After four days, we moved to Kordiris Dive Homestay on Kordiris Island, a slight
 
 The bungalows vary considerably in size and quality, although they all cost the same. At 411K rupiah all inclusive, they are still among the cheapest places in Raja Ampat. They are also noticeably more comfortable than the places we had stayed in previously. Even though I had one of the simpler units, I was very happy with it. It had everything you need: an amazing view, a large bed, and a spacious veranda with a comfortable hammock. I liked this place a lot.
 
+<figure>
+  <img src="/photos/travelogues/rj11.jpg" alt="Kordiris">
+  <em> Kordiris</em>
+</figure>
+
 There is one drawback, however, which is the house reef. It is fairly degraded. There are still a few smaller patches where the coral looks decent, but overall it is not in good condition. The beach itself is beautiful and good for swimming at high tide, but for snorkelling it is clearly not among the better spots.
 
 That said, on my first snorkel after arriving, I saw a dugong, a whitetip reef shark, and a lionfish within half an hour. By most global standards, that would still count as a very good day of snorkelling.
