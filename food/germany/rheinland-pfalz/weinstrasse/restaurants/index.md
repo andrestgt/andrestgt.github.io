@@ -10,76 +10,76 @@ subtitle: Restaurants along the Weinstraße
 
 # Restaurants
 
-Restaurants, Ausflugslokale, and wine taverns along the Pfälzer Weinstraße and the surrounding Pfälzerwald.
+Covering restaurants, Ausflugslokale, and wine taverns along the Pfälzer Weinstraße and the surrounding Pfälzerwald, from Bad Dürkheim to Rhodt unter Rietburg.
 
 ---
 
 ## Alter Kastanienhof
 *Rhodt unter Rietburg · Traditional*
-Pleasant courtyard restaurant in a pretty wine village — solid cooking, attentive service, and upscale prices.
+A pleasant courtyard restaurant in a pretty wine village — solid gutbürgerlich cooking, attentive service, and upscale prices for the area.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/alter-kastanienhof/)
 
 ---
 
 ## Forsthaus Lindemannsruhe
 *Bad Dürkheim · Forest Restaurant*
-Rustic forester's lodge with a shady beer garden deep in the woods — generous portions at civilised prices.
+A rustic old forester's lodge with a large, shady beer garden deep in the woods — generous portions at civilised prices.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/forsthaus-lindemannsruhe/)
 
 ---
 
 ## Gaststätte Mühlengrund
 *Heuchelheim-Klingen · Country Restaurant*
-Deep-countryside mill restaurant with a lovely garden terrace and classic gutbürgerlich cooking.
+Deep-countryside mill restaurant with a beautiful garden terrace — classic gutbürgerlich cooking at under €20 a main.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/gaststaette-muehlengrund/)
 
 ---
 
 ## Klausentalhütte
 *Neustadt an der Weinstraße · Hiking Hut*
-Decent food and fair prices — a reasonable stop on a Pfälzerwald hike.
+On the modern side for a Pfälzer hiking hut, but decent food at fair prices — a reasonable stop on a walk.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/klausentalhütte/)
 
 ---
 
 ## Naturfreundehaus Edenkoben
 *Edenkoben · Excursion Restaurant*
-Big portions of Pfälzer classics — Leberknödel and Saumagen done properly at very reasonable prices.
+Big portions of Pfälzer classics at very reasonable prices — Leberknödel and Saumagen with sauerkraut done properly.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/naturfreundehaus-edenkoben/)
 
 ---
 
 ## Waldschenke Deidesheimer Hütte
 *Deidesheim · Forest Restaurant*
-A very pleasant beer-garden restaurant in the woods — 15 minutes on foot from the car park.
+A very pleasant excursion restaurant with a large beer garden in the woods — 15 minutes on foot from the car park and well worth the walk.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/waldschenke-deidesheimer-huette/)
 
 ---
 
 ## Wanderhütte Waldschenke Ludwigsbrunnen
 *Neustadt an der Weinstraße · Organic Forest Restaurant*
-Excellent organic Pfälzer food in a lovely forest setting — easy to reach by car.
+Only organic ingredients, excellent food quality, and a lovely forest setting — easy to reach by car and well worth seeking out.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/wanderhuette-waldschenke-ludwigsbrunnen/)
 
 ---
 
 ## Weinbiethaus
 *Neustadt an der Weinstraße · Excursion Restaurant*
-Pleasant forest restaurant with great views — complicated to reach by car but worth the effort.
+A pleasant forest restaurant — complicated to reach by car (the road is hair-raising), but solid food and great views make it worthwhile.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/weinbiethaus/)
 
 ---
 
 ## Weinstube Alte Schmiede
 *Rhodt unter Rietburg · Wine Tavern*
-A typical Pfälzer wine tavern — food quality a notch above most, outstanding Leberknödel and Saumagen.
+A typical Pfälzer wine tavern in a beautiful wine village — food quality a notch above most comparable places, with outstanding Leberknödel and Saumagen.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/weinstube-alte-schmiede/)
 
 ---
 
 ## Zum Schwanen
 *Deidesheim · Wine Tavern*
-One of the more affordable places in Deidesheim — a lovely courtyard and hearty Pfälzer fare.
+One of the more affordable places in Deidesheim — a lovely inner courtyard, classic hearty Pfälzer fare, and a very good Spätburgunder Rosé.
 → [Read the full review](/food/germany/rheinland-pfalz/weinstrasse/restaurants/zum-schwanen-deidesheim/)
 
 ---

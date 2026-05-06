@@ -14,12 +14,12 @@ subtitle: Bars in Stuttgart
 
 ## Tschechen & Söhne
 *Heusteigviertel · Bar*
-Great terrace views and cold beers — €5 for a Weizen, which is the Stuttgart standard for a prime location.
+Great views from the terrace and cold beers — now €5 for a Weizen, which is the Stuttgart standard for a prime location.
 → [Read the full review](/food/germany/baden-wuerttemberg/stuttgart/bars-pubs/tschechen-und-soehne/)
 
 ---
 
 ## Wirtshaus Troll
 *West End · Bar & Pub*
-A long-running boozer with cheap drinks, tasty pub grub, and good rock music.
+A fun, long-running boozer with cheap drinks, tasty pub grub, and good rock music. Impossible to dislike.
 → [Read the full review](/food/germany/baden-wuerttemberg/stuttgart/bars-pubs/wirtshaus-troll/)
