@@ -12,11 +12,11 @@ Very good (as the name implies) Northeastern food cooked in a busy open sidewalk
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| Food            | 8/10   |
+| Service         | 7.5/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 8/10   |
 
 ### Practical
 
