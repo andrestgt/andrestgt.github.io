@@ -13,9 +13,9 @@ Food and drinks are 4 stars but the view, oh the view, it's just breathtaking. W
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 8/10   |
-| Service         | 8.5/10 |
+| Service         | 8/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 9.5/10   |
 | Overall         | 9/10   |
 
 ### Practical
