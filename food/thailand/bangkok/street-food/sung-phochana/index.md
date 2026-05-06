@@ -6,15 +6,15 @@ title: Sung Phochana
 subtitle: Phra Nakhon · Noodles
 ---
 
-Excellent beef noodle soup in a lovely setting by the canal. A generous bowl with different types of meat costs 70 Baht.
+Excellent beef noodle soup served in a lovely setting beside the canal. A generous bowl with several different cuts of beef costs only around 70 Bt.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8.5/10 |
-| Service         | 7.5/10 |
-| Value for money | 9/10   |
+| Food            | 8/10 |
+| Service         | 7/10 |
+| Value for money | 8.5/10   |
 | Atmosphere      | 8/10   |
 | Overall         | 8.5/10 |
 
