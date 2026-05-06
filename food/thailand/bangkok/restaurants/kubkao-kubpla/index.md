@@ -6,7 +6,7 @@ title: KubKao' KubPla Emquartier
 subtitle: Watthana · Thai
 ---
 
-If you're lucky, you can get a seat with a view here. The Thai food is tasty and nicely presented, prices are reasonable by Helix standards. Some rarely seen dishes, such as ox tongue stew. Very popular.
+If you manage to get a seat with a view, EmQuartier´s KubKao’ KubPla, becomes a very attractive place to eat. The Thai dishes are tasty, well presented and prices are fair for the Helix, plus the menu includes some less common items such as ox tongue stew.
 
 ## Ratings
 
@@ -14,9 +14,9 @@ If you're lucky, you can get a seat with a view here. The Thai food is tasty and
 |-----------------|--------|
 | Food            | 8/10   |
 | Service         | 7.5/10 |
-| Value for money | 7/10   |
+| Value for money | 7.5/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
