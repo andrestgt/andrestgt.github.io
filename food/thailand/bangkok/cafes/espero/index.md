@@ -6,15 +6,14 @@ title: ES/PE/RO
 subtitle: Sathon · Specialty Coffee
 ---
 
-Cute little coffee shop opposite the Goethe Institute. They do nice flat whites for 70 Bt which is a very reasonable price for this neighbourhood.
-
+Cute little coffee shop opposite the Goethe-Institut serving very good flat whites for only 70 Bt, which is extremely fair for this neighbourhood.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8.5/10 |
-| Service         | 8/10   |
-| Value for money | 9/10   |
+| Service         | 7.5/10   |
+| Value for money | 8.5/10   |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8.5/10 |
 
