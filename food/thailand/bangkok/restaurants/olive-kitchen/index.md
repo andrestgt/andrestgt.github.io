@@ -16,11 +16,11 @@ They also have a good selection of Thai craft beers, including a very good Weize
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Food            | 8.5/10   |
+| Service         | 8/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
