@@ -6,7 +6,7 @@ title: Din Tai Fung Central Embassy
 subtitle: Pathum Wan · Taiwanese, Dumplings
 ---
 
-It's Din Tai Fung, so the dumplings are obviously good. But it's quite a lot more expensive here than in KL and even in Hong Kong, I believe. Count on minimum 500 Bt per head if you want to get full.
+It’s Din Tai Fung, so naturally the dumplings are very good. Prices here feel noticeably higher than in Kuala Lumpur or even Hong Kong, though. Expect to spend at least 500 Bt per person if you actually want a full meal.
 
 ## Ratings
 
@@ -14,9 +14,9 @@ It's Din Tai Fung, so the dumplings are obviously good. But it's quite a lot mor
 |-----------------|--------|
 | Food            | 8/10   |
 | Service         | 8/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 7.5/10 |
+| Value for money | 6.5/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
