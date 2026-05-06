@@ -6,13 +6,13 @@ title: Anan Cafe
 subtitle: Phaya Thai · Café
 ---
 
-They use pretty solid beans for their espresso drinks, especially considering the reasonable price — just 50 Bt for a cappuccino. However, the preparation was a bit sloppy, with foam that wasn't firm enough and a slightly too high serving temperature.
+Anan Cafe uses surprisingly good beans for such reasonably priced espresso drinks, with cappuccino costing only 50 Bt. The preparation could be more polished, though, as the foam was slightly weak and the coffee served a little too hot.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 6/10   |
+| Coffee          | 6.5/10   |
 | Service         | 6.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 6.5/10 |
