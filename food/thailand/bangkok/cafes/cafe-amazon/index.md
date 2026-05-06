@@ -6,7 +6,7 @@ title: Café Amazon
 subtitle: Bang Rak · Café
 ---
 
-Pretty bad place even for an Amazon. Small space, hardly any seats, not comfortable. Coffees are mediocre and even hot beverages for in-house consumption are served in disposable paper cups.
+Even by Café Amazon standards this branch is rather poor. Seating is limited, the space feels cramped, and the coffee is mediocre. Even hot drinks consumed inside are served in disposable paper cups.
 
 ## Ratings
 
@@ -15,7 +15,7 @@ Pretty bad place even for an Amazon. Small space, hardly any seats, not comforta
 | Coffee          | 3/10   |
 | Service         | 4/10   |
 | Value for money | 3/10   |
-| Atmosphere      | 2/10   |
+| Atmosphere      | 3/10   |
 | Overall         | 3/10   |
 
 ### Practical
