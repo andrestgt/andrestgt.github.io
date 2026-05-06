@@ -238,7 +238,7 @@ A slightly hidden café in a narrow Silom soi — one of the best flat whites I 
 
 ---
 
-## Remedys
+## H Roaster Café
 *Samphanthawong, Chinatown · Café*
 A tranquil oasis in the bustle of Chinatown — very comfy, less expensive than it looks, with a very nice latte at 85 Bt and some craft beer too.
 → [Read the full review](/food/thailand/bangkok/cafes/remedys/)
