@@ -6,17 +6,17 @@ title: Yong He Dou Jiang
 subtitle: Yan Nawa · Taiwanese, Dumplings
 ---
 
-What a great little dumpling place (the Taiwanese variety). If you think prices are high, think again, a couple of orders will feed an entire family so don't come here alone. Delicious.
+Excellent little Taiwanese dumpling place serving huge portions at surprisingly fair prices. A couple of dishes here can easily feed an entire family, so ordering carefully is recommended.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 7.5/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
