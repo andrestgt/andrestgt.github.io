@@ -6,17 +6,16 @@ title: Mezzo
 subtitle: Din Daeng · Café
 ---
 
-Local Starbucks clone. Coffee looks and tastes exactly like at Starbucks, not bad, not great. But it's a lot cheaper, only 70 Bt for a cappuccino. Comfy seats available.
-
+Mezzo is basically a local Starbucks imitation. The coffee tastes almost exactly the same: perfectly acceptable, but nothing remarkable. The advantage is the price, with cappuccino costing only around 70 Bt, and there are comfortable seats available.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 5.5/10 |
+| Coffee          | 6/10 |
 | Service         | 6/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
