@@ -16,10 +16,10 @@ Their special dish contains the aforementioned ingredients plus a minuscule to r
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 7/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
