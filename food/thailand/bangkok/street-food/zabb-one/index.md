@@ -6,7 +6,7 @@ title: Zabb One Ratchada
 subtitle: Huai Khwang · Isaan
 ---
 
-Isaan food, prepared Bangkok style, meaning less chilies and more sugar. Good for western palates. Very popular, affordable place, right at the MRT. Good choice if you want to sample many dishes, but the star is definitely the kai yang.
+Zabb One serves Isaan food adapted slightly for Bangkok tastes, meaning less chilli heat and a bit more sweetness. That probably makes it easier for many foreign visitors to enjoy. Prices are low, the place is very popular, and the grilled chicken is definitely the highlight.
 
 ## Ratings
 
@@ -16,7 +16,7 @@ Isaan food, prepared Bangkok style, meaning less chilies and more sugar. Good fo
 | Service         | 8/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
