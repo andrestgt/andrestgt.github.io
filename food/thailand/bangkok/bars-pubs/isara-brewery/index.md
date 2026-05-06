@@ -16,8 +16,8 @@ It's a bit on the pricey side, but the setting and overall atmosphere make it a 
 
 | Category        | Score  |
 |-----------------|--------|
-| Bar food        | 8.5/10 |
-| Service         | 8.5/10 |
+| Bar food        | 8/10 |
+| Service         | 8/10 |
 | Value for money | 7/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 8.5/10 |
