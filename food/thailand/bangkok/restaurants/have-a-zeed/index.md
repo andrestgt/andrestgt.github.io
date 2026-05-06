@@ -6,17 +6,17 @@ title: Have a Zeed by Steak Lao
 subtitle: Khlong Toei Nuea, Watthana · Isaan
 ---
 
-Upmarket, comfy mall restaurant serving standard, spicy Isaan food and some fusion dishes. Prices are okay, food is tasty. Good option.
+Comfortable and slightly upmarket mall restaurant serving reliable Isaan food along with a few fusion dishes. Prices are reasonable and the food is tasty. A good option for mall dining.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
-| Service         | 7.5/10 |
-| Value for money | 7/10   |
+| Food            | 8/10 |
+| Service         | 8/10 |
+| Value for money | 7.5/10   |
 | Atmosphere      | 7.5/10 |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
