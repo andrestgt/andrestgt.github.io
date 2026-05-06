@@ -6,17 +6,17 @@ title: Black Canyon – Robinson Bang Rak
 subtitle: Bang Rak · Café
 ---
 
-Not the nicest Black Canyon atmosphere-wise. And beware, they might put cinnamon on your cappuccino. As in most Black Canyons their (rather pricey) version of Pad Thai is very good.
+Not the nicest Black Canyon branch in terms of atmosphere, and they may put cinnamon on your cappuccino if you don’t specifically ask otherwise. The rather expensive pad thai is still very good, though.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 5.5/10 |
+| Coffee          | 7/10 |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 6.5/10   |
 | Atmosphere      | 5/10   |
-| Overall         | 5.5/10 |
+| Overall         | 6/10 |
 
 ### Practical
 
