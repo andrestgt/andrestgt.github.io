@@ -15,7 +15,7 @@ You don't come here for atmosphere, it has a cheap canteen feel to it. But the p
 | Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 5/10   |
+| Atmosphere      | 7/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
