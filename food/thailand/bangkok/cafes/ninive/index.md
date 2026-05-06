@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Ninive – Wood-Fired Pizza
+subtitle: Phra Khanong · Pizza, Café
+---
+
+This should be your pizza place of choice around Phra Khanong. Baked freshly right in front of you in a wood fired oven. Perfectly delicious and reasonably priced. Wash it down with an ice cold Beer Lao. Excellent.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 7/10   |
+| Service         | 8/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ninive+Games+Pizza+Phra+Khanong+Bangkok)
+☕ **Type:** Café & Pizzeria
+💰 **Price level:** Moderate

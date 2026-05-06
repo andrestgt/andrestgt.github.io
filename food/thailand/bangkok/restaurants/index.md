@@ -3,572 +3,261 @@ layout: default
 section: food
 city: bangkok
 category: restaurants
-title: Bangkok – Restaurants
-subtitle: Sit-down restaurants in Bangkok
+slug: bangkok restaurants
+title: Restaurants
+subtitle: Restaurants in Bangkok
 ---
 
-# Bangkok – Restaurants
+# Restaurants
 
-### SUSHIRO ICONSIAM
+Bangkok has one of the greatest and most varied restaurant scenes in the world, from cheap Michelin-starred noodle shops to extraordinary fine dining at remarkably accessible prices.
 
-★★★★★ · 1 May 2026 · ฿200–300 · Lunch
+---
 
-Sushiro 299 Iconsiam building ICONSIAM Unit UG20/2, UG Floor, Shop Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand
+## Al-Hussain Restaurant
+*Khlong Toei Nuea, Watthana · Indian, Middle Eastern*
+Authentic Muslim Indian and Middle Eastern food — best in a group, as portions are meant for sharing. Don't miss the brain masala.
+→ [Read the full review](/food/thailand/bangkok/restaurants/al-hussain/)
 
-Food: 5/5   ·   Service: 5/5   ·   Atmosphere: 3/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/sushiro-iconsiam/)
+## Apinara
+*Pathum Wan · Thai*
+Very upmarket Thai at Groove — fancy, generous and delicious. The Thai appetiser sampler is a must, and a couple can eat sumptuously for under 1,000 Bt.
+→ [Read the full review](/food/thailand/bangkok/restaurants/apinara/)
 
-<hr>
+---
 
-### Olive Kitchen - Khaosan
+## AV Izakaya Saphan Khwai
+*Phaya Thai · Japanese, Izakaya*
+Definitely not your standard izakaya — it has a clear adult theme throughout, but also good skewers, beef yukke, and flexible pricing depending on your beer of choice.
+→ [Read the full review](/food/thailand/bangkok/restaurants/av-izakaya/)
 
-★★★★★ · 1 May 2026 · ฿400–600 · Dinner
+---
 
-28/10, Chana Songkhram, Phra Nakhon, Bangkok 10200, Thailand
+## BADMOTEL
+*Thong Lo, Watthana · Thai*
+A Thonglor bar with a reputation, but come for happy hour and it's a relaxed, affordable spot with very tasty Thai food and Pad Thai with three fat king prawns.
+→ [Read the full review](/food/thailand/bangkok/restaurants/badmotel/)
 
-Food: 5/5   ·   Service: 5/5   ·   Atmosphere: 5/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/olive-kitchen-khaosan/)
+## Capri
+*Wat Phraya Krai, Bang Kho Laem · Italian*
+Come for the weekday 2-for-1 special and get very good Italian pizza at a great price — looks generic but delivers above average quality.
+→ [Read the full review](/food/thailand/bangkok/restaurants/capri/)
 
-<hr>
+---
 
-### AV Izakaya Saphan Khwai
+## Din Tai Fung Central Embassy
+*Pathum Wan · Taiwanese, Dumplings*
+The dumplings are obviously good, but prices here are higher than in KL or Hong Kong. Count on 500 Bt per head minimum.
+→ [Read the full review](/food/thailand/bangkok/restaurants/din-tai-fung/)
 
-★★★★★ · 1 May 2026 · ฿400–600
+---
 
-1511 13-15 Phahonyothin Rd, Samsen Nai, Khet Phaya Thai, Bangkok 10400, Thailand
+## Duklong Cafe and Eat
+*Phra Nakhon · Thai*
+A really nice restaurant with khlong views and super friendly service — fresh, tasty Thai food and one of the nicest spots in this part of the city.
+→ [Read the full review](/food/thailand/bangkok/restaurants/duklong/)
 
-Food: 4/5   ·   Service: 5/5   ·   Atmosphere: 5/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/av-izakaya-saphan-khwai/)
+## Fallabella River Front
+*Khlong San · International*
+The food and drinks are solid, but the view from ICONSIAM is breathtaking — beef tongue with veggies for under 300 Bt and craft beer at sensible prices.
+→ [Read the full review](/food/thailand/bangkok/restaurants/fallabella/)
 
-<hr>
+---
 
-### Samkaew Craft Beer กัลปพฤกษ์ (Samkaew Craft Beer Kanlapaphruek)
+## G's
+*Bang Rak · German*
+A super friendly German Kneipe hiding in an unlikely location — mind-boggling beer selection including Oktoberfestbier vom Fass and smoked Bamberg beer, with proper Flammkuchen to match.
+→ [Read the full review](/food/thailand/bangkok/restaurants/gs/)
 
-★★★★★ · 30 Apr 2026
+---
 
-ชั้นที่ 1 ห้องเลขที่ E อาคารเมโทร ทาวน์ 212 2 ถนน กัลปพฤกษ์ Bangkok 10160, Thailand
+## Gastro Kafe
+*Phra Nakhon · Thai*
+The best traveller restaurant on Rambuttri — very friendly, good food, and remarkably stable prices since 2019. The 89 Bt San Miguel is an excellent deal for this location.
+→ [Read the full review](/food/thailand/bangkok/restaurants/gastro-kafe/)
 
-Food: 5/5   ·   Service: 5/5   ·   Atmosphere: 5/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/samkaew-craft-beer-samkaew-craft-beer-kanlapaphruek/)
+## Have a Zeed by Steak Lao
+*Khlong Toei Nuea, Watthana · Isaan*
+Upmarket, comfy mall Isaan restaurant — tasty, spicy food at okay prices. A solid option in the Terminal 21 area.
+→ [Read the full review](/food/thailand/bangkok/restaurants/have-a-zeed/)
 
-<hr>
+---
 
-### Bella B All Suite Bangkok
+## Hemlock
+*Phra Nakhon · Thai*
+One of the best places for traditional Thai food in the Khao San area and has been for many years — very reasonable prices for such an atmospheric setting.
+→ [Read the full review](/food/thailand/bangkok/restaurants/hemlock/)
 
-★★★★☆ · 30 Apr 2026
+---
 
-369 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand
+## Hiro Omakase
+*Pathum Wan · Japanese, Omakase*
+The bad reviews are undeserved — fresh Hokkaido scallops, excellent foie gras, and a complimentary scallop brochette, all for around 700 Bt. Outstanding value for the quality.
+→ [Read the full review](/food/thailand/bangkok/restaurants/hiro-omakase/)
 
-Service: 4/5   ·   Rooms: 4/5   ·   Location: 5/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/bella-b-all-suite-bangkok/)
+## Hong Bao Central Embassy
+*Pathum Wan · Chinese, Dim Sum*
+Fancy and quite wonderful dim sum — the most varied dim sum menu I've seen in a while, only a tiny notch below Crystal Jade.
+→ [Read the full review](/food/thailand/bangkok/restaurants/hong-bao/)
 
-<hr>
+---
 
-### Madamzabb
+## HongKong Dimsum and Noodle
+*Phra Nakhon · Chinese, Dim Sum*
+A convenient modern noodle house on Phra Sumen — not cheap, and the quality is only average.
+→ [Read the full review](/food/thailand/bangkok/restaurants/hongkong-dimsum/)
 
-★★★★★ · 25 Feb 2025
+---
 
-371/72 สรณคมน์ 3 แยก 18 Si Kan, Don Mueang, Bangkok 10210, Thailand
+## Kabocha Sushi at the Street
+*Din Daeng · Japanese, Fusion*
+One of my favourite restaurants in the world — the foie gras unagi don is out of this world, and a table of four can have a gourmet experience for under 1,000 Bt.
+→ [Read the full review](/food/thailand/bangkok/restaurants/kabocha-sushi/)
 
-This little, tidy hole in the wall place cooks up a small menu of absolutely delicious Thai standards at rock bottom prices. Try the crab fried rice or the sukiyaki. If you're on a layover at Don Mueang, or staying around the area, pay Madamzab a visit.
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/madamzabb/)
+## Krua Apsorn
+*Phra Nakhon · Thai*
+A cheap canteen feel masks one of the most consistently popular Thai restaurants in Bangkok — very good food at 150–200 Bt per head, though cooked on the sweet side.
+→ [Read the full review](/food/thailand/bangkok/restaurants/krua-apsorn/)
 
-<hr>
+---
 
-### Northeast
+## KubKao' KubPla Emquartier
+*Watthana · Thai*
+Tasty, nicely presented Thai food in the Helix mall — get a seat with a view if you can, and look out for the ox tongue stew.
+→ [Read the full review](/food/thailand/bangkok/restaurants/kubkao-kubpla/)
 
-★★★★★ · 17 Feb 2025 · ฿200–300 · Dinner
+---
 
-1010, 12-15 Rama IV Rd, Si Lom, Bang Rak, Bangkok 10500, Thailand
+## Le Rêve Garden & Eatery
+*Yan Nawa · Thai, International*
+An off-the-beaten-track restaurant with a lovely garden setting — nice curries, good service, and very reasonable prices for the area.
+→ [Read the full review](/food/thailand/bangkok/restaurants/le-reve/)
 
-Food: 5/5   ·   Service: 5/5   ·   Atmosphere: 5/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/northeast/)
+## Man Fu Yuan
+*Watthana · Chinese, Dim Sum*
+Top quality dim sum in the stunning Helix mall at EmQuartier — obviously expensive, but highly recommended for a proper dim sum feast.
+→ [Read the full review](/food/thailand/bangkok/restaurants/man-fu-yuan/)
 
-<hr>
+---
 
-### Gastro Kafe
+## Northeast
+*Bang Rak · Isaan*
+Very good Northeastern food in a busy sidewalk kitchen, with an air-conditioned dining room — pork with black pepper and mussels with basil, both excellent, at reasonable prices for Sathorn.
+→ [Read the full review](/food/thailand/bangkok/restaurants/northeast/)
 
-★★★★☆ · 11 May 2024 · ฿200–300
+---
 
-104, 1 Ram Buttri, Talat Yot, Phra Nakhon, Bangkok 10200, Thailand
+## Olive Kitchen – Khaosan
+*Phra Nakhon · Italian, Pizza*
+A high-end wood-fired pizza and craft beer spot in the backpacker area — Napoli-style pizzas among the best in town, with good Thai craft beers on tap.
+→ [Read the full review](/food/thailand/bangkok/restaurants/olive-kitchen/)
 
-Food: 4/5   ·   Service: 5/5   ·   Atmosphere: 5/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/gastro-kafe/)
+## Popiang
+*Phra Nakhon · Thai*
+The best traveller café-restaurant on Rambuttri — very friendly service, good food, usually a guitarist, and it's been around forever for good reason.
+→ [Read the full review](/food/thailand/bangkok/restaurants/popiang/)
 
-<hr>
+---
 
-### Shinkanzen Sushi @ Samyan Mitrtown
+## Praram 9 Kaiyang
+*Pathum Wan · Thai, Grilled Chicken*
+A solid Bangkok-style gai yang set with great views over CentralWorld — sweeter than the Isaan original, but well done and very reasonable for the location.
+→ [Read the full review](/food/thailand/bangkok/restaurants/praram-9-kaiyang/)
 
-★★★☆☆ · 2 May 2024 · ฿100–200 · Lunch
+---
 
-161 Phaya Thai Rd, Wang Mai, Pathum Wan, Bangkok 10330, Thailand
+## Reflections
+*Pathum Wan · Thai Fusion*
+Average by Bangkok standards but great value in the city's priciest area — the duck larb and scallop squid ink pasta are recommended.
+→ [Read the full review](/food/thailand/bangkok/restaurants/reflections/)
 
-Food: 3/5   ·   Service: 5/5   ·   Atmosphere: 3/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/shinkanzen-sushi-samyan-mitrtown/)
+## Shinkanzen Sushi
+*Pathum Wan · Japanese, Sushi*
+Not the best sushi in town, but very convenient and inexpensive for a quick fix of a few nigiri.
+→ [Read the full review](/food/thailand/bangkok/restaurants/shinkanzen-sushi/)
 
-<hr>
+---
 
-### Yong He Dou Jiang
+## Shoshana
+*Phra Nakhon · Middle Eastern*
+Big plates of tasty Middle Eastern comfort food at a reasonable price — been here for years and still a great place for a falafel fix. Come hungry.
+→ [Read the full review](/food/thailand/bangkok/restaurants/shoshana/)
 
-★★★★★ · 9 Nov 2022 · ฿200–300 · Dinner
+---
 
-321 39 - 321/40 Nang Linchi Rd, Chong Nonsi, Yan Nawa, Bangkok 10120, Thailand
+## SUSHIRO ICONSIAM
+*Khlong San · Japanese, Sushi*
+Fresh sushi at 40–80 Bt per plate of two nigiri — outstanding value, fully automated ordering, and now extremely popular. Expect a wait.
+→ [Read the full review](/food/thailand/bangkok/restaurants/sushiro/)
 
-Food: 5/5   ·   Service: 4/5   ·   Atmosphere: 4/5
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/yong-he-dou-jiang/)
+## Sushi Den @ CentralWorld
+*Pathum Wan · Japanese, Sushi*
+Very good fresh sashimi at reasonable prices — the unagi roll is okay and the salmon head is good, though some dishes disappoint.
+→ [Read the full review](/food/thailand/bangkok/restaurants/sushi-den-ctw/)
 
-<hr>
+---
 
-### Thipsamai Padthai Pratoopee
+## Sushi Den – Siam Paragon
+*Pathum Wan · Japanese, Sushi*
+Avoid this branch — smaller portions than CentralWorld, and the nigiri falls apart on touch.
+→ [Read the full review](/food/thailand/bangkok/restaurants/sushi-den-paragon/)
 
-★★★★☆ · 22 May 2022 · ฿100–200 · Dinner
+---
 
-313, 315 Maha Chai Rd, Samran Rat, Phra Nakhon, Bangkok 10200, Thailand
+## Thipsamai Padthai Pratoopee
+*Phra Nakhon · Thai, Pad Thai*
+Bangkok's most famous pad thai — worth trying once, but not worth queuing more than two minutes. Nice, slightly sweet, with a couple of fresh king prawns.
+→ [Read the full review](/food/thailand/bangkok/restaurants/thipsamai/)
 
-Out of all the amazing dishes Bangkok has to offer, Pad Thai isn't exactly the one I'd be queuing for, so I'm not sure why this place is so incredibly popular. As it happened, we passed by, saw there's no queue and gave it a try. We went for their special pad thai wrapped inside an omelette. And yes, it's a nice pad…
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/thipsamai-padthai-pratoopee/)
+## Tim Ho Wan
+*Pathum Wan · Chinese, Dim Sum*
+Great quality dim sum, more expensive than Hong Kong but still worth a visit — the famous pork buns taste slightly sweeter here than the original.
+→ [Read the full review](/food/thailand/bangkok/restaurants/tim-ho-wan/)
 
-<hr>
+---
 
-### Sawang Noodle
+## Wine Connection Rain Hill
+*Watthana · Wine Bar, Deli*
+The best place for oenophiles in the entire country — even the cheaper 500–600 Bt bottles are perfectly decent, and the food quality is good.
+→ [Read the full review](/food/thailand/bangkok/restaurants/wine-connection/)
 
-★★★★☆ · 21 May 2022 · ฿100–200 · Dinner
+---
 
-264 Si Phraya Rd, Maha Phruttharam, Bang Rak, Bangkok 10500, Thailand
+## Wine I Love You
+*Watthana · Wine Bar, International*
+Generic bistro food at Bangkok standards, but good wine at reasonable prices and authentically spicy Thai dishes. The foie gras was well cooked but small.
+→ [Read the full review](/food/thailand/bangkok/restaurants/wine-i-love-you/)
 
-Okay, let's be honest, if I'd had no idea that this basic little hole in the wall eatery was Michelin recommended, a Bib Gourmand restaurant even, I'd never guessed and never know.
+---
 
-[Read the full review →](/food/thailand/bangkok/restaurants/sawang-noodle/)
+## Yong He Dou Jiang
+*Yan Nawa · Taiwanese, Dumplings*
+A great little Taiwanese dumpling place — a couple of orders feeds an entire family, so don't come alone. Delicious.
+→ [Read the full review](/food/thailand/bangkok/restaurants/yong-he-dou-jiang/)
 
-<hr>
+---
 
-### Wan Dee
-
-★★★★★ · 16 Mar 2022
-
-1561 ถ. เจริญกรุง Yan Nawa, Sathon, Bangkok 10120, Thailand
-
-Very good beef noodle soup. Nice and flavourful, tender meat. Wide range of noodles available, no English menu but some English spoken. 50 Bt
-
-[Read the full review →](/food/thailand/bangkok/restaurants/wan-dee/)
-
-<hr>
-
-### Laab Ubon Kontrakran ลาบอุบลคนตระการ (Laab Ubon Kontrakran)
-
-★★★★★ · 24 Aug 2020
-
-251 6 S Sathon Rd, Yan Nawa, Sathon, Bangkok 10120, Thailand
-
-Pricy Sathorn/Surasak is not exactly the place where you would expect to find this inexpensive, cheerful Isaan style open air eatery/drinking place. They do a nice gai yang (half for 100 Bt), larb ped (80 Bt) and a good variety of Som Tum, including one with roasted pork. As in most North Eastern restaurants in Bang…
-
-[Read the full review →](/food/thailand/bangkok/restaurants/laab-ubon-kontrakran-laab-ubon-kontrakran/)
-
-<hr>
-
-### Kabocha sushi at the street
-
-★★★★★ · 14 May 2020
-
-139 Ratchadaphisek Rd, Din Daeng, Bangkok 10400, Thailand
-
-Ranks high on my personal "favourite restaurants in the world" list. Unbeatable value, absolutely delicious fusion food. The foie gras unagi don is out of this world. You can eat here for less than 1000 Baht per table of 4 and still have a proper gourmet experience. I'm really surprised this place is not more renown…
-
-[Read the full review →](/food/thailand/bangkok/restaurants/kabocha-sushi-at-the-street/)
-
-<hr>
-
-### Jae Hong Stir Fried Chicken Noodle
-
-★★★★☆ · 6 Apr 2020
-
-38 Ban Dok Mai 1, Khwaeng Ban Bat, Pom Prap Sattru Phai, Bangkok 10100, Thailand
-
-Deep inside a small alley market this place in deservedly popular for it's fried chicken and char kway teow with fresh king prawn straight from the charcoal oven. Tasty and not expensive
-
-[Read the full review →](/food/thailand/bangkok/restaurants/jae-hong-stir-fried-chicken-noodle/)
-
-<hr>
-
-### Le Rêve Garden&Eatery
-
-★★★★☆ · 3 Apr 2020
-
-8, 11 Thanon Nang Linchi, Chong Nonsi, Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand
-
-Off the beaten track Thai restaurant with a lovely garden setting, and good service and atmosphere. They have a nice selection of traditional Thai dishes with some international bistro food on top of that. Curries are very nice, prices very reasonable. So if you happen to be in this area of town, it's worth giving i…
-
-[Read the full review →](/food/thailand/bangkok/restaurants/le-reve-garden-and-eatery/)
-
-<hr>
-
-### Capri
-
-★★★★☆ · 1 Apr 2020
-
-2194 ถ. เจริญกรุง Wat Phraya Krai, Bang Kho Laem, Bangkok 10120, Thailand
-
-Come for the weekday 2 for 1 special and you get very good Italian pizza at a great price. The rest of the menu is not cheap but quality is above average. It might look generic and touristy, but it's not a bad place at all if you're in the area
-
-[Read the full review →](/food/thailand/bangkok/restaurants/capri/)
-
-<hr>
-
-### Al-Hussain Restaurant
-
-★★★★★ · 28 Dec 2019
-
-Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand
-
-Great, authentic place to eat Muslim Indian and Middle Eastern food. Best to come in a group coz portions are big, meant for sharing. Try the brain masala, bliss
-
-[Read the full review →](/food/thailand/bangkok/restaurants/al-hussain-restaurant/)
-
-<hr>
-
-### Fallabella River Front
-
-★★★★★ · 10 Nov 2019
-
-299 ชั้นที่ 6, ICONSIAM, Charoen Nakhon 5 Alley, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand
-
-Food and drinks are 4 stars but the view, oh the view, it's just breathtaking. We ordered beef tongue with veggies which was perfectly well prepared and not bad value for less than 300 Bt. A Beervana craft beer is 220 + Bt a glass, the same that you'd pay in lesser places than this, and did i mention the view?
-
-[Read the full review →](/food/thailand/bangkok/restaurants/fallabella-river-front/)
-
-<hr>
-
-### G's
-
-★★★★★ · 4 Nov 2019
-
-74 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand
-
-Despite the none too salubrious location this super friendly German 'Kneipe' is a great find in Bangkok. Their beer selection is mind boggling, with delicious Oktoberfestbier vom Fass and even smoked beer from Bamberg by the 0.5l bottle (for a mere 190Bt). Prices seem high, but are actually immensely reasonable for…
-
-[Read the full review →](/food/thailand/bangkok/restaurants/g-s/)
-
-<hr>
-
-### Sushi Den @ CTW
-
-★★★★☆ · 3 Jul 2019
-
-4 Ratchaprasong Road, Pathum Wan, Bangkok 10330, Thailand
-
-Very good fresh sashimi at reasonable prices, although I wasn't entirely convinced by the other dishes. The unagi roll was okay, the chicken balls still had bone inside, salmon head was good
-
-[Read the full review →](/food/thailand/bangkok/restaurants/sushi-den-ctw/)
-
-<hr>
-
-### Sushi Den
-
-★★★☆☆ · 3 Jul 2019
-
-431B, 991 ห้างสรรพสินค้าสยามพาราก้อน ชั้น 4 991 Rama I Rd, Pathum Wan, Bangkok 10330, Thailand
-
-Avoid this branch. The fish is fresh but the portions are smaller than at the Centralworld branch and the nigiri fell apart on touch, not well prepared. Normally Sushi Den is a good franchise, but this branch seems lacking
-
-[Read the full review →](/food/thailand/bangkok/restaurants/sushi-den/)
-
-<hr>
-
-### Reflections
-
-★★★★☆ · 3 Jul 2019
-
-By (incredibly high) Bangkok standards the Thai fusion food here is just average, but it's great value in the city's priciest area and most dishes work well. Duck larb and scallop squid ink pasta are recommended
-
-
-
-[Read the full review →](/food/thailand/bangkok/restaurants/reflections/)
-
-<hr>
-
-### Ninive Games Co.Ltd.
-
-★★★★★ · 3 Jul 2019
-
-1108/13-14 Sukumvit Plus Soy 1, Pra Kanong Nua, Klong Toey, Bangkok 10110, Thailand
-
-"This should be your pizza place of choice around Phra Khanong. Baked freshly right in front of you in a wood fired oven. Perfectly delicious and reasonably priced. Wash it down with an ice cold Beer Lao. Excellent
-
-[Read the full review →](/food/thailand/bangkok/restaurants/ninive-games-co-ltd/)
-
-<hr>
-
-### Hemlock / HemlockArtRestaurant
-
-★★★★☆ · 3 Jul 2019
-
-56 (at the zebra line, opp. F.A.O. office Phra Athit Rd Phra Sumen Rd, Phra Nakhon, Bangkok 10200, Thailand
-
-The Khao San area is not the backpacker food desert it used to be with lots of good eateries having opened in the past few years, but Hemlock is still worth a visit. It's one of the best places for traditional Thai food and has been for many years. Very reasonable prices for such an atmospheric place.
-
-[Read the full review →](/food/thailand/bangkok/restaurants/hemlock-hemlockartrestaurant/)
-
-<hr>
-
-### Din Tai Fung Central Embassy Branch
-
-★★★★☆ · 3 Jul 2019
-
-546/4 5 Floor, Phloen Chit Rd, Lumphini, Pathum Wan, Bangkok 10330, Thailand
-
-It's Din Tai Fung, so the dumplings are obviously good. But it's quite a lot more expensive here than in KL and even in Hongkong, I believe. Count on minimum 500 Bt per head if you want to get full
-
-[Read the full review →](/food/thailand/bangkok/restaurants/din-tai-fung-central-embassy-branch/)
-
-<hr>
-
-### Yentafo Phua Ki
-
-★★★★☆ · 2 Jul 2019
-
-28 30 Phra Sumen Rd, Chana Songkhram, Phra Nakhon, Bangkok 10200, Thailand
-
-Good old fashioned Thai-Chinese hole in the wall. Shrimp wontons are delicious, generous prawns in their rice dishes too. Inexpensive, good choice on Phra Arthit
-
-[Read the full review →](/food/thailand/bangkok/restaurants/yentafo-phua-ki/)
-
-<hr>
-
-### Shoshana restaurant
-
-★★★★☆ · 2 Jul 2019
-
-86 Chakrabongse Rd, Talat Yot, Phra Nakhon, Bangkok 10200, Thailand
-
-Shoshana has been dishing up big plates of tasty middle eastern comfort food for many years and it's still a great place to get your falafel fill at a reasonable price. Just make sure you come hungry
-
-[Read the full review →](/food/thailand/bangkok/restaurants/shoshana-restaurant/)
-
-<hr>
-
-### HongKong Dimsum and Noodle
-
-★★★☆☆ · 2 Jul 2019
-
-Talat Yot, Phra Nakhon, Bangkok 10200, Thailand
-
-Convenient, modern noodle house on Phra Sumen. It's not cheap though and the quality is average
-
-[Read the full review →](/food/thailand/bangkok/restaurants/hongkong-dimsum-and-noodle/)
-
-<hr>
-
-### Hong Bao Central Embassy
-
-★★★★★ · 2 Jul 2019
-
-ชั้น 5, Central Embassy, 1031 Phloen Chit Rd, Pathum Wan, Bangkok 10330, Thailand
-
-Fancy, and quite wonderful dim sum restaurant. Only a tiny notch down from Crystal Jade in terms of quality as well as price level but their Dim sum menu is the best, most varied I've seen in a while
-
-[Read the full review →](/food/thailand/bangkok/restaurants/hong-bao-central-embassy/)
-
-<hr>
-
-### Wine I Love You
-
-★★★★☆ · 28 Jun 2019
-
-627 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand
-
-Generic bistro food here, which is average for Bangkok but would be top notch almost everywhere else in the world. Good choice of wine at reasonable prices, some under 800 Bt. Foie gras was well cooked but small, Thai dishes are authentically spicy
-
-[Read the full review →](/food/thailand/bangkok/restaurants/wine-i-love-you/)
-
-<hr>
-
-### Tim Ho Wan
-
-★★★★☆ · 28 Jun 2019
-
-Great quality dim sum. More expensive than in Hong Kong, still definitely worth a visit. Count on 8€ per pax for small feast. Their famous pork buns seem a little bit sweeter here, personally I prefer the Hongkong version
-
-
-
-[Read the full review →](/food/thailand/bangkok/restaurants/tim-ho-wan/)
-
-<hr>
-
-### Rung Rueang Pork Tung Noodle
-
-★★★★☆ · 28 Jun 2019
-
-10/3 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand
-
-Basic but very popular noodle place on 26. Wouldn't go out of my way to eat here, but for a quick bite of dry tom yum and fish crackers it's a very good choice. Cheap for this area
-
-[Read the full review →](/food/thailand/bangkok/restaurants/rung-rueang-pork-tung-noodle/)
-
-<hr>
-
-### Man Fu Yuan
-
-★★★★☆ · 28 Jun 2019
-
-693 695 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand
-
-Top quality dim sum in the fantastic atmosphere of the stunning new helix mall. Obviously expensive,100-150 Baht for a basket of 3. Still, highly recommended for a dim sum break in EmQuartier
-
-[Read the full review →](/food/thailand/bangkok/restaurants/man-fu-yuan/)
-
-<hr>
-
-### Burn Baby Burn
-
-★★★☆☆ · 28 Jun 2019
-
-QH99+6CH, Din Daeng, Bangkok 10400, Thailand
-
-Cool place in Rot Fai weekend market, good craft beer. Their burgers are okay, very photogenic, but nothing great and not worth the price tag, maybe that's whyvthe place is rarely busy
-
-[Read the full review →](/food/thailand/bangkok/restaurants/burn-baby-burn/)
-
-<hr>
-
-### Apinara
-
-★★★★★ · 28 Jun 2019
-
-4, 4/1 – 4/2, 4/4 Ratchadamri Rd, Pathum Wan, Bangkok 10330, Thailand
-
-Very upmarket Thai at Groove. Fancy interior, good service, delicious food. Generous portions, prices are correct for ambiance and quality. Without drinks a couple can have a sumptuous meal here for less than 1000 Bt. Their gorgeous Thai Appetiser sampler is a must
-
-[Read the full review →](/food/thailand/bangkok/restaurants/apinara/)
-
-<hr>
-
-### Zabb One Ratchada
-
-★★★★★ · 27 Jun 2019
-
-QH9F+G2Q, Ratchadaphisek Rd, Huai Khwang, Bangkok 10400, Thailand
-
-Isaan food, prepared Bangkok style, meaning less chilies and more sugar. Good for western palates. Very popular, affordable place, right at the MRT. Good choice if you want to sample many dishes, but the star is definitely the kai yang
-
-[Read the full review →](/food/thailand/bangkok/restaurants/zabb-one-ratchada/)
-
-<hr>
-
-### Wine Connection Rain Hill
-
-★★★★★ · 27 Jun 2019
-
-777 Rain Hill Project, Ground Fl., Unit L1- 12 Soi Sukhumvit 47, Klong Tan Nuea Sukhumvit Rd, Watthana, Bangkok 10110, Thailand
-
-Best place for oenophiles in the entire country for sheer value. Even the cheaper 500-600 Bt bottles are perfectly decent. I wish the food menu was a bit more adventurous, but the quality is good
-
-[Read the full review →](/food/thailand/bangkok/restaurants/wine-connection-rain-hill/)
-
-<hr>
-
-### Dean & Deluca
-
-★★★★☆ · 27 Jun 2019
-
-479 Naradhiwas Rajanagarindra Rd, Si Lom, Bang Rak, Bangkok 10500, Thailand
-
-Good coffees and cheesecakes. Quite pricy and fancy. The Cube branch has comfy seating upstairs and is the best in Bangkok
-
-[Read the full review →](/food/thailand/bangkok/restaurants/dean-and-deluca/)
-
-<hr>
-
-### Black Canyon
-
-★★★★☆ · 27 Jun 2019
-
-125 Ratchadaphisek Rd, ดินแดง, Din Daeng, Bangkok 10400, Thailand
-
-Just like in most places of the BCC franchise, you're likely to get a nice cup of coffee here, as well as one of the better renditions of Pad Thai Kung. This branch is quiet, comfy and spacious
-
-[Read the full review →](/food/thailand/bangkok/restaurants/black-canyon/)
-
-<hr>
-
-### Segafredo branch
-
-★★★★☆ · 26 Jun 2019
-
-Just like at the other Segafredo outlets in Thailand, you get an excellent cup of coffee at a comparatively reasonable price. Comfy seating available
-
-
-
-[Read the full review →](/food/thailand/bangkok/restaurants/segafredo-branch/)
-
-<hr>
-
-### (Not Just) Another Cup
-
-★★★★☆ · 25 Jun 2019
-
-75, 1 Sathon Soi 10, Si Lom, Bang Rak, Bangkok 10500, Thailand
-
-Just another cup, and an expensive one at that (100++). However, it was a nice cup, to be fair and the place is nice, too. But the prices really are too high
-
-[Read the full review →](/food/thailand/bangkok/restaurants/not-just-another-cup/)
-
-<hr>
-
-### KubKao' KubPla Emquartier
-
-★★★★☆ · 20 Jun 2019
-
-617 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand
-
-If you're lucky, you can get a seat with a view here. The Thai food is tasty and nicely presented, prices are reasonable by Helix standards. Some rarely seen dishes, such as ox tongue stew.  Very popular
-
-[Read the full review →](/food/thailand/bangkok/restaurants/kubkao-kubpla-emquartier/)
-
-<hr>
-
-### Krua Apsorn @Dinso
-
-★★★★☆ · 7 Jun 2019
-
-169 Dinso Rd, Wat Bowon Niwet, Phra Nakhon, Bangkok 10200, Thailand
-
-You don't come here for atmosphere, it has a cheap canteen feel to it. But the place has been immensely popular for many years with locals and tourists alike and their menu features a great variety of Thai dishes. Prices are reasonable and the food is very good. I only deduct one star because everything is cooked Ba…
-
-[Read the full review →](/food/thailand/bangkok/restaurants/krua-apsorn-dinso/)
-
-<hr>
-
-### Sung Phochana
-
-★★★★☆
-
-108 Soi Phraya Si, Wang Burapha Phirom, Phra Nakhon, Bangkok 10200, Thailand
-
-Excellent beef noodle soup in a lovely setting by the canal. A generous bowl with different types of meat costs 70 Baht.
-
-[Read the full review →](/food/thailand/bangkok/restaurants/sung-phochana/)
-
-<hr>
-
-### Hiro Omakase ひろお任せ - Samyan Mitrtown (Hiro Omakase)
-
-★★★★★
-
-อาคารศูนย์การค้าสามย่านมิตรทาวน์ ชั้น4 เลขที่ 944 Rama IV Rd, Wang Mai, Pathum Wan, Bangkok 10330, Thailand
-
-The bad reviews here are thoroughly undeserved in my opinion. The service was OK and very friendly even though we visited at a busy time. We were greeted with a complimentary scallop brochette and a cold towel. The fish and seafood was fresh and of good quality, the hokkaido scallops were amazing even, and the foie…
-
-[Read the full review →](/food/thailand/bangkok/restaurants/hiro-omakase-samyan-mitrtown-hiro-omakase/)
-
-<hr>
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Richdee's Eatery and Cafe
+subtitle: Phra Nakhon · Café
+---
+
+A nicely located café right by the canal in Banglamphu, a good place to stop if you're walking through the area. Coffee was good, with a latte at 60 baht, which is very reasonable for the location. Nothing particularly out of the ordinary, but the setting by the water makes it a pleasant place to take a break.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 7.5/10 |
+| Service         | 7.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Richdees+Eatery+Cafe+Banphanthom+Alley+Bangkok)
+☕ **Type:** Café
+💰 **Price level:** Inexpensive
