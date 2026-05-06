@@ -6,16 +6,16 @@ title: Southern Coffee by Pakin
 subtitle: Pathum Wan · Café
 ---
 
-Very comfy chairs, but the quality of the coffee is horrible and the latte came out way too hot. Overpriced for such a poor cup.
+The chairs here are very comfortable, unfortunately the coffee itself is awful. The latte arrived far too hot, quality was poor, and the prices are difficult to justify for such an undrinkable mess.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 2/10   |
-| Service         | 5/10   |
+| Service         | 6/10   |
 | Value for money | 2/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 3/10   |
 
 ### Practical
