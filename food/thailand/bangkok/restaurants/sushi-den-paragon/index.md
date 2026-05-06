@@ -6,17 +6,16 @@ title: Sushi Den – Siam Paragon
 subtitle: Pathum Wan · Japanese, Sushi
 ---
 
-Avoid this branch. The fish is fresh but the portions are smaller than at the CentralWorld branch and the nigiri fell apart on touch, not well prepared. Normally Sushi Den is a good franchise, but this branch seems lacking.
-
+This particular Sushi Den branch is noticeably weaker than others. The fish was fresh enough, but portions were smaller and the nigiri fell apart too easily. Normally the chain is reliable, but this branch feels slightly off.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 5.5/10 |
+| Food            | 6.5/10 |
 | Service         | 6/10   |
-| Value for money | 5/10   |
+| Value for money | 6/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 5.5/10 |
+| Overall         | 6/10 |
 
 ### Practical
 
