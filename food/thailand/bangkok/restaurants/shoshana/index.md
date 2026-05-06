@@ -6,7 +6,7 @@ title: Shoshana
 subtitle: Phra Nakhon · Middle Eastern
 ---
 
-Shoshana has been dishing up big plates of tasty middle eastern comfort food for many years and it's still a great place to get your falafel fill at a reasonable price. Just make sure you come hungry.
+Shoshana has been serving large portions of reliable Middle Eastern comfort food around Khao San for many years and remains one of the better places nearby for falafel and similar dishes. Just make sure you arrive hungry.
 
 ## Ratings
 
