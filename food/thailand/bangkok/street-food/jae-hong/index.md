@@ -6,17 +6,17 @@ title: Jae Hong Stir Fried Chicken Noodle
 subtitle: Pom Prap · Street Food
 ---
 
-Deep inside a small alley market this place is deservedly popular for its fried chicken and char kway teow with fresh king prawn straight from the charcoal oven. Tasty and not expensive.
+Hidden deep inside a small market alley, this place is deservedly popular for its fried chicken and char kway teow with large fresh prawns cooked over charcoal. Tasty and inexpensive.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 7/10   |
-| Overall         | 7.5/10 |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
