@@ -12,11 +12,11 @@ The Khao San area is not the backpacker food desert it used to be with lots of g
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
-| Service         | 7.5/10 |
-| Value for money | 8.5/10 |
+| Food            | 8/10 |
+| Service         | 8/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 8.5/10 |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
