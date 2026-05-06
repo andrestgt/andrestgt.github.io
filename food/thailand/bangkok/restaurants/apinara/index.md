@@ -6,17 +6,17 @@ title: Apinara
 subtitle: Pathum Wan · Thai
 ---
 
-Very upmarket Thai at Groove. Fancy interior, good service, delicious food. Generous portions, prices are correct for ambiance and quality. Without drinks a couple can have a sumptuous meal here for less than 1000 Bt. Their gorgeous Thai Appetiser sampler is a must.
+Apinara is a very upmarket Thai restaurant at Groove with stylish interiors, good service, and genuinely delicious food. Portions are generous and prices feel fair considering the setting and quality. The Thai appetiser platter is especially worth ordering.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 9/10   |
-| Value for money | 8/10   |
+| Value for money | 7.5/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
