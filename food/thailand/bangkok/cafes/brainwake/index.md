@@ -6,17 +6,17 @@ title: Brainwake Café
 subtitle: Watthana · Café
 ---
 
-Beware of cinnamon on the cappuccino (75+ Bt), other than that, very nice place, good coffee, authentic noodle soups and very fair prices.
+Apart from the unfortunate habit of putting cinnamon on cappuccino, Brainwake is a very pleasant café with good coffee, authentic noodle soups, and very fair prices.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 7.5/10 |
-| Service         | 7.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 7.5/10 |
-| Overall         | 7.5/10 |
+| Service         | 8/10 |
+| Value for money | 8.5/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
