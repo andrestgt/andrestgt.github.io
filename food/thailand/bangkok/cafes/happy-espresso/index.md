@@ -6,7 +6,7 @@ title: Happy Espresso
 subtitle: Pom Prap · Café
 ---
 
-Not comfy but there's AC, fast WiFi and the café latte is quite excellent, premium bean milk coffees go for 90 Baht. One of the best in town.
+Happy Espresso is not especially comfortable, but it has strong air conditioning, fast wifi, and genuinely excellent milk coffees made with premium beans. Around 90 Bt for a latte is very fair considering the quality.
 
 ## Ratings
 
@@ -15,8 +15,8 @@ Not comfy but there's AC, fast WiFi and the café latte is quite excellent, prem
 | Coffee          | 8.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |
-| Atmosphere      | 5.5/10 |
-| Overall         | 7.5/10 |
+| Atmosphere      | 6.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
