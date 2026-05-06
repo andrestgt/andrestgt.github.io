@@ -6,7 +6,7 @@ title: Tim Ho Wan
 subtitle: Pathum Wan · Chinese, Dim Sum
 ---
 
-Great quality dim sum. More expensive than in Hong Kong, still definitely worth a visit. Count on 8€ per pax for a small feast. Their famous pork buns seem a little bit sweeter here, personally I prefer the Hong Kong version.
+Tim Ho Wan still serves excellent dim sum and remains well worth visiting despite being more expensive than in Hong Kong. Expect around 8€ per person for a fairly substantial meal. Personally, I slightly prefer the Hong Kong version of their famous pork buns, which seem sweeter here.
 
 ## Ratings
 
