@@ -6,13 +6,13 @@ title: Yok Saeng Beef Noodle
 subtitle: Pom Prap · Noodles
 ---
 
-Old school beef noodle shop, clear broth, tender, nicely marinated meat. 70 Bt for a bowl. Not much English spoken, but there's an English menu.
+Old-school beef noodle shop serving tender marinated meat in a clear broth. A bowl costs around 70 Bt. Little English is spoken, although there is an English menu available.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 6.5/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 6.5/10 |
