@@ -12,11 +12,11 @@ Ranks high on my personal "favourite restaurants in the world" list. Unbeatable 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
+| Food            | 9.5/10   |
+| Service         | 8/10 |
+| Value for money | 10/10   |
 | Atmosphere      | 8/10   |
-| Overall         | 9/10   |
+| Overall         | 9.5/10   |
 
 ### Practical
 
