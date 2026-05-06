@@ -6,7 +6,7 @@ title: bridge art space
 subtitle: Sathon · Café
 ---
 
-For anyone who finds themselves in this part of Bangkok in need of a coffee break, this is a very good option. They use good beans here and well prepared espresso drinks are only 50–60 Bt. Friendly atmosphere. Cappuccino as in all too many places comes with cinnamon, so better go for latte or flat white.
+Anyone needing a coffee break around this part of Bangkok could do much worse than bridge art space. The beans are good, espresso drinks are well prepared and inexpensive, and the atmosphere is friendly. Better order a latte or flat white unless you enjoy cinnamon on cappuccino.
 
 ## Ratings
 
@@ -14,7 +14,7 @@ For anyone who finds themselves in this part of Bangkok in need of a coffee brea
 |-----------------|--------|
 | Coffee          | 7.5/10 |
 | Service         | 7.5/10 |
-| Value for money | 9/10   |
+| Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
 | Overall         | 7.5/10 |
 
