@@ -6,7 +6,7 @@ title: Air Space
 subtitle: Lumphini, Pathum Wan · Café
 ---
 
-Comfy and spacious. Coffees are professionally prepared and not too expensive. 90++ for a flat white. Can't comment on the food. WiFi available.
+Air Space is spacious and comfortable, with professionally prepared coffee at fairly reasonable prices for this area. A flat white costs around 90++ Bt. Wifi is available as well. I can’t comment on the food.
 
 ## Ratings
 
