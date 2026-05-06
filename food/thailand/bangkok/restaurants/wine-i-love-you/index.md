@@ -6,14 +6,14 @@ title: Wine I Love You
 subtitle: Watthana · Wine Bar, International
 ---
 
-Generic bistro food here, which is average for Bangkok but would be top notch almost everywhere else in the world. Good choice of wine at reasonable prices, some under 800 Bt. Foie gras was well cooked but small, Thai dishes are authentically spicy.
+The food here is fairly generic Bangkok bistro fare, although by global standards it would still count as very good. The wine list is reasonably priced, with some bottles under 800 Bt, and the Thai dishes remain properly spicy.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 7.5/10 |
+| Service         | 8/10 |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
