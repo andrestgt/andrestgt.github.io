@@ -15,7 +15,7 @@ The chairs here are very comfortable, unfortunately the coffee itself is awful. 
 | Coffee          | 2/10   |
 | Service         | 6/10   |
 | Value for money | 2/10   |
-| Atmosphere      | 8/10   |
+| Atmosphere      | 7/10   |
 | Overall         | 3/10   |
 
 ### Practical
