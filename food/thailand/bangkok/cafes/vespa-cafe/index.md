@@ -12,7 +12,7 @@ Quirky little soi café that does very good espresso drinks at very affordable p
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 8/10   |
+| Coffee          | 7.5/10   |
 | Service         | 7.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 7.5/10 |
