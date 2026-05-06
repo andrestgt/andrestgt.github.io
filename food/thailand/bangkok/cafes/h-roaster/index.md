@@ -6,8 +6,7 @@ title: Remedys
 subtitle: Samphanthawong, Chinatown · Café
 ---
 
-A tranquil oasis in the bustle of Chinatown. A quite fancy looking and very comfy café that is less expensive than it should be. A very nice latte is 85 Baht. They also have a small selection of craft beer and food.
-
+Remedys feels like a calm oasis in the middle of Chinatown chaos. It’s a rather elegant and extremely comfortable café serving very good coffee at prices lower than you’d expect. A latte costs around 85 Bt, and they also stock some craft beer and light food.
 ## Ratings
 
 | Category        | Score  |
@@ -15,8 +14,8 @@ A tranquil oasis in the bustle of Chinatown. A quite fancy looking and very comf
 | Coffee          | 8/10   |
 | Service         | 8/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 8.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
