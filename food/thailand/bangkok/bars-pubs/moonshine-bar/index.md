@@ -14,11 +14,11 @@ Both the cashewnut pork and the seafood noodles were so so at best.
 
 | Category        | Score  |
 |-----------------|--------|
-| Bar food        | 5/10   |
+| Bar food        | 6/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 6/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 6.5/10   |
 
 ### Practical
 
