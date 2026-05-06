@@ -6,8 +6,7 @@ title: HongKong Dimsum and Noodle
 subtitle: Phra Nakhon · Chinese, Dim Sum
 ---
 
-Convenient, modern noodle house on Phra Sumen. It's not cheap though and the quality is average.
-
+Convenient modern noodle and dim sum place on Phra Sumen Road. Unfortunately, prices are fairly high for what you get and the overall quality is only average.
 ## Ratings
 
 | Category        | Score  |
@@ -15,7 +14,7 @@ Convenient, modern noodle house on Phra Sumen. It's not cheap though and the qua
 | Food            | 6/10   |
 | Service         | 6/10   |
 | Value for money | 5.5/10 |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 6.5/10   |
 | Overall         | 6/10   |
 
 ### Practical
