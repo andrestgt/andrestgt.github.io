@@ -6,17 +6,17 @@ title: THE COFFEE CLUB – Mode Sathorn
 subtitle: Bang Rak · Café
 ---
 
-One of the few cafés in Bangkok that opens very early, and the quality of the coffees is very good but it's seriously expensive. A cup of flat white is 130+ Bt. Comfy seats, fast WiFi but no sockets.
+One of the few cafés in Bangkok that opens very early and consistently serves very good coffee. The downside is the pricing, with a flat white costing well over 130 Bt. Seating is comfortable and the wifi fast, though there are no power sockets.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8/10   |
-| Service         | 7.5/10 |
+| Service         | 8/10 |
 | Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 7/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 7.5/10   |
 
 ### Practical
 
