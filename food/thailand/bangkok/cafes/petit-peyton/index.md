@@ -6,7 +6,7 @@ title: Petit Peyton Travelogue Cafe
 subtitle: Phra Nakhon · Café
 ---
 
-Really beautifully decorated vintage café with book shelves and grand old fauteuils. Nicely prepared coffees and moderately priced. Easily the best coffee shop in the area.
+Beautifully decorated vintage café with bookshelves, old armchairs, and a genuinely cosy atmosphere. The coffee is well prepared, prices are moderate, and overall this is probably the nicest café in the area.
 
 ## Ratings
 
@@ -15,7 +15,7 @@ Really beautifully decorated vintage café with book shelves and grand old faute
 | Coffee          | 8/10   |
 | Service         | 8/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10   |
 | Overall         | 8.5/10 |
 
 ### Practical
