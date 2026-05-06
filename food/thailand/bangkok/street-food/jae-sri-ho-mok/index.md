@@ -12,11 +12,11 @@ Very delicious charcoal grilled Ho Mok (Amok). Only 25 Bt each. No English spoke
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 7/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
