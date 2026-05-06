@@ -6,7 +6,7 @@ title: Bake Brothers
 subtitle: Khlong Toei Nuea · Café
 ---
 
-Spacious café in Terminal 21. Cappuccino is pretty good and reasonably priced (75 Bt).
+Bake Brothers is a spacious café inside Terminal 21 serving fairly good cappuccino at reasonable prices. A cup costs around 75 Bt.
 
 ## Ratings
 
