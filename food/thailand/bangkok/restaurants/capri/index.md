@@ -6,17 +6,16 @@ title: Capri
 subtitle: Wat Phraya Krai, Bang Kho Laem · Italian
 ---
 
-Come for the weekday 2 for 1 special and you get very good Italian pizza at a great price. The rest of the menu is not cheap but quality is above average. It might look generic and touristy, but it's not a bad place at all if you're in the area.
-
+If you come during the weekday two-for-one promotion, Capri offers very good Italian pizza at excellent prices. The rest of the menu is more expensive, but quality is above average. It may look slightly generic and touristy, though it’s actually not a bad place at all.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7.5/10 |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7/10   |
-| Overall         | 7.5/10 |
+| Value for money | 8/10 |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
