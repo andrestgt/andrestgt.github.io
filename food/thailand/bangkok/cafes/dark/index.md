@@ -6,17 +6,17 @@ title: D'ARK
 subtitle: Watthana · Specialty Coffee
 ---
 
-Yes, it's very expensive, but D'ARK is a super attractive café and the cappuccino here is probably the best I've had in Bangkok (115 Baht+), smooth but strong at the same time, just perfect.
+D’ARK is undeniably expensive, but it’s also one of the nicest cafés in Bangkok. The cappuccino is probably the best I’ve had in the city, smooth yet strong at the same time, and worth the 115+ Bt price tag.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 9/10   |
-| Service         | 8/10   |
-| Value for money | 6.5/10 |
+| Coffee          | 9.5/10   |
+| Service         | 9/10   |
+| Value for money | 7/10 |
 | Atmosphere      | 9/10   |
-| Overall         | 8.5/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
