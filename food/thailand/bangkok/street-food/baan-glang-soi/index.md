@@ -6,7 +6,7 @@ title: Baan Glang Soi
 subtitle: Bang Rak · Thai, Noodles
 ---
 
-Inexpensive little restaurant with guest rooms in a quiet Bang Rak side street. A neat and friendly place geared towards tourists, they double as a street stall soup kitchen in the morning where you can get a hearty bowl of noodle soup for 50 Bt.
+Baan Glang Soi is an inexpensive little restaurant with guest rooms tucked away in a quiet Bang Rak side street. In the mornings they also run a small street-side soup kitchen serving hearty noodle soup for around 50 Bt.
 
 ## Ratings
 
