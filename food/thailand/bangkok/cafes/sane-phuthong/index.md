@@ -12,10 +12,10 @@ I've been to Bangkok many times and been to many cafés but this is probably the
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 8.5/10 |
+| Coffee          | 8/10 |
 | Service         | 8.5/10 |
 | Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 9.5/10   |
 | Overall         | 9/10   |
 
 ### Practical
