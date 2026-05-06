@@ -6,8 +6,7 @@ title: Pan Kham Hom – The Street Ratchada
 subtitle: Din Daeng · Food Court
 ---
 
-Pleasant food court that is never crowded, so it's one of the few places in town to eat comfortably even at lunch time. Quality is good, there's a nice Khao Soi place (T12) and prices are reasonable.
-
+Pleasant food court that somehow never feels overcrowded, making it one of the more comfortable places to eat during lunch hours. Prices are reasonable, quality is good, and the khao soi stall is particularly worth trying.
 ## Ratings
 
 | Category        | Score  |
