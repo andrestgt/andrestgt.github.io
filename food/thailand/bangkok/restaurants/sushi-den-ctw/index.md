@@ -6,8 +6,7 @@ title: Sushi Den @ CentralWorld
 subtitle: Pathum Wan · Japanese, Sushi
 ---
 
-Very good fresh sashimi at reasonable prices, although I wasn't entirely convinced by the other dishes. The unagi roll was okay, the chicken balls still had bone inside, salmon head was good.
-
+The sashimi here is fresh and reasonably priced, although some of the cooked dishes are less convincing. The salmon head was very good, the unagi roll acceptable, while the chicken balls unfortunately still contained bits of bone.
 ## Ratings
 
 | Category        | Score  |
