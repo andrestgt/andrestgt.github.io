@@ -6,17 +6,16 @@ title: Segafredo Zanetti Espresso – Rama 9
 subtitle: Huai Khwang · Café
 ---
 
-I like most Segafredo espresso bars in Bangkok. There's usually comfy seats, the coffee is always smooth and expertly prepared, they never attempt to put cinnamon on your cappuccino and a cup for under 100 Bt.
-
+Segafredo remains one of the more reliable coffee chains in Bangkok. The seating is usually comfortable, the espresso drinks are consistently smooth and professionally prepared, and thankfully they never put cinnamon on cappuccino. Staying under 100 Bt per cup also helps.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8.5/10 |
-| Service         | 8/10   |
+| Service         | 7.5/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
