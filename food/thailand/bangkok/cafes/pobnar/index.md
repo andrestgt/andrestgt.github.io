@@ -17,10 +17,10 @@ It's your typical slightly uncomfortable hipster setup, but the coffee makes up 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 9/10   |
-| Service         | 7.5/10 |
+| Service         | 7/10 |
 | Value for money | 8.5/10 |
-| Atmosphere      | 6.5/10 |
-| Overall         | 8/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
