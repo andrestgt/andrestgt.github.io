@@ -6,7 +6,7 @@ title: AKART Bistro & Bar
 subtitle: Sathon · Specialty Coffee
 ---
 
-Excellent cappuccino for under 100 Bt, free drinking water, nice decor. Recommended.
+AKART serves excellent cappuccino for under 100 Bt, has free drinking water, and a nicely designed interior. Very easy place to recommend.
 
 ## Ratings
 
@@ -14,8 +14,8 @@ Excellent cappuccino for under 100 Bt, free drinking water, nice decor. Recommen
 |-----------------|--------|
 | Coffee          | 8.5/10 |
 | Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
+| Value for money | 8/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8.5/10 |
 
 ### Practical
