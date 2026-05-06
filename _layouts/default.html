@@ -883,12 +883,16 @@
       var lbCaption = document.getElementById('lightbox-caption');
       var lbClose = document.getElementById('lightbox-close');
 
+      var _scrollY = 0;
+
       function openLightbox(src, alt) {
         lbImg.src = src;
         lbCaption.textContent = alt || '';
         overlay.classList.add('active');
-        // iOS-compatible scroll lock
+        // iOS-compatible scroll lock — save position first
+        _scrollY = window.scrollY || window.pageYOffset;
         document.body.style.position = 'fixed';
+        document.body.style.top = '-' + _scrollY + 'px';
         document.body.style.width = '100%';
         document.body.style.overflow = 'hidden';
       }
@@ -897,8 +901,11 @@
         overlay.classList.remove('active');
         lbImg.src = '';
         document.body.style.position = '';
+        document.body.style.top = '';
         document.body.style.width = '';
         document.body.style.overflow = '';
+        // Restore scroll position
+        window.scrollTo(0, _scrollY);
       }
 
       // Attach click AND touch to all images in page-body
