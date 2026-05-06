@@ -6,17 +6,17 @@ title: NOB café
 subtitle: Bang Rak · Specialty Coffee
 ---
 
-Friendly service, reasonable prices. 85 Bt for a large cappuccino. There are two different roasts to choose from. I went for medium roasted, which sadly tasted rather bitter and unsubtle. Maybe the other roast is better.
+Friendly café with fair prices and a choice of different coffee roasts. The medium roast cappuccino I tried tasted slightly bitter and unsubtle, though perhaps the lighter roast works better.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 6/10   |
-| Service         | 7.5/10 |
+| Coffee          | 6.5/10   |
+| Service         | 8/10 |
 | Value for money | 7/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 6.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 7/10 |
 
 ### Practical
 
