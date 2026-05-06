@@ -6,7 +6,7 @@ title: Jaywalk Cafe
 subtitle: Phra Nakhon · Café
 ---
 
-Tiny, simple café, no sofas, not even a bathroom. But in an area not blessed with nice cafés, this is a good option. Cappuccino is very well prepared, nice and smooth, 70 Bt.
+Jaywalk is tiny and extremely simple, without sofas or even a bathroom, but in an area not exactly blessed with quality cafés it’s still a very good option. The cappuccino is smooth, well prepared, and costs only 70 Bt.
 
 ## Ratings
 
