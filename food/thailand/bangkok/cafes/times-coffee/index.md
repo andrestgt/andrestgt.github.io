@@ -6,16 +6,15 @@ title: Time's Coffee
 subtitle: Bang Rak · Specialty Coffee
 ---
 
-Tiny coffee shop with just a few tables. Not a place for spending a comfy lazy afternoon, but the espresso drinks are excellent, and great value. 70 Bt for a cappuccino.
-
+Tiny coffee shop with only a few tables, so not really somewhere for a long lazy afternoon. The espresso drinks are excellent, though, and 70 Bt for a cappuccino is very good value.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Coffee          | 8.5/10 |
 | Service         | 7.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 5.5/10 |
+| Value for money | 8.5/10   |
+| Atmosphere      | 6/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
