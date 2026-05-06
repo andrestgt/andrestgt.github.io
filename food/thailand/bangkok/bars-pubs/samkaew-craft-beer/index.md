@@ -18,11 +18,11 @@ The place fills up quickly and gets quite busy as the evening goes on, with live
 
 | Category        | Score  |
 |-----------------|--------|
-| Bar food        | 9/10   |
-| Service         | 9/10   |
+| Bar food        | 8/10   |
+| Service         | 8/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
