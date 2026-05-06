@@ -15,9 +15,9 @@ Friendly place on Rambuttri, although there's nothing stand out about it. We wer
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 7.5/10 |
-| Service         | 9/10   |
+| Service         | 8/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
