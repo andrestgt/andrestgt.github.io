@@ -6,17 +6,17 @@ title: Dean & Deluca
 subtitle: Bang Rak · Café & Deli
 ---
 
-Good coffees and cheesecakes. Quite pricy and fancy. The Cube branch has comfy seating upstairs and is the best in Bangkok.
+Dean & Deluca serves good coffee and very decent cheesecakes in fairly fancy surroundings. Prices are high, but the Cube branch upstairs has especially comfortable seating and is probably the best branch in Bangkok.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7.5/10 |
-| Service         | 7.5/10 |
+| Coffee          | 8/10 |
+| Service         | 8/10 |
 | Value for money | 6/10   |
 | Atmosphere      | 8/10   |
-| Overall         | 7/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
