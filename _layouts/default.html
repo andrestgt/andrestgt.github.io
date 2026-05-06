@@ -278,10 +278,9 @@
     body.food.food-country.maluku .site-hero { background-image: url("/photos/background/malukuhead.jpg"); }
     body.food.food-country.java .site-hero { background-image: url("/photos/background/javahead.jpg"); }
     body.food.food-country.sumatra .site-hero { background-image: url("/photos/background/sumatrahead.jpg"); }
-    body.java .site-hero { background-image: url("/photos/background/javahead.jpg") !important; }
-    body.sumatra .site-hero { background-image: url("/photos/background/sumatrahead.jpg") !important; }
     body.food.food-country.bali .site-hero { background-image: url("/photos/background/balihead.jpg"); }
     body.java .site-hero { background-image: url("/photos/background/javahead.jpg") !important; }
+    body.sumatra .site-hero { background-image: url("/photos/background/sumatrahead.jpg") !important; }
     body.bali .site-hero { background-image: url("/photos/background/balihead.jpg") !important; }
 
     /* Indonesia city landing pages */
@@ -905,8 +904,15 @@
       // Attach click AND touch to all images in page-body
       var images = document.querySelectorAll('.page-body img');
       images.forEach(function(img) {
-        // Make sure image is not inside an <a> tag already
         img.style.cursor = 'zoom-in';
+
+        // If image is wrapped in an <a> tag, prevent that link from firing
+        var parentLink = img.parentNode && img.parentNode.tagName === 'A' ? img.parentNode : null;
+        if (!parentLink && img.closest) { parentLink = img.closest('a'); }
+        if (parentLink) {
+          parentLink.addEventListener('click', function(e) { e.preventDefault(); e.stopPropagation(); });
+          parentLink.addEventListener('touchend', function(e) { e.preventDefault(); e.stopPropagation(); }, { passive: false });
+        }
 
         function handleOpen(e) {
           e.preventDefault();
