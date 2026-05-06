@@ -6,17 +6,16 @@ title: Khanom Jeep Tom Hia Sek
 subtitle: Bangkok Yai · Street Food, Dumplings
 ---
 
-We bought their dumplings from a stall in Terminal 21. Really delicious, thin dough, tasty filling. 100 Bt for a box of 10.
-
+We bought these dumplings from a stall in Terminal 21 and they turned out to be genuinely excellent. Thin wrappers, tasty filling, and 100 Bt for ten pieces felt fair.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 7.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 9/10   |
+| Food            | 8.5/10   |
+| Service         |  |
+| Value for money | 8/10   |
+| Atmosphere      |    |
+| Overall         | 8/10   |
 
 ### Practical
 
