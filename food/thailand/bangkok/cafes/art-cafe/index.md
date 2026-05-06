@@ -6,7 +6,7 @@ title: Art Cafe & Bistro
 subtitle: Phra Nakhon · Café
 ---
 
-Very cozy and comfy little café with strong, well prepared cappuccino at a very reasonable price. Great find in this area.
+Very cosy and comfortable little café with strong, well-prepared cappuccino at a very reasonable price. A great find in this part of Bangkok.
 
 ## Ratings
 
