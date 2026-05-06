@@ -6,17 +6,17 @@ title: Hong Bao Central Embassy
 subtitle: Pathum Wan · Chinese, Dim Sum
 ---
 
-Fancy, and quite wonderful dim sum restaurant. Only a tiny notch down from Crystal Jade in terms of quality as well as price level but their dim sum menu is the best, most varied I've seen in a while.
+Hong Bao is an excellent dim sum restaurant with a very extensive menu and consistently high quality. It’s only a small step below Crystal Jade in both quality and pricing, which is definitely meant as praise.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 8.5/10 |
 | Value for money | 7.5/10 |
 | Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
