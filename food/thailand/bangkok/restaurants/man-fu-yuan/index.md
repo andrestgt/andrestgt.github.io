@@ -6,17 +6,17 @@ title: Man Fu Yuan
 subtitle: Watthana · Chinese, Dim Sum
 ---
 
-Top quality dim sum in the fantastic atmosphere of the stunning new Helix mall. Obviously expensive, 100–150 Bt for a basket of 3. Still, highly recommended for a dim sum break in EmQuartier.
+Very high-quality dim sum inside the impressive Helix complex at EmQuartier. Prices are obviously high, around 100–150 Bt for a basket of three pieces, but the quality justifies it and the atmosphere is excellent.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
 | Food            | 8.5/10 |
-| Service         | 8/10   |
-| Value for money | 6.5/10 |
+| Service         | 8.5/10   |
+| Value for money | 7.5/10 |
 | Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
