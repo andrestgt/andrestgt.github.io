@@ -15,7 +15,7 @@ Beer here is indeed very good, and by Bangkok standards, reasonably priced. The 
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 9/10   |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
