@@ -6,17 +6,17 @@ title: Madamzabb
 subtitle: Don Mueang · Thai
 ---
 
-This little, tidy hole-in-the-wall place cooks up a small menu of absolutely delicious Thai standards at rock-bottom prices. Try the crab fried rice or the sukiyaki. If you're on a layover at Don Mueang, or staying around the area, pay Madamzabb a visit.
+Madamzabb is a tiny and very tidy hole-in-the-wall restaurant serving delicious Thai comfort food at rock-bottom prices. The crab fried rice and sukiyaki are especially good. If you’re near Don Mueang Airport, this place is well worth seeking out.
 
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 9/10   |
-| Service         | 8/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 7.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10   |
+| Atmosphere      | 7/10 |
+| Overall         | 8/10   |
 
 ### Practical
 
