@@ -6,7 +6,7 @@ title: Melt in Your Mouth
 subtitle: Chiang Rai · Café
 ---
 
-Very attractive café by the river, with a good variety of food and desserts. Cappuccino is very good, food quality is high. Prices are on the higher side by Chiang Rai standards, but still reasonable.
+Melt In Your Mouth is a very attractive riverside café with a good range of food and desserts. The cappuccino is very good, food quality is consistently high, and although prices are slightly expensive by Chiang Rai standards, they still feel reasonable overall.
 
 ## Ratings
 
