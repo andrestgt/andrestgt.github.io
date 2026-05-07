@@ -402,6 +402,20 @@ Our first week in Banda consisted mainly of walks and snorkelling trips. The isl
 One unusual thing about Banda Neira is that it is probably one of the very few places in the world where you can simply take a walk along the runway of the local airport. It is not exactly a comfortable walk when the sun is out, because there is no shade at all, but it is certainly an unusual experience and the views are spectacular, with the sea on both sides and the volcano of Banda Api rising dramatically across the water.
 Apart from the historic old town, Banda Neira also has a very picturesque traditional fishermen’s neighborhood with brand new pathways connecting the narrow alleys on stilts above the water. Everyone there is extremely friendly, and it is a real pleasure to wander through the area.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/banda15.jpg" alt="Bandaneira">
+    <em>Bandaneira</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/banda16.jpg" alt="Bandaneira">
+    <em>Bandaneira</em>
+  </figure>
+
+</div>
+
 At the end of one of these alleys, hidden away above the water and not signposted at all, is a small place called Cafe Terapung, which serves the best food on the island. It is a simple grilled fish restaurant without any printed menu. You just order the ikan bakar and are presented with a feast of perfectly grilled and marinated white fish together with side dishes such as aubergines and water spinach. Even from the side dishes alone you can tell that there is real culinary competence in the kitchen here, because they simply taste better than anywhere else on the island. The whole meal is also remarkably inexpensive. A feast for three people, including three grilled fish dishes and all the sides, cost us only about 250K in total. Considering the quantity and especially the quality of the food, it is an absolute bargain.
 
 We also had a couple of nice dinners in the beautiful courtyard garden of Delfika. The food here tends to be a little on the sweet side, but it is generally very tasty. They serve the usual dishes you find all over the island, fried aubergines either with kenari nut sauce or kecap manis, gado-gado, cumi goreng, tuna steak and similar classics. Everything is freshly prepared and takes quite a long time to arrive, but that is pretty much what you can expect anywhere on the island, so it is not really a problem. Prices are very reasonable considering the beautiful surroundings.
