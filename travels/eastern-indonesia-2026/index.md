@@ -91,6 +91,11 @@ The downside is the location. Kri is far more built up in that area than the qui
 
 One thing that genuinely surprised me was the food at Bongso Homestay. Dinner was very, very good, mackerel, aubergines, other vegetables, rice, corn fritters, plus bananas and dragon fruit. I’m not entirely convinced the meals at the other places will be as good as here, somehow I doubt it.
 
+<figure>
+  <img src="/photos/travelogues/rj33.jpg" alt="Bongso Homestay">
+  <em>Bongso Homestay</em>
+</figure>
+
 
 ## 16 February 2026
 
