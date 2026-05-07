@@ -6,7 +6,26 @@ title: Jiraporn Shop
 subtitle: Chiang Rai · Thai
 ---
 
-Delicious local food in a beautiful non-touristy spot by the river out of town. A whole fried fish is 150 baht.
+<figure>
+  <img src="/photos/thailand/chiang-rai/js1.jpg" alt="Chiang Rai River">
+  <figcaption>Chiang Rai River</figcaption>
+</figure>
+
+Jiraporn Shop serves delicious local food in a beautiful non-touristy riverside setting outside town. A whole fried fish costs only around 150 Bt, which is excellent value.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/thailand/chiang-rai/js2.jpg" alt="Fried fish">
+    <figcaption>Fried fish</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/photos/thailand/chiang-rai/js3.jpg" alt="Grilled cockles">
+    <figcaption>Grilled cockles</figcaption>
+  </figure>
+
+</div>
 
 ## Ratings
 
