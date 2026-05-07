@@ -5,8 +5,16 @@ review: true
 title: Sweet Maesalong Cafe
 subtitle: Mae Salong · Café
 ---
+<figure>
+  <img src="/photos/thailand/chiang-rai/sms1.jpg" alt="">
+</figure>
 
-Quality coffees with a beautiful view from the mountainside terrace. A must pit stop when in this area. 65 baht for a cappuccino.
+Sweet Maesalong Café serves very good coffee on a beautiful mountainside terrace with sweeping views over the hills. A cappuccino costs around 65 Bt, and overall this is an essential stop if you’re travelling through the area.
+
+<figure>
+  <img src="/photos/thailand/chiang-rai/sms2.jpg" alt="Terrace view">
+  <figcaption>Terrace view</figcaption>
+</figure>
 
 ## Ratings
 
