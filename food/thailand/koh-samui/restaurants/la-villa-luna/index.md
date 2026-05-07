@@ -6,7 +6,17 @@ title: La Villa Luna Restaurant
 subtitle: Mae Nam · Italian
 ---
 
-Pizza from the wood fired oven, thin crust with sparse but high quality toppings. Really liked the napoli (230 Bt), wasn't a fan of the chorizo. Quite pricey, but their happy hour cocktails are good value and it's generally a nice place.
+<figure>
+  <img src="/photos/thailand/koh-samui/vl1.jpg" alt="La Villa Luna">
+  <figcaption>La Villa Luna</figcaption>
+</figure>
+
+La Villa Luna serves very good thin-crust pizzas from a wood-fired oven with relatively sparse but high-quality toppings. The Napoli pizza was excellent, while the chorizo version was less convincing. Prices are definitely on the high side, although the happy hour cocktails are good value and the overall atmosphere makes it an enjoyable place to spend an evening.
+
+<figure>
+  <img src="/photos/thailand/koh-samui/vl2.jpg" alt="Pizza Napoli">
+  <figcaption>Pizza Napoli</figcaption>
+</figure>
 
 ## Ratings
 
