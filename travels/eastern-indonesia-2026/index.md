@@ -223,6 +223,20 @@ Our departure day started with the first proper breakfast we had at Kordiris Div
 
 Kordiris is probably the one place I would recommend without hesitation and would gladly return to. The dive centre is likely better suited to experienced divers, as the whole operation is fairly laissez-faire, which I personally appreciate, but it may not be ideal for everyone. At 500,000 rupiah per dive, including equipment, it is probably among the cheapest diving you can get in Raja Ampat. The gear was in decent condition, and overall I would highly recommend diving here.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/rj25.jpg" alt="Kordiris Dive Homestay">
+    <em>Kordiris Dive Homestay</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/rj26.jpg" alt="Kordiris Dive Homestay">
+    <em>Kordiris Dive Homestay</em>
+  </figure>
+
+</div>
+
 Sadly, we then had to leave and take the ferry from Waisai back to Sorong. Transport to Waisai cost 500,000 rupiah, which we were able to share with others heading for the afternoon ferry.
 I was not looking forward to the return journey after our unpleasant experience on the way in. Executive class was sold out, so we had to take economy again, this time not voluntarily. Fortunately, the trip turned out much better. The air conditioning worked, there was no unpleasant smell, the ferry was not crowded, and there were even a few empty seats. It ended up being a smooth two-hour crossing back to Sorong.
 
