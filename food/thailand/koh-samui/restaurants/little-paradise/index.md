@@ -6,7 +6,24 @@ title: Little Paradise
 subtitle: Mae Nam · Thai, Seafood
 ---
 
-Magical little spot. A throwback to a different era, on a ridiculously picturesque empty beach. Good shakes, delicious fresh coconut.
+<figure>
+  <img src="/photos/thailand/koh-samui/lp1.jpg" alt="Little Paradise">
+  <figcaption>Little Paradise</figcaption>
+</figure>
+
+Little Paradise feels like a throwback to a different era, set on an almost absurdly picturesque and nearly empty beach. The fresh coconuts and fruit shakes are excellent, and overall the place really lives up to its name.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/thailand/koh-samui/lp2.jpg" alt="">
+  </figure>
+
+  <figure>
+    <img src="/photos/thailand/koh-samui/lp3.jpg" alt="">
+  </figure>
+
+</div>
 
 ## Ratings
 
