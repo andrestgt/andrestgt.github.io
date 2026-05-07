@@ -6,7 +6,18 @@ title: Melt in Your Mouth
 subtitle: Chiang Rai · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-rai/miym1.jpg" alt="Melt in Your Mouth terrace">
+  <figcaption>Melt in Your Mouth terrace</figcaption>
+</figure>
+
+
 Melt In Your Mouth is a very attractive riverside café with a good range of food and desserts. The cappuccino is very good, food quality is consistently high, and although prices are slightly expensive by Chiang Rai standards, they still feel reasonable overall.
+
+<figure>
+  <img src="/photos/thailand/chiang-rai/miym2.jpg" alt="Cappuccino">
+  <figcaption>Cappuccino</figcaption>
+</figure>
 
 ## Ratings
 
