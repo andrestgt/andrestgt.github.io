@@ -6,8 +6,7 @@ title: Charin Garden Resort
 subtitle: Mae Suai · Café
 ---
 
-Cakes here are really delicious, and well priced. Coffee is not so good, however, but it's worth stopping for the cakes and pies alone.
-
+The cakes and pies here are really delicious and surprisingly inexpensive. The coffee is fairly mediocre, unfortunately, but the desserts alone still make this place worth stopping for.
 ## Ratings
 
 | Category        | Score  |
