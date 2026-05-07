@@ -101,6 +101,11 @@ One thing that genuinely surprised me was the food at Bongso Homestay. Dinner wa
 
 The next morning we finally moved over to Ransiwor Island and into the homestay we had originally booked, though not before making the most of the unexpected detour. This part of Kri is very congested with bungalows for a reason: the snorkelling right off the jetty in front of Soul Divers is considered among the better spots in Raja Ampat. And it really was quite beautiful. The coral isn’t in perfect condition, but honestly, where is it these days? Even so, Raja Ampat still seems to have healthier reefs than many other places. You can clearly see some stress and damage, but when it comes to fish life, it’s spectacular. Huge schools of small fish everywhere, but also quite a lot of surprisingly big reef fish. All the classic reef species seemed to be there, visibility was excellent, and at times it genuinely felt like swimming inside an aquarium.
 
+<figure>
+  <img src="/photos/travelogues/rj34.jpg" alt="Kri – Soul Divers Jetty">
+  <em>Kri – Soul Divers Jetty</em>
+</figure>
+
 As for the accommodation itself, Black Tip Homestay, location-wise, it almost can’t be beat. Ransiwor is just a tiny island between Kri and Mansuar, and at low tide there are picturesque sandbars which you can even use to walk between the islands. It’s a spot of incredible beauty. There’s a small beach at all times here, and just three bungalows built on stilts. And make no mistake, they’re super bare-bones basic, as basic as it gets. There’s literally just a mattress, a mosquito net, and a small table inside the room, plus a small hammock outside on the terrace. Oh yeah, there’s a fan, but that really isn’t necessary. There’s always a breeze here and electricity is only available at night anyway, supposedly from 6 p.m. to midnight.
 
 <div class="photo-row">
