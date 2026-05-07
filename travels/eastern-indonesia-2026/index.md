@@ -32,6 +32,20 @@ That was a pity, because I’d been looking forward to having one last proper me
 In the end, I just ate at the airport. Surprisingly decent food at Bangi Café, and also unexpectedly inexpensive for an airport, so that worked out fine.
 My 2:40 a.m. Lion Air flight to Sorong was, somewhat remarkably, right on time. I arrived as scheduled at 6 a.m. on Saturday morning.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/sorong3.jpg" alt="Sorong">
+    <em>Sorong</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/sorong4.jpg" alt="Sorong">
+    <em>Sorong</em>
+  </figure>
+
+</div>
+
 So, I arrived in Sorong. The flying was done for the moment, but that didn’t mean the ordeal was over. The 9 a.m. ferry had been cancelled, or rather, the schedule had changed a few weeks earlier, so on Saturdays there’s only one ferry to Waisai, the afternoon one at 2 p.m.
 
 After meeting Mona at the airport, we suddenly had quite a bit of time to kill in Sorong, but obviously no real chance to rest or sleep properly.
