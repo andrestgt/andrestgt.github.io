@@ -6,7 +6,26 @@ title: Kiao Siang Hai Restaurant
 subtitle: Chiang Saen · Chinese
 ---
 
-Unexpected Chinese food on the river road of this sleepy town. It's a ramshackle basic open air eatery with very tasty home made Shanghai style dumplings. Not cheap, but recommended. Chinese style larb muu is good too.
+<figure>
+  <img src="/photos/thailand/chiang-rai/ksh1.jpg" alt="Menu">
+  <figcaption>Menu</figcaption>
+</figure>
+
+Finding homemade Shanghai-style dumplings in sleepy Chiang Saen is slightly unexpected, but this ramshackle open-air roadside restaurant does them very well. Prices are not especially low, though the food is tasty enough to justify them. The Chinese-style larb moo is also worth trying.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/thailand/chiang-rai/ksh2.jpg" alt="Dumplings">
+    <figcaption>Dumplings</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/photos/thailand/chiang-rai/ksh3.jpg" alt="Larb moo">
+    <figcaption>Larb moo</figcaption>
+  </figure>
+
+</div>
 
 ## Ratings
 
