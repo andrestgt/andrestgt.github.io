@@ -288,6 +288,20 @@ Ambon has a very pleasant little airport. We received our bags in no time and im
 So we chose a third option. We simply walked about 50 metres out of the airport gate and found a very friendly bemo driver who agreed to take us, luggage and all, for 25K per person straight to our hotel in the city. An excellent deal.
 It was, of course, a bemo, and there were a few other passengers, but we had plenty of space, including enough room for our luggage. The half-hour ride into town was surprisingly comfortable, and we saved a nice amount of money. Perfect.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/travelogues/rj28.jpg" alt="Ambon Pattimura Airport">
+    <em>Ambon Pattimura Airport</em>
+  </figure>
+
+  <figure>
+    <img src="/photos/travelogues/rj29.jpg" alt="Liang Beach">
+    <em>Liang Beach</em>
+  </figure>
+
+</div>
+
 Getting to the Banda Islands proved, as expected, far from straightforward. There was supposed to be a flight on a tiny plane once a week, but only on Mondays. The problem was that the plane had already left on the day we arrived in Ambon, and waiting an entire week was simply not an option. So flying was out.
 I had contacted the ticket agent for the fast ferry, which is meant to run every Thursday, but was told it definitely won’t operate before March. So that option disappeared as well.
 Our last alternative was a PELNI boat. According to the app, there was a daytime sailing on Friday with a travel time of around nine hours, which sounded perfectly manageable. I had already booked the tickets online in Sorong, just to be on the safe side in case the plane or fast ferry didn’t work out. So yes, it looks like it will be PELNI after all.
