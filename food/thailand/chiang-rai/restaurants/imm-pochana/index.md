@@ -6,9 +6,26 @@ title: Imm Pochana
 subtitle: Mae Salong · Yunnanese / Thai
 ---
 
-Sumptuous pork knuckle stew, fresh forest mushrooms, and Yunnan-style fried noodles — all very tasty. Portions are generous and prices remain reasonable.
+<figure>
+  <img src="/photos/thailand/chiang-rai/ip1.jpg" alt="Imm Pochana">
+  <figcaption>Imm Pochana</figcaption>
+</figure>
 
-Service is rough around the edges, closer to what you’d expect in rural China than Thailand, but that’s part of the charm rather than a drawback.
+Imm Pochana serves excellent Yunnan-influenced food with generous portions and fair prices. The pork knuckle stew, forest mushrooms, and fried noodles are all particularly good. Service is chaotic and rather indifferent in the traditional Chinese style, but somehow that just adds to the atmosphere.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="/photos/thailand/chiang-rai/ip2.jpg" alt="Pork knuckle">
+    <figcaption>Pork knuckle</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/photos/thailand/chiang-rai/ip3.jpg" alt="Wild mushrooms">
+    <figcaption>Wild mushrooms</figcaption>
+  </figure>
+
+</div>
 
 ## Ratings
 
