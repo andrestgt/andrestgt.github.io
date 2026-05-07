@@ -6,7 +6,12 @@ title: The Garage Life
 subtitle: Mae Nam · Café
 ---
 
-Quirky café with nicely presented beverages, less expensive than it seems. A nice flat white is 70 Baht.
+The Garage Life is a quirky little café serving nicely presented drinks at prices that are actually more reasonable than the stylish setting might suggest. A very decent flat white costs around 70 Bt.
+
+<figure>
+  <img src="/photos/thailand/koh-samui/gl.jpg" alt="The Garage Life">
+  <figcaption>The Garage Life</figcaption>
+</figure>
 
 ## Ratings
 
