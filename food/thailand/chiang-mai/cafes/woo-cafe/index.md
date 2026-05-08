@@ -6,7 +6,7 @@ title: Woo Cafe Art Gallery
 subtitle: Chang Moi · Café
 ---
 
-Very good cappuccino here, a big cup for 80 Bt. Great decor, some very comfy sofas. Food prices are over the top though.
+Stylish café with striking décor, very comfortable sofas and the kind of polished setting that invites you to linger over a coffee. The cappuccino is very good and comes in a satisfyingly large cup for 80 baht. ood prices, however, feel decidedly inflated for Chiang Mai.
 
 ## Ratings
 
