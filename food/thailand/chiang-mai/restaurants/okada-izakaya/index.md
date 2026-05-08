@@ -6,7 +6,7 @@ title: Okada Izakaya
 subtitle: Nimman · Japanese
 ---
 
-Attractive, mid-priced izakaya in Nimman with tasty sashimi, yakitori and rolls. Draft Asahi for under 100 Bt. Very friendly service and good atmosphere. Recommended.
+Attractive mid-range izakaya in Nimman with a lively atmosphere, friendly service and an extensive menu of Japanese favourites. The sashimi was fresh, the yakitori nicely done, and the rolls satisfying enough, while draft Asahi for under 100 baht is very reasonable for this part of town. An easy recommendation for a relaxed evening out.
 
 ## Ratings
 
