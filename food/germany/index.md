@@ -8,8 +8,8 @@ subtitle: Restaurants, cafés and bars across Germany
 
 # Germany
 
-- [Baden-Württemberg](/food/germany/bade-wuerttemberg/)
-- [Bayern](/food/germany/bayrn/)
+- [Baden-Württemberg](/food/germany/baden-wuerttemberg/)
+- [Bayern](/food/germany/bayern/)
 - [Berlin](/food/germany/berlin/)
 - [Brandenburg](/food/germany/brandenburg/)
 - [Hessen](/food/germany/hessen/)
