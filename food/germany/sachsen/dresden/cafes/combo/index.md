@@ -3,23 +3,13 @@ layout: default
 section: food
 review: true
 title: Combo
-subtitle: Äußere Neustadt · Café
+subtitle: Dresden Neustadt · Café
 ---
 
-Very funky 70s decor with reasonable prices. The coffee here is of the burnt variety, similar to French café noir, which is not my preference, but actually works well in this retro setting.
-
-## Ratings
-
-| Category        | Score   |
-|-----------------|---------|
-| Coffee          | 6.5/10 |
-| Service         | 7/10 |
-| Value for money | 7.5/10 |
-| Atmosphere      | 8.5/10  |
-| Overall         | 7/10 |
+Very funky 70s decor with reasonable prices. The coffee is on the burnt side — which is either exactly what you want or not quite what you expected.
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Combo+Dresden+Louisenstraße)
-☕ **Type:** Café
-💰 **Price level:** Inexpensive
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Louisenstraße+66+01099+Dresden+Germany)
+📍 Louisenstraße 66, 01099 Dresden, Germany
+💰 —

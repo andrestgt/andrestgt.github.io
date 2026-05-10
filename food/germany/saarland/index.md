@@ -1,15 +1,18 @@
 ---
 layout: default
 section: food
-country: germany
-state: saarland
+slug: saarland
 title: Saarland
-subtitle: Essen & Trinken im Saarland
+subtitle: Essen & Trinken in Saarland
 ---
+
 # Saarland
 
-- [Saarbrücken](/food/germany/saarland/saarbruecken/)
-- [Merzig](/food/germany/saarland/merzig/)
-- [Losheim](/food/germany/saarland/losheim/)
-- [Kirkel](/food/germany/saarland/kirkel/)
 - [Illingen](/food/germany/saarland/illingen/)
+- [Kirkel](/food/germany/saarland/kirkel/)
+- [Losheim am See](/food/germany/saarland/losheim-am-see/)
+- [Merzig](/food/germany/saarland/merzig/)
+- [Neunkirchen](/food/germany/saarland/neunkirchen/)
+- [Saarbrücken](/food/germany/saarland/saarbruecken/)
+- [Schaumberg](/food/germany/saarland/schaumberg/)
+- [St. Wendel](/food/germany/saarland/st-wendel/)

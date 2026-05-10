@@ -1,0 +1,15 @@
+---
+layout: default
+section: food
+review: true
+title: Lavazza Caffè Espresso Bar
+subtitle: Schweinfurt · Espresso Bar
+---
+
+Very good cappuccino for €2.60, along with nice cakes and friendly service. Hard to complain about that.
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Albrecht-Dürer-Platz+2+97421+Schweinfurt+Germany)
+📍 Albrecht-Dürer-Platz 2, 97421 Schweinfurt, Germany
+💰 —

@@ -1,12 +1,12 @@
 ---
 layout: default
 section: food
-country: germany
-state: sachsen
+slug: sachsen
 title: Sachsen
 subtitle: Essen & Trinken in Sachsen
 ---
+
 # Sachsen
 
-- [Leipzig](/food/germany/sachsen/leipzig/)
 - [Dresden](/food/germany/sachsen/dresden/)
+- [Leipzig](/food/germany/sachsen/leipzig/)

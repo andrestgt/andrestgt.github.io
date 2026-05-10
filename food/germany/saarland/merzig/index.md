@@ -2,11 +2,11 @@
 layout: default
 section: food
 city: merzig
+slug: merzig
 title: Merzig
 subtitle: Essen & Trinken in Merzig
 ---
 
 # Merzig
 
-## Kategorien
 - [Restaurants](/food/germany/saarland/merzig/restaurants/)

@@ -3,23 +3,13 @@ layout: default
 section: food
 review: true
 title: Oswaldz
-subtitle: Äußere Neustadt · Café
+subtitle: Dresden Neustadt · Café
 ---
 
-Good cappuccino here, about €3 a cup. Well prepared. Friendly place with a nice neighbourhood atmosphere.
-
-## Ratings
-
-| Category        | Score   |
-|-----------------|---------|
-| Coffee          | 7.5/10 |
-| Service         | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere      | 7.5/10  |
-| Overall         | 7.5/10 |
+Oswaldz serves good cappuccino for around €3 a cup, properly prepared. The atmosphere is friendly and it's a welcome find in Neustadt.
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oswaldz+Dresden+Bautzner+Str)
-☕ **Type:** Café
-💰 **Price level:** Inexpensive
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bautzner+Str.+9+01099+Dresden+Germany)
+📍 Bautzner Str. 9, 01099 Dresden, Germany
+💰 —

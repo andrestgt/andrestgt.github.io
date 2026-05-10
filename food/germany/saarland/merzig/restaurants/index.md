@@ -3,8 +3,15 @@ layout: default
 section: food
 city: merzig
 category: restaurants
-slug: restaurants
-title: Restaurants in Merzig
+slug: merzig restaurants
+title: Restaurants
 subtitle: Restaurants in Merzig
 ---
 
+# Restaurants in Merzig
+
+
+## SAARFÜRST BRAUHAUS AM YACHTHAFEN
+Merzig · Brewery, Beer Garden
+Large, modern brewery restaurant with a pleasant beer garden right on the Saar cycle path...
+→ [Read the full review](./saarfuerst-brauhaus-am-yachthafen/)
