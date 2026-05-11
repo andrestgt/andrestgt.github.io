@@ -1,6 +1,7 @@
 ---
 layout: default
 section: food
+index: true
 country: germany
 slug: germany
 title: Germany
