@@ -1,9 +1,13 @@
 ---
 layout: default
 section: food
+index: true
+country: germany
 slug: rheinland-pfalz
 title: Rheinland-Pfalz
-subtitle: Essen & Trinken in Rheinland-Pfalz
+subtitle: Food & drink in Rheinland-Pfalz
+hero: /photos/background/rheinland-pfalz.jpg
+hero_overlay: false
 ---
 
 # Rheinland-Pfalz
