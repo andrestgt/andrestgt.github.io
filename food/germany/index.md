@@ -4,6 +4,8 @@ section: food
 slug: germany
 title: Germany
 subtitle: Restaurants, cafés and bars across Germany
+hero: /photos/background/germany.jpg
+hero_overlay: false
 ---
 
 # Germany
