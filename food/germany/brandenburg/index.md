@@ -1,9 +1,13 @@
 ---
 layout: default
 section: food
+index: true
+country: germany
 slug: brandenburg
 title: Brandenburg
-subtitle: Essen & Trinken in Brandenburg
+subtitle: Food & drink in Brandenburg
+hero: /photos/background/brandenburg.jpg
+hero_overlay: false
 ---
 
 # Brandenburg
