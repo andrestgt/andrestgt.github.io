@@ -1,9 +1,13 @@
 ---
 layout: default
 section: food
+index: true
+country: germany
 slug: sachsen
 title: Sachsen
-subtitle: Essen & Trinken in Sachsen
+subtitle: Food & drink in Sachsen
+hero: /photos/background/sachsen.jpg
+hero_overlay: false
 ---
 
 # Sachsen
