@@ -1,9 +1,13 @@
 ---
 layout: default
 section: food
+index: true
+country: germany
 slug: berlin
 title: Berlin
-subtitle: Essen & Trinken in Berlin
+subtitle: Food & drink in Berlin
+hero: /photos/background/berlin.jpg
+hero_overlay: false
 ---
 
 # Berlin
