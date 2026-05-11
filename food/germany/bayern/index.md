@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 section: food
 index: true
 country: germany
