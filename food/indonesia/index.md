@@ -15,7 +15,6 @@ Food & drink across Indonesia, organised by island.
 
 - [Java](/food/indonesia/java/)
 - [Sumatra](/food/indonesia/sumatra/)
-- [Bali](/food/indonesia/bali/)
-- [Sulawesi](/food/indonesia/sulawesi/)
+- [Bali](/food/indonesia/bali/)  
 - [West Papua](/food/indonesia/west-papua/)
 - [Maluku](/food/indonesia/maluku/)
