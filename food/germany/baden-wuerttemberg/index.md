@@ -17,7 +17,6 @@ hero_overlay: false
 - [Heidelberg](/food/germany/baden-wuerttemberg/heidelberg/)
 - [Karlsruhe](/food/germany/baden-wuerttemberg/karlsruhe/)
 - [Lauffen am Neckar](/food/germany/baden-wuerttemberg/lauffen-am-neckar/)
-- [Lindau](/food/germany/baden-wuerttemberg/lindau/)
 - [Schwarzwald](/food/germany/baden-wuerttemberg/schwarzwald/)
 - [Stuttgart](/food/germany/baden-wuerttemberg/stuttgart/)
 - [Tübingen](/food/germany/baden-wuerttemberg/tuebingen/)

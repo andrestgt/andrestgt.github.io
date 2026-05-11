@@ -22,3 +22,4 @@ hero_overlay: false
 - [Regensburg](/food/germany/bayern/regensburg/)
 - [Rothenburg ob der Tauber](/food/germany/bayern/rothenburg/)
 - [Schweinfurt](/food/germany/bayern/schweinfurt/)
+- [Lindau](/food/germany/bayern/lindau/)
