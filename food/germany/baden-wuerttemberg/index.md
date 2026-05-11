@@ -1,10 +1,11 @@
 ---
 layout: default
 section: food
+index: true
 country: germany
 slug: baden-wuerttemberg
 title: Baden-Württemberg
-subtitle: Food & Drink in Baden-Württemberg
+subtitle: Essen & Trinken in Baden-Württemberg
 hero: /photos/background/baden-wuerttemberg.jpg
 hero_overlay: false
 ---
