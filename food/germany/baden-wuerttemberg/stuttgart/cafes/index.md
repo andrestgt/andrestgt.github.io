@@ -21,11 +21,6 @@ Stuttgart · Espresso Bar
 A small, characterful espresso bar with an excellent flat white at Stuttgart prices....
 → [Read the full review](./caff-bar/)
 
-## MARTHA'S
-Stuttgart · Café
-Huge café in prime location.
-→ [Read the full review](./marthas/)
-
 ## COFFREEZ FROZEN COFFEEBAR KÖNIGSTRASSE
 Stuttgart · Café
 Franchise with very decent cappuccinos at a reasonable price (€2.60). The Königstraße bran...
