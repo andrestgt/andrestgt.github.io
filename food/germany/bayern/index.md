@@ -1,9 +1,13 @@
 ---
 layout: default
 section: food
+index: true
+country: germany
 slug: bayern
 title: Bayern
-subtitle: Essen & Trinken in Bayern
+subtitle: Food & drink in Bayern
+hero: /photos/background/bayern.jpg
+hero_overlay: false
 ---
 
 # Bayern
