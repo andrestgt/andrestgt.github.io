@@ -1,6 +1,7 @@
 ---
 layout: default
 section: food
+country: germany
 slug: germany
 title: Germany
 subtitle: Restaurants, cafés and bars across Germany
