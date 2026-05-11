@@ -9,4 +9,4 @@ subtitle: Essen & Trinken in Bad Herrenalb
 
 # Bad Herrenalb
 
-- [Restaurants](/food/germany/baden-wuerttemberg/bad-herrenalb/restaurants/)
+- [Restaurants](/food/germany/baden-wuerttemberg/schwarzwald/bad-herrenalb/restaurants/)

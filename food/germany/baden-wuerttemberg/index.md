@@ -13,7 +13,6 @@ hero_overlay: false
 # Baden-Württemberg
 
 - [Backnang](/food/germany/baden-wuerttemberg/backnang/)
-- [Bad Herrenalb](/food/germany/baden-wuerttemberg/bad-herrenalb/)
 - [Heidelberg](/food/germany/baden-wuerttemberg/heidelberg/)
 - [Karlsruhe](/food/germany/baden-wuerttemberg/karlsruhe/)
 - [Lauffen am Neckar](/food/germany/baden-wuerttemberg/lauffen-am-neckar/)
