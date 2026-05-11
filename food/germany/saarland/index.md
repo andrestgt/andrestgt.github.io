@@ -1,9 +1,13 @@
 ---
 layout: default
 section: food
+index: true
+country: germany
 slug: saarland
 title: Saarland
-subtitle: Essen & Trinken in Saarland
+subtitle: Food & drink in Saarland
+hero: /photos/background/saarland.jpg
+hero_overlay: false
 ---
 
 # Saarland
