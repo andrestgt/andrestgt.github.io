@@ -11,6 +11,16 @@ This is a lovely beer garden inside a rather large park not too far from downtow
 
 Still, the hearty Swabian food is good and you can never go wrong with a nice Hefeweizen, even if it costs 5€. Well, Stuttgart is not cheap
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Karl-Schurz-Straße+28c+70190+Stuttgart+Germany)

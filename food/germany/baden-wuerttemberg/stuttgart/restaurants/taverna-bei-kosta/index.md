@@ -9,6 +9,16 @@ subtitle: Stuttgart · Greek
 
 A pretty taverna in greenery on the outskirts, which we discovered fairly by chance since the other places nearby were all packed. It really paid off. What you get here is Greek hospitality, a generous mezze platter and tasty grilled dishes at — for Stuttgart — fairly reasonable prices. The service is very friendly, the atmosphere agreeable. Definitely a place to come back to.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Teufelswiesen+1+70569+Stuttgart+Germany)

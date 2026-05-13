@@ -9,6 +9,16 @@ subtitle: Prenzlauer Berg · Vietnamese
 
 As someone who spends part of the year in Vietnam and cares quite a lot about Vietnamese food, all I can say is: I approve. Good, fresh food at good prices. Possibly the best Vietnamese meal I've had in Germany. The goi ga is perfection.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Am+Falkpl.+5+10437+Berlin+Germany)

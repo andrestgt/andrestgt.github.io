@@ -15,3 +15,6 @@ subtitle: Restaurants in Edenkoben
 Edenkoben · Pfälzerwald, Excursion Restaurant
 Naturfreundehaus is both easy to reach by car and a lovely walk. The interior has its own...
 → [Read the full review](./naturfreundehaus-edenkoben/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -9,6 +9,16 @@ subtitle: Neunkirchen · Vietnamese, Sushi
 
 For a Vietnamese-run sushi restaurant in the German provinces, the quality at Zakado is surprisingly respectable. The salmon is fresh and generously portioned. The Vietnamese dishes on the menu are also perfectly fine, even if you shouldn't expect anything particularly authentic or exotic. Reasonably priced, and definitely recommended for Neunkirchen.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lindenallee+18+66538+Neunkirchen+Germany)

@@ -15,3 +15,6 @@ subtitle: Restaurants in Bad Dürkheim
 Bad Dürkheim · Excursion Restaurant, Beer Garden
 A rustic old forester's lodge with a large, shady beer garden in the middle of the woods....
 → [Read the full review](./forsthaus-lindemannsruhe/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -25,3 +25,6 @@ Unlike many other Pfälzer forest restaurants, this one is easy to reach by car 
 Neustadt · Excursion Restaurant
 A pleasant excursion restaurant in the Pfälzerwald, though genuinely complicated to reach...
 → [Read the full review](./weinbiethaus/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

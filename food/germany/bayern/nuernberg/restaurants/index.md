@@ -20,3 +20,6 @@ Traditional restaurant dating back to medieval times, famous and very popular wi
 Nuremberg · Brewpub, Franconian
 Quite expensive by Nuremberg standards, but the veranda is pleasant and they brew their ow...
 → [Read the full review](./wirtshaus-huettn/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

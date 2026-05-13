@@ -11,6 +11,16 @@ Great views and cold beers at regular Stuttgart prices, i.e as high as the terra
 
 2024 Update: The views are still excellent, but a Weizen is now 5€. That is pretty much the standard price these days, so that's fine. 5 stars for offering card payment. Not a given for most German beer gardens
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Drinks          | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Humboldtstraße+44+70178+Stuttgart+Germany)

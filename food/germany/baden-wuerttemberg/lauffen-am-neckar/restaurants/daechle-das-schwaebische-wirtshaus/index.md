@@ -9,6 +9,16 @@ subtitle: Lauffen am Neckar · Swabian Beer Garden
 
 A pleasant traditional Swabian beer garden with hot food served all day and a good house wine. The cooking is authentically local with schnitzels, Maultaschen, potato salad and so on. Don't expect refined Swabian cuisine, but the food is good and reasonably priced, with interesting daily specials.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hintere+Str.+2+74348+Lauffen+am+Neckar+Germany)

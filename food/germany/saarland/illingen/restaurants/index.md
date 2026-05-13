@@ -20,3 +20,6 @@ I was both delighted and surprised to find such a great little Spanish tapas pla
 Illingen · Italian, Pizza
 I can only judge the pizza, but it's one of the best in the region. Fresh from the wood-fi...
 → [Read the full review](./ristorante-pizzeria-saporiditalia1/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

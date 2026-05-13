@@ -15,3 +15,6 @@ subtitle: Restaurants in Bamberg
 Bamberg · Rauchbier, Franconian
 The most famous Gasthaus in Bamberg, and justifiably so. Touristy, yes, but it has managed...
 → [Read the full review](./schlenkerla-rauchbierbrauerei/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

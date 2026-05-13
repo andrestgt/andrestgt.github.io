@@ -15,3 +15,6 @@ subtitle: Restaurants in Regensburg
 Regensburg · Beer Garden, Bavarian
 Attractive beer garden with good service, very decent beers, and generous food at fair pri...
 → [Read the full review](./spitalgarten/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

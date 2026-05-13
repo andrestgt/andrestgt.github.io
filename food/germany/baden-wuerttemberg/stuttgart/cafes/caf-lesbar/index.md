@@ -9,6 +9,16 @@ subtitle: Stuttgart City Library · Café
 
 Modern café on the top floor of the impressive city library. From some tables you have a fine view over the city. The coffee (flat white) is very respectable.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mailänder+Platz+1/Stadtbibliothek+8.+OG+70173+Stuttgart+Germany)

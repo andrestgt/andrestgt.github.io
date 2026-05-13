@@ -11,6 +11,16 @@ I was both delighted and surprised to find such a great little Spanish tapas pla
 
 The patatas alioli, croquetas de bacalao, and tortilla were all solid. The larger meat and seafood dishes (sepia a la plancha, morcilla, and the butifarra al vino) were genuinely tasty. And it's good value, overall. We paid under €60 including drinks, and what we ordered would easily have been enough for three or four people.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Judengasse+36+66557+Illingen+Germany)

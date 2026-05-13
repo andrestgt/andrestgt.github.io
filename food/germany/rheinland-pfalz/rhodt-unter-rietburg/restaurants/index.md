@@ -20,3 +20,6 @@ At Alter Kastanienhof in the pretty village of Rhodt unter Rietburg, you can sit
 Rhodt unter Rietburg · Wine Tavern, Pfälzer
 Alte Schmiede in the lovely wine village of Rhodt unter Rietburg is a typical Pfälzer wine...
 → [Read the full review](./weinstube-alte-schmiede/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

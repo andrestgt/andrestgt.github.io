@@ -15,6 +15,16 @@ I didn't rate the Cha Ca La Vong quite as highly, the fish was a little too dry,
 
 Fair prices, large portions, highly recommended
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Presselstraße+23+70191+Stuttgart+Germany)

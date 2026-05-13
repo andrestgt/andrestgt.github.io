@@ -11,6 +11,16 @@ With its prime location, modern interior, and a very nice alfresco area overlook
 
 The beer isn’t overpriced, and the food, while not cheap, is traditional Swabian and very good. If you can find a seat, there’s no reason not to come here.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Stauffenbergstraße+1+70173+Stuttgart+Germany)

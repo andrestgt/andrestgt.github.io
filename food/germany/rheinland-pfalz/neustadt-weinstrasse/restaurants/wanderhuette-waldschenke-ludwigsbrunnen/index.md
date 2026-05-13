@@ -9,6 +9,16 @@ subtitle: Neustadt · Forest Restaurant
 
 Unlike many other Pfälzer forest restaurants, this one is easy to reach by car and looks rather unassuming from outside. Inside, however, it's surprisingly stylishly furnished for a Pfälzer forest hut. You clearly get the sense that they've deliberately set out to offer a slightly more elevated kitchen and a corresponding atmosphere. According to the menu, only organic ingredients are used, which is naturally reflected in the price. The food quality is good throughout, even if the portions are on the modest side by Pfälzer standards. The classic, hearty Pfälzer cooking nevertheless wins you over: among other things we had Dreggische Grumbiere — fried potatoes with blood and liver sausage — and the classic Pfälzer Teller with Bratwurst, Saumagen and Leberknödel with sauerkraut.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Im+Meisental+81+67433+Neustadt+an+der+Weinstraße+Germany)

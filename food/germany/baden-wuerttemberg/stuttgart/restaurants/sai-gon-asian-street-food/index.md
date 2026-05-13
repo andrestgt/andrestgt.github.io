@@ -17,6 +17,16 @@ Other rare goodies include Bun Dau Mam Tom and Chao Long, but I'd recommend thos
 
 Prices are quite high for such a basic place, but you pay for freshness and authenticity and that's justified.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bahnhofstraße+20+70372+Stuttgart+Germany)

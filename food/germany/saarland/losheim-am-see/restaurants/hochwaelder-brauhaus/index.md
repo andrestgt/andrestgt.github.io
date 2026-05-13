@@ -9,6 +9,16 @@ subtitle: Losheim am See · Microbrewery, Beer Garden
 
 Hochwälder Brauhaus on Losheim Lake is beautifully done out — stylish, modern and in the spirit of a microbrewery. In good weather you can sit out on the terrace overlooking the lake, which is without question a plus. Another positive: you actually find genuine Saarland specialities on the menu, such as Gefillde — mince-stuffed potato dumplings — served with an exceedingly tasty if rich bacon and cream sauce. I also had a seasonal venison burger, which was decent in flavour but somewhat dry. The house-brewed beer, on the other hand, didn't quite convince me. The dark in particular came across rather flat; from a microbrewery I'd have hoped for more depth and character. Even so, Hochwälder Brauhaus is worth a visit for the location and atmosphere alone.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Zum+Stausee+190+66679+Losheim+am+See+Germany)

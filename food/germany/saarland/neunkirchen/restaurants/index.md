@@ -15,3 +15,6 @@ subtitle: Restaurants in Neunkirchen
 Neunkirchen · Vietnamese, Sushi
 For a Vietnamese-run sushi restaurant in the German provinces, the quality at Zakado is su...
 → [Read the full review](./zakado-neunkirchen-sushibar-vietnamesische-kueche/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

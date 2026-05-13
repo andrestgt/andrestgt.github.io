@@ -15,3 +15,6 @@ subtitle: Restaurants in Zwiefalten
 Zwiefalten · Brewpub, Swabian
 The smart, spacious dining hall of the Zwiefalten monastery brewery offers a fine selectio...
 → [Read the full review](./zwiefalter-klosterbraeu-brauhaus-wirtshaus/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

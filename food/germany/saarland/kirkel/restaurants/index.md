@@ -15,3 +15,6 @@ subtitle: Restaurants in Kirkel
 Kirkel · Fine Dining, International
 An upmarket establishment with outstanding cooking at genuinely fair prices. I don't know...
 → [Read the full review](./ressmanns-residence/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

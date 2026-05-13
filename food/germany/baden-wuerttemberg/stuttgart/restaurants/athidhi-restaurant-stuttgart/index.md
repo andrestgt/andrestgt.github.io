@@ -12,6 +12,16 @@ The Mysore dosa was outstanding, and so was the lamb curry, beautifully seasoned
 
 An unreserved recommendation.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gablenberger+Hauptstraße+45+70186+Stuttgart+Germany)

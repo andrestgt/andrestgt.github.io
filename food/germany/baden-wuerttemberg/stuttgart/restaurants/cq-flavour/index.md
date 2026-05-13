@@ -13,6 +13,16 @@ There are also the usual German-Chinese staples like kung pao chicken for less a
 
 The interior still has that slightly dated German-Chinese restaurant look from the eighties, but the flavours are the real deal. It’s not cheap, though, but then again this isn’t an Asia Imbiss.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kirchheimer+Str.+126+70619+Stuttgart+Germany)

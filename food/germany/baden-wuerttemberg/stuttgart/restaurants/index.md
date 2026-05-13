@@ -150,3 +150,6 @@ Rustic place amid allotments on the edge of Stuttgart. A young team offers a sma
 Stuttgart · Wine Tavern, Swabian
 Zum Becher has apparently been around for a long time, even if I'd never heard of it until...
 → [Read the full review](./zum-becher/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

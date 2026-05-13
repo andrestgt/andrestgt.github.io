@@ -9,6 +9,16 @@ subtitle: Stuttgart · Vietnamese, Healthy
 
 Outstanding healthy food, mostly Asian/Vietnamese influenced. Quite chic for the east end with prices to match, but the quality is excellent. Strong contender for best Asian food in Stuttgart. Don't be put off by the health food tag, they do meat, too
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Landhausstraße+181+70188+Stuttgart+Germany)

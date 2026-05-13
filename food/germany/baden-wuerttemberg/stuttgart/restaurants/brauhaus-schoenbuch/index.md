@@ -9,6 +9,16 @@ subtitle: Stuttgart · Brewpub, Swabian
 
 Despite its fairly uninspiring backstreet location, Brauhaus Schönbuch manages to create a genuinely convincing traditional brewpub atmosphere. The beer selection is varied and well worth exploring, while the hearty Swabian food is tasty and served in generous portions. Prices, unsurprisingly, are very much in line with central Stuttgart.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bolzstraße+10+70173+Stuttgart+Germany)

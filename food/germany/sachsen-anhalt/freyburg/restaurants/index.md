@@ -15,3 +15,6 @@ subtitle: Restaurants in Freyburg (Unstrut)
 Freyburg · Beer Garden, Wine Region
 Thüringer Pforte has a pleasant beer garden serving fresh local beer on tap and some excel...
 → [Read the full review](./thueringer-pforte/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

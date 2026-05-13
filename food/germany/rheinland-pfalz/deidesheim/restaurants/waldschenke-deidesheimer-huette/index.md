@@ -9,6 +9,16 @@ subtitle: Deidesheim · Forest Restaurant
 
 Very pleasant excursion restaurant with a large beer garden in the woods. About 15 minutes on foot from the car park, or 45 minutes from the centre of Deidesheim. Self-service only, unfortunately, but with good Pfälzer cooking — sausages, Leberknödel and so on. Not cheap by Pfälzer standards (€13.90 for the Pfälzer Platte), but the quality is good and you'll definitely leave full. Very dog-friendly. Recommended.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mühlbachtal+im+Wald+67146+Deidesheim+Germany)

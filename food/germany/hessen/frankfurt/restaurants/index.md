@@ -15,3 +15,6 @@ subtitle: Restaurants in Frankfurt
 Sachsenhausen · Apfelwein, Hessian
 Honest local food in large portions at reasonable prices. Apple wine is definitely an acqu...
 → [Read the full review](./apfelwein-wirtschaft-fichtekraenzi/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

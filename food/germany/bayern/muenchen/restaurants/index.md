@@ -30,3 +30,6 @@ A bit expensive maybe for beers (around €8.40 for a Maß), but the atmosphere 
 Planegg · Brewery Taproom, Bavarian
 Wonderfully rustic, traditional brewery taproom on the outskirts of Munich. They serve hea...
 → [Read the full review](./braeustueberl/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

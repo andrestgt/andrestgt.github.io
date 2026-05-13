@@ -15,3 +15,6 @@ subtitle: Restaurants in Lindau
 Lindau · Regional, Swabian
 Restaurant Engel is very popular, but if you turn up early enough you'll definitely find a...
 → [Read the full review](./restaurant-engel/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

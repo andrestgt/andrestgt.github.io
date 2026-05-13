@@ -9,6 +9,16 @@ subtitle: Kreuzberg · Specialty Coffee
 
 Excellent coffee, and unusually for a hipster café, even a few genuinely comfortable seats. Expensive prices and bad wifi are the downside.
 
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | —/10 |
+| Service         | —/10 |
+| Value for money | —/10 |
+| Atmosphere      | —/10 |
+| Overall         | —/10 |
+
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Adalbertstraße+9+10999+Berlin+Germany)

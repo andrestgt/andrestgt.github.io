@@ -25,3 +25,6 @@ Well, it's a currywurst, and I like currywurst, so recommending this place is ha
 Prenzlauer Berg · Vietnamese
 As someone who spends part of the year in Vietnam and cares quite a lot about Vietnamese f...
 → [Read the full review](./song-nguu-wasserbueffel/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

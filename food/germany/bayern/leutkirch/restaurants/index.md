@@ -15,3 +15,6 @@ subtitle: Restaurants in Leutkirch im Allgäu
 Leutkirch · Brewery Inn, Swabian
 Delightfully old-fashioned brewery inn serving excellent house-brewed beer alongside class...
 → [Read the full review](./brauerei-gasthof-mohren/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

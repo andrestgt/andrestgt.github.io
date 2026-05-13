@@ -15,3 +15,6 @@ subtitle: Restaurants in Köln
 Köln-Nippes · Kölsch, Cologne
 Fresh Kölsch, friendly service, and traditional local food at good prices. The blood sausa...
 → [Read the full review](./frueh-em-golde-kappes/)
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
