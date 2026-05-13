@@ -4,20 +4,22 @@ section: food
 city: el-nido
 category: cafes
 slug: cafes
-title: Cafés
-subtitle: Cafés in El Nido and the North
+title: CafÃ©s
+subtitle: CafÃ©s in El Nido
 ---
 
-# Cafés in El Nido and the North
+# CafÃ©s in El Nido
 
-A selection of cafés in El Nido and northern Palawan.
+A selection of cafÃ©s in El Nido, Palawan.
 
-<!-- Add your reviews here following this format:
+---
 
-## Café Name
-El Nido · Café
-Brief one-sentence description.
-→ [Read the full review](/food/philippines/el-nido/cafes/cafe-name.html)
+## Masa
+*El Nido Â· CafÃ©, Bakery*
+Stylish modern cafÃ© with good coffee â€” though the most expensive flat white in the Philippines at over 200 Php means it helps if money is no object.
+â†’ [Read the full review](/food/philippines/el-nido/cafes/masa/)
 
--->
+---
 
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

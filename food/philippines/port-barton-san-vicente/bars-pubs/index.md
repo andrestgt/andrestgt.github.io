@@ -1,23 +1,25 @@
 ---
 layout: default
 section: food
-city: port-barton-san-vicente
+city: barton
 category: bars-pubs
 slug: bars-pubs
-title: Bars & pubs
-subtitle: Bars and pubs in Port Barton & San Vicente
+title: Bars & Pubs
+subtitle: Bars in Port Barton and San Vicente
 ---
 
-# Bars & pubs in Port Barton & San Vicente
+# Bars & Pubs in Port Barton & San Vicente
 
-A selection of bars and pubs in Port Barton and San Vicente.
+A selection of bars in Port Barton and San Vicente, northern Palawan.
 
-<!-- Add your reviews here following this format:
+---
 
-## Bar Name
-Port Barton / San Vicente · Bar / Pub
-Brief one-sentence description.
-→ [Read the full review](/food/philippines/port-barton-san-vicente/bars-pubs/bar-name.html)
+## The Beach Barn (Summer Homes)
+*Port Barton beach Â· Bar*
+Aesthetics aside, the cheapest spot for drinks and food right on the beach â€” perfect for a sunset beer without breaking the bank.
+â†’ [Read the full review](/food/philippines/port-barton-san-vicente/bars-pubs/the-beach-barn/)
 
--->
+---
 
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
