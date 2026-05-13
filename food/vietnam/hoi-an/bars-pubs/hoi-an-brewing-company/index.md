@@ -1,0 +1,22 @@
+---
+layout: default
+section: food
+review: true
+title: Hoi An Brewing Company
+subtitle: Hội An · Craft Beer
+---
+Now, this is my kind of place. A microbrewery that actually manages to brew some seriously good craft beers of a similar quality as the big dogs. As an added bonus, they play great rock tunes from the past, and if that wasn't enough yet, the lady of the house cooks up some very tasty Thai food with a daily changing menu of home cooked meals. We were lucky enough to come for the khao soi. There's a discounted happy hour from 4-6 pm, but beer prices are reasonable anyway. If I lived in Hoi An, I'd be a regular here for sure
+
+## Ratings
+| Category | Score |
+|---|---|
+| Drinks | 10/10 |
+| Service | 10/10 |
+| Value for money | 10/10 |
+| Atmosphere | 10/10 |
+| Overall | 10/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=225+Cửa+Đại+Cẩm+Châu+Hội+An+Quảng+Nam+563824+Vietnam)
+🍺 **Type:** Craft Beer

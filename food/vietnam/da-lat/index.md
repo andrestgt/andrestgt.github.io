@@ -3,22 +3,15 @@ layout: default
 section: food
 city: da-lat
 slug: da-lat
-title: Da Lat – Food & Drink
-subtitle: Highland cuisine and coffee culture
+title: Đà Lạt – Food & Drink
+subtitle: Restaurants, cafés, bars and street food in Đà Lạt
 ---
 
-# Da Lat
+# Đà Lạt
 
 Reviews grouped by category.
 
-## Street food & basic eateries
-- [Street food & basic eateries](/food/vietnam/da-lat/street-food/)
-
-## Restaurants
-- [Restaurants](/food/vietnam/da-lat/restaurants/)
-
-## Cafés
-- [Cafés](/food/vietnam/da-lat/cafes/)
-
-## Bars & pubs
-- [Bars & pubs](/food/vietnam/da-lat/bars-pubs/)
+- 🍽️ [Restaurants](/food/vietnam/da-lat/restaurants/)
+- ☕ [Cafés](/food/vietnam/da-lat/cafes/)
+- 🍺 [Bars & Pubs](/food/vietnam/da-lat/bars-pubs/)
+- 🥢 [Street Food](/food/vietnam/da-lat/street-food/)

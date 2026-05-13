@@ -1,0 +1,24 @@
+---
+layout: default
+section: food
+review: true
+title: Cây Xoài Quán
+subtitle: Nha Trang · Bia Hơi
+---
+Classic drinking place with cheap bia hoi and an extensive menu of the usual suspects plus a selection of less common bush meats. Portions are big, prices are slightly lower than in downtown Nha Trang.
+
+Probably not worth taking a trip to the outskirts just to eat here, but if you're in the area this is a good choice
+
+## Ratings
+| Category | Score |
+|---|---|
+| Food | 8/10 |
+| Service | 8/10 |
+| Value for money | 9/10 |
+| Atmosphere | 8/10 |
+| Overall | 8/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=630+Đ.+Lương+Định+Của+Vĩnh+Thạnh+Nha+Trang+Khánh+Hòa+Vietnam)
+🍽️ **Cuisine:** Bia Hơi

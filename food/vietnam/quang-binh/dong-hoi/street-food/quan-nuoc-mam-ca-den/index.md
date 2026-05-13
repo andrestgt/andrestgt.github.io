@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Quan Nuoc Mam Ca Den
+subtitle: Đồng Hới · Bia Hơi
+---
+We had originally planned to go to the more modern looking and well reviewed B52 next door. We noticed, however, that B52 was empty whereas this place was full of locals. Well, it turned out to be an absolute winner. Not only for their kegs of cheap bia hoi (50k for 2 litres) but for the adventurous food they're serving here including some delicacies you rarely find in other drinking places. Such as the river snails in bamboo (Oc Nhoi Ong Nua, 120k) or stir fried venison (Nai Xao,130k) which comes on a bed of fried rice crust, an absolute killer dish. If prices of 100+ k seem high for a Quan Nhau, rest assured that it's great value, portions are massive with generous amounts of meat.
+
+*— Attractions, hotels **&** travel agencies —*
+
+## Ratings
+| Category | Score |
+|---|---|
+| Food | 10/10 |
+| Service | 10/10 |
+| Value for money | 10/10 |
+| Atmosphere | 10/10 |
+| Overall | 10/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=FJ75+75F+Đường+Phạm+Văn+Đồng+Nam+Sách+Đồng+Hới+Quảng+Bình+Vietnam)
+🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ₫ Under 50k per person

@@ -1,0 +1,22 @@
+---
+layout: default
+section: food
+review: true
+title: Nét Huế Restaurant
+subtitle: Hoàn Kiếm · Vietnamese
+---
+Considering it's just a budget franchise for Hué cuisine, the food here isn't half bad. Prices are fair, most dishes are very tasty. I was a bit disappointed with their Ram Hue, but everything else was nice, especially the Nem Lui
+
+## Ratings
+| Category | Score |
+|---|---|
+| Food | 8/10 |
+| Service | 8/10 |
+| Value for money | 8/10 |
+| Atmosphere | 8/10 |
+| Overall | 8/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=198+P.+Hàng+Bông+Hàng+Bông+Hoàn+Kiếm+Hà+Nội+Vietnam)
+🍽️ **Cuisine:** Vietnamese

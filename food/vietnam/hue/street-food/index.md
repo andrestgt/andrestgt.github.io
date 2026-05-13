@@ -4,19 +4,65 @@ section: food
 city: hue
 category: street-food
 slug: hue street-food
-title: Street food & basic eateries
-subtitle: Street food & basic eateries in Hue
+title: Street Food
+subtitle: Street Food in Huế
 ---
 
-# Street food & basic eateries in Hue
+# Street Food
 
-A selection of street food & basic eateries in Hue.
+## Bánh Bèo Nậm Lọc Bà Đỏ
+*Huế*
+Simple garden restaurant with a short, focused menu of Huế specialities.
+→ [Read the full review](/food/vietnam/hue/street-food/banh-beo-nam-loc-ba-do/)
 
-<!-- Add your reviews here following this format:
+---
 
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/hue/street-food/review-slug.html)
+## Bánh Ép Ngon Rẻ
+*Huế*
+Local speciality street food that looks and tastes a little like Vietnam's answer to a burrito, essentially a pressed pa
+→ [Read the full review](/food/vietnam/hue/street-food/banh-ep-ngon-re/)
 
--->
+---
+
+## Bún bò O Ty
+*Huế*
+There's lots of overpriced tourist bun bo joints in Hue, this is definitely not one of them.
+→ [Read the full review](/food/vietnam/hue/street-food/bun-bo-o-ty/)
+
+---
+
+## Bún Giấm Nuốc
+*Huế*
+This one is for completists.
+→ [Read the full review](/food/vietnam/hue/street-food/bun-giam-nuoc/)
+
+---
+
+## Com Hen Hoa Dong
+*Huế*
+Not to be confused with its namesake further down the alley (spot the different accent in the name).
+→ [Read the full review](/food/vietnam/hue/street-food/com-hen-hoa-dong/)
+
+---
+
+## Quán Nướng Cay 202
+*Huế*
+Cheap as chips and really good food.
+→ [Read the full review](/food/vietnam/hue/street-food/quan-nuong-cay-202/)
+
+---
+
+## Quán nướng Thủy
+*Huế*
+Really good grilled chicken and bo la lot.
+→ [Read the full review](/food/vietnam/hue/street-food/quan-nuong-thuy/)
+
+---
+
+## Venus Beer Garden
+*Huế*
+A bit more upmarket than A Luoi's other eateries, this beer garden still sells Huda for 10k a bottle and has a good vari
+→ [Read the full review](/food/vietnam/hue/street-food/venus-beer-garden/)
+
+---
+

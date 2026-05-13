@@ -3,12 +3,31 @@ layout: default
 section: food
 city: hoi-an
 category: bars-pubs
-slug: bars-pubs
-title: Bars & pubs in Hoi An
-subtitle: Cocktails, riverside bars, and relaxed evening spots
+slug: hoi-an bars-pubs
+title: Bars & Pubs
+subtitle: Bars & Pubs in Hội An
 ---
 
-# Bars & pubs in Hoi An
+# Bars & Pubs
 
-A selection of bars and pubs in Hoi An, from relaxed riverside spots to late-night venues.
+## Bungalow Beach Bar
+*Hội An*
+Not strictly a beach bar, as it's not right on the beach, but it does have the vibes of a beach bar and there's a nice p
+→ [Read the full review](/food/vietnam/hoi-an/bars-pubs/bungalow-beach-bar/)
+
+---
+
+## Hoi An Brewing Company
+*Hội An*
+Now, this is my kind of place.
+→ [Read the full review](/food/vietnam/hoi-an/bars-pubs/hoi-an-brewing-company/)
+
+---
+
+## Cococha Hostel & Pool Bar
+*Hội An*
+I doubt I'd stay here in normal times, this place having a reputation as a wild party hostel, but during corona it was p
+→ [Read the full review](/food/vietnam/hoi-an/bars-pubs/cococha-hostel-pool-bar/)
+
+---
 

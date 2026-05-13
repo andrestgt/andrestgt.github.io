@@ -1,0 +1,22 @@
+---
+layout: default
+section: food
+review: true
+title: Numpty's bar
+subtitle: Vũng Tàu · Bar & Pub
+---
+Friendly pub with a pool table, cold San Miguel on tap and good prices.
+
+## Ratings
+| Category | Score |
+|---|---|
+| Drinks | 10/10 |
+| Service | 10/10 |
+| Value for money | 10/10 |
+| Atmosphere | 10/10 |
+| Overall | 10/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=130a+Phan+Chu+Trinh+Phường+2+Vũng+Tàu+Bà+Rịa+-+Vũng+Tàu+Vietnam)
+🍺 **Type:** Bar & Pub

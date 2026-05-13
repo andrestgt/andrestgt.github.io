@@ -3,22 +3,15 @@ layout: default
 section: food
 city: hoi-an
 slug: hoi-an
-title: Hoi An – Food & Drink
-subtitle: Central Vietnamese cuisine in the ancient town
+title: Hội An – Food & Drink
+subtitle: Restaurants, cafés, bars and street food in Hội An
 ---
 
-# Hoi An
+# Hội An
 
 Reviews grouped by category.
 
-## Street food & basic eateries
-- [Street food & basic eateries](/food/vietnam/hoi-an/street-food/)
-
-## Restaurants
-- [Restaurants](/food/vietnam/hoi-an/restaurants/)
-
-## Cafés
-- [Cafés](/food/vietnam/hoi-an/cafes/)
-
-## Bars & pubs
-- [Bars & pubs](/food/vietnam/hoi-an/bars-pubs/)
+- 🍽️ [Restaurants](/food/vietnam/hoi-an/restaurants/)
+- ☕ [Cafés](/food/vietnam/hoi-an/cafes/)
+- 🍺 [Bars & Pubs](/food/vietnam/hoi-an/bars-pubs/)
+- 🥢 [Street Food](/food/vietnam/hoi-an/street-food/)

@@ -1,0 +1,22 @@
+---
+layout: default
+section: food
+review: true
+title: Lão Hạc Quán
+subtitle: Tân Định · Coffee
+---
+Unique nostalgia café by the canal, the sort of place where you can happily spend a lazy afternoon pretending it is 1996 in Saigon. The atmosphere is wonderfully evocative, even if the prices are rather less nostalgic and firmly rooted in the present.
+
+## Ratings
+| Category | Score |
+|---|---|
+| Coffee | 8/10 |
+| Service | 8/10 |
+| Value for money | 8/10 |
+| Atmosphere | 8/10 |
+| Overall | 8/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=299B+Đ.+Hoàng+Sa+Phường+Tân+Định+Quận+1+Hồ+Chí+Minh+Vietnam)
+☕ **Type:** Coffee

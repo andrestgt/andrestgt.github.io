@@ -4,19 +4,23 @@ section: food
 city: hue
 category: bars-pubs
 slug: hue bars-pubs
-title: Bars & pubs
-subtitle: Drinks and nightlife in Hue
+title: Bars & Pubs
+subtitle: Bars & Pubs in Huế
 ---
 
-# Bars & pubs in Hue
+# Bars & Pubs
 
-A selection of bars and pubs in the ancient imperial capital.
+## DMZ Bar & Restaurant
+*Huế*
+This long established backpacker bar is trying to reinvent itself now that there's no more backpackers in the country.
+→ [Read the full review](/food/vietnam/hue/bars-pubs/dmz-bar-restaurant/)
 
-<!-- Add your reviews here following this format:
+---
 
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/hue/bars-pubs/review-slug.html)
+## Why Not? Bar - Restaurant
+*Huế*
+Friendly backpacker bar with a pool table, 19k bottles of Huda and pretty decent traveller food to go with the cold beer
+→ [Read the full review](/food/vietnam/hue/bars-pubs/why-not-bar-restaurant/)
 
--->
+---
+

@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: August Coffee & Restaurant
+subtitle: Yên Minh · Coffee
+---
+More coffee shop than restaurant, this nice little place is a good pitstop on the Ha Giang loop. They make sinfully delicious egg coffee (45k) and serve some simple dishes, mostly breakfast items involving eggs.
+
+*— Attractions, hotels **&** travel agencies —*
+
+## Ratings
+| Category | Score |
+|---|---|
+| Coffee | 8/10 |
+| Service | 8/10 |
+| Value for money | 8/10 |
+| Atmosphere | 8/10 |
+| Overall | 8/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=No+137+Yên+Minh+Hà+Giang+311500+Vietnam)
+☕ **Type:** Coffee
+💰 **Price level:** ₫ Under 50k per person

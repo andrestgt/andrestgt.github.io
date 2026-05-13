@@ -5,18 +5,15 @@ city: con-dao
 category: restaurants
 slug: con-dao restaurants
 title: Restaurants
-subtitle: Restaurants in Con Dao
+subtitle: Restaurants in Côn Đảo
 ---
 
-# Restaurants in Con Dao
+# Restaurants
 
-A selection of restaurants in Con Dao.
+## Beach House Restaurant & Cocktails Côn Đảo
+*Côn Đảo*
+We stayed just next door so this became our go to restaurant during our time in Con Dao.
+→ [Read the full review](/food/vietnam/con-dao/restaurants/beach-house-restaurant-cocktails-con-dao/)
 
-<!-- Add your reviews here following this format:
+---
 
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/con-dao/restaurants/review-slug.html)
-
--->

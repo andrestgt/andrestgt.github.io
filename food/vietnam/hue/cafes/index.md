@@ -5,18 +5,15 @@ city: hue
 category: cafes
 slug: hue cafes
 title: Cafés
-subtitle: Cafés in Hue
+subtitle: Cafés in Huế
 ---
 
-# Cafés in Hue
+# Cafés
 
-A selection of cafés in Hue.
+## Hue Roastery
+*Huế*
+Don't be put off by the dark stairway for getting to this second floor coffee shop.
+→ [Read the full review](/food/vietnam/hue/cafes/hue-roastery/)
 
-<!-- Add your reviews here following this format:
+---
 
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/hue/cafes/review-slug.html)
-
--->

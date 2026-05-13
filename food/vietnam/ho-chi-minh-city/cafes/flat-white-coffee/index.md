@@ -1,0 +1,22 @@
+---
+layout: default
+section: food
+review: true
+title: Flat White Coffee
+subtitle: Bến Thành · Coffee
+---
+True to its name, they serve a very good cup of flat white here. It tastes very strong, like a double shot espresso minimum, quite the way I like it. Prices are D1 high, but that's to be expected
+
+## Ratings
+| Category | Score |
+|---|---|
+| Coffee | 8/10 |
+| Service | 8/10 |
+| Value for money | 8/10 |
+| Atmosphere | 8/10 |
+| Overall | 8/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=274+Lý+Tự+Trọng+Phường+Bến+Thành+Quận+1+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)
+☕ **Type:** Coffee

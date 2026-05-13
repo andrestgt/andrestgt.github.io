@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Bun cha Tuyet 34
+subtitle: Hanoi · Vietnamese
+---
+My personal favourite bun cha in Hanoi. The sauce is perfectly balanced, the meat has a wonderful barbecue taste and the portion is very generous for 35k. Nem on the side is a must of course. Very popular place, so better visit outside peak meal times
+
+My personal favourite place for bún chả in Hanoi since long before they got Michelin recognition. The dipping sauce is perfectly balanced, the grilled meat carries a wonderful smoky barbecue flavour, and the portion is remarkably generous for just 35k. Nem on the side is, naturally, non-negotiable. Very popular, so visiting outside peak meal times is advisable.
+
+## Ratings
+| Category | Score |
+|---|---|
+| Food | 10/10 |
+| Service | 10/10 |
+| Value for money | 10/10 |
+| Atmosphere | 10/10 |
+| Overall | 10/10 |
+
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bun+cha+Tuyet+34)
+🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ₫ Under 50k per person

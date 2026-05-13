@@ -4,19 +4,30 @@ section: food
 city: da-lat
 category: bars-pubs
 slug: da-lat bars-pubs
-title: Bars & pubs
-subtitle: Bars & pubs in Da Lat
+title: Bars & Pubs
+subtitle: Bars & Pubs in Đà Lạt
 ---
 
-# Bars & pubs in Da Lat
+# Bars & Pubs
 
-A selection of bars & pubs in Da Lat.
+## District 1 - World Beer Collection
+*Đà Lạt*
+This would be a fantastic place with tasty craft beers at good prices.
+→ [Read the full review](/food/vietnam/da-lat/bars-pubs/district-1-world-beer-collection/)
 
-<!-- Add your reviews here following this format:
+---
 
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/da-lat/bars-pubs/review-slug.html)
+## The Escape Bar & Cafe/Live Music
+*Đà Lạt*
+For me, this shares the title of Vietnam's best bar with Polite Pub in Hanoi.
+→ [Read the full review](/food/vietnam/da-lat/bars-pubs/the-escape-bar-cafelive-music/)
 
--->
+---
+
+## Woody Classic Bar
+*Đà Lạt*
+This is a nice boozer, dark and cozy.
+→ [Read the full review](/food/vietnam/da-lat/bars-pubs/woody-classic-bar/)
+
+---
+
