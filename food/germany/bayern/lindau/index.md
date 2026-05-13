@@ -9,4 +9,4 @@ subtitle: Essen & Trinken in Lindau
 
 # Lindau
 
-- [Restaurants](/food/germany/baden-wuerttemberg/lindau/restaurants/)
+- [Restaurants](/food/germany/bayern/lindau/restaurants/)

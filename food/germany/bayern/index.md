@@ -16,10 +16,11 @@ hero_overlay: false
 - [Dinkelsbühl](/food/germany/bayern/dinkelsbuehl/)
 - [Füssen](/food/germany/bayern/fuessen/)
 - [Leutkirch im Allgäu](/food/germany/bayern/leutkirch/)
+- [Lindau](/food/germany/bayern/lindau/)
 - [Munich](/food/germany/bayern/muenchen/)
 - [Neuendettelsau](/food/germany/bayern/neuendettelsau/)
 - [Nuremberg](/food/germany/bayern/nuernberg/)
 - [Regensburg](/food/germany/bayern/regensburg/)
 - [Rothenburg ob der Tauber](/food/germany/bayern/rothenburg/)
 - [Schweinfurt](/food/germany/bayern/schweinfurt/)
-- [Lindau](/food/germany/bayern/lindau/)
+
