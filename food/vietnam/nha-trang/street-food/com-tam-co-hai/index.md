@@ -23,4 +23,5 @@ Update: they moved to slightly bigger premises and sadly there's no more open ki
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=25+Đ.+Võ+Trứ+Tân+Tiến+Nha+Trang+Khánh+Hòa+57000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

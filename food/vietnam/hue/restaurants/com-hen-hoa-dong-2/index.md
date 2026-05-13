@@ -21,4 +21,5 @@ For a good reason this is considered the best Com Hen (baby mussels rice) place 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=64/7+64+Kiệt+7+Ưng+Bình+Vỹ+Dạ+Huế+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

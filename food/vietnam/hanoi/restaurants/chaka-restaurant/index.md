@@ -21,3 +21,4 @@ Very attractive restaurant in an old converted French villa. Some of their dishe
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Ngô+Thì+Nhậm+Hai+Bà+Trưng+Hà+Nội+100000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

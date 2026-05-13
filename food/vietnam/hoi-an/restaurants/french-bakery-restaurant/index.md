@@ -23,3 +23,4 @@ The Ngheu hap (steamed mussels in lemongrass broth) were fresh and authentic, th
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=beach+Cẩm+An+165+Nguyễn+Phan+Vinh+an+bang+Hội+An+Quảng+Nam+53000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

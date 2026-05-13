@@ -21,3 +21,4 @@ Of all the soups i tried in Hanoi, the Bun Thang here was my least favourite. It
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2RJX+CPP+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...

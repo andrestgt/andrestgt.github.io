@@ -21,3 +21,4 @@ I'm a regular of their Nha Trang branch, and the Hoi An branch is just as good. 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=99+Trần+Hưng+Đạo+Phường+Minh+An+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Indian
+💰 **Price level:** ...

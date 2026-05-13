@@ -21,4 +21,5 @@ Very good My Quang, the original taste from Central Vietnam, which is a rare fin
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=26B+Đ.+Hai+Bà+Trưng+Xương+Huân+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

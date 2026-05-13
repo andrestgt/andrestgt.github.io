@@ -33,3 +33,4 @@ Only drawback is that it has become so popular, it's getting hard to get a table
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=114+Hồng+Bàng+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Japanese
+💰 **Price level:** ...

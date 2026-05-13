@@ -25,4 +25,5 @@ That said, I’d totally recommend it for their meat platters, which I doubt you
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=02+Đ.+Nguyễn+Bỉnh+Khiêm+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

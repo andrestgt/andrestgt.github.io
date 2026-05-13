@@ -25,4 +25,5 @@ Prices are very reasonable for such a popular and attractively designed restaura
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=04+Bạch+Đằng+Hải+Châu+Đà+Nẵng+550000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

@@ -23,4 +23,5 @@ Keep in mind that this place can be extremely busy and since everything is fresh
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=115+Nguyễn+Thiện+Thuật+Lộc+Thọ+Nha+Trang+Khánh+Hòa+57000+Vietnam)
 🍽️ **Cuisine:** Greek
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

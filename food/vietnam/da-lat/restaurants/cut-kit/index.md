@@ -21,4 +21,5 @@ This is an odd place. It's actually well designed and attractive. They have a la
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cut+Kit)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

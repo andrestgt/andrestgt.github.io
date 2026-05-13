@@ -23,4 +23,5 @@ There’s no nem on the side, which is a pity. For me, bún chả and nem go tog
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=80B+-+Phố+Đ.+Núi+Một+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

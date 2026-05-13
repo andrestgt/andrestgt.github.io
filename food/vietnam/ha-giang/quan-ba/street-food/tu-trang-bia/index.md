@@ -21,3 +21,4 @@ This is the only bia hoi joint I saw in the centre of Tam Son. It's a friendly, 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=3X8V+6PF+TT.+Tam+Sơn+Quản+Bạ+Hà+Giang+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...

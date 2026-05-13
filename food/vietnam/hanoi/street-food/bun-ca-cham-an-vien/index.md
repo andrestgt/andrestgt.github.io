@@ -21,4 +21,5 @@ Small Old Town drinking place specialising in Bun Ca Cham, fish noodle soup, wit
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=48+P.+Bát+Đàn+Hàng+Bồ+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

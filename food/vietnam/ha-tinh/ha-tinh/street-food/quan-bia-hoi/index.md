@@ -23,4 +23,5 @@ This is everything a bia hoi joint should be, cheap, cheerful, friendly and deli
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=236+Hải+Thượng+Lãn+Ông+Tân+Giang+Hà+Tĩnh+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

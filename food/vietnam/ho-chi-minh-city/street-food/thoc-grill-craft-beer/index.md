@@ -21,3 +21,4 @@ This place is a relatively recent opening, and it's a gem. It might be close to 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=89-91+Đề+Thám+Phường+Cầu+Ông+Lãnh+Quận+1+Thành+phố+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

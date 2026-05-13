@@ -21,4 +21,5 @@ Eating at this place is quite a special experience. With many places in Bac Ha c
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pạc+Kha+TT.+Bắc+Hà+Bắc+Hà+Lào+Cai+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

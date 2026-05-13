@@ -21,3 +21,4 @@ Very nice spring rolls and decent Bun Thit Nuong. Not cheap, quick delivery, tho
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=126+Đ.+Lê+Văn+Sỹ+Phường+10+Phú+Nhuận+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

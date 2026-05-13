@@ -21,4 +21,5 @@ Tourist restaurant in a prime backpacker central location. We were attracted by 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=37+Võ+Thị+Sáu+Phú+Hội+Huế+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

@@ -21,4 +21,5 @@ There's lots of overpriced tourist bun bo joints in Hue, this is definitely not 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5+Nguyễn+Du+Phú+Cát+Huế+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

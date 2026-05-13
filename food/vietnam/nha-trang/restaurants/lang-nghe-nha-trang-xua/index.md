@@ -29,3 +29,4 @@ But if you want something truly local and even better food in equally beautiful 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=30+Thái+Thông+Vĩnh+Thái+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

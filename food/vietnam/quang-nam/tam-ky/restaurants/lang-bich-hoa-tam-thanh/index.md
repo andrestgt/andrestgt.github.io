@@ -21,3 +21,4 @@ Attractive little seaside village with a few nice homestay options and a picture
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=JG4R+3C7+Thanh+Niên+Tam+Thanh+Tam+Kỳ+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

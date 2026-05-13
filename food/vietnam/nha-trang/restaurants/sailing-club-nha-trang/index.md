@@ -29,3 +29,4 @@ On my last recent visit, I just came for a drink. Admittedly, the atmosphere on 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=72+74+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+570000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

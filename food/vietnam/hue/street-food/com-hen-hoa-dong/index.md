@@ -21,3 +21,4 @@ Not to be confused with its namesake further down the alley (spot the different 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Com+Hen+Hoa+Dong)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

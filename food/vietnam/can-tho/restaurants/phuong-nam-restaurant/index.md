@@ -21,3 +21,4 @@ At first glance it may look like a typical Riverside tourist trap with inflated 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=48+Đường+Hai+Bà+Trưng+khu+vực+1+Ninh+Kiều+Cần+Thơ+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

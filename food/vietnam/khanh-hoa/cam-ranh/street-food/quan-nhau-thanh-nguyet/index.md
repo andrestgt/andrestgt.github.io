@@ -21,4 +21,5 @@ Accidentally finding a place like this is one of the reasons why travelling arou
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1215+QL1A+khu+phố+3+Cam+Ranh+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

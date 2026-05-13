@@ -21,3 +21,4 @@ It is Sushi Tei, so quality is reliably good and consistent, exactly as expected
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=200A+Lý+Tự+Trọng+Phường+Bến+Thành+Quận+1+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Japanese · Sushi
+💰 **Price level:** ...

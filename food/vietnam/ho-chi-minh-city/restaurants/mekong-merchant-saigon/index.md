@@ -21,3 +21,4 @@ Ground zero for Saigon's expat crowd, but an agreeable one, with a lovely outdoo
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=23+Đ.+Thảo+Điền+Thảo+Điền+Quận+2+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

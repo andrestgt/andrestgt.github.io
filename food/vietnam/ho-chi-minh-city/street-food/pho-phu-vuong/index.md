@@ -23,4 +23,5 @@ Prices are typical for District 1—65K for a regular bowl and 85K for the đặ
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=120+Nguyễn+Thái+Bình+Phường+Nguyễn+Thái+Bình+Quận+1+Thành+phố+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

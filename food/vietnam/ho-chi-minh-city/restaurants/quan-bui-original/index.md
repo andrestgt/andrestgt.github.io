@@ -21,3 +21,4 @@ This restaurant is popular with both locals and tourists. It offers a good varie
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=19+Ngô+Văn+Năm+Bến+Nghé+Quận+1+Thành+phố+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

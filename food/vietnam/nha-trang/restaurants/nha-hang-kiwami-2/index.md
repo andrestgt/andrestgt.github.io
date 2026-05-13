@@ -23,4 +23,5 @@ Less cosy and intimate than the original sushi bar, but on a positive note, it's
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=105+A+Đ.+Hồng+Bàng+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Japanese · Sushi
+💰 **Price level:** ...
 💰 **Price level:** ₫300–400k

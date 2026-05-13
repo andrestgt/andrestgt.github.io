@@ -21,4 +21,5 @@ Nicest coffee shop in town by far. Vietnamese coffees only but excellent quality
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=6+Vũ+Văn+Mật+TT.+Bắc+Hà+Bắc+Hà+Lào+Cai+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

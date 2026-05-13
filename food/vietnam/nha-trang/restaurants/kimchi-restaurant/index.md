@@ -21,3 +21,4 @@ Nha Trang's original and still best Korean restaurant. The stews are sublime, th
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=82+Huỳnh+Thúc+Kháng+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Korean
+💰 **Price level:** ...

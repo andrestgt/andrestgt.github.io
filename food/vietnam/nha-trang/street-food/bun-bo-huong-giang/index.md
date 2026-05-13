@@ -21,4 +21,5 @@ In my opinion this is probably the best bowl of Bun Bo that you can find in Nha 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=133+Nguyễn+Thị+Minh+Khai+Phước+Hoà+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
+💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

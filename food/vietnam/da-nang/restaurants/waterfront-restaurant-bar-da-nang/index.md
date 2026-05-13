@@ -21,3 +21,4 @@ Prime location, great space. For sure it's pricey, but on top of the views and t
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=150+Bạch+Đằng+Hải+Châu+1+Hải+Châu+Đà+Nẵng+50000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

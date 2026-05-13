@@ -21,4 +21,5 @@ A bit more upmarket than A Luoi's other eateries, this beer garden still sells H
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=768P+VP6+A+Lưới+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

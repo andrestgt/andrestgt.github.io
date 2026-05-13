@@ -23,3 +23,4 @@ The reason why I can't rate this higher are the prices. A medium sized salmon pi
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=8+Đào+Duy+Từ+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Italian · Pizza
+💰 **Price level:** ...

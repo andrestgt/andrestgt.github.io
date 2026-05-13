@@ -23,4 +23,5 @@ The food? There's Pho Bo Tai Nam, it's 60k a bowl and it's delicious. I wouldn't
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=49+P.+Bát+Đàn+Cửa+Đông+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

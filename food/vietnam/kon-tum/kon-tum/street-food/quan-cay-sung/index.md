@@ -23,3 +23,4 @@ Large simple beer garden and eatery with nice river views. One of the very few p
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=ĐT672+Xã+Đắk+Trăm+Đắk+Tô+Kon+Tum+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

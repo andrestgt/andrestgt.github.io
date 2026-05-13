@@ -25,3 +25,4 @@ The food here is very good though. A perfectly prepared piece of foie gras goes 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=54+Nguyễn+Thái+Học+Phường+Hội+An+Quảng+Nam+563800+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

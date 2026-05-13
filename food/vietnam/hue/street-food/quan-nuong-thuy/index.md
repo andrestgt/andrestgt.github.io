@@ -21,3 +21,4 @@ Really good grilled chicken and bo la lot. A bit more expensive maybe than you'd
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=117+Mai+Thúc+Loan+Phú+Hậu+Huế+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

@@ -21,4 +21,5 @@ subtitle: Cát · Vietnamese · Phở
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=RXQJ+8J7+Thôn+2+isla+d+Cát+Hải+Phòng+187340+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

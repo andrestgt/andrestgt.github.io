@@ -23,3 +23,4 @@ I've eaten both here and at Lanterns, the other tourist restaurant in town, seve
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=3/13A+Trần+Quang+Khải+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

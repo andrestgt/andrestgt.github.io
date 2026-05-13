@@ -21,4 +21,5 @@ They do a good job of creating a proper German Gasthof vibe with the wooden inte
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=72+Đường+Mai+Anh+Đào+Phường+8+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫300–400k

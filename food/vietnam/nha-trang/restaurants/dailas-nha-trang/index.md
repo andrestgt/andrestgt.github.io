@@ -29,3 +29,4 @@ I'm only giving 2 stars because don't don't even accept small dogs in their beer
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=88A+Đ.+Hồng+Bàng+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

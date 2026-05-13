@@ -21,3 +21,4 @@ Reasonably good Chinese franchise in Lotte Centre. It's rather expensive, but th
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tầng+6+Lotte+Department+Store+54+P.+Liễu+Giai+Cống+Vị+Ba+Đình+Hà+Nội+100000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
+💰 **Price level:** ...

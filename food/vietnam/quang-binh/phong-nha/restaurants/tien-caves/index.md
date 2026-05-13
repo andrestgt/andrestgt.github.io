@@ -21,3 +21,4 @@ I took a 1 day trip with Oxalis and was generally very happy with everything. Th
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Q458+WGM+Cao+Quảng+Tuyên+Hóa+Quảng+Bình+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

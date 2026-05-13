@@ -27,3 +27,4 @@ If you're into meat and beer and you're looking for a splurge, LIVIN is a good c
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5a+Đ.+Ngô+Thời+Nhiệm+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

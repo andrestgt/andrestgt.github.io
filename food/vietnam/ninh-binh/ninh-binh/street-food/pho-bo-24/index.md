@@ -21,3 +21,4 @@ Deservedly popular local pho place that serves not only very good bowls of the e
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=109+Lê+Hồng+Phong+Đông+Thành+Ninh+Bình+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...

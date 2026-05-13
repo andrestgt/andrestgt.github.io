@@ -21,4 +21,5 @@ As far as local drinking places go, this one is better than most. Although the m
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Đ.+A1+Vĩnh+Ngọc+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

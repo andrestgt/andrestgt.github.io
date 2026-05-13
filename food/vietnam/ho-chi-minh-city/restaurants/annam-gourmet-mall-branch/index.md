@@ -21,3 +21,4 @@ I love Annam Gourmet and this mall branch is even better than their original bra
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Annam+Gourmet+(mall+branch))
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

@@ -21,4 +21,5 @@ To call this place quirky would probably be an understatement. It operates on di
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=P6P5+W5R+QL1D+Ghềnh+Ráng+Quy+Nhơn+Bình+Định+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

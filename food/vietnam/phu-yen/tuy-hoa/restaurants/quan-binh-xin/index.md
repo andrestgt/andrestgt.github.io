@@ -23,4 +23,5 @@ We stopped here because the place was super busy full of locals even past lunch 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Quan+Binh+Xin)
 🍽️ **Cuisine:** Seafood
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

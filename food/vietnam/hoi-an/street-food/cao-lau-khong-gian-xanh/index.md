@@ -21,4 +21,5 @@ Come to this basic, authentic place for delicious Hen Tron (35k) with Banh Trang
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=687+Hai+Bà+Trưng+Phường+Minh+An+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

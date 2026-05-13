@@ -21,4 +21,5 @@ Seriously, visiting this huge beer garden is a more quintessential Hanoi experie
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bia+Hoi+Thu+Hang)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

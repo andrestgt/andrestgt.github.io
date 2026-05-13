@@ -27,4 +27,5 @@ Price here is 60k for a cup, more expensive than up the road for the same qualit
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khu+9+Nguyễn+Văn+Cừ+Côn+Đảo+Bà+Rịa+-+Vũng+Tàu+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

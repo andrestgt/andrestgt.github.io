@@ -21,4 +21,5 @@ Friendly place with a big balcony overlooking an old town street. Cheap Larue dr
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=23+P.+Đào+Duy+Từ+Hàng+Buồm+Hoàn+Kiếm+Hà+Nội+10000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

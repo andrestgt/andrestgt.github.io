@@ -23,3 +23,4 @@ Probably not worth taking a trip to the outskirts just to eat here, but if you'r
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=630+Đ.+Lương+Định+Của+Vĩnh+Thạnh+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...

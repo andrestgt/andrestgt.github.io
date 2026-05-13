@@ -21,3 +21,4 @@ Basic tuna speciality restaurant serving everything from unusual delicacies such
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=289-293C+Lê+Duẩn+Phường7+Tuy+Hòa+Phú+Yên+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

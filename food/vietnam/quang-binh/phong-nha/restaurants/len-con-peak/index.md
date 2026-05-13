@@ -23,4 +23,5 @@ Prices are a little on the high side—higher than expected for the location—b
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kẻ+Bàng+Đường+Đồng+Sỹ+Nguyên+Phong+NHA+Phong+Nha+Quảng+Trị+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

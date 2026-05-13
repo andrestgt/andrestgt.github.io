@@ -27,4 +27,5 @@ I still quite liked it and keep coming back
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=16+Đ.+Phổ+Quang+Phường+2+Tân+Bình+Thành+phố+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

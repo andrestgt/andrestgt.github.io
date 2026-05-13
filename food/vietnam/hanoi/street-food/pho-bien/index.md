@@ -21,4 +21,5 @@ Very popular local hole in the wall place. Pho Sot Vang is 50k a bowl with lots 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1+P.+Lê+Văn+Hưu+Phan+Chu+Trinh+Hai+Bà+Trưng+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

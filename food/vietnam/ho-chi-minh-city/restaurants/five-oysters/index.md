@@ -33,3 +33,4 @@ After adding copious amount of fish sauce and chilies, all the food that came ou
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=234+Đ.+Bùi+Viện+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

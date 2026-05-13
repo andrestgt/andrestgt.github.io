@@ -25,4 +25,5 @@ Nha Trang has quite a few nem nướng specialty restaurants, most of them aroun
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=46/21+Hùng+Vương+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

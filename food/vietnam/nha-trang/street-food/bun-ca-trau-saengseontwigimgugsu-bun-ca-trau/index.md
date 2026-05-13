@@ -21,4 +21,5 @@ The best Northern style Bun Ca I've had in Nha Trang. Now, it's not quite as ama
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=91+Đ.+Hoàng+Hoa+Thám+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

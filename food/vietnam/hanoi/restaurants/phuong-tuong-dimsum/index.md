@@ -25,4 +25,5 @@ If a restaurant's menu prices are too low that they have the need to add additio
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=55+P.+Nguyễn+Hữu+Huân+Hàng+Bạc+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

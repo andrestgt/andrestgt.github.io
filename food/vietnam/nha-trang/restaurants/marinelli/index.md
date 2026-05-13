@@ -21,3 +21,4 @@ An Italian restaurant run by Russians. But before you run away screaming, keep r
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Marinelli)
 🍽️ **Cuisine:** Italian
+💰 **Price level:** ...

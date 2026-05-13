@@ -23,4 +23,5 @@ Small, upmarket food court in a prime location—perfect for sampling a wide var
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khu+B+công+viên+23+4+Phạm+Ngũ+Lão+Phường+Phạm+Ngũ+Lão+Quận+1+Thành+phố+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

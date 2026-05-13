@@ -21,3 +21,4 @@ Cute little place tucked away in an alley, serving nicely presented bistro food 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=73/16+Trần+Quang+Khải+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Thai
+💰 **Price level:** ...

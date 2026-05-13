@@ -23,4 +23,5 @@ Update: they now have a more extensive menu including burritos and rice meals wh
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=K98+Trần+Nhật+Duật+nối+dài+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Mexican
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

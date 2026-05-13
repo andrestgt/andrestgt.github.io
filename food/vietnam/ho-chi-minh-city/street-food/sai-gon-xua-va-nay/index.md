@@ -21,3 +21,4 @@ Authentic drinking place with a large food menu. The food here is good, especial
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=37+Đ.+Nguyễn+Trung+Trực+Phường+Bến+Thành+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

@@ -21,4 +21,5 @@ Standard drinking place in Vinh Diem Trung. They have fresh Saigon beer for 15k 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=105+Đ.+Trần+Hữu+Duyệt+Vĩnh+Ngọc+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

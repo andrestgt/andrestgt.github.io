@@ -21,4 +21,5 @@ The bia hoi Saigon here is always fresh and cheap (45k for 3 litres). Add to tha
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=58+Đặng+Tất+Vĩnh+Hải+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

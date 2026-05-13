@@ -21,3 +21,4 @@ I'm usually a big supporter of generic dim sum franchises in shopping malls. Mor
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=44+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
+💰 **Price level:** ...

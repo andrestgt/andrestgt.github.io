@@ -21,3 +21,4 @@ A rather odd place: mostly empty, awkwardly located and somehow lacking much atm
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34+Trần+Phú+Vĩnh+Hoà+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

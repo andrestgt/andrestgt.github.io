@@ -21,4 +21,5 @@ In the mostly rather upmarket area around the lake this simple and always packed
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Quan+Nhau+97)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

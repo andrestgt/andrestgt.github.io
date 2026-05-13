@@ -25,3 +25,4 @@ Prices have risen considerably since then and it's quite an expensive restaurant
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bo+Tung+Xeo)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

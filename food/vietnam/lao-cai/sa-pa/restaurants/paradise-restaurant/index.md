@@ -21,4 +21,5 @@ One of the few old traveller cafés still standing after Covid19, Paradise offer
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=001A+Thác+Bạc+TT.+Sa+Pa+Sa+Pa+Lào+Cai+330000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

@@ -21,3 +21,4 @@ This comfy western style café is an air con oasis in Chau Doc's busy centre. Pr
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=P459+W8Q+Châu+Phú+A+Châu+Đốc+An+Giang+Vietnam)
 🍽️ **Cuisine:** Italian · Pizza
+💰 **Price level:** ...

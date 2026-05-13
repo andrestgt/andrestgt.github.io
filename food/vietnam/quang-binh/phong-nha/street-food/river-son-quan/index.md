@@ -21,3 +21,4 @@ We went here during corona times as it was the only place that was not just open
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=J74X+5VF+Phong+NHA+Bố+Trạch+Quảng+Bình+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

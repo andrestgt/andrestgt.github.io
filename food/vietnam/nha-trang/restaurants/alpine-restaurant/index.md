@@ -27,4 +27,5 @@ All in all, despite some room for improvement, a good meal at a great price
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=120+/+26+Nguyễn+Thiện+Thuật+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

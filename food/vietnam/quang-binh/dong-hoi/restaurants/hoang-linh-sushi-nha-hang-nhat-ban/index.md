@@ -21,4 +21,5 @@ This is the only sushi restaurant in Dong Hoi and it's perfectly adequate. The q
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=08+Dã+Tượng+Hải+Đình+Đồng+Hới+Quảng+Bình+Vietnam)
 🍽️ **Cuisine:** Japanese · Sushi
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

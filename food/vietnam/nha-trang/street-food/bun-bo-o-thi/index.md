@@ -21,4 +21,5 @@ Very popular bún bò place, a little pricier than some others, but the broth is
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=20a+Đ.+Phan+Chu+Trinh+Xương+Huân+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

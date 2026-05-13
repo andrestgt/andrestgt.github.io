@@ -29,4 +29,5 @@ I'd definitely come back for the ribs, though
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=150+Cầu+Dứa+-+Phú+Nông+Vĩnh+Ngọc+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

@@ -21,3 +21,4 @@ Considering the name of this place simply means Northern style beef noodle soup 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=J842+M6H+Phong+NHA+Bố+Trạch+Quảng+Bình+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...

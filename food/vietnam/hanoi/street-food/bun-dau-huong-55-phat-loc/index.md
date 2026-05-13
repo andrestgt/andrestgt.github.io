@@ -21,3 +21,4 @@ This one is for adventurous eaters. The texture of their tofu is perfect, crunch
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=55+Ng.+Phất+Lộc+Hàng+Buồm+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

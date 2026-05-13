@@ -21,4 +21,5 @@ Come to this friendly noodle joint for a large bowl of tasty Sot Vang (beef nood
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=RX9P+G4V+P.+Minh+Khai+Tp.+Hà+Giang+Hà+Giang+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

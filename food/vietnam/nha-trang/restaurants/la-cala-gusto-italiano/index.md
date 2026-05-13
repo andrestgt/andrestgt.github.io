@@ -21,4 +21,5 @@ For many years there was only one real Italian restaurant in Nha Trang, Da Ferna
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bạch+Đằng+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Italian
+💰 **Price level:** ...
 💰 **Price level:** ₫300–400k

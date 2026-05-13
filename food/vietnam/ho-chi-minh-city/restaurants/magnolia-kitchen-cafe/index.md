@@ -21,3 +21,4 @@ Cosy little place serving authentic Vietnamese comfort food in a relaxed setting
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=192+Đ.+Đề+Thám+Phường+Cầu+Ông+Lãnh+Quận+1+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

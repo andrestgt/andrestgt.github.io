@@ -21,3 +21,4 @@ We actually came here to get a nice view over Nha Trang, but sadly Garden Hills,
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Garden+Hills+restaurant)
 🍽️ **Cuisine:** Seafood
+💰 **Price level:** ...

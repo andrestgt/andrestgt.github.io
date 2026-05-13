@@ -29,4 +29,5 @@ Their grilled teriyaki octopus was a bit underwhelming to be honest and their tw
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=24+Dã+Tượng+Vĩnh+Hoà+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

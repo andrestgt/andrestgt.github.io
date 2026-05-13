@@ -31,3 +31,4 @@ The portions are generous and price is okay but i don't rate this place, there's
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=274+Đ.+Bùi+Viện+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Indian
+💰 **Price level:** ...

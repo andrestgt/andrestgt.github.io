@@ -23,4 +23,5 @@ My personal favourite place for bún chả in Hanoi since long before they got M
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bun+cha+Tuyet+34)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

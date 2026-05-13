@@ -21,3 +21,4 @@ Prime location and significantly better value than similar places in Nha Trang. 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mangal)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

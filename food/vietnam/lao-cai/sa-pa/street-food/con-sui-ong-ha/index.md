@@ -21,3 +21,4 @@ There's nothing better for breakfast on a cool Sapa morning than a hot bowl of n
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=436+Đường+Điện+Biên+Phủ+TT.+Sa+Pa+Sa+Pa+Lào+Cai+31000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...

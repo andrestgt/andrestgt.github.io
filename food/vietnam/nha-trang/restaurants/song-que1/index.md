@@ -27,3 +27,4 @@ This is one to try for people who enjoy off the beaten track experiences
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=74CW+HV3+Thôn+Trung+Vĩnh+Phương+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

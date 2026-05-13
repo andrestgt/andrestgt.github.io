@@ -27,4 +27,5 @@ Prices have gone up, predictably, but it's still affordable
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Trần+Phú+Vĩnh+Nguyên+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Seafood
+💰 **Price level:** ...
 💰 **Price level:** ₫200,000–300,000

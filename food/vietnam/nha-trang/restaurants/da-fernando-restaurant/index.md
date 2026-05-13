@@ -21,3 +21,4 @@ For many years, Fernando has been serving the best Italian food in Nha Trang, an
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nguyen+Thien+Thuat+St+Lộc+Thọ+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Italian
+💰 **Price level:** ...

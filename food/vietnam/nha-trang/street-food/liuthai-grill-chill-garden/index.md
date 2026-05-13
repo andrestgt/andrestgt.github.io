@@ -31,3 +31,4 @@ We paid over 400k which is too much for the quality
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=20+Đường+Phong+Châu+Phước+Hải+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Thai
+💰 **Price level:** ...

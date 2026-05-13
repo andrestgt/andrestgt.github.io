@@ -21,3 +21,4 @@ If you can look past the atrocious decor, the stale atmosphere and the fact that
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1+Hùng+Vương+Phường+6+Sóc+Trăng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

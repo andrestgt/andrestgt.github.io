@@ -21,3 +21,4 @@ Huge and hugely popular open-air eatery that specialises in grilled chicken. The
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=39+Đường+Trần+Đại+Nghĩa+Phường+8+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

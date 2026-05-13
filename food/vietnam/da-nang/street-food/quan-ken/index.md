@@ -21,4 +21,5 @@ Temporary pop up drinking place that specialises in Goi Ca, fish salads. Their v
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Quán+Kén)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

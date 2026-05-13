@@ -25,4 +25,5 @@ If you fancy Indian in Nha Trang, Ganesh is the place to go.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=186+Hùng+Vương+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Indian
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

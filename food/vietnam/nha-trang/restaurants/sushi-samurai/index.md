@@ -29,3 +29,4 @@ Go to Kiwami instead, a bit more expensive, but light years ahead in terms of qu
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=107+Nguyễn+Thiện+Thuật+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Japanese · Sushi
+💰 **Price level:** ...

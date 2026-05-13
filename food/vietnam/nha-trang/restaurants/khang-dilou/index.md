@@ -21,4 +21,5 @@ This little Chinese eatery has dumplings that are made right in front of you. Ta
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=25+Võ+Trứ+Phước+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
+💰 **Price level:** ...
 💰 **Price level:** ₫100,000–200,000

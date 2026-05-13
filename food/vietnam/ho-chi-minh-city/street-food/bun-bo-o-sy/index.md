@@ -21,4 +21,5 @@ My go to place for Bun Bo Hue in the tourist area. It's local, authentic, well p
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bún+bò+Ô+Sỹ)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

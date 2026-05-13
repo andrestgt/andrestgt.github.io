@@ -23,3 +23,4 @@ Service and atmosphere are predictably good.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sheraton+Nha+Trang+Hotel+**&**+Spa+26-28+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
+💰 **Price level:** ...

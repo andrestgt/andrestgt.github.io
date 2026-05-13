@@ -21,3 +21,4 @@ Excellent place to sample a broad range of Vietnamese street food in cleaner, qu
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=65+Đ.+Lê+Lợi+Bến+Nghé+Quận+1+Hồ+Chí+Minh+70000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

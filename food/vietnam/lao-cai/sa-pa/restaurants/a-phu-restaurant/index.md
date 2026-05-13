@@ -23,4 +23,5 @@ Attractive restaurant with a hill tribe theme that caters to both tourists and l
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Fansipan+TT.+Sa+Pa+Sa+Pa+Lào+Cai+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

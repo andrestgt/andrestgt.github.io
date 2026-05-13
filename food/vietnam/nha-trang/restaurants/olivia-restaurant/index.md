@@ -35,3 +35,4 @@ On a positive note, the service here is good and friendly and the menu is still 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2+Nguyễn+Thiện+Thuật+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Italian
+💰 **Price level:** ...

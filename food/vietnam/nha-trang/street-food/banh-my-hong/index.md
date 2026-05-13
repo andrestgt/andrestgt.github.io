@@ -21,4 +21,5 @@ Their Banh Mi Dac Biet for 22k is one of the best traditional Vietnamese baguett
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phương+Sài+tp.+Nha+Trang+63+Đ.+Lê+Thành+Phương+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bánh Mì
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

@@ -21,3 +21,4 @@ Tiny, and massively popular. Hard to get a table, even at lunchtime. Fancy Hue d
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=89+Thạch+Thị+Thanh+Phường+Tân+Định+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

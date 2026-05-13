@@ -21,4 +21,5 @@ Ideal pit stop almost exactly halfway between Sapa and Bac Ha taking the scenic 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=ĐT151+XuâGiao+Bảo+Thắng+Lào+Cai+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

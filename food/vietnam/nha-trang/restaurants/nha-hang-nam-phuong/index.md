@@ -21,3 +21,4 @@ Popular local restaurant in the North, mostly frequented by local birthday or co
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=3+Đặng+Tất+Vĩnh+Hải+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

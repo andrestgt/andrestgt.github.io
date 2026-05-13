@@ -21,3 +21,4 @@ With several outlets around HCMC Tokyo Deli is one of the best places for a quic
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Crescent+Residence+1+Đ+Tôn+Dật+Tiên+Tân+Phú+Quận+7+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Japanese · Sushi
+💰 **Price level:** ...

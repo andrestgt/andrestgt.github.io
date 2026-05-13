@@ -23,3 +23,4 @@ Happy hour cocktails are a good deal, quality concoctions, from noon until 7 pm
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=37+Đường+Phan+Bội+Châu+Cẩm+Châu+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

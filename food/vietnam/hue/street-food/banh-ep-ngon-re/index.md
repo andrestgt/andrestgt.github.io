@@ -21,3 +21,4 @@ Local speciality street food that looks and tastes a little like Vietnam's answe
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=11+Lê+Ngọc+Hân+Tây+Lộc+Huế+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

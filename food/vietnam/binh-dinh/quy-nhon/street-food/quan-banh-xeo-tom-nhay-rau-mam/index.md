@@ -21,4 +21,5 @@ This most unremarkable eatery on one of Quy Nhon's least pleasant roads is not a
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=91+Đống+Đa+Thị+Nải+Quy+Nhơn+Bình+Định+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫50–100k per person

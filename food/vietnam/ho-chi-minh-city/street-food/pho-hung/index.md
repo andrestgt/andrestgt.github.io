@@ -21,3 +21,4 @@ Pho Hung has several outlets in town, they're all super popular and crowded most
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=243+Đ.+Nguyễn+Trãi+Phường+Nguyễn+Cư+Trinh+Quận+1+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...

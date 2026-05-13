@@ -21,3 +21,4 @@ Got a delivery from here. Not impressed. The chicken tikka were good, but the ma
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=SA+26-2+sky+garden+2+Quận+7+Vietnam)
 🍽️ **Cuisine:** Indian
+💰 **Price level:** ...

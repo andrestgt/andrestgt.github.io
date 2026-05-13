@@ -21,4 +21,5 @@ For such a short road, little Đỗ Quang Đẩu in the heart of Saigon's backpa
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=37+Đỗ+Quang+Đẩu+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

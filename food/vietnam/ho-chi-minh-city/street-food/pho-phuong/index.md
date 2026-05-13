@@ -21,4 +21,5 @@ One of the more famous Pho joints in town and always busy with locals and visito
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pho+Phuong)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

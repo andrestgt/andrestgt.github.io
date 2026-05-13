@@ -21,3 +21,4 @@ Perfect location on Cathedral square. Very cute little bistro with good Vietname
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=6+P.+Ấu+Triệu+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

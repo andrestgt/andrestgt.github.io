@@ -21,3 +21,4 @@ Small budget sushi place in the backpacker area. The sashimi are fresh enough, b
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=52+Đ.+Nguyễn+Cư+Trinh+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Japanese
+💰 **Price level:** ...

@@ -21,4 +21,5 @@ subtitle: Hoàn Kiếm · Bia Hơi
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34+P.+Phan+Chu+Trinh+Phan+Chu+Trinh+Hoàn+Kiếm+Hà+Nội+100000+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

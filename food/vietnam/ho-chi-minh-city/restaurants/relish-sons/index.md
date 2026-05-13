@@ -21,4 +21,5 @@ Great concept, very good burgers and fries, craft beers on tap. One of my favour
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2+Đ.+Đặng+Hữu+Phổ+Thảo+Điền+Quận+2+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

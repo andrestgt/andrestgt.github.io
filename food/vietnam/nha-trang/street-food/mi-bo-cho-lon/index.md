@@ -23,4 +23,5 @@ Edit : they just moved to bigger premises with a slightly more expansive menu an
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=8B+Đ.+Ngô+Thời+Nhiệm+Ward+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

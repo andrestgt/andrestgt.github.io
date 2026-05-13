@@ -23,4 +23,5 @@ There's a good reason why Yummy is the most popular traveller café in Cat Ba. I
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=102+Núi+Ngọc+TT.+Cát+Bà+Cát+Hải+Hải+Phòng+Vietnam)
 🍽️ **Cuisine:** Thai
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

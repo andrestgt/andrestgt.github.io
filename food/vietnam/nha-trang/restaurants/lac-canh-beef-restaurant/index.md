@@ -29,4 +29,5 @@ Still good, but the beef was sweeter and chewier than last time. Squid was excel
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=77+Đ.+Nguyễn+Bỉnh+Khiêm+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

@@ -23,3 +23,4 @@ As it is, though, it's just a basic local eatery, but that's not a bad thing. I 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=41+Đ.+Lê+Lợi+Châu+Phú+B+Châu+Đốc+An+Giang+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

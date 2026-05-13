@@ -21,4 +21,5 @@ One of the best bowls of Pho in Nha Trang for several reasons. The main one is t
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=19+Ngô+Gia+Tự+P+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

@@ -21,3 +21,4 @@ One of many BBQ places on this street, Chilli stands out for its passion fruit b
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=232+Vĩnh+Khánh+Phường+10+Quận+4+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

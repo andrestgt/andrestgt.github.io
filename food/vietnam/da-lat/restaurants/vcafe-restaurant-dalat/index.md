@@ -21,3 +21,4 @@ Cosy bar/bistro hybrid that's been around for a long time. It's a great place fo
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=17+Đường+Bùi+Thị+Xuân+Phường+2+Đà+Lạt+Lâm+Đồng+660000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

@@ -21,3 +21,4 @@ Simple little Mexican café that's not terribly charming and quite pricey, but t
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=86+P.+Hàng+Quạt+Hàng+Gai+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Mexican
+💰 **Price level:** ...

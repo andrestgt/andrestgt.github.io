@@ -21,3 +21,4 @@ Simple, pleasant little rooftop drinking place and eatery in a non touristy, unf
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Đường+Đồng+Nai+Phước+Tân+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

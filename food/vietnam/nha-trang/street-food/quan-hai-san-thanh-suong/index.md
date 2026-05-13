@@ -21,4 +21,5 @@ This is your quintessential Vietnamese seafood restaurant—a massive place with
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Trần+Phú+Vĩnh+Nguyên+Nha+Trang+Khánh+Hòa+57000+Vietnam)
 🍽️ **Cuisine:** Seafood
+💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

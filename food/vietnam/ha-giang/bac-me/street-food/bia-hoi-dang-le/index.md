@@ -21,3 +21,4 @@ It's the only bia hoi place we found in Bac Me. Friendly owners, large two litre
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=P8RC+96G+QL34+Yên+Phú+Bắc+Mê+Hà+Giang+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...

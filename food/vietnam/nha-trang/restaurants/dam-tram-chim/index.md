@@ -21,3 +21,4 @@ Large restaurant of chalets above lotus ponds in the midst of rice fields. It's 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phước+Đồng+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

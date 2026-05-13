@@ -23,4 +23,5 @@ We ended up having lunch here simply because is was the only place that was open
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bố+Lù+Ba+Bể+District+Bắc+Kạn+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

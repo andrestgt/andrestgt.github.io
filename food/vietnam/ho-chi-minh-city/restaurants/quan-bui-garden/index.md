@@ -21,3 +21,4 @@ This branch has a lovely garden setting and serves a variety of Vietnamese dishe
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=55A+Ngô+Quang+Huy+Thảo+Điền+Thủ+Đức+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

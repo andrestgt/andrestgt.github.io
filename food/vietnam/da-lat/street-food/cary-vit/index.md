@@ -21,4 +21,5 @@ This place is a must on any street food tour of Dalat. Duck curry with either ba
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=35+Phan+Đình+Phùng+Phường+1+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

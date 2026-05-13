@@ -23,4 +23,5 @@ For carbs, however, better just order some rice dish, we made the mistake of ord
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=45+Trần+Cao+Vân+Thống+Nhất+Kon+Tum+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫50–100k per person

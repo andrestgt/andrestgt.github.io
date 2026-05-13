@@ -23,4 +23,5 @@ Old school, noisy bia hoi joint near the market. The beer is good, 25k a jug (1,
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Unnamed+Road+Bắc+Hà+Lào+Cai+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

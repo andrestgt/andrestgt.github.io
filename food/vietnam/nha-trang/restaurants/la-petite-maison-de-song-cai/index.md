@@ -21,3 +21,4 @@ Wonderful French restaurant overlooking the city. The 470k brunch is fantastic v
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=La+Petite+Maison+de+Song+Cai)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

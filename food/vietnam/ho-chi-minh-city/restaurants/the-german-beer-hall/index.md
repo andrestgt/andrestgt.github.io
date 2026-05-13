@@ -23,4 +23,5 @@ But honestly? That’s not a bad thing. The food is good, and so is the beer, es
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=218+Nguyễn+Văn+Khối+Phường+8+Gò+Vấp+Thành+phố+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

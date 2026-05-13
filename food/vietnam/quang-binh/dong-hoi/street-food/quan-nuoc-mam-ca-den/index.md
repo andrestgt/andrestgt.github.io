@@ -23,4 +23,5 @@ We had originally planned to go to the more modern looking and well reviewed B52
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=FJ75+75F+Đường+Phạm+Văn+Đồng+Nam+Sách+Đồng+Hới+Quảng+Bình+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

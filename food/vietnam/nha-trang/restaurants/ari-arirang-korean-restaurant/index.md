@@ -21,4 +21,5 @@ After choices for Korean food had been very limited for many years, BBQ places a
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=69+Võ+Trứ+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Korean
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

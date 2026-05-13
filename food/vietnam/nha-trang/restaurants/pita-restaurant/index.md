@@ -25,3 +25,4 @@ But while Mix has turned into touristy nightmare with ever rising prices and dro
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pita+restaurant)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

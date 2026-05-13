@@ -21,3 +21,4 @@ Tried both a Vietnamese and a German dish here. The marinated chicken leg with s
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=20+Ng.+Huyện+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+100000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

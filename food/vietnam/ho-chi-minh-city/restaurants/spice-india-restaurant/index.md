@@ -23,3 +23,4 @@ Update: finally actually went there. It looks and feels a bit like being in Indi
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=244+Bùi+Viện+Phường+Bến+Thành+Quận+1+Thành+phố+Hồ+Chí+Minh+012345+Vietnam)
 🍽️ **Cuisine:** Indian
+💰 **Price level:** ...

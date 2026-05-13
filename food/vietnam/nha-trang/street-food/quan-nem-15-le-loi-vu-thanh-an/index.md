@@ -21,4 +21,5 @@ This is my favourite nem nuong place in Nha Trang, it's a noisy and busy simple 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Lê+Lợi+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

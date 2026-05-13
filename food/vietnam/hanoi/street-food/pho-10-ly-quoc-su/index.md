@@ -21,4 +21,5 @@ Most famous Pho place in the Old Town so you can imagine it's packed with locals
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=10+P.+Lý+Quốc+Sư+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

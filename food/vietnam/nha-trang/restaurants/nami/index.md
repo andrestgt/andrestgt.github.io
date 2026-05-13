@@ -25,3 +25,4 @@ So if you're only looking for a good Korean barbecue restaurant, this place is r
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nami)
 🍽️ **Cuisine:** Korean
+💰 **Price level:** ...

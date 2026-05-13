@@ -21,4 +21,5 @@ This one is for completists. A rarely found bowl of noodles with jellyfish and p
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2+Đ.+Chi+Lăng+Phú+Cát+Huế+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

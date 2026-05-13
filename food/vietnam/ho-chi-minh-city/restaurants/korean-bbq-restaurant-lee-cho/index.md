@@ -21,3 +21,4 @@ One of the many Korean barbecue places in Saigon's Koreatown, and seemingly the 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=48+Khu+Phố+Hưng+Phước+2+Tân+Phong+Quận+7+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Korean
+💰 **Price level:** ...

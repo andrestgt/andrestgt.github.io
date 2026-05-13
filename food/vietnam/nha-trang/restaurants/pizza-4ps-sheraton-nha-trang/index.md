@@ -23,4 +23,5 @@ They serve craft beers from the tap for less than you'd pay in most local bars (
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sheraton+Hotel+28+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+57000+Vietnam)
 🍽️ **Cuisine:** Italian · Pizza
+💰 **Price level:** ...
 💰 **Price level:** ₫ Under 50k per person

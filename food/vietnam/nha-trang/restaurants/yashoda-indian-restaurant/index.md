@@ -23,4 +23,5 @@ Update 2025 : Yashoda had been closed for several years during the pandemic, but
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=119+Nguyễn+Thiện+Thuật+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Indian
+💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

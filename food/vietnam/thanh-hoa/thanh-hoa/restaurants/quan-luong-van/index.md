@@ -23,4 +23,5 @@ Thanh Hoa's most popular Bia hoi joint is worth a visit for the local specialty 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=279+P.+Trường+Thi+P.+Lam+Sơn+Thanh+Hóa+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
+💰 **Price level:** ...
 💰 **Price level:** ₫50–100k per person

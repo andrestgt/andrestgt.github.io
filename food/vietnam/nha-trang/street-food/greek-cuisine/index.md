@@ -21,4 +21,5 @@ Of all the Greek souvlaki places that have popped up around Pho Tay, this one op
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=223+Nguyễn+Thiện+Thuật+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Greek
+💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

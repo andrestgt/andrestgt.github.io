@@ -35,3 +35,4 @@ Nevertheless, i highly recommend this friendly place, and i will certainly retur
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=78/42+Tuệ+Tĩnh+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...

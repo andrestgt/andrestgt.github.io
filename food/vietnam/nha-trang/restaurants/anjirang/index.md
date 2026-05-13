@@ -27,3 +27,4 @@ But for 300k a head I would have expected more
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Vietnam+Khánh+Hòa+Nha+Trang+Vĩnh+Điềm+Trung+lô+11+CT1+KĐT)
 🍽️ **Cuisine:** Korean
+💰 **Price level:** ...

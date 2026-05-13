@@ -27,4 +27,5 @@ Their combos are great value so it's a good idea to bring friends, this is not a
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=171+số+cũ/131+Nguyễn+Thị+Minh+Khai+Phước+Hoà+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Korean
+💰 **Price level:** ...
 💰 **Price level:** ₫100–200k per person

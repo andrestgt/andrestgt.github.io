@@ -21,3 +21,4 @@ Korean and Japanese food available here. The grilled meat dishes excellent, from
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=90+Đ.+2+Tháng+9+Bình+Thuận+Hải+Châu+Đà+Nẵng+550000+Vietnam)
 🍽️ **Cuisine:** Japanese
+💰 **Price level:** ...

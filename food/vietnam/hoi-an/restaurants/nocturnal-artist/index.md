@@ -21,3 +21,4 @@ Cute, artsy little hole in the wall serving inexpensive but genuinely delicious 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=345+Nguyễn+Duy+Hiệu+Cẩm+Châu+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
