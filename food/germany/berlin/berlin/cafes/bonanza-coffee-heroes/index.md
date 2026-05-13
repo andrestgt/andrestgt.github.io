@@ -6,7 +6,8 @@ title: Bonanza Coffee Heroes
 subtitle: Prenzlauer Berg · Specialty Coffee
 ---
 
-Like many hipster cafés, this place takes coffee extremely seriously, and the coffee is arguably excellent. Unfortunately, the prices are among the highest in the city and the atmosphere is distinctly cool. Worth it for the coffee.
+
+Like many hipster cafés, this place takes coffee extremely seriously, and the coffee is arguably excellent. Unfortunately, they seem less interested in other things that make cafés pleasant, such as comfortable seating and friendly service.
 
 ### Practical
 

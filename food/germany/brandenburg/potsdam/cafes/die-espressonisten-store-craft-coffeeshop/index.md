@@ -6,7 +6,8 @@ title: die espressonisten Store & Craft Coffeeshop
 subtitle: Potsdam · Specialty Coffee
 ---
 
-Friendly café with excellent coffee at sensible prices. Unfortunately, there's no wifi and only wooden benches — but the coffee more than compensates.
+
+Friendly café with excellent coffee at sensible prices. Unfortunately, there's no wifi and only wooden benches.
 
 ### Practical
 

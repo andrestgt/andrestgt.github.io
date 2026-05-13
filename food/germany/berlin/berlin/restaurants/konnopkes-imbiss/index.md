@@ -6,7 +6,8 @@ title: Konnopke's Imbiss
 subtitle: Prenzlauer Berg · Currywurst
 ---
 
-Well, it's a currywurst, and I like currywurst, so recommending this place is hardly difficult. The sauce is very good, which is what counts. A Berlin institution.
+
+Well, it's a currywurst, and I like currywurst, so recommending this place is hardly difficult. The sauce is very good, and there's mayo with the fries. Honestly, though, I wouldn't queue more than a few minutes for it. It's good, but not life-changing. Still, the prices are reasonable despite the fame, so yes, go and try the world's most famous currywurst.
 
 ### Practical
 

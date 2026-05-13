@@ -6,7 +6,8 @@ title: Hammons Brot-und Kaffeegenuß
 subtitle: Neuendettelsau · Bakery Café
 ---
 
-Excellent bakery café with a spacious, genuinely comfortable interior that makes it easy to linger longer than planned. The baked goods are outstanding and the coffee is very good.
+
+Excellent bakery café with a spacious, genuinely comfortable interior that makes it easy to linger longer than planned. The cappuccino is very good, and the Frankenstolz breakfast is extraordinarily generous, easily enough to feed two or even three hungry people.
 
 ### Practical
 

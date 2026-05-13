@@ -6,7 +6,8 @@ title: Peter K.
 subtitle: Leipzig Reudnitz · Bar
 ---
 
-Peter K. is pretty much exactly how I think a bar should be: indie, cheap and cheerful. The craft beer is more expensive than the regular stuff, but fairly priced by any reasonable standard. A gem.
+
+Peter K. is pretty much exactly how I think a bar should be: indie, cheap and cheerful. The craft beer is more expensive, but the regular beer is inexpensive, the music is good without being too loud, and the whole place has a relaxed atmosphere. Definitely my kind of place.
 
 ### Practical
 

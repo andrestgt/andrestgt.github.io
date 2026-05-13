@@ -6,7 +6,8 @@ title: KRONE Trattoria-Pizzeria
 subtitle: Stuttgart · Italian
 ---
 
-Really good Italian food in the east end with friendly service and reasonable prices. The pasta and pizza are both excellent.
+
+Really good Italian food in the east end with friendly service and reasonable prices considering what some other Italian restaurants in Stuttgart charge. Antipasti, pizza, saltimbocca, all excellent quality and really delicious. A positive surprise since, despite being very popular and full most days, this is not one of the most renowned Italians in town.
 
 ### Practical
 

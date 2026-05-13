@@ -6,7 +6,8 @@ title: Alter Kastanienhof
 subtitle: Rhodt unter Rietburg · Wine Tavern
 ---
 
-At Alter Kastanienhof in the pretty village of Rhodt unter Rietburg, you can sit pleasantly in the courtyard in good weather. Solid Pfälzer food and regional wines at reasonable prices.
+
+At Alter Kastanienhof in the pretty village of Rhodt unter Rietburg, you can sit pleasantly in the courtyard in good weather, but it's also worth heading inside to the very prettily furnished old premises. The building has plenty of atmosphere. The food can't quite keep up with the surroundings, though the gutbürgerlich cooking is solid enough. There are seasonal specialities, such as a chestnut soup in autumn, alongside the usual Pfälzer classics. The braised pork cheeks in red wine sauce were very fine; the wild boar ragout, on the other hand, came rather dry. Service is very friendly and attentive. Mains tend toward €30 and above, which counts as upscale for the area.
 
 ### Practical
 

@@ -6,7 +6,8 @@ title: Erste Fracht Braugasthaus
 subtitle: Karlsruhe · Brewpub
 ---
 
-Service staff here can be overwhelmed and prices are on the high side, but the location in a park just opposite the train station is very pleasant. Worth a visit for the setting and the house-brewed beer.
+
+Service staff here can be overwhelmed and prices are on the high side but the location in a park just opposite the train station is perfect for travellers and their house beers are excellent. Superbly fresh tasting Hefeweizen and a delicious dark beer with notes of honey. 4,50€ for a glass
 
 ### Practical
 

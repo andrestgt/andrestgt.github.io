@@ -6,7 +6,8 @@ title: Hochwälder Brauhaus
 subtitle: Losheim am See · Microbrewery, Beer Garden
 ---
 
-Hochwälder Brauhaus on Losheim Lake is beautifully put together — stylish, modern, in the spirit of a quality microbrewery. In good weather the beer garden overlooking the lake is very pleasant. The house beer is excellent.
+
+Hochwälder Brauhaus on Losheim Lake is beautifully done out — stylish, modern and in the spirit of a microbrewery. In good weather you can sit out on the terrace overlooking the lake, which is without question a plus. Another positive: you actually find genuine Saarland specialities on the menu, such as Gefillde — mince-stuffed potato dumplings — served with an exceedingly tasty if rich bacon and cream sauce. I also had a seasonal venison burger, which was decent in flavour but somewhat dry. The house-brewed beer, on the other hand, didn't quite convince me. The dark in particular came across rather flat; from a microbrewery I'd have hoped for more depth and character. Even so, Hochwälder Brauhaus is worth a visit for the location and atmosphere alone.
 
 ### Practical
 

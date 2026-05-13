@@ -6,7 +6,8 @@ title: Goldenes Posthorn
 subtitle: Nuremberg · Franconian, Traditional
 ---
 
-Traditional restaurant dating back to medieval times, famous and very popular with visitors. Fortunately, it's also genuinely good — solid Franconian cooking in a historic setting.
+
+Traditional restaurant dating back to medieval times, famous and very popular with visitors. Fortunately, it's also genuinely good. The food and wine are both good, prices are reasonable, and despite the fame the place still has plenty of atmosphere.
 
 ### Practical
 

@@ -6,7 +6,8 @@ title: Augustiner Stammhaus
 subtitle: Munich · Beer Hall, Bavarian
 ---
 
-Very nice traditional place, inside and outside. Beer is quite expensive but excellent, especially the Dunkel. Food is reasonable and portions are generous. A solid Munich institution.
+
+Very nice traditional place, inside and outside. Beer is quite expensive, but excellent, esp the Dunkel. Food is reasonably priced, hearty and very good with huge portions
 
 ### Practical
 

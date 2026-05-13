@@ -6,7 +6,8 @@ title: Ressmanns Residence
 subtitle: Kirkel · Fine Dining, International
 ---
 
-An upmarket establishment with outstanding cooking at genuinely fair prices. I don't know any restaurant in the region where the quality-to-price ratio is this good. Highly recommended.
+
+An upmarket establishment with outstanding cooking at genuinely fair prices. I don't know any restaurant in the region with better value, the lunch menu in particular. The cooking is gutbürgerlich rather than creative, but that doesn't have to be a bad thing. Highly recommended.
 
 ### Practical
 

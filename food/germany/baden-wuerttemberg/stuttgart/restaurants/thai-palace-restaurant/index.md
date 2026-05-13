@@ -6,7 +6,8 @@ title: Thai Palace Restaurant
 subtitle: Stuttgart · Thai
 ---
 
-I was here only for the lunch menu. At lunch they offer 5–6 prepared dishes for around €10.50 including a drink. Good quality for the price — a solid lunchtime option.
+
+I was here only for the lunch menu, so I can't judge the regular menu. At lunch they offer 5–6 prepared dishes for €10.50 each, which is very moderate by Stuttgart standards. I ordered a Pad Krapao with chicken, which was labelled spicy and indeed had an authentic kick. To my taste, more holy basil could have been used, but for the price I won't complain. Definitely recommended for a quick lunch.
 
 ### Practical
 

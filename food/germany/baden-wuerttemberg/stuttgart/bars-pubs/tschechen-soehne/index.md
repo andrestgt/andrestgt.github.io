@@ -6,7 +6,10 @@ title: Tschechen & Söhne
 subtitle: Stuttgart · Beer Bar, Views
 ---
 
-Great views and cold beers at regular Stuttgart prices (around €5 for a Weizen in 2024). The terrace is the main attraction.
+
+Great views and cold beers at regular Stuttgart prices, i.e as high as the terrace. 3,60€ for Weizen
+
+2024 Update: The views are still excellent, but a Weizen is now 5€. That is pretty much the standard price these days, so that's fine. 5 stars for offering card payment. Not a given for most German beer gardens
 
 ### Practical
 

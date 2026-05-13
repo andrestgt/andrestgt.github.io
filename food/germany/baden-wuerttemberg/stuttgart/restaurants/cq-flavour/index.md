@@ -6,7 +6,12 @@ title: CQ Flavour
 subtitle: Stuttgart · Chinese, Sichuan
 ---
 
-Despite its location in the backyard of a rather dreary shopping complex on the outskirts, CQ Flavour is the best Chinese restaurant in Stuttgart. The dim sum is excellent and the Sichuan dishes have real depth and heat. The interior still has that slightly dated look from the eighties, but the flavours are the real deal.
+
+Despite its location in the backyard of a rather dreary shopping complex on the outskirts, CQ Flavour Restaurant is, for me, the best Chinese restaurant in Stuttgart so far. “CQ” stands for Chongqing, a region known for its pungent, spicy cuisine, and that’s exactly what you get here if you order from the authentic menu.
+
+There are also the usual German-Chinese staples like kung pao chicken for less adventurous diners, and they do those perfectly well. But it’s really worth going for the more regional dishes, such as the lamb stew.
+
+The interior still has that slightly dated German-Chinese restaurant look from the eighties, but the flavours are the real deal. It’s not cheap, though, but then again this isn’t an Asia Imbiss.
 
 ### Practical
 

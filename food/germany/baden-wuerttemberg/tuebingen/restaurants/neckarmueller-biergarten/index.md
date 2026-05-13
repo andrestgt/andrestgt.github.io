@@ -6,7 +6,8 @@ title: Neckarmüller - Biergarten
 subtitle: Tübingen · Beer Garden
 ---
 
-The beer garden's location by the river is its biggest draw, offering a fantastic setting for a relaxed outing. Unfortunately, the food left something to be desired, but the atmosphere and location are hard to beat.
+
+The beer garden’s location by the river is its biggest draw, offering a fantastic setting for a relaxed outing. Unfortunately, the home-brewed beer is just average and doesn’t live up to the setting. The food options are limited and unappealing, so I didn’t try any. Come for the view, but don’t expect much from the menu.
 
 ### Practical
 

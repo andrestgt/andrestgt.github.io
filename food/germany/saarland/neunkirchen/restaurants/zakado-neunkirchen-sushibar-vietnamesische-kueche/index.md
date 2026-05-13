@@ -6,7 +6,8 @@ title: Zakado Neunkirchen - Sushibar & Vietnamesische Küche
 subtitle: Neunkirchen · Vietnamese, Sushi
 ---
 
-For a Vietnamese-run sushi restaurant in the German provinces, the quality at Zakado is surprisingly respectable. The salmon in particular was very good.
+
+For a Vietnamese-run sushi restaurant in the German provinces, the quality at Zakado is surprisingly respectable. The salmon is fresh and generously portioned. The Vietnamese dishes on the menu are also perfectly fine, even if you shouldn't expect anything particularly authentic or exotic. Reasonably priced, and definitely recommended for Neunkirchen.
 
 ### Practical
 

@@ -6,7 +6,8 @@ title: Que Pasa
 subtitle: Kreuzberg · Bar, Cocktails
 ---
 
-Large cocktails with proper amounts of alcohol, all for €4. A comfortable place to sit as well. Hard to argue with that.
+
+Large cocktails with proper amounts of alcohol inside, all for 4€. Hard to argue with that. Comfortable place to sit as well. No opinion on the food.
 
 ### Practical
 

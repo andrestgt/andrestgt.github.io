@@ -6,7 +6,8 @@ title: Weinstube Alte Schmiede
 subtitle: Rhodt unter Rietburg · Wine Tavern, Pfälzer
 ---
 
-Alte Schmiede in the lovely wine village of Rhodt unter Rietburg is a typical Pfälzer wine tavern, and in good weather you sit beautifully in the courtyard. The wines are excellent and the food is very good. One of the nicer Straußwirtschaften on the Weinstraße.
+
+Alte Schmiede in the lovely wine village of Rhodt unter Rietburg is a typical Pfälzer wine tavern, and in good weather you can sit pleasantly outside. The food quality is overall a notch above what you often get in simpler Pfälzer places. The Leberknödel and the Saumagen were particularly good. Pricing seems a bit higher than at the forest huts in the area, but it evens out: you get fried potatoes as a side, which there you often have to pay extra for, and you get table service rather than self-service. So overall you get better quality at a price level that, in the end, isn't far from the surrounding forest huts.
 
 ### Practical
 

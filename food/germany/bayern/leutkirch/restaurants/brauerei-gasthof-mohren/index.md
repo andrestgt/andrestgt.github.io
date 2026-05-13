@@ -6,7 +6,8 @@ title: Brauerei-Gasthof Mohren
 subtitle: Leutkirch · Brewery Inn, Swabian
 ---
 
-Delightfully old-fashioned brewery inn serving excellent house-brewed beer alongside classic Swabian dishes made with obvious care. Everything about this place feels genuine and unhurried.
+
+Delightfully old-fashioned brewery inn serving excellent house-brewed beer alongside classic Swabian dishes made with organic ingredients. Prices remain refreshingly moderate, portions are generous enough without being excessive, and the service is quick and genuinely friendly.
 
 ### Practical
 

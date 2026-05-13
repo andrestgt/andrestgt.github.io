@@ -6,7 +6,8 @@ title: Café Bachbeck Konditorei
 subtitle: Schiltach · Café, Konditorei
 ---
 
-The nicest café in town and quite inexpensive, but the coffees and cakes are rather mediocre.
+
+The nicest café in town, and quite inexpensive. But the coffees and cakes are rather mediocre
 
 ### Practical
 

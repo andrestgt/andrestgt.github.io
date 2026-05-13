@@ -6,7 +6,8 @@ title: Combo
 subtitle: Dresden Neustadt · Café
 ---
 
-Very funky 70s decor with reasonable prices. The coffee is on the burnt side — which is either exactly what you want or not quite what you expected.
+
+Very funky 70s decor with reasonable prices. The coffee here is of the burnt variety, similar to French café noir which I quite like personally, but it's not hipster refined as you would expect in this area
 
 ### Practical
 

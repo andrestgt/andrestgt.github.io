@@ -6,7 +6,16 @@ title: Sai Gon Asian Street Food
 subtitle: Bad Cannstatt · Vietnamese
 ---
 
-Sai Gon looks like a basic local eatery — but there are two menus. The regular German menu covers the usual Asia Imbiss items. The Vietnamese menu, however, is the reason to come: proper Bun Dau Mam Tom, Chao Long, and dishes you rarely see in Germany. Prices are on the high side for such a basic setting, but you pay for freshness and authenticity.
+
+Sai Gon street food looks like a basic local eatery on a Bangkok (rather than Saigon) backstreet, and I mean that in a good way. I love the atmosphere here, it feels different to other "Asia Imbisse" in Germany.
+
+The same goes for the food. There's two menus here. The regular menu in German with numbered standard "Asia Imbiss" items such as duck curry or fried noodles and a few popular Vietnamese dishes thrown in. Those are cooked for German customers and they're absolutely fine.
+
+The second menu, however, is in Vietnamese and offers the real deal. It's the reason to come to this place. There's a proper Bun Bo Hue with coagulated blood, the best I've had in Germany so far.
+
+Other rare goodies include Bun Dau Mam Tom and Chao Long, but I'd recommend those only to the most adventurous foodies :)
+
+Prices are quite high for such a basic place, but you pay for freshness and authenticity and that's justified.
 
 ### Practical
 

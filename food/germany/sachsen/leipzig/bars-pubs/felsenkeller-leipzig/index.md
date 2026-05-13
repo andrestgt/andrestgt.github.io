@@ -6,7 +6,8 @@ title: Felsenkeller Leipzig
 subtitle: Leipzig Plagwitz · Beer Garden
 ---
 
-Felsenkeller is a very attractive hipster beer garden right in the middle of Leipzig's creative district. Not especially cheap, but the atmosphere is great and the setting is hard to beat.
+
+Felsenkeller is a very attractive hipster beer garden right in the middle of Leipzig's hipster district. I'm not especially familiar with local prices, but 3,80€ for a Weizenbier feels a bit expensive. Still, it's definitely a good place to spend an evening.
 
 ### Practical
 

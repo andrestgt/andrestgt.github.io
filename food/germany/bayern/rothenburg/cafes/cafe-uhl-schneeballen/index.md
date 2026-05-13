@@ -6,7 +6,8 @@ title: Cafe Uhl Schneeballen
 subtitle: Rothenburg · Café, Konditorei
 ---
 
-Pleasant café with a small veranda at the back. Prices are reasonable for such a touristy location. Unfortunately, the coffees and cakes are rather mediocre.
+
+Pleasant café with a small veranda at the back. Prices are reasonable for such a touristy location. Unfortunately, the cappuccino is pretty bad.
 
 ### Practical
 

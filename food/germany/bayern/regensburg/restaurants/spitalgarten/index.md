@@ -6,7 +6,8 @@ title: Spitalgarten
 subtitle: Regensburg · Beer Garden, Bavarian
 ---
 
-Attractive beer garden with good service, very decent beers, and generous food at fair prices. The smoked trout is especially recommended. One of the nicer beer gardens in Bavaria.
+
+Attractive beer garden with good service, very decent beers, and generous food at fair prices. The smoked trout is especially worth ordering: delicious, huge, and only 10€.
 
 ### Practical
 

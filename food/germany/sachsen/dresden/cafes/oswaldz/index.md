@@ -6,7 +6,8 @@ title: Oswaldz
 subtitle: Dresden Neustadt · Café
 ---
 
-Oswaldz serves good cappuccino for around €3 a cup, properly prepared. The atmosphere is friendly and it's a welcome find in Neustadt.
+
+Oswaldz serves good cappuccino for around 3€ a cup, and it's properly prepared. The atmosphere is friendly as well, which makes it an easy place to stop for a coffee.
 
 ### Practical
 

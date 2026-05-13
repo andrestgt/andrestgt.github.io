@@ -6,7 +6,8 @@ title: Ristorante La Scala
 subtitle: Stuttgart · Italian
 ---
 
-The food is very good — honest Italian cooking at a decent level. I found the prices on the high side for what it is, but the quality is certainly there.
+
+The food is very good, yes, my level of home cooking, which is a compliment, but I found the prices extremely high for the small servings here. 3 of us spent over 200€ with wine but decided to go to Vapiano around the corner afterwards for something more substantial
 
 ### Practical
 

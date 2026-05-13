@@ -6,7 +6,14 @@ title: Huong Viet - Vietnamesische Spezialitäten
 subtitle: Stuttgart · Vietnamese
 ---
 
-This unassuming Vietnamese restaurant, which looks more like an old school German corner pub than an Asian restaurant, serves some of the most authentic Vietnamese food I've found in Germany. We had a delicious bowl of Banh Da Cua — a Haiphong specialty, rare in this part of the world — plus tasty Seafood Banh Xeo. Fair prices, large portions, highly recommended.
+
+This unassuming Vietnamese restaurant, which looks more like a old school German corner pub than an Asian restaurant, serves the most authentic Viet food I've had in Stuttgart. There's no dodgy "Asia Imbiss" items on the menu, but actual Vietnamese dishes with focus on Northern cuisine.
+
+We had a delicious bowl of Banh Da Cua, a Haiphong specialty and rare in this part of the world. Tasty Seafood Banh Xeo, goi xoai, bun Bo la lot. All fantastic.
+
+I didn't rate the Cha Ca La Vong quite as highly, the fish was a little too dry, but that's my only small complaint.
+
+Fair prices, large portions, highly recommended
 
 ### Practical
 

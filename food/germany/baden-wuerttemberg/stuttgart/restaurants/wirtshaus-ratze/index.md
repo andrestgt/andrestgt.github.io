@@ -6,7 +6,8 @@ title: Wirtshaus Ratze
 subtitle: Stuttgart · Swabian, Wine Bar
 ---
 
-Rustic place amid allotments on the edge of Stuttgart. A young team offers a small but well-judged menu of Swabian dishes and regional wines at very fair prices. Warmly recommended.
+
+Rustic place in the half-height residential band amid Kleingärten allotments. A young team offers a small but well-judged menu of modern Swabian specialities, which are genuinely good. On the pricier side for a simple Gaststätte, but always worth a visit. There's a beer garden in summer too.
 
 ### Practical
 

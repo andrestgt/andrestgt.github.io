@@ -6,7 +6,8 @@ title: Ristorante-Pizzeria Saporid'Italia1
 subtitle: Illingen · Italian, Pizza
 ---
 
-I can only judge the pizza, but it's one of the best in the region. Fresh from the wood-fired oven, with good ingredients and a properly blistered crust.
+
+I can only judge the pizza, but it's one of the best in the region. Fresh from the wood-fired oven, with good ingredients and plenty of options. Prices feel a bit high to me, but it's not really much more than elsewhere, and the pizzas here are genuinely first class. The service could be a touch friendlier.
 
 ### Practical
 

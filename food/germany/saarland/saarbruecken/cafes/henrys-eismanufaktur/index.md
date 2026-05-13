@@ -6,7 +6,8 @@ title: Henry's Eismanufaktur
 subtitle: Saarbrücken · Ice Cream
 ---
 
-Delicious ice cream, not even too expensive, with a perfect Old Town location.
+
+Delicious ice cream, not even too expensive,  with a perfect Old Town location
 
 ### Practical
 

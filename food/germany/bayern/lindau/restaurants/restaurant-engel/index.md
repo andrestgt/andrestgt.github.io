@@ -6,7 +6,8 @@ title: Restaurant Engel
 subtitle: Lindau · Regional, Swabian
 ---
 
-Restaurant Engel is very popular, but if you turn up early enough you'll definitely find a seat — if necessary sharing a table, which only adds to the convivial atmosphere. The food is excellent and the setting in Lindau's old town is a pleasure.
+
+Restaurant Engel is very popular, but if you turn up early enough you'll definitely find a seat — if necessary sharing a table with other guests. The atmosphere is warm and welcoming. The menu offers a good selection, and the dishes we tried at dinner were fresh and well prepared. The schnitzel, the potato salad and the Käsespätzle were thoroughly convincing. The landlady is friendly and ensures a good atmosphere. Overall, a recommended spot for a successful dinner.
 
 ### Practical
 

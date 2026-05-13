@@ -6,7 +6,8 @@ title: Wirtshaus Troll
 subtitle: Stuttgart · Pub
 ---
 
-Has been around forever and is still a fun boozer with relatively cheap drinks, tasty pub grub and good music, mostly rock. A dependable neighbourhood pub.
+
+Has been around forever and is still a fun boozer with relatively cheap drinks, tasty pub grub and good music, mostly rock. If you feel thirsty, order a metre of beer, if you feel suicidal, go for the litre of schnapps
 
 ### Practical
 

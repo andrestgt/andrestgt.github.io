@@ -6,7 +6,8 @@ title: Gaststätte Mühlengrund
 subtitle: Heuchelheim-Klingen · Rural Restaurant, Pfälzer
 ---
 
-Gaststätte Mühlengrund is set in deep countryside and only reachable via narrow lanes. The restaurant is attached to a working mill, and the setting is genuinely idyllic. Good regional food at fair prices.
+
+Gaststätte Mühlengrund is set in deep countryside and is only reachable via narrow lanes. The restaurant is attached to a hotel and is, for the area, surprisingly chic. Pricing nonetheless stays — as so often in the Pfalz — at an absolutely sensible level. The cooking is on the classic gutbürgerlich side. We had the brisket with horseradish sauce as well as meat dumplings, also with horseradish sauce — both genuinely well prepared. Service was very friendly. There's a lovely garden, and you can sit outside on the terrace. Most mains are still under €20.
 
 ### Practical
 

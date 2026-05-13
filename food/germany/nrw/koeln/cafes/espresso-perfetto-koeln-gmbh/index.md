@@ -6,7 +6,8 @@ title: Espresso Perfetto Köln GmbH
 subtitle: Köln · Espresso Bar
 ---
 
-Exactly what the name promises: really good coffee. Cappuccino is around €2.50, which is very fair for such a central location.
+
+Exactly what the name promises: really good coffee. Cappuccino is around 2,50€, which is very fair for such a central location.
 
 ### Practical
 

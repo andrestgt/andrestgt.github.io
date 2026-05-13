@@ -6,7 +6,8 @@ title: Wallys Irish Pub - Saarbrücken
 subtitle: Saarbrücken · Irish Pub
 ---
 
-In the Old Town, so pleasant for sitting outside in good weather. Both Guinness and Kilkenny on draught. A reliable Irish pub.
+
+In der Altstadt, deshalb bei gutem Wetter auch nett zum draußen sitzen. Es gibt sowohl Guinness als auch Kilkenny vom Fass. Sehr guter, aufmerksamer Service, selbst an sehr geschäftigen Tagen.
 
 ### Practical
 

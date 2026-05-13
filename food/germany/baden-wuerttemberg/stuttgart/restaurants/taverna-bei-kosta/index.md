@@ -6,7 +6,8 @@ title: Taverna bei Kosta
 subtitle: Stuttgart · Greek
 ---
 
-A pretty taverna in greenery on the outskirts — a pleasant find. Solid Greek food at fair prices in a relaxed setting.
+
+A pretty taverna in greenery on the outskirts, which we discovered fairly by chance since the other places nearby were all packed. It really paid off. What you get here is Greek hospitality, a generous mezze platter and tasty grilled dishes at — for Stuttgart — fairly reasonable prices. The service is very friendly, the atmosphere agreeable. Definitely a place to come back to.
 
 ### Practical
 

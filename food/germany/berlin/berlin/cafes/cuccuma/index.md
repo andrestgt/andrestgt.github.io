@@ -6,7 +6,8 @@ title: cuccuma
 subtitle: Kreuzberg · Café
 ---
 
-Very good cappuccino for €2.50, and the cakes and pastries also look excellent.
+
+Very good cappuccino for 2,50€, and the cakes and pastries also look excellent.
 
 ### Practical
 

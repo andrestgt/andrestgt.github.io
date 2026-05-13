@@ -6,7 +6,8 @@ title: Zum Schwanen
 subtitle: Deidesheim · Wine Tavern, Pfälzer
 ---
 
-Zum Schwanen is among the less famous and pleasingly cheaper places in Deidesheim. The inner courtyard is particularly nice in good weather — a very pleasant spot for wine and Pfälzer food.
+
+Zum Schwanen is among the less famous and pleasingly cheaper places in Deidesheim. The inner courtyard is particularly nice to sit in and offers a relaxed atmosphere. There's also a wine shop attached, which explains the good wine selection. The cooking is classic, hearty Pfälzer fare. Fried potatoes with blood and liver sausage feature on the menu alongside the usual Pfälzer Teller with Bratwurst, Leberknödel and Saumagen. The food is simple and tasty, decent in quality but without standout produce. The Spätburgunder Rosé from Meßmer was very good and well priced. For the atmosphere alone, Zum Schwanen is a recommended restaurant.
 
 ### Practical
 

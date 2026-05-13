@@ -6,7 +6,8 @@ title: Dächle - Das schwäbische Wirtshaus
 subtitle: Lauffen am Neckar · Swabian Beer Garden
 ---
 
-A pleasant traditional Swabian beer garden with hot food served all day and a good house wine. The cooking is authentically Swabian and very solid throughout.
+
+A pleasant traditional Swabian beer garden with hot food served all day and a good house wine. The cooking is authentically local with schnitzels, Maultaschen, potato salad and so on. Don't expect refined Swabian cuisine, but the food is good and reasonably priced, with interesting daily specials.
 
 ### Practical
 

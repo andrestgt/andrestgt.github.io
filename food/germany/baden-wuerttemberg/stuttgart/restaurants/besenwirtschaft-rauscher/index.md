@@ -6,9 +6,8 @@ title: Besenwirtschaft Rauscher
 subtitle: Obertürkheim · Besenwirtschaft, Swabian
 ---
 
-A classic Besenwirtschaft in Obertürkheim, open only a few weeks a year. As you'd expect, it's almost always full, and waiting for a table is part of the deal. House wines are fairly priced at €4 a Viertele and qualitatively very respectable.
 
-On the food side, the Maultaschen stand out: robustly filled, with noticeably real proportions of spinach, herbs and meat. Hard to complain.
+A classic Besenwirtschaft in Obertürkheim, open only a few weeks a year. As you'd expect, it's almost always full, and without a reservation it's tricky to get a seat. In good weather, though, you can usually still squeeze in outside in the courtyard, which works without any fuss. House wines are fairly priced at €4 a Viertele and qualitatively very respectable. On the food side, the Maultaschen stand out: robustly filled, with noticeably real proportions of spinach, herbs and meat. Hard to complain.
 
 ### Practical
 

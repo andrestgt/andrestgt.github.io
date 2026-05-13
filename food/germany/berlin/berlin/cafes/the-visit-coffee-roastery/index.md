@@ -6,7 +6,8 @@ title: The Visit Coffee Roastery
 subtitle: Kreuzberg · Specialty Coffee
 ---
 
-Excellent coffee, and unusually for a hipster café, a few genuinely comfortable seats. Expensive prices and bad wifi, but very much worth visiting for the coffee alone.
+
+Excellent coffee, and unusually for a hipster café, even a few genuinely comfortable seats. Expensive prices and bad wifi are the downside.
 
 ### Practical
 

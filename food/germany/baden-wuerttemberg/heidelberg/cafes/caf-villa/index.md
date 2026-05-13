@@ -6,7 +6,8 @@ title: Café Villa
 subtitle: Heidelberg · Café, Bar
 ---
 
-Big place in a prime location that may look rather tacky and jaded, but don't let this deter you. Cocktail happy hour starts early and the prices are very reasonable. A better bet than it first appears.
+
+Big place in a prime location may look rather tacky and jaded, but don't let this deter you. Cocktail happy hour starts at 6 and is great value at 4€ a glass. Tasty Käsespätzle come in casserole big enough for 2 people easily. Value for money
 
 ### Practical
 

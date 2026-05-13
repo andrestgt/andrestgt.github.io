@@ -6,7 +6,8 @@ title: Barista Coffeeshop Erfurt
 subtitle: Erfurt · Café
 ---
 
-The coffee and the location here are both good, but the place feels rather expensive for a self-service café where customers carry their own trays.
+
+The coffee and the location here are both good, but the place feels rather expensive for a self-service café where customers are expected to return their own cups afterwards. An espresso costs 2,20€.
 
 ### Practical
 

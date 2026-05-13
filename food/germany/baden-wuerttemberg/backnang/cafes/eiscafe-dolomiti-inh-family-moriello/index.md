@@ -6,7 +6,8 @@ title: Eiscafe Dolomiti Inh. Family Moriello
 subtitle: Backnang · Italian Café
 ---
 
-Italian café in a beautiful half-timbered house in the Old Town. A good cappuccino comes in a nice size at a fair price. Well worth a stop.
+
+Italian café in a beautiful half timbered house in the Old Town. A good cappuccino comes in a nice size and goes for only 2,40€
 
 ### Practical
 

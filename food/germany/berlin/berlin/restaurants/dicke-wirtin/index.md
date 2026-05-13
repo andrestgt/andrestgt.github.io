@@ -6,7 +6,8 @@ title: Dicke Wirtin
 subtitle: Charlottenburg · Traditional Berlin
 ---
 
-Traditional Berlin food in a lively, atmospheric setting. It's touristy and fairly expensive, with most mains well above €20, but the atmosphere is genuinely convivial and the food is solid.
+
+Traditional Berlin food in a lively, atmospheric setting. It's touristy and fairly expensive, with most mains well above 10€, but portions are massive. The veal liver is a good choice.
 
 ### Practical
 

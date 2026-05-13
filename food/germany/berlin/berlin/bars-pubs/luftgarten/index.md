@@ -6,7 +6,8 @@ title: Luftgarten
 subtitle: Tempelhof · Beer Garden
 ---
 
-Great beer garden on the old Tempelhof airfield, complete with loungers and a fantastic open atmosphere. Expensive, but the setting is unique.
+
+Great beer garden on the old airfield, complete with loungers. It's expensive, though.
 
 ### Practical
 

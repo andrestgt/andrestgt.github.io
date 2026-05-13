@@ -6,7 +6,8 @@ title: Bäckerei Brunners
 subtitle: Füssen · Bakery Café
 ---
 
-Pleasant little café-bakery in Füssen serving good pretzels and decent croissants at fair prices. Perfectly fine for a quick stop.
+
+Pleasant little café-bakery in Füssen serving good pretzels and decent croissants at fair prices. Perfectly fine for a quick breakfast or snack. The cappuccinos, however, are rather underwhelming and not a reason to come.
 
 ### Practical
 

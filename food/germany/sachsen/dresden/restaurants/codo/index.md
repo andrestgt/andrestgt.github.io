@@ -6,7 +6,8 @@ title: Codo
 subtitle: Dresden Neustadt · Vietnamese, Bistro
 ---
 
-Very popular bistro with tasteful decor and good Vietnamese food at reasonable prices. Very tasty banh mi sandwiches and a lively, welcoming atmosphere.
+
+Very popular bistro with tasteful decor and good Vietnamese food at reasonable prices. Very tasty banh mi sandwiches and bun thit nuong go together extremely well with a nice Hefeweizen
 
 ### Practical
 

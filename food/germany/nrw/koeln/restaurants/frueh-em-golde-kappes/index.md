@@ -6,7 +6,8 @@ title: FRÜH Em Golde Kappes
 subtitle: Köln-Nippes · Kölsch, Cologne
 ---
 
-Fresh Kölsch, friendly service, and traditional local food at good prices. The blood sausage is delicious and the Mettbrötchen are exactly as they should be. A proper Cologne Gasthaus.
+
+Fresh Kölsch, friendly service, and traditional local food at good prices. The blood sausage is delicious, and the Mettbrötchen — raw minced pork on a bread roll, for the uninitiated — is genuinely excellent.
 
 ### Practical
 

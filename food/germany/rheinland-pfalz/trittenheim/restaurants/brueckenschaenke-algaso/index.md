@@ -6,7 +6,8 @@ title: Brückenschänke AlGaSo
 subtitle: Trittenheim · Mosel Wine Tavern
 ---
 
-AlGaSo looks rather unassuming from outside, even with the pleasant terrace. Inside, however, it's a warm and genuinely welcoming wine tavern. The Mosel wines are excellent and very fairly priced, and the food is straightforward and well made.
+
+AlGaSo looks rather unassuming from outside, even with the pleasant terrace that's great to use in good weather. Inside, however, it's surprisingly stylish and tastefully done out. On the menu you'll find — unusually for the area — Transylvanian dishes, mostly in lavish portions with plenty of meat and potatoes. Given the proximity to the Mosel, you can equally just enjoy a good glass of wine at fair prices out on the terrace. The proprietor is friendly, and card payment works without a problem, which is far from a given in this part of the world.
 
 ### Practical
 

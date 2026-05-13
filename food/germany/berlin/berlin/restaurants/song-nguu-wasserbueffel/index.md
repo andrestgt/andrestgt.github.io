@@ -6,7 +6,8 @@ title: Song Nguu "Wasserbüffel"
 subtitle: Prenzlauer Berg · Vietnamese
 ---
 
-As someone who spends part of the year in Vietnam and cares quite a lot about Vietnamese food, all I can say is: I approve wholeheartedly. This is the real thing.
+
+As someone who spends part of the year in Vietnam and cares quite a lot about Vietnamese food, all I can say is: I approve. Good, fresh food at good prices. Possibly the best Vietnamese meal I've had in Germany. The goi ga is perfection.
 
 ### Practical
 

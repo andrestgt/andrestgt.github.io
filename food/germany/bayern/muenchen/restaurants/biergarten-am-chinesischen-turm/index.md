@@ -6,7 +6,8 @@ title: Biergarten am Chinesischen Turm
 subtitle: English Garden · Beer Garden
 ---
 
-A bit expensive maybe for beers (around €8.40 for a Maß), but the atmosphere and surroundings in the English Garden are great. A quintessential Munich experience.
+
+A bit expensive maybe for beers, it's 8,40€ for 1 litre, but the atmosphere and surroundings are great
 
 ### Practical
 

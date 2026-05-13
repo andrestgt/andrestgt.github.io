@@ -6,7 +6,8 @@ title: Harmonie Griechisches Restaurant
 subtitle: Stuttgart · Greek
 ---
 
-This is quite an oddity — a simple Gaststätte in a quiet East End residential area serving both Greek and local specialities. The food is genuinely good and the prices are very reasonable. Recommended.
+
+This is quite an oddity. A simple 'Gaststätte' in a quiet East End residential area serving both Greek and local specialties at rock bottom prices (by expensive Stuttgart standards). The interior dining room doesn't have much character, but they have a lovely small garden with just a few tables, which weather permitting, is a lovely place to dine. The food is actually very decent, and for the prices they charge excellent value, both the Greek and the Swabian dishes. The 'Ouzo Teller' is massive, enough for two, especially if you wash it down with a nice 'Hefeweizen'
 
 ### Practical
 

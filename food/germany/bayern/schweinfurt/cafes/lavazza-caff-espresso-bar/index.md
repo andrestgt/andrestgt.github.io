@@ -6,7 +6,8 @@ title: Lavazza Caffè Espresso Bar
 subtitle: Schweinfurt · Espresso Bar
 ---
 
-Very good cappuccino for €2.60, along with nice cakes and friendly service. Hard to complain about that.
+
+Very good cappuccino for 2,60€, along with nice cakes and friendly service. Hard to complain about that.
 
 ### Practical
 

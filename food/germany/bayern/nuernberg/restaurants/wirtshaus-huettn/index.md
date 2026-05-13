@@ -6,7 +6,8 @@ title: Wirtshaus Hütt'n
 subtitle: Nuremberg · Brewpub, Franconian
 ---
 
-Quite expensive by Nuremberg standards, but the veranda is pleasant and they brew their own beer, which is smooth and easy to drink.
+
+Quite expensive by Nuremberg standards, but the veranda is pleasant and they brew their own beer, which is smooth and easy to drink. Can't comment on the food.
 
 ### Practical
 

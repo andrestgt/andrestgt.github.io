@@ -6,7 +6,8 @@ title: Café Lesbar
 subtitle: Stuttgart City Library · Café
 ---
 
-Modern café on the top floor of the impressive city library. From some tables you have a fine view over the city. The coffee is good, the atmosphere calm and pleasant — one of the nicer places in the city for a mid-morning break.
+
+Modern café on the top floor of the impressive city library. From some tables you have a fine view over the city. The coffee (flat white) is very respectable.
 
 ### Practical
 

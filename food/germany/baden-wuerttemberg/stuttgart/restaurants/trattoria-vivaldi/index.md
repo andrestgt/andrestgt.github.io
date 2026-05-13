@@ -6,7 +6,8 @@ title: Trattoria Vivaldi
 subtitle: Stuttgart · Italian
 ---
 
-Decent Italian food at affordable prices. The lunch specials are outstanding value, often under €7. The place has survived for years and for good reason.
+
+Decent Italian food at affordable prices. The lunch specials are outstanding value, often under 7€. The place has survived in this location for a long time, so they must be doing something right
 
 ### Practical
 

@@ -6,7 +6,8 @@ title: Schaumberg Alm
 subtitle: Schaumberg, Tholey · Alpine-Style Hut
 ---
 
-High up on a hill in the lovely Sankt Wendel countryside stands this place, built in the style of an Alpine hut. In good weather the views are excellent. The food is hearty and the atmosphere is convivial.
+
+High up on a hill in the lovely Sankt Wendel countryside stands this place, built in the style of an Alpine hut. In good weather you can sit outside and enjoy the wide-ranging view, but it's also worth heading in: the hut has been kitted out with great attention to detail, right down to the toilets. Prices for food and drink are fine, even if the portions for a hearty rural place could be a touch more generous. Recommended chiefly for the successful interior and the lovely view.
 
 ### Practical
 

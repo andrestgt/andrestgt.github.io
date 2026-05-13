@@ -6,7 +6,8 @@ title: Fyal Central
 subtitle: Münster · Specialty Coffee
 ---
 
-Attractive little hipster café with comfortable seating, good coffee, and a great location. Flat white is €3.20.
+
+Attractive little hipster café with comfortable seating, good coffee, and a great location. Flat white is 3,20€.
 
 ### Practical
 

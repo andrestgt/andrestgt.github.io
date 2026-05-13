@@ -6,7 +6,8 @@ title: Dilgelay - Der Stuttgarter Döner
 subtitle: Stuttgart · Döner, Turkish
 ---
 
-A bit pricier than average — a yufka costs just under €10 — but in return you get one of the best classic döner in Stuttgart. At weekends, the queue stretches out onto the street and moves fast.
+
+A bit pricier (a yufka costs just under €10), but in return you get one of the best classic döner in Stuttgart. At weekends it's prepared with tender, not over-spiced and not greasy steak meat. Generously filled with plenty of meat, cabbage and a pleasantly light yoghurt sauce.
 
 ### Practical
 

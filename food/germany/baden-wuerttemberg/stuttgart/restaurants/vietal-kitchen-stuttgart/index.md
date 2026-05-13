@@ -6,7 +6,8 @@ title: Vietal Kitchen Stuttgart
 subtitle: Stuttgart · Vietnamese, Healthy
 ---
 
-Outstanding healthy food, mostly Asian and Vietnamese-influenced. Quite chic for the east end, with prices to match, but the quality fully justifies them.
+
+Outstanding healthy food, mostly Asian/Vietnamese influenced. Quite chic for the east end with prices to match, but the quality is excellent. Strong contender for best Asian food in Stuttgart. Don't be put off by the health food tag, they do meat, too
 
 ### Practical
 

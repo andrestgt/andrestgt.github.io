@@ -6,7 +6,8 @@ title: Caffè-Bar
 subtitle: Stuttgart · Espresso Bar
 ---
 
-A small, characterful espresso bar with an excellent flat white at Stuttgart prices.
+
+Urige kleine Espressobar mit exzellentem Flat White zu Stuttgarter Preisen
 
 ### Practical
 

@@ -6,7 +6,8 @@ title: Restaurant Asia World
 subtitle: Fellbach · Asian Buffet
 ---
 
-A vast old-school feeding temple with a generous buffet at €25 not including drinks. The selection is impressive, the quality is acceptable at best, and you will almost certainly eat too much.
+
+A vast old-school feeding temple with a generous buffet at €25 not including drinks. The selection is impressive, the quality rather mediocre. The sushi is inedible and the meat for the teppanyaki is so-so, but some dishes were genuinely tasty, much like at a decent Asian takeaway. Take it or leave it.
 
 ### Practical
 

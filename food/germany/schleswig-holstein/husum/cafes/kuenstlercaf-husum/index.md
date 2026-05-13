@@ -6,7 +6,8 @@ title: Künstlercafé Husum
 subtitle: Husum · Café
 ---
 
-Künstlercafé is a nice old-fashioned café in the pedestrianised centre of Husum. The coffee is decent, although fairly expensive. A pleasant stop in the grey city by the grey sea.
+
+Künstlercafé is a nice old-fashioned café in the pedestrianised centre of Husum. The coffee is decent, although fairly expensive, with a mug of cappuccino costing 3,50€. The large slice of quiche for 7,95€ is tasty and definitely filling.
 
 ### Practical
 

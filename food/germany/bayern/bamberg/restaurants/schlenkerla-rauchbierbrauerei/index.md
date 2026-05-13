@@ -6,7 +6,8 @@ title: Schlenkerla, Rauchbierbrauerei
 subtitle: Bamberg · Rauchbier, Franconian
 ---
 
-The most famous Gasthaus in Bamberg, and justifiably so. Touristy, yes, but it has managed to maintain a very genuine atmosphere. The Rauchbier takes getting used to — it tastes of smoked ham — but it's a singular experience. The food is hearty Franconian and very good.
+
+The most famous Gasthaus in Bamberg, this place is obviously very popular with tourists, but has managed to maintain a very traditional flair. Their eponymous Rauchbier is very much an acquired taste, like drinking liquid bacon, but I'm quite fond. Even better is Schäufele, a local specialty dish of crispy porky deliciousness with dumplings and sauerkraut. What's not to like?
 
 ### Practical
 
