@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Cycling Indochina
-body_class: travelogue
----
-
 ---
 
 <div id="top"></div>
