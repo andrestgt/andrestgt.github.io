@@ -24,3 +24,7 @@ This is the place to come when a proper bowl of phở is what you are after in C
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

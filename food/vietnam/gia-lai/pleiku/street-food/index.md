@@ -17,3 +17,7 @@ The pho here is special because it comes in separate bowls with dry noodles in o
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -17,3 +17,7 @@ We stayed just next door so this became our go to restaurant during our time in 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -199,3 +199,7 @@ I'll have to agree with some reviewers here who find this place nice but really 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -17,3 +17,7 @@ Come to this friendly noodle joint for a large bowl of tasty Sot Vang (beef nood
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

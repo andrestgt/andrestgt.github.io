@@ -52,3 +52,7 @@ Cosy bar/bistro hybrid that's been around for a long time.
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

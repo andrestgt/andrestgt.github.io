@@ -17,3 +17,7 @@ At first glance it may look like a typical Riverside tourist trap with inflated 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

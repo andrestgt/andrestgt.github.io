@@ -17,3 +17,7 @@ This is the only bia hoi joint I saw in the centre of Tam Son.
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

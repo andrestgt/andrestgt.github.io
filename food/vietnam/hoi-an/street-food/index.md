@@ -38,3 +38,7 @@ If the big boys Phuong and Madam Khanh are too busy, or if you simply want a gre
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

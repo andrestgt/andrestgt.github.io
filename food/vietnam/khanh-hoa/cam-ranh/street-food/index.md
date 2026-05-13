@@ -17,3 +17,7 @@ Accidentally finding a place like this is one of the reasons why travelling arou
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

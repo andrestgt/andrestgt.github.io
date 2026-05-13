@@ -17,3 +17,7 @@ Thanh Hoa's most popular Bia hoi joint is worth a visit for the local specialty 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

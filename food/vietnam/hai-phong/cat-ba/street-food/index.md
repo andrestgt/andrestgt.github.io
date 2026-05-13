@@ -24,3 +24,7 @@ One of several basic harbour view sidewalk bia hoi joints in this area.
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

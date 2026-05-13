@@ -80,3 +80,7 @@ Cute, artsy little hole in the wall serving inexpensive but genuinely delicious 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

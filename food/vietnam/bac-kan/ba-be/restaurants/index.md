@@ -17,3 +17,7 @@ We ended up having lunch here simply because is was the only place that was open
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

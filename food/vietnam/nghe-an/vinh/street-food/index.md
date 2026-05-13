@@ -17,3 +17,7 @@ Nghe An is famous for its eel dishes and this clean, well run restaurant is one 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

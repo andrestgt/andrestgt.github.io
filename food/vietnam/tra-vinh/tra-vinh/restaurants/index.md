@@ -17,3 +17,7 @@ Looks like the swankiest place in town, huge menu with English Google translatio
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

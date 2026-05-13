@@ -17,3 +17,7 @@ The small town of Muang Hum is surrounded by absolutely gorgeous scenery, but th
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

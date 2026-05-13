@@ -17,3 +17,7 @@ Ram Thit Nuong is a Quang Ngai specialty dish consisting of several grilled meat
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

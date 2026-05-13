@@ -17,3 +17,7 @@ The bánh đa cua here is good without being particularly memorable, but the ver
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

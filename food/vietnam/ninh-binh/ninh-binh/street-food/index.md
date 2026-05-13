@@ -17,3 +17,7 @@ Deservedly popular local pho place that serves not only very good bowls of the e
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

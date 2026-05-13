@@ -17,3 +17,7 @@ This is everything a bia hoi joint should be, cheap, cheerful, friendly and deli
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -17,3 +17,7 @@ It's the only bia hoi place we found in Bac Me.
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -66,3 +66,7 @@ A bit more upmarket than A Luoi's other eateries, this beer garden still sells H
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -486,3 +486,7 @@ With a nice garden setting in Vinh Ngoc, a 10 minute drive from the centre, this
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

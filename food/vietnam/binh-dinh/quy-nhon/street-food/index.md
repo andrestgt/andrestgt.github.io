@@ -45,3 +45,7 @@ In the mostly rather upmarket area around the lake this simple and always packed
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

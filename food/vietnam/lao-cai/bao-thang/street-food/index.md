@@ -17,3 +17,7 @@ Ideal pit stop almost exactly halfway between Sapa and Bac Ha taking the scenic 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

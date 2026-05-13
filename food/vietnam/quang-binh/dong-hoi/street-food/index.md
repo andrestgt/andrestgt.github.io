@@ -17,3 +17,7 @@ We had originally planned to go to the more modern looking and well reviewed B52
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

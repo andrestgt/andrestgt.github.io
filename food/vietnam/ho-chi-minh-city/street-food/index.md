@@ -157,3 +157,7 @@ Small sausage eatery with rather mediocre homemade sausages, mostly German style
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

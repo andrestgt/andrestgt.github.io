@@ -17,3 +17,7 @@ This neat, modern eatery serves very good bowl of Northern style Pho (both beef 
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

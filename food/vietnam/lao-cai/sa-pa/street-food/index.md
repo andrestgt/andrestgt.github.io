@@ -17,3 +17,7 @@ There's nothing better for breakfast on a cool Sapa morning than a hot bowl of n
 
 ---
 
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -20,3 +20,7 @@ Brief one-sentence description.
 → [Read the full review](/food/vietnam/phong-nha/restaurants/review-slug.html)
 
 -->
+
+
+**Price level note:**  
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  
