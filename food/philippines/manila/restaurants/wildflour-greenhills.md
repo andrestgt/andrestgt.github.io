@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: "Wildflour Restaurant â€“ Greenhills"
+title: "Wildflour â€“ Greenhills"
 subtitle: "Greenhills, Manila Â· Restaurant"
 ---
 
