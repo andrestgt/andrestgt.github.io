@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: "Wildflour Restaurant â€“ BGC"
+title: "Wildflour â€“ BGC"
 subtitle: "BGC, Manila Â· Restaurant"
 ---
 
