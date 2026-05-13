@@ -10,6 +10,7 @@ Hands down the best beer garden in Hanoi. The location is a bit inconvenient, bu
 Furbrew is not exactly my favourite craft beer in Vietnam, I prefer Turtle Lake and Seven Bridges, but there's a whopping 21 different beers on tap, and some of them are very good.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

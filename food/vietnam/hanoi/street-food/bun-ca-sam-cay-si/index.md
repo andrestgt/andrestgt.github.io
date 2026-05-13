@@ -8,6 +8,7 @@ subtitle: Cầu Giấy · Vietnamese
 One of the best bowls of soup I found in Hanoi. The fish soup here is deeply satisfying, generously portioned and excellent value at just 40k. Be sure to order the fish spring rolls on the side as well, they are every bit as good.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

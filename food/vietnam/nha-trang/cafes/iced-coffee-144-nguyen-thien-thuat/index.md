@@ -10,6 +10,7 @@ The newest Iced Coffee location in town is a bit smaller than others with less c
 I'll always have a soft spot for this franchise since they were the first, even before Highlands, to serve good and affordable espresso drinks in Nha Trang more than a decade ago.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

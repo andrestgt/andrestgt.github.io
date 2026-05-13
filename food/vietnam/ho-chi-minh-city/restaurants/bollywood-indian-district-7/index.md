@@ -8,6 +8,7 @@ subtitle: sky garden 2 · Indian
 Got a delivery from here. Not impressed. The chicken tikka were good, but the masala was too sweet and tomato-y. The lamb korma was average, a bit bland, nothing special. Not bad, but there's better Indian food in HCMC"
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

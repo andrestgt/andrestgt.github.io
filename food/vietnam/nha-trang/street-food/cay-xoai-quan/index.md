@@ -10,6 +10,7 @@ Classic drinking place with cheap bia hoi and an extensive menu of the usual sus
 Probably not worth taking a trip to the outskirts just to eat here, but if you're in the area this is a good choice
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

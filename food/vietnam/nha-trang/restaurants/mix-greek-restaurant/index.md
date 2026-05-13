@@ -10,6 +10,7 @@ When they first opened, it instantly became one of my favourite restaurants in t
 4 years on and the place has become a victim of its own success. A tourist cattle feeding station, it's almost impossible to get a table. But it's not really worth queuing anymore. Quality control in such a place in almost impossible and while the quality has nosedived (some dishes too salty, other dishes bland and dry), the prices have gone up. Charging 40k for the cheapest bottle of Saigon is a rip off I'm afraid, but even that I would accept if the food was still as good as it was. I gave them three chances in the past year and each time I left disappointed.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

@@ -16,6 +16,7 @@ If you're tired of the city, this is a great place for a nice meal in wonderful 
 But if you want something truly local and even better food in equally beautiful surroundings, then try some of the restaurants on the river, no English menus there, though
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

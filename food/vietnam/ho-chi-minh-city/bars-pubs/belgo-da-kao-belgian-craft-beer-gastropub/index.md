@@ -8,6 +8,7 @@ subtitle: Đa Kao · Craft Beer
 Very impressive beer hall on two floors, with a fancier atmosphere than most other craft beer places in Saigon and prices to match. I was a bit disappointed with how many of their beers were actually unavailable on tap, considering that this is the brewery's main pub, but the beers I tried were all very good (a flight of 4 for 170k) albeit less adventurous compared with other Vietnamese craft beers. They do, however, serve proper Belgian frites with mayo here, which is a bonus
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

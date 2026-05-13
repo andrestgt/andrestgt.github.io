@@ -10,6 +10,7 @@ Location, location. It's a beautiful beach bar with reasonable prices, but stick
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

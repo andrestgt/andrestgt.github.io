@@ -16,6 +16,7 @@ Had a fantastic meal here. The quality is as good as it used to be many years ag
 Still good, but the beef was sweeter and chewier than last time. Squid was excellent, though. Consistency is not their strength it seems.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

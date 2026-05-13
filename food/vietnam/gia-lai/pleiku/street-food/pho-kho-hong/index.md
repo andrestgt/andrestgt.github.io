@@ -10,6 +10,7 @@ The pho here is special because it comes in separate bowls with dry noodles in o
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

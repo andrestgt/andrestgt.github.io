@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 I used to live in this neighbourhood for several years and just as I moved to a different area this fantastic little expat run neighbourhood beer garden opened, which is a pity as I'd certainly spend more time here if I still lived nearby. There's ice cold Sapporo (35k) from the tap, plus some quality comfort grub such as burgers (from 100k with fries) and sandwiches. Prices are very reasonable and the garden setting is lovely.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

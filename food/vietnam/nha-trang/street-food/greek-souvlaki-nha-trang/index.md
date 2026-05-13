@@ -10,6 +10,7 @@ Cheap and cheerful, with tasty wraps starting from 50k. There's also some Greek 
 Keep in mind that this place can be extremely busy and since everything is freshly prepared, expect to wait
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

@@ -16,6 +16,7 @@ Their grilled teriyaki octopus was a bit underwhelming to be honest and their tw
 4 stars for now, but with big potential and highly recommended
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

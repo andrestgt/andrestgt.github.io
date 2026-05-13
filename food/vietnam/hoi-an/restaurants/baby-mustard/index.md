@@ -10,6 +10,7 @@ This is one of the loveliest restaurants in the Hoi An area. A simple bamboo hou
 They do nice fried spring rolls and the steamed vegetables for their Rau Kho Quet are super fresh and crunchy. The grilled lemongrass chicken was possibly a little bit too adapted to Western palates, but rather delicious nonetheless. The prices are reasonable for a tourist oriented place in such nice surroundings, with most dishes under 100k. Highly recommended
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

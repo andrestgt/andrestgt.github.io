@@ -8,6 +8,7 @@ subtitle: Nguyễn Thái Bình · Vietnamese · Phở
 The pho here is very good and the location is convenient. The eatery is very clean and service is quite friendly. Regular D1 prices, 65k for a bowl
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

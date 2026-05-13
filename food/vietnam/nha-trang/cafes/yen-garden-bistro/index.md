@@ -10,6 +10,7 @@ Tricky to find and rarely busy, this is the most beautifully designed garden caf
 Overall, it's incredible value for the luxurious and serene atmosphere and my go to place for a calm morning cappuccino
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

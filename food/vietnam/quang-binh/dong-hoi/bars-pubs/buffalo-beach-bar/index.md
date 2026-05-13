@@ -8,6 +8,7 @@ subtitle: Đồng Hới · Bar & Pub
 That fifth star is largely for the superb beachfront location. Even without that, this is a very likeable bar with friendly service, cold beers from 20k and even Beer Lao at a perfectly fair 30k. There is a small food menu as well, so it works well as a place to settle in for sunset drinks by the sea.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

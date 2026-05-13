@@ -10,6 +10,7 @@ With the sad closure of Los Chilangos, Nha Trang’s only real Mexican restauran
 I’m knocking off a star for their unclear pricing. While there’s a small note on the front page of the menu stating that prices don’t include tax, it’s easy to miss—especially since it’s not mentioned on the specials menu or the pages where prices are actually listed. This kind of hidden surcharge is annoying. In Nha Trang, ++pricing is something you expect at international five-star hotels, not a humble spot in a dead-end alley. Just include the tax in the listed prices—like everyone else.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

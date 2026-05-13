@@ -8,6 +8,7 @@ subtitle: Quy Nhơn · Coffee
 Brand new Western style café with smooth, well prepared cappuccino for only 39k. Ac and WiFi available but the place is so popular, there's not enough comfy seats
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

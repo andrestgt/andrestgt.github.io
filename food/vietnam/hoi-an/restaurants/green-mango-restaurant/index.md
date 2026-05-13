@@ -12,6 +12,7 @@ The food here is very good though. A perfectly prepared piece of foie gras goes 
 2022 covid update : they're for now getting by, selling a small menu of local dishes at local prices which makes it a great place for getting your fill of Cao Lau and White Rose in a nice atmosphere. The quality is very good and prices very reasonable.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

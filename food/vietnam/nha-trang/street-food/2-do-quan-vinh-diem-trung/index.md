@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 As far as local drinking places go, this one is better than most. Although the menu contains all the usual standards, they have a specialty dish, Trung Non Chay Toi, essentially unlaid eggs and chicken intestines on a hot plate. It's a lot more tasty than it sounds. Prices for food and beer are very reasonable, you'll have a hard time spending more than 150k per person
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

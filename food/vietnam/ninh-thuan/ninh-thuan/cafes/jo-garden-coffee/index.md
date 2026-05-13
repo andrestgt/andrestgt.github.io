@@ -8,6 +8,7 @@ subtitle: Ninh Hải · Coffee
 Fancy and comfy garden café with great cappuccino for just 38k a cup. Very good and friendly service. Arrived by bicycle completely drenched and they immediately offered a towel to get dry. Worth a stop if you're in the area
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

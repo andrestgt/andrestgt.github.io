@@ -8,6 +8,7 @@ subtitle: Nha Trang · Coffee
 Eye-catching café with a very well executed jungle theme. The cappuccino is perfectly prepared at 55k, and the whole place makes a good impression visually. The food, however, is no reason to come here; the bò kho I tried was disappointingly bland.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

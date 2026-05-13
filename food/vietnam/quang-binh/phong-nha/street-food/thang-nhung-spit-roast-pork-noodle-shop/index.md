@@ -8,6 +8,7 @@ subtitle: Bố Trạch District · Vietnamese · Bánh Mì
 I doubt that you'll find a better Banh Mi Heo Quay (roasted pork baguette) anywhere in Vietnam if you're a meat lover. Yes, it's 50k, not cheap, but the bread is simply packed with delicious, crispy grilled pork belly and nothing else. It's a beautiful sight and tastes even better. They also do other roast pork dishes, such a a respectable bun heo quay but the Banh Mi is the star of the show
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

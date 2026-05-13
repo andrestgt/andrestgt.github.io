@@ -14,6 +14,7 @@ The selection is not as extensive as in some other CJ outlets but the usual supe
 The big drawback is that they only serve Dim Sum between 11am and 2.30pm and the service is too obtrusive for my taste.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

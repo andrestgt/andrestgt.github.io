@@ -14,6 +14,7 @@ Update : in the last couple of years this place has become incredibly busy, and 
 They now also do flat whites (60k) which are just as perfect.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

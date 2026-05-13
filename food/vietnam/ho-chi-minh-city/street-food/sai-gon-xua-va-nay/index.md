@@ -8,6 +8,7 @@ subtitle: Bến Thành · Vietnamese
 Authentic drinking place with a large food menu. The food here is good, especially the hotpot but prices are Saigon downtown, which means it's not cheap for a basic place with small plastic chairs on the pavement
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

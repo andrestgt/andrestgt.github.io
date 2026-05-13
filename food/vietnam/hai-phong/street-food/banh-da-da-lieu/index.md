@@ -8,6 +8,7 @@ subtitle: Ngô Quyền · Vietnamese
 The bánh đa cua here is good without being particularly memorable, but the very central location makes it a convenient stop when exploring Hải Phòng. Seating consists of the usual tiny plastic stools in a narrow alley, which is all part of the experience. At 30k a bowl, the pricing is perfectly fair.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

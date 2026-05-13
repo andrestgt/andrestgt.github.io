@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Large restaurant of chalets above lotus ponds in the midst of rice fields. It's quite surprising that hardly any tourists know about this super picturesque place. The food is here is good too, but the main reason to visit is the location. Generally you order a whole chicken here which is then prepared into several dishes which cost around 300k and is good for 3-4 pax
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

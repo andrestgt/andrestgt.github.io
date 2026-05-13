@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Italian
 I loved everything about Primavera — from the well-stocked deli and wood-fired oven downstairs to the cozy trattoria vibes upstairs. They serve proper Italian food, with a menu that goes far beyond just pizza and standard pasta dishes. It’s clearly not a budget place, but for the quality of the food and the happiness it delivers, it’s excellent value.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

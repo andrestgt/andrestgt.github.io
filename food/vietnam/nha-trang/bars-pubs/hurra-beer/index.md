@@ -16,6 +16,7 @@ Beer prices are low with bottles between 14 and 25k, there's no draft beer thoug
 Count on spending 200k per pax for a good meal with a few beers.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

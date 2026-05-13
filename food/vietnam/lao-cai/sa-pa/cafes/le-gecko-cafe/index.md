@@ -8,6 +8,7 @@ subtitle: Sa Pa · Coffee
 Beautiful little café with a few sofas and pavement seating. Prices are rather high, but that's not unusual in expensive Sapa. A Lavazza cappuccino costs 60k and it was merely good, not great, and I detected just a hint of cinnamon where there shouldn't be any. Vietnamese coffees are good, too. They do, however, not come in a traditional filter, and the iced ones come with plastic straws which is a bit poor judgment for an expensive coffee shop
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

@@ -10,6 +10,7 @@ Old school, noisy bia hoi joint near the market. The beer is good, 25k a jug (1,
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

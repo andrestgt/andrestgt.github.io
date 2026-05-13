@@ -8,6 +8,7 @@ subtitle: Cầu Ông Lãnh · Vietnamese
 This place is a relatively recent opening, and it's a gem. It might be close to the backpacker area and cater to Western sensibilities, but the food is the real deal, proper, unadulterated Vietnamese drinking food, with just enough creativity to make it special. All this is accompanied by some seriously nice local craft beers, or very reasonably priced regular local tipples. It's a great place, don't miss it
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

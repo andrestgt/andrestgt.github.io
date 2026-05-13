@@ -8,6 +8,7 @@ subtitle: Sài Gòn · Coffee
 Very nice, spacious and comfortable coffee shop with good service and quality coffee beans. The cappuccino is excellent. All the Vietnamese style coffees, however, are terribly sweet which completely destroys the good coffee taste. Prime downtown location with prices to match
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

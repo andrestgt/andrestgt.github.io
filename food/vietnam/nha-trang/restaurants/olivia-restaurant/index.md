@@ -22,6 +22,7 @@ Also make sure you avoid their house wine which comes out of a box at Nha Trang 
 On a positive note, the service here is good and friendly and the menu is still pre-Russian invasion, therefore very reasonably priced (although i'd be willing to pay a little more, so they can afford to use some decent olive oil).
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

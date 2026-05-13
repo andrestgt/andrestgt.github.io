@@ -22,6 +22,7 @@ They also offered a 300k ++ free flow of wine, supposedly from South Africa. But
 So all in all, I'd say it's a must visit for the views, but there's still room for improvement in all other areas
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

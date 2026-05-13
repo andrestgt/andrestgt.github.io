@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Coffee
 It's a pleasant walk uphill (take the back roads) to this friendly coffee shop with a view. The veranda boasts nice views over the surrounding green hills of Dalat. The iced coffee suits Western palates, it's less flavourful, but at the same time less sweet than a regular ca phe sua da
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

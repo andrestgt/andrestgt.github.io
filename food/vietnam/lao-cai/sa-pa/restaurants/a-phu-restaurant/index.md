@@ -10,6 +10,7 @@ Attractive restaurant with a hill tribe theme that caters to both tourists and l
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

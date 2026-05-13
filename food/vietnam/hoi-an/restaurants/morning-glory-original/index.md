@@ -10,6 +10,7 @@ The concept here is sanitised 'Street food', and it's the most popular tourist r
 The specialties here are pricier but really delicious. Try the clam curry and the banana blossom duck salad. Excellent spring rolls too. Touristy but recommended
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

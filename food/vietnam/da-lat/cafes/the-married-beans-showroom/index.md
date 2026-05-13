@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Coffee
 One of Dalat's best options for coffee lovers. They don't really offer anything else here, but there's one nice sofa and excellent cappuccino for 40k a cup, and it's smack in the centre of town, which makes this an ideal place for a coffee break
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

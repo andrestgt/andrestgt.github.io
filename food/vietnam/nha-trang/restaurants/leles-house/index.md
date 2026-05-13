@@ -10,6 +10,7 @@ What to say? This is a simple and tiny family run place with just a couple of ta
 The reason why I can't rate this higher are the prices. A medium sized salmon pizza here is more expensive than it would be in London or Paris, and while it was absolutely fine, it was in no way so amazing to justify paying over 300k for it
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

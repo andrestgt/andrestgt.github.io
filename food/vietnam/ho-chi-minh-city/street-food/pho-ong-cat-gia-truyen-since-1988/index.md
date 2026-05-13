@@ -10,6 +10,7 @@ Not impressed by the pho served here. Very salty broth with barely any hints of 
 It's not bad but there's better options around.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

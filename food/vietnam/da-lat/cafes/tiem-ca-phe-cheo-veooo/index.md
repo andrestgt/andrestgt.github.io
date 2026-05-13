@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Coffee
 This cute all wooden café with sweeping views is very popular with the young selfie brigade. It's rather pricey, at 50k the (good) cappuccino here is the most expensive I've had in Dalat. Still, it's a nice place, just a short ride out of town
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Tam Kỳ · Vietnamese
 Attractive little seaside village with a few nice homestay options and a picturesque beach.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

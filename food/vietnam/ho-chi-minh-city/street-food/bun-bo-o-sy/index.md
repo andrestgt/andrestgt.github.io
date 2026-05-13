@@ -8,6 +8,7 @@ subtitle: Ho Chi Minh City · Vietnamese · Bún Bò
 My go to place for Bun Bo Hue in the tourist area. It's local, authentic, well priced and the broth is delicious. I'd just prefer my meat more thinly sliced than they do here. 50k for a bowl. If you'd like to indulge in a little cannibalism, there's the option of ordering 'human shrimp spring rolls' ;)
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

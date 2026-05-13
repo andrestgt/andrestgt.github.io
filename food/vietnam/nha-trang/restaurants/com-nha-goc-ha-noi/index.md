@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Pleasant courtyard restaurant just outside the tourist area. Worth a visit if a trip to the north is not on the cards, as the food is reasonably authentic and prices are perfectly fair.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

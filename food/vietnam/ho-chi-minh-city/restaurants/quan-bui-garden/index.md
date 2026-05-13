@@ -8,6 +8,7 @@ subtitle: Thủ Đức · Vietnamese
 This branch has a lovely garden setting and serves a variety of Vietnamese dishes from all over the country. It’s a great choice for tourists wanting to try classic, familiar flavors without anything too adventurous. The food is solid, the prices are moderate, and it’s a nice spot for a relaxed meal with regional dishes.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

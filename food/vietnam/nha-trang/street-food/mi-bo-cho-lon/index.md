@@ -10,6 +10,7 @@ Very neat little noodle place that deserves to be a lot more popular. To my know
 Edit : they just moved to bigger premises with a slightly more expansive menu and it's still delicious, plus they now serve homemade wonton
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

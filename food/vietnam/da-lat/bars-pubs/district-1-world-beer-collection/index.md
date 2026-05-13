@@ -12,6 +12,7 @@ But unfortunately I would never come back here again. The music is blasted out s
 That's acceptable in a dance club but not a beer pub with food.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 6/10 |

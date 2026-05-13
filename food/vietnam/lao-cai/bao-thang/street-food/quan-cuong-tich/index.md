@@ -8,6 +8,7 @@ subtitle: Bảo Thắng · Bia Hơi
 Ideal pit stop almost exactly halfway between Sapa and Bac Ha taking the scenic back road. They serve mugs of cold bia hoi and nice food with home made condiments such as pickled bamboo and chili sauce. A huge portion of beef fried rice and three beers was 65k. A relief after the Sapa prices
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

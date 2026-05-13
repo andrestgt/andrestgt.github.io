@@ -8,6 +8,7 @@ subtitle: Sơn Trà · Coffee
 Lovely place with a beautiful atmosphere, shady with a koi pond in the centre. Excellent coffees, both espresso and Vietnamese style. Didn't try the food but it's perfect for a coffee break even on a hot summer day without ac
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

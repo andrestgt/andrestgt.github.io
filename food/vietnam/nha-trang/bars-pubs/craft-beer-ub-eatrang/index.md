@@ -12,6 +12,7 @@ Seeing that they now have a larger selection of beers and a new menu, I decided 
 Food is on the pricey side, and portions are small, but it’s decent. A place you can check out, but not a must.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 6/10 |

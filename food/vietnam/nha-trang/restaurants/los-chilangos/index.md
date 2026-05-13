@@ -10,6 +10,7 @@ It's really rare to find real Mexican flavours anywhere in South East Asia, even
 Update: they now have a more extensive menu including burritos and rice meals which is great news
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

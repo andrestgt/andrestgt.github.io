@@ -8,6 +8,7 @@ subtitle: Nguyễn Cư Trinh · Vietnamese · Phở
 Pho Hung has several outlets in town, they're all super popular and crowded most of the time. Their Pho is one of the best in town, or indeed, in Vietnam. Very recommended
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -12,6 +12,7 @@ What I dislike is the sneaky 5% service charge they put on the bill. Vietnam has
 If a restaurant's menu prices are too low that they have the need to add additional charges, they should simply raise them and be honest about it.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

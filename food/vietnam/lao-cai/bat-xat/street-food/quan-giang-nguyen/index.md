@@ -10,6 +10,7 @@ The small town of Muang Hum is surrounded by absolutely gorgeous scenery, but th
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

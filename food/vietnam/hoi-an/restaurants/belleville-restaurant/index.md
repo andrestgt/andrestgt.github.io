@@ -8,6 +8,7 @@ subtitle: Hội An · Vietnamese
 The happy hour cocktails are disappointingly watered down which is a shame because it's a very nice place and I enjoyed their reasonably priced tapas such as goat cheese zucchini and smoked duck breast.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

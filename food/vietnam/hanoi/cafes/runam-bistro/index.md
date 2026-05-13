@@ -8,6 +8,7 @@ subtitle: Hanoi · Coffee
 Very beautiful decor and presentation, excellent coffees, but, my god, their prices are hideously over the top. Over 100k for a cappuccino
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

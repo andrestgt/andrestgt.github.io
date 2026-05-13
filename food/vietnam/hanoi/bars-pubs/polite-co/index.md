@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Bar & Pub
 Easily the nicest pub in the city, or possibly the country. They have a most generous happy hour from 4-8 pm and only serve quality booze at immensely reasonable prices for such a rather elegant establishment. Their Belgian wheat beer (50k)on tap is delicious, and a glass of Pasteur street IPA is only 60k during happy hour. Watch out for some excellent wine specials as well
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

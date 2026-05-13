@@ -12,6 +12,7 @@ Verdict : definitely one of the better banh mi in town and if you're in the tour
 Update: quality is still good, but prices have gone up
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

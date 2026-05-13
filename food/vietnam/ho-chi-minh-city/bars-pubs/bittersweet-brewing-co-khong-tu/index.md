@@ -16,6 +16,7 @@ It’s not just a solid spot—it’s a really great spot for a night out, and I
 It’s just a 10-minute walk from the metro station, and the ride from District 1 takes only 20 minutes. So, anyone with a little bit of time to spare should totally visit this place.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

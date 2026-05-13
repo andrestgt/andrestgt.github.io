@@ -12,6 +12,7 @@ Add to that the reasonable prices (the gorgeous lamb tikka masala is the most ex
 If you fancy Indian in Nha Trang, Ganesh is the place to go.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

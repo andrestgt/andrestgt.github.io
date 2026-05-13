@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese · Bún Bò
 Decent local spot for a bowl of bún bò Huế in Đà Lạt. Portions are generous and filling, though the broth lacked some of the depth and punch one hopes for from this dish. At 40k per bowl, it also feels a touch expensive by local standards.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

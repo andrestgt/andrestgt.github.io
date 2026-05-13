@@ -8,6 +8,7 @@ subtitle: Bến Nghé · Bar & Pub
 Attractive and deservedly popular drinking spot in a prime central location. The beers are actually quite reasonably priced considering the setting, while the food is somewhat more expensive, though perfectly decent enough to accompany a few drinks.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

@@ -14,6 +14,7 @@ Service is not terribly friendly either, but then that's authentic, too.
 I still quite liked it and keep coming back
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Hội An · Coffee
 The location is not exactly inspiring by Hoi An standards, but the 40k flat white is really good here, there's ac and fast Internet. Seems popular with the local expat community, prices are more reasonable than in the Old Town and service is very friendly
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

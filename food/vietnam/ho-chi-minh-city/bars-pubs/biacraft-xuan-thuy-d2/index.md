@@ -8,6 +8,7 @@ subtitle: Thủ Đức · Bar & Pub
 One of the smaller BiaCraft places in town, they only seem to offer a slightly downsized menu compared to the bigger branches, but there's enough food and beer available to make everyone happy, and it's the best address for a quiet drink compared to the raucous beer club atmosphere of the Truong Sa branch. It's more expat oriented as well.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

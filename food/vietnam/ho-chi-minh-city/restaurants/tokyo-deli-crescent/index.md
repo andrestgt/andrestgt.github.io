@@ -8,6 +8,7 @@ subtitle: Tân Phú · Japanese · Sushi
 With several outlets around HCMC Tokyo Deli is one of the best places for a quick sushi fix. I have only ever been to the ones in District 7 and there the sashimi were always fresh, generous and great value. The rolls are decent, but it's really a place to indulge in inexpensive sashimi. It's one of a few places that serves salmon belly sashimi at an affordable price They do free delivery as well.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

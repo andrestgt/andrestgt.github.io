@@ -8,6 +8,7 @@ subtitle: Huế · Specialty Coffee
 Don't be put off by the dark stairway for getting to this second floor coffee shop. Upstairs you'll find a nicely decorated air conditioned space with decent espresso drinks, especially for the price. A well prepared cappuccino costs only 28k, a Vietnamese coffee only 12k. Comfy seating is limited, but the small wooden chairs give you a view over the canal
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

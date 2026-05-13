@@ -10,6 +10,7 @@ This is everything a bia hoi joint should be, cheap, cheerful, friendly and deli
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

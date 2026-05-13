@@ -10,6 +10,7 @@ A coffee shop with the look and feel of a beer hall, a massive space with long w
 Prices are immensely reasonable, with a well prepared cappuccino going for only 35k. The cold brew is exquisite, far from the boring cold coffee that goes by that name in lesser coffee shops. Worth the walk out here.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

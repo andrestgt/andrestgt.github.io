@@ -10,6 +10,7 @@ Got a delivery from this place. Special lamb curry. Spicy, authentic, and it cam
 Update: finally actually went there. It looks and feels a bit like being in India. Very small and barebones eatery. But the food is great, very authentically Indian. From the Palak paneer to the samosas and naan. Really tasty food, at very fair prices
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

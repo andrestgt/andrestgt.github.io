@@ -8,6 +8,7 @@ subtitle: Quy Nhơn · Vietnamese
 Large and busy drinking place in the new part of town. It's nothing out of the ordinary but the quality of the food is very good and prices are reasonable. A bottle of local Qui Nhon beer is only 7k. Their oysters are very fresh and some are even quite large (16k a piece). Try their banh trang with coconut flavour (15k), it's quite delicious and perfect with Goi Hai San (65k)
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

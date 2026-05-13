@@ -8,6 +8,7 @@ subtitle: Cầu Ông Lãnh · Vietnamese
 Great ribs, good craft beers and prices that are perfectly fair by District 1 standards. Recommended. Writing this reminds me that I really should eat here more often, but then again, that is the eternal problem in Saigon: simply too much good food elsewhere competing for attention.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

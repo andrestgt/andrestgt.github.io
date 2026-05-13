@@ -14,6 +14,7 @@ Palak Paneer, Chicken Korma and Samosas were all delicious.
 Prices are affordable with most mains around 100-150k.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

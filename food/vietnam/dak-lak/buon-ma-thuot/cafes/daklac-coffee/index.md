@@ -10,6 +10,7 @@ It shouldn't come as a surprise that it's easy to get great coffee in Vietnam's 
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

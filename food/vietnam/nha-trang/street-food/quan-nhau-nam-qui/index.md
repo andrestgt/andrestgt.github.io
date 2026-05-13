@@ -10,6 +10,7 @@ Tourists go to Lac Canh, connoisseurs go to this place for their Vietnamese BBQ,
 Super fresh squid, frogs were still twitching on the plate, beef tender and generous portions. Very reasonable prices, 100k per head with beers
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

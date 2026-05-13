@@ -10,6 +10,7 @@ Good place to eat and drink. They have a pretty fancy and intricate Korean style
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

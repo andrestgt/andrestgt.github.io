@@ -10,6 +10,7 @@ Great cơm tấm spot in a lively, very local neighborhood in District 3. The po
 It’s just about walking distance from Pham Ngu Lao, making it a great option if you want to escape the tourist-heavy areas and try something more local. Well worth the effort!
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

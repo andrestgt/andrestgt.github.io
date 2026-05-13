@@ -8,6 +8,7 @@ subtitle: Bến Thành · Japanese
 This Japanese restaurant serves very solid sushi, sashimi, okonomiyaki, and other standard dishes. It's located in the heart of District 1, but the prices are surprisingly moderate for such a central spot. They also offer ice-cold draft Sapporo, which is always a nice touch. If you're in the area, it's definitely worth a visit.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

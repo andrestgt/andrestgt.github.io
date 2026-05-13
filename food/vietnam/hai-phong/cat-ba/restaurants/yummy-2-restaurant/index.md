@@ -10,6 +10,7 @@ There's a good reason why Yummy is the most popular traveller café in Cat Ba. I
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

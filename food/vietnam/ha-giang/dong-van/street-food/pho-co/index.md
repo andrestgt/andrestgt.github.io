@@ -12,6 +12,7 @@ Mind, you might sit on tiny plastic chairs on the street and get your food serve
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

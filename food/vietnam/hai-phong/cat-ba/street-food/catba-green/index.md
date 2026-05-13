@@ -8,6 +8,7 @@ subtitle: Cát · Vietnamese · Phở
 50k for a 1 litre bottle of bia hoi? Kidding me? To be fair, the Haiphong bia hoi is pretty good as far as bia hoi goes, but that's still WAY too expensive for a rural village eatery
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 4/10 |

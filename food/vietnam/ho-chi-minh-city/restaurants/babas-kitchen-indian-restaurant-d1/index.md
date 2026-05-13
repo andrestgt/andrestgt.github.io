@@ -18,6 +18,7 @@ The chicken tikka masala had a peculiar undefinable smoky note to it, which over
 The portions are generous and price is okay but i don't rate this place, there's quite a few really good Indian restaurants in HCMC, it's easy to give this one a miss.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 4/10 |

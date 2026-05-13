@@ -10,6 +10,7 @@ If you're expecting an authentic German beer hall experience in Ho Chi Minh City
 But honestly? That’s not a bad thing. The food is good, and so is the beer, especially considering the more than reasonable prices. Just go in with the right expectations, and you’ll have a great time.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -10,6 +10,7 @@ Very good looking hipster style café with very good coffees at reasonable price
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

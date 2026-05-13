@@ -8,6 +8,7 @@ subtitle: Ho Chi Minh City · Vietnamese
 One of many BBQ places on this street, Chilli stands out for its passion fruit beer mix which is quite tasty. Drinks and BBQ dishes are cheap and good. Fortunately, it's a grill on your table kind of place because the service is terrible
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

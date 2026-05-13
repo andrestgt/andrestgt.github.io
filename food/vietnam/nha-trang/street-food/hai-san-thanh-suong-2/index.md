@@ -12,6 +12,7 @@ I’d still rate it as one of the best and few remaining spots in Nha Trang for 
 Update 2025: Prices have gone up, predictably, but it’s still affordable.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

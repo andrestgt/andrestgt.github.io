@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Simple, pleasant little rooftop drinking place and eatery in a non touristy, unfashionable part of town. The menu here is standard Vietnamese drinking food, and it's all really tasty. Good for some off the beaten track dining and cheaper than the tourist area
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

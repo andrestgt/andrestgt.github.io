@@ -8,6 +8,7 @@ subtitle: Cầu Ông Lãnh · Vietnamese
 Cosy little place serving authentic Vietnamese comfort food in a relaxed setting. The flavours feel properly local rather than toned down for tourists, which was a welcome surprise in this part of town. Prices are also quite fair for the area.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

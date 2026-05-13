@@ -10,6 +10,7 @@ One of Nha Trang's oldest and most popular bun bo joints, right in the middle of
 Anyway, the soup here is very good, too. 40k a bowl
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

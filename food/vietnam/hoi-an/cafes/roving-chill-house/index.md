@@ -12,6 +12,7 @@ Having said that, I don't blame the owners of the place for this nuisance, they 
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

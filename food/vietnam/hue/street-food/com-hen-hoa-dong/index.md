@@ -8,6 +8,7 @@ subtitle: Huế · Vietnamese
 Not to be confused with its namesake further down the alley (spot the different accent in the name). This is neither a copycat nor some rip off scam, you get perfectly decent mussel rice and Hue cakes here for very little money, the problem is there's no real reason to eat here when just 50 metres down the road you get an excellent version of the same dishes for the same price
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

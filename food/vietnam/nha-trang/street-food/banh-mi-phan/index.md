@@ -10,6 +10,7 @@ Along with Ba Le, this is the best place for banh mi sandwiches in Nha Trang. Th
 It used to be very touristy in the before times, but now with corona they survive very well on locals, a clear sign of quality
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

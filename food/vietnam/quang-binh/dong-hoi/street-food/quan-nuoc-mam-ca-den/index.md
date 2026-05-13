@@ -10,6 +10,7 @@ We had originally planned to go to the more modern looking and well reviewed B52
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

@@ -12,6 +12,7 @@ During the week, it's a nice place for a quiet evening out with inexpensive drin
 Friendly and competent service, reasonable prices and a fun atmosphere make this the best bar in town in my opinion
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

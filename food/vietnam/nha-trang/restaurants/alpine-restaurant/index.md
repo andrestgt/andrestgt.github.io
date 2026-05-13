@@ -14,6 +14,7 @@ A bottle of Saigon goes for 19k.
 All in all, despite some room for improvement, a good meal at a great price
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

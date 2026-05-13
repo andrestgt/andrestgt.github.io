@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese · Bún Bò
 Very popular bún bò place, a little pricier than some others, but the broth is good, the meat portions generous, and at 40k a bowl it is still hardly expensive. One of the better bowls in town.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

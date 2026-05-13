@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Coffee
 Hipster coffee shop where bespectacled baristas prepare some of the best brews in town. The cappuccino is excellent at 55k, and this is unquestionably one of Hanoi's top addresses for serious coffee.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

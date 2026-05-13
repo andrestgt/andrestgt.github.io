@@ -8,6 +8,7 @@ subtitle: Nha Trang · Bia Hơi
 The bia hoi Saigon here is always fresh and cheap (45k for 3 litres). Add to that a menu of reasonably priced Vietnamese drinking food and a friendly atmosphere, it makes this one of best Quan Nhau in Nha Trang
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

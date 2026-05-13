@@ -12,6 +12,7 @@ Well, the answer is simple: value!
 You get a very good cappuccino for 32k and a Vietnamese coffee for under 20k—a great price for a spot right in the heart of the tourist area.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

@@ -18,6 +18,7 @@ The cheesy minced pork skewers were quite good, but the only really nice flavour
 We paid over 400k which is too much for the quality
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 4/10 |

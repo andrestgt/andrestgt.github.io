@@ -10,6 +10,7 @@ A beautifully designed restaurant, certainly the fanciest in this neighbourhood,
 Best to visit in the evening, with the alluminated landscaped garden and the traditional music, it's a wonderful atmosphere
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

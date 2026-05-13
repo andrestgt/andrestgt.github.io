@@ -8,6 +8,7 @@ subtitle: Phạm Ngũ Lão · Vietnamese · Phở
 This is not the best Pho in Saigon, but it's the most conveniently located for travellers right in the middle of backpacker central. Whether you arrive early morning or wait for a bus depart late at night, this place will always serve you a good bowl of tasty beef Noodle soup at an acceptable price
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

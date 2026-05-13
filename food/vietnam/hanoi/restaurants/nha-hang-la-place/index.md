@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Vietnamese
 Perfect location on Cathedral square. Very cute little bistro with good Vietnamese and Western food at affordable prices. Drinks are a bit pricy. Still, I've been coming here for many years and I'd recommend this place wholeheartedly
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

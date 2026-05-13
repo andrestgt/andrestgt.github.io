@@ -10,6 +10,7 @@ Large simple beer garden and eatery with nice river views. One of the very few p
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

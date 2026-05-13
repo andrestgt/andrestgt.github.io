@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 A rather odd place: mostly empty, awkwardly located and somehow lacking much atmosphere. It is perfectly acceptable for a few reasonably priced microbrews, but the food is oddly more expensive than in the tourist area, and the service was genuinely poor.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

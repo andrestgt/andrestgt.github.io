@@ -22,6 +22,7 @@ I'm sure that was just a small mistake on that day, but i only give 5 stars for 
 Nevertheless, i highly recommend this friendly place, and i will certainly return too.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

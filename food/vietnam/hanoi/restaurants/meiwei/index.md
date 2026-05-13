@@ -8,6 +8,7 @@ subtitle: Ba Đình · Chinese · Dim Sum
 Reasonably good Chinese franchise in Lotte Centre. It's rather expensive, but the dim sum here were quite delicious, and the sweet and sour pork was tasty as well. Service has room for improvement
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

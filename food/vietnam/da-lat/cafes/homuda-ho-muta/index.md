@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Coffee
 This Japanese-themed café is a bit of a tourist attraction in itself. With multiple seating areas designed in different styles, it’s worth coming back more than once just to explore. The coffee might not be the main reason people visit, but it’s actually very good—and reasonably priced for such an attractive place.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

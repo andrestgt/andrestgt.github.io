@@ -10,6 +10,7 @@ We stopped here because the place was super busy full of locals even past lunch 
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

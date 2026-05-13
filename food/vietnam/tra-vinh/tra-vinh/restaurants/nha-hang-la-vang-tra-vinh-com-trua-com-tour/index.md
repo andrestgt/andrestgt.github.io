@@ -8,6 +8,7 @@ subtitle: Trà Vinh · Vietnamese
 Looks like the swankiest place in town, huge menu with English Google translation which is good for a laugh. The grilled snakehead fish is a good bet. Cheaper than it looks. They had a 1993 Chateau wine from Bordeaux on the menu, which we ordered for a laugh. Obviously it was off, but it was cheap, so no problem, went down well mixed with coke
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

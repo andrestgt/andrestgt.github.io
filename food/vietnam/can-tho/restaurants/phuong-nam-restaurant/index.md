@@ -8,6 +8,7 @@ subtitle: Cần Thơ · Vietnamese
 At first glance it may look like a typical Riverside tourist trap with inflated prices, especially for drinks. But they do have a nice, varied menu and the food is top notch
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

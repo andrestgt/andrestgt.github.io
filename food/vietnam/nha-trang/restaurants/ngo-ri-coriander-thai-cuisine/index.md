@@ -8,6 +8,7 @@ subtitle: Nha Trang · Thai
 There is only one proper Thai restaurant in Nha Trang, and fortunately it is this one. Good food at fair prices, with all the expected curries, salads and other favourites, plus the useful option of adjusting the spice level to your tolerance.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

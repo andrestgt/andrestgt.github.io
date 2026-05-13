@@ -8,6 +8,7 @@ subtitle: Quản Bạ · Coffee
 Beautiful views, and you can have a coffee or beer here, too. Can get busy though
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

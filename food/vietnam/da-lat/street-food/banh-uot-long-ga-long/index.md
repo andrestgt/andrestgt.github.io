@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 Chicken rice noodles is one of the must try specialties in Dalat, and many places around town offer their versions of this delicious dish. This place, located in a rather hidden place in an alley, is possibly the most famous of them. Their version is perfectly balanced with a fish sauce dressing that is neither too salty nor too sweet, and at 20k it's a real steal. It's a simple dish, really, but surprisingly tasty. Don't miss
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

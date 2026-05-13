@@ -10,6 +10,7 @@ Small, upmarket food court in a prime location—perfect for sampling a wide var
 2025 Update: The original Asiana Food Town is gone. In its place, there’s a new food court—more spacious but with fewer stalls and less variety. That said, this is still Saigon, so there’s no shortage of great food, and the prices remain very reasonable.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

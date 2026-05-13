@@ -8,6 +8,7 @@ subtitle: Phú Nhuận · Bar & Pub
 This is probably the biggest BiaCraft place in town, and owing to the location it's more local than the D1 and D2 branches. But as big as it is, it still gets packed in the evening. I'm a big fan of their beers and the food here and always try to visit one of their branches whenever I'm in Saigon
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

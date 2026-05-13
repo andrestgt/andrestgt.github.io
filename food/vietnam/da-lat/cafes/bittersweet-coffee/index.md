@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Coffee
 Cute little café bang in the centre of town. The cappuccino as well as the Vietnamese coffees are excellent if a bit on the expensive side
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

@@ -12,6 +12,7 @@ My only criticism would be the lack of none meat bbq dishes, there's no pancakes
 So if you're only looking for a good Korean barbecue restaurant, this place is recommended, if you'd like a more varied Korean meal, there's other options around
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

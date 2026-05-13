@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 Cosy bar/bistro hybrid that's been around for a long time. It's a great place for some comfy quiet afternoon drinks. Happy hour is from 4-6 and it's a steal for cocktails. Their frozen strawberry margaritas are especially tasty. There's a huge menu of mostly Western dishes at reasonable prices. I wouldn't go there for the food necessarily, but their lasagne is decent
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Nha Trang · Korean
 Nha Trang's original and still best Korean restaurant. The stews are sublime, the seafood pancake excellent, and the portions enormous. It is not cheap, but absolutely worth it. Best visited with a group unless you are prepared to take a substantial amount of food home. Highly recommended.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

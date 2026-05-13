@@ -8,6 +8,7 @@ subtitle: Đông Thành · Coffee
 Fanciest and comfiest café in town, really nice, and surprisingly inexpensive place, but stick to Vietnamese coffees, they prepare cappuccino with sweetened milk (!!!). Ugh
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 6/10 |

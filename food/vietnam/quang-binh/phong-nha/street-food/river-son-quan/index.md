@@ -8,6 +8,7 @@ subtitle: Bố Trạch · Vietnamese
 We went here during corona times as it was the only place that was not just open for lunch in this part of town, but even had a few customers. Obviously most of the menu wasn't available, but the fried rice and the fried river fish tasted good, so I suppose this is not a bad option if you're looking for a simple and cheap family restaurant
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

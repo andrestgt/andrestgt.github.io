@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Bia Hơi
 Old school Old Quarter bia hoi joint that's busy with locals all day long. The beer is not super cheap (12k a glass) but it's better quality than at the bia hoi junction and the glasses are bigger. There's food, too, but it's more of an afterthought and quite pricy. But it's the beer and the atmosphere that make this place
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

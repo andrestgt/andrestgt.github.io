@@ -8,6 +8,7 @@ subtitle: Minh Khai · Vietnamese
 Come to this friendly noodle joint for a large bowl of tasty Sot Vang (beef noodle stew) for 35k with tender beef and a mountain of noodles. Good value
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

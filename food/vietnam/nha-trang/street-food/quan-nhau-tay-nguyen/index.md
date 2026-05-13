@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Standard drinking place in Vinh Diem Trung. They have fresh Saigon beer for 15k per litre which is great, but I found the food to be slightly underwhelming and rather pricy. A smallish plate of wild boar with lots of skin is 145k and it's really nothing special. It's not a bad lace at all, it's just that there's better places in this neighbourhood
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

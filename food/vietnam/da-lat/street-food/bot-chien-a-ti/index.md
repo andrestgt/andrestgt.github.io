@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 This is the place to go for a filling vegetarian meal for very little money, an ideal cold weather dish for Dalat's chilly evenings. Bot chien is essentially deep fried rice flour dough with eggs. It's a lot less refined than your average Vietnamese dish, but it's tasty, filling and cheap (15-20k)
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

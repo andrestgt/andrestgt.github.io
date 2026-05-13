@@ -14,6 +14,7 @@ I loved this place when they were in soft opening, but sadly since they had thei
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 6/10 |

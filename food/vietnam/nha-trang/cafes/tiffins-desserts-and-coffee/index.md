@@ -12,6 +12,7 @@ There's ac and garden sections but the inside space can feel very cramped when i
 There's a small food menu, too, but I haven't eaten so I can't comment on the quality
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

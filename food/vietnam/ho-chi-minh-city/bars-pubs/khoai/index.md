@@ -14,6 +14,7 @@ The same goes for the food, the only thing where Khoai could improve. There's Vi
 It's very much an expat place and, strangely given the great prices and good vibes, there's hardly any Vietnamese clientele.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

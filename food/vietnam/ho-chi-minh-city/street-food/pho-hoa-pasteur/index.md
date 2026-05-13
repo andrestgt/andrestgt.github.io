@@ -8,6 +8,7 @@ subtitle: Xuân Hòa · Vietnamese · Phở
 This famous pho restaurant has been my go-to for the last 20 years, and in all that time, I’ve never had a bad bowl. While it’s become much more popular with tourists in recent years, the quality has remained consistently excellent. The broth is always rich and flavorful, and the meat is perfectly tender. Despite the many great pho places in Saigon, this one still stands out as my favorite. It’s a classic that never disappoints.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

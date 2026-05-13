@@ -8,6 +8,7 @@ subtitle: Quy Nhơn · Coffee
 Possibly the prettiest coffee shop in town. There's ac and garden seating. And it's a lot less expensive than it looks. A Vietnamese coffee is 18k. They also do espresso drinks, but I didn't try any. Small choice of food items
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

@@ -10,6 +10,7 @@ Small sausage eatery with rather mediocre homemade sausages, mostly German style
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

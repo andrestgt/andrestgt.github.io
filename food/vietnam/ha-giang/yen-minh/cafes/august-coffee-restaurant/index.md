@@ -10,6 +10,7 @@ More coffee shop than restaurant, this nice little place is a good pitstop on th
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

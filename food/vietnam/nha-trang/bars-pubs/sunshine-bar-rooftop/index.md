@@ -10,6 +10,7 @@ Well hidden, down by the river, this basic place is the most scenic bar in Nha T
 2025 update: the new location on top of Rembrandt Hotel in the tourist area is less atmospheric, but does offer nice sea views. Prices have gone up substantially, but you can use the swimming pool and the quality of the food is still very good.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

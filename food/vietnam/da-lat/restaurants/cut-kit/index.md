@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 This is an odd place. It's actually well designed and attractive. They have a large selection of Vietnamese craft beers on tap at reasonable prices. A tasty sausage sampler platter goes for 105k which is perfectly acceptable. But then they serve a beef salad which I can only describe as a complete scam, consisting of three absolutely inedible small pieces of chewy old milk cow with some leaves. And they charge 85k for this. It doesn't make sense
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

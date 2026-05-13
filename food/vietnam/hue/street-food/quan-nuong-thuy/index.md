@@ -8,6 +8,7 @@ subtitle: Huế · Vietnamese
 Really good grilled chicken and bo la lot. A bit more expensive maybe than you'd expect for a simple eatery in Hue but you'd be hard pressed to find better quality grilled meat in town. Excellent marinade and sauces
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

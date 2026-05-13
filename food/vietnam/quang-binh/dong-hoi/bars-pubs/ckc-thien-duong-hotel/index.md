@@ -10,6 +10,7 @@ Don't miss their (barely advertised) rooftop bar for the best views over Dong Ho
 However, stick to the beers, the cocktails are not very good. It's cheaper than it looks.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

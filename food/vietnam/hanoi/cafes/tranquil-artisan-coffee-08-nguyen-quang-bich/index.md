@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Coffee
 In a city full of beautiful cafés, this is one of the cutest. Interesting concoctions, such as coco Kombucha are served alongside more regular coffee drinks. Excellent quality, and prepared with utmost care. Quite pricey, but well worth it
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

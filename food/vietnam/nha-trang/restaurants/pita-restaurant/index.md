@@ -12,6 +12,7 @@ Ironically Pita was started by the same Greek people who later set up Mix, but t
 But while Mix has turned into touristy nightmare with ever rising prices and dropping quality, the food quality and prices at Pita have remained much more consistent.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

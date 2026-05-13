@@ -8,6 +8,7 @@ subtitle: Bến Nghé · Japanese · Sushi
 Located in Saigon's most upscale area, this sushi spot comes with a hefty price tag. But if you're after something unique, it’s one of the rare places in Vietnam where you can find foie gras nigiri, and the quality is top-notch. I loved the sashimi salad and the salmon gunkanmaki – both were fresh and flavorful. It’s a great place for high-quality sushi, but be ready to pay premium prices.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

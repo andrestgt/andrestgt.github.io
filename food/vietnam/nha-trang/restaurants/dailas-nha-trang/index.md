@@ -16,6 +16,7 @@ Prices are not terribly expensive, although portions could be a bit more generou
 I'm only giving 2 stars because don't don't even accept small dogs in their beer garden outside
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 4/10 |

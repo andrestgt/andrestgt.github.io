@@ -12,6 +12,7 @@ We paid less than 20$ for a feast including grilled beef, salmon sashimi, claypo
 Prices have risen considerably since then and it's quite an expensive restaurant nowadays, but the food is still great. Bo Tung Xeo, grilled marinated beef, is a must, of course. Massive frog legs. All in all it's still an amazing meal.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

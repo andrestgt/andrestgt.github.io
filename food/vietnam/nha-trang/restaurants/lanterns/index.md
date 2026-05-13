@@ -24,6 +24,7 @@ The place gets packed at night so for a pleasant quiet experience it's better to
 Good service by Nha Trang standards.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

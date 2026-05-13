@@ -10,6 +10,7 @@ Sadly prices here have gone through the roof since my first visit in 2006. But i
 Happy hour cocktails are a good deal, quality concoctions, from noon until 7 pm
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

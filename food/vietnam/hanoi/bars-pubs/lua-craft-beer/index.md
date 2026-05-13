@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Craft Beer
 This is a fantastic place for craft beers with balcony seating overlooking the night market. Prices are really good for Old Town Hanoi, with beers for around 40k and half a delicious roast duck for 150k. It's quite a hidden place and not touristy, but service is very friendly
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

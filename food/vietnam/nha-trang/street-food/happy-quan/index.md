@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 This basic coffee shop has some of the best views over Nha Trang without having to spend a fortune in a hotel rooftop bar. There's coffee for 15k, fresh coconut for 25k and views for free. The road up is quite steep but any decent bike should manage.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

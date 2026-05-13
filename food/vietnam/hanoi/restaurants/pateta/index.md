@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Vietnamese
 Friendly place with a big balcony overlooking an old town street. Cheap Larue draft (18k, even cheaper during happy hour) and tasty baguettes. Small selection of local craft beers, too. Can't go wrong with this place
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

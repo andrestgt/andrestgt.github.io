@@ -8,6 +8,7 @@ subtitle: Hội An · Vietnamese · Bánh Mì
 The 30k "all in" bánh mì here is one of the best in the country. I am particularly fond of their chilli jam, which gives it a distinctive edge. It is usually less crowded than Phượng, but every bit as good.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

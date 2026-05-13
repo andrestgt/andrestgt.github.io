@@ -8,6 +8,7 @@ subtitle: Nha Trang · Thai
 This newly opened Thai restaurant should be so much better. It's friendly, nicely decorated with a good menu of Thai favourites. It seemed very popular with locals despite the prices which are upper mid-range. But the food that came out was a disaster. I ordered two of my favourite dishes, pork larb and red duck curry and both were terrible. A larb should consist of minced pork with a few herbs and shallots thrown in for good measure. Here it was essentially a salad with plenty of herbs and leaves but only a few crumbs of minced pork on top. Even more disappointing was the duck curry, which included 4 tiny slices of breast which were half bone, half meat. For 140k that's really not good enough. Go to Ngo Ri instead, better food and less inexpensive
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 4/10 |

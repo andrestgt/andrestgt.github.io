@@ -12,6 +12,7 @@ Having said that, Golden Bamboo still offers a good value menu of Vietnamese and
 The quality of the food is nothing special, but perfectly adequate for the price.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

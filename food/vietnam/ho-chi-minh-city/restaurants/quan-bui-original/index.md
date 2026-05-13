@@ -8,6 +8,7 @@ subtitle: Bến Nghé · Vietnamese
 This restaurant is popular with both locals and tourists. It offers a good variety of classic Vietnamese dishes, all well-prepared, at moderate prices. The appetizer platter is a little inconsistent, but the main dishes are generally very good. The atmosphere is nice, making it a solid choice for first-time visitors looking to try local food. They have an even nicer garden restaurant in Thao Dien.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

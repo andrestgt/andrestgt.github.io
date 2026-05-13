@@ -14,6 +14,7 @@ But for Xofa I'll make an excellent exception since they offered us a love mango
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

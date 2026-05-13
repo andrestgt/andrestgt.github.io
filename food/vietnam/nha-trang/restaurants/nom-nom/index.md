@@ -8,6 +8,7 @@ subtitle: Nha Trang · Thai
 Cute little place tucked away in an alley, serving nicely presented bistro food at very reasonable prices. The Western dishes are clearly stronger than the Thai offerings. Avoid the tom yam, which tastes nothing like the real thing. The confit de canard and grilled seabass, on the other hand, were both very enjoyable.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

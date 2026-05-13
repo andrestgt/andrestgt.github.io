@@ -12,6 +12,7 @@ These are up there with some of the best (and often much more expensive) dim sum
 40k for a basket
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

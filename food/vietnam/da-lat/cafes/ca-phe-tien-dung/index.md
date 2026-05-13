@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Coffee
 Wonderful hidden oasis in the hills of Dalat. Beautiful views, serene atmosphere, good coffees at reasonable prices. Worth seeking out
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

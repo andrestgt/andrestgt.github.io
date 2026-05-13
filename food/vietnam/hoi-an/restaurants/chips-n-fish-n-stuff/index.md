@@ -12,6 +12,7 @@ June 2020 update :
 I deduct one star from my previous review. This used to be my favourite place in town, but after a three year hiatus of dining here, I'm not convinced anymore. Prices have become disproportionately inflated, double to triple of what they used to be, and that's just not really understandable. 69k for a few small white rose dumplings? The food is still good, but there's better value to be had elsewhere these days. A two litre keg of bia hoi Saigon goes for 75k, which is OK
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

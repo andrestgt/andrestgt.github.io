@@ -10,6 +10,7 @@ For some reason Nha Trang has always been blessed with good quality Indian resta
 Update 2025 : Yashoda had been closed for several years during the pandemic, but is now fully operational again, with the same menu and the same quality as before.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

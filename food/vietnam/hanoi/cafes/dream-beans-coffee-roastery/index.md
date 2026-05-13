@@ -8,6 +8,7 @@ subtitle: Cửa Đông · Specialty Coffee
 The less comfy the seats, the better the coffee. This seems to be true all over the world these days, what with hipster coffee shops obviously prioritising coffee quality over comfort. Same here, you get expertly prepared delicious flat white at a reasonable 45k, but you don't want to linger too long on the wooden chairs.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

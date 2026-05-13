@@ -8,6 +8,7 @@ subtitle: Nha Trang · Coffee
 A throwback to Nha Trang's better days as a backpacker haven, Kokoro offers cold beers, good coffees and tasty traveller fare in a shady courtyard at very fair prices.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

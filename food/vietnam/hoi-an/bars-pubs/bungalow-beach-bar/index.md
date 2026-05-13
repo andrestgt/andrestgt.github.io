@@ -8,6 +8,7 @@ subtitle: Hội An · Bar & Pub
 Not strictly a beach bar, as it's not right on the beach, but it does have the vibes of a beach bar and there's a nice pool which is free to use for guests. They have a good variety of craft beers on tap (it's a self declared Tiger free zone) and a nice happy hour between 5 and 7 pm. There's some international pub grub with an emphasis on Tex-Mex and they make some really good tacos (which are only 25k if you visit on Tuesdays). The place is very friendly, so I'm not surprised it's very popular with the local expats.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

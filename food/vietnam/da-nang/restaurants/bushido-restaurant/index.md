@@ -8,6 +8,7 @@ subtitle: Hải Châu · Japanese
 Korean and Japanese food available here. The grilled meat dishes excellent, from meat quality and to the marinade. Sashimi and sushi rolls are fresh and tasty, but portions are a bit stingy. Still good value in general. 10$/pax for a feast
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

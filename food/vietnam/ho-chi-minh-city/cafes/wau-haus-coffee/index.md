@@ -8,6 +8,7 @@ subtitle: Thủ Đức · Coffee
 Good coffees in a pleasantly quiet setting. At 55k for a cappuccino, prices are not unreasonable by Thảo Điền standards, making this a good option when you want a proper coffee in quiet surroundings.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

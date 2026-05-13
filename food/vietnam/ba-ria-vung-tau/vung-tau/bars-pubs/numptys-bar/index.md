@@ -8,6 +8,7 @@ subtitle: Vũng Tàu · Bar & Pub
 Friendly pub with a pool table, cold San Miguel on tap and good prices.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

@@ -8,6 +8,7 @@ subtitle: Nha Trang · Bar & Pub
 They're serious about their Shishas here, very good quality, accordingly priced, but it's cheaper in the afternoon. Good cocktails too for around 80k.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

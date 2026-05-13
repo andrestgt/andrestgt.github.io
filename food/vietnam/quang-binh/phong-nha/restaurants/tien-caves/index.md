@@ -8,6 +8,7 @@ subtitle: Tuyên Hóa · Vietnamese
 I took a 1 day trip with Oxalis and was generally very happy with everything. The area is spectacular, the place where we had lunch was out of this world and swimming out of the caves is an unforgettable experience. Food was great, our guide was very friendly and took good care of everything. I hope they will manage to spare this beauty from mass tourism and damage by keeping the prices high and the numbers low
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

@@ -8,6 +8,7 @@ subtitle: Nha Trang · Bar & Pub
 It's the cheapest beach bar in Nha Trang with 1€ beers or coconuts in a prime location. As such, it's easy to recommend even though the service is not great.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

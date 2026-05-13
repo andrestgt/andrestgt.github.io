@@ -8,6 +8,7 @@ subtitle: Bắc Hà · Vietnamese
 Eating at this place is quite a special experience. With many places in Bac Ha catering mostly to weekend tourist, the old school Ly Thi with its communal wooden tables and shelves stacked with home made rice wine is a very local experience and packed for breakfast even on a regular weekday. Patrons are highlanders of various tribes speaking a wild mix of languages. They do two kinds of pho dishes, using home made purplish pho noodles from red rice. The pho chua (sour Pho) is a very unusual noodle soup which is served cold. A strange choice for a cold place like Bac Ha and while not at all unpleasant I wasn't entirely taken over by its acquired taste. More to my liking was the Pho Tron, a dry noodle dish which comes with hot broth on the side and a choice of pork and chicken which I found very tasty. Price for a bowl is 20 to 30k depending on the meat. Good value. Most patrons drink their home made rice wine, even for breakfast, but we opted to buy some for take away instead.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

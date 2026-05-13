@@ -8,6 +8,7 @@ subtitle: Hải Châu · Vietnamese
 Friendly little whole in the wall which specialises in Oc Hut, the most popular mussel dish in Danang. Accompanied by Mit Tron (jackfruit salad) this is a great pre dinner snack and a must try for all foodies that like to explore local specialties
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

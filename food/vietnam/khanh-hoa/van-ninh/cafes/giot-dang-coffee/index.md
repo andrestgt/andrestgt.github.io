@@ -8,6 +8,7 @@ subtitle: Vạn Ninh · Coffee
 Very pleasant, spacious garden café in an area that's not exactly blessed with them. Good rest stop when you're in the area
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

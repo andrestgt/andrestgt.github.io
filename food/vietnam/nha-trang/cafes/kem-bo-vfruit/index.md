@@ -8,6 +8,7 @@ subtitle: Nha Trang · Coffee
 Tasty avocado shakes and cold fresh coconuts at affordable prices. Always busy and popular with locals and tourists alike
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

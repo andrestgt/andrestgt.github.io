@@ -8,6 +8,7 @@ subtitle: Bố Trạch District · Bar & Pub
 Fantastic rooftop bar with stunning views and great drink specials such as G&T for 40k. There's even a decent variety of craft beers at reasonable prices. There's a small selection of food from their own kitchen, mostly inexpensive pub grub such as nachos or homemade sausages. For more substantial meals you can order from a couple of other restaurants in town including Indian from Omar's. Spending a night out at Momma D is an absolute must in Phong Nha
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

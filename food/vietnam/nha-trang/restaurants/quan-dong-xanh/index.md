@@ -12,6 +12,7 @@ The food, of course, is good, very good even, and you'll most likely still walk 
 So while I would recommend this place without hesitation, I do find that some of the newcomers in the area offer the same quality of food at slightly lower prices in a nicer atmosphere.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

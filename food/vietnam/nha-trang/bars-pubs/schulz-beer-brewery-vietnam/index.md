@@ -10,6 +10,7 @@ Schulz is a small Russian run microbrewery with the best value craft beer in Nha
 I remember when they first opened a couple of years ago, they had some very tasty and reasonably priced beer snacks as well, Russian dumplings and smoked fish. Sadly, the quality of the food has deteriorated over time, there's no more smoked fish, the dumplings come with cheap, rancid butter and the Vietnamese food is bland and overpriced. So until they get their act together and hire a decent chef it's better to just come for the beers
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

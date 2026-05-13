@@ -14,6 +14,7 @@ The terrace is breezy and has decent views.
 This is one to try for people who enjoy off the beaten track experiences
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

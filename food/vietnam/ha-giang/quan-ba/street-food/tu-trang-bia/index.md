@@ -8,6 +8,7 @@ subtitle: Quản Bạ · Bia Hơi
 This is the only bia hoi joint I saw in the centre of Tam Son. It's a friendly, neat family place with cheap jugs of beer and a rather limited menu of basic grub. The fried noodles and fried tofu do the job of soaking up the beer, but it's not really a place for a proper dinner.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

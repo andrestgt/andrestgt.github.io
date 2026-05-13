@@ -12,6 +12,7 @@ Believe the hype. The Banh Mi Sandwiches here really are that good. There's usua
 they reshuffled their menu, so now the sandwich to order is #3 thap cam, with a little bit of everything. It's 30k but you get a lot of filling for your dough
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

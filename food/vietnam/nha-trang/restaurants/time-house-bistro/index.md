@@ -10,6 +10,7 @@ Charming old-fashioned European style coffee house. They serve one of the best c
 Food is rather pricey and rather hit and miss. While I love their merguez sandwich, the nicely presented 'bo ne' was an abomination, with a thin slice of dry rubbery meat in tasteless sauce. I haven't eaten there since.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

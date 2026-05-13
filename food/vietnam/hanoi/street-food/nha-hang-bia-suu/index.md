@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Bia Hơi
 12k a glass for good bia hoi, classic Hanoi street drinking joint with very tasty grilled pork belly to accompany the beer. Service could be better, though. In a bia hoi place, you should never have to wait long to get your glass refilled
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Vinh · Coffee
 Unique café with a stunningly designed interior decoration and views over the city. Prices are not much higher than elsewhere, the place is a definite must do in Vinh.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

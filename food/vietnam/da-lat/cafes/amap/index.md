@@ -14,6 +14,7 @@ Prices are quite high and so is the quality.
 A nice trip out of town.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

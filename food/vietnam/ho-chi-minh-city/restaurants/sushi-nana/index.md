@@ -8,6 +8,7 @@ subtitle: Phạm Ngũ Lão · Japanese
 Small budget sushi place in the backpacker area. The sashimi are fresh enough, but the portions are on the meagre side. Not a bad option if you happen to be nearby, though Saigon has plenty of better Japanese choices.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

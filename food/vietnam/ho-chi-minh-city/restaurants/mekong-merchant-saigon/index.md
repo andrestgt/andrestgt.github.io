@@ -8,6 +8,7 @@ subtitle: Thảo Điền · Vietnamese
 Ground zero for Saigon's expat crowd, but an agreeable one, with a lovely outdoor setting that makes it a nice place to linger. The cappuccino was excellent, the gnocchi with chorizo very enjoyable, and while prices sit towards the upper end of reasonable, they do not feel outrageous.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

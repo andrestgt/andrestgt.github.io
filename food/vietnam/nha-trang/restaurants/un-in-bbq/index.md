@@ -18,6 +18,7 @@ I still wholeheartedly recommend the place, it's deservedly popular with locals 
 I also recommend ordering some of their Vietnamese dishes as sides, the anchovy salad or bo la lot, they're as good here as in most local places.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Hải Châu · Coffee
 Looks inviting, but better be avoided. Cappuccino is made with UHT instead of fresh milk, WiFi only works with registration and the Vietnamese ca phê is mediocre. Plenty better choices in town
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 4/10 |

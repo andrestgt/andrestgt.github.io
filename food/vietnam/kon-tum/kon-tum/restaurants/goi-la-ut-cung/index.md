@@ -10,6 +10,7 @@ Possibly Kontum's most famous restaurant, this large open air place has a very p
 For carbs, however, better just order some rice dish, we made the mistake of ordering fries, and they come with sugar instead of salt here. You might think that's a mistake, but the Vietnamese youth actually prefers to eat them that way
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

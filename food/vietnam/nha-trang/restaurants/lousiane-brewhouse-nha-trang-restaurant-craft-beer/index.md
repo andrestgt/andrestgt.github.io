@@ -16,6 +16,7 @@ Story and Mangal haven't survived the pandemic, so this is hands down the best b
 2025 update: no more afternoon happy hour, but longer noon time happy hour from 12-2 with small beers for 45k. They have a new menu with food prices that now rival Sailing Club, but the food quality is really not worth these prices. Fortunately, the beer prices remain reasonable.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

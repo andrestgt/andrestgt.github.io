@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese · Bánh Mì
 Their Banh Mi Dac Biet for 22k is one of the best traditional Vietnamese baguette sandwich you can get in Nha Trang. Their opening hours are quite erratic though
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

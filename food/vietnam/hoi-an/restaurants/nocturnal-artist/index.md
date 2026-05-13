@@ -8,6 +8,7 @@ subtitle: Hội An · Vietnamese
 Cute, artsy little hole in the wall serving inexpensive but genuinely delicious home-cooked food. The smaller portions work well if you want to share and sample several dishes, such as the juicy ribs or the fish grilled in coconut leaves.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

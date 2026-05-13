@@ -8,6 +8,7 @@ subtitle: Ho Chi Minh City · Bar & Pub
 Good little spot for exploring Vietnam's local craft beer scene, with a nice selection on offer, friendly service and a balcony overlooking the perpetual chaos of Bùi Viện below.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

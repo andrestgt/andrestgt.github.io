@@ -8,6 +8,7 @@ subtitle: Nha Trang · Coffee
 Very nice, spacious and comfortable café with both Vietnamese coffees and espresso drinks on offer. The cappuccino is well prepared at 40k, and with wifi, sofas and strong air conditioning, it is easily the best café in the neighbourhood, conveniently located just opposite Big C/Go.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

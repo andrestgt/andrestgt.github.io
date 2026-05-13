@@ -8,6 +8,7 @@ subtitle: Bắc Hà · Vietnamese
 Nicest coffee shop in town by far. Vietnamese coffees only but excellent quality and not cheap starting from 25k. No food served
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

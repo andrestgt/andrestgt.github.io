@@ -10,6 +10,7 @@ Quiet café with calm music in a small garden setting. Espresso drinks are good 
 Extra point for using natural straws and real glasses for their iced drinkes instead of plastic.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

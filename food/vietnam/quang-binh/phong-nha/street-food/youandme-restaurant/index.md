@@ -14,6 +14,7 @@ At least it was cheap
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 4/10 |

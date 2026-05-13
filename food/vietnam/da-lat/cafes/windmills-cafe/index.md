@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Coffee
 Small western style coffee shop with good inexpensive cappuccino and tasty frozen yoghurt
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

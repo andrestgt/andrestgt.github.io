@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Real Vietnamese drinking food, tiny plastic chairs on the sidewalk. Good prices for this neighbourhood which is in full process of gentrification due to its proximity to the tourist area. Come here for an authentic experience as long as such places still exist and order the grilled duck throats if you dare
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

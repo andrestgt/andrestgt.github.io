@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Prime location and significantly better value than similar places in Nha Trang. Huge menu, but good food and service. Sadly, there's no happy hour and the whole place feels too geared towards Russians
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

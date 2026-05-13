@@ -10,6 +10,7 @@ I visit this place every time I'm in Chau Doc for almost fifteen years now. It h
 As it is, though, it's just a basic local eatery, but that's not a bad thing. I never had a bad meal here, actually. They have an English menu and cater to tourists as well, so you pay a little bit more than in other basic street eateries, but the food is still inexpensive by any standards and I like the atmosphere here.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

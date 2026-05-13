@@ -10,6 +10,7 @@ Very good bowls of soup, bun bo and my quang. Despite the Bui Vien location and 
 Very good bowls of soup here, particularly the bún bò and mì quảng. Given the Bùi Viện location, the 70k price tag per bowl is hardly surprising, yet the fact that plenty of locals still eat here is always a good sign.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

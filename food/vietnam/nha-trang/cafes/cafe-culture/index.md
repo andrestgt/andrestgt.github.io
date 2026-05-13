@@ -18,6 +18,7 @@ I'd highly recommend the one with panko breaded chicken, bacon and blue cheese
 Edit 2022: they moved to a better and bigger location, the whole place is nicer and more spacious but the food is still great and the prices reasonable as ever.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

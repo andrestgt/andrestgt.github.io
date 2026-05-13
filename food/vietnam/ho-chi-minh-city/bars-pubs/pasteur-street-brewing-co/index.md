@@ -8,6 +8,7 @@ subtitle: Bến Nghé · Craft Beer
 Their home brews are amazingly good. Some of the best beer I've ever tasted. They can be sipped and enjoyed like wine. This no place to get drunk though, as prices are higher than Bitexco tower despite the backstreet location
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

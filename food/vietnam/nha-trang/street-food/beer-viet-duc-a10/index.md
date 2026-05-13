@@ -10,6 +10,7 @@ One of the very few proper bia hoi joints in downtown Nha Trang. They have 2 lit
 There are better value bia hoi places outside of the city centre, but this place is probably the choice downtown.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

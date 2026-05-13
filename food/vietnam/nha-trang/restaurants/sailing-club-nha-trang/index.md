@@ -16,6 +16,7 @@ The last time I ate there was in 2011, and it was disappointing, nowhere near th
 On my last recent visit, I just came for a drink. Admittedly, the atmosphere on a breezy early evening can be magical here, but sorry to say, the prices have become absolutely outrageous. I imagine it's not even their fault, they probably have to pay truckloads of bribes to stay open in this location, but it has really become a one time splurge place for tourists, rather than an everyday place for locals. Sad.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Hải Châu · Vietnamese
 Prime location, great space. For sure it's pricey, but on top of the views and the ambience, you also get good quality food and drinks for your money. Short happy hour between 5.30-6.30 pm
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

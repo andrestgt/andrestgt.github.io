@@ -8,6 +8,7 @@ subtitle: Tây Hồ · Craft Beer
 One of the lesser known craft beer breweries in Vietnam, but they have an impressive tap room and beer garden in an exclusive West Lake location and some of the best craft beers in the country including my personal favourite, a Mango Smoothie IPA. It's actually worth getting a couple of flights to try all of their beers. There's pub grub for sustenance, too. Prices are similar to other tap rooms, a flight of 4 is 180k, but if you're lucky and the guy who runs the place happens to be behind the bar, you might get some generous extra samplers on top of what you order. Great place
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

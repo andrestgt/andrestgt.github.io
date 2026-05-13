@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Just moved to a new location, but still with the same menu. One of the few places in Nha Trang with good Western food. You can never go wrong with their chorizo dishes, leg of lamb and spinach feta empanadas. Tasty cocktails and large selection of wines, too. Tapas portions are actually meal sized, so it's good value. Watch out for daily specials!
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

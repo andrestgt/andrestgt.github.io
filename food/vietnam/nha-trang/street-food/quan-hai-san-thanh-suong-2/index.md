@@ -14,6 +14,7 @@ I'd still rate it as one of the best and few remaining places to eat good, fresh
 Prices have gone up, predictably, but it's still affordable
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

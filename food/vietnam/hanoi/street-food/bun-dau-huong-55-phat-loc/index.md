@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Vietnamese
 This one is for adventurous eaters. The texture of their tofu is perfect, crunchy outside fluffy inside, and I loved the blood sausage, similar to boudin or morcilla. But I couldn't stomach the boiled intestines and pork skin, dipped in bubbling, fermented shrimp paste. Not cheap
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

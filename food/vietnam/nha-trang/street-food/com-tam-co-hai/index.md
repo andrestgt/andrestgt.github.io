@@ -10,6 +10,7 @@ This little Chinese eatery has dumplings that are made right in front of you. Ta
 Update: they moved to slightly bigger premises and sadly there's no more open kitchen, but the dim sum are still delicious and reasonably priced
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

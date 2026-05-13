@@ -10,6 +10,7 @@ The phở here is very good, with a rich and flavorful broth, and the location i
 Prices are typical for District 1—65K for a regular bowl and 85K for the đặc biệt, which is massive and well worth it if you're hungry.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

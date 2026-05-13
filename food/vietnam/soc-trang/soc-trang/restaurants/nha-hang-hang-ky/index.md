@@ -8,6 +8,7 @@ subtitle: Sóc Trăng · Vietnamese
 If you can look past the atrocious decor, the stale atmosphere and the fact that half the huge menu was unavailable, you'll still be able to enjoy the excellent food here, the frog curry is delicious
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Bến Nghé · Coffee
 Cute, fashionably run-down and agreeably urban in style. The coffee here is very good, whether you go for Italian-style espresso drinks or traditional Vietnamese coffee. Prices are perfectly reasonable for this part of town.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

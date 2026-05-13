@@ -8,6 +8,7 @@ subtitle: Nha Trang · Korean
 While the Aqualand complex is still unfinished, this is one of the few places already in operation. To attract customers, they offer lunch combo deals at rock-bottom prices. For 59k, you get soup, a Korean grilled meat and rice dish, banchan, and a glass of Pepsi. Portions are rather small, and the taste leans towards the sweet side, but for the price, you can’t really complain.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

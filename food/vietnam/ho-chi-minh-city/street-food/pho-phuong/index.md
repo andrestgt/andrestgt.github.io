@@ -8,6 +8,7 @@ subtitle: Ho Chi Minh City · Vietnamese · Phở
 One of the more famous Pho joints in town and always busy with locals and visitors. The Pho Bo here is Southern style with a darker and very flavourful broth which suits my tastes well. A big bowl with mixed meats is not cheap (80k) but it feeds 2.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

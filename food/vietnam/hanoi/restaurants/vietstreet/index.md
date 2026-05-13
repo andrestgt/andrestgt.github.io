@@ -8,6 +8,7 @@ subtitle: Thanh Xuân · Vietnamese
 Can you find better food hunting the streets of Hanoi? Yes, for sure. But this franchise serves absolutely decent and nice looking Vietnamese standards in an air conditioned neat environment. There's a good variety of dishes and considering the large portions everything is reasonably priced. Most dishes are in the 60-80k range
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

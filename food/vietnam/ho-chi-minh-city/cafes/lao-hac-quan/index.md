@@ -8,6 +8,7 @@ subtitle: Tân Định · Coffee
 Unique nostalgia café by the canal, the sort of place where you can happily spend a lazy afternoon pretending it is 1996 in Saigon. The atmosphere is wonderfully evocative, even if the prices are rather less nostalgic and firmly rooted in the present.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

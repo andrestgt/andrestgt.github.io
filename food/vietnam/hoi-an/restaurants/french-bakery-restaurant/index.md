@@ -10,6 +10,7 @@ Despite the name, this is a simple family restaurant dishing out standard local 
 The Ngheu hap (steamed mussels in lemongrass broth) were fresh and authentic, the Cha gio tom (prawn rolls) came with salad and herbs and the fries were crispy and home made. Prices are modest and suitable for the location and ambiance, about 100 k per pax for a full meal with drinks.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

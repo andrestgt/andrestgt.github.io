@@ -10,6 +10,7 @@ The new premises are super nice and fancier than the prices would suggest. The q
 Most dim sum dishes are around 50k.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

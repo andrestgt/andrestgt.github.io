@@ -8,6 +8,7 @@ subtitle: Nha Trang · Coffee
 This place must have been really nice once, a large, shady and stylish garden café with different sections for different tastes. However, the maintenance issues here can't be overlooked, some areas are looking run down. They don't offer any espresso drinks, nor hot chocolate despite being on the menu. They do, however, charge 38k for some cocoa powder with hot water. On a positive note, the Vietnamese coffee comes with in a filter, albeit espresso sized
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 4/10 |

@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 Nicely presented goat curry with baby baguettes, the curry soup is tasty, pity that the goat consists mainly of fat and bones. For 45k a bit more actual meat would have been nice.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

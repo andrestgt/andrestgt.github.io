@@ -14,6 +14,7 @@ The burgers and ribs are nice and juicy and they have a lot of craft beers on ta
 If you're into meat and beer and you're looking for a splurge, LIVIN is a good choice, it's expensive but you get what you pay for.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Đông Thành · Vietnamese · Phở
 Deservedly popular local pho place that serves not only very good bowls of the eponymous beef noodle soup, but unusual for a pho eatery, also large plates of tasty fried rice with chicken or beef. Good for breakfast, lunch, dinner or anytime in between
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

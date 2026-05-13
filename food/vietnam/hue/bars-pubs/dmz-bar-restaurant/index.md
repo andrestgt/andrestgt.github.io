@@ -8,6 +8,7 @@ subtitle: Huế · Bar & Pub
 This long established backpacker bar is trying to reinvent itself now that there's no more backpackers in the country. Catering to the taste of the local youth means the music is horrible and deafening but despite this and a discount on drinks, it was almost empty on a Sunday night, even with the walking street. In a way it's a sad sight
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 6/10 |

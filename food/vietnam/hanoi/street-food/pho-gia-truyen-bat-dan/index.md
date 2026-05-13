@@ -10,6 +10,7 @@ This place is an institution and a visit here is an experience. I don't even wan
 The food? There's Pho Bo Tai Nam, it's 60k a bowl and it's delicious. I wouldn't wait in line for an hour for it, though the experience is rather priceless.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

@@ -8,6 +8,7 @@ subtitle: Ho Chi Minh City · Chinese · Dim Sum
 This hole-in-the-wall dim sum spot in Cho Lon is a hidden gem. They offer a great variety of really tasty, homemade dim sum at very affordable prices. It’s definitely worth the trip to Chinatown if you're craving some authentic, delicious dim sum.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

@@ -10,6 +10,7 @@ Soft opening, so I won't write a detailed review yet, but the place has great po
 They really should work on their food menu though, for the prices they charge I'd expect excellent quality, not the kind of mediocre dishes they serve here
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

@@ -14,6 +14,7 @@ I first wrote these lines in May 2019, just a few months before Vietnam was clos
 Now, in 2025, the beer cocktails are still 90k, and I still enjoy them. The food menu has remained largely the same, too. If you can actually find a seat and don’t mind loud music, it’s still an easy recommendation, although I certainly wouldn't describe it as charming, little bar anymore.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

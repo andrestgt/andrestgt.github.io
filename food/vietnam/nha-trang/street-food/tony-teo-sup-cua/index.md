@@ -14,6 +14,7 @@ Tony Tèo also serve some other dishes such as Banh Trang Tron (rice paper mango
 If you want to drink some cold beers with your grill and fry platters, they're very accommodating if you bring your own, which makes dining here even less expensive
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

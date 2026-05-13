@@ -12,6 +12,7 @@ Yeah, why not?
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

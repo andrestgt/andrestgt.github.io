@@ -8,6 +8,7 @@ subtitle: Huế · Vietnamese
 Simple garden restaurant with a short, focused menu of Huế specialities. At 25–60k per dish, this is not quite street food cheap, but I doubt you will find better quality for the money anywhere else in town.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

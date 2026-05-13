@@ -8,6 +8,7 @@ subtitle: Cầu Ông Lãnh · Coffee
 Friendly, spacious coffee shop with ac and very fast WiFi, BUT I ordered a cappuccino doppio and it tasted like warm milk. It's only 40k, but I don't know what kind of coffee they're using
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 6/10 |

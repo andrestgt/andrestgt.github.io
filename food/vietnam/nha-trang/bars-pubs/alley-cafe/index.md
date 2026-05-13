@@ -10,6 +10,7 @@ Feels like Nha Trang in the 2000s, and that's a compliment. Simple old school ou
 Feels like Nha Trang in the 2000s, and that is very much a compliment. Simple old-school outdoor café-bar with cheap cold beers, inexpensive food and the sort of relaxed atmosphere that has become increasingly rare. Popular with the expat crowd, for understandable reasons.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

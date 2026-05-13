@@ -10,6 +10,7 @@ This basic alley eatery came recommended by locals, and I’m not surprised—it
 There’s no nem on the side, which is a pity. For me, bún chả and nem go together, but that’s just personal preference. That said, it’s very cheap—35k for a good portion—so I won’t complain too much. Many other places around town charge much more these days.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -10,6 +10,7 @@ The biggest, busiest and most expensive of the riverside restaurants in this are
 Try the Bo Nhung Giam, the Vietnamese version of a Fondue bourguignonne. Count on spending about 200k per head including beers
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

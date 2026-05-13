@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese · Bánh Mì
 This basic hole in the wall bakery has hands down the best Banh Mi in Nha Trang. None of the competition comes even close and the secret is the bread itself, it's small, dense and crispy, just the way you get it in the most famous Banh Mi places in Hoi An. 15k for a thap cam, a real steal for one of the best sandwiches you can get in Vietnam
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

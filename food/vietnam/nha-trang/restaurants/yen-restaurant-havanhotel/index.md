@@ -10,6 +10,7 @@ Yen's is a cute little restaurant right in the middle of tourist central. It's t
 I've eaten both here and at Lanterns, the other tourist restaurant in town, several times, and I rate food at Lanterns higher, while Yến has the nicer ambience
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

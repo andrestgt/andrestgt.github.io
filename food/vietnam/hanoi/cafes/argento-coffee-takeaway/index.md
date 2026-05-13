@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Coffee
 Very good cappuccino here for 35k. Inexpensive. Just a pity that the café is not comfy, but at least you can sit in stools watching the street
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

@@ -12,6 +12,7 @@ Prices are rock bottom: a full combo meal for two, including wonton soup, rice, 
 That said, I’d totally recommend it for their meat platters, which I doubt you’ll find cheaper at this quality anywhere else in Nha Trang.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

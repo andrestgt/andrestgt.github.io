@@ -14,6 +14,7 @@ The spicy squid is super spicy and the cold soba noodles tasted nice, like a Kor
 But for 300k a head I would have expected more
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

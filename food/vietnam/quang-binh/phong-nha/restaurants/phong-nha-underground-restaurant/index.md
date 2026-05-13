@@ -8,6 +8,7 @@ subtitle: Phong NHA · Vietnamese · Phở
 Very nice and welcoming air conditioned restaurant with good international food and very refreshing home made ginger beer. This place is upmarket by Phong Nha standards but prices are reasonable with most dishes under 100k. The quality of the food is fine although the generous tamarind chicken was a little dry. My falafel sandwich was very tasty though.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Cần Thơ · Coffee
 Nice to see a modern comfy lounge cafe in the Delta. But stick with Vietnamese coffee, the cappuccino is not nice. Only French wines on offer, unfortunately. Good Vietnamese bistro food, though
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 6/10 |

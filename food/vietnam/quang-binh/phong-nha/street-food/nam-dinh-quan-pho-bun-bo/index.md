@@ -10,6 +10,7 @@ This is a classic noodle soup place and often very busy for breakfast. The broth
 But to be honest, the quality of food in Phong Nha is very modest in general by Vietnamese standards and this is still one of the better options
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

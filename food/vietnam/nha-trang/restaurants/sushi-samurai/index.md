@@ -16,6 +16,7 @@ The poor service didn't help either to give me any other impression of this plac
 Go to Kiwami instead, a bit more expensive, but light years ahead in terms of quality and atmosphere.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 4/10 |

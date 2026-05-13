@@ -8,6 +8,7 @@ subtitle: Hội An · Indian
 I'm a regular of their Nha Trang branch, and the Hoi An branch is just as good. Some of the best Indian you'll find in the country and just a notch above the competition
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

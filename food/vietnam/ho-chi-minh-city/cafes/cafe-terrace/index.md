@@ -8,6 +8,7 @@ subtitle: Bến Nghé · Coffee
 Prime location, very nice café. Very expensive, but at least the quality is right. Very good cappuccino with cute latte art, and tasty Vietnamese favourites, nicely presented
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

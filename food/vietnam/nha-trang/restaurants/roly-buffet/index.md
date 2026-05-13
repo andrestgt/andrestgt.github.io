@@ -12,6 +12,7 @@ As someone who is not a fan of buffet restaurants, I must admit that I quite lik
 The freshly prepared banh xeo are quite nice, but the precooked dishes are not being kept warm at all, so it's best to avoid them and go straight for the BBQ and hotpot options.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

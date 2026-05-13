@@ -8,6 +8,7 @@ subtitle: Hội An · Bar & Pub
 I doubt I'd stay here in normal times, this place having a reputation as a wild party hostel, but during corona it was perfect. Quiet, clean with excellent friendly service and a pool which was mostly empty of guests. The private rooms are bright, spacious and 3 star comfortable. A real bargain for under 300k.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Bar & Pub
 This is a nice boozer, dark and cozy. Mellow rock and pop tunes, mostly from the 70s. Just very pleasant. The cocktails here are nice but very small. OK for the price, though, with most around 70-80k. Sadly there's no grub available, not even nibbles
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

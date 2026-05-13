@@ -8,6 +8,7 @@ subtitle: Bến Nghé · Coffee
 Spacious, comfortable branch in an excellent central location. Like most CBTL outlets, however, the coffee is underwhelming: too much milk, too little actual coffee, and rather overpriced for what arrives in the cup. With so many stronger options nearby, there is little reason to seek this one out.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 6/10 |

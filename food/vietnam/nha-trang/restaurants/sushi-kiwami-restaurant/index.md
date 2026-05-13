@@ -20,6 +20,7 @@ Prices are on par with the other sushi bars in town, which makes this one easily
 Only drawback is that it has become so popular, it's getting hard to get a table, and opening hours are short.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

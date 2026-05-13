@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Bakery & Coffee
 I loved Joma in Laos all those years ago, but this one must have had a bad day. Air con weak, WiFi down and the worst of sins, they put cinnamon on my cappuccino. Could be a great coffee shop though, the most spacious in the Old Town
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 4/10 |

@@ -16,6 +16,7 @@ The beer platter (230k) was slightly underwhelming though, and rather small for 
 I'd definitely come back for the ribs, though
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

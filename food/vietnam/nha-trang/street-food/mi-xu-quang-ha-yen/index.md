@@ -8,6 +8,7 @@ subtitle: Nha Trang · Vietnamese
 Very good My Quang, the original taste from Central Vietnam, which is a rare find in Nha Trang. 30k for a (smallish) bowl
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

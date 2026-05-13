@@ -16,6 +16,7 @@ That's why it's such a pity that they don't seem to have a capable management to
 *Well, there's one exception, do not, under any circumstances, think about ordering their pomelo beer, it tastes like, I would imagine, if you mix sparkling water with dishwashing liquid, anyway, you've been warned
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 6/10 |

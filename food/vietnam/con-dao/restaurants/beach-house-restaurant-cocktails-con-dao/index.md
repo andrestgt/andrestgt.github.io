@@ -10,6 +10,7 @@ We stayed just next door so this became our go to restaurant during our time in 
 Highly recommended
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

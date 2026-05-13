@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Bar & Pub
 For me, this shares the title of Vietnam's best bar with Polite Pub in Hanoi. Fantastic live music, a superb atmosphere and properly good drinks make this an outstanding night out. The kind of place that would almost justify the trip to Đà Lạt on its own.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

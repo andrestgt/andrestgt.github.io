@@ -20,6 +20,7 @@ But is there anyone who really enjoys to eat this kind of food, I wonder.
 After adding copious amount of fish sauce and chilies, all the food that came out was okay, but that's just not good enough in a city full of amazing food. Pity.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

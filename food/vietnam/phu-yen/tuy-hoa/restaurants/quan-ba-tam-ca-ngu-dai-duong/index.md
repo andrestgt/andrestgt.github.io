@@ -8,6 +8,7 @@ subtitle: Tuy Hòa · Vietnamese
 Basic tuna speciality restaurant serving everything from unusual delicacies such as steamed tuna eye to classics like beautifully grilled tuna belly. Cheap, delicious and friendly, and an absolute must in Tuy Hòa.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

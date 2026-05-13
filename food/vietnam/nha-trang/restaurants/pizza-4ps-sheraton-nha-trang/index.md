@@ -10,6 +10,7 @@ I'd heard great things about 4P from other people, but it took me a long time to
 They serve craft beers from the tap for less than you'd pay in most local bars (75k+) and there's a happy hour between 11 am and 6 pm.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

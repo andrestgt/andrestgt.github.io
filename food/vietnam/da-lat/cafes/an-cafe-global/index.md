@@ -10,6 +10,7 @@ I would never support a café that doesn't give their customers actual mugs inst
 To be avoided
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 2/10 |

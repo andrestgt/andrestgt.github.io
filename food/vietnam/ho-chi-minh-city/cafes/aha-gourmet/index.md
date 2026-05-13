@@ -8,6 +8,7 @@ subtitle: Phạm Ngũ Lão · Coffee
 There is no way this place will survive. Cappuccino is made with sweetened UHT milk without froth. A sacrilege that is unpardonable. Nobody goes up to the first floor in a city full of great cafés to drink coffee this bad. An extra star for the nice sofas.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 4/10 |

@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Vietnamese
 Tried both a Vietnamese and a German dish here. The marinated chicken leg with sticky rice and herbs was genuinely delicious, full of flavour and easily the highlight of the meal. The Currywurst, on the other hand, was not particularly convincing. Prices are very fair though, making this a good-value option overall.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

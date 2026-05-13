@@ -10,6 +10,7 @@ Thanh Hoa's most popular Bia hoi joint is worth a visit for the local specialty 
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

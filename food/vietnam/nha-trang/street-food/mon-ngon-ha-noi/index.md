@@ -12,6 +12,7 @@ The Bun Ca (45k) with fried fish and dill is delicious, I just found their bun c
 Food presentation is surprisingly nice for an inexpensive basic eatery.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

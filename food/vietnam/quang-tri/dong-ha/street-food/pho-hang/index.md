@@ -8,6 +8,7 @@ subtitle: Đông Hà · Vietnamese · Phở
 This neat, modern eatery serves very good bowl of Northern style Pho (both beef a n D chicken) at very moderate prices, a large Dac Biet including a generous amount of delicious soft beef tendons goes for 35k. Plus there's a few dry noodle dishes, such as Pho Tron which are equally tasty. A good choice if you find yourself in Dong Ha for some reason.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

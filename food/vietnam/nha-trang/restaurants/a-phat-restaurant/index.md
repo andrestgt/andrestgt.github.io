@@ -12,6 +12,7 @@ The service here is good and friendly, and the menu offers a huge selection of d
 The Vinh Diem Trung / Phu Nong area of Nha Trang has seen recent openings of some really recommendable restaurants that offer much more authenticity and better value than the restaurants in the tourist and downtown areas, and it's just a short cab ride away.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

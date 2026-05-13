@@ -14,6 +14,7 @@ Their combos are great value so it's a good idea to bring friends, this is not a
 200-250k/pax will give you a feast of quality meats, noodle and rice dishes, soups and nice variety of unlimited appetisers.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

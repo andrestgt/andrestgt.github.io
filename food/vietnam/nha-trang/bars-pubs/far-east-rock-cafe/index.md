@@ -8,6 +8,7 @@ subtitle: Nha Trang · Bar & Pub
 Used to have the cheapest drinks in the tourist area, and even though prices have gone up a bit recently, it's still very popular with the Russians mostly, for their big portions of inexpensive food and copious amounts of affordable booze. The food is generally bland to horrible and the live bands even worse. Still, for people on a budget with undiscerning palates, it's probably the best place in town to get stuffed and wasted
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 6/10 |

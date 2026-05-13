@@ -8,6 +8,7 @@ subtitle: Ba Đình · Coffee
 Nicely decorated coffee shop with good Vietnamese coffees. Avoid the espresso based drinks though, as they use UHT milk, which, considering the high prices, is obviously wrong. 55k for a cappuccino
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 6/10 |

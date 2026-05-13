@@ -8,6 +8,7 @@ subtitle: tỉnh Khánh Ho · Korean
 Good Korean BBQ restaurant franchise located in Lotte Mart. They have these fancy table grills, but prices are reasonable. The free appetisers are rather modest, but the grille octopus is a must. Recommended
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Nha Trang · Cocktail Bar
 Very fancy cocktail bar, very expensive for Nha Trang. Cocktails are pretty good, and happy hour is long. All prices are ++, which is very unusual in Nha Trang and why I deduct one star. Good service
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 6/10 |

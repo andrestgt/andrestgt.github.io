@@ -10,6 +10,7 @@ This is a pleasant countryside restaurant just a short bike ride from the villag
 Prices are a little on the high side—higher than expected for the location—but it’s still a worthwhile stop, especially for lunch. In the village itself, the really good roasted duck is only available in the evenings, so this makes for a good alternative earlier in the day.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

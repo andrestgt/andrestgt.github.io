@@ -8,6 +8,7 @@ subtitle: Nha Trang · Bar & Pub
 Classic expat hangout and not the easiest place to track down, but once you do, you can happily indulge your inner Brit: meat pies with chips, ice-cold draught beer and The Smiths on the speakers. Not a Russian in sight, which in Nha Trang counts as a selling point.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |

@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 They do a good job of creating a proper German Gasthof vibe with the wooden interior and cozy layout. The beers are pricey but genuinely delicious. The food, while tasty, doesn’t quite hit the mark for authenticity—so it's definitely worth a visit for the beers and the atmosphere but don't expect a true taste of German cuisine.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

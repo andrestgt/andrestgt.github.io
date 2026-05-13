@@ -10,6 +10,7 @@ Less cosy and intimate than the original sushi bar, but on a positive note, it's
 2024 update : the original Kiwami is now an izakaya and it seems all operations of the sushi restaurant have moved to this bigger space
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

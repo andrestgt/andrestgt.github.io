@@ -10,6 +10,7 @@ If you're in Nha Trang and you feel a craving for Dim Sum you really don't have 
 Service and atmosphere are predictably good.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

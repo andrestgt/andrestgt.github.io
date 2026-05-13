@@ -12,6 +12,7 @@ I had the one with Parma ham and rucola and generally found it very good, though
 That said, the amount of toppings was just right, and the quality was great. So overall, it’s good value—225k for a 30cm pizza.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

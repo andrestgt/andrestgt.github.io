@@ -8,6 +8,7 @@ subtitle: Ho Chi Minh City · Thai
 This is real Thai food (albeit a little spiced down), and they have a great menu with all the favourites. Prices between 80-150k which is good value for size and quality. Inexpensive, but drinkable Argentinian house wine. The red duck curry is delicious
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

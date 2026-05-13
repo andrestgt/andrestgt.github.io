@@ -12,6 +12,7 @@ For amazing views head upstairs to their terrace, but it pays to reserve if you 
 Their pizzas are the thick crust, cheese overload variety, so they're not for purists. But the Korean mandu pizza is so ridiculously double carbs wrong, it's spectacularly delicious
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 10/10 |

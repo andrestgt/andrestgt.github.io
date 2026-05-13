@@ -8,6 +8,7 @@ subtitle: Bến Thành · Coffee
 Great view and comfy armchairs but avoid their Italian style coffees, they use cheap UHT milk instead of fresh milk, which is ridiculous given the price tag
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 6/10 |

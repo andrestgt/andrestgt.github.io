@@ -8,6 +8,7 @@ subtitle: Bến Thành · Coffee
 True to its name, they serve a very good cup of flat white here. It tastes very strong, like a double shot espresso minimum, quite the way I like it. Prices are D1 high, but that's to be expected
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 8/10 |

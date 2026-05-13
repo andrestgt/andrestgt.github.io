@@ -10,6 +10,7 @@ Pretty good Pho Bo for only 25k. And the only place in town serving it at lunch 
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

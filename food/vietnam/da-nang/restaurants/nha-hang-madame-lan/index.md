@@ -12,6 +12,7 @@ We had a nicely done mì Quảng and a fresh mango salad, but the real standout 
 Prices are very reasonable for such a popular and attractively designed restaurant. Overall, a great choice in Da Nang if you want to try a wide range of Vietnamese dishes in a comfortable setting.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

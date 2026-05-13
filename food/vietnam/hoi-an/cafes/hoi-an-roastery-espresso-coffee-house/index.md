@@ -8,6 +8,7 @@ subtitle: Hội An · Specialty Coffee
 The nicest and comfiest Western-style coffee shop in Hội An, and an ideal stop for an espresso fix while exploring the Old Town. The cappuccino is excellent, and they also prepare very good Vietnamese specialty coffees.
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Coffee | 10/10 |

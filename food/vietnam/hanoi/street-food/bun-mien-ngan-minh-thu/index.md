@@ -8,6 +8,7 @@ subtitle: Hoàn Kiếm · Vietnamese
 Tasty duck/goose soup with clear broth and meatballs, 35k a bowl
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 8/10 |

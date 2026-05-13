@@ -8,6 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 Climbing up the narrow stairs to Quan Gio, this place certainly feels like a bit of a hidden gem, away from the tourist restaurants of Dalat. Their short menu is in Vietnamese only and features interesting items such as dried buffalo meat (very flavourful) and rice wine that's actually quite delicious. Unfortunately the cut of beef that they presented us for our table barbecue was not of the best quality, fat and chewy in parts, so I can't rate this higher. Chips and dips were good, and prices reasonable though
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

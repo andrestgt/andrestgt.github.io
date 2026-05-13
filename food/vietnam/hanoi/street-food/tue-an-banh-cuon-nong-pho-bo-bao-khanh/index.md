@@ -10,6 +10,7 @@ My go to place for banh cuon in Hanoi for almost two decades. Almost unchanged s
 2022 update : it's now 35k and they no longer seem to do the eel noodles. Still a good place
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 10/10 |

@@ -10,6 +10,7 @@ We ended up having lunch here simply because is was the only place that was open
 *— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Food | 6/10 |

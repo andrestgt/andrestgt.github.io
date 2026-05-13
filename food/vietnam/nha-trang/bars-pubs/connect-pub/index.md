@@ -8,6 +8,7 @@ subtitle: Nha Trang · Bar & Pub
 Cool little sidewalk bar with cheap drinks right in the most happening area of town. Good for pre-dinner drinks if you're on a budget
 
 ## Ratings
+
 | Category | Score |
 |---|---|
 | Drinks | 8/10 |
