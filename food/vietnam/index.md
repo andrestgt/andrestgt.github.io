@@ -12,7 +12,7 @@ hero_overlay: false
 
 # Vietnam
 
-## Standalone Cities
+## Major Destinations 
 
 - [Hanoi](/food/vietnam/hanoi/)
 - [Ho Chi Minh City](/food/vietnam/ho-chi-minh-city/)
