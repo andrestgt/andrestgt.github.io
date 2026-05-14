@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-region: an-giang
+city: an-giang
 slug: an-giang
 title: An Giang – Food & Drink
 subtitle: Food and drink across An Giang
