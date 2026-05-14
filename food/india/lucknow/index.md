@@ -4,6 +4,7 @@ section: food
 city: lucknow
 title: Lucknow – Food & Drink
 subtitle: Awadhi restaurants and street food in Lucknow
+hero: /photos/background/lucknowhero.jpg
 ---
 
 # Lucknow
