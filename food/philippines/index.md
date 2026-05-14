@@ -14,7 +14,6 @@ Food & drink across the Philippines, organised by island group.
 - [Manila](/food/philippines/manila/)
 - [Baguio](/food/philippines/baguio/)
 - [Vigan](/food/philippines/vigan/)
-- [Angeles](/food/philippines/angeles/)
 
 ## Palawan
 - [El Nido & the North](/food/philippines/el-nido/)
