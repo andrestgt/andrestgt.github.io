@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Vidushi's Cow Corner
+subtitle: Patnem, South Goa · Goan, International
+---
+
+My favourite in Patnem with a lovely garden setting (beware of mosquitoes though). Their menu seems disappointing at first glance, but don't be fooled — they serve some of the most delicious food in Goa at very moderate prices. The chicken Kathi roll is super tasty and comes with homemade chips for only 140 Rs. Their pasta dishes are creative, tasty and far from ordinary. Farfalle with spicy Goan chourico and spaghetti with calamari in dill cream are killer dishes. Pasta around 300–350 Rs but portions are massive.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Vidushi%27s+Cow+Corner+Patnem+Canacona+Goa+India)
+🍽️ **Cuisine:** Goan, International
+💰 **Price level:** 140–350 Rs per dish

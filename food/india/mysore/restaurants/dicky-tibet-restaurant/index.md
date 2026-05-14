@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Dicky Tibet Restaurant
+subtitle: Devaraja Mohalla, Mysore · Tibetan
+---
+
+This little first-floor backroom place is a great find, if you actually manage to find it. It's a little corner of Tibet in Southern India — all other patrons were Tibetan Indians. The food is really tasty and super cheap with no dish costing over 80 Rs, not even the big plates of meat fried rice. There's a good variety of meat-filled dumplings and noodle soups too. I loved their homemade pickles and chili sauce. It's simple, honest food, perfect for a cool rainy evening.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dicky+Tibet+Restaurant+Devaraja+Mohalla+Mysuru+India)
+🍽️ **Cuisine:** Tibetan
+💰 **Price level:** Under 80 Rs per dish
