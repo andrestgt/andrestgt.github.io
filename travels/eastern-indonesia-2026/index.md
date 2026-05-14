@@ -951,14 +951,14 @@ What I especially liked was the location, just a five-minute walk from the Skytr
 It was my first time staying in this particular area, and I really enjoyed it. Behind the huge modern buildings along the main roads, you still find old, traditional neighbourhoods of wooden houses that are so typical of Bangkok.
 
 Despite the presence of IconSiam, there are still plenty of inexpensive breakfast cafés and coffee shops around, and easy access to the rest of the city via riverboat and Skytrain.
-On the evening of my arrival, a Friday night, I had been looking forward to going to Sushiro at IconSiam for some of the cheapest good sushi around. But it seems the place has become so popular that it was fully booked that evening, and even the next afternoon, when I tried again, the queue was so long that I gave up.
+On the evening of my arrival, a Friday night, I had been looking forward to going to [SUSHIRO ICONSIAM](/food/thailand/bangkok/restaurants/sushiro/) for some of the cheapest good sushi around. But it seems the place has become so popular that it was fully booked that evening, and even the next afternoon, when I tried again, the queue was so long that I gave up.
 
-Instead, I ended up at a very cool little microbrewery called Isara Local Bar, set in one of those old wooden houses in a traditional neighbourhood, just behind the Hilton, opposite IconSiam. This turned out to be a great choice, albeit a bit pricey.
+Instead, I ended up at a very cool little microbrewery called [Isara Local Bar & Brewery](/food/thailand/bangkok/bars-pubs/isara-brewery/), set in one of those old wooden houses in a traditional neighbourhood, just behind the Hilton, opposite IconSiam. This turned out to be a great choice, albeit a bit pricey.
 I tried a couple of their house-brewed beers, all worth trying, as well as some of the food. The larb meatballs were particularly good, very tasty and seriously spicy, and overall it is just a very friendly and enjoyable place to spend an evening.
 
-The next morning, I had my breakfast coffee just around the corner from my hotel at the stylish, nicely decorated Kafi Sathon, where a well-prepared flat white cost just 60 baht, quite a bargain for a café of this kind in Bangkok.
+The next morning, I had my breakfast coffee just around the corner from my hotel at the stylish, nicely decorated [KAFI Sathon](/food/thailand/bangkok/cafes/kafi-sathon/), where a well-prepared flat white cost just 60 baht, quite a bargain for a café of this kind in Bangkok.
 
-After that, I took the Skytrain to Ratchaprasong for brunch at Praram 9 Kaiyang at the market, a large, formerly Michelin-recommended grilled chicken place with great views over CentralWorld and Pratunam.
+After that, I took the Skytrain to Ratchaprasong for brunch at [Praram 9 Kaiyang](/food/thailand/bangkok/restaurants/praram-9-kaiyang/) at the market, a large, formerly Michelin-recommended grilled chicken place with great views over CentralWorld and Pratunam.
 One of my favourite dishes in the world is grilled chicken with papaya salad and sticky rice. The version here was Bangkok-style, which means quite sweet, not exactly how I prefer it, but as one would expect in Bangkok. Other than that, though, it was flawless, and considering the view and location, very reasonably priced.
 
 <figure>
@@ -968,25 +968,24 @@ One of my favourite dishes in the world is grilled chicken with papaya salad and
 
 To digest, I took a walk through CentralWorld, Siam Paragon, and Siam Discovery, then on to Jim Thompson House, continuing a bit along the canal before taking one of the small khlong long-tail boats to Banglamphu. From there, I went on another fairly long walk along the canal all the way to Rambuttri and Khao San.
 
-
 <figure>
   <img src="/photos/travelogues/bkk11.jpg" alt="Banglamphu">
   <em>Banglamphu</em>
 </figure>
 
-I only stopped once along the way, for a coffee at a new place with a very nice canal-side location called Richdee's Eatery and Cafe, where a latte was also 60 baht, and a good one at that.
+I only stopped once along the way, for a coffee at a new place with a very nice canal-side location called [Richdee's Eatery and Cafe](/food/thailand/bangkok/cafes/richdees/), where a latte was also 60 baht, and a good one at that.
 
 <figure>
   <img src="/photos/travelogues/bkk12.jpg" alt="Chao Phraya">
   <em>Chao Phraya</em>
 </figure>
 
-For an early dinner, I headed out to the outskirts of Thonburi, first by Skytrain and then by motorbike taxi, to Samkaew Craft Beer, a large, mostly open-air taproom with by far the most affordable craft beers in Bangkok.
+For an early dinner, I headed out to the outskirts of Thonburi, first by Skytrain and then by motorbike taxi, to [Samkaew Craft Beer Kanlapaphruek](/food/thailand/bangkok/bars-pubs/samkaew-craft-beer/), a large, mostly open-air taproom with by far the most affordable craft beers in Bangkok.
 There was a buy-one-get-one offer, which seems to run almost daily, making the whole experience even better value. It is no surprise that the place filled up quickly and was completely packed as the evening went on.
 The beers are probably not the best craft beers in the country, but at 150 baht for two half-litre glasses, they are excellent value. They are definitely better than Singha or Leo, and at least on a par with Tawandaeng.
 There is also proper local food to go with it, meaning seriously spicy. The larb moo actually made me cry.
 
-I had one of my best cups of coffee in a hidden café at the end of a narrow cul-de-sac in a small soi in Silom. Pobnar Specialty Coffee & Roastery does fantastic flat whites for under 100 baht, which is quite inexpensive for this area. It is your typical, slightly uncomfortable hipster place, but definitely worth seeking out.
+I had one of my best cups of coffee in a hidden café at the end of a narrow cul-de-sac in a small soi in Silom. [Pobnar Specialty Coffee & Roastery](/food/thailand/bangkok/cafes/pobnar/) does fantastic flat whites for under 100 baht, which is quite inexpensive for this area. It is your typical, slightly uncomfortable hipster place, but definitely worth seeking out.
 
 In the afternoon, I ventured out of town to the popular Bang Nam Phueng floating market on a peninsula in the Chao Phraya River. Getting there required taking a bus from Lumphini to Khlong Toei bus terminal, followed by a short walk to Wat Khlong Toei Nok pier, where return tickets for the ferry across the Chao Phraya River cost 40 baht, with frequent departures.
 
@@ -1034,7 +1033,6 @@ What makes it particularly nice is that you do not have to stick to the main roa
 
 On the way back, not far from the pier, I came across a sign for “Craft Beer and Neapolitan Pizza”, so I had to stop. The Junction is a great little pit stop.
 They were unfortunately out of craft beer, having had a party the night before, but their wood-fired pizzas are excellent and, at under 300 baht, very reasonably priced. Naturally, in Thailand, the right choice is the larb moo pizza, spicy and delicious.
-
 <div class="photo-row">
 
   <figure>
