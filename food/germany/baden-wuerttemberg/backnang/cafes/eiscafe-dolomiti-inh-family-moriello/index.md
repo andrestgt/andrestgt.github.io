@@ -13,14 +13,14 @@ Italian café in a beautiful half timbered house in the Old Town. A good cappucc
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 7.5/10 |
+| Service         | 7.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Am+Rathaus+5+71522+Backnang+Germany)
 📍 Am Rathaus 5, 71522 Backnang, Germany
-💰 —
+💰 moderate
