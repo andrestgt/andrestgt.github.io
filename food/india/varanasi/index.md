@@ -4,6 +4,7 @@ section: food
 city: varanasi
 title: Varanasi – Food & Drink
 subtitle: Cafés, restaurants, and street food in Varanasi
+hero: /photos/background/varanasihero.jpg
 ---
 
 # Varanasi
