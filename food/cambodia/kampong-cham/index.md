@@ -1,10 +1,11 @@
 ---
 layout: default
 section: food
-country: cambodia
 city: kampong-cham
+slug: kampong-cham
 title: Kampong Cham – Food & Drink
 subtitle: Cafés and restaurants in Kampong Cham
+bg: kchamhero.jpg
 ---
 
 # Kampong Cham
