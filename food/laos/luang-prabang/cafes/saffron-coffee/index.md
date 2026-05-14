@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Saffron Coffee
+subtitle: Luang Prabang · Café
+---
+
+Saffron has lovely Mekong views, comfortable armchairs, and a genuinely pleasant atmosphere. Unfortunately the cappuccino suffers from the same problems found almost everywhere else in Luang Prabang: bitter beans and unnecessary cinnamon on top.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Saffron+Coffee+Luang+Prabang)
+☕ **Type:** Café
+💰 **Price level:** —

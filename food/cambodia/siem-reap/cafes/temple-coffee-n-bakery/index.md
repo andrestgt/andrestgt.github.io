@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Temple Coffee n Bakery
+subtitle: Street 25, Siem Reap · Café
+---
+
+Temple Coffee has fantastic décor and is one of the most comfortable café-lounge spaces in Siem Reap. The coffee is good, and they also serve a surprisingly nice range of inexpensive international finger food such as sliders, salmon rolls, and beef tartare. The local dishes are less memorable, but still decent enough.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Temple+Coffee+n+Bakery+Street+25+Siem+Reap+Cambodia)
+☕ **Type:** Café
+💰 **Price level:** —

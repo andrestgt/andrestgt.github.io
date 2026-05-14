@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Amok Restaurant
+subtitle: Street 08, Siem Reap · Khmer
+---
+
+Amok is one of the many tourist-oriented restaurants tucked away around Pub Street Alley. Prices are definitely on the high side, but the raw fish salad is genuinely very good. Their signature amok itself is decent enough, although I've had much better elsewhere in Cambodia.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Amok+Restaurant+Street+08+Siem+Reap+Cambodia)
+🍽️ **Cuisine:** Khmer
+💰 **Price level:** —

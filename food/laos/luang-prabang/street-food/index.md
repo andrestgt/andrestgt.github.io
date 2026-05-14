@@ -4,19 +4,17 @@ section: food
 city: luang-prabang
 category: street-food
 slug: street-food
-title: Street food & basic eateries
-subtitle: Street food & basic eateries in Luang Prabang
+title: Street Food
+subtitle: Street food in Luang Prabang
 ---
 
-# Street food & basic eateries in Luang Prabang
+# Street Food
 
-A selection of street food & basic eateries in Luang Prabang.
+---
 
-<!-- Add your reviews here following this format:
+## Local Noodle Shop
+*Chao Fa Ngum Rd · Lao*
+A surviving relic of old Luang Prabang — simple, cheap noodle soup eaten in front of a crumbling colonial building is a genuinely wonderful experience.
+→ [Read the full review](/food/laos/luang-prabang/street-food/local-noodle-shop/)
 
-## Eatery Name
-Luang Prabang · Street food / basic eatery
-Brief one-sentence description.
-→ [Read the full review](/food/laos/luang-prabang/street-food/eatery-name.html)
-
--->
+---

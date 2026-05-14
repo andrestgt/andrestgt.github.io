@@ -4,19 +4,17 @@ section: food
 city: kampot-kep
 category: bars-pubs
 slug: bars-pubs
-title: Bars & pubs
+title: Bars & Pubs
 subtitle: Bars and pubs in Kampot & Kep
 ---
 
-# Bars & pubs in Kampot & Kep
+# Bars & Pubs
 
-A selection of bars and pubs in Kampot and Kep.
+---
 
-<!-- Add your reviews here following this format:
+## Jetzt Kampot
+*Kampot · Bar*
+Small list of nicely mixed cocktails under $3 and a well-designed bar — the burgers look amazing too.
+→ [Read the full review](/food/cambodia/kampot-kep/bars-pubs/jetzt-kampot/)
 
-## Bar Name
-Kampot / Kep · Bar / Pub
-Brief one-sentence description.
-→ [Read the full review](/food/cambodia/kampot-kep/bars-pubs/bar-name.html)
-
--->
+---

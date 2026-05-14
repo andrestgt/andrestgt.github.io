@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Delilah's Café and Hostel
+subtitle: Nong Khiaw · Café
+---
+
+Very comfortable place to spend a lazy afternoon. It gets busy at breakfast time but stays pleasantly quiet for most of the day. The breakfast itself is good, especially the aubergine dip, although the service leaves a lot to be desired.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Delilah%27s+Cafe+Hostel+Nong+Khiaw+Laos)
+☕ **Type:** Café
+💰 **Price level:** —

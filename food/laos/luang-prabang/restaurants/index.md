@@ -8,18 +8,51 @@ title: Restaurants
 subtitle: Restaurants in Luang Prabang
 ---
 
-# Restaurants in Luang Prabang
+# Restaurants
 
-A selection of restaurants in Luang Prabang.
+---
 
-<!-- Add your reviews here following this format:
+## Tamarind
+*Kingkitsarath Rd · Lao*
+Genuinely excellent Lao cuisine without the tourist-trap feeling — if you eat at only one restaurant in Luang Prabang, make it this one.
+→ [Read the full review](/food/laos/luang-prabang/restaurants/tamarind/)
 
-## Restaurant Name
-Luang Prabang · Restaurant
-Brief one-sentence description.
-→ [Read the full review](/food/laos/luang-prabang/restaurants/restaurant-name.html)
+---
 
--->
+## Secret Pizza
+*Luang Prabang · Italian*
+Open only twice a week but absolutely worth planning around — pizzas as good as Italy, excellent lasagne, very fair prices.
+→ [Read the full review](/food/laos/luang-prabang/restaurants/secret-pizza/)
 
-**Price level note:**  
+---
+
+## Pizza Phan Luang
+*Kingkitsarath Rd · Italian*
+Proper wood-fired pizzas at fair prices — the anchovy version is the most traditionally Italian.
+→ [Read the full review](/food/laos/luang-prabang/restaurants/pizza-phan-luang/)
+
+---
+
+## Sabaidee Restaurant
+*Luang Prabang · Lao*
+Probably the cheapest beer in town alongside a generous and very good watercress salad.
+→ [Read the full review](/food/laos/luang-prabang/restaurants/sabaidee-restaurant/)
+
+---
+
+## Lao Lao Garden Restaurant
+*Kingkitsarath Rd · Lao*
+Absurdly cheap coconut milk Lao Lao cocktails and a tasty buffalo glass noodle salad.
+→ [Read the full review](/food/laos/luang-prabang/restaurants/lao-lao-garden/)
+
+---
+
+## Chennai Restaurant
+*Khem Khong · Indian, Malaysian*
+Decent curries and samosas at low prices — the mango lassi is very good, but no beer is served.
+→ [Read the full review](/food/laos/luang-prabang/restaurants/chennai-restaurant/)
+
+---
+
+**Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

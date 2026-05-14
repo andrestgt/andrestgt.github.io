@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Terrazza
+subtitle: Samdach Louis Em St, Phnom Penh · Italian
+---
+
+Terrazza is high-end Italian dining of a high quality. The antipasti dishes were perfection — the bruschetta, lobster tails and seafood trio platter were outstanding. Their Argentinian house wine was a real steal at 16.50$ the bottle. However, the pizza fell a bit flat and we waited over half an hour for it after finishing the appetisers — making customers in the restaurant wait for delivery orders is a service and management problem. If this incident hadn't happened it would have been a five star experience. On a later visit, wine prices had gone through the roof, making it feel like very bad value despite the quality of food.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Terrazza+Samdach+Louis+Em+Street+282+Phnom+Penh)
+🍽️ **Cuisine:** Italian
+💰 **Price level:** —

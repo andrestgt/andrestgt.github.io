@@ -4,19 +4,45 @@ section: food
 city: sihanoukville
 category: bars-pubs
 slug: bars-pubs
-title: Bars & pubs
-subtitle: Bars and pubs in Sihanoukville
+title: Bars & Pubs
+subtitle: Bars in Sihanoukville
 ---
 
-# Bars & pubs in Sihanoukville
+# Bars & Pubs
 
-A selection of bars and pubs in Sihanoukville.
+---
 
-<!-- Add your reviews here following this format:
+## Moorea Beach
+*Otres Beach · Bar*
+My favourite place around Otres Beach — comfortable cushions, tasteful design, chilled wine, and reasonably priced food.
+→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/moorea-beach/)
 
-## Bar Name
-Sihanoukville · Bar / Pub
-Brief one-sentence description.
-→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/bar-name.html)
+---
 
--->
+## Otres Boat Club
+*Marina Rd · Bar*
+Excellent beachfront location with comfortable cushions, relaxed atmosphere, and 4–7 pm happy hour.
+→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/otres-boat-club/)
+
+---
+
+## Stray Cats Guesthouse
+*Otres Village · Bar*
+Relaxed lounge atmosphere with cheap drinks and a surprisingly good local restaurant — stick to the Khmer dishes.
+→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/stray-cats-guesthouse/)
+
+---
+
+## The Big Easy
+*Mittapheap St · Bar*
+Cheap drinks, long happy hours, and good music — somehow more popular than the similar bar next door.
+→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/the-big-easy/)
+
+---
+
+## Greenhouse Effect
+*Sihanoukville · Bar*
+Feels a little worn these days but the atmosphere is still good and the views are excellent.
+→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/greenhouse-effect/)
+
+---

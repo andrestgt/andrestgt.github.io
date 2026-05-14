@@ -4,19 +4,17 @@ section: food
 city: phnom-penh
 category: street-food
 slug: street-food
-title: Street food & basic eateries
-subtitle: Street food & basic eateries in Phnom Penh
+title: Street Food
+subtitle: Street food in Phnom Penh
 ---
 
-# Street food & basic eateries in Phnom Penh
+# Street Food
 
-A selection of street food & basic eateries in Phnom Penh.
+---
 
-<!-- Add your reviews here following this format:
+## Khmer Fungus Noodle
+*Sisowath area · Khmer*
+Despite the unfortunate name, this immaculately clean noodle shop serves some of the best bowls of mushroom noodle soup in the city for just 2$.
+→ [Read the full review](/food/cambodia/phnom-penh/street-food/khmer-fungus-noodle/)
 
-## Eatery Name
-Phnom Penh · Street food / basic eatery
-Brief one-sentence description.
-→ [Read the full review](/food/cambodia/phnom-penh/street-food/eatery-name.html)
-
--->
+---

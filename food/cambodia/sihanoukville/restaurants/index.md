@@ -8,18 +8,58 @@ title: Restaurants
 subtitle: Restaurants in Sihanoukville
 ---
 
-# Restaurants in Sihanoukville
+# Restaurants
 
-A selection of restaurants in Sihanoukville.
+---
 
-<!-- Add your reviews here following this format:
+## Sihanoukville's Finest Seafood Restaurant
+*Sihanoukville · Seafood, International*
+Probably the best restaurant in Sihanoukville — three visits over 18 months, never a single disappointing dish, outstanding duck consommée and Deck Bites.
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/sihanoukville-finest-seafood/)
 
-## Restaurant Name
-Sihanoukville · Restaurant
-Brief one-sentence description.
-→ [Read the full review](/food/cambodia/sihanoukville/restaurants/restaurant-name.html)
+---
 
--->
+## Khin's Shack
+*Otres Beach · Seafood*
+One of the last survivors of the old Otres atmosphere — cheap drinks, wicker chairs in the sand, and an excellent seafood BBQ platter at around 12$.
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/khins-shack/)
 
-**Price level note:**  
+---
+
+## LOTUS Restaurant
+*Independence Beach · Chinese, Dim Sum*
+Probably the best dim sum in Sihanoukville — inexpensive baskets at 1.25–1.75$ with genuinely good quality.
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/lotus-restaurant/)
+
+---
+
+## Sandan
+*Sihanoukville · Khmer*
+Very good Khmer fare — the squid with Kampot pepper and beef salad are flawless, though prices are high for what you get.
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/sandan/)
+
+---
+
+## Sofinny Restaurant
+*Otres Village · Khmer*
+Excellent choice for inexpensive, home-style Khmer cooking in Otres Village — the crab dishes are especially worth ordering.
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/sofinny-restaurant/)
+
+---
+
+## Otres Steak House
+*Otres Village · Khmer, International*
+More polished than most Otres spots with genuinely good Khmer seafood at reasonable prices.
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/otres-steak-house/)
+
+---
+
+## Twin Lotus Restaurant
+*Sihanoukville · International*
+Looks upscale but doesn't justify the prices — average coffee, unavailable dishes, overall unimpressive.
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/twin-lotus-restaurant/)
+
+---
+
+**Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

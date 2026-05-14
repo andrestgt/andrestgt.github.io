@@ -8,18 +8,16 @@ title: Restaurants
 subtitle: Restaurants in Vientiane
 ---
 
-# Restaurants in Vientiane
+# Restaurants
 
-A selection of restaurants in Vientiane.
+---
 
-<!-- Add your reviews here following this format:
+## Tyson Kitchen
+*Vientiane · Pizza, Lao Fusion*
+Fantastic gastro bar with wood-fired pizzas — the Lao pizza with larb and basil is mouth-wateringly good and prices are very fair.
+→ [Read the full review](/food/laos/vientiane/restaurants/tyson-kitchen/)
 
-## Restaurant Name
-Vientiane · Restaurant
-Brief one-sentence description.
-→ [Read the full review](/food/laos/vientiane/restaurants/restaurant-name.html)
+---
 
--->
-
-**Price level note:**  
+**Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

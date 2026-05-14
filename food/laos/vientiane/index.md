@@ -17,3 +17,5 @@ Reviews grouped by category.
 ## Cafés
 - [Cafés](/food/laos/vientiane/cafes/)
 
+## Bars & pubs
+- [Bars & pubs](/food/laos/vientiane/bars-pubs/)

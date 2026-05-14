@@ -8,15 +8,20 @@ title: Cafés
 subtitle: Cafés in Vang Vieng
 ---
 
-# Cafés in Vang Vieng
+# Cafés
 
-A selection of cafés in Vang Vieng.
+---
 
-<!-- Add your reviews here following this format:
+## Parisien Cafe
+*Vang Vieng · Café*
+Large air-conditioned café — the cappuccino is fairly mediocre but still better and cheaper than some nearby alternatives.
+→ [Read the full review](/food/laos/vang-vieng/cafes/parisien-cafe/)
 
-## Café Name
-Vang Vieng · Café
-Brief one-sentence description.
-→ [Read the full review](/food/laos/vang-vieng/cafes/cafe-name.html)
+---
 
--->
+## Luang Prabang Bakery & Restaurant
+*Vang Vieng · Bakery, Café*
+Paying almost 25k for a bitter, watery cappuccino feels excessive — not somewhere to return for coffee.
+→ [Read the full review](/food/laos/vang-vieng/cafes/luang-prabang-bakery/)
+
+---

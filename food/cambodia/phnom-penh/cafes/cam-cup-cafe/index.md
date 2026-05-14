@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Cam Cup Café
+subtitle: Old Post Office, Phnom Penh · Café
+---
+
+Cam Cup is a lovely café inside the old post office building and the setting alone gives the place plenty of charm. The coffee itself is good quality, although my flat white was not especially well prepared, and the Pad Thai was fairly average. It feels like a place with a lot more potential than what it currently delivers.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cam+Cup+Cafe+Phnom+Penh)
+☕ **Type:** Café
+💰 **Price level:** —
