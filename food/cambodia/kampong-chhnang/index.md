@@ -1,11 +1,11 @@
 ---
 layout: default
 section: food
-country: cambodia
 city: kampong-chhnang
+slug: kampong-chhnang
 title: Kampong Chhnang – Food & Drink
-subtitle: Restaurants in Kampong Chhnang
-bg: kchhnanghero.jpg
+subtitle: Cafés and restaurants in Kampong Chhnang
+hero: /photos/background/kchhnanghero.jpg
 ---
 
 # Kampong Chhnang
