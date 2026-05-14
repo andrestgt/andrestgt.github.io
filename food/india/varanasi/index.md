@@ -2,16 +2,19 @@
 layout: default
 section: food
 city: varanasi
-title: Varanasi
-subtitle: Food & drink in Varanasi
+title: Varanasi – Food & Drink
+subtitle: Cafés, restaurants, and street food in Varanasi
 ---
+
 # Varanasi
 
-Explore the culinary scene in Varanasi.
+Reviews grouped by category.
 
-## Categories
-
+## Restaurants
 - [Restaurants](/food/india/varanasi/restaurants/)
+
+## Cafés
 - [Cafés](/food/india/varanasi/cafes/)
-- [Street Food](/food/india/varanasi/street-food/)
-- [Bars & Pubs](/food/india/varanasi/bars-pubs/)
+
+## Street food & basic eateries
+- [Street food & basic eateries](/food/india/varanasi/street-food/)

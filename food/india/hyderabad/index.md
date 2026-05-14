@@ -2,16 +2,16 @@
 layout: default
 section: food
 city: hyderabad
-title: Hyderabad
-subtitle: Food & drink in Hyderabad
+title: Hyderabad – Food & Drink
+subtitle: Restaurants and cafés in Hyderabad
 ---
+
 # Hyderabad
 
-Explore the culinary scene in Hyderabad.
+Reviews grouped by category.
 
-## Categories
-
+## Restaurants
 - [Restaurants](/food/india/hyderabad/restaurants/)
+
+## Cafés
 - [Cafés](/food/india/hyderabad/cafes/)
-- [Street Food](/food/india/hyderabad/street-food/)
-- [Bars & Pubs](/food/india/hyderabad/bars-pubs/)

@@ -2,16 +2,13 @@
 layout: default
 section: food
 city: hampi
-title: Hampi
-subtitle: Food & drink in Hampi
+title: Hampi – Food & Drink
+subtitle: Traveller cafés and restaurants in Hampi
 ---
+
 # Hampi
 
-Explore the culinary scene in Hampi.
+Reviews grouped by category.
 
-## Categories
-
+## Restaurants
 - [Restaurants](/food/india/hampi/restaurants/)
-- [Cafés](/food/india/hampi/cafes/)
-- [Street Food](/food/india/hampi/street-food/)
-- [Bars & Pubs](/food/india/hampi/bars-pubs/)

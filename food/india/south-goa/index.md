@@ -2,17 +2,19 @@
 layout: default
 section: food
 city: south-goa
-title: South Goa & Margao
-subtitle: Food & drink in South Goa and Margao
+title: South Goa & Margao – Food & Drink
+subtitle: Cafés, restaurants, and street food in South Goa
 ---
 
 # South Goa & Margao
 
-Explore the culinary scene in South Goa and Margao.
+Reviews grouped by category.
 
-## Categories
-
+## Restaurants
 - [Restaurants](/food/india/south-goa/restaurants/)
+
+## Cafés
 - [Cafés](/food/india/south-goa/cafes/)
-- [Street Food](/food/india/south-goa/street-food/)
-- [Bars & Pubs](/food/india/south-goa/bars-pubs/)
+
+## Street food & basic eateries
+- [Street food & basic eateries](/food/india/south-goa/street-food/)

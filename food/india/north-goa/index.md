@@ -2,17 +2,19 @@
 layout: default
 section: food
 city: north-goa
-title: North Goa & Panaji
-subtitle: Food & drink in North Goa and Panaji
-
+title: North Goa & Panaji – Food & Drink
+subtitle: Cafés, restaurants, and bars in North Goa and Panaji
 ---
+
 # North Goa & Panaji
 
-Explore the culinary scene in North Goa and Panaji.
+Reviews grouped by category.
 
-## Categories
-
+## Restaurants
 - [Restaurants](/food/india/north-goa/restaurants/)
+
+## Cafés
 - [Cafés](/food/india/north-goa/cafes/)
-- [Street Food](/food/india/north-goa/street-food/)
-- [Bars & Pubs](/food/india/north-goa/bars-pubs/)
+
+## Bars & pubs
+- [Bars & pubs](/food/india/north-goa/bars-pubs/)
