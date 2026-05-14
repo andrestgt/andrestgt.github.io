@@ -19,7 +19,8 @@ A six-week journey through the remote islands of Eastern Indonesia — from the 
 
 ## 14 February 2026
 
-It's been quite an odyssey getting to Sorong. I started the trip on Wednesday morning with Deutsche Bahn, which was, unsurprisingly, delayed. I had expected that, though, so I'd built in a generous buffer before my flight from Munich. That gave me time to stop at Augustiner Bräustuben before heading to the airport, where they still serve some of the best beer at remarkably low prices, along with good, inexpensive food.
+It's been quite an odyssey getting to Sorong. I started the trip on Wednesday morning with Deutsche Bahn, which was, unsurprisingly, delayed. I had expected that, though, so I'd built in a generous buffer before my flight from Munich. That gave me time to stop at <a href="https://andrestgt.github.io/food/germany/bayern/muenchen/restaurants/augustiner-braeustuben/">Augustiner Bräustuben</a> before heading to the airport, where they still serve some of the best beer at remarkably low prices, along with good, inexpensive food.
+
 At 9 p.m. I flew from Munich to Muscat, then on to Kuala Lumpur. At least everything ran on time. Oman Air isn't the most comfortable airline, to be honest, especially the Munich–Muscat leg, which was operated with a small short-haul aircraft for what is a six-hour flight. That was fairly uncomfortable. The Muscat–Kuala Lumpur flight was much better, on a larger plane. The food was actually quite good, but unless you kept actively asking for drinks you would probably have died of thirst — the service was really not great.
 
 I arrived in Kuala Lumpur around 8 p.m., and getting through immigration was a breeze. You don't even have to queue at counters anymore, you just go through the e-gate. That part was very pleasant, although waiting for the luggage still took a while, so I only made it to KL Sentral around 10:30 p.m.
