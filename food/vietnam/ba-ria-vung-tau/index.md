@@ -1,10 +1,11 @@
 ---
 layout: default
 section: food
-region: ba-ria-vung-tau
+city: ba-ria-vung-tau
 slug: ba-ria-vung-tau
-title: Bà Rịa – Vũng Tàu – Food & Drink
-subtitle: Food and drink across Bà Rịa – Vũng Tàu
+title: Bà Rịa–Vũng Tàu – Food & Drink
+subtitle: Food and drink in Bà Rịa–Vũng Tàu province
+hero: /photos/background/vungtaubariahero.jpg
 ---
 
 # Bà Rịa – Vũng Tàu
