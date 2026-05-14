@@ -1,10 +1,11 @@
 ---
 layout: default
 section: food
-region: binh-dinh
+city: binh-dinh
 slug: binh-dinh
 title: Bình Định – Food & Drink
-subtitle: Food and drink across Bình Định
+subtitle: Food and drink in Bình Định province
+hero: /photos/background/binhdinhhero.jpg
 ---
 
 # Bình Định
