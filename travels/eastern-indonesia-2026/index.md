@@ -318,13 +318,13 @@ Getting tickets for PELNI is easier than it used to be. The schedule goes online
 It simply means we now have more time in Ambon than originally planned.
 
 So after checking into our hotel, I sent a WhatsApp message to a motorbike rental company. Twenty minutes later, a very nice bike was delivered straight to the hotel parking area.
-The company is called SEWA Motor Rental. Service was excellent, the bike was in very good condition, and while the price is definitely higher than in Bali, that’s to be expected given the limited competition here. I paid 130K per day. No passport, no large deposit — they were satisfied with a photo of an ID.
+The company is called <a href="https://maps.google.com/?q=SEWA+Motor+Rental+Sorong" target="_blank" rel="noopener">SEWA Motor Rental</a>. Service was excellent, the bike was in very good condition, and while the price is definitely higher than in Bali, that’s to be expected given the limited competition here. I paid 130K per day. No passport, no large deposit — they were satisfied with a photo of an ID.
 Efficient and uncomplicated.
 
 We tried to spend as much time as possible outside the city of Ambon itself. While the location of the city is very attractive, the city proper is not. It is incredibly polluted and basically choking on insane traffic. It does have a few saving graces, such as very good cafés, and especially around the outskirts some nice seafood restaurants, and there are also well-stocked supermarkets in town, but I wouldn’t want to spend any more time in the city than really necessary.
 
 The island of Ambon, however, is a different matter. It is also very dirty, with trash lying around almost everywhere, but it does have a few very beautiful spots, and we explored the island thoroughly by motorbike.
-On the first day we checked out the two most famous beaches, Natsepa Beach and Liang Beach. Both were rather disappointing, especially Natsepa. It is quite close to town and clearly functions as a local weekend hangout. There are ugly concrete constructions everywhere and rather dilapidated huts selling food and drinks. During the week it was completely deserted.
+On the first day we checked out the two most famous beaches, <a href="https://maps.google.com/?q=Natsepa+Beach+Ambon" target="_blank" rel="noopener">Natsepa Beach</a> and <a href="https://maps.google.com/?q=Liang+Beach+Ambon" target="_blank" rel="noopener">Liang Beach</a>. Both were rather disappointing, especially Natsepa. It is quite close to town and clearly functions as a local weekend hangout. There are ugly concrete constructions everywhere and rather dilapidated huts selling food and drinks. During the week it was completely deserted.
 Liang was not much better. It is not much of a beach, to be honest. What is very nice is the sea there. It is crystal clear and great for swimming, but again far from any kind of beach paradise. Judging by the number of beach huts standing around, it must turn into quite a circus at the weekend.
 
 <figure>
@@ -334,8 +334,9 @@ Liang was not much better. It is not much of a beach, to be honest. What is very
 
 The coastal road along the north coast is partly in poor condition, but the area itself is pleasant. There are a few coves with beautiful clear blue water that look very inviting. Unfortunately, most of them are private and built up with huts and cabins, so there is not much left that feels natural, but they are still nice to look at.
 
-The second day was much better. We explored the western part of the island, starting with the spectacular Air Terjun Taeno in Rumah Tiga. You have to pay a small entrance fee of 5,000 rupiah. The path is paved, but there are so many steep stairs that I doubt it will ever get terribly busy. During the week we were the only people there. It is a very beautiful waterfall, and there is a pool at the bottom where you can swim, although getting down to it is a bit slippery and requires some care. I loved the experience with the waterfall, even though the whole place wasn’t very clean, just like the entire island.
-After that we continued across the island towards the north coast, visited Fort Amsterdam in the pretty village of Hila, and then took the ring road all the way back to Ambon. That was a very scenic trip and definitely more interesting than the beaches.
+The second day was much better. We explored the western part of the island, starting with the spectacular <a href="https://maps.google.com/?q=Air+Terjun+Taeno+Ambon" target="_blank" rel="noopener">Air Terjun Taeno</a> in Rumah Tiga. You have to pay a small entrance fee of 5,000 rupiah. The path is paved, but there are so many steep stairs that I doubt it will ever get terribly busy. During the week we were the only people there. It is a very beautiful waterfall, and there is a pool at the bottom where you can swim, although getting down to it is a bit slippery and requires some care. I loved the experience with the waterfall, even though the whole place wasn’t very clean, just like the entire island.
+
+After that we continued across the island towards the north coast, visited <a href="https://maps.google.com/?q=Fort+Amsterdam+Hila+Ambon" target="_blank" rel="noopener">Fort Amsterdam</a> in the pretty village of Hila, and then took the ring road all the way back to Ambon. That was a very scenic trip and definitely more interesting than the beaches.
 
 <figure>
   <img src="/photos/travelogues/ambon2.jpg" alt="Air Terjun Rumahtiga">
@@ -359,7 +360,7 @@ Right next door was [Wailela Cafe and Resto](/food/indonesia/maluku/ambon/restau
 The last restaurant we tried was [Restaurant Sari Gurih Beach](/food/indonesia/maluku/ambon/restaurants/restaurant-sari-gurih-beach/). They also have a branch in town, but it is far nicer to eat by the sea than anywhere in the polluted downtown area. This is a huge restaurant on stilts over the water. The food here was probably the best of the three and again very reasonably priced. We had a massive bowl, and that was the small portion, of the local specialty ikan kuah kuning, a turmeric-heavy fish soup with very good white fish, quite spicy and slightly sour. I quite liked that dish. For 90K, the portion size was impressive. I also liked the kwetiau goreng with seafood and the capcay with seafood. They serve a very nice sambal and some homemade pickles on the side.
 If I had time to choose only one seafood restaurant around Ambon, this would probably be my pick.
 
-We stayed at the Pacific Hotel in the centre of Kota Ambon. The rooms cost under 200K and clearly used to be mid-range quite some time ago. They are tired now, but for that price they would actually be very good value.
+We stayed at the <a href="https://maps.google.com/?q=Pacific+Hotel+Ambon" target="_blank" rel="noopener">Pacific Hotel</a> in the centre of Kota Ambon. The rooms cost under 200K and clearly used to be mid-range quite some time ago. They are tired now, but for that price they would actually be very good value.
 The Wi-Fi mostly worked, the air conditioning worked very well, the beds were comfortable, there was a fridge in the room, and even a small swimming pool behind the lobby. For a cheap city hotel, that’s more than you could ask for.
 The reason I wouldn’t stay here again is different. The hotel seems to be popular with military personnel, and the behaviour and noise level were at times excessive. On top of that, there was an unpleasant situation at checkout when staff tried to keep part of the key deposit by claiming there were stains on the sheets, which were not ours.
 That kind of thing leaves a bad impression. For the money it could be fine, but I would choose another place next time.
@@ -380,7 +381,7 @@ Reaching the Banda Islands aboard a massive Pelni ferry has a certain magic to i
 The port lies directly in the centre of the tiny town, and the ferry releases its passengers straight into a lively night market. Women call out loudly, offering their food, and in the background the muezzin’s call to prayer drifts through the warm evening air.
 Arriving like this really did feel like stepping into an old exotic film from another era.
 
-After a quick dinner at [Spice Island Cafe](/food/indonesia/maluku/banda-islands/restaurants/spice-island-cafe/) that included delicious ulang-ulang with a creamy kenari nut sauce, we were picked up by staff from our guesthouse and taken on a short two-minute boat ride across the strait to the island opposite Banda Neira town. Our bungalow at Allan’s sits at the foot of the volcano, in a really stunning location with views back over town and crystal-clear water in between.
+After a quick dinner at [Spice Island Cafe](/food/indonesia/maluku/banda-islands/restaurants/spice-island-cafe/) that included delicious ulang-ulang with a creamy kenari nut sauce, we were picked up by staff from our guesthouse and taken on a short two-minute boat ride across the strait to the island opposite Banda Neira town. Our bungalow at <a href="https://maps.google.com/?q=Allan+Bungalow+Banda+Islands" target="_blank" rel="noopener">Allan’s</a> sits at the foot of the volcano, in a really stunning location with views back over town and crystal-clear water in between.
 Banda Neira is an extraordinary place. Despite its extreme remoteness, it was once a major trading port, sending spices from these tiny islands out into the world.
 Today it feels half forgotten, sleepy, and beautiful in its decay. There are visual remnants of the colonial era everywhere, crumbling facades, old forts, fading grandeur.
 And thankfully, because it is still difficult and time-consuming to reach, it attracts far fewer tourists than it probably deserves.
@@ -458,9 +459,9 @@ As it turns out, Spice Island Café seems to be the only place on the island tha
   <em>Banda Neira</em>
 </figure>
 
-From our lovely resort on Banda Api Island it is possible to take an enjoyable half-hour walk through a fishing village to a picturesque, though sadly rather dirty, black sand beach. From there you can follow the coast by snorkelling all the way to the most famous snorkelling site in Banda, known as the Lava Stream. In fact there are two Lava Streams located very close to each other.
+From our lovely resort on Banda Api Island it is possible to take an enjoyable half-hour walk through a fishing village to a picturesque, though sadly rather dirty, black sand beach. From there you can follow the coast by snorkelling all the way to the most famous snorkelling site in Banda, known as <a href="https://maps.google.com/?q=Lava+Flow+Banda+Islands" target="_blank" rel="noopener">Lava Flow</a>. In fact there are two Lava Flows located very close to each other.
 Reaching the first one requires a swim of roughly forty-five minutes, which is a bit strenuous but definitely worthwhile. On the way out the reef is not always particularly spectacular, but it is almost uninterrupted coral with only a few rocky patches along the way. These rocky sections are where reef sharks seem to hang around, because I spotted half a dozen of them on the way out.
-The first Lava Stream itself has a very attractive reef with healthy soft and hard corals, a good amount of fish life and the occasional turtle. The second Lava Stream further north looks quite different, with clearer water and a fairly steep drop-off. It has a completely different character but is equally impressive.
+The first Lava Flow itself has a very attractive reef with healthy soft and hard corals, a good amount of fish life and the occasional turtle. The second Lava Flow further north looks quite different, with clearer water and a fairly steep drop-off. It has a completely different character but is equally impressive.
 Apart from what you see underwater, it is also a very special experience simply because you are snorkelling directly beneath the volcano with the massive lava fields of Gunung Api rising out of the water right in front of you.
 
 <div class="photo-row">
@@ -477,7 +478,7 @@ Apart from what you see underwater, it is also a very special experience simply 
 
 </div>
 
-Another excellent snorkelling spot lies in the north of Banda Neira just off Malole Beach, where the reef slopes gently and appears very healthy with a decent amount of fish life. In theory it would even be possible to snorkel from Malole Beach all the way down to the runway along an almost uninterrupted stretch of coral reef.
+Another excellent snorkelling spot lies in the north of Banda Neira just off <a href="https://maps.google.com/?q=Malole+Beach+Banda+Neira" target="_blank" rel="noopener">Malole Beach</a>, where the reef slopes gently and appears very healthy with a decent amount of fish life. In theory it would even be possible to snorkel from Malole Beach all the way down to the runway along an almost uninterrupted stretch of coral reef.
 Just off the eastern end of the runway to the north lies a reef that is absolutely spectacular. The soft and hard corals are dense, colourful and visibly healthy. It is rare to see a reef in such good condition anywhere, and almost unheard of to find one this good so close to a town. The sheer volume of fish is not quite as overwhelming as at some Raja Ampat sites, where it can feel like swimming through fish soup, but there is still plenty to see. Giant puffers, titan triggerfish, several reef sharks, and almost everything else you would hope for. The reef stretches for a remarkable distance along the coast, and after more than two hours in the water we still had not seen it all.
 
 While many of the well-known snorkelling spots around the Banda Islands, such as the Lava Flow, Malole Beach and the Runway Reef, are technically accessible on foot and by swimming, it usually involves quite a long walk and swim. For that reason it often makes more sense to visit them by boat.
@@ -520,7 +521,7 @@ It was a very basic boat without any shade, but the crossing only took about an 
   <em>Pulau Hatta</em>
 </figure>
 
-It turned out to be a good decision to go to Hatta as quickly as possible, because over the last few days the island had filled up rather quickly and there are not many accommodation options. As a matter of fact, all of the good bungalows had already been taken and only a few rather basic ones were still available. So we decided to wait for what is probably the nicest bungalow on the entire island at Vitalia Resort, which would be available the next day, and spent one night in one of the overflow rooms at the back of the bungalows in the main building.
+It turned out to be a good decision to go to Hatta as quickly as possible, because over the last few days the island had filled up rather quickly and there are not many accommodation options. As a matter of fact, all of the good bungalows had already been taken and only a few rather basic ones were still available. So we decided to wait for what is probably the nicest bungalow on the entire island at <a href="https://maps.google.com/?q=Vitalia+Resort+Hatta+Banda" target="_blank" rel="noopener">Vitalia Resort</a>, which would be available the next day, and spent one night in one of the overflow rooms at the back of the bungalows in the main building.
 These rooms are quite basic, with just a bed and a fan and a simple bucket bathroom, but the good bungalow was definitely worth the wait. Quite inexplicably, the price per person, including all meals, for the nice bungalow was not that much higher than for the basic overflow rooms, 450K versus 350K. The bungalow itself was really lovely, with super comfortable hammocks, a spacious terrace, and a charming interior that had clearly been put together with a lot of care. It seems that the bungalow belongs to, or at least was decorated by, returning guests who spend extended periods here every year, because it felt much more like a private home than a typical homestay bungalow.
 
 <figure>
@@ -595,7 +596,7 @@ Before reaching the hotel, however, we stopped for a couple of cappuccinos at [B
 
 Later in the afternoon we had much better espresso drinks at [Midway Coffee](/food/indonesia/maluku/ambon/cafes/midway-coffee/), which together with Dreihaus seems to be one of the most serious coffee places in town. It is a minimalist, almost Apple-store-style coffee shop with very uncomfortable seating, but the cappuccino was excellent, smooth and perfectly prepared, for just 32K.
 
-The hotel I had chosen for the short one-night stay, Biz Hotel, right in the centre of town, turned out to be a decent choice. By local standards, the hotel and the rooms were modern and clean, with air conditioning and Wi-Fi both working well and a surprisingly good bathroom. The only minor downside was the size. The rooms are quite small, but at 350K including breakfast it was still good value.
+The hotel I had chosen for the short one-night stay, <a href="https://maps.google.com/?q=Biz+Hotel+Ambon" target="_blank" rel="noopener">Biz Hotel</a>, right in the centre of town, turned out to be a decent choice. By local standards, the hotel and the rooms were modern and clean, with air conditioning and Wi-Fi both working well and a surprisingly good bathroom. The only minor downside was the size. The rooms are quite small, but at 350K including breakfast it was still good value.
 
 For dinner we went to [Sari Gurih Restaurant](/food/indonesia/maluku/ambon/restaurants/sari-gurih-restaurant/) again, but this time to the city location rather than the beach restaurant, which was just around the corner from our hotel. The atmosphere is obviously not as pleasant as sitting above the water. The restaurant itself feels rather institutional, but the service was good and the menu is the same.
 Personally, I found the ikan kuah kuning here to be inferior to the one at the beach location. That had nothing to do with the atmosphere, but rather with the fish they used. Instead of the firm white grouper-like fish served at the beach location, they used a mix of different fish, some of which I found chewy and quite bony. The broth itself, however, was still very good, as was the seafood capcay.
@@ -629,10 +630,9 @@ I imagine it is even more beautiful to visit during the late summer high season,
 
 Although the beach looks quite touristy at first glance, there is actually not that much accommodation available. Resorts here consist of just one, a couple, or at most a handful of bungalows, and there are not many resorts along the beach to begin with. Under normal circumstances, this would not be much of an issue, as there are hardly more than a handful of Western tourists on the island at any given time. With Lebaran just around the corner, however, one of the main holiday periods in Indonesia, domestic tourism picks up significantly, and we were unable to book a single place for the full eight nights of our stay in the Kei Islands. So I simply booked whatever bungalows were available.
 
-My feelings about Ngurbloat Beach are quite mixed, to be honest. The middle section is full of little kiosks and picnic huts, mostly empty even at weekends. It doesn't exactly give you a hideaway feeling. The resorts don't help much either. They are built in a strange vaguely Moorish or Mediterranean style that has nothing whatsoever to do with a tropical beach in Southeast Asia, and they are made entirely of concrete, planted directly on the sand. There are no wooden bungalows, no natural materials, nothing you would really expect in a place like this. It is not particularly ecological and it does take something away from the overall impression.
+My feelings about <a href="https://maps.google.com/?q=Ngurbloat+Beach+Kei+Islands" target="_blank" rel="noopener">Ngurbloat Beach</a> are quite mixed, to be honest. The middle section is full of little kiosks and picnic huts, mostly empty even at weekends. It doesn't exactly give you a hideaway feeling. The resorts don't help much either. They are built in a strange vaguely Moorish or Mediterranean style that has nothing whatsoever to do with a tropical beach in Southeast Asia, and they are made entirely of concrete, planted directly on the sand. There are no wooden bungalows, no natural materials, nothing you would really expect in a place like this. It is not particularly ecological and it does take something away from the overall impression.
 
-In the end, we spent three nights at Coaster Cottages at the northern end of the beach, three nights at Noel Cottage, and two nights at Renata Cottage, both located in the busiest part of Ngurbloat.
-
+In the end, we spent three nights at <a href="https://maps.google.com/?q=Coaster+Cottages+Ngurbloat" target="_blank" rel="noopener">Coaster Cottages</a> at the northern end of the beach, three nights at <a href="https://maps.google.com/?q=Noel+Cottage+Ngurbloat" target="_blank" rel="noopener">Noel Cottage</a>, and two nights at <a href="https://maps.google.com/?q=Renata+Cottage+Ngurbloat" target="_blank" rel="noopener">Renata Cottage</a>, both located in the busiest part of Ngurbloat.
 Location-wise, I liked Coaster Cottages the best. They are at the very end of the beach in a secluded setting, surrounded by lush greenery, and it almost felt like having a private stretch of beach. These cottages, mostly built from wood, are set slightly back from the beach, which is actually a big advantage and makes the whole place feel much more natural.
 Plastic trash was still an issue at times, but that is clearly a seasonal problem.
 
@@ -692,8 +692,7 @@ We spent our days thoroughly exploring Kei Kecil by scooter. And while the islan
 </div>
 
 The first surprise is that the only two beaches with accommodation, Ngurbloat and Ohoidertawun, are far from being the most beautiful on the island; they're not even close.
-The beaches further south, especially the long crescent bay between the villages of Ohoidertutu and Madwaer, are so jaw-droppingly beautiful and so close to a cliché travel magazine image that it is almost hard to believe they actually exist. This is where you find the super fine, powdery white sand, backed by coconut palms and fronted by crystal-clear water that is simply irresistible.
-What is even harder to understand is that there is not a single resort or any kind of accommodation here. And despite being west-facing and having perfect sunset views, there is virtually no trash or plastic on the beach. It simply does not get better than this.
+The beaches further south, especially the long crescent bay between the villages of Ohoidertutu and <a href="https://maps.google.com/?q=Metro+Beach+Kei+Islands" target="_blank" rel="noopener">Madwaer</a>, are so jaw-droppingly beautiful and so close to a cliché travel magazine image that it is almost hard to believe they actually exist. This is where you find the super fine, powdery white sand, backed by coconut palms and fronted by crystal-clear water that is simply irresistible. What is even harder to understand is that there is not a single resort or any kind of accommodation here. And despite being west-facing and having perfect sunset views, there is virtually no trash or plastic on the beach. It simply does not get better than this.
 
 <figure>
   <img src="/photos/travelogues/kei14.jpg" alt="Ohoidertutu">
@@ -705,14 +704,13 @@ What is even harder to understand is that there is not a single resort or any ki
   <em>Metro Beach</em>
 </figure>
 
-Another gorgeous stretch of sand a bit further to the north, maybe not quite as otherworldly simply because it is more narrow, but still super picturesque and great for swimming, is Ngur Vat Namsir Ohoi Wab. But again, there is no accommodation here either.
-
+Another gorgeous stretch of sand a bit further to the north, maybe not quite as otherworldly simply because it is more narrow, but still super picturesque and great for swimming, is <a href="https://maps.google.com/?q=Ngur+Vat+Namsir+Ohoi+Wab+Kei+Islands" target="_blank" rel="noopener">Ngur Vat Namsir Ohoi Wab</a>. But again, there is no accommodation here either.
 <figure>
   <img src="/photos/travelogues/kei11.jpg" alt="Ngur Vat Namsir Ohoi Wab">
   <em>Ngur Vat Namsir Ohoi Wab</em>
 </figure>
 
-A worthwhile beauty spot closer to Ngurbloat is Tanjung Vat La Roa, a series of secluded and photogenic white sand coves that are perfect for swimming at low tide. They are connected by wooden plankways and small bridges, which give the whole place a slight Robinson Crusoe feel, although it is just a five-minute bumpy bike ride or a leisurely 20-minute walk past Ten Café.
+A worthwhile beauty spot closer to Ngurbloat is <a href="https://maps.google.com/?q=Tanjung+Vat+La+Roa+Kei+Islands" target="_blank" rel="noopener">Tanjung Vat La Roa</a>., a series of secluded and photogenic white sand coves that are perfect for swimming at low tide. They are connected by wooden plankways and small bridges, which give the whole place a slight Robinson Crusoe feel, although it is just a five-minute bumpy bike ride or a leisurely 20-minute walk past Ten Café.
 
 <div class="photo-row">
 
@@ -728,7 +726,7 @@ A worthwhile beauty spot closer to Ngurbloat is Tanjung Vat La Roa, a series of 
 
 </div>
 
-But possibly my favourite place on the island is not a magnificent beach, but Air Goa Hawang, a beautiful jungle cave with a pool of crystal-clear, cool water that is perfect for a refreshing swim, with bats flying overhead. I can imagine this place being quite busy at the weekend, but we went twice and both times had it to ourselves. It is also remarkably clean for a tourist attraction in Indonesia.
+But possibly my favourite place on the island is not a magnificent beach, but <a href="https://maps.google.com/?q=Air+Goa+Hawang+Kei+Islands" target="_blank" rel="noopener">Air Goa Hawang</a>., a beautiful jungle cave with a pool of crystal-clear, cool water that is perfect for a refreshing swim, with bats flying overhead. I can imagine this place being quite busy at the weekend, but we went twice and both times had it to ourselves. It is also remarkably clean for a tourist attraction in Indonesia.
 
 <div class="photo-row">
 
@@ -905,7 +903,7 @@ And then there is Tunjungan, with its large central mall and a heritage area ful
 </div>
 
 All things considered, I would regard Surabaya as one of the most underrated cities in Southeast Asia, and it is well worth a visit, even before taking into account the excellent food, quality cafés, and low prices.
-Where else could you spend the night in a heritage hotel, the Arcadia, right in the centre of the best part of the Old Town, in simple but modern and comfortable rooms (the former Ibis hotel), for 350K including a very tasty breakfast with plenty of delicious Indonesian dishes and a fresh egg station?
+Where else could you spend the night in a heritage hotel, <a href="https://maps.google.com/?q=Arcadia+Surabaya+Hotel" target="_blank" rel="noopener">the Arcadia</a>, right in the centre of the best part of the Old Town, in simple but modern and comfortable rooms (the former Ibis hotel), for 350K including a very tasty breakfast with plenty of delicious Indonesian dishes and a fresh egg station?
 From our window, we could see two of the best coffee shops in town, [Zerøgram Kota Lama](/food/indonesia/java/surabaya/cafes/zerogam-kota-lama/) and [Fifteenth Coffee Kota Lama](/food/indonesia/java/surabaya/cafes/fifteenth-coffee/), both serving well-prepared cappuccinos for under 30K. Fifteenth Coffee is the more attractive of the two, with a rooftop terrace and nicer decoration, although it only opens in the afternoon, from 3 pm. In terms of coffee quality, however, they are on a very similar level.
 
 At our condo complex, Waterplace, there was one of the nicest coffee spots in Surabaya, called [The Library Coffee & Pastries](/food/indonesia/java/surabaya/cafes/the-library/). It is an actual book café, with shelves lined with books, including a good number in English.
@@ -942,7 +940,7 @@ I particularly liked the session IPA and the porter, while their Weizenbock, at 
 
 It is a fairly long flight of just over four hours from Surabaya to Bangkok, so the ticket price of €45 plus luggage was quite a bargain, and AirAsia even got me there on time, arriving at Don Mueang in the late afternoon.
 The airport buses now depart from a new station nearby, just outside the exit on the right-hand side, which makes the whole setup feel a bit more organised.
-During rush hour, though, it still took me almost two hours to get to Ratchadamri Skytrain station, from where I took the BTS across the river to Thonburi, where I had booked a room at Bella B Suites.
+During rush hour, though, it still took me almost two hours to get to Ratchadamri Skytrain station, from where I took the BTS across the river to Thonburi, where I had booked a room at <a href="https://maps.google.com/?q=Bella+B+Suites+Bangkok" target="_blank" rel="noopener">Bella B Suites</a>.
 
 This turned out to be another great bargain. For just over 600 baht, I got a one-bedroom apartment with a kitchenette and balcony, and even access to a rooftop pool, which was perfectly usable.
 The rooms were a bit old-fashioned, and the furniture somewhat worn and tired, but at that price point it was more than acceptable.
@@ -987,7 +985,7 @@ There is also proper local food to go with it, meaning seriously spicy. The larb
 
 I had one of my best cups of coffee in a hidden café at the end of a narrow cul-de-sac in a small soi in Silom. [Pobnar Specialty Coffee & Roastery](/food/thailand/bangkok/cafes/pobnar/) does fantastic flat whites for under 100 baht, which is quite inexpensive for this area. It is your typical, slightly uncomfortable hipster place, but definitely worth seeking out.
 
-In the afternoon, I ventured out of town to the popular Bang Nam Phueng floating market on a peninsula in the Chao Phraya River. Getting there required taking a bus from Lumphini to Khlong Toei bus terminal, followed by a short walk to Wat Khlong Toei Nok pier, where return tickets for the ferry across the Chao Phraya River cost 40 baht, with frequent departures.
+In the afternoon, I ventured out of town to the popular <a href="https://maps.google.com/?q=Bang+Nam+Phueng+Floating+Market" target="_blank" rel="noopener">Bang Nam Phueng Floating Market</a> on a peninsula in the Chao Phraya River. Getting there required taking a bus from Lumphini to Khlong Toei bus terminal, followed by a short walk to Wat Khlong Toei Nok pier, where return tickets for the ferry across the Chao Phraya River cost 40 baht, with frequent departures.
 
 <div class="photo-row">
 
@@ -1031,7 +1029,7 @@ What makes it particularly nice is that you do not have to stick to the main roa
   <img src="/photos/travelogues/bkk9.jpg" alt="Chao Phraya">
 </figure>
 
-On the way back, not far from the pier, I came across a sign for “Craft Beer and Neapolitan Pizza”, so I had to stop. The Junction is a great little pit stop.
+On the way back, not far from the pier, I came across a sign for “Craft Beer and Neapolitan Pizza”, so I had to stop. <a href="/food/bangkok/restaurants/the-junction/">The Junction</a> is a great little pit stop.
 They were unfortunately out of craft beer, having had a party the night before, but their wood-fired pizzas are excellent and, at under 300 baht, very reasonably priced. Naturally, in Thailand, the right choice is the larb moo pizza, spicy and delicious.
 <div class="photo-row">
 
