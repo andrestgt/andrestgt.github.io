@@ -4,6 +4,7 @@ section: food
 city: north-goa
 title: North Goa & Panaji – Food & Drink
 subtitle: Cafés, restaurants, and bars in North Goa and Panaji
+hero: /photos/background/goapanajihero.jpg
 ---
 
 # North Goa & Panaji
