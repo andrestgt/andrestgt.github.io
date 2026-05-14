@@ -4,6 +4,7 @@ section: food
 city: south-goa
 title: South Goa & Margao – Food & Drink
 subtitle: Cafés, restaurants, and street food in South Goa
+hero: /photos/background/south-goahero.jpg
 ---
 
 # South Goa & Margao
