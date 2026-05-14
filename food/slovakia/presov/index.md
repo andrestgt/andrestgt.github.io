@@ -3,7 +3,7 @@ layout: default
 section: food
 city: presov
 title: Prešov
-subtitle: Cafés in Prešov
+subtitle: Food & drink in Prešov
 ---
 
 # Prešov
