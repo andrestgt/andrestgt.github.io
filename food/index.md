@@ -25,6 +25,7 @@ Countries covered
 
 ## Europe
 
+- [Austria](/food/austria/)
 - [Germany](/food/germany/)
 - [France](/food/france/)
 - [Spain](/food/spain/)
