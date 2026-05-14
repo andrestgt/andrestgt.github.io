@@ -1,0 +1,26 @@
+---
+layout: default
+section: food
+review: true
+title: Csillagvár Étterem
+subtitle: Lake Balaton · Restaurant
+---
+
+
+This is the place to go in the area if you're looking for huge portions at rock-bottom prices. Considering the prices, the quality is actually very good. Everything from pizza to game to beef stew comes in large portions, and the set menus are unbeatable value. It's no wonder the place is packed every day. If I lived here, I'd probably come regularly — it's not much more expensive than cooking at home.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 9/10   |
+| Service         | 9/10   |
+| Value for money | 10/10  |
+| Atmosphere      | 8/10   |
+| Overall         | 9.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Berzsenyi+Dániel+utca+50+8710+Balatonszentgyörgy+Hungary)
+📍 Berzsenyi Dániel utca 50-58, 8710 Balatonszentgyörgy, Hungary
+💰 budget

@@ -11,7 +11,8 @@ hero: /photos/background/slovakia.jpg
 Food & drink in Slovakia.
 
 ## Destinations
+- [Košice](/food/slovakia/kosice/)
 - [Levoča](/food/slovakia/levoca/)
 - [Prešov](/food/slovakia/presov/)
-- [Košice](/food/slovakia/kosice/)
+- [Rožňava](/food/slovakia/roznava/)
 - [Vysoké Tatry](/food/slovakia/vysoke-tatry/)

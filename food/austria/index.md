@@ -1,0 +1,16 @@
+---
+layout: default
+section: food
+country: austria
+title: Austria
+subtitle: Food & drink in Austria
+hero: /photos/background/austria.jpg
+---
+# Austria
+
+Food & drink in Austria.
+
+## Destinations
+- [Linz](/food/austria/linz/)
+- [Salzburg](/food/austria/salzburg/)
+- [Wachau](/food/austria/wachau/)
