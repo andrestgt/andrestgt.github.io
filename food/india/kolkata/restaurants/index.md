@@ -39,12 +39,5 @@ Probably the best option in City Centre Mall — go for the masala wedges which 
 
 ---
 
-## Kasturi
-*Park Street area · Indian*
-Refused to show us a menu and claimed there wasn't one, despite being listed on Zomato — so we left.
-→ [Read the full review](/food/india/kolkata/restaurants/kasturi/)
-
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
