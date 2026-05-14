@@ -4,6 +4,7 @@ section: food
 city: mysore
 title: Mysore
 subtitle: Food & drink in Mysore
+hero: /photos/background/mysorehero.jpg
 ---
 # Mysore
 
