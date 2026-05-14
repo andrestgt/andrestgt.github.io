@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: A-Jiang Eel Noodles
+subtitle: West Central District, Tainan · Taiwanese
+---
+
+Eel noodles, very tasty. 120 NT$ for a pretty big portion. Must try when in Tainan. Super popular so better visit outside of peak hours.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=A-Jiang+Eel+Noodles+Minzu+Road+Section+3+West+Central+District+Tainan+Taiwan)
+🍽️ **Cuisine:** Taiwanese, Noodles
+💰 **Price level:** 120 NT$ per bowl

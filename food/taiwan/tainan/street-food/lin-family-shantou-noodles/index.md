@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Lin Family Shantou Yi Mian
+subtitle: West Central District, Tainan · Taiwanese
+---
+
+Simple hole-in-the-wall noodle place. The bowl with dumplings and soup is very tasty and affordable at 65 NT$.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lin+Family+Shantou+Noodles+Zhongyi+Road+Section+2+West+Central+District+Tainan+Taiwan)
+🍽️ **Cuisine:** Taiwanese, Noodles
+💰 **Price level:** 65 NT$ per bowl
