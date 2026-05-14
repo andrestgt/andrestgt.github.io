@@ -5,6 +5,7 @@ country: philippines
 city: port-barton-san-vicente
 title: Port Barton & San Vicente – Food & Drink
 subtitle: Restaurants, cafés, and bars in Port Barton and San Vicente, Palawan
+hero: /photos/background/bartonhero.jpg
 ---
 
 # Port Barton & San Vicente
