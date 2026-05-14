@@ -4,6 +4,7 @@ section: food
 city: bangalore
 title: Bangalore – Food & Drink
 subtitle: Craft beer bars, cafés, and restaurants in Bangalore
+hero: /photos/background/bangalorehero.jpg
 ---
 
 # Bangalore
