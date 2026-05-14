@@ -5,6 +5,7 @@ country: philippines
 city: bohol-panglao
 title: Bohol & Panglao – Food & Drink
 subtitle: Restaurants and cafés in Bohol and Panglao
+hero: /photos/background/boholhero.jpg
 ---
 
 # Bohol & Panglao
