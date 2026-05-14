@@ -1,10 +1,11 @@
 ---
 layout: default
 section: food
-region: bac-kan
+city: bac-kan
 slug: bac-kan
 title: Bắc Kạn – Food & Drink
-subtitle: Food and drink across Bắc Kạn
+subtitle: Food and drink in Bắc Kạn province
+hero: /photos/background/backanhero.jpg
 ---
 
 # Bắc Kạn
