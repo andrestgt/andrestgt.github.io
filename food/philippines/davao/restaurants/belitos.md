@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Belito's"
-subtitle: "Davao Â· Restaurant"
+title: Belito's Vineyard
+subtitle: Bajada, Davao City · Spanish, Filipino
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 25 Apr 2021 Â· â€”
+Belito's Vineyard is located just off busy Laurel St, but its rustic garden setting makes you feel a thousand miles removed from hectic city life. The fact that they had some real quality wines at rock bottom prices, and that all the dishes were excellent, made you easily forgive the small inadequacies. We started with a nice chicken paté, followed by the delicious shrimp kinilaw. For mains we had the squid in its ink and one of the best lenguas I've ever tried. Prices for both food and wine are very reasonable.
 
-Palm Dr, Bajada, Davao City, Davao del Sur, Philippines
+## Ratings
 
-Despite its rustic garden setting with plastic chairs and wooden tables, Belito's serves some of the best Spanish-Filipino food in Davao. Highlights include a delicious shrimp kinilaw, excellent squid in its ink, and one of the best lengua I have tried. The homemade durian ice cream for dessert was quite sublime. Prices for both food and wine are very reasonable.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Belito%27s%20Vineyard%2C%20Palm%20Dr%2C%20Bajada%2C%20Davao%20City%2C%20Davao%20del%20Sur%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Spanish-Filipino, Wine Bar
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Belito%27s+Vineyard+Bajada+Davao+City)
+🍽️ **Cuisine:** Spanish, Filipino
+💰 **Price level:** —

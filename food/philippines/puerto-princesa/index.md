@@ -1,18 +1,15 @@
 ---
 layout: default
 section: food
+country: philippines
 city: puerto-princesa
-slug: puerto-princesa
 title: Puerto Princesa – Food & Drink
-subtitle: Casual dining, cafés, and local food in Puerto Princesa
+subtitle: Restaurants, cafés, and bars in Puerto Princesa City
 ---
 
 # Puerto Princesa
 
 Reviews grouped by category.
-
-## Street food & basic eateries
-- [Street food & basic eateries](/food/philippines/puerto-princesa/street-food/)
 
 ## Restaurants
 - [Restaurants](/food/philippines/puerto-princesa/restaurants/)
@@ -22,4 +19,3 @@ Reviews grouped by category.
 
 ## Bars & pubs
 - [Bars & pubs](/food/philippines/puerto-princesa/bars-pubs/)
-

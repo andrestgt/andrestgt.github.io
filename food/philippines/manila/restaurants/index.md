@@ -3,226 +3,200 @@ layout: default
 section: food
 city: manila
 category: restaurants
-slug: restaurants
 title: Restaurants
-subtitle: Restaurants in Manila
+subtitle: Restaurants in Metro Manila
 ---
 
-# Restaurants in Manila
-
-Covers BGC / Taguig, Makati, Malate, Pasay, and Quezon City.
-
----
-
-## Rambla
-*Makati Â· Spanish, Creative*
-Stylish, upscale Rockwell restaurant with creative food, affordable wines, and excellent lunch deals â€” the foie gras empanadas are a must.
-â†’ [Read the full review](/food/philippines/manila/restaurants/rambla/)
+# Restaurants
 
 ---
 
 ## Din Tai Fung
-*BGC, Taguig Â· Chinese, Dumplings*
-The usual Din Tai Fung standard â€” excellent dumplings at surprisingly reasonable prices for BGC. Expect a wait during meal times.
-â†’ [Read the full review](/food/philippines/manila/restaurants/din-tai-fung-bgc/)
+*BGC, Taguig · Chinese, Dim Sum*
+The usual Din Tai Fung standard — excellent dumplings at surprisingly reasonable prices for BGC, though waiting is almost inevitable.
+→ [Read the full review](/food/philippines/manila/restaurants/din-tai-fung-bgc/)
 
 ---
 
-## Wildflour Restaurant â€“ BGC
-*BGC, Taguig Â· Bakery, Bistro*
-Ridiculously popular and deservedly so â€” bread that is actually crispy, a properly made cappuccino, and interesting bistro food. Visit off-peak.
-â†’ [Read the full review](/food/philippines/manila/restaurants/wildflour-bgc/)
+## Rambla
+*Rockwell, Makati · Spanish*
+Stylish upscale restaurant with creative food, affordable wines, and excellent lunch deals — the foie gras empanadas are a must.
+→ [Read the full review](/food/philippines/manila/restaurants/rambla/)
 
 ---
 
-## El Chupacabra
-*Makati Â· Mexican-Filipino, Bar*
-One of the best hangouts in Makati â€” genuinely tasty Tex-Fil-Mex food, inexpensive booze, and a lively atmosphere. The lengua burrito is excellent.
-â†’ [Read the full review](/food/philippines/manila/restaurants/el-chupacabra/)
+## Wildflour Restaurant – BGC
+*BGC, Taguig · Café, Bistro*
+Ridiculously popular and deservedly so — delicious crispy bread, perfectly prepared cappuccino, and good bistro fare.
+→ [Read the full review](/food/philippines/manila/restaurants/wildflour-bgc/)
 
 ---
 
-## Mr. Kurosawa Euro-Japanese Foods
-*Pasay Â· Japanese, Fusion*
-Surprisingly good Japanese-inspired fusion food with friendly service and fair prices â€” the spicy salmon salad is excellent.
-â†’ [Read the full review](/food/philippines/manila/restaurants/mr-kurosawa/)
+## Wildflour Restaurant – Greenhills
+*Greenhills, San Juan · Café, Bistro*
+The same reliable Wildflour quality as elsewhere but more spacious and quieter than the BGC or Makati locations.
+→ [Read the full review](/food/philippines/manila/restaurants/wildflour-greenhills/)
 
 ---
 
-## Wildflour Restaurant â€“ Greenhills
-*Greenhills, San Juan Â· Bakery, Bistro*
-The same reliable Wildflour quality but noticeably more spacious and quieter than the BGC or Makati locations.
-â†’ [Read the full review](/food/philippines/manila/restaurants/wildflour-greenhills/)
-
----
-
-## Nihonbashi Tei
-*Makati Â· Japanese, Sushi*
-The best value sushi and sashimi in Manila â€” noisy and cheerful, with portions nearly three times the size of upmarket Japanese restaurants at half the price.
-â†’ [Read the full review](/food/philippines/manila/restaurants/nihonbashitei/)
+## Mr. Kurosawa
+*Newport City, Pasay · Japanese, Fusion*
+Surprisingly good Japanese-inspired fusion food — the spicy salmon salad is excellent and the sashimi notably fresh.
+→ [Read the full review](/food/philippines/manila/restaurants/mr-kurosawa/)
 
 ---
 
 ## Las Flores
-*BGC, Taguig Â· Spanish, Tapas*
-Good-looking modern tapas restaurant with a well-chosen menu and a reasonably priced wine list â€” visit for the lunch deals.
-â†’ [Read the full review](/food/philippines/manila/restaurants/las-flores/)
+*McKinley Place, BGC · Spanish*
+Good-looking modern restaurant with solid Spanish small plates — none fell flat, none stood out, but the mango tatin is recommended.
+→ [Read the full review](/food/philippines/manila/restaurants/las-flores/)
 
 ---
 
 ## Lorenzo's Way
-*BGC, Taguig Â· Filipino*
-Deservedly popular upscale Filipino restaurant â€” the lengua is excellent and the quality is consistently there.
-â†’ [Read the full review](/food/philippines/manila/restaurants/lorenzos-way/)
-
----
-
-## Manam Comfort Filipino
-*Pasay, Mall of Asia Â· Filipino*
-Reliable and solid versions of Filipino classics â€” a good introduction to local cuisine for anyone still sceptical.
-â†’ [Read the full review](/food/philippines/manila/restaurants/manam-comfort-filipino/)
-
----
-
-## Hole In The Wall
-*Makati Â· International, Food Hall*
-One of the most attractive food courts anywhere â€” great variety of genuinely good food stalls, though prices are steep even for Manila.
-â†’ [Read the full review](/food/philippines/manila/restaurants/hole-in-the-wall/)
+*BGC, Taguig · Filipino*
+Solid upscale Filipino food — the lengua is excellent, though the callos can lean too salty.
+→ [Read the full review](/food/philippines/manila/restaurants/lorenzos-way/)
 
 ---
 
 ## Village Tavern
-*BGC, Taguig Â· American, International*
-A surprisingly good American-style restaurant on Bonifacio High Street â€” the goat cheese-chorizo spring rolls alone justify a visit.
-â†’ [Read the full review](/food/philippines/manila/restaurants/village-tavern/)
-
----
-
-## Soban K-Town Grill
-*Quezon City Â· Korean BBQ*
-Solid Korean barbecue with fair pricing and generous side dishes â€” 2,000 Php feeds four people comfortably.
-â†’ [Read the full review](/food/philippines/manila/restaurants/soban-k-town-grill/)
+*BGC, Taguig · American, International*
+A surprisingly good option on High Street — generous portions, goat cheese and chorizo spring rolls, and attentive service.
+→ [Read the full review](/food/philippines/manila/restaurants/village-tavern/)
 
 ---
 
 ## Max's Restaurant
-*BGC, Taguig Â· Filipino*
-Worth coming specifically for the chicken sisig and mango shakes â€” both among the best versions anywhere in the Philippines.
-â†’ [Read the full review](/food/philippines/manila/restaurants/maxs-restaurant-bgc/)
+*Forbespark, BGC · Filipino*
+Reliable Filipino chain — come specifically for the chicken sisig and mango shakes, which are among the best anywhere.
+→ [Read the full review](/food/philippines/manila/restaurants/maxs-restaurant-bgc/)
 
 ---
 
-## Tim Ho Wan
-*Makati Â· Chinese, Dim Sum*
-Excellent dim sum well worth visiting despite being more expensive than in Hong Kong â€” a reliable Manila classic.
-â†’ [Read the full review](/food/philippines/manila/restaurants/tim-ho-wan/)
+## Nihonbashitei
+*Antonio Arnaiz Ave, Makati · Japanese*
+THE place for great value sushi and sashimi in Manila — noisy, cheerful, enormous portions at half the price of upmarket Japanese.
+→ [Read the full review](/food/philippines/manila/restaurants/nihonbashitei/)
 
 ---
 
-## Myung Ga
-*Malate, Manila Â· Korean*
-Very popular traditional Korean restaurant with impressive complimentary side dishes and consistently solid food at very fair prices.
-â†’ [Read the full review](/food/philippines/manila/restaurants/myung-ga/)
+## Brothers Burger – Bonifacio High Street
+*BGC, Taguig · Burgers*
+Still probably the best burger franchise in the Philippines — proper texture and flavour, with the lamb burger especially good.
+→ [Read the full review](/food/philippines/manila/restaurants/brothers-burger-bgc/)
 
 ---
 
-## MakChang
-*Malate, Manila Â· Korean*
-Open 24 hours and consistently reliable â€” the yukgaejang stew is particularly good and prices are reasonable for the area.
-â†’ [Read the full review](/food/philippines/manila/restaurants/makchang/)
+## Manam Comfort Filipino
+*Mall of Asia, Pasay · Filipino*
+Reliable choice for Filipino food at MOA — solid versions of classics like sisig, kinilaw, and laing at sensible prices.
+→ [Read the full review](/food/philippines/manila/restaurants/manam-comfort-filipino/)
 
 ---
 
 ## Crystal Jade Dining In
-*BGC, Taguig Â· Chinese, Dim Sum*
-Polished and upscale dim sum with consistently good quality â€” expensive by Manila standards but among the better options in the city.
-â†’ [Read the full review](/food/philippines/manila/restaurants/crystal-jade-bgc/)
-
----
-
-## MÃ¼nchen Grill-Bar
-*Malate, Manila Â· German*
-A bizarre, wonderful anachronism â€” a German pub apparently frozen in time, with authentic food, Hefeweizen, and no WiFi or card payments.
-â†’ [Read the full review](/food/philippines/manila/restaurants/munchen-grill-bar/)
-
----
-
-## Brothers Burger â€“ Bonifacio High Street
-*BGC, Taguig Â· Burgers*
-Still the best burger franchise in the Philippines â€” proper texture, no sweetness, and the lamb burger is worth the price.
-â†’ [Read the full review](/food/philippines/manila/restaurants/brothers-burger-bgc/)
+*BGC, Taguig · Chinese, Dim Sum*
+Polished and upscale Crystal Jade branch — consistently very good dim sum, though expensive for Manila.
+→ [Read the full review](/food/philippines/manila/restaurants/crystal-jade-bgc/)
 
 ---
 
 ## Wooden Spoon
-*Makati Â· Filipino*
-Good modern takes on Filipino classics with moderate portions designed for sharing â€” fair prices for the Rockwell location.
-â†’ [Read the full review](/food/philippines/manila/restaurants/wooden-spoon/)
+*Power Plant Mall, Makati · Filipino*
+Good modern takes on Filipino classics with portions sized for sharing — fair prices for the Rockwell location.
+→ [Read the full review](/food/philippines/manila/restaurants/wooden-spoon/)
 
 ---
 
-## Passion Chinese Restaurant
-*Pasay Â· Chinese, Dim Sum*
-Very fancy and very expensive Chinese restaurant with inconsistent dim sum quality â€” outstanding har gow but average xiao long bao.
-â†’ [Read the full review](/food/philippines/manila/restaurants/passion-chinese-restaurant/)
+## Tim Ho Wan
+*Manila · Chinese, Dim Sum*
+Excellent dim sum and well worth visiting despite being more expensive than in Hong Kong.
+→ [Read the full review](/food/philippines/manila/restaurants/tim-ho-wan/)
 
 ---
 
-## Brothers Burger (see BGC branch above)
-
-## Fat Fook Kitchen
-*Quezon City Â· Chinese*
-Generally good food with especially impressive xiao long bao, let down by stingy portions of beef in the beef noodles.
-â†’ [Read the full review](/food/philippines/manila/restaurants/fat-fook-kitchen/)
+## Hole In The Wall
+*Century City Mall, Makati · International*
+One of the most attractive food courts around with genuinely good stalls — prices are steep, but the quality justifies it.
+→ [Read the full review](/food/philippines/manila/restaurants/hole-in-the-wall/)
 
 ---
 
-## KKK Pinoy Food Revolution
-*Quezon City Â· Filipino*
-Nothing revolutionary despite the name â€” decent but forgettable food at slightly inflated prices.
-â†’ [Read the full review](/food/philippines/manila/restaurants/kkk-pinoy-food-revolution/)
+## Soban K-Town Grill
+*SM North EDSA, Quezon City · Korean BBQ*
+Solid Korean barbecue with fair pricing and a generous spread of unlimited side dishes — 2000 Php feeds four comfortably.
+→ [Read the full review](/food/philippines/manila/restaurants/soban-k-town-grill/)
+
+---
+
+## MakChang
+*Adriatico St, Malate · Korean*
+Open 24 hours, reasonably priced, and consistently reliable — the yukgaejang stew here is particularly good.
+→ [Read the full review](/food/philippines/manila/restaurants/makchang/)
+
+---
+
+## Myung Ga
+*Malate, Manila · Korean*
+Very popular traditional Korean restaurant with impressive complimentary side dishes and consistently solid food at fair prices.
+→ [Read the full review](/food/philippines/manila/restaurants/myung-ga/)
+
+---
+
+## Munchen Grill-Bar
+*Ermita, Manila · German*
+A bizarre, wonderful time capsule — old-school German pub that hasn't changed in 25 years, with authentic simple food and good Hefeweizen.
+→ [Read the full review](/food/philippines/manila/restaurants/munchen-grill-bar/)
+
+---
+
+## Lugang Café
+*SM Aura, BGC · Chinese, Dim Sum*
+Nice dumplings at reasonable prices but no small orders available — poor service during busy times.
+→ [Read the full review](/food/philippines/manila/restaurants/lugang-cafe/)
+
+---
+
+## L'entrecôte
+*Forbespark, BGC · French*
+Good food and thoughtful wine list but lacking polish for the price — serving oysters with Tabasco is a baffling move.
+→ [Read the full review](/food/philippines/manila/restaurants/lentrecote-bgc/)
 
 ---
 
 ## Mongkok
-*Makati Â· Chinese, Dim Sum*
-Surprisingly decent dim sum for a cheap franchise â€” not destination dining, but does the job when nothing better is nearby.
-â†’ [Read the full review](/food/philippines/manila/restaurants/mongkok/)
+*Makati · Chinese, Dim Sum*
+For a cheap franchise, surprisingly decent dim sum — not destination dining, but does the job when nothing better is nearby.
+→ [Read the full review](/food/philippines/manila/restaurants/mongkok/)
 
 ---
 
-## Lugang Cafe SM Aura
-*BGC, Taguig Â· Chinese, Dumplings*
-Nice dumplings in a glamorous setting, but the eight-per-serving minimum is impractical for small groups and service is poor during busy times.
-â†’ [Read the full review](/food/philippines/manila/restaurants/lugang-cafe/)
+## Passion Chinese Restaurant
+*Pasay, Manila · Chinese*
+Very fancy and expensive with inconsistent dim sum quality — at these prices, consistency should be higher.
+→ [Read the full review](/food/philippines/manila/restaurants/passion-chinese-restaurant/)
+
+---
+
+## Fat Fook Kitchen
+*SM North EDSA, Quezon City · Chinese*
+Generally quite good food with impressive xiao long bao, let down by stingy beef portions in the noodle soup.
+→ [Read the full review](/food/philippines/manila/restaurants/fat-fook-kitchen/)
+
+---
+
+## KKK Pinoy Food Revolution
+*SM North EDSA, Quezon City · Filipino*
+Despite the dramatic name, nothing revolutionary here — decent but forgettable food at slightly too-high prices.
+→ [Read the full review](/food/philippines/manila/restaurants/kkk-pinoy-food-revolution/)
 
 ---
 
 ## Sumosam Legacy
-*Quezon City Â· Japanese, Sushi*
-Genuinely dreadful sashimi â€” limp, watery, and tasting freshly thawed. Avoid.
-â†’ [Read the full review](/food/philippines/manila/restaurants/sumosam-legacy/)
-
----
-
-## L'entrecÃ´te
-*BGC, Taguig Â· French*
-Good food and wine list, but service is less professional than it should be and serving oysters with Tabasco instead of mignonette is baffling for a French restaurant.
-â†’ [Read the full review](/food/philippines/manila/restaurants/lentrecote-bgc/)
-
----
-
-## Som's Authentic Thai Cuisine
-*Makati Â· Thai*
-Unauthentically Thai â€” sweet tom yum, sanitised som tam, and noodle soup lacking herbs. The name does not match the reality.
-â†’ [Read the full review](/food/philippines/manila/restaurants/soms-thai/)
-
----
-
-## Yoree Korean Dining
-*BGC, Taguig Â· Korean*
-Perfectly good food and service, but BBQ meat portions are surprisingly small and the octopus stew comes up short on octopus.
-â†’ [Read the full review](/food/philippines/manila/restaurants/yoree-korean/)
+*SM North EDSA, Quezon City · Japanese*
+The salmon sashimi was genuinely dreadful — limp, watery, and seemingly just thawed — astonishing for a sizeable franchise.
+→ [Read the full review](/food/philippines/manila/restaurants/sumosam-legacy/)
 
 ---
 

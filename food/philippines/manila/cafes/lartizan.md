@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Lartizan"
-subtitle: "BGC, Manila Â· CafÃ©"
+title: Lartizan
+subtitle: Serendra, BGC · Café
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 04 Jul 2019 Â· â€”
+Lartizan goes heavily for the rococo aesthetic, all ornate crockery, silver cutlery, and slightly theatrical presentation. The chicken foie gras pâté makes an excellent breakfast and is easily large enough for two people. Coffee is good, bread quality is high, and despite appearances the place is not quite as expensive as it first seems. The pretzels, however, are best avoided. Service is friendly, if somewhat clueless.
 
-Serendra, 26th corner McKinley Pkwy, Metro Manila, Philippines
+## Ratings
 
-Goes heavily for the rococo aesthetic â€” ornate crockery, silver cutlery, and slightly theatrical presentation. The chicken foie gras pate makes an excellent breakfast and is easily large enough for two. Coffee is good, bread quality is high, and despite appearances the place is not quite as expensive as it first seems. The pretzels are best avoided. Service is friendly, if somewhat clueless.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lartizan%2C%20Serendra%2C%2026th%20corner%20McKinley%20Pkwy%2C%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©, Bakery
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lartizan+Serendra+BGC+Taguig+Manila)
+☕ **Type:** Café
+💰 **Price level:** —

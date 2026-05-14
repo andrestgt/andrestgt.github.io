@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "The Little Molmol Pizza"
-subtitle: "Siquijor Â· Restaurant"
+title: The Little Molmol Pizza
+subtitle: Larena, Siquijor · Italian
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 02 Jul 2019 Â· â€”
+Finally a place on Siquijor serving proper pizza. Good ingredients, fair prices and a welcome sign that the island's food scene has caught up with modern expectations.
 
-F. Tan, Larena, Siquijor, Philippines
+## Ratings
 
-Finally a place on Siquijor serving proper pizza. Good ingredients, fair prices, and a welcome sign that the island's food scene has caught up with modern expectations.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Little%20Molmol%20Pizza%2C%20Larena%2C%20Siquijor%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Italian, Pizza
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Little+Molmol+Pizza+Larena+Siquijor)
+🍽️ **Cuisine:** Italian
+💰 **Price level:** —

@@ -3,35 +3,39 @@ layout: default
 section: food
 city: boracay
 category: restaurants
-slug: restaurants
 title: Restaurants
 subtitle: Restaurants in Boracay
 ---
 
-# Restaurants in Boracay
-
-A selection of restaurants across Boracay and the Aklan gateway town of Kalibo.
+# Restaurants
 
 ---
 
 ## Aria Restaurant
-*White Beach, D'Mall Â· Italian*
-Among the best places for Italian food in the Philippines, with pizzas that are simply as good as it gets.
-â†’ [Read the full review](/food/philippines/boracay/restaurants/aria-restaurant/)
+*D'Mall, Boracay · Italian*
+One of the best places for Italian food in the Philippines — the pizzas are simply as good as it gets.
+→ [Read the full review](/food/philippines/boracay/restaurants/aria-restaurant/)
 
 ---
 
 ## Kasbar Boracay
-*White Beach, Station 1 Â· Moroccan*
-An unexpected Moroccan beach restaurant on the most exclusive part of White Beach, decent tajines and a priceless view.
-â†’ [Read the full review](/food/philippines/boracay/restaurants/kasbar-boracay/)
+*Station 1, White Beach · Moroccan*
+A pleasant surprise on White Beach — simple Moroccan food with proper tajines and a priceless view.
+→ [Read the full review](/food/philippines/boracay/restaurants/kasbar-boracay/)
 
 ---
 
-## Wokeria: Crab Pasta House
-*D'Mall Â· International*
-A promising-looking international restaurant that fails to deliver on any of its dishes.
-â†’ [Read the full review](/food/philippines/boracay/restaurants/wokeria/)
+## Lemoni Café and Restaurant
+*D'Mall, Boracay · Café & Bistro*
+Prices have gone up but the bistro food is still delicious — lovely soups, sandwiches, and classic Filipino breakfasts.
+→ [Read the full review](/food/philippines/boracay/restaurants/lemoni-cafe/)
+
+---
+
+## Wokeria
+*D'Mall, Boracay · International*
+An inviting restaurant in DMall let down by poor execution — out of 6 dishes, not one was up to standards.
+→ [Read the full review](/food/philippines/boracay/restaurants/wokeria/)
 
 ---
 

@@ -3,23 +3,17 @@ layout: default
 section: food
 city: davao
 category: cafes
-slug: cafes
-title: CafÃ©s
-subtitle: CafÃ©s in Davao
+title: Cafés
+subtitle: Cafés in Davao City
 ---
 
-# CafÃ©s in Davao
-
-A selection of cafÃ©s in Davao City.
+# Cafés
 
 ---
 
 ## Blugre Coffee
-*Abreeza Mall, Davao City Â· CafÃ©*
-A pleasant enough cafÃ© let down by an insistence on cinnamon-topped cappuccinos â€” the durian coffee novelty is worth a try if you are curious.
-â†’ [Read the full review](/food/philippines/davao/cafes/blugre-coffee/)
+*Abreeza Mall, Davao City · Café*
+A pleasant enough café — try the novelty durian coffee, but the cinnamon on a cappuccino remains unforgivable.
+→ [Read the full review](/food/philippines/davao/cafes/blugre-coffee/)
 
 ---
-
-**Price level note:**
-Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "El Nido Boutique Artcafe"
-subtitle: "El Nido Â· Restaurant"
+title: El Nido Boutique Artcafe
+subtitle: El Nido Town · International
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 26 Mar 2025 Â· â€”
+When I first visited El Nido in the late 00s, the Art Café had some unique selling points. Nowadays it feels like a relic — its sheer size making it stand out in a town where most places are much smaller. It's no longer the focal point for travellers, but it still gets things right. The décor is nicer than it used to be, the prices are now pretty much on par with the competition, and the second-floor terrace offers pleasant views. In a town not exactly known for exceptional food, the meals here are solid.
 
-Serena St, Buena Suerte, El Nido, 5313 Palawan, Philippines
+## Ratings
 
-When I first visited El Nido in the late 2000s, the Art CafÃ© had some unique selling points â€” exotic things like cappuccino and WiFi. Nowadays it feels like a relic, but it still gets things right. The decor is nicer than it used to be, prices are now pretty much on par with the competition, and the second-floor terrace offers pleasant views. In a town not exactly known for exceptional food, the meals here are solid.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 10/10  |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Nido%20Boutique%20Artcafe%2C%20Serena%20St%2C%20El%20Nido%2C%205313%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** International
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=El+Nido+Boutique+Artcafe+El+Nido+Palawan)
+🍽️ **Cuisine:** International, Filipino
+💰 **Price level:** —

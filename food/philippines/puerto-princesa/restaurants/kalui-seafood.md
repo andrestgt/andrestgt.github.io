@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Kalui Seafood Restaurant"
-subtitle: "Puerto Princesa Â· Restaurant"
+title: Kalui Seafood Restaurant
+subtitle: Rizal Avenue, Puerto Princesa · Filipino, Seafood
 ---
 
-â˜…â˜…â˜…â˜…â˜… Â· 15 Mar 2025 Â· â‚±600â€“800
+I first visited this restaurant almost two decades ago. Fast forward to 2025, and if anything, the place is even more beautiful, and the service even more attentive. The set menu now costs closer to 900 Php, but to be fair, that's still very reasonable compared to other places. We had a generous portion of tuna sashimi, seafood sisig, and squid adobo in its ink. All dishes were of impeccable quality, and our total bill, including beers and a cocktail, came to under 1500 Php. Definitely a must-visit in Puerto Princesa.
 
-369 Rizal Avenue, Puerto Princesa City, 5300 Palawan, Philippines
+## Ratings
 
-I first visited this restaurant almost two decades ago when I had the set seafood menu for two at just 395 Php. Fast forward to 2025 and if anything the place is even more beautiful, with service even more attentive. The set menu now costs closer to 900 Php, but that is still very reasonable. We had tuna sashimi, seafood sisig, and squid adobo in its ink â€” all of impeccable quality â€” and our total bill including beers and a cocktail came to under 1,500 Php. A definite must-visit in Puerto Princesa.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kalui%20Seafood%20Restaurant%2C%20369%20Rizal%20Avenue%2C%20Puerto%20Princesa%20City%2C%205300%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Filipino, Seafood
-
-ðŸ’° **Price level:** Approximately â‚±600â€“800 for two people (average meal, no drinks)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kalui+Seafood+Restaurant+Rizal+Avenue+Puerto+Princesa+Palawan)
+🍽️ **Cuisine:** Filipino, Seafood
+💰 **Price level:** ₱600–800 per person

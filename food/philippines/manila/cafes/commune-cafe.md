@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Commune CafÃ© + Bar + Roastery"
-subtitle: "Makati Â· CafÃ©"
+title: Commune Café + Bar + Roastery
+subtitle: Poblacion, Makati · Café
 ---
 
-â˜…â˜…â˜†â˜†â˜† Â· 03 Jul 2019 Â· â€”
+Commune looks like it should be a very good café, but the coffee preparation was shockingly poor. The cappuccino was so overheated the spoon was practically steaming, and the milk foam collapsed immediately. Whatever else they are doing right here, coffee clearly isn't one of them.
 
-36 Polaris, Makati, Metro Manila, Philippines
+## Ratings
 
-Looks like it should be a very good cafÃ©, but the coffee preparation was shockingly poor. The cappuccino was so overheated the spoon was practically steaming, and the milk foam collapsed immediately. Whatever else they are doing right here, coffee clearly is not one of them.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 4/10   |
+| Service         | 4/10   |
+| Value for money | 4/10   |
+| Atmosphere      | 4/10   |
+| Overall         | 4/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Commune%20Cafe%20Bar%20Roastery%2C%2036%20Polaris%2C%20Makati%2C%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Commune+Cafe+Bar+Roastery+Polaris+Makati)
+☕ **Type:** Café
+💰 **Price level:** —

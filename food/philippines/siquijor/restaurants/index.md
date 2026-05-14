@@ -3,28 +3,25 @@ layout: default
 section: food
 city: siquijor
 category: restaurants
-slug: restaurants
 title: Restaurants
 subtitle: Restaurants in Siquijor
 ---
 
-# Restaurants in Siquijor
-
-A selection of restaurants across Siquijor island.
+# Restaurants
 
 ---
 
 ## Baha Ba'r
-*San Juan, Maite Â· International*
-Easily the best restaurant on Siquijor â€” beautiful atmosphere, very good food, and surprisingly fair prices.
-â†’ [Read the full review](/food/philippines/siquijor/restaurants/baha-bar/)
+*San Juan, Siquijor · Restaurant*
+Easily the best restaurant on Siquijor — beautiful atmosphere, very good food, and surprisingly fair prices.
+→ [Read the full review](/food/philippines/siquijor/restaurants/baha-bar/)
 
 ---
 
 ## The Little Molmol Pizza
-*Larena Â· Pizza*
-Finally a place on Siquijor serving proper pizza, with good ingredients and fair prices.
-â†’ [Read the full review](/food/philippines/siquijor/restaurants/little-molmol-pizza/)
+*Larena, Siquijor · Italian*
+Finally a place on Siquijor serving proper pizza — good ingredients and fair prices.
+→ [Read the full review](/food/philippines/siquijor/restaurants/little-molmol-pizza/)
 
 ---
 

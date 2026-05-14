@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Socorro Hills View"
-subtitle: "El Nido Â· Restaurant"
+title: Socorro Hills View
+subtitle: Route 490, El Nido · Filipino
 ---
 
-â˜…â˜…â˜…â˜…â˜… Â· 25 Mar 2025 Â· â‚±200â€“400
+The nicest pit stop along Route 490 to El Nido, this viewpoint resto offers more than just sweeping sea views. The shakes are tasty, the food is solid, and the prices are moderate — making it a great place to take a break and enjoy the scenery.
 
-Route 490 to El Nido, Palawan, Philippines
+## Ratings
 
-The nicest pit stop along Route 490 to El Nido, this viewpoint restaurant offers more than just sweeping sea views. The shakes are tasty, the food is solid, and the prices are moderate â€” making it a great place to take a break and enjoy the scenery.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Socorro%20Hills%20View%2C%20Route%20490%2C%20El%20Nido%2C%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Filipino, International
-
-ðŸ’° **Price level:** Approximately â‚±200â€“400 for two people (average meal, no drinks)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Socorro+Hills+View+Restaurant+El+Nido+Palawan)
+🍽️ **Cuisine:** Filipino
+💰 **Price level:** ₱200–400 per person

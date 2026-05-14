@@ -4,7 +4,7 @@ section: food
 country: philippines
 city: davao
 title: Davao – Food & Drink
-subtitle: Restaurants and cafés in Davao
+subtitle: Restaurants and cafés in Davao City and Samal Island
 ---
 
 # Davao
@@ -16,5 +16,3 @@ Reviews grouped by category.
 
 ## Cafés
 - [Cafés](/food/philippines/davao/cafes/)
-
-

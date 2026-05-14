@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Baha Ba'r"
-subtitle: "Siquijor Â· Restaurant"
+title: Baha Ba'r
+subtitle: San Juan, Siquijor · Restaurant
 ---
 
-â˜…â˜…â˜…â˜…â˜… Â· 02 Jul 2019 Â· â€”
+Easily the best restaurant on Siquijor and proof that the island's dining scene has finally evolved beyond basic backpacker fare. Beautiful atmosphere, very good food and surprisingly fair prices. A must-visit.
 
-San Juan, Maite, Siquijor, 6227 Siquijor, Philippines
+## Ratings
 
-Easily the best restaurant on Siquijor and proof that the island's dining scene has finally evolved beyond basic backpacker fare. Beautiful atmosphere, very good food, and surprisingly fair prices. A must-visit.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Baha%20Bar%2C%20San%20Juan%2C%20Maite%2C%20Siquijor%2C%206227%20Siquijor%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** International
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Baha+Ba%27r+San+Juan+Siquijor)
+🍽️ **Cuisine:** International, Filipino
+💰 **Price level:** —

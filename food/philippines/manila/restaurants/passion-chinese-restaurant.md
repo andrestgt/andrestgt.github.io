@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Passion Chinese Restaurant"
-subtitle: "Pasay, Manila Â· Restaurant"
+title: Passion Chinese Restaurant
+subtitle: Pasay, Manila · Chinese
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 02 Jul 2019 Â· â€”
+Very fancy and correspondingly expensive Chinese restaurant. The dim sum quality varies quite a bit, from fairly average xiao long bao to genuinely excellent har gow. At these prices, though, consistency should really be higher.
 
-Pasay, Metro Manila, Philippines
+## Ratings
 
-Very fancy and correspondingly expensive Chinese restaurant. The dim sum quality varies quite a bit, from fairly average xiao long bao to genuinely excellent har gow. At these prices, consistency should really be higher.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Passion%20Chinese%20Restaurant%2C%20Pasay%2C%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Chinese, Dim Sum
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Passion+Chinese+Restaurant+Pasay+Metro+Manila)
+🍽️ **Cuisine:** Chinese
+💰 **Price level:** —

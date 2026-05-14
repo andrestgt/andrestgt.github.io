@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Gerarda's Place"
-subtitle: "Tagbilaran Â· Restaurant"
+title: Gerarda's Place
+subtitle: Tagbilaran City · Filipino
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 26 Jun 2019 Â· â€”
+Gerarda's is widely considered the best place for Filipino food in Tagbilaran, and while I'm not the world's biggest fan of the local sweet-and-salty flavour combinations, the food here is certainly decent. The restaurant itself is classy without being pretentious, prices are reasonable, and the old-world atmosphere alone makes it worth a visit.
 
-30 J.S. Torralba St, Tagbilaran City, 6300 Bohol, Philippines
+## Ratings
 
-Widely considered the best place for Filipino food in Tagbilaran, and while the local sweet-and-salty flavour combinations are not for everyone, the food here is certainly decent. The restaurant is classy without being pretentious, prices are reasonable, and the old-world atmosphere alone makes it worth a visit.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gerarda%27s%20Place%2C%2030%20J.S.%20Torralba%20St%2C%20Tagbilaran%20City%2C%206300%20Bohol%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Filipino
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gerarda%27s+Place+Tagbilaran+City+Bohol)
+🍽️ **Cuisine:** Filipino
+💰 **Price level:** —

@@ -3,98 +3,94 @@ layout: default
 section: food
 city: dumaguete
 category: restaurants
-slug: restaurants
 title: Restaurants
-subtitle: Restaurants in Dumaguete and surroundings
+subtitle: Restaurants in Dumaguete and Dauin
 ---
 
-# Restaurants in Dumaguete
-
-Covers Dumaguete City and nearby Dauin.
+# Restaurants
 
 ---
 
 ## Casablanca Restaurant
-*Rizal Boulevard, Dumaguete Â· International, European*
-A decade-spanning institution on Rizal Boulevard â€” consistent, serious food, a good wine list, and extraordinary lunch deals. A must-visit in the Visayas.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/casablanca/)
+*Rizal Boulevard, Dumaguete · International*
+A must visit for anyone who likes wine and good food in the Visayas — a decade of consistent excellence and incredible lunch deals.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/casablanca/)
 
 ---
 
 ## Allegre Bar
-*Dumaguete Boulevard Â· Spanish Tapas*
-A tiny, elegant hole-in-the-wall with an authentic tapas bar atmosphere, house-made morcilla, and inexpensive cocktails â€” extraordinary for Dumaguete.
-â†’ [Read the full review](/food/philippines/dumaguete/bars-pubs/allegre-bar/)
+*Rizal Boulevard, Dumaguete · Tapas Bar*
+Wait — see Bars & Pubs.
 
 ---
 
 ## Lantaw Native Restaurant
-*Dumaguete Â· Filipino*
-The best place for Filipino food in Dumaguete â€” a large menu of local favourites at very fair prices. The squid sisig and tuna belly are standouts.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/lantaw-native-restaurant/)
-
----
-
-## Flip Flops Restobar
-*Dumaguete Â· Filipino, Pizza*
-An excellent little restobar with surprisingly good Filipino bar food and proper wood-fired pizzas â€” the kinilaw and sisig are both recommended.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/flip-flops-restobar/)
+*EJ Blanco Drive, Dumaguete · Filipino*
+Probably the best place for Filipino food in Dumaguete — large menu at very fair prices, excellent squid sisig and tuna belly.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/lantaw-native-restaurant/)
 
 ---
 
 ## KRI Catering
-*Silliman Ave, Dumaguete Â· International, Filipino*
-Dumaguete's most ambitious restaurant with creative international cooking and some of the best food in town despite occasional service lapses.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/kri-catering/)
-
----
-
-## Neva's Pizza
-*Dumaguete Â· Pizza*
-A Dumaguete institution â€” wood-fired pizzas at excellent value, loved since backpacker days and still going strong.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/nevas-pizza/)
-
----
-
-## Soban Korean Restaurant
-*Real St, Dumaguete Â· Korean*
-Authentic traditional Korean food at reasonable prices â€” the osom bulgogi feeds four and is worth the trip out to the strip mall location.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/soban-korean-restaurant/)
+*Silliman Ave, Dumaguete · International*
+Dumaguete's most ambitious restaurant — creative international cooking and some of the best food in town.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/kri-catering/)
 
 ---
 
 ## Andy's Golden Grill
-*Dumaguete Â· European, International*
-Very good European home-cooked dishes in a pleasant candlelit atmosphere â€” reasonable wine prices and good overall value for Dumaguete.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/andys-golden-grill/)
+*Dumaguete City · European, International*
+Proper European home-cooked dishes in a pleasant candlelit atmosphere — one of the better places in Dumaguete.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/andys-golden-grill/)
 
 ---
 
-## Dauin Dive Cafe
-*Dauin (near Dumaguete) Â· International*
-Relaxed dive cafÃ© with ice-cold beers and hearty home-cooked comfort food â€” non-divers very welcome.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/dauin-dive-cafe/)
+## Flip Flops Restobar
+*Dumaguete City · Filipino*
+Simple but excellent restobar with surprisingly good Filipino bar food and proper wood-fired pizzas — probably my favourite hangout in Dumaguete.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/flip-flops-restobar/)
+
+---
+
+## Soban Korean Restaurant
+*Real St, Dumaguete · Korean*
+Authentic traditional Korean food at reasonable prices — the osom bulgogi is a must for Korean food lovers.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/soban-korean-restaurant/)
+
+---
+
+## Neva's Pizza
+*Hibbard Ave, Dumaguete · Italian*
+Wood-fired kuripot pizzas that were probably the cheapest on earth in their heyday — still excellent value today.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/nevas-pizza/)
+
+---
+
+## Dauin Dive Café
+*Dauin, Negros Oriental · Filipino, International*
+Relaxed little dive café with ice-cold beer and hearty home-cooked comfort food — non-divers welcome.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/dauin-dive-cafe/)
 
 ---
 
 ## Pasta King Cafe di Roma
-*Fatima Village, Dumaguete Â· Italian*
-Reasonably decent pizza, cakes, and coffee â€” nothing stands out, but prices are fair and it serves its purpose.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/pasta-king/)
+*Dumaguete City · Italian*
+Reasonably decent pizza, cakes and coffee, but nothing really stands out — and it's not especially comfortable for lingering.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/pasta-king/)
+
+---
+
+## Señorita's Mexican Grill
+*Dumaguete Airport · Mexican*
+Prices are higher than in town but still reasonable for an airport restaurant — decent food and comfortable for waiting.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/senoritas-mexican-grill/)
 
 ---
 
 ## Sta. Teresa Resto
-*Dumaguete Â· Filipino*
-An upmarket carinderia serving intensely authentic Filipino food â€” intensely rich, pungent, and fatty, exactly as intended.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/sta-teresa-resto/)
-
----
-
-## SeÃ±orita's Mexican Grill
-*Dumaguete Airport Â· Mexican*
-Reasonably priced and decent enough for an airport restaurant â€” far more comfortable than the airport lounge itself.
-â†’ [Read the full review](/food/philippines/dumaguete/restaurants/senoritas-mexican-grill/)
+*San Juan, Dumaguete · Filipino*
+Upmarket carinderia with intensely rich, pungent, authentically Filipino pre-cooked dishes — very much designed to be eaten with rice.
+→ [Read the full review](/food/philippines/dumaguete/restaurants/sta-teresa-resto/)
 
 ---
 

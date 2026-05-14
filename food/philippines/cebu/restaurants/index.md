@@ -3,77 +3,74 @@ layout: default
 section: food
 city: cebu
 category: restaurants
-slug: restaurants
 title: Restaurants
-subtitle: Restaurants in Cebu
+subtitle: Restaurants in Cebu City and Mactan
 ---
 
-# Restaurants in Cebu
-
-Covers Cebu City and Mactan island.
+# Restaurants
 
 ---
 
 ## Han Guk Kwan
-*Cebu City Â· Korean*
-Possibly the best Korean restaurant in Cebu â€” large portions, very good flavours, and excellent value. Best visited with a group.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/han-guk-kwan/)
+*Cebu City · Korean*
+Possibly the best Korean restaurant in Cebu — large portions, very good flavours, and excellent value despite the dreadful service.
+→ [Read the full review](/food/philippines/cebu/restaurants/han-guk-kwan/)
+
+---
+
+## Kalachuchi Fusion Cuisine & Grill
+*Mactan, Cebu · Asian, Filipino*
+A pleasant garden restaurant with excellent stuffed squid and Taiwanese dumplings — an easy recommendation around Mactan.
+→ [Read the full review](/food/philippines/cebu/restaurants/kalachuchi/)
 
 ---
 
 ## Oriental Spice Gourmet
-*Mactan Â· Malaysian*
-Finding a proper Malaysian restaurant in the provinces of the Philippines is surprisingly rare â€” this one brings genuinely spicy flavours to Mactan.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/oriental-spice-gourmet/)
+*Mactan, Cebu · Malaysian*
+A rare find — proper Malaysian food in the provinces of the Philippines, bringing genuinely spicy and refreshing flavours.
+→ [Read the full review](/food/philippines/cebu/restaurants/oriental-spice-gourmet/)
 
 ---
 
 ## Apgujeong
-*Mactan Â· Korean*
-Serves very authentic Korean food popular with the local Korean community â€” the seafood pancake and mandu are excellent.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/apgujeong/)
-
----
-
-## Kalachuchi Fusion Cuisine & Grill Restaurant
-*Mactan Â· Asian, Filipino*
-A pleasant little garden restaurant serving reasonably priced pan-Asian food â€” the stuffed squid is excellent.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/kalachuchi/)
+*Mactan, Cebu · Korean*
+Very authentic Korean food popular with the local Korean community — excellent seafood pancake and mandu.
+→ [Read the full review](/food/philippines/cebu/restaurants/apgujeong/)
 
 ---
 
 ## Giligan's
-*Cebu City Â· Filipino, Seafood*
-Mainly known for its cheap beer promotions, but the food is perfectly decent â€” the sinuglaw and sizzling seafood are both good value at around 200 Php.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/gilligans/)
+*Ayala Center, Cebu City · Filipino*
+Most people come for the cheap beer promotions, but the sinuglaw and sizzling seafood are perfectly decent and good value.
+→ [Read the full review](/food/philippines/cebu/restaurants/gilligans/)
 
 ---
 
 ## Sumo Sam
-*Cebu City Â· Japanese*
-Decent sushi and Japanese comfort food â€” solid and reliable without really standing out, and slightly expensive for what you get.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/sumo-sam/)
+*Ayala Center, Cebu City · Japanese*
+Perfectly decent sushi and Japanese comfort food — solid quality without really standing out, slightly expensive for what you get.
+→ [Read the full review](/food/philippines/cebu/restaurants/sumo-sam/)
 
 ---
 
 ## Tsim Sha Tsui Dimsum & Tea Bar
-*Cebu City Â· Chinese, Dim Sum*
-A perfectly fine place for a quick and inexpensive dim sum meal, despite some oversteaming issues.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/tsim-sha-tsui/)
+*Ayala Center, Cebu City · Chinese*
+Some dim sum slightly oversteamed, but overall good quality at very reasonable prices — fine for a quick inexpensive meal.
+→ [Read the full review](/food/philippines/cebu/restaurants/tsim-sha-tsui/)
 
 ---
 
 ## Yozakura Sushi Bar
-*Mactan Â· Japanese, Sushi*
-Mixed feelings â€” the eel pizza spring rolls were genuinely delicious, but the sashimi portions were small and overpriced.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/yozakura-sushi/)
+*Lapu-Lapu City, Mactan · Japanese*
+Mixed feelings — small and pricey sashimi, but the eel pizza spring rolls are genuinely delicious and excellent value.
+→ [Read the full review](/food/philippines/cebu/restaurants/yozakura-sushi/)
 
 ---
 
 ## La Bella Pizza and Bistro
-*Mactan Â· Italian, Pizza*
-A place that should be great but delivered a bad experience â€” expect to be disappointed on both food and coffee.
-â†’ [Read the full review](/food/philippines/cebu/restaurants/la-bella-pizza/)
+*Lapu-Lapu City, Mactan · Italian*
+Should be great, but a cappuccino served in a plastic cup with cinnamon — at an Italian restaurant — is hard to forgive.
+→ [Read the full review](/food/philippines/cebu/restaurants/la-bella-pizza/)
 
 ---
 

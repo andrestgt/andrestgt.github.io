@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Oriental Spice Gourmet"
-subtitle: "Mactan, Cebu Â· Restaurant"
+title: Oriental Spice Gourmet
+subtitle: Mactan, Cebu · Malaysian
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 02 Jul 2019 Â· â€”
+Finding a proper Malaysian restaurant in the provinces of the Philippines is surprisingly rare, which alone already makes Oriental Spice Gourmet worth a visit. The food brings some genuinely spicy and refreshing flavours to an area otherwise dominated by Korean restaurants. Very easy place to recommend in Mactan.
 
-Maximo V. Patalinjug Jr. Ave, Lapu-Lapu City, 6015 Cebu, Philippines
+## Ratings
 
-Finding a proper Malaysian restaurant in the provinces of the Philippines is surprisingly rare, which alone already makes Oriental Spice Gourmet worth a visit. The food brings some genuinely spicy and refreshing flavours to an area otherwise dominated by Korean restaurants. Very easy to recommend in Mactan.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oriental%20Spice%20Gourmet%2C%20Maximo%20V.%20Patalinjug%20Jr.%20Ave%2C%20Lapu-Lapu%20City%2C%206015%20Cebu%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Malaysian
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oriental+Spice+Gourmet+Mactan+Cebu)
+🍽️ **Cuisine:** Malaysian
+💰 **Price level:** —

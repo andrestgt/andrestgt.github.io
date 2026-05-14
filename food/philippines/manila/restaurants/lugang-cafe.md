@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Lugang Cafe SM Aura"
-subtitle: "BGC, Manila Â· Restaurant"
+title: Lugang Café
+subtitle: SM Aura, BGC · Chinese, Dim Sum
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 21 Jun 2019 Â· â€”
+This outlet in SM Aura's Skypark looks very inviting with its chandeliers and show kitchen. The menu is very extensive but the problem is that there are no samplers or small orders available, and every serving consists of 8 big dumplings — not a place for solo diners or couples unless you're absolutely starved. The dumplings are nice and the prices reasonable considering the portion size, but the service is very poor and quite unable to cope during busy times.
 
-SM Aura Premier, McKinley Pkwy, Taguig, 1634 Metro Manila, Philippines
+## Ratings
 
-This outlet in SM Aura's Skypark looks very inviting with its chandeliers and show kitchen. The dumplings themselves are nice, but the menu only comes in servings of eight â€” making it difficult for solo diners or couples. Service is poor and quite unable to cope during busy times.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lugang%20Cafe%2C%20SM%20Aura%20Premier%2C%20McKinley%20Pkwy%2C%20Taguig%2C%201634%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Chinese, Dumplings
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lugang+Cafe+SM+Aura+Premier+BGC+Taguig)
+🍽️ **Cuisine:** Chinese, Dim Sum
+💰 **Price level:** —

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Bamboo Place"
-subtitle: "Panglao Â· Restaurant"
+title: Bamboo Place
+subtitle: Tawala, Panglao · International
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 26 Jun 2019 Â· â€”
+Bamboo Place feels like a quiet little oasis away from the beach crowds. The menu is mostly international comfort food such as burgers and pasta, and the quality is very solid for the price, with most dishes below 300 Php. The only thing really missing is a decent wine list to go with the food.
 
-Panglao Island Circumferential Rd, Tawala, Panglao, Bohol, Philippines
+## Ratings
 
-A quiet little oasis away from the beach crowds, serving mostly international comfort food such as burgers and pasta. Quality is very solid for the price, with most dishes below 300 Php. The only thing really missing is a decent wine list.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bamboo%20Place%2C%20Panglao%20Island%20Circumferential%20Rd%2C%20Tawala%2C%20Panglao%2C%20Bohol%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** International
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bamboo+Place+Tawala+Panglao+Bohol)
+🍽️ **Cuisine:** International, Filipino
+💰 **Price level:** Under ₱300 per person

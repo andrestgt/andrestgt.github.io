@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Las Flores"
-subtitle: "BGC, Manila Â· Restaurant"
+title: Las Flores
+subtitle: McKinley Place, BGC · Spanish
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 20 Jun 2019 Â· â€”
+Las Flores is a good looking, modern restaurant with good service and a classic menu which includes most of our favourite small plates. Among the five dishes we ordered, none stood out and none fell flat — all tasty, well prepared and nice to look at. Scallop ceviche with jamón, tuna escabeche, pulpo gallega — all very nice. Their mango tatin is recommended for dessert. Tapas prices around 400 Php make Las Flores pricey even by BGC standards but they have some good lunch deals.
 
-One McKinley Place, 25th St, Taguig, 1634 Metro Manila, Philippines
+## Ratings
 
-A good-looking modern restaurant with good service and a classic menu of small plates. Among the five dishes ordered, none stood out and none fell flat â€” scallop ceviche with jamon, tuna escabeche, and pulpo gallega were all very nice. With tapas prices around 400 Php, Las Flores is pricey even by BGC standards, but they have some good lunch deals and a very reasonably priced wine list.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Las%20Flores%2C%20One%20McKinley%20Place%2C%2025th%20St%2C%20Taguig%2C%201634%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Spanish, Tapas
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Las+Flores+25th+St+BGC+Taguig)
+🍽️ **Cuisine:** Spanish
+💰 **Price level:** —

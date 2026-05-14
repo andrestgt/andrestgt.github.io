@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Cafe Elora"
-subtitle: "Mactan, Cebu Â· CafÃ©"
+title: Cafe Elora
+subtitle: Mactan, Cebu · Café
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 02 Jul 2019 Â· â€”
+Cafe Elora is a nice little oasis in what is otherwise a fairly bleak part of Mactan. Prices are fair, the food is simple but decent, and it's a pleasant enough place to sit for a while. The only real disappointment is the coffee, as they still don't seem able to prepare a proper cappuccino.
 
-Maximo V. Patalinjug Jr. Ave, Lapu-Lapu City, 6015 Cebu, Philippines
+## Ratings
 
-A nice little oasis in what is otherwise a fairly bleak part of Mactan. Prices are fair, the food simple but decent, and it is a pleasant enough place to sit for a while. The only real disappointment is the coffee â€” they still do not seem able to prepare a proper cappuccino.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe%20Elora%2C%20Maximo%20V.%20Patalinjug%20Jr.%20Ave%2C%20Lapu-Lapu%20City%2C%206015%20Cebu%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Elora+Lapu-Lapu+City+Mactan+Cebu)
+☕ **Type:** Café
+💰 **Price level:** —

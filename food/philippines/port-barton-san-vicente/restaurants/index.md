@@ -1,37 +1,34 @@
 ---
 layout: default
 section: food
-city: barton
+city: port-barton-san-vicente
 category: restaurants
-slug: restaurants
 title: Restaurants
 subtitle: Restaurants in Port Barton and San Vicente
 ---
 
-# Restaurants in Port Barton & San Vicente
-
-A selection of restaurants in Port Barton and San Vicente, northern Palawan.
+# Restaurants
 
 ---
 
 ## Kitzmon Food House
-*San Vicente Â· Filipino, Vietnamese-Filipino*
-Cleaner and better than your average provincial food house â€” good variety of Filipino favourites including the local chaolong beef stew, at very reasonable prices.
-â†’ [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/)
+*Port Barton, San Vicente · Filipino*
+Much neater and cleaner than your average provincial Foodhaus — the best food option outside the resorts for many miles.
+→ [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/)
 
 ---
 
 ## Ayette's Bamboo Balai
-*Port Barton Â· Filipino, International*
-A Port Barton institution since 2009 â€” still a great place to eat, and they serve the cheapest beer in Port Barton.
-â†’ [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/ayettes-bamboo-balai/)
+*Port Barton, San Vicente · Filipino, International*
+A Port Barton stalwart since 2009 — good quality food and the cheapest beer in Port Barton.
+→ [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/ayettes-bamboo-balai/)
 
 ---
 
 ## Master Chaolong
-*Port Barton Â· Vietnamese-Filipino*
-Good food â€” big portions of tasty beef noodles and banh mi-style sandwiches â€” let down by uninterested staff and basic surroundings.
-â†’ [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/master-chaolong/)
+*Port Barton, San Vicente · Vietnamese, Filipino*
+Good Vietnamese-Filipino beef noodles and banh mi, but uninterested staff and questionable cleanliness hold it back.
+→ [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/master-chaolong/)
 
 ---
 

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "The Swiss Deli & Restaurant"
-subtitle: "Davao Â· Restaurant"
+title: The Swiss Deli & Restaurant
+subtitle: Matina, Davao City · European
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 30 May 2021 Â· â€”
+The Swiss Deli is an absolute godsend in Davao — their deli shop is the only place where you can find quality European delicacies in this part of the world, some at a fraction of the European price. The restaurant food is simple, unpretentious pan-European fare: nothing outstanding but inexpensive, tasty and good value. We tried the ravioli, a nice seafood risotto, fish terrine and very tasty French onion soup — all with a bottle of Chilean white for less than 1500 Php.
 
-La Cima, 1 Gen. Douglas MacArthur Hwy, Talomo, Davao City, 8000 Davao del Sur, Philippines
+## Ratings
 
-An absolute godsend in Davao â€” the deli shop is the only place where you can find quality European and local delicacies in this part of the world, some at a fraction of European prices. The restaurant itself serves simple, unpretentious pan-European food: nothing outstanding but inexpensive, tasty, and good value. A seafood risotto, fish terrine and French onion soup with a bottle of Chilean white came to less than 1,500 Php. Wine purchased at the deli shop can be consumed at the restaurant for a small corkage fee.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Swiss%20Deli%20and%20Restaurant%2C%20La%20Cima%2C%20Gen.%20Douglas%20MacArthur%20Hwy%2C%20Talomo%2C%20Davao%20City%2C%208000%20Davao%20del%20Sur%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** European, Deli
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Swiss+Deli+Restaurant+Matina+Davao+City)
+🍽️ **Cuisine:** European
+💰 **Price level:** —

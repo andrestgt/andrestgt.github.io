@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Mongkok"
-subtitle: "Makati Â· Restaurant"
+title: Mongkok
+subtitle: Makati · Chinese, Dim Sum
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 03 Jul 2019 Â· â€”
+For a cheap franchise, Mongkok serves surprisingly decent dim sum. It's obviously not destination dining, but if you suddenly find yourself craving dumplings and nothing better is nearby, this place does the job well enough.
 
-Makati, Metro Manila, Philippines
+## Ratings
 
-For a cheap franchise, Mongkok serves surprisingly decent dim sum. It is obviously not destination dining, but if you suddenly crave dumplings and nothing better is nearby, this place does the job well enough.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mongkok%20Dimsum%2C%20Makati%2C%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Chinese, Dim Sum
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mongkok+Dim+Sum+Makati+Manila)
+🍽️ **Cuisine:** Chinese, Dim Sum
+💰 **Price level:** —

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Patron Mexican Restobar"
-subtitle: "El Nido Â· Restaurant"
+title: Patron Mexican Restobar
+subtitle: El Nido Town · Mexican
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 26 Mar 2025 Â· â‚±400â€“600
+I certainly didn't expect to find authentic Mexican food in El Nido of all places, but there's a reason why this place is extremely popular and usually packed. The real draw is the cheerful atmosphere, cheap long drinks, and — by El Nido standards — reasonably priced food, even if the portions are on the smaller side. All in all, a thumbs up in a town where good value food is hard to come by.
 
-Hama St, El Nido, 5313 Palawan, Philippines
+## Ratings
 
-I did not expect to find authentic Mexican food in El Nido, but there is a reason why this place is extremely popular and usually packed. The real draw is the cheerful atmosphere, cheap long drinks, and â€” by El Nido standards â€” reasonably priced food, even if the portions are on the smaller side. All in all a thumbs up in a town where good value food is hard to come by.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 10/10  |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Patron%20Mexican%20Restobar%2C%20Hama%20St%2C%20El%20Nido%2C%205313%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Mexican
-
-ðŸ’° **Price level:** Approximately â‚±400â€“600 for two people (average meal, no drinks)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Patron+Mexican+Restobar+El+Nido+Palawan)
+🍽️ **Cuisine:** Mexican
+💰 **Price level:** ₱400–600 per person

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Cafe Cubana"
-subtitle: "Makati Â· Bar"
+title: Cafe Cubana
+subtitle: P Burgos St, Makati · Bar
 ---
 
-â˜…â˜†â˜†â˜†â˜† Â· 03 Jul 2019 Â· â€”
+Cafe Cubana is an absolute rip-off. Prices are high even by Makati standards, yet the cocktails taste aggressively artificial. The mojito arrived with old, unpleasant mint leaves and was genuinely awful. There are plenty of far better bars nearby, so there is really no reason to come here.
 
-5010 P Burgos St, Makati, 1210 Metro Manila, Philippines
+## Ratings
 
-An absolute rip-off. Prices are high even by Makati standards, yet the cocktails taste aggressively artificial. The mojito arrived with old, unpleasant mint leaves and was genuinely awful. There are plenty of far better bars nearby, so there is really no reason to come here.
+| Category        | Score  |
+|-----------------|--------|
+| Bar food        | 2/10   |
+| Service         | 2/10   |
+| Value for money | 2/10   |
+| Atmosphere      | 2/10   |
+| Overall         | 2/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe%20Cubana%2C%205010%20P%20Burgos%20St%2C%20Makati%2C%201210%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Bar
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Cubana+P+Burgos+St+Makati)
+🍺 **Type:** Bar
+💰 **Price level:** —

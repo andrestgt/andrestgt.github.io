@@ -1,32 +1,26 @@
 ---
 layout: default
 section: food
-city: barton
+city: port-barton-san-vicente
 category: cafes
-slug: cafes
-title: CafÃ©s
-subtitle: CafÃ©s in Port Barton and San Vicente
+title: Cafés
+subtitle: Cafés in Port Barton and San Vicente
 ---
 
-# CafÃ©s in Port Barton & San Vicente
-
-A selection of cafÃ©s in Port Barton and San Vicente, northern Palawan.
+# Cafés
 
 ---
 
-## Milano CafÃ©
-*Port Barton Â· CafÃ©*
-Very good Italian coffee in a modern, fan-cooled setting â€” prices are on par with Manila, but that is the Port Barton reality.
-â†’ [Read the full review](/food/philippines/port-barton-san-vicente/cafes/milano-cafe/)
+## Milano Café
+*San Vicente Town · Café*
+Very good Italian coffee in a modern fan-cooled setting — milk quality could be better, but still the best café in the area.
+→ [Read the full review](/food/philippines/port-barton-san-vicente/cafes/milano-cafe/)
 
 ---
 
 ## Kape San Vicente
-*San Vicente Â· CafÃ©*
-Great to find something resembling a modern coffee shop outside the tourist centres â€” prices are about half of Port Barton's.
-â†’ [Read the full review](/food/philippines/port-barton-san-vicente/cafes/kape-san-vicente/)
+*San Vicente Town · Café*
+Great to find a modern coffee shop with an espresso machine here — prices are half of Port Barton's, worth a stop heading north.
+→ [Read the full review](/food/philippines/port-barton-san-vicente/cafes/kape-san-vicente/)
 
 ---
-
-**Price level note:**
-Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

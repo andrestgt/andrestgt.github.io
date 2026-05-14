@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Casablanca Restaurant"
-subtitle: "Dumaguete Â· Restaurant"
+title: Casablanca Restaurant
+subtitle: Rizal Boulevard, Dumaguete · International
 ---
 
-â˜…â˜…â˜…â˜…â˜… Â· 15 Apr 2022 Â· â€”
+I have been frequenting Casablanca for more than a decade now and never had a bad meal. The Austrian owner is a proper restaurateur and knows his business. It's hard to find consistently good food in the provinces in the Philippines and Casablanca is a godsend. Casablanca is in a prime location on Rizal Blvd and on nice days you can enjoy the view over the deep blue ocean and Siquijor. The proprietor is also serious about wines, offering a decent collection of reasonably priced, good value bottles. Casablanca serves very eclectic international fare, from seared tuna to hearty Central European meat platters. Their lunch deals are incredible — 270 Php buys you a soup, a salad, a beer and a generous main course. Casablanca is a must visit for everyone who likes wine and good food when in the Visayas.
 
-Rizal Boulevard, Corner Noblefranca St, Dumaguete City, 6200 Negros Oriental, Philippines
+## Ratings
 
-A restaurant I have been frequenting for more than a decade and never had a bad meal. The Austrian owner is a proper restaurateur and knows his business. It is hard to find consistently good food in the provinces of the Philippines and Casablanca is a heaven sent. In a prime location on Rizal Blvd with views over the ocean to Siquijor, they serve very eclectic international fare â€” from seared tuna to hearty Central European meat platters â€” and the owner takes wine seriously, offering a decent collection at reasonable prices. Their lunch deals are incredible: 270 Php buys you a soup, salad, beer, and generous main course. An absolute must visit for everyone who likes wine and good food when in the Visayas.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Casablanca%20Restaurant%2C%20Rizal%20Boulevard%2C%20Corner%20Noblefranca%20St%2C%20Dumaguete%20City%2C%206200%20Negros%20Oriental%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** International, European
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Casablanca+Restaurant+Rizal+Boulevard+Dumaguete+City)
+🍽️ **Cuisine:** International, European
+💰 **Price level:** —

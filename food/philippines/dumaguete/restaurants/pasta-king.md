@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Pasta King Cafe di Roma"
-subtitle: "Dumaguete Â· Restaurant"
+title: Pasta King Cafe di Roma
+subtitle: Dumaguete City · Italian
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 02 Jul 2019 Â· â€”
+Everything here is reasonably decent, from the pizza to the cakes and coffee, but nothing really stands out. The coffee may actually be among the better ones in Dumaguete, which admittedly is not saying much. Prices are fair, though the café itself is not especially comfortable for lingering.
 
-South Sea Road, Fatima Village, Dumaguete, Negros Oriental, Philippines
+## Ratings
 
-Everything here is reasonably decent â€” pizza, cakes, and coffee â€” but nothing really stands out. The coffee may actually be among the better ones in Dumaguete, which admittedly is not saying much. Prices are fair, though the cafÃ© itself is not especially comfortable for lingering.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pasta%20King%20Cafe%20di%20Roma%2C%20South%20Sea%20Road%2C%20Fatima%20Village%2C%20Dumaguete%2C%20Negros%20Oriental%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Italian
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pasta+King+Cafe+di+Roma+Dumaguete+City)
+🍽️ **Cuisine:** Italian
+💰 **Price level:** —

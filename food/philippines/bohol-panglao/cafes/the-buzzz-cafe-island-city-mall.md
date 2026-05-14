@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "The Buzzz CafÃ© â€“ Island City Mall"
-subtitle: "Tagbilaran Â· CafÃ©"
+title: The Buzzz Café – Island City Mall
+subtitle: Tagbilaran City · Café, Filipino
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 26 Jun 2019 Â· â€”
+Some dishes are a little too sweet in typical Filipino fashion, but overall the bistro food here is surprisingly good. Prices are on the higher side for Tagbilaran, with most dishes around 200–300 Php, though the quality largely justifies it.
 
-Island City Mall, Rajah Sikatuna Ave, Dakabayan sa Tagbilaran, Bohol, Philippines
+## Ratings
 
-Some dishes are a little too sweet in typical Filipino fashion, but overall the bistro food here is surprisingly good. Prices are on the higher side for Tagbilaran, with most dishes around 200â€“300 Php, though the quality largely justifies it.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Buzzz%20Cafe%20Island%20City%20Mall%2C%20Rajah%20Sikatuna%20Ave%2C%20Tagbilaran%2C%20Bohol%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©, Filipino
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Buzzz+Cafe+Island+City+Mall+Tagbilaran)
+☕ **Type:** Café, Filipino
+💰 **Price level:** ₱200–300 per person

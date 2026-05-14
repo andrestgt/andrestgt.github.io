@@ -3,135 +3,129 @@ layout: default
 section: food
 city: manila
 category: cafes
-slug: cafes
-title: CafÃ©s
-subtitle: CafÃ©s in Manila
+title: Cafés
+subtitle: Cafés in Metro Manila
 ---
 
-# CafÃ©s in Manila
-
-Covers BGC / Taguig, Makati, Malate, Pasay, and Quezon City.
+# Cafés
 
 ---
 
-## Wildflour Restaurant â€“ Rada, Legazpi Village
-*Makati Â· Bakery, CafÃ©*
-More spacious and quieter than the BGC branch â€” European-level quality and pricing, with probably the best bread and pastries in Manila.
-â†’ [Read the full review](/food/philippines/manila/cafes/wildflour-rada/)
+## Wildflour – Legazpi Village
+*Legazpi Village, Makati · Café, Bistro*
+More spacious than the other branches — European-level quality at European-level prices, with the best bread and pastries in the country.
+→ [Read the full review](/food/philippines/manila/cafes/wildflour-rada/)
 
 ---
 
-## Toby's Estate Coffee Roasters â€“ BGC
-*BGC, Taguig Â· CafÃ©*
-Genuinely excellent coffee at specialty prices (147 Php for a cappuccino) â€” comfortable seats with power sockets, no wifi.
-â†’ [Read the full review](/food/philippines/manila/cafes/tobys-estate-bgc/)
+## Toby's Estate Coffee Roasters – BGC
+*BGC, Taguig · Specialty Coffee*
+Genuinely excellent coffee at 147 Php a cappuccino — comfortable seats with sockets, though no wifi feels oddly stingy.
+→ [Read the full review](/food/philippines/manila/cafes/tobys-estate-bgc/)
 
 ---
 
-## PAUL Boulangerie et Patisserie
-*BGC, Taguig Â· Bakery, CafÃ©*
-Expensive by Manila standards, but the quality genuinely matches French bakeries â€” the Flute Charlemagne is exceptional.
-â†’ [Read the full review](/food/philippines/manila/cafes/paul-boulangerie/)
+## Single Origin – Bonifacio High Street
+*BGC, Taguig · Specialty Coffee*
+Very good coffee these days at 160 Php for a flat white — a reliable specialty coffee destination in BGC.
+→ [Read the full review](/food/philippines/manila/cafes/single-origin-bgc/)
 
 ---
 
-## Single Origin â€“ Rockwell
-*Makati Â· CafÃ©*
-Better than the BGC branch â€” well-prepared cappuccino and a nicely crisp flatbread, though prices are high even for Makati.
-â†’ [Read the full review](/food/philippines/manila/cafes/single-origin-rockwell/)
+## Single Origin – Rockwell
+*Rockwell, Makati · Specialty Coffee*
+Better than the BGC branch — very well prepared cappuccino with nicely crisp flatbread.
+→ [Read the full review](/food/philippines/manila/cafes/single-origin-rockwell/)
 
 ---
 
 ## Refinery
-*Makati Â· CafÃ©*
-Probably the best cappuccino in the area â€” attractive and comfortable, but expensive. The salmon Benedict is very well done.
-â†’ [Read the full review](/food/philippines/manila/cafes/refinery/)
-
----
-
-## Cafe Mary Grace â€“ NAIA Terminal 3
-*Pasay Â· CafÃ©, Filipino*
-One of the more comfortable airport cafÃ©s around â€” decent cappuccino, surprisingly good food, and reasonable prices for an airport.
-â†’ [Read the full review](/food/philippines/manila/cafes/cafe-mary-grace-naia/)
+*Rockwell, Makati · Café*
+Probably the best cappuccino in the area — attractive and comfortable, if expensive, with a well-executed salmon Benedict.
+→ [Read the full review](/food/philippines/manila/cafes/refinery/)
 
 ---
 
 ## Lartizan
-*BGC, Taguig Â· CafÃ©, Bakery*
-Ornate and theatrical, but not as expensive as it looks â€” very good chicken foie gras pate and high-quality bread. Avoid the pretzels.
-â†’ [Read the full review](/food/philippines/manila/cafes/lartizan/)
+*Serendra, BGC · Café*
+Theatrical rococo aesthetic with very good chicken foie gras pâté, good coffee, and high-quality bread.
+→ [Read the full review](/food/philippines/manila/cafes/lartizan/)
 
 ---
 
-## Single Origin â€“ Bonifacio High Street
-*BGC, Taguig Â· CafÃ©*
-Good specialty coffee at 160 Php for a flat white â€” a reliable destination in BGC.
-â†’ [Read the full review](/food/philippines/manila/cafes/single-origin-bgc/)
+## PAUL Boulangerie et Patisserie
+*BGC, Taguig · Bakery, Café*
+Extremely expensive by Manila standards but the quality genuinely matches France — the Flûte Charlemagne is excellent.
+→ [Read the full review](/food/philippines/manila/cafes/paul-boulangerie/)
 
 ---
 
-## Eric Kayser Boulangerie â€“ Rockwell
-*Makati Â· Bakery, CafÃ©*
-Good bread and pastries but heavily overpriced compared to other Eric Kayser branches in the region.
-â†’ [Read the full review](/food/philippines/manila/cafes/eric-kayser/)
+## Café Mary Grace – NAIA Terminal 3
+*NAIA Terminal 3, Pasay · Café*
+One of the more comfortable airport cafés — surprisingly decent food, acceptable cappuccino, and reasonable airport prices.
+→ [Read the full review](/food/philippines/manila/cafes/cafe-mary-grace-naia/)
 
 ---
 
-## Kuppa Roastery & Cafe
-*BGC, Taguig Â· CafÃ©*
-Good beans and competent technique let down by stale-tasting milk â€” a shame, as the food is excellent.
-â†’ [Read the full review](/food/philippines/manila/cafes/kuppa-roastery/)
+## Kuppa Roastery & Café
+*BGC, Taguig · Specialty Coffee*
+Good espresso beans and competent preparation let down by unpleasantly stale-tasting milk.
+→ [Read the full review](/food/philippines/manila/cafes/kuppa-roastery/)
 
 ---
 
 ## UCC Mentore Coffee + Bar
-*BGC, Taguig Â· CafÃ©*
-Expensive but noticeably better than the Starbucks downstairs â€” at least they have wifi.
-â†’ [Read the full review](/food/philippines/manila/cafes/ucc-mentore/)
-
----
-
-## Costa Coffee â€“ Robinsons Place Manila
-*Malate, Manila Â· CafÃ©*
-Spacious and comfortable but inconsistent â€” hit-and-miss coffee quality at high prices, a recurring problem in the Philippines.
-â†’ [Read the full review](/food/philippines/manila/cafes/costa-coffee-manila/)
+*SM Aura, BGC · Café*
+Definitely expensive but noticeably better than Starbucks — wifi gives it an edge over quite a few cafés in BGC.
+→ [Read the full review](/food/philippines/manila/cafes/ucc-mentore/)
 
 ---
 
 ## Eight Coffee Bar by UCC
-*Makati Â· CafÃ©*
-Very good food (especially the kare-kare) undone by disappointing coffee and UHT milk at a price level that demands better.
-â†’ [Read the full review](/food/philippines/manila/cafes/eight-coffee-bar/)
+*Rockwell, Makati · Café*
+Very good kare-kare with proper oxtail, but the coffee is disappointing — sloppily prepared drinks at expensive prices.
+→ [Read the full review](/food/philippines/manila/cafes/eight-coffee-bar/)
 
 ---
 
-## Commune CafÃ© + Bar + Roastery
-*Makati Â· CafÃ©*
-Looks great, tastes bad â€” shockingly poor coffee preparation despite all the trappings of a serious specialty cafÃ©.
-â†’ [Read the full review](/food/philippines/manila/cafes/commune-cafe/)
+## Eric Kayser Boulangerie – Rockwell
+*Rockwell, Makati · Bakery, Café*
+Good bread and pastries but heavily overpriced compared to other Eric Kayser branches around the region.
+→ [Read the full review](/food/philippines/manila/cafes/eric-kayser/)
 
 ---
 
-## Starbucks One Rockwell
-*Makati Â· CafÃ©*
-Possibly the worst Starbucks cappuccino anywhere â€” overheated, no coffee flavour, and hot enough to burn lips.
-â†’ [Read the full review](/food/philippines/manila/cafes/starbucks-rockwell/)
+## Costa Coffee – Robinsons Place
+*Malate, Manila · Café*
+Very spacious and comfortable but the coffee quality at 160 Php a flat white is rather hit and miss.
+→ [Read the full review](/food/philippines/manila/cafes/costa-coffee-manila/)
 
 ---
 
-## UCC Park CafÃ©
-*Makati Â· CafÃ©*
-Dreadful service and mediocre coffee at over 160 Php a cappuccino â€” easily the worst UCC branch visited.
-â†’ [Read the full review](/food/philippines/manila/cafes/ucc-park-cafe/)
+## Commune Café + Bar + Roastery
+*Poblacion, Makati · Café*
+Looks like it should be excellent but the cappuccino was so overheated the spoon was practically steaming.
+→ [Read the full review](/food/philippines/manila/cafes/commune-cafe/)
 
 ---
 
-## Starbucks â€“ SM North EDSA Annex
-*Quezon City Â· CafÃ©*
-Few comfortable seats, no WiFi, and poorly prepared coffee â€” one of the weaker Starbucks branches encountered.
-â†’ [Read the full review](/food/philippines/manila/cafes/starbucks-sm-north/)
+## Starbucks – SM North EDSA Annex
+*SM North EDSA, Quezon City · Café*
+Very few comfortable seats, no WiFi, and poorly prepared coffee — one of the weaker Starbucks branches around.
+→ [Read the full review](/food/philippines/manila/cafes/starbucks-sm-north/)
 
 ---
 
-**Price level note:**
-Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
+## UCC Park Café
+*Ayala Center, Makati · Café*
+Dreadful service and bad coffee at over 160 Php — easily the worst UCC branch visited.
+→ [Read the full review](/food/philippines/manila/cafes/ucc-park-cafe/)
+
+---
+
+## Starbucks – One Rockwell
+*Rockwell, Makati · Café*
+Possibly the worst Starbucks cappuccino ever — entirely overheated milk with no coffee flavour and hot enough to burn lips.
+→ [Read the full review](/food/philippines/manila/cafes/starbucks-rockwell/)
+
+---

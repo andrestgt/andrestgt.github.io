@@ -3,30 +3,24 @@ layout: default
 section: food
 city: puerto-princesa
 category: cafes
-slug: cafes
-title: CafÃ©s
-subtitle: CafÃ©s in Puerto Princesa
+title: Cafés
+subtitle: Cafés in Puerto Princesa City
 ---
 
-# CafÃ©s in Puerto Princesa
-
-A selection of cafÃ©s in Puerto Princesa City.
+# Cafés
 
 ---
 
 ## Capheinated
-*Puerto Princesa Â· Vietnamese Coffee*
-Very authentic Vietnamese ca phe phin â€” brutally strong, properly prepared. Limited seating and no WiFi but air-conditioned.
-â†’ [Read the full review](/food/philippines/puerto-princesa/cafes/capheinated/)
+*Puerto Princesa City · Café*
+Very authentic Vietnamese cà phê phin — the iced black coffee is strong enough to curl your toenails.
+→ [Read the full review](/food/philippines/puerto-princesa/cafes/capheinated/)
 
 ---
 
 ## Vinyl Cafe Palawan
-*Rizal Ave, Puerto Princesa Â· CafÃ©*
-A beautiful, peaceful courtyard oasis just off Rizal Ave with working WiFi â€” recommended with a caveat about their use of UHT milk.
-â†’ [Read the full review](/food/philippines/puerto-princesa/cafes/vinyl-cafe/)
+*Rizal Ave, Puerto Princesa · Café*
+Peaceful courtyard oasis just off noisy Rizal Ave, but the use of UHT milk in the flat white is a serious disappointment.
+→ [Read the full review](/food/philippines/puerto-princesa/cafes/vinyl-cafe/)
 
 ---
-
-**Price level note:**
-Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

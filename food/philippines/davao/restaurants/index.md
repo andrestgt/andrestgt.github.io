@@ -3,77 +3,74 @@ layout: default
 section: food
 city: davao
 category: restaurants
-slug: restaurants
 title: Restaurants
-subtitle: Restaurants in Davao
+subtitle: Restaurants in Davao City and Samal Island
 ---
 
-# Restaurants in Davao
-
-Covers Davao City and nearby Samal Island.
-
----
-
-## Claude's Le Cafe de Ville
-*Poblacion, Davao City Â· French*
-A magnificent restaurant in a heritage building serving authentic, classy French food â€” a genuinely surprising find in Davao.
-â†’ [Read the full review](/food/philippines/davao/restaurants/claudes-le-cafe-de-ville/)
+# Restaurants
 
 ---
 
-## Bahay Cubo Restaurant and Bar
-*Samal Island Â· International, Filipino*
-A hidden gem on Samal Island â€” open weekends only, no menu, but whatever Alphonse serves is exceptional. Go to Fernandez Beach and follow the signs.
-â†’ [Read the full review](/food/philippines/davao/restaurants/bahay-cubo/)
+## Claude's Le Café de Ville
+*Poblacion, Davao City · French*
+A magnificent restaurant in an old mansion — authentic, classy French food that is a complete surprise to find in Davao.
+→ [Read the full review](/food/philippines/davao/restaurants/claudes-le-cafe-de-ville/)
 
 ---
 
-## Belito's
-*Bajada, Davao City Â· Spanish-Filipino, Wine Bar*
-Rustic garden setting, but the Spanish-Filipino food is some of the best in Davao â€” outstanding lengua, squid in its ink, and sublime durian ice cream.
-â†’ [Read the full review](/food/philippines/davao/restaurants/belitos/)
+## Bahay Cubo Restaurant
+*Samal Island, Davao del Norte · Filipino*
+A hidden gem only open on weekends — outstanding fresh food and good value wines in a simple Samal Island setting.
+→ [Read the full review](/food/philippines/davao/restaurants/bahay-cubo/)
 
 ---
 
-## Roadhouse CafÃ©
-*Ecoland, SM City Davao Â· Filipino, American*
-The Filipino take on an American diner â€” all the dishes were impeccable, and this is a great showcase for what Filipino cuisine can be.
-â†’ [Read the full review](/food/philippines/davao/restaurants/roadhouse-cafe/)
+## Belito's Vineyard
+*Bajada, Davao City · Spanish, Filipino*
+Rustic garden restaurant with excellent Spanish-Filipino food, quality wines at rock-bottom prices, and a wonderful atmosphere.
+→ [Read the full review](/food/philippines/davao/restaurants/belitos/)
+
+---
+
+## Roadhouse Café
+*SM City Ecoland, Davao City · Filipino*
+Filipino-American diner serving honest local food in big portions — all dishes we tried were impeccable.
+→ [Read the full review](/food/philippines/davao/restaurants/roadhouse-cafe/)
 
 ---
 
 ## The Swiss Deli & Restaurant
-*Talomo, Davao City Â· European, Deli*
-The deli shop alone makes the trip worthwhile â€” the only place in the region for quality European produce â€” and the restaurant is solid and excellent value.
-â†’ [Read the full review](/food/philippines/davao/restaurants/swiss-deli/)
+*Matina, Davao City · European*
+A godsend in Davao — simple European food at good prices and the only place to find quality imported deli products nearby.
+→ [Read the full review](/food/philippines/davao/restaurants/swiss-deli/)
 
 ---
 
 ## Tiny Kitchen & Dulce Vida
-*Poblacion, Davao City Â· Spanish-Filipino*
-Cramped and cafeteria-like atmosphere, but the Spanish-Filipino food â€” calamares rellenos, callos, lengua estofado â€” is genuinely excellent.
-â†’ [Read the full review](/food/philippines/davao/restaurants/tiny-kitchen/)
+*Poblacion District, Davao City · Spanish, Filipino*
+Terrible setting but delicious Spanish-Filipino food — calamares en su tinta, callos, and lengua are all excellent.
+→ [Read the full review](/food/philippines/davao/restaurants/tiny-kitchen/)
 
 ---
 
 ## Bulgogi Brothers Korean BBQ
-*SM Lanang Premier Â· Korean BBQ*
-A reliable Korean franchise â€” good food, generous portions, and reasonable prices in a city where Korean options are welcome.
-â†’ [Read the full review](/food/philippines/davao/restaurants/bulgogi-brothers/)
-
----
-
-## The White House
-*Buhangin, Davao City Â· Japanese-Mediterranean Fusion*
-Beautiful heritage building, interesting fusion food, but service and consistency have room to grow â€” a fine dining aspiration not yet fully realised.
-â†’ [Read the full review](/food/philippines/davao/restaurants/the-white-house/)
+*SM Lanang, Davao City · Korean*
+A reliable Korean franchise — good food, generous portions, and reasonable prices in a city that welcomes the option.
+→ [Read the full review](/food/philippines/davao/restaurants/bulgogi-brothers/)
 
 ---
 
 ## Nonki Japanese Restaurant
-*Poblacion, Davao City Â· Japanese*
-The most popular Japanese restaurant in Davao, but quality is rather average for the prices charged.
-â†’ [Read the full review](/food/philippines/davao/restaurants/nonki-japanese/)
+*Poblacion District, Davao City · Japanese*
+Probably the most popular Japanese restaurant in Davao, but the quality is rather average for the prices charged.
+→ [Read the full review](/food/philippines/davao/restaurants/nonki-japanese/)
+
+---
+
+## The White House
+*Buhangin, Davao City · Japanese, Mediterranean*
+Beautiful heritage building with a talented young chef, but service and consistency still need significant improvement.
+→ [Read the full review](/food/philippines/davao/restaurants/the-white-house/)
 
 ---
 

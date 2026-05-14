@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Andy's Golden Grill"
-subtitle: "Dumaguete Â· Restaurant"
+title: Andy's Golden Grill
+subtitle: Dumaguete City · European, International
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 23 Aug 2020 Â· â€”
+Formerly Andy's, with very good proper European home cooked dishes in a pleasant candlelit atmosphere. There's a good selection of food and drinks. Wines are reasonably priced. Dinner here is not inexpensive, but with all the imported ingredients it's good value overall. One of the better places in Dumaguete.
 
-Dumaguete, Negros Oriental, Philippines
+## Ratings
 
-Very good proper European home-cooked dishes in a pleasant candlelit atmosphere. A good selection of food and drinks with wines at reasonable prices. Dinner here is not inexpensive, but with all the imported ingredients it is good value overall. One of the better places in Dumaguete.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Andy%27s%20Golden%20Grill%2C%20Dumaguete%2C%20Negros%20Oriental%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** European, International
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Andy%27s+Golden+Grill+Dumaguete+City)
+🍽️ **Cuisine:** European, International
+💰 **Price level:** —

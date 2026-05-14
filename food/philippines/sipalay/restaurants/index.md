@@ -3,28 +3,25 @@ layout: default
 section: food
 city: sipalay
 category: restaurants
-slug: restaurants
 title: Restaurants
-subtitle: Restaurants in Sipalay and Sugar Beach
+subtitle: Restaurants in Sipalay
 ---
 
-# Restaurants in Sipalay (Sugar Beach)
-
-A selection of restaurants in Sipalay and Sugar Beach, Negros Occidental.
+# Restaurants
 
 ---
 
 ## Driftwood Village Resort Restaurant
-*Sugar Beach, Sipalay Â· International, Thai, Filipino*
-Great food at the end of the world â€” Thai, Filipino, and Western. Worth visiting even if you are not staying at the resort, and the beach alone justifies the trip.
-â†’ [Read the full review](/food/philippines/sipalay/restaurants/driftwood-village-resort/)
+*Sugar Beach, Sipalay · Filipino, International*
+Great food at the end of the world — Thai, Filipino and Western at fair prices, worth going even if you don't stay.
+→ [Read the full review](/food/philippines/sipalay/restaurants/driftwood-village-resort/)
 
 ---
 
 ## The Mixed Food Restaurant
-*Sipalay Â· International*
-Laid-back expat-run beach shack with cheap food and cold beer â€” the green fish curry was a pleasant surprise.
-â†’ [Read the full review](/food/philippines/sipalay/restaurants/the-mixed-food-restaurant/)
+*Sipalay City · International*
+Laid-back expat-run beach shack with cheap food, cold beer, and surprisingly decent green fish curry.
+→ [Read the full review](/food/philippines/sipalay/restaurants/the-mixed-food-restaurant/)
 
 ---
 

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Eight Coffee Bar by UCC"
-subtitle: "Makati Â· CafÃ©"
+title: Eight Coffee Bar by UCC
+subtitle: Rockwell, Makati · Café
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 26 Jun 2019 Â· â€”
+The food at Eight Coffee Bar is actually very good, especially the kare-kare with proper oxtail. The coffee, unfortunately, is disappointing. Considering how attractive and expensive the place is, the sloppily prepared drinks and cheap-tasting UHT milk are difficult to excuse.
 
-8 Rockwell Dr, Makati, 1209 Metro Manila, Philippines
+## Ratings
 
-The food is actually very good, especially the kare-kare with proper oxtail. The coffee, unfortunately, is disappointing. Considering how attractive and expensive the place is, the sloppily prepared drinks and cheap-tasting UHT milk are difficult to excuse.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Eight%20Coffee%20Bar%20by%20UCC%2C%208%20Rockwell%20Dr%2C%20Makati%2C%201209%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Eight+Coffee+Bar+UCC+Rockwell+Makati)
+☕ **Type:** Café
+💰 **Price level:** —

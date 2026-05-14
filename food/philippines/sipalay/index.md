@@ -3,13 +3,11 @@ layout: default
 section: food
 country: philippines
 city: sipalay
-title: Sipalay â€“ Food & Drink
-subtitle: Restaurants and beach bars at Sugar Beach, Sipalay
+title: Sipalay – Food & Drink
+subtitle: Restaurants in Sipalay, Negros Occidental
 ---
 
-# Sipalay (Sugar Beach)
-
-Reviews grouped by category.
+# Sipalay
 
 ## Restaurants
 - [Restaurants](/food/philippines/sipalay/restaurants/)

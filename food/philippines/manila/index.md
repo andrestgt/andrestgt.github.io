@@ -4,15 +4,12 @@ section: food
 country: philippines
 city: manila
 title: Manila – Food & Drink
-subtitle: Bars, neighbourhood eateries, and restaurants in Manila
+subtitle: Restaurants, cafés, and bars in Metro Manila
 ---
 
 # Manila
 
-Reviews grouped by category.
-
-## Street food & basic eateries
-- [Street food & basic eateries](/food/philippines/manila/street-food/)
+Reviews grouped by category. Covers BGC, Makati, Malate, Quezon City, Pasay, and San Juan.
 
 ## Restaurants
 - [Restaurants](/food/philippines/manila/restaurants/)
@@ -22,4 +19,3 @@ Reviews grouped by category.
 
 ## Bars & pubs
 - [Bars & pubs](/food/philippines/manila/bars-pubs/)
-

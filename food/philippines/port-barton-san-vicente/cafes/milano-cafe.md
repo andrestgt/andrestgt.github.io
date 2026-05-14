@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Milano CafÃ©"
-subtitle: "Port Barton Â· CafÃ©"
+title: Milano Café
+subtitle: San Vicente Town · Café
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 18 Mar 2025 Â· â€”
+Very good Italian coffee in a modern, fan-cooled setting. The cappuccino is well prepared, though the milk quality isn't the best — not really their fault, as even the "fresh" milk in Palawan has that distinct UHT aftertaste. Prices are on par with Europe or Manila, but then again, Port Barton is generally expensive.
 
-Quezon Street, San Vicente, Palawan, Philippines
+## Ratings
 
-Very good Italian coffee in a modern, fan-cooled setting. The cappuccino is well prepared, though the milk quality is not the best â€” even the fresh milk in Palawan has that distinct UHT aftertaste. Prices are on par with Europe or Manila, but then again Port Barton is generally expensive.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Milano%20Cafe%2C%20Quezon%20Street%2C%20San%20Vicente%2C%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Milano+Cafe+San+Vicente+Palawan)
+☕ **Type:** Café
+💰 **Price level:** —

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Sumo Sam"
-subtitle: "Cebu City Â· Restaurant"
+title: Sumo Sam
+subtitle: Ayala Center, Cebu City · Japanese
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 03 Jul 2019 Â· â€”
+Sumo Sam does perfectly decent sushi and Japanese comfort food. The sashimi was fresh enough, the rolls were large and tasty, and overall the quality is solid without really standing out. Slightly expensive for what you get, perhaps, but not a bad option at Ayala.
 
-Ground Floor, The Terraces, Ayala Center Cebu, Cebu City, Cebu, Philippines
+## Ratings
 
-Does perfectly decent sushi and Japanese comfort food. The sashimi was fresh enough, the rolls large and tasty, and overall quality is solid without really standing out. Slightly expensive for what you get, but not a bad option at Ayala.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sumo%20Sam%2C%20The%20Terraces%2C%20Ayala%20Center%20Cebu%2C%20Cebu%20City%2C%20Cebu%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Japanese
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sumo+Sam+Ayala+Center+Cebu+City)
+🍽️ **Cuisine:** Japanese
+💰 **Price level:** —

@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "UCC Mentore Coffee + Bar"
-subtitle: "BGC, Manila Â· CafÃ©"
+title: UCC Mentore Coffee + Bar
+subtitle: SM Aura, BGC · Café
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 03 Jul 2019 Â· â€”
+UCC Mentore is definitely expensive, but at least the coffee is noticeably better than the Starbucks downstairs. They also have wifi, which already gives them an advantage over quite a few cafés in BGC.
 
-Second Floor, SM Aura Premier, Taguig, Metro Manila, Philippines
+## Ratings
 
-Definitely expensive, but at least the coffee is noticeably better than the Starbucks downstairs. They also have wifi, which already gives them an advantage over quite a few cafÃ©s in BGC.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=UCC%20Mentore%20Coffee%20Bar%2C%20SM%20Aura%20Premier%2C%20Taguig%2C%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=UCC+Mentore+Coffee+Bar+SM+Aura+BGC+Taguig)
+☕ **Type:** Café
+💰 **Price level:** —

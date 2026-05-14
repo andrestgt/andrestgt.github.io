@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Lorenzo's Way"
-subtitle: "BGC, Manila Â· Restaurant"
+title: Lorenzo's Way
+subtitle: BGC, Taguig · Filipino
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 02 Jul 2019 Â· â€”
+Lorenzo's Way has been serving very solid upscale Filipino food for years and remains deservedly popular. Prices are high, but the quality is there. The lengua was excellent, although the callos leaned a little too salty for my taste. Best visited outside peak hours when the atmosphere is more relaxed.
 
-2nd Level, C2, 7th Ave, Taguig, Metro Manila, Philippines
+## Ratings
 
-Has been serving very solid upscale Filipino food for years and remains deservedly popular. Prices are high, but the quality is there. The lengua was excellent, although the callos leaned a little too salty. Best visited outside peak hours when the atmosphere is more relaxed.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lorenzo%27s%20Way%2C%207th%20Ave%2C%20Taguig%2C%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Filipino
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lorenzo%27s+Way+7th+Ave+BGC+Taguig)
+🍽️ **Cuisine:** Filipino
+💰 **Price level:** —

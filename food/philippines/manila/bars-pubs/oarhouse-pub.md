@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Oarhouse Pub of Manila"
-subtitle: "Malate, Manila Â· Bar"
+title: Oarhouse Pub
+subtitle: Malate, Manila · Pub
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 29 Mar 2025 Â· â‚±400â€“600
+One of the few remnants of old Malate, this cozy little pub still has its charm, with good grub, interesting patrons, and affordable drinks. They continue to serve cocktails by the pitcher, but now there's also a selection of craft beers. The pulutan, like sisig and kinilaw, are reliably tasty.
 
-Bgy. 698 Malate, 1690-A Bocobo St, Malate, Manila, 1004 Metro Manila, Philippines
+## Ratings
 
-One of the few remnants of old Malate, this cosy little pub still has its charm, with good grub, interesting patrons, and affordable drinks. Cocktails by the pitcher, craft beers, and reliably tasty pulutan like sisig and kinilaw. Prices are definitely creeping up â€” inflation is hitting hard â€” but the spirit of old Malate lives on.
+| Category        | Score  |
+|-----------------|--------|
+| Bar food        | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oarhouse%20Pub%20of%20Manila%2C%201690-A%20Bocobo%20St%2C%20Malate%2C%20Manila%2C%201004%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Bar, Filipino
-
-ðŸ’° **Price level:** Approximately â‚±400â€“600 for two people (average meal, no drinks)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oarhouse+Pub+Bocobo+St+Malate+Manila)
+🍺 **Type:** Pub
+💰 **Price level:** ₱400–600 per person

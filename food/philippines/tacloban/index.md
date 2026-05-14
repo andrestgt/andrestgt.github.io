@@ -1,11 +1,16 @@
 ---
 layout: default
 section: food
+country: philippines
 city: tacloban
-title: Tacloban
-subtitle: Food & drink in Tacloban
+title: Tacloban – Food & Drink
+subtitle: Restaurants and cafés in Tacloban City
 ---
+
 # Tacloban
 
-## Categories
+## Restaurants
 - [Restaurants](/food/philippines/tacloban/restaurants/)
+
+## Cafés
+- [Cafés](/food/philippines/tacloban/cafes/)

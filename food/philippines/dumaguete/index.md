@@ -4,15 +4,12 @@ section: food
 country: philippines
 city: dumaguete
 title: Dumaguete – Food & Drink
-subtitle: Casual eateries, cafés, and street food in Dumaguete
+subtitle: Restaurants, cafés, and bars in Dumaguete and Dauin
 ---
 
 # Dumaguete
 
-Reviews grouped by category.
-
-## Street food & basic eateries
-- [Street food & basic eateries](/food/philippines/dumaguete/street-food/)
+Reviews grouped by category. Also covers Dauin.
 
 ## Restaurants
 - [Restaurants](/food/philippines/dumaguete/restaurants/)

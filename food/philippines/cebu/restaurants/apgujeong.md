@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Apgujeong"
-subtitle: "Mactan, Cebu Â· Restaurant"
+title: Apgujeong
+subtitle: Mactan, Cebu · Korean
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 02 Jul 2019 Â· â€”
+Apgujeong serves very authentic Korean food and is clearly popular with the local Korean community as well. Prices are a little on the high side, but the seafood pancake and mandu are excellent and worth coming for.
 
-Lapu-Lapu City, 6015 Cebu, Philippines
+## Ratings
 
-Serves very authentic Korean food and is clearly popular with the local Korean community. Prices are a little on the high side, but the seafood pancake and mandu are excellent and worth coming for.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Apgujeong%20Korean%20Restaurant%2C%20Lapu-Lapu%20City%2C%20Cebu%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Korean
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Apgujeong+Korean+Restaurant+Mactan+Cebu)
+🍽️ **Cuisine:** Korean
+💰 **Price level:** —

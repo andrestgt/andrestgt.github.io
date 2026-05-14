@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Roadhouse CafÃ©"
-subtitle: "Davao Â· Restaurant"
+title: Roadhouse Café
+subtitle: SM City Ecoland, Davao City · Filipino
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 28 May 2021 Â· â€”
+This restaurant at SM City is the Filipino version of an American diner — honest local food in big portions at decent prices. I was genuinely surprised that the quality of the food here was so good. All the dishes we ordered — the tangigue kinilaw, the stuffed calmar, the kare-kare and the seafood basket — were all impeccable. Prices are on the high side for Davao city but for the size and quality still very reasonable.
 
-SM City Davao, Corner Tulip Drive, Quimpo Boulevard, Ecoland, Davao City, 8000 Davao del Sur, Philippines
+## Ratings
 
-The Filipino version of an American diner â€” honest local food in big portions at decent prices. All the dishes tried were impeccable: tangigue kinilaw, stuffed calmar, kare-kare, and seafood basket. If Filipino food were promoted worldwide by quality franchises like Roadhouse, it would certainly have a much better global reputation. Prices are on the high side for Davao but still very reasonable for the quality.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Roadhouse%20Cafe%2C%20SM%20City%20Davao%2C%20Ecoland%2C%20Davao%20City%2C%208000%20Davao%20del%20Sur%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Filipino, American
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Roadhouse+Cafe+SM+City+Ecoland+Davao+City)
+🍽️ **Cuisine:** Filipino
+💰 **Price level:** —

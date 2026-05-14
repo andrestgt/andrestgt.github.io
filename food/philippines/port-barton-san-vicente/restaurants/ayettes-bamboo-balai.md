@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Ayette's Bamboo Balai"
-subtitle: "Port Barton Â· Restaurant"
+title: Ayette's Bamboo Balai
+subtitle: Port Barton, San Vicente · Filipino, International
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 24 Mar 2025 Â· â€”
+I stayed here back in 2009 when Port Barton was still a quiet, off-the-beaten-path village. While the accommodation has gotten much more expensive, the restaurant is still a great place to eat. Food prices are similar to other spots in town — on the pricey side — but the quality is good. Plus, they serve the cheapest beer in Port Barton.
 
-Rizal St, San Vicente, Palawan, Philippines
+## Ratings
 
-I first stayed here in 2009 when Port Barton was still a quiet, off-the-beaten-path village. While accommodation has gotten much more expensive, the restaurant is still a great place to eat. Food prices are similar to other spots in town â€” on the pricier side â€” but the quality is good. Plus, they serve the cheapest beer in Port Barton, which is obviously a bonus.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ayette%27s%20Bamboo%20Balai%2C%20Rizal%20St%2C%20San%20Vicente%2C%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Filipino, International
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ayette%27s+Bamboo+Balai+Port+Barton+San+Vicente+Palawan)
+🍽️ **Cuisine:** Filipino, International
+💰 **Price level:** —

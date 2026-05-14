@@ -13,8 +13,8 @@ Food & drink across the Philippines, organised by island group.
 ## Luzon
 - [Manila](/food/philippines/manila/)
 - [Baguio](/food/philippines/baguio/)
-- [Sagada](/food/philippines/sagada/)
 - [Vigan](/food/philippines/vigan/)
+- [Angeles](/food/philippines/angeles/)
 
 ## Palawan
 - [El Nido & the North](/food/philippines/el-nido/)
@@ -27,8 +27,8 @@ Food & drink across the Philippines, organised by island group.
 - [Dumaguete](/food/philippines/dumaguete/)
 - [Siquijor](/food/philippines/siquijor/)
 - [Boracay](/food/philippines/boracay/)
+- [Sipalay](/food/philippines/sipalay/)
 - [Tacloban](/food/philippines/tacloban/)
 
 ## Mindanao
 - [Davao](/food/philippines/davao/)
-

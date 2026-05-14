@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Vinyl Cafe Palawan"
-subtitle: "Puerto Princesa Â· CafÃ©"
+title: Vinyl Cafe Palawan
+subtitle: Rizal Ave, Puerto Princesa · Café
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 17 Mar 2025 Â· â‚±200â€“400
+Vinyl is an oasis of calm — you wouldn't believe a place this peaceful exists just off noisy Rizal Ave. It's set around a charming courtyard with plenty of flowers and greenery, and even has working WiFi. The beef tapsilog was pretty good too. However, I can't really recommend it because of the issue I had with my flat white — they used UHT milk instead of fresh milk, and the result tasted like feet.
 
-Rizal Avenue, Puerto Princesa City, 5300 Palawan, Philippines
+## Ratings
 
-An oasis of calm â€” you would not believe a place this peaceful exists just off noisy Rizal Ave, set around a charming courtyard with flowers and greenery, with working WiFi. The beef tapsilog was pretty good too. However, I cannot fully recommend it due to an issue with the flat white: they used UHT milk, and the result tasted accordingly. I hope this was a one-off, but customers should at least be informed before paying for an expensive coffee made with long-life milk.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Vinyl%20Cafe%20Palawan%2C%20Rizal%20Avenue%2C%20Puerto%20Princesa%20City%2C%205300%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©
-
-ðŸ’° **Price level:** Approximately â‚±200â€“400 for two people (average meal, no drinks)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Vinyl+Cafe+Palawan+Rizal+Avenue+Puerto+Princesa)
+☕ **Type:** Café
+💰 **Price level:** ₱200–400 per person

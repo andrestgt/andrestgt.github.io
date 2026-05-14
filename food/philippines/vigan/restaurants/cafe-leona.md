@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Cafe Leona"
-subtitle: "Vigan Â· Restaurant"
+title: Cafe Leona
+subtitle: Plaza Salcedo, Vigan City · Filipino
 ---
 
-â˜…â˜…â˜…â˜…â˜… Â· 03 Apr 2020 Â· â€”
+There is good food in the Philippines and Cafe Leona, which has been around for many years, is one of the most pleasant surprises you could stumble upon anywhere in the country. Not only does it have an enviable Old Town square location in one of Asia's prettiest towns, they also cook seriously good food, from their pizzas with local ingredients to Japanese sashimi. A must are the local longganizas, which are much better than elsewhere in the Philippines. Prices are very reasonable for this kind of food in such a magical location.
 
-1 Crisologo, Brgy 2, Vigan City, 2700 Ilocos Sur, Philippines
+## Ratings
 
-One of the most pleasant surprises you could stumble upon anywhere in the Philippines. Not only does it have an enviable Old Town square location in one of Asia's prettiest towns â€” they also cook seriously good food, from pizzas with local ingredients to Japanese sashimi. A must are the local longganizas, which are much better than elsewhere in the country. Prices are very reasonable for this kind of quality in such a magical setting.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe%20Leona%2C%201%20Crisologo%2C%20Brgy%202%2C%20Vigan%20City%2C%202700%20Ilocos%20Sur%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Filipino, Pizza, Japanese
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Leona+Crisologo+St+Vigan+City+Ilocos+Sur)
+🍽️ **Cuisine:** Filipino, International
+💰 **Price level:** —

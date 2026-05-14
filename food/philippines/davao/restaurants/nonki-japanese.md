@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Nonki Japanese Restaurant"
-subtitle: "Davao Â· Restaurant"
+title: Nonki Japanese Restaurant
+subtitle: Poblacion District, Davao City · Japanese
 ---
 
-â˜…â˜…â˜…â˜†â˜† Â· 04 Jul 2019 Â· â€”
+Nonki is probably the most popular Japanese restaurant in Davao, but I found the quality rather average considering the prices. The sashimi and rolls were perfectly acceptable, just not nearly good enough to justify what they charge.
 
-AutoVille Building, F. Torres St, Poblacion District, Davao City, 8000 Davao del Sur, Philippines
+## Ratings
 
-Probably the most popular Japanese restaurant in Davao, but I found the quality rather average considering the prices. The sashimi and rolls were perfectly acceptable â€” just not nearly good enough to justify what they charge.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nonki%20Japanese%20Restaurant%2C%20F.%20Torres%20St%2C%20Poblacion%20District%2C%20Davao%20City%2C%208000%20Davao%20del%20Sur%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Japanese
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nonki+Japanese+Restaurant+Davao+City)
+🍽️ **Cuisine:** Japanese
+💰 **Price level:** —

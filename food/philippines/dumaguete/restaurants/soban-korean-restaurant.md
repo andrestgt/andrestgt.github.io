@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Soban Korean Restaurant"
-subtitle: "Dumaguete Â· Restaurant"
+title: Soban Korean Restaurant
+subtitle: Real St, Dumaguete · Korean
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 20 Jun 2019 Â· â€”
+Soban has been around for a long time and they're still going strong. In order to survive in such a location, you must be able to offer something special and unique. Soban offers authentic, traditional Korean food at reasonable prices, and makes the trip out well worth it. The prices for individual dishes might look steep by Dumaguete standards but you get a lot for your money — free appetisers, a pot of tea and ice tea, plus the portions are really big. Their killer dish is osom bulgogi, which should be called awesome bulgogi, really. For lovers of Korean food, Soban is a must visit while in Dumaguete.
 
-Sacred Heart, Real St, Dumaguete, Negros Oriental, Philippines
+## Ratings
 
-Has been around for a long time and still going strong despite an unfortunate location in a run-down strip mall on the outskirts. Their killer dish is the osom bulgogi, which feeds four easily and is worth every peso. The seafood pancakes are also a bargain at 200 Php. Best visited in a group and worth the trip out.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Soban%20Korean%20Restaurant%2C%20Sacred%20Heart%2C%20Real%20St%2C%20Dumaguete%2C%20Negros%20Oriental%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Korean
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Soban+Korean+Restaurant+Real+St+Dumaguete+City)
+🍽️ **Cuisine:** Korean
+💰 **Price level:** —

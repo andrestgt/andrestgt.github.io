@@ -3,16 +3,13 @@ layout: default
 section: food
 country: philippines
 city: el-nido
-title: El Nido and the North – Food & Drink
-subtitle: Beachside dining, casual eateries, and island cafés around El Nido 
+title: El Nido & the North – Food & Drink
+subtitle: Restaurants, cafés, and bars in El Nido and northern Palawan
 ---
 
-# El Nido and the North
+# El Nido & the North
 
-Reviews grouped by category.
-
-## Street food & basic eateries
-- [Street food & basic eateries](/food/philippines/el-nido/street-food/)
+Reviews grouped by category. Also covers the route to El Nido (including Leonida's near Taytay).
 
 ## Restaurants
 - [Restaurants](/food/philippines/el-nido/restaurants/)
@@ -22,5 +19,3 @@ Reviews grouped by category.
 
 ## Bars & pubs
 - [Bars & pubs](/food/philippines/el-nido/bars-pubs/)
-
-

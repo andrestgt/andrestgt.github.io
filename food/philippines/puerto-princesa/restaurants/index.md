@@ -3,42 +3,32 @@ layout: default
 section: food
 city: puerto-princesa
 category: restaurants
-slug: restaurants
 title: Restaurants
-subtitle: Restaurants in Puerto Princesa and Palawan
+subtitle: Restaurants in Puerto Princesa City
 ---
 
-# Restaurants in Puerto Princesa
-
-Covers Puerto Princesa and nearby Taytay, Palawan.
+# Restaurants
 
 ---
 
 ## Kalui Seafood Restaurant
-*Rizal Ave, Puerto Princesa Â· Filipino, Seafood*
-A Puerto Princesa institution for nearly two decades â€” impeccable seafood, attentive service, and still remarkable value at under 1,500 Php for two with drinks.
-â†’ [Read the full review](/food/philippines/puerto-princesa/restaurants/kalui-seafood/)
-
----
-
-## LEONIDA'S
-*Taytay, Palawan Â· Filipino*
-An utterly unexpected beautiful garden cafÃ© in provincial Palawan serving Filipino food on par with the best in the big cities â€” the kare-kare is exceptional.
-â†’ [Read the full review](/food/philippines/puerto-princesa/restaurants/leonidas/)
+*Rizal Avenue, Puerto Princesa · Filipino, Seafood*
+A must-visit in Puerto Princesa — impeccable seafood set menu, exceptional service, and outstanding value at under 1500 Php for two.
+→ [Read the full review](/food/philippines/puerto-princesa/restaurants/kalui-seafood/)
 
 ---
 
 ## Neva's Place
-*Puerto Princesa Â· Pizza*
-The same reliable pizza concept as Neva's in Dumaguete, but with an even nicer garden setting â€” the kuripot pizza is better than it sounds.
-â†’ [Read the full review](/food/philippines/puerto-princesa/restaurants/nevas-place/)
+*Taft St, Puerto Princesa · Filipino, Pizza*
+Great concept from Dumaguete's Neva's — even nicer here with a beautiful garden setting and very competitively priced kuripot pizza.
+→ [Read the full review](/food/philippines/puerto-princesa/restaurants/nevas-place/)
 
 ---
 
 ## Lato Coffee and Restaurant
-*Baywalk, Puerto Princesa Â· Filipino*
-Upmarket carinderia with sea views on the Baywalk â€” solid Filipino favourites, excellent service, and functioning WiFi (rare in Puerto Princesa).
-â†’ [Read the full review](/food/philippines/puerto-princesa/restaurants/lato-coffee-and-restaurant/)
+*Baywalk, Puerto Princesa · Filipino*
+Upmarket carinderia with sea views — solid Filipino food, excellent service, and functioning WiFi, a rare bonus in this town.
+→ [Read the full review](/food/philippines/puerto-princesa/restaurants/lato-coffee-and-restaurant/)
 
 ---
 

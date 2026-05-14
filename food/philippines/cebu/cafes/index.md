@@ -3,44 +3,38 @@ layout: default
 section: food
 city: cebu
 category: cafes
-slug: cafes
-title: CafÃ©s
-subtitle: CafÃ©s in Cebu
+title: Cafés
+subtitle: Cafés in Cebu City and Mactan
 ---
 
-# CafÃ©s in Cebu
-
-Covers Cebu City and Mactan island.
-
----
-
-## Degree9 Coffee & Roasting
-*Cebu City Â· CafÃ©*
-Gets a lot of things right â€” comfortable seating, strong AC, fast wifi, power sockets, and genuinely good coffee. An excellent longer stop.
-â†’ [Read the full review](/food/philippines/cebu/cafes/degree9-coffee/)
+# Cafés
 
 ---
 
 ## Abaca Baking Company
-*Cebu City Â· CafÃ©, Bakery*
-Charges Manila-level prices but delivers genuinely very good coffee by Philippine standards â€” comfortable if not ideal for working.
-â†’ [Read the full review](/food/philippines/cebu/cafes/abaca-baking-company/)
+*Banilad, Cebu City · Café*
+Manila-level prices but genuinely very good coffee by Philippine standards — comfortable seating, though wifi is slow.
+→ [Read the full review](/food/philippines/cebu/cafes/abaca-baking-company/)
 
 ---
 
-## The Civet Coffee Roasters
-*Mactan Â· CafÃ©*
-Probably the best cappuccino in Mactan â€” shame about the uncomfortable seating that makes it hard to stay long.
-â†’ [Read the full review](/food/philippines/cebu/cafes/civet-coffee-roasters/)
+## Degree9 Coffee & Roasting
+*Cebu City · Specialty Coffee*
+Gets a lot of things right — comfortable seating, strong AC, fast wifi, power sockets, and genuinely good coffee.
+→ [Read the full review](/food/philippines/cebu/cafes/degree9-coffee/)
 
 ---
 
 ## Cafe Elora
-*Mactan Â· CafÃ©*
-A pleasant oasis in a bleak part of Mactan â€” fair prices and decent food, but the coffee still needs work.
-â†’ [Read the full review](/food/philippines/cebu/cafes/cafe-elora/)
+*Mactan, Cebu · Café*
+A pleasant oasis in a fairly bleak part of Mactan — decent food and fair prices, but can't manage a proper cappuccino.
+→ [Read the full review](/food/philippines/cebu/cafes/cafe-elora/)
 
 ---
 
-**Price level note:**
-Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
+## The Civet Coffee Roasters
+*Mactan, Cebu · Specialty Coffee*
+Probably the best cappuccino on the island, let down by seating so uncomfortable it's hard to linger.
+→ [Read the full review](/food/philippines/cebu/cafes/civet-coffee-roasters/)
+
+---

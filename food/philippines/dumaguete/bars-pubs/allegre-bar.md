@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Allegre Bar"
-subtitle: "Dumaguete Â· Bar"
+title: Allegre Bar
+subtitle: Rizal Boulevard, Dumaguete · Tapas Bar
 ---
 
-â˜…â˜…â˜…â˜…â˜… Â· 20 Jun 2019 Â· â€”
+This tiny, yet elegant hole-in-the-wall is elevating the gastronomic options of Dumaguete to new standards, with their authentic tapas bar atmosphere, very good food and inexpensive cocktails. Stepping into Allegre feels like stepping into a little piece of Spain on what used to be the Philippines' most attractive seafront boulevard. There's not much room inside but sitting at the bar is perfectly fine. The daily specials are the real winners — delicious ceviche, lovely chorizo, croquetas, and home-made Spanish blood sausage (morcilla). Prices are very reasonable with all dishes under 200 Php and cocktails are tasty and downright cheap.
 
-Dumaguete, Negros Oriental, Philippines
+## Ratings
 
-This tiny yet elegant hole-in-the-wall elevates Dumaguete's gastronomic options with an authentic tapas bar atmosphere, very good food, and inexpensive cocktails. The menu is small but there are great daily specials â€” the morcilla (house-made Spanish blood sausage) is a rare and wonderful find in Asia. Delicious ceviche, lovely chorizo, and excellent croquetas complete the picture. All dishes are under 200 Php and cocktails are downright cheap.
+| Category        | Score  |
+|-----------------|--------|
+| Bar food        | 10/10  |
+| Service         | 10/10  |
+| Value for money | 10/10  |
+| Atmosphere      | 10/10  |
+| Overall         | 10/10  |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Allegre%20Bar%2C%20Dumaguete%2C%20Negros%20Oriental%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Spanish Tapas, Bar
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Allegre+Bar+Rizal+Boulevard+Dumaguete+City)
+🍺 **Type:** Tapas Bar
+💰 **Price level:** Under ₱200 per dish

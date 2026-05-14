@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Neva's Place"
-subtitle: "Puerto Princesa Â· Restaurant"
+title: Neva's Place
+subtitle: Taft St, Puerto Princesa · Filipino, Pizza
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 24 Mar 2025 Â· â‚±200â€“400
+Anyone familiar with Neva's in Dumaguete will recognise the concept. The pizza here is really good and very competitively priced. One of the reasons for this is their "Kuripot" pizza, which uses synthetic Filipino cheese instead of real mozzarella — while this might sound strange, it's actually very tasty. Neva's in Puerto Princesa is even nicer than the one in Dumaguete, with a beautiful and peaceful garden setting.
 
-48 Taft St, Puerto Princesa City, Palawan, Philippines
+## Ratings
 
-Anyone familiar with Neva's in Dumaguete will recognise the concept. The pizza is really good and very competitively priced â€” their kuripot pizza uses synthetic Filipino cheese instead of mozzarella, which sounds strange but is actually very tasty. Even nicer than the Dumaguete branch, with a beautiful and peaceful garden setting. Definitely worth checking out.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Neva%27s%20Place%2C%2048%20Taft%20St%2C%20Puerto%20Princesa%20City%2C%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** Pizza
-
-ðŸ’° **Price level:** Approximately â‚±200â€“400 for two people (average meal, no drinks)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Neva%27s+Place+Taft+St+Puerto+Princesa+Palawan)
+🍽️ **Cuisine:** Filipino, Pizza
+💰 **Price level:** ₱200–400 per person

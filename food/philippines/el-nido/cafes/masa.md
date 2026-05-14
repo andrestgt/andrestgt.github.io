@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Masa"
-subtitle: "El Nido Â· CafÃ©"
+title: Masa
+subtitle: El Nido Town · Bakery, Café
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 27 Mar 2025 Â· â€”
+Modern bakery with a minimalist design and an open-plan kitchen. Air-conditioned, fast WiFi — everything you'd expect from a stylish, contemporary café. My most expensive coffee (flat white) ever in the Philippines, breaking the 200 Php mark. The coffee itself is very good, but the preparation was a bit sloppy — the milk foam texture wasn't quite right. That said, if money isn't an issue, it's still a solid recommendation.
 
-El Nido, Palawan, Philippines
+## Ratings
 
-Modern bakery with a minimalist design and an open-plan kitchen. Air-conditioned, fast WiFi â€” everything you would expect from a stylish contemporary cafÃ©. The coffee itself is very good, but the preparation was a bit sloppy â€” the milk foam texture was not quite right. Also my most expensive flat white ever in the Philippines, breaking the 200 Php mark. If money is not an issue, still a solid recommendation.
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Masa%20Bakery%2C%20El%20Nido%2C%20Palawan%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** CafÃ©, Bakery
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Masa+Bakery+Cafe+El+Nido+Palawan)
+☕ **Type:** Bakery, Café
+💰 **Price level:** Over ₱200 per coffee

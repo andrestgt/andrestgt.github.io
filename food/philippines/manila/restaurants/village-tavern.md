@@ -2,20 +2,24 @@
 layout: default
 section: food
 review: true
-title: "Village Tavern"
-subtitle: "BGC, Manila Â· Restaurant"
+title: Village Tavern
+subtitle: BGC, Taguig · American, International
 ---
 
-â˜…â˜…â˜…â˜…â˜† Â· 21 Jun 2019 Â· â€”
+Village Tavern is a surprisingly good option on Bonifacio High Street. It's a classic American diner with a slightly upmarket menu full of comfort food with options ranging from Pacific-rim to Tex-Mex to Continental. It's worth visiting for their goat cheese and chorizo spring rolls alone. High street prices, yes, but portions are generous, and their house wine is an affordable Italian Trebbiano. I was also quite impressed by the service, which was very attentive by Filipino standards.
 
-2/F Bonifacio High Street Central, 7th Ave, Taguig, Metro Manila, Philippines
+## Ratings
 
-A surprisingly good option on Bonifacio High Street. A classic American diner with a slightly upmarket menu of comfort food ranging from Pacific-rim to Tex-Mex to Continental. Worth visiting for their goat cheese-chorizo spring rolls alone, but I also thoroughly enjoyed the shrimp balls and the ox cheeks. House wine is an affordable Italian Trebbiano. Come hungry â€” portions are generous.
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
-ðŸ—ºï¸ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Village%20Tavern%2C%20Bonifacio%20High%20Street%20Central%2C%207th%20Ave%2C%20Taguig%2C%20Metro%20Manila%2C%20Philippines)
-
-ðŸ½ï¸ **Cuisine:** American, International
-
-ðŸ’° **Price level:** â€”
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Village+Tavern+Bonifacio+High+Street+BGC+Taguig)
+🍽️ **Cuisine:** American, International
+💰 **Price level:** —
