@@ -4,6 +4,7 @@ section: food
 city: kolkata
 title: Kolkata
 subtitle: Food & drink in Kolkata
+hero: /photos/background/kolkatahero.jpg
 ---
 # Kolkata
 
