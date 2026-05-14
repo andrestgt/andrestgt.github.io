@@ -5,6 +5,7 @@ country: malaysia
 city: sepang
 title: Sepang (KLIA) – Food & Drink
 subtitle: Cafés and restaurants at KLIA and KLIA2
+hero: /photos/background/sepanghero.jpg
 ---
 
 # Sepang (KLIA)
