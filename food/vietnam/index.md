@@ -6,8 +6,7 @@ country: vietnam
 slug: vietnam
 title: Vietnam – Food & Drink
 subtitle: Street food, restaurants, cafés and bars across Vietnam
-hero: /photos/background/vietnam.jpg
-hero_overlay: false
+hero: /photos/background/vietnamhero.jpg
 ---
 
 # Vietnam
