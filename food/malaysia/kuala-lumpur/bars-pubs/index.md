@@ -4,20 +4,24 @@ section: food
 city: kuala-lumpur
 category: bars-pubs
 slug: bars-pubs
-title: Bars & pubs
+title: Bars & Pubs
 subtitle: Bars and pubs in Kuala Lumpur
 ---
 
-# Bars & pubs in Kuala Lumpur
+# Bars & Pubs
 
-A selection of bars and pubs in Kuala Lumpur.
+---
 
-<!-- Add your reviews here following this format:
+## Rock Bottom Changkat
+*Changkat Bukit Bintang · Bar*
+My favourite happy hour spot around Changkat — three pints of Paulaner or Kilkenny for RM77+ and a solid pub food menu.
+→ [Read the full review](/food/malaysia/kuala-lumpur/bars-pubs/rock-bottom-changkat/)
 
-## Bar Name
-Kuala Lumpur · Bar / Pub
-Brief one-sentence description.
-→ [Read the full review](/food/malaysia/kuala-lumpur/bars-pubs/bar-name.html)
+---
 
--->
+## Gypsy Bar
+*Changkat Bukit Bintang · Bar*
+Probably the cheapest place to drink along Changkat — relatively affordable wine list and essential happy hour deals.
+→ [Read the full review](/food/malaysia/kuala-lumpur/bars-pubs/gypsy-bar/)
 
+---

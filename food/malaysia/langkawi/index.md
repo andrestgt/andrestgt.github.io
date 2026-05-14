@@ -4,16 +4,18 @@ section: food
 country: malaysia
 city: langkawi
 title: Langkawi – Food & Drink
-subtitle: Restaurants and street food in Langkawi
+subtitle: Restaurants, cafés, and bars in Langkawi
 ---
 
 # Langkawi
 
 Reviews grouped by category.
 
-## Street food & basic eateries
-- [Street food & basic eateries](/food/malaysia/langkawi/street-food/)
-
 ## Restaurants
 - [Restaurants](/food/malaysia/langkawi/restaurants/)
 
+## Cafés
+- [Cafés](/food/malaysia/langkawi/cafes/)
+
+## Bars & pubs
+- [Bars & pubs](/food/malaysia/langkawi/bars-pubs/)

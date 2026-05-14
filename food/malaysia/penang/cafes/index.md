@@ -5,19 +5,30 @@ city: penang
 category: cafes
 slug: cafes
 title: Cafés
-subtitle: Cafés in Penang
+subtitle: Cafés in George Town, Penang
 ---
 
-# Cafés in Penang
+# Cafés
 
-A selection of cafés in Penang.
+---
 
-<!-- Add your reviews here following this format:
+## The Daily Dose
+*Old Town, George Town · Café*
+Excellent Old Town café with good cappuccino, a hidden sofa, and delicious homemade dumplings — definitely recommended.
+→ [Read the full review](/food/malaysia/penang/cafes/the-daily-dose/)
 
-## Café Name
-Penang · Café
-Brief one-sentence description.
-→ [Read the full review](/food/malaysia/penang/cafes/cafe-name.html)
+---
 
--->
+## Pit Stop No. 12
+*Lorong Chulia, George Town · Café*
+Properly prepared Lavazza cappuccino for around 8 RM with air conditioning and comfortable armchairs — hard to find much to complain about.
+→ [Read the full review](/food/malaysia/penang/cafes/pit-stop-no-12/)
 
+---
+
+## WHEELER'S
+*Lorong Love, George Town · Café*
+Very good cappuccino for under 10 RM in a stylishly decorated café — one of the better coffee stops in George Town.
+→ [Read the full review](/food/malaysia/penang/cafes/wheelers/)
+
+---

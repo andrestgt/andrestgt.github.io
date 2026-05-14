@@ -8,19 +8,9 @@ title: Restaurants
 subtitle: Restaurants in Melaka
 ---
 
-# Restaurants in Melaka
+# Restaurants
 
-A selection of restaurants in Melaka.
+No reviews yet.
 
-<!-- Add your reviews here following this format:
-
-## Restaurant Name
-Melaka · Restaurant
-Brief one-sentence description.
-→ [Read the full review](/food/malaysia/melaka/restaurants/restaurant-name.html)
-
--->
-
-**Price level note:**  
+**Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
-

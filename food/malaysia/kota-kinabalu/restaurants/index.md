@@ -8,18 +8,16 @@ title: Restaurants
 subtitle: Restaurants in Kota Kinabalu
 ---
 
-# Restaurants in Kota Kinabalu
+# Restaurants
 
-A selection of restaurants in Kota Kinabalu.
+---
 
-<!-- Add your reviews here following this format:
+## Meet+Wine
+*Signal Hill Park · Mediterranean*
+Fantastic little bistro and wine bar — pulpitos, lamb ragout pasta, charcuterie, and NZ Sauvignon Blanc for under RM150.
+→ [Read the full review](/food/malaysia/kota-kinabalu/restaurants/meet-and-wine/)
 
-## Restaurant Name
-Kota Kinabalu · Restaurant
-Brief one-sentence description.
-→ [Read the full review](/food/malaysia/kota-kinabalu/restaurants/restaurant-name.html)
+---
 
--->
-
-**Price level note:**  
+**Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

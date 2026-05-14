@@ -4,19 +4,17 @@ section: food
 city: kuching
 category: bars-pubs
 slug: bars-pubs
-title: Bars & pubs
-subtitle: Bars and pubs in Kuching
+title: Bars & Pubs
+subtitle: Bars in Kuching
 ---
 
-# Bars & pubs in Kuching
+# Bars & Pubs
 
-A selection of bars and pubs in Kuching.
+---
 
-<!-- Add your reviews here following this format:
+## Drunk Monkey Old Street Bar
+*Carpenter St · Bar*
+One of the best bars in Kuching — good music, long happy hours, relaxed atmosphere, and you can order food from nearby restaurants.
+→ [Read the full review](/food/malaysia/kuching/bars-pubs/drunk-monkey-old-street-bar/)
 
-## Bar Name
-Kuching · Bar / Pub
-Brief one-sentence description.
-→ [Read the full review](/food/malaysia/kuching/bars-pubs/bar-name.html)
-
--->
+---

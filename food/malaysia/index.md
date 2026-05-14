@@ -18,4 +18,5 @@ hero_overlay: false
 - [Ipoh](/food/malaysia/ipoh/)
 - [Kuching](/food/malaysia/kuching/)
 - [Kota Kinabalu](/food/malaysia/kota-kinabalu/)
+- [Sepang (KLIA)](/food/malaysia/sepang/)
 

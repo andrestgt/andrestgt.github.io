@@ -4,19 +4,24 @@ section: food
 city: kota-kinabalu
 category: street-food
 slug: street-food
-title: Street food & basic eateries
-subtitle: Street food & basic eateries in Kota Kinabalu
+title: Street Food
+subtitle: Street food in Kota Kinabalu
 ---
 
-# Street food & basic eateries in Kota Kinabalu
+# Street Food
 
-A selection of street food & basic eateries in Kota Kinabalu.
+---
 
-<!-- Add your reviews here following this format:
+## Foo Phing Dim Sum
+*Luyang · Chinese, Dim Sum*
+Traditional Cantonese dim sum with trolley service — good quality, reasonable prices, and RM15 per person pays for a feast.
+→ [Read the full review](/food/malaysia/kota-kinabalu/street-food/foo-phing-dim-sum/)
 
-## Eatery Name
-Kota Kinabalu · Street food / basic eatery
-Brief one-sentence description.
-→ [Read the full review](/food/malaysia/kota-kinabalu/street-food/eatery-name.html)
+---
 
--->
+## Kedai Kopi 33
+*Bukit Padang · Malaysian*
+Busy and basic kopitiam serving delicious laksa for just 7 RM.
+→ [Read the full review](/food/malaysia/kota-kinabalu/street-food/kedai-kopi-33/)
+
+---
