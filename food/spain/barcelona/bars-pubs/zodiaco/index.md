@@ -1,0 +1,26 @@
+---
+layout: default
+section: food
+review: true
+title: Zodiaco
+subtitle: Barcelona · Bar
+---
+
+
+As long as you don't expect gourmet food or some deeply authentic local experience, Zodiaco delivers exactly what it promises: cheap beer, cheap pinchos, generous portions, and a cheerful atmosphere.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Beer            | 7/10   |
+| Service         | 7/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+de+Blai+39+Sants-Montjuïc+08004+Barcelona+Spain)
+📍 Carrer de Blai, 39, Sants-Montjuïc, 08004 Barcelona, Spain
+💰 budget

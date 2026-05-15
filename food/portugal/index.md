@@ -14,4 +14,4 @@ Food & drink in Portugal.
 - [Porto](/food/portugal/porto/)
 - [Lisbon](/food/portugal/lisbon/)
 - [Évora](/food/portugal/evora/)
-
+- [Vila Viçosa](/food/portugal/vila-vicosa/)
