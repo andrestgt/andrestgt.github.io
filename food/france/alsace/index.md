@@ -10,3 +10,4 @@ subtitle: Food & drink in Alsace
 
 ## Categories
 - [Restaurants](/food/france/alsace/restaurants/)
+- [Cafés](/food/france/alsace/cafes/)

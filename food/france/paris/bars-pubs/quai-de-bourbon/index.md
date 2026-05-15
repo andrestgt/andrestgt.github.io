@@ -1,0 +1,26 @@
+---
+layout: default
+section: food
+review: true
+title: Quai de Bourbon
+subtitle: Paris · Wine Bar
+---
+
+
+Nice place on Île Saint-Louis for a glass of wine and some homemade dips. Considering the location, prices are actually fairly reasonable. Pas mal.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Drinks          | 8/10   |
+| Service         | 7/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 8/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1+Quai+de+Bourbon+75004+Paris+France)
+📍 1 Quai de Bourbon, 75004 Paris, France
+💰 moderate

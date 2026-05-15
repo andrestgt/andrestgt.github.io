@@ -11,3 +11,4 @@ subtitle: Food & drink in Crete
 ## Categories
 - [Restaurants](/food/greece/crete/restaurants/)
 - [Cafés](/food/greece/crete/cafes/)
+- [Bars & Pubs](/food/greece/crete/bars-pubs/)
