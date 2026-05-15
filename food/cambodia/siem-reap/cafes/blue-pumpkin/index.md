@@ -10,13 +10,13 @@ At 3.50$ a cappuccino, you would expect at least reasonably good coffee, but Blu
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 4/10   |
-| Service         | 4/10   |
-| Value for money | 4/10   |
-| Atmosphere      | 4/10   |
-| Overall         | 4/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 4/10  |
+| Service         | 4/10  |
+| Value for money | 4/10  |
+| Atmosphere      | 4/10  |
+| Overall         | 4/10  |
 
 ### Practical
 

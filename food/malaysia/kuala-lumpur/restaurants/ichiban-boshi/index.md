@@ -10,13 +10,13 @@ Publika lacks some of the better Japanese chains found elsewhere in KL, so Ichib
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 6/10  |
+| Service         | 6/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

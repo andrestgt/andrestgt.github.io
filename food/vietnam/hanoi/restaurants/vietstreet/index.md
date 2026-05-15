@@ -9,14 +9,13 @@ Can you find better food hunting the streets of Hanoi? Yes, for sure. But this f
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 7/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=72A+Đ.+Nguyễn+Trãi+Thượng+Đình+Thanh+Xuân+Hà+Nội+Vietnam)

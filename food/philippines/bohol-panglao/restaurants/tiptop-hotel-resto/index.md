@@ -11,11 +11,11 @@ The deli shop at TipTop is probably one of the best places in the Visayas for im
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| ---             | ---    |
+| Food            | 7/10   |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

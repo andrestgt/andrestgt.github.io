@@ -9,14 +9,13 @@ It's a pleasant walk uphill (take the back roads) to this friendly coffee shop w
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 8/10   |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=9B+Dong+Da+Street+Ward+3+(di+len+Doi+Ro+Bin:+Cap+Treo)+Phường+3+Đà+Lạt+Lâm+Đồng+Vietnam)

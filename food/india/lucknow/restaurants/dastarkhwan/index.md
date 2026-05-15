@@ -11,11 +11,11 @@ This rather basic place is so popular that you might have to wait for a table ev
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 6/10   |
 | Overall         | 8/10   |
 
 ### Practical

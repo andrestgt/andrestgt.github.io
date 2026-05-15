@@ -10,13 +10,13 @@ Not open yet on Monday at 11am. What a joke.
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 2/10   |
-| Service         | 2/10   |
-| Value for money | 2/10   |
-| Atmosphere      | 2/10   |
-| Overall         | 2/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 2/10  |
+| Service         | 2/10  |
+| Value for money | 2/10  |
+| Atmosphere      | 2/10  |
+| Overall         | 2/10  |
 
 ### Practical
 

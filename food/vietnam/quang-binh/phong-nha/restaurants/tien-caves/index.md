@@ -9,14 +9,13 @@ I took a 1 day trip with Oxalis and was generally very happy with everything. Th
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 6/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Q458+WGM+Cao+Quảng+Tuyên+Hóa+Quảng+Bình+Vietnam)

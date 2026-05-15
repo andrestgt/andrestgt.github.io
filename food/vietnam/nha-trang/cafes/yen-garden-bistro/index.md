@@ -11,14 +11,13 @@ Overall, it's incredible value for the luxurious and serene atmosphere and my go
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 9.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=51/19/8+51+Tuệ+Tĩnh+st+Nha+Trang+Khánh+Hòa+650000+Vietnam)

@@ -10,13 +10,13 @@ Worst Wow Momo branch. Hardly any seats, sizzlers not available and they cheat b
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 2/10   |
-| Service         | 2/10   |
-| Value for money | 2/10   |
-| Atmosphere      | 2/10   |
-| Overall         | 2/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 2/10  |
+| Service         | 2/10  |
+| Value for money | 2/10  |
+| Atmosphere      | 2/10  |
+| Overall         | 2/10  |
 
 ### Practical
 

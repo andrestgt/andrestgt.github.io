@@ -11,12 +11,12 @@ I doubt you will find better food than this in Margao — indeed it's one of the
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Food            | 9.5/10 |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

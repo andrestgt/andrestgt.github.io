@@ -11,11 +11,11 @@ Chanrey Tree is a remarkably beautiful restaurant, from the lotus pond entrance 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 7.5/10 |
 | Overall         | 6/10   |
 
 ### Practical

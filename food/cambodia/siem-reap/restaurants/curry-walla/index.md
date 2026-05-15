@@ -10,13 +10,13 @@ Curry Walla used to be my favourite Indian restaurant in Siem Reap, but they pla
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 2/10   |
-| Service         | 2/10   |
-| Value for money | 2/10   |
-| Atmosphere      | 2/10   |
-| Overall         | 2/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 2/10  |
+| Service         | 2/10  |
+| Value for money | 2/10  |
+| Atmosphere      | 2/10  |
+| Overall         | 2/10  |
 
 ### Practical
 

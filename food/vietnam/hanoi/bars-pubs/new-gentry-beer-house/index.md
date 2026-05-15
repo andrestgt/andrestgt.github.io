@@ -9,14 +9,13 @@ Extensive beer selection at pretty standard Hanoi prices, most bottles between 7
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Drinks | 6/10 |
-| Service | 6/10 |
-| Value for money | 6/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
-
+| Category        | Score |
+| ---             | ---   |
+| Drinks          | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=7+P.+Hàng+Mành+Hàng+Gai+Hoàn+Kiếm+Hà+Nội+Vietnam)

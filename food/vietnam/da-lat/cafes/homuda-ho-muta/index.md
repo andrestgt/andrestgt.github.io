@@ -9,14 +9,13 @@ This Japanese-themed café is a bit of a tourist attraction in itself. With mult
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=40+Đường+Mai+Anh+Đào+Phường+8+Đà+Lạt+Lâm+Đồng+66106+Vietnam)

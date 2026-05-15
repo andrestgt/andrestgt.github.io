@@ -11,12 +11,12 @@ They make the best coffees in town — go for a double-shot cappuccino (110 Rs) 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| ---             | ---    |
+| Coffee          | 9/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

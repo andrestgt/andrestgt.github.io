@@ -11,12 +11,12 @@ Fantastic little bistro and wine bar. Small menu of delicious Mediterranean dish
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

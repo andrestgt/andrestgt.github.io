@@ -11,12 +11,12 @@ This is the Kolkata version of a doner kebab — you know you want it, and it's 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

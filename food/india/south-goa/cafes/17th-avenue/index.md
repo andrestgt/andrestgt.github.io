@@ -11,12 +11,12 @@ Not a seafood restaurant, but a small, modern air-conditioned coffee shop. Nothi
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 6/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 5/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Overall         | 6.5/10 |
 
 ### Practical
 

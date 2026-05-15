@@ -9,14 +9,13 @@ It is Sushi Tei, so quality is reliably good and consistent, exactly as expected
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 8/10   |
+| Service         | 7/10   |
+| Value for money | 5.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=200A+Lý+Tự+Trọng+Phường+Bến+Thành+Quận+1+Hồ+Chí+Minh+700000+Vietnam)

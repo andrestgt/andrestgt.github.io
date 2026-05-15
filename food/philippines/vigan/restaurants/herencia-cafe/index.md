@@ -11,11 +11,11 @@ No trip to Paoay Church is complete without trying one of Herencia's seriously t
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Service         | 7/10   |
+| Value for money | 5.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

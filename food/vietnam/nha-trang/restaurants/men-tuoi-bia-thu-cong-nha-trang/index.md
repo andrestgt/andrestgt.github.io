@@ -9,14 +9,13 @@ This microbrewery on a quiet residential street near Co-op mart is a great find 
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=19+Đ.+Trần+Khánh+Dư+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)

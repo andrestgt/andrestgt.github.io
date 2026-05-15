@@ -11,8 +11,8 @@ Nice restaurant with good food and bad customer service — they didn't honour o
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 6/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 6/10   |

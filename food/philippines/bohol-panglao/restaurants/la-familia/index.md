@@ -11,12 +11,12 @@ Looks like a nice place to eat and came recommended by local expats, but the foo
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 6/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 5/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Overall         | 6.5/10 |
 
 ### Practical
 

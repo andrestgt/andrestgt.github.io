@@ -9,14 +9,13 @@ There is no way this place will survive. Cappuccino is made with sweetened UHT m
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 4/10 |
-| Service | 4/10 |
-| Value for money | 4/10 |
-| Atmosphere | 4/10 |
-| Overall | 4/10 |
-
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 4/10  |
+| Service         | 4/10  |
+| Value for money | 4/10  |
+| Atmosphere      | 4/10  |
+| Overall         | 4/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=28+Bùi+Viện+Phường+Phạm+Ngũ+Lão+Quận+1+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)

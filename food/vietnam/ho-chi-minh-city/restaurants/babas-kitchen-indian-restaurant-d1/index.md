@@ -19,14 +19,13 @@ The portions are generous and price is okay but i don't rate this place, there's
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 4/10 |
-| Service | 4/10 |
-| Value for money | 4/10 |
-| Atmosphere | 4/10 |
-| Overall | 4/10 |
-
+| Category        | Score |
+| ---             | ---   |
+| Food            | 4/10  |
+| Service         | 4/10  |
+| Value for money | 4/10  |
+| Atmosphere      | 4/10  |
+| Overall         | 4/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=274+Đ.+Bùi+Viện+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+Vietnam)

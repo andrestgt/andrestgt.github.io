@@ -11,11 +11,11 @@ Aroma Chef is one of many similar-looking bars and restaurants along Street 172,
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Bar food        | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| ---             | ---    |
+| Bar food        | 7/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

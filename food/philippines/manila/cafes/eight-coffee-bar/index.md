@@ -11,10 +11,10 @@ The food at Eight Coffee Bar is actually very good, especially the kare-kare wit
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
+| ---             | ---    |
+| Coffee          | 7.5/10 |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 5/10   |
 | Atmosphere      | 6/10   |
 | Overall         | 6/10   |
 

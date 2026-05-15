@@ -11,12 +11,12 @@ During lunch hours it's almost impossible to get a table in this super popular B
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Food            | 9.5/10 |
+| Service         | 9/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9.5/10 |
 
 ### Practical
 

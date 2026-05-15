@@ -11,8 +11,8 @@ The chicken keema curry, samosas, and garlic naan were all decent enough, althou
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 6/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 6/10   |

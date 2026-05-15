@@ -11,12 +11,12 @@ Din Tai Fung remains synonymous with excellent dumplings and this branch is prob
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Food            | 9.5/10 |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9.5/10 |
 
 ### Practical
 

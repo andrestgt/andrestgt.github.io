@@ -11,11 +11,11 @@ I somehow keep ending up at RUE whenever I go out in BGC. The atmosphere is loud
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Bar food        | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Service         | 7/10   |
+| Value for money | 5.5/10 |
+| Atmosphere      | 5/10   |
 | Overall         | 8/10   |
 
 ### Practical

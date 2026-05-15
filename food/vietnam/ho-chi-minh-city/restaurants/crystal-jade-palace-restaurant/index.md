@@ -15,14 +15,13 @@ The big drawback is that they only serve Dim Sum between 11am and 2.30pm and the
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Legend+Saigon+Hotel+4A+Tôn+Đức+Thắng+Sài+Gòn+Hồ+Chí+Minh+70000+Vietnam)

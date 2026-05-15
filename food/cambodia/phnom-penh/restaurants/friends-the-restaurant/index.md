@@ -11,12 +11,12 @@ It used to be a good place by Phnom Penh standards a decade ago. Now not really.
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 6/10   |
-| Service         | 6/10   |
+| Service         | 4/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Overall         | 6.5/10 |
 
 ### Practical
 

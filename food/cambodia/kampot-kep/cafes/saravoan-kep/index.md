@@ -11,11 +11,11 @@ Saravoan has a beautiful sea-view terrace, attractive surroundings, and even pro
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 6/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 7.5/10 |
 | Overall         | 6/10   |
 
 ### Practical

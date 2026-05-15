@@ -9,14 +9,13 @@ For me, this shares the title of Vietnam's best bar with Polite Pub in Hanoi. Fa
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Drinks | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Drinks          | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Escape+Bar+**&**+Cafe/Live+Music+2+Đ.+Trần+Phú+Phường+3+Đà+Lạt+Lâm+Đồng+66100+Vietnam)

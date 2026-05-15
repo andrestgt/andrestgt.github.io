@@ -9,14 +9,13 @@ Good Korean BBQ restaurant franchise located in Lotte Mart. They have these fanc
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 8/10   |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lô+1F13+TTTM+Lotte+Mart+Đ.+23+Tháng+10+tỉnh+Khánh+Ho+Khánh+Hòa+57000+Vietnam)

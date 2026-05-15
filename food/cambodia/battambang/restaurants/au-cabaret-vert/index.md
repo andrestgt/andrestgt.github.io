@@ -11,12 +11,12 @@ Good Khmer food and simple, tasty French fare. But for Battambang rather too exp
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 6/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 5/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Overall         | 5.5/10 |
 
 ### Practical
 

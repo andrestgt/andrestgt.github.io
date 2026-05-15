@@ -10,13 +10,13 @@ Le Banneton is a lovely little French-style café with very decent croissants, b
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 5/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

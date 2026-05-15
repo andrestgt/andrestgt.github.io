@@ -9,14 +9,13 @@ Basic tuna speciality restaurant serving everything from unusual delicacies such
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=289-293C+Lê+Duẩn+Phường7+Tuy+Hòa+Phú+Yên+Vietnam)

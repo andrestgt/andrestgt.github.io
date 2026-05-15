@@ -9,14 +9,13 @@ Big fan of all BiaCraft branches in Saigon. They're all very different in charac
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Drinks | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Drinks          | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 8/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=110+Đ.+Nam+Kỳ+Khởi+Nghĩa+Bến+Nghé+Quận+1+Hồ+Chí+Minh+Vietnam)

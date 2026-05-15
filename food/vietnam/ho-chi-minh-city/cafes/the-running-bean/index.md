@@ -9,14 +9,13 @@ Very nice, spacious and comfortable coffee shop with good service and quality co
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=115+Hồ+Tùng+Mậu+Phường+Sài+Gòn+Quận+1+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)

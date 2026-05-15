@@ -9,14 +9,13 @@ This is a fantastic place for craft beers with balcony seating overlooking the n
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Drinks | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Drinks          | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=City+20+P.+Hàng+Ngang+Street+Hoàn+Kiếm+Hà+Nội+Vietnam)

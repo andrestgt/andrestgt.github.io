@@ -10,13 +10,13 @@ The Buzzz Café mostly caters to the local palate, so many dishes lean heavily t
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

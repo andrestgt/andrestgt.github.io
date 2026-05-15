@@ -9,14 +9,13 @@ This famous pho restaurant has been my go-to for the last 20 years, and in all t
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9.5/10 |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=260C+Pasteur+Phường+Xuân+Hòa+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)

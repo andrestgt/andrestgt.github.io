@@ -10,13 +10,13 @@ The bread and pastries here are good, but nowhere near good enough to justify th
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 6/10  |
+| Service         | 6/10  |
+| Value for money | 5/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

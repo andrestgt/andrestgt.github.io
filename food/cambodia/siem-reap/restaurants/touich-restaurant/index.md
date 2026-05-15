@@ -11,12 +11,12 @@ Touich absolutely deserves its reputation and is well worth leaving the centre o
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 9/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 9.5/10 |
 
 ### Practical
 

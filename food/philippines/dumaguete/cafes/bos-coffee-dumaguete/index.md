@@ -10,13 +10,13 @@ The cappuccino quality here varies wildly from day to day, but at least it can o
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

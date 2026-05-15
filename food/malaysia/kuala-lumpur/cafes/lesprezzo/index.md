@@ -10,13 +10,13 @@ The coffee itself is actually quite good, but considering the prices there are s
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

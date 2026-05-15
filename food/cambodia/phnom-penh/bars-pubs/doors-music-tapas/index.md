@@ -11,11 +11,11 @@ Hard to define — club, live music venue, tapas bar, café, restaurant: it real
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Bar food        | 8/10   |
+| ---             | ---    |
+| Bar food        | 8.5/10 |
 | Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

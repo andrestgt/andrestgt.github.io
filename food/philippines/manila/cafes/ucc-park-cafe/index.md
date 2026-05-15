@@ -10,13 +10,13 @@ Charging more than 160 Php for a cappuccino would already require quality to jus
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 2/10   |
-| Service         | 2/10   |
-| Value for money | 2/10   |
-| Atmosphere      | 2/10   |
-| Overall         | 2/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 2/10  |
+| Service         | 2/10  |
+| Value for money | 2/10  |
+| Atmosphere      | 2/10  |
+| Overall         | 2/10  |
 
 ### Practical
 

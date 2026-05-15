@@ -11,8 +11,8 @@ Varanasi's most famous traveller café should be thought of as a bakery rather t
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
+| ---             | ---    |
+| Coffee          | 7.5/10 |
 | Service         | 6/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 6/10   |

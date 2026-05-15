@@ -9,14 +9,13 @@ The happy hour cocktails are disappointingly watered down which is a shame becau
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 6/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=13+Nguyễn+Hoàng+Phường+Minh+An+Hội+An+Quảng+Nam+Vietnam)

@@ -11,11 +11,11 @@ The White House is a beautiful restaurant in a heritage building with a show kit
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 6/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 7.5/10 |
 | Overall         | 6/10   |
 
 ### Practical

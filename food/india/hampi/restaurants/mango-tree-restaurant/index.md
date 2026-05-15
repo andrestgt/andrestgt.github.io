@@ -11,11 +11,11 @@ I'll go with the majority opinion here and say this is a great place with friend
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
 | Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Value for money | 5.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

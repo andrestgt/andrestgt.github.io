@@ -9,14 +9,13 @@ The nicest and comfiest Western-style coffee shop in Hội An, and an ideal stop
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=135+Trần+Phú+Phường+Minh+An+Hội+An+Quảng+Nam+Vietnam)

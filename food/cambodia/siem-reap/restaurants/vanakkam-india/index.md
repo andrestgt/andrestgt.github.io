@@ -10,13 +10,13 @@ Vanakkam is a friendly and slightly more polished-looking Indian restaurant than
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

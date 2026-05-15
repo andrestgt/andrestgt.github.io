@@ -10,13 +10,13 @@ Part of the Temple café group, this branch does at least serve beer at extremel
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 6/10  |
+| Service         | 6/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

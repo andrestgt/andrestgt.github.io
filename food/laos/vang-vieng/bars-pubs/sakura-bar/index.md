@@ -10,13 +10,13 @@ The free drinks between 8 and 9 pm are indeed real, although the cheap Lao alcoh
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Bar food        | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Bar food        | 6/10  |
+| Service         | 6/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

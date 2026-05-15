@@ -11,12 +11,12 @@ Hands down the best bar in town, and certainly the most picturesque, located in 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Bar food        | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| ---             | ---    |
+| Bar food        | 9/10   |
+| Service         | 7/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 

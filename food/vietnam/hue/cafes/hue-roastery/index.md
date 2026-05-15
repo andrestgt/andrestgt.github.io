@@ -9,14 +9,13 @@ Don't be put off by the dark stairway for getting to this second floor coffee sh
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 7/10   |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hue+Roastery)

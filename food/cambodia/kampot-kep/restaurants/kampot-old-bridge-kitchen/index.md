@@ -11,12 +11,12 @@ The Khmer food here is cheap and very good. You can't go wrong with the Kampot p
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 7/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

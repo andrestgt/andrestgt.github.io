@@ -10,13 +10,13 @@ Very unattractive branch inside a petrol station, no comfy seating options. At t
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 4/10   |
-| Service         | 4/10   |
-| Value for money | 4/10   |
-| Atmosphere      | 4/10   |
-| Overall         | 4/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 4/10  |
+| Service         | 4/10  |
+| Value for money | 4/10  |
+| Atmosphere      | 4/10  |
+| Overall         | 4/10  |
 
 ### Practical
 

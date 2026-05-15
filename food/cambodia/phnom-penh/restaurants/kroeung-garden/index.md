@@ -10,13 +10,13 @@ There used to be a time when Yi Sang was pretty much the only option for quality
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

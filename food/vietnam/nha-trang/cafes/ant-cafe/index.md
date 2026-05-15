@@ -9,14 +9,13 @@ It's looking a bit worn already, but it's still the nicest Vietnamese café in A
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 8/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=6627+52W+An+Viên+Nha+Trang+Khánh+Hòa+Vietnam)

@@ -11,12 +11,12 @@ We visited three of Bangalore's biggest brew pubs and Biergarten in Koramangala 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Bar food        | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Bar food        | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

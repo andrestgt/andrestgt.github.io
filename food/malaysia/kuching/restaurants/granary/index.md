@@ -10,13 +10,13 @@ This place looks like it should be excellent, but then they serve pizza topped w
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

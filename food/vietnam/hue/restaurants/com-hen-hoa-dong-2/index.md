@@ -9,14 +9,13 @@ For a good reason this is considered the best Com Hen (baby mussels rice) place 
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 9.5/10 |
+| Service         | 8.5/10 |
+| Value for money | 6/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9.5/10 |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=64/7+64+Kiệt+7+Ưng+Bình+Vỹ+Dạ+Huế+Thừa+Thiên+Huế+Vietnam)

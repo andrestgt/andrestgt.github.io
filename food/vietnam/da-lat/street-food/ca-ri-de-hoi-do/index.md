@@ -9,14 +9,13 @@ Nicely presented goat curry with baby baguettes, the curry soup is tasty, pity t
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 6/10 |
-| Service | 6/10 |
-| Value for money | 6/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
-
+| Category        | Score |
+| ---             | ---   |
+| Food            | 6/10  |
+| Service         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 6/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=75+Nguyễn+Văn+Trỗi+Phường+2+Đà+Lạt+Lâm+Đồng+Vietnam)

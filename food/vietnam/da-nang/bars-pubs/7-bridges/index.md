@@ -13,14 +13,13 @@ Their pizzas are the thick crust, cheese overload variety, so they're not for pu
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Drinks | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Drinks          | 9/10   |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9.5/10 |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=79+Lương+Hữu+Khánh+Thọ+Quang+Sơn+Trà+Đà+Nẵng+550000+Vietnam)

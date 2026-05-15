@@ -11,11 +11,11 @@ Very popular traditional Korean restaurant with a simple, no-frills atmosphere a
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 6/10   |
 | Overall         | 8/10   |
 
 ### Practical

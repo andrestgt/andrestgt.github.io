@@ -11,11 +11,11 @@ This beautiful café inside an old colonial villa used to serve some of the best
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 6/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 7.5/10 |
 | Overall         | 6/10   |
 
 ### Practical

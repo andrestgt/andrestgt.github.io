@@ -9,14 +9,13 @@ While the Aqualand complex is still unfinished, this is one of the few places al
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 8/10   |
+| Service         | 7/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phân+Khu+Hawaii+Libera+Vega+City+Đại+Lộ+Phạm+Văn+Đồng+Vĩnh+Hải+Nha+Trang+Khánh+Hòa+Vietnam)

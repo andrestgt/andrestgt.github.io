@@ -11,11 +11,11 @@ Cafe del Sol serves good coffee, although the espresso is slightly on the weak s
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| ---             | ---    |
+| Coffee          | 8.5/10 |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

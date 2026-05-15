@@ -11,12 +11,12 @@ Located inside a large and very fancy Samsung shop, this small café prepares on
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 10/10  |
-| Service         | 10/10  |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
-| Overall         | 10/10  |
+| ---             | ---    |
+| Coffee          | 9.5/10 |
+| Service         | 8.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

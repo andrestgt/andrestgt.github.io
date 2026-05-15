@@ -11,11 +11,11 @@ Still one of the best nights out in Dumaguete after all these years. Cheap drink
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Bar food        | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| ---             | ---    |
+| Bar food        | 7/10   |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

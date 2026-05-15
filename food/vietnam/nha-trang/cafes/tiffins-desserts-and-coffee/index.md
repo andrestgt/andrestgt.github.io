@@ -13,14 +13,13 @@ There's a small food menu, too, but I haven't eaten so I can't comment on the qu
 
 ## Ratings
 
-| Category | Score |
-|---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
-
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 8/10   |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=29+Nguyễn+Hữu+Huân+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)

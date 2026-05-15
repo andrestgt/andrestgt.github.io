@@ -11,11 +11,11 @@ The cappuccino at Civet Coffee Roasters is actually very good, probably the best
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
+| ---             | ---    |
+| Coffee          | 7.5/10 |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 4.5/10 |
 | Overall         | 6/10   |
 
 ### Practical
