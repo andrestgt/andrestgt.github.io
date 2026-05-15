@@ -12,11 +12,11 @@ Simple village restaurant where the food is decent enough, although slightly ove
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 6/10   |
 | Service         | 6/10   |
 | Value for money | 5/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 6.5/10 |
 | Overall         | 6/10   |
 
 ### Practical

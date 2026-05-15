@@ -12,11 +12,11 @@ Probably the nicest café in Brno. Thankfully, it avoids the usual hipster style
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 8/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

@@ -12,8 +12,8 @@ La Petite is the archetypal Parisian bistro on one of the city's prettiest squar
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 8/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 9/10   |

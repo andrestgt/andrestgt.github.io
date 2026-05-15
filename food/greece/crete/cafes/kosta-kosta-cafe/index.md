@@ -12,12 +12,12 @@ Modern-looking café with comfortable sofas and outdoor seating. Cappuccino cost
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6/10   |
+| ---             | ---    |
+| Coffee          | 6.5/10 |
 | Service         | 7/10   |
-| Value for money | 7/10   |
+| Value for money | 6.5/10 |
 | Atmosphere      | 7/10   |
-| Overall         | 6.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

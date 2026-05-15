@@ -12,12 +12,12 @@ A decent place in Salzburg's Old Town with reasonable prices and good Flammkuche
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

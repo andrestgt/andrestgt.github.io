@@ -12,11 +12,11 @@ Nice café on the town square, though not especially cheap. They also serve Ital
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7/10   |
 | Service         | 7/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 7/10   |
+| Atmosphere      | 7.5/10 |
 | Overall         | 6.5/10 |
 
 ### Practical

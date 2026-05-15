@@ -12,12 +12,12 @@ Koukouvagia may look slightly touristy because of the location, but in reality i
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

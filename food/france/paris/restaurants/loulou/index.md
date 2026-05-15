@@ -12,11 +12,11 @@ Loulou serves good wine and classic bistro food in the middle of Saint-Germain. 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
 
 ### Practical

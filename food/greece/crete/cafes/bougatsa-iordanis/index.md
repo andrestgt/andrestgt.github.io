@@ -12,9 +12,9 @@ Excellent place for breakfast or a quick snack. A plate costs around 3€, is su
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 7/10   |
-| Service         | 8/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 7.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 7/10   |
 | Overall         | 8/10   |

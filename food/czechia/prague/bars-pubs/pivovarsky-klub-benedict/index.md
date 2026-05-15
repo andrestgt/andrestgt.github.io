@@ -12,9 +12,9 @@ The beer selection here is honestly mind-boggling, with countless craft and regu
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Beer            | 10/10  |
-| Service         | 9/10   |
+| ---             | ---    |
+| Beer            | 9.5/10 |
+| Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 9.5/10 |

@@ -12,7 +12,7 @@ Comfortable armchairs and decent coffee in a town where café options are fairly
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 6/10   |
 | Service         | 6/10   |
 | Value for money | 7/10   |

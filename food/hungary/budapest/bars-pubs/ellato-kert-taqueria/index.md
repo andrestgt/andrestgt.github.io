@@ -11,13 +11,13 @@ Nicely decorated hipster beer garden with reasonable prices. The place has a Mex
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 7/10   |
-| Service         | 6/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 7/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 7/10  |
+| Service         | 6/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 7/10  |
 
 ### Practical
 

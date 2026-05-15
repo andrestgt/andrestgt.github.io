@@ -12,12 +12,12 @@ Arokaria is a very pleasant place to sit in the yard with a cold quality draft b
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Beer            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 7/10   |
+| Value for money | 6.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

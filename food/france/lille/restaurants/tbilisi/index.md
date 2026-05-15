@@ -12,11 +12,11 @@ This is a tiny Georgian restaurant with just a few tables, and it's quite hard t
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
+| ---             | ---    |
+| Food            | 9.5/10 |
+| Service         | 9/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 9.5/10 |
 
 ### Practical

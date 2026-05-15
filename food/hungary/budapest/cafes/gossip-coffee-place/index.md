@@ -11,13 +11,13 @@ A very nice-looking café in an expensive neighbourhood, but unfortunately the c
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 4/10   |
-| Service         | 5/10   |
-| Value for money | 3/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 4/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 4/10  |
+| Service         | 5/10  |
+| Value for money | 3/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 4/10  |
 
 ### Practical
 

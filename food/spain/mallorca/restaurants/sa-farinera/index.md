@@ -12,8 +12,8 @@ Beautiful restaurant with good house wine and genuinely excellent food. Dishes l
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
+| ---             | ---    |
+| Food            | 9.5/10 |
 | Service         | 9/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |

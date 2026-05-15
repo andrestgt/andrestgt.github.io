@@ -12,9 +12,9 @@ The pierogi are genuinely delicious, and the prices are great. It's a cute littl
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 9/10   |
+| ---             | ---    |
+| Food            | 9.5/10 |
+| Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 8/10   |
 | Overall         | 9.5/10 |

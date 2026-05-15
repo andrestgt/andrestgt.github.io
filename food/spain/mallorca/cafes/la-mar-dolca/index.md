@@ -12,11 +12,11 @@ They serve proper flat whites here, alongside craft beer and avocado toast. Quit
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 10/10  |
-| Service         | 9/10   |
+| ---             | ---    |
+| Coffee          | 9.5/10 |
+| Service         | 8.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
 
 ### Practical

@@ -12,10 +12,10 @@ Simple, tasty Hungarian comfort food at surprisingly good prices considering the
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 9/10   |
+| Value for money | 8.5/10 |
 | Atmosphere      | 7/10   |
 | Overall         | 8/10   |
 

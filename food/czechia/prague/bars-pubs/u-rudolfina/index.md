@@ -12,11 +12,11 @@ Despite the location, this pivnice feels a little more authentic than many other
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Beer            | 7/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 7/10   |
+| Atmosphere      | 7.5/10 |
 | Overall         | 6.5/10 |
 
 ### Practical

@@ -12,12 +12,12 @@ The best of the ruin pubs — quite an amazing place to visit. Less cool, howeve
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Beer            | 7/10   |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 10/10  |
-| Overall         | 8/10   |
+| Atmosphere      | 9.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

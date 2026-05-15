@@ -12,10 +12,10 @@ Modern Italian-style café with comfortable armchairs and outdoor seating. Prope
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 9/10   |
-| Service         | 9/10   |
-| Value for money | 10/10  |
+| Service         | 8.5/10 |
+| Value for money | 9.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 9/10   |
 

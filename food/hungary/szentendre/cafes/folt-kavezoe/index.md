@@ -11,13 +11,13 @@ Fantastic and slightly eclectic coffee shop serving Italian-style coffee, craft 
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 7/10   |
-| Service         | 9/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 7/10  |
+| Service         | 9/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

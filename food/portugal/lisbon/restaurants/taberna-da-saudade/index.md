@@ -11,13 +11,13 @@ Tiny and very cute little restaurant that feels almost like the ultimate Lisbon 
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 7/10   |
-| Service         | 7/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 6.5/10 |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 7/10  |
+| Service         | 7/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 7/10  |
 
 ### Practical
 

@@ -11,13 +11,13 @@ Nice, slightly chic little café on the Old Town square with inexpensive beer an
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 8/10  |
+| Service         | 7/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

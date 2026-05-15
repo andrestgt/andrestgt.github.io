@@ -12,7 +12,7 @@ Rather fancy restaurant by the beach with excellent sea views and very comfortab
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 8/10   |
 | Value for money | 6/10   |

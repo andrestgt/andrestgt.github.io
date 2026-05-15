@@ -11,13 +11,13 @@ Big, spacious bar/club with a very casual feel. Drinks are pretty cheap, and it'
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 7/10   |
-| Service         | 7/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 7/10  |
+| Service         | 7/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

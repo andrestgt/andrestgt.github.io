@@ -12,8 +12,8 @@ Simple local eatery with cheap wine and reasonably friendly service. Even the gr
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 7/10   |

@@ -12,12 +12,12 @@ The Bollocks is just a really fun bar. Drinks are good, prices are fair, the mus
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Drinks          | 9/10   |
-| Service         | 9/10   |
+| ---             | ---    |
+| Drinks          | 8.5/10 |
+| Service         | 8/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

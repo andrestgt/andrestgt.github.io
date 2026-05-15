@@ -12,12 +12,12 @@ Friendly place in a prime location. The house wine is good, which is hardly surp
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
+| ---             | ---    |
+| Food            | 6.5/10 |
 | Service         | 7/10   |
-| Value for money | 6/10   |
+| Value for money | 6.5/10 |
 | Atmosphere      | 7/10   |
-| Overall         | 6.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

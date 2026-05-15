@@ -12,10 +12,10 @@ Fantastic place for fresh seafood at some of the best prices you'll find anywher
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
+| ---             | ---    |
+| Food            | 9.5/10 |
 | Service         | 9/10   |
-| Value for money | 10/10  |
+| Value for money | 9.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 9.5/10 |
 

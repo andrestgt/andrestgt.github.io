@@ -12,9 +12,9 @@ A wonderfully old school, traditional Hungarian restaurant in the Old Town which
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 9/10   |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 9.5/10 |

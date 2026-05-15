@@ -12,7 +12,7 @@ Nice little café where the coffee is reasonably priced. The food feels slightly
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |

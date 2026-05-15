@@ -12,12 +12,12 @@ Nice, modern eatery with mainly local clientele. It's cheap and filling, and the
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
+| ---             | ---    |
+| Food            | 6.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 6.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

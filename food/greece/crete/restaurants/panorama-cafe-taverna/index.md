@@ -12,12 +12,12 @@ Small village taverna with gorgeous mountain views and very friendly service. Th
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
 | Service         | 8/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 10/10  |
-| Overall         | 8.5/10 |
+| Atmosphere      | 9.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

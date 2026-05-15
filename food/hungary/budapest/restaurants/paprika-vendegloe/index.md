@@ -12,9 +12,9 @@ Can't go wrong here. Yes, it's touristy, but it tastes and looks like a traditio
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 9/10   |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 9.5/10 |

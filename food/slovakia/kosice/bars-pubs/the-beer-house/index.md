@@ -11,13 +11,13 @@ Large beer pub with a huge range of beers on tap. Prices are very fair for the O
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 8/10  |
+| Service         | 7/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

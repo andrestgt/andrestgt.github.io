@@ -12,7 +12,7 @@ Touristy bar-restaurant with excellent views over Porto. A litre jug of sangria 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Drinks          | 7/10   |
 | Service         | 7/10   |
 | Value for money | 7/10   |

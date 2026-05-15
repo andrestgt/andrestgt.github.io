@@ -12,10 +12,10 @@ The Mill is pretty much perfect for a coffee break after climbing Lisbon's hills
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 10/10  |
-| Service         | 9/10   |
-| Value for money | 8/10   |
+| ---             | ---    |
+| Coffee          | 9.5/10 |
+| Service         | 8.5/10 |
+| Value for money | 7.5/10 |
 | Atmosphere      | 9/10   |
 | Overall         | 9/10   |
 

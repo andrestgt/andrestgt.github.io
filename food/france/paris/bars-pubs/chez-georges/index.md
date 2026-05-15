@@ -11,13 +11,13 @@ Chez Georges has a unique wine cellar atmosphere. The best approach is probably 
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Drinks          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Drinks          | 8/10  |
+| Service         | 7/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 9/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

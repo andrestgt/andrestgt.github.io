@@ -12,12 +12,12 @@ The area around Lille Flandres station is not the most pleasant part of the city
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8.5/10 |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

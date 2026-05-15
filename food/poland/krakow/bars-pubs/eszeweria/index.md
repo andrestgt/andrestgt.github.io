@@ -11,13 +11,13 @@ Dark, cavernous, and pleasantly moody — a proper little pub with a good atmosp
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
-| Service         | 5/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 8/10  |
+| Service         | 5/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 9/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

@@ -12,12 +12,12 @@ Apart from the shortage of comfortable seating, this is a very pleasant café wi
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10   |
+| ---             | ---    |
+| Coffee          | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

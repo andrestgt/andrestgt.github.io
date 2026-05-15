@@ -12,7 +12,7 @@ Nice and friendly hipster-vegan café with good coffee. The prices, especially f
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7/10   |
 | Service         | 8/10   |
 | Value for money | 5/10   |

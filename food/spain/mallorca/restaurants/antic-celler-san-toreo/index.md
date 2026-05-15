@@ -12,8 +12,8 @@ The food here is traditional and good without being especially refined. The real
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 9/10   |

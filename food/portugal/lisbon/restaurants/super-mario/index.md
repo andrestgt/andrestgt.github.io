@@ -11,13 +11,13 @@ With Lisbon now firmly on the international tourist circuit, Super Mário initia
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 8/10  |
+| Service         | 7/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

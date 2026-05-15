@@ -11,13 +11,13 @@ Pleasant, traditional beer-and-food pub with good draft beers and local comfort 
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 8/10  |
+| Service         | 7/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

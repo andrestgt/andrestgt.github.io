@@ -12,11 +12,11 @@ Very fancy and extremely comfortable café. Considering the setting, just over 2
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 9/10   |
-| Service         | 9/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 10/10  |
+| Service         | 8.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 9.5/10 |
 | Overall         | 9/10   |
 
 ### Practical

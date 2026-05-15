@@ -12,11 +12,11 @@ This place looks extremely fancy, almost intimidatingly so, but it's actually a 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 8/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 9/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

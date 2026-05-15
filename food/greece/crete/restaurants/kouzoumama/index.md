@@ -12,12 +12,12 @@ Kouzoumama is one of the best places to eat in Kissamos. The food is fresh and g
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
+| ---             | ---    |
+| Food            | 9/10   |
 | Service         | 9/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

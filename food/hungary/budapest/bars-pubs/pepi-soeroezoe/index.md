@@ -12,8 +12,8 @@ Seemed at first a little pricey for a neighbourhood pub. But they have a good se
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
+| ---             | ---    |
+| Beer            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 8/10   |

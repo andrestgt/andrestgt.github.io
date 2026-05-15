@@ -12,12 +12,12 @@ There's no jazz here, and it isn't a café either. It's a full-blown rock club, 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
+| ---             | ---    |
+| Beer            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

@@ -12,11 +12,11 @@ subtitle: Nové Město nad Metují · Restaurant & Bar
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
-| Value for money | 10/10  |
-| Atmosphere      | 10/10  |
+| ---             | ---    |
+| Food            | 8/10   |
+| Service         | 8.5/10 |
+| Value for money | 9.5/10 |
+| Atmosphere      | 9.5/10 |
 | Overall         | 9.5/10 |
 
 ### Practical

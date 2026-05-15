@@ -12,12 +12,12 @@ This modern brewpub serves house-brewed craft beer alongside hearty Czech food w
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
-| Service         | 9/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

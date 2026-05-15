@@ -12,7 +12,7 @@ The banh mi here is tasty, although prices feel a little high considering the lo
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |

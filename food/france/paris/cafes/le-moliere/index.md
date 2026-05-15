@@ -12,11 +12,11 @@ People mostly come here for the atmosphere on Rue de Buci, which is basically th
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 5/10   |
 | Service         | 6/10   |
 | Value for money | 5/10   |
-| Atmosphere      | 8/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 6/10   |
 
 ### Practical

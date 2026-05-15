@@ -12,11 +12,11 @@ Attractive little tapas and wine bar overlooking the Douro, with vintage trams p
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Drinks          | 8/10   |
+| ---             | ---    |
+| Food            | 8/10   |
 | Service         | 7/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 8/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

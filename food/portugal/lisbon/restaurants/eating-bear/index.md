@@ -11,13 +11,13 @@ Eating Bear serves excellent wine and petiscos with a slight Asian twist. The st
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 8/10  |
+| Service         | 8/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

@@ -12,7 +12,7 @@ Mostly a takeaway coffee place, although there are a few seats available as well
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 6/10   |
 | Service         | 6/10   |
 | Value for money | 9/10   |

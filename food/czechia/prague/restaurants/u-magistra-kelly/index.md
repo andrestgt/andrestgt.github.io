@@ -12,11 +12,11 @@ Small place that feels noticeably less touristy than most restaurants nearby. Th
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 8/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

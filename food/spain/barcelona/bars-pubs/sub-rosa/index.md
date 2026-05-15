@@ -12,8 +12,8 @@ Superb little hideaway with good cocktails, good music, attractive décor, and e
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Drinks          | 10/10  |
+| ---             | ---    |
+| Drinks          | 9.5/10 |
 | Service         | 9/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |

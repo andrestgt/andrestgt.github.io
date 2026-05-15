@@ -12,12 +12,12 @@ Lovely little place tucked away in a shaded pedestrian alley. The 2,50€ carafe
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Drinks          | 8/10   |
+| ---             | ---    |
+| Drinks          | 8.5/10 |
 | Service         | 7/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

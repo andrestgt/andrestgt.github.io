@@ -12,11 +12,11 @@ It's genuinely difficult to find even mediocre food in Alsace, and this place is
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 8/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

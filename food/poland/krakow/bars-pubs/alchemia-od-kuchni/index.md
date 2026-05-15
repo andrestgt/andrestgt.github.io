@@ -11,13 +11,13 @@ This place oozes atmosphere. It's a little pricey by local standards, but it's p
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 8/10  |
+| Service         | 7/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 9/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

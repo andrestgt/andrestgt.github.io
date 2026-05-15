@@ -12,12 +12,12 @@ At first glance this looks like a fairly generic Czech restaurant aimed mostly a
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

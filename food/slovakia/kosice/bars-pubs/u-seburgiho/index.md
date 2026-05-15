@@ -12,11 +12,11 @@ This place is quite a surprise once you make your way through the rather drab co
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
+| ---             | ---    |
+| Beer            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 7/10   |
+| Atmosphere      | 7.5/10 |
 | Overall         | 7.5/10 |
 
 ### Practical

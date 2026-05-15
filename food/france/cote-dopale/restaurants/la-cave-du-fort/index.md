@@ -12,12 +12,12 @@ Great pub with a small menu of Moules Frites, planchas and a board of changing d
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
 | Service         | 9/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

@@ -12,11 +12,11 @@ Relaxed Old Town lounge with very good coffee and a laid-back atmosphere. Seatin
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 9/10   |
 | Service         | 7/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 8/10   |
+| Value for money | 6.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

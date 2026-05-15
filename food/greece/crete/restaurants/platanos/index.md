@@ -12,12 +12,12 @@ During the evenings this place seems to cater heavily to organised tour groups, 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7/10   |
 | Service         | 7/10   |
-| Value for money | 8/10   |
+| Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

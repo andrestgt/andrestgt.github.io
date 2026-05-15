@@ -12,7 +12,7 @@ Doce Pimenta Café serves cheap beer and coffee, has reliable wifi, and works we
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 6/10   |
 | Service         | 6/10   |
 | Value for money | 8/10   |

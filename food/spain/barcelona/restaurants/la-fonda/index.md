@@ -12,7 +12,7 @@ La Fonda is unapologetically aimed at tourists, but the prices remain surprising
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7/10   |
 | Service         | 7/10   |
 | Value for money | 8/10   |

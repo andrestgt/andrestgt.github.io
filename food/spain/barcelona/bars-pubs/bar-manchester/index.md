@@ -12,12 +12,12 @@ Bar Manchester gets the basics right: good music at sensible volume levels and c
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Beer            | 6/10   |
 | Service         | 7/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

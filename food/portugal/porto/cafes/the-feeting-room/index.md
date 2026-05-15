@@ -12,10 +12,10 @@ This café is hidden inside a clothes shop and has only one large shared table, 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 9/10   |
+| ---             | ---    |
+| Coffee          | 8.5/10 |
 | Service         | 7/10   |
-| Value for money | 7/10   |
+| Value for money | 6.5/10 |
 | Atmosphere      | 7/10   |
 | Overall         | 8/10   |
 

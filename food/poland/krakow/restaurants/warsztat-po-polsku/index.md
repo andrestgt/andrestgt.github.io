@@ -12,8 +12,8 @@ Small place with a mix of tourists and locals, serving simple Polish food. It's 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
+| ---             | ---    |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 7/10   |

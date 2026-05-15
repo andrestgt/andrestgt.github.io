@@ -12,9 +12,9 @@ Very nice little wine bar in the Old Town with an excellent white muscat by the 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Beer            | 10/10  |
-| Service         | 9/10   |
+| ---             | ---    |
+| Drinks          | 9/10   |
+| Service         | 8.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 9/10   |

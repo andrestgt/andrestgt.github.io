@@ -12,10 +12,10 @@ Comfortable hipster café-bar with good cappuccino for 460 Ft. The service can b
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 6/10   |
-| Value for money | 8/10   |
+| Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 8/10   |
 

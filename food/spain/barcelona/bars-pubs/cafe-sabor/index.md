@@ -11,13 +11,13 @@ Lovely little place to stop for a couple of ice-cold 1€ cañas. Wifi is fast a
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 8/10  |
+| Service         | 7/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

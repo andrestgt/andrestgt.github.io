@@ -11,13 +11,13 @@ Strong coffee, generously filled bagels, and fast wifi, all at suburban prices f
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 8/10  |
+| Service         | 7/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

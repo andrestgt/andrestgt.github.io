@@ -11,13 +11,13 @@ Simple and quiet little place in the centre, but away from the worst tourist cro
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Drinks          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Drinks          | 8/10  |
+| Service         | 7/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

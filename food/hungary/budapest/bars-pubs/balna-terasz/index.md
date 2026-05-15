@@ -12,8 +12,8 @@ The location by the Danube is basically impossible to beat. Cocktails by the car
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Beer            | 7/10   |
+| ---             | ---    |
+| Drinks          | 6.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 9/10   |

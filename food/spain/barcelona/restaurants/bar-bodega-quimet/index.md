@@ -11,13 +11,13 @@ Classic tapas bar where locals clearly outnumber tourists. Prices are reasonable
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Drinks          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 8/10  |
+| Service         | 7/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 9/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

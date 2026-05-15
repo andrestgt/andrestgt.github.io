@@ -11,13 +11,13 @@ Great little place in Barceloneta with good tapas, friendly service, and fair pr
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Drinks          | 8/10   |
-| Service         | 8/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 8/10  |
+| Service         | 8/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

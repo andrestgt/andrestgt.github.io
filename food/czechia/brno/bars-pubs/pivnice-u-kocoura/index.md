@@ -12,12 +12,12 @@ Pivnice U Kocoura is a fantastic beer pub with excellent comfort food, tasty bee
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Beer            | 10/10  |
-| Service         | 9/10   |
+| ---             | ---    |
+| Beer            | 9/10   |
+| Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

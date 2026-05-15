@@ -12,9 +12,9 @@ In an area packed with good restaurants around the lovely Liszt Ferenc tér, Men
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 10/10  |
-| Service         | 10/10  |
+| ---             | ---    |
+| Food            | 9.5/10 |
+| Service         | 9/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 9.5/10 |

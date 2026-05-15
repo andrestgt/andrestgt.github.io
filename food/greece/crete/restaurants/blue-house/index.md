@@ -12,12 +12,12 @@ Blue House is a highly recommended restaurant in a wonderful setting with genuin
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
 | Service         | 9/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 10/10  |
-| Overall         | 9.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 9.5/10 |
+| Overall         | 9/10   |
 
 ### Practical
 

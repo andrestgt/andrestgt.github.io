@@ -11,13 +11,13 @@ Camelot is undeniably a beautiful café, and the décor is the main reason to co
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 7/10   |
-| Service         | 4/10   |
-| Value for money | 5/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 6/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 7/10  |
+| Service         | 4/10  |
+| Value for money | 5/10  |
+| Atmosphere      | 9/10  |
+| Overall         | 6/10  |
 
 ### Practical
 

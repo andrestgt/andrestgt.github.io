@@ -11,13 +11,13 @@ This café looks nice enough from the outside and sits directly on the main squa
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 3/10   |
-| Service         | 2/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 3/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 3/10  |
+| Service         | 2/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 3/10  |
 
 ### Practical
 

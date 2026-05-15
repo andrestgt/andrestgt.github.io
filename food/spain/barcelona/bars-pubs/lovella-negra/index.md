@@ -11,13 +11,13 @@ One of the cheapest places to drink in Barcelona's Old Town. The interior feels 
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Beer            | 7/10   |
-| Service         | 7/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Beer            | 7/10  |
+| Service         | 7/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 
