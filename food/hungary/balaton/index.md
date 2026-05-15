@@ -2,13 +2,11 @@
 layout: default
 section: food
 city: balaton
-title: Balaton
-subtitle: Food & drink around Lake Balaton
+title: Lake Balaton
+subtitle: Food & drink at Lake Balaton
 ---
 
-# Balaton
+# Lake Balaton
 
 ## Categories
 - [Restaurants](/food/hungary/balaton/restaurants/)
-- [Cafés](/food/hungary/balaton/cafes/)
-- [Bars & Pubs](/food/hungary/balaton/bars-pubs/)

@@ -17,4 +17,3 @@ Food & drink in Hungary.
 - [Lake Balaton](/food/hungary/balaton/)
 - [Szentendre](/food/hungary/szentendre/)
 - [Vác](/food/hungary/vac/)
-- [Veszprém](/food/hungary/veszprem/)

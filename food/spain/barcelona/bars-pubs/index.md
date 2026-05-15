@@ -11,20 +11,10 @@ subtitle: Bars & Pubs in Barcelona
 # Bars & Pubs in Barcelona
 
 
-## BAR BODEGA QUIMET
-Barcelona · Tapas Bar
-Classic tapas bar where locals clearly outnumber tourists. The tapas and house wine are both very good. Expect to spend around 20€ for two with wine.
-→ [Read the full review](./bar-bodega-quimet/)
-
 ## BAR MANCHESTER
 Barcelona · Bar
 Gets the basics right: good music at sensible volume levels and cheap drinks during happy hour until 22:30. The only real downside is that the house beer is Heineken.
 → [Read the full review](./bar-manchester/)
-
-## THE BOLLOCKS
-Barcelona · Bar
-Just a really fun bar. Drinks are good, prices are fair, the music is good, and the atmosphere works. Easy place to end up staying longer than planned.
-→ [Read the full review](./the-bollocks/)
 
 ## CAFÈ SABOR
 Barcelona · Bar
@@ -46,12 +36,7 @@ Barcelona · Cocktail Bar
 Superb little hideaway with good cocktails, good music, attractive décor, and excellent happy hour deals.
 → [Read the full review](./sub-rosa/)
 
-## LA VIOLETA
-Barcelona · Natural Wine Bar
-Great little place in Barceloneta with good tapas, friendly service, and fair prices. The mussels are especially good.
-→ [Read the full review](./la-violeta/)
-
-## ZODIACO
+## THE BOLLOCKS
 Barcelona · Bar
-Cheap beer, cheap pinchos, generous portions, and a cheerful atmosphere. Delivers exactly what it promises.
-→ [Read the full review](./zodiaco/)
+Just a really fun bar. Drinks are good, prices are fair, the music is good, and the atmosphere works. Easy place to end up staying longer than planned.
+→ [Read the full review](./the-bollocks/)

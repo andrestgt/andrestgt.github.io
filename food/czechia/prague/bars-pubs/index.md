@@ -11,11 +11,6 @@ subtitle: Bars & Pubs in Prague
 # Bars & Pubs in Prague
 
 
-## PIVOVAR U TŘÍ RŮŽÍ
-Prague · Beer Restaurant
-Traditional beer restaurant in the Old Town. The house beers on tap are genuinely very good, especially the Weizen and the Vienna Red.
-→ [Read the full review](./pivovar-u-tri-ruzi/)
-
 ## PIVOVARSKÝ KLUB BENEDICT
 Prague · Craft Beer Bar
 Mind-boggling beer selection with countless craft beers on tap and bottled. The food is very good too. Much better priced than places in the Old Town centre.
