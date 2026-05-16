@@ -14,15 +14,45 @@ The menu is extensive, and everything I've ever tried was well prepared and the 
 
 It's not high-end sushi, but for the price, it's hard to beat.
 
+<figure>
+  <a href="/photos/indonesia/java/surabaya/sushi-tei-tp-1.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/sushi-tei-tp-1.jpg" alt="Sushi Tei TP">
+  </a>
+</figure>
+
+<figure>
+  <a href="/photos/indonesia/java/surabaya/sushi-tei-tp-2.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/sushi-tei-tp-2.jpg" alt="Sushi Tei TP">
+  </a>
+</figure>
+
+<figure>
+  <a href="/photos/indonesia/java/surabaya/sushi-tei-tp-3.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/sushi-tei-tp-3.jpg" alt="Sushi Tei TP">
+  </a>
+</figure>
+
+<figure>
+  <a href="/photos/indonesia/java/surabaya/sushi-tei-tp-4.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/sushi-tei-tp-4.jpg" alt="Sushi Tei TP">
+  </a>
+</figure>
+
+<figure>
+  <a href="/photos/indonesia/java/surabaya/sushi-tei-tp-5.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/sushi-tei-tp-5.jpg" alt="Sushi Tei TP">
+  </a>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8.5/10  |
-| Service         | 9/10  |
-| Value for money | 9.5/10   |
-| Atmosphere      | 9/10  |
-| Overall         | 9/10 |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8/10   |
+| Value for money | 9.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

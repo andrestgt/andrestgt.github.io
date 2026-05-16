@@ -10,15 +10,27 @@ Everything here is up to the usual Sushi Tei standard, with the same menu and co
 
 If I had to choose between the branches in Surabaya, though, I would still go to Tunjungan, mainly for the views and the overall nicer decor and atmosphere.
 
+<figure>
+  <a href="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-1.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-1.jpg" alt="Sushi Tei Pakuwon Mall">
+  </a>
+</figure>
+
+<figure>
+  <a href="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-2.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-2.jpg" alt="Sushi Tei Pakuwon Mall">
+  </a>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8.5/10  |
-| Service         | 8/10  |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 7.5/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

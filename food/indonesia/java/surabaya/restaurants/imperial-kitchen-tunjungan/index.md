@@ -12,15 +12,21 @@ The place itself is less convincing. When it gets busy, service tends to be over
 
 If you just want to try Imperial Kitchen and don't mind where to go, the Pakuwon Mall branch is the better choice.
 
+<figure>
+  <a href="/photos/indonesia/java/surabaya/imperial-kitchen-tunjungan-1.jpg" target="_blank">
+    <img src="/photos/indonesia/java/surabaya/imperial-kitchen-tunjungan-1.jpg" alt="Imperial Kitchen & Dimsum – Tunjungan Plaza">
+  </a>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10  |
+| ---             | ---    |
+| Food            | 8/10   |
 | Service         | 4/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 4/10   |
-| Overall         | 7/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 
