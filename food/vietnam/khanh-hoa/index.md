@@ -3,7 +3,7 @@ layout: default
 hero: /photos/background/khanhhoahero.jpg
 background: khanhhoahero.jpg
 section: food
-region: khanh-hoa
+city: khanh-hoa
 slug: khanh-hoa
 title: Khánh Hòa – Food & Drink
 subtitle: Food and drink across Khánh Hòa

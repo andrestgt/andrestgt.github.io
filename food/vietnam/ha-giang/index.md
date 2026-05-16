@@ -3,7 +3,7 @@ layout: default
 hero: /photos/background/hagianghero.jpg
 background: hagianghero.jpg
 section: food
-region: ha-giang
+city: ha-giang
 slug: ha-giang
 title: Hà Giang – Food & Drink
 subtitle: Food and drink across Hà Giang
