@@ -5,6 +5,12 @@ review: true
 title: Xofa Cafe
 subtitle: Hoàn Kiếm · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/xofa-cafe-1.jpg" alt="Xofa Cafe">
+  <figcaption>Xofa Cafe</figcaption>
+</figure>
+
 Large café in a beautiful old town courtyard with good service and great breakfast combos. The prawn eggs benedict served in a buttery croissant are wonderful and go for 149k including a large cup of very good cappuccino.
 
 I usually deduct one star for places that add VAT to their menu prices (this is very unusual in Vietnam but seems to be becoming more common) as I feel it's bad business practice.

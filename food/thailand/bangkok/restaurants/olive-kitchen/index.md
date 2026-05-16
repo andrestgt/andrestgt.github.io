@@ -6,6 +6,11 @@ title: Olive Kitchen – Khaosan
 subtitle: Phra Nakhon · Italian, Pizza
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/olive-kitchen-1.jpg" alt="Olive Kitchen – Khaosan">
+  <figcaption>Olive Kitchen – Khaosan</figcaption>
+</figure>
+
 Bangkok's backpacker area isn't exactly where you'd expect to find a high-end wood-fired pizza and craft beer spot, but if you feel like a bit of a splurge, you could do a lot worse than Olive.
 
 The pizzas here are among the best in town. Napoli-style with a thick crust, properly baked, and topped with high-quality ingredients. There's a mix of classic Italian options as well as some Thai-influenced toppings.

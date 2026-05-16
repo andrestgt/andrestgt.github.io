@@ -6,6 +6,11 @@ title: Muay Khao Soi
 subtitle: Nimman · Northern Thai
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/muay-khao-soi-1.jpg" alt="Muay Khao Soi">
+  <figcaption>Muay Khao Soi</figcaption>
+</figure>
+
 Neat little budget eatery in pricey Nimman. They have khao soi as well as nam ngiao. Both very good at very reasonable prices for the area. Great place for a quick snack.
 
 ## Ratings

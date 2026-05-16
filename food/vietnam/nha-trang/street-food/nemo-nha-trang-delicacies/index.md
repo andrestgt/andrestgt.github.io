@@ -5,6 +5,12 @@ review: true
 title: Nemo Nha Trang Delicacies
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/nemo-nha-trang-delicacies-1.jpg" alt="Nemo Nha Trang Delicacies">
+  <figcaption>Nemo Nha Trang Delicacies</figcaption>
+</figure>
+
 Just like Bong crazy next door, Nemo is an old school traveller eatery that does everything right. The menu features all Vietnamese favourites at very affordable prices, plus a few more modern, health conscious dishes such as the tasty raw tuna with sea grapes. I love their spring rolls, but wished they would put some herbs and more leaves on the plate for extra crunchy freshness. 10k for a beer, 25k for a coconut.
 
 ## Ratings

@@ -5,6 +5,12 @@ review: true
 title: Hoi An Roastery Espresso & Coffee House
 subtitle: Hội An · Specialty Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/hoi-an-roastery-espresso-coffee-house-1.jpg" alt="Hoi An Roastery Espresso & Coffee House">
+  <figcaption>Hoi An Roastery Espresso & Coffee House</figcaption>
+</figure>
+
 The nicest and comfiest Western-style coffee shop in Hội An, and an ideal stop for an espresso fix while exploring the Old Town. The cappuccino is excellent, and they also prepare very good Vietnamese specialty coffees.
 
 ## Ratings

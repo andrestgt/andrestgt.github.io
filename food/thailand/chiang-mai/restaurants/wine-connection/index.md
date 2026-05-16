@@ -6,6 +6,11 @@ title: Wine Connection Central Festival
 subtitle: Fa Ham · Wine Bar, Deli
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/wine-connection-1.jpg" alt="Wine Connection Central Festival">
+  <figcaption>Wine Connection Central Festival</figcaption>
+</figure>
+
 The most affordable place for wine and deli food in Thailand. Wine Connection is an absolute winner for wine and food lovers who don't want to spend a fortune. Some excellent specials here too.
 
 ## Ratings

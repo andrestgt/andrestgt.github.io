@@ -5,6 +5,12 @@ review: true
 title: Santo Beer Collection
 subtitle: Nha Trang · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/santo-beer-collection-1.jpg" alt="Santo Beer Collection">
+  <figcaption>Santo Beer Collection</figcaption>
+</figure>
+
 Soft opening, so I won't write a detailed review yet, but the place has great potential and a mind boggling selection of beers including good ones from the tap.
 
 They really should work on their food menu though, for the prices they charge I'd expect excellent quality, not the kind of mediocre dishes they serve here

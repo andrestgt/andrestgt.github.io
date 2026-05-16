@@ -6,6 +6,11 @@ title: Coffee Beans By Dao – Central Embassy
 subtitle: Pathum Wan · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/coffee-beans-by-dao-1.jpg" alt="Coffee Beans By Dao – Central Embassy">
+  <figcaption>Coffee Beans By Dao – Central Embassy</figcaption>
+</figure>
+
 This branch is beautifully designed and has extremely comfortable armchairs. The coffee is good, although not really worth the 100+ Bt price tag, and the international bistro menu is similarly expensive but quality.
 
 ## Ratings

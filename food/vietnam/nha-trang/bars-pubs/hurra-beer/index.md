@@ -5,6 +5,12 @@ review: true
 title: Hurra Beer
 subtitle: Nha Trang · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/hurra-beer-1.jpg" alt="Hurra Beer">
+  <figcaption>Hurra Beer</figcaption>
+</figure>
+
 If you're nostalgic or just want to experience what a Vietnamese drinking place looked like in the 90s, Hurra delivers on both accounts.
 
 Obviously, the selection of beers is a lot more varied and the prices much higher than back then, but it recreates a nice vintage atmosphere all the way to even the background music.
