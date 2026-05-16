@@ -19,19 +19,8 @@ We also had seafood kiewtiao goreng and capcay with seafood, both very good. The
 
 Prices are fair for the quality and portion sizes. If I had to choose just one seafood restaurant around Ambon, this would be it.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/ambon/restaurant-sari-gurih-beach-2.jpg" alt="Restaurant Sari Gurih Beach">
-  <figcaption>Restaurant Sari Gurih Beach</figcaption>
-</figure>
-<figure>
-  <img src="/photos/indonesia/maluku/restaurant-sari-gurih-beach-1.jpg" alt="Restaurant Sari Gurih Beach">
-  <figcaption>Restaurant Sari Gurih Beach</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/indonesia/maluku/restaurant-sari-gurih-beach-2.jpg" alt="Restaurant Sari Gurih Beach">
   <figcaption>Restaurant Sari Gurih Beach</figcaption>
 </figure>
 

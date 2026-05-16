@@ -17,11 +17,6 @@ A latte costs 20K and the quality is better than expected for such a remote plac
 
 The main drawback is the opening hours. Serenade only opens at 5 pm, which makes it impossible to get good coffee there in the morning.
 
-<figure>
-  <img src="/photos/indonesia/maluku/serenade-1.jpg" alt="Serenade Food & Beverage">
-  <figcaption>Serenade Food & Beverage</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

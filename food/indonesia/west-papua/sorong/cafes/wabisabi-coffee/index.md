@@ -15,16 +15,10 @@ Large, modern and air-conditioned, this is probably Sorong's premier coffee shop
 
 With AC and Wi-Fi, it's a good place for a coffee fix or to relax for a while if you're waiting for the ferry.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/west-papua/sorong/wabisabi-coffee-2.jpg" alt="Wabi Sabi Coffee">
   <figcaption>Wabi Sabi Coffee</figcaption>
 </figure>
-<figure>
-  <img src="/photos/indonesia/west-papua/wabisabi-coffee-1.jpg" alt="Wabi Sabi Coffee">
-  <figcaption>Wabi Sabi Coffee</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

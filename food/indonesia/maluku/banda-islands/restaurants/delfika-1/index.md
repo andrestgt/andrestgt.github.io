@@ -30,16 +30,10 @@ The food itself is good, but the courtyard makes it one of the best places in Ba
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/banda-islands/delfika-1-4.jpg" alt="Delfika 1 Guesthouse / Cafe">
   <figcaption>Delfika 1 Guesthouse / Cafe</figcaption>
 </figure>
-<figure>
-  <img src="/photos/indonesia/maluku/delfika-1-1.jpg" alt="Delfika 1 Guesthouse / Cafe">
-  <figcaption>Delfika 1 Guesthouse / Cafe</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

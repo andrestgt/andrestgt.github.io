@@ -15,11 +15,6 @@ You can hardly find a better location for a coffee shop than Coffee Toffee. It's
 
 Prices are very reasonable, and the coffee is perfectly fine. If you're in the area, it's worth a stop. It's less expensive than it looks.
 
-<figure>
-  <img src="/photos/indonesia/java/coffee-toffee-apsari-1.jpg" alt="Coffee Toffee Apsari Grahadi">
-  <figcaption>Coffee Toffee Apsari Grahadi</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

@@ -28,16 +28,10 @@ Prices are very reasonable for what you get. It's one of those places where you 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-4.jpg" alt="Imperial Kitchen & Dimsum – Pakuwon Mall">
   <figcaption>Imperial Kitchen & Dimsum – Pakuwon Mall</figcaption>
 </figure>
-<figure>
-  <img src="/photos/indonesia/java/imperial-kitchen-pakuwon-1.jpg" alt="Imperial Kitchen & Dimsum – Pakuwon Mall">
-  <figcaption>Imperial Kitchen & Dimsum – Pakuwon Mall</figcaption>
-</figure>
-</div>
 
 ## Ratings
 
