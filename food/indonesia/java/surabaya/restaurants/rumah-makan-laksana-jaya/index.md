@@ -6,16 +6,16 @@ title: Rumah Makan Laksana Jaya II
 subtitle: Kota Lama · East Javanese
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/surabaya/rumah-makan-laksana-jaya-1.jpg" alt="Rumah Makan Laksana Jaya II">
+  <figcaption>Rumah Makan Laksana Jaya II</figcaption>
+</figure>
+
 A good place for East Javanese food in Kota Lama.
 
 It's an old-school, canteen-style eatery with all the usual local dishes on the menu. I had my favourite Javanese dish here, sop buntut, oxtail soup, which was very good, and their satay is also worth trying for its pungent Javanese style sauce.
 
 It's not the cheapest place for this kind of food in town, but still reasonably priced and deservedly popular.
-
-<figure>
-  <img src="/photos/indonesia/java/surabaya/rumah-makan-laksana-jaya-1.jpg" alt="Rumah Makan Laksana Jaya II">
-  <figcaption>Rumah Makan Laksana Jaya II</figcaption>
-</figure>
 
 ## Ratings
 

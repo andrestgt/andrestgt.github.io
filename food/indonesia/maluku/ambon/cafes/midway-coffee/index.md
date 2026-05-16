@@ -6,16 +6,16 @@ title: Midway Coffee
 subtitle: Ahusen, City Centre · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/midway-coffee-1.jpg" alt="Midway Coffee">
+  <figcaption>Midway Coffee</figcaption>
+</figure>
+
 Midway Coffee is one of the better coffee places in Ambon. The café has a minimalist, almost Apple-store-style design and rather uncomfortable seating, but the coffee itself is excellent.
 
 I had a cappuccino here for 32K and it was smooth and very well prepared, the second best espresso drink I had in the city.
 
 Probably the best place in the city centre for coffee lovers.
-
-<figure>
-  <img src="/photos/indonesia/maluku/ambon/midway-coffee-1.jpg" alt="Midway Coffee">
-  <figcaption>Midway Coffee</figcaption>
-</figure>
 
 ## Ratings
 

@@ -6,16 +6,16 @@ title: Redback Specialty Coffee
 subtitle: Dukuhpakis · Café
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/surabaya/redback-specialty-coffee-1.jpg" alt="Redback Specialty Coffee">
+  <figcaption>Redback Specialty Coffee</figcaption>
+</figure>
+
 A fairly well-known café in West Surabaya with a more upscale feel, although it's starting to show its age. The space is quite large and the service is very good, but the furniture and overall look feel a bit worn these days.
 
 Coffee was solid, but also among the more expensive ones in the city, around 45K for a flat white, and served in a rather large cup, which, in my opinion, is not really the point of having a flat white.
 
 Their salmon croissant was rather dry and not really worth the 100K+ price tag.
-
-<figure>
-  <img src="/photos/indonesia/java/surabaya/redback-specialty-coffee-1.jpg" alt="Redback Specialty Coffee">
-  <figcaption>Redback Specialty Coffee</figcaption>
-</figure>
 
 <figure>
   <img src="/photos/indonesia/java/surabaya/redback-specialty-coffee-2.jpg" alt="Redback Specialty Coffee">

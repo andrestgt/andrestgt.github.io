@@ -6,14 +6,14 @@ title: Sushi Tei Pakuwon Mall
 subtitle: Pakuwon Mall · Japanese
 ---
 
-Everything here is up to the usual Sushi Tei standard, with the same menu and consistent quality you get in Bangkok, Kuala Lumpur, or Jakarta.
-
-If I had to choose between the branches in Surabaya, though, I would still go to Tunjungan, mainly for the views and the overall nicer decor and atmosphere.
-
 <figure>
   <img src="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-1.jpg" alt="Sushi Tei Pakuwon Mall">
   <figcaption>Sushi Tei Pakuwon Mall</figcaption>
 </figure>
+
+Everything here is up to the usual Sushi Tei standard, with the same menu and consistent quality you get in Bangkok, Kuala Lumpur, or Jakarta.
+
+If I had to choose between the branches in Surabaya, though, I would still go to Tunjungan, mainly for the views and the overall nicer decor and atmosphere.
 
 <figure>
   <img src="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-2.jpg" alt="Sushi Tei Pakuwon Mall">

@@ -6,16 +6,16 @@ title: The Library Coffee & Pastries
 subtitle: Wiyung · Book Café
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/surabaya/the-library-1.jpg" alt="The Library Coffee & Pastries">
+  <figcaption>The Library Coffee & Pastries</figcaption>
+</figure>
+
 A nice book café inside the Waterplace complex, with shelves lined with books, including quite a few in English, which gives it a slightly different feel compared to most cafés in Surabaya.
 
 It attracts a bit of an Instagram crowd, but mornings are very quiet and actually a great time to come for a relaxed coffee. In the evenings, it gets noticeably busier and more social.
 
 Coffee was decent, nothing particularly memorable, and on the pricier side for Surabaya, around 42K for a flat white. They also serve beer and soju.
-
-<figure>
-  <img src="/photos/indonesia/java/surabaya/the-library-1.jpg" alt="The Library Coffee & Pastries">
-  <figcaption>The Library Coffee & Pastries</figcaption>
-</figure>
 
 ## Ratings
 

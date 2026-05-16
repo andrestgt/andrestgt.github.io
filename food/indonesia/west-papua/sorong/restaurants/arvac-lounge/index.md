@@ -6,16 +6,16 @@ title: Arvac Lounge & Cafe
 subtitle: Sorong Airport · Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/west-papua/sorong/arvac-lounge-1.jpg" alt="Arvac Lounge">
+  <figcaption>Arvac Lounge</figcaption>
+</figure>
+
 A surprisingly good airport lounge option.
 
 We stopped here before our flight and had single-origin Papua coffee and sop buntut (oxtail soup), both genuinely very good. Seating is the most comfortable in the airport and the Wi-Fi was the fastest we found, which already puts it ahead of most provincial airport lounges.
 
 There's a minimum spend of around 80K, so it's not really worth coming just for a quick coffee. But if you're having proper food as well, the quality is solid and, by global airport standards, reasonably priced.
-
-<figure>
-  <img src="/photos/indonesia/west-papua/sorong/arvac-lounge-1.jpg" alt="Arvac Lounge">
-  <figcaption>Arvac Lounge</figcaption>
-</figure>
 
 <figure>
   <img src="/photos/indonesia/west-papua/sorong/arvac-lounge-2.jpg" alt="Arvac Lounge">

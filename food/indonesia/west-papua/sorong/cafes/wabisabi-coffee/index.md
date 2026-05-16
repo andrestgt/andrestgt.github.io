@@ -6,14 +6,14 @@ title: Wabi Sabi Coffee
 subtitle: Kampung Baru, Sorong · Specialty Coffee
 ---
 
-Large, modern and air-conditioned, this is probably Sorong's premier coffee shop. The cappuccinos are seriously good, and at 35K quite reasonable. They also have some decent snacks.
-
-With AC and Wi-Fi, it's a good place for a coffee fix or to relax for a while if you're waiting for the ferry.
-
 <figure>
   <img src="/photos/indonesia/west-papua/sorong/wabisabi-coffee-1.jpg" alt="Wabisabi Coffee">
   <figcaption>Wabisabi Coffee</figcaption>
 </figure>
+
+Large, modern and air-conditioned, this is probably Sorong's premier coffee shop. The cappuccinos are seriously good, and at 35K quite reasonable. They also have some decent snacks.
+
+With AC and Wi-Fi, it's a good place for a coffee fix or to relax for a while if you're waiting for the ferry.
 
 <figure>
   <img src="/photos/indonesia/west-papua/sorong/wabisabi-coffee-2.jpg" alt="Wabisabi Coffee">

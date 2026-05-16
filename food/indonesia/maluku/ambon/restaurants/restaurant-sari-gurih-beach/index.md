@@ -6,6 +6,11 @@ title: Restaurant Sari Gurih Beach
 subtitle: Lateri, Baguala · Seafood, Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/restaurant-sari-gurih-beach-1.jpg" alt="Restaurant Sari Gurih Beach">
+  <figcaption>Restaurant Sari Gurih Beach</figcaption>
+</figure>
+
 A huge restaurant built on stilts over the water, and easily one of the nicest places to eat by the sea around Ambon. Sitting above the water here is far more pleasant than eating anywhere in the polluted city centre.
 
 The food was the best of the three seafood places we tried. Even the small portion of ikan kuah kuning was a massive bowl for 90K. The broth was heavy on turmeric, slightly sour and properly spicy. The white fish was excellent, although quite bony.
@@ -13,11 +18,6 @@ The food was the best of the three seafood places we tried. Even the small porti
 We also had seafood kiewtiao goreng and capcay with seafood, both very good. The sambal and homemade pickles on the side were a nice touch.
 
 Prices are fair for the quality and portion sizes. If I had to choose just one seafood restaurant around Ambon, this would be it.
-
-<figure>
-  <img src="/photos/indonesia/maluku/ambon/restaurant-sari-gurih-beach-1.jpg" alt="Restaurant Sari Gurih Beach">
-  <figcaption>Restaurant Sari Gurih Beach</figcaption>
-</figure>
 
 <figure>
   <img src="/photos/indonesia/maluku/ambon/restaurant-sari-gurih-beach-2.jpg" alt="Restaurant Sari Gurih Beach">

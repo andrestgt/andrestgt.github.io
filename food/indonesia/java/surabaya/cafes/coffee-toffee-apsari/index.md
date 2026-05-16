@@ -6,14 +6,14 @@ title: Coffee Toffee Apsari Grahadi
 subtitle: Genteng · Café
 ---
 
-You can hardly find a better location for a coffee shop than Coffee Toffee. It's set in a beautiful old colonial building near the Alun-Alun. The interior doesn't quite live up to the exterior, though. The furniture is rather tired and worn.
-
-Prices are very reasonable, and the coffee is perfectly fine. If you're in the area, it's worth a stop. It's less expensive than it looks.
-
 <figure>
   <img src="/photos/indonesia/java/surabaya/coffee-toffee-apsari-1.jpg" alt="Coffee Toffee Apsari Grahadi">
   <figcaption>Coffee Toffee Apsari Grahadi</figcaption>
 </figure>
+
+You can hardly find a better location for a coffee shop than Coffee Toffee. It's set in a beautiful old colonial building near the Alun-Alun. The interior doesn't quite live up to the exterior, though. The furniture is rather tired and worn.
+
+Prices are very reasonable, and the coffee is perfectly fine. If you're in the area, it's worth a stop. It's less expensive than it looks.
 
 ## Ratings
 
