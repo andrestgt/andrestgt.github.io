@@ -5,7 +5,29 @@ review: true
 title: Quán Năm Thêm
 subtitle: Quy Nhơn · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/quy-nhon/quan-nam-them-1.jpg" alt="Quán Năm Thêm">
+  <figcaption>Quán Năm Thêm</figcaption>
+</figure>
+
 Large and busy drinking place in the new part of town. It's nothing out of the ordinary but the quality of the food is very good and prices are reasonable. A bottle of local Qui Nhon beer is only 7k. Their oysters are very fresh and some are even quite large (16k a piece). Try their banh trang with coconut flavour (15k), it's quite delicious and perfect with Goi Hai San (65k)
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/quy-nhon/quan-nam-them-2.jpg" alt="Quán Năm Thêm">
+  <figcaption>Quán Năm Thêm</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/quy-nhon/quan-nam-them-3.jpg" alt="Quán Năm Thêm">
+  <figcaption>Quán Năm Thêm</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/quy-nhon/quan-nam-them-4.jpg" alt="Quán Năm Thêm">
+  <figcaption>Quán Năm Thêm</figcaption>
+</figure>
 
 ## Ratings
 

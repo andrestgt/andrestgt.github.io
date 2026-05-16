@@ -5,6 +5,12 @@ review: true
 title: Jo Garden Coffee
 subtitle: Ninh Hải · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ninh-thuan/jo-garden-coffee-1.jpg" alt="Jo Garden Coffee">
+  <figcaption>Jo Garden Coffee</figcaption>
+</figure>
+
 Fancy and comfy garden café with great cappuccino for just 38k a cup. Very good and friendly service. Arrived by bicycle completely drenched and they immediately offered a towel to get dry. Worth a stop if you're in the area
 
 ## Ratings

@@ -5,7 +5,35 @@ review: true
 title: Khang Dim Sum Bar Restaurant
 subtitle: Ho Chi Minh City · Chinese · Dim Sum
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khang-dim-sum-bar-restaurant-1.jpg" alt="Khang Dim Sum Bar Restaurant">
+  <figcaption>Khang Dim Sum Bar Restaurant</figcaption>
+</figure>
+
 The Cholon Khang Dim Sum Bar is a good choice for a filling dumpling feast if you're on a budget. The venue is nicely designed and decorated, and service is fast and friendlier than you'd expect from a dim sum joint. The steamed dumplings come in baskets of three but they're almost too big to call them bite sized. The skin is a little too thick and the filling can be a little too dry, but for the price (40k a basket) there's no need to nitpick. This is not Crystal Jade after all. My favourites are the roast duck dumplings, they're excellent.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khang-dim-sum-bar-restaurant-2.jpg" alt="Khang Dim Sum Bar Restaurant">
+  <figcaption>Khang Dim Sum Bar Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khang-dim-sum-bar-restaurant-3.jpg" alt="Khang Dim Sum Bar Restaurant">
+  <figcaption>Khang Dim Sum Bar Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khang-dim-sum-bar-restaurant-4.jpg" alt="Khang Dim Sum Bar Restaurant">
+  <figcaption>Khang Dim Sum Bar Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khang-dim-sum-bar-restaurant-5.jpg" alt="Khang Dim Sum Bar Restaurant">
+  <figcaption>Khang Dim Sum Bar Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

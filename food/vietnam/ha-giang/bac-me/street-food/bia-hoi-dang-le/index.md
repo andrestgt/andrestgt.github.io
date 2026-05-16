@@ -5,6 +5,12 @@ review: true
 title: Bia Hoi Dang Le
 subtitle: Bắc Mê · Bia Hơi
 ---
+
+<figure>
+  <img src="/photos/vietnam/ha-giang/bia-hoi-dang-le-1.jpg" alt="Bia Hoi Dang Le">
+  <figcaption>Bia Hoi Dang Le</figcaption>
+</figure>
+
 It's the only bia hoi place we found in Bac Me. Friendly owners, large two litre jugs of very fresh and tasty bia hoi. Not many food options but the 'Rau tron', which is generally a kind a mixed vegetable dish is really great here. It comes with two kinds of carbs (rice cake and fries) plus fried tofu and sausage. It's perfect comfort drinking food
 
 ## Ratings
