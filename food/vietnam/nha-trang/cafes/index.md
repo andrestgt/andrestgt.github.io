@@ -136,6 +136,13 @@ It seems like half of the reviews here are about the cocktail bar rather than th
 
 ---
 
+## THE SUN COFFEE BAR
+*Nha Trang*
+Classic hipster café that used to be incredibly popular a few years back, but empty on our latest visit.
+→ [Read the full review](/food/vietnam/nha-trang/cafes/the-sun-coffee-bar/)
+
+---
+
 ## Tiffins Desserts and Coffee
 *Nha Trang*
 This café is unusual in the way that many of their coffee drink concoctions actually taste of coffee plus their various 

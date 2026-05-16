@@ -126,13 +126,6 @@ We went to Skylight and its Chef's Club restaurant for a special Thai set menu, 
 
 ---
 
-## THE SUN COFFEE BAR
-*Nha Trang*
-Classic hipster café that used to be incredibly popular a few years back, but empty on our latest visit.
-→ [Read the full review](/food/vietnam/nha-trang/bars-pubs/the-sun-coffee-bar/)
-
----
-
 ## Sunshine Bar Rooftop
 *Nha Trang*
 Well hidden, down by the river, this basic place is the most scenic bar in Nha Trang.
