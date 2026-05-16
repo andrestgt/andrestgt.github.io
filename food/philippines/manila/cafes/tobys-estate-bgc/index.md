@@ -6,6 +6,11 @@ title: Toby's Estate Coffee Roasters – BGC
 subtitle: BGC, Taguig · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/tobys-estate-bgc-1.jpg" alt="Toby's Estate Coffee Roasters – BGC">
+  <figcaption>Toby's Estate Coffee Roasters – BGC</figcaption>
+</figure>
+
 Toby's Estate serves genuinely excellent coffee, even if 147 Php for a cappuccino is firmly in Manila specialty coffee territory. There are a few comfortable seats with power sockets, which helps, although the lack of wifi feels oddly stingy at this price level. Usually very busy as well.
 
 ## Ratings

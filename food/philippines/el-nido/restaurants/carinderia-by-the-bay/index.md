@@ -6,6 +6,11 @@ title: Carinderia by the Bay
 subtitle: El Nido Town · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/el-nido/carinderia-by-the-bay-1.jpg" alt="Carinderia by the Bay">
+  <figcaption>Carinderia by the Bay</figcaption>
+</figure>
+
 It's definitely not the friendliest place in the Philippines, but the location is fantastic. This is a proper beach restaurant, and if they can grill you a whole fresh fish, definitely go for it. The prices for the grilled fish are very fair — we paid 550 pesos for a jackfish that was easily enough for two. I wasn't completely convinced by some of their other dishes, which didn't seem to offer great value, but for fresh fish, this place is hard to beat.
 
 ## Ratings

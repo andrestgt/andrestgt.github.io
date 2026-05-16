@@ -6,6 +6,11 @@ title: Master Chaolong
 subtitle: Port Barton, San Vicente · Vietnamese, Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/port-barton/master-chaolong-1.jpg" alt="Master Chaolong">
+  <figcaption>Master Chaolong</figcaption>
+</figure>
+
 Master Chao Lang has so much potential but doesn't seem to care about attracting customers. The food is actually good — big portions of tasty Vietnamese-Filipino beef noodles and banh mi-style sandwiches, perfect for budget travellers. But the uninterested staff, questionable cleanliness, and uninspiring decor make it feel like they're actively trying to drive people away rather than welcome them.
 
 ## Ratings

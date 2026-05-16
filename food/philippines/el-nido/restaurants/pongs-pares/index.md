@@ -6,6 +6,11 @@ title: Pong's Pares El Nido
 subtitle: El Nido Town · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/el-nido/pongs-pares-1.jpg" alt="Pong's Pares El Nido">
+  <figcaption>Pong's Pares El Nido</figcaption>
+</figure>
+
 Don't get me wrong — the food here is very tasty, but it's best enjoyed as a hangover cure or a solid base before a binge. Healthy? Definitely not. Pungent, heavy, oily, delicious — yes. Both the pares mami and the tofu sisig would make your PT cry. 170 Php for a pares might sound steep, but for El Nido, it's pretty standard.
 
 ## Ratings
