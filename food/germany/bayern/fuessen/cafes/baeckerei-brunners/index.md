@@ -13,11 +13,11 @@ Pleasant little café-bakery in Füssen serving good pretzels and decent croissa
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 5.5/10 |
+| Service         | 7/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 6.5/10 |
 
 ### Practical
 

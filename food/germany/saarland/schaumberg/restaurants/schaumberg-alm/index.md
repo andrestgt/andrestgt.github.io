@@ -13,11 +13,11 @@ High up on a hill in the lovely Sankt Wendel countryside stands this place, buil
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 6.5/10 |
+| Service         | 7.5/10 |
+| Value for money | 7/10   |
+| Atmosphere      | 9/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

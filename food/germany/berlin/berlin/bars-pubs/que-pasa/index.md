@@ -13,11 +13,11 @@ Large cocktails with proper amounts of alcohol inside, all for 4€. Hard to arg
 
 | Category        | Score  |
 |-----------------|--------|
-| Drinks          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Drinks          | 8/10   |
+| Service         | 7.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

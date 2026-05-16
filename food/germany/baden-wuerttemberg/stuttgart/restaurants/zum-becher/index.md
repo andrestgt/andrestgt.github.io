@@ -13,11 +13,11 @@ Zum Becher has apparently been around for a long time, even if I have to admit I
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 8.5/10 |
+| Service         | 8.5/10 |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 

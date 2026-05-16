@@ -13,11 +13,11 @@ Delicious ice cream, not even too expensive,  with a perfect Old Town location
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 8/10   |
+| Service         | 7.5/10 |
+| Value for money | 8/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

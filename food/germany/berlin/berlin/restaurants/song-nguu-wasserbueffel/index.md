@@ -13,11 +13,11 @@ As someone who spends part of the year in Vietnam and cares quite a lot about Vi
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 8.5/10 |
+| Service         | 7.5/10 |
+| Value for money | 8/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 

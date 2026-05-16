@@ -13,11 +13,11 @@ Excellent bakery café with a spacious, genuinely comfortable interior that make
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 8.5/10 |
+| Service         | 8/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

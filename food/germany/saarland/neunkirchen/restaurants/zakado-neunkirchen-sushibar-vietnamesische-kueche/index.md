@@ -13,11 +13,11 @@ For a Vietnamese-run sushi restaurant in the German provinces, the quality at Za
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7/10   |
+| Service         | 7.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 6.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

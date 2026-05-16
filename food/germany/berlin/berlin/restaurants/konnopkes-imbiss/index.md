@@ -13,11 +13,11 @@ Well, it's a currywurst, and I like currywurst, so recommending this place is ha
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7/10   |
+| Service         | 6.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 6.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

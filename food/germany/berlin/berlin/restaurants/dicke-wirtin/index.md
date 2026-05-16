@@ -13,11 +13,11 @@ Traditional Berlin food in a lively, atmospheric setting. It's touristy and fair
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7/10   |
+| Service         | 7/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 7/10   |
 
 ### Practical
 

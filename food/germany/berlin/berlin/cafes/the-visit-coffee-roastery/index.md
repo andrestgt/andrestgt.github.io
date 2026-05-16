@@ -13,11 +13,11 @@ Excellent coffee, and unusually for a hipster café, even a few genuinely comfor
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 8.5/10 |
+| Service         | 7/10   |
+| Value for money | 6.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

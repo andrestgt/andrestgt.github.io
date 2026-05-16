@@ -13,11 +13,11 @@ Honest local food in large portions at reasonable prices. Apple wine is definite
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7.5/10 |
+| Service         | 7/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

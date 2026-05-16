@@ -13,11 +13,11 @@ A classic Besenwirtschaft in Obertürkheim, open only a few weeks a year. As you
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7.5/10 |
+| Service         | 7/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

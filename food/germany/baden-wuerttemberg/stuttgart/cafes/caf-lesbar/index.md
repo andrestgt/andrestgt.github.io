@@ -13,11 +13,11 @@ Modern café on the top floor of the impressive city library. From some tables y
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 7.5/10 |
+| Service         | 7/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

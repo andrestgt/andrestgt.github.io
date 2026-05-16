@@ -13,11 +13,11 @@ A pleasant traditional Swabian beer garden with hot food served all day and a go
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7/10   |
+| Service         | 7.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

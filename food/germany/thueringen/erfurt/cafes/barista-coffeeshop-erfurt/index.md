@@ -13,11 +13,11 @@ The coffee and the location here are both good, but the place feels rather expen
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 7.5/10 |
+| Service         | 5.5/10 |
+| Value for money | 6/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 

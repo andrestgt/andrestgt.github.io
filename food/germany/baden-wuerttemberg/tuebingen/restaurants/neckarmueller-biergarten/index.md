@@ -13,11 +13,11 @@ The beer garden’s location by the river is its biggest draw, offering a fantas
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 5.5/10 |
+| Service         | 7/10   |
+| Value for money | 6.5/10 |
+| Atmosphere      | 9/10   |
+| Overall         | 7/10   |
 
 ### Practical
 

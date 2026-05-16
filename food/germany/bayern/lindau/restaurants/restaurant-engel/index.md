@@ -13,11 +13,11 @@ Restaurant Engel is very popular, but if you turn up early enough you'll definit
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7.5/10 |
+| Service         | 8/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

@@ -13,11 +13,11 @@ Very funky 70s decor with reasonable prices. The coffee here is of the burnt var
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 6.5/10 |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 7/10   |
 
 ### Practical
 

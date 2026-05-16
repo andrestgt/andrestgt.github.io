@@ -17,11 +17,11 @@ The interior still has that slightly dated German-Chinese restaurant look from t
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 8.5/10 |
+| Service         | 7/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

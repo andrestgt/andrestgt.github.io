@@ -13,11 +13,11 @@ Like many hipster cafés, this place takes coffee extremely seriously, and the c
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 8.5/10 |
+| Service         | 5.5/10 |
+| Value for money | 6.5/10 |
+| Atmosphere      | 5.5/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 

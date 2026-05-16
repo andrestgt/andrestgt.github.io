@@ -13,11 +13,11 @@ A vast old-school feeding temple with a generous buffet at €25 not including d
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 5.5/10 |
+| Service         | 7/10   |
+| Value for money | 6.5/10 |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 

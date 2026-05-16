@@ -13,11 +13,11 @@ An upmarket establishment with outstanding cooking at genuinely fair prices. I d
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 8.5/10 |
+| Service         | 8/10   |
+| Value for money | 9.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 9/10   |
 
 ### Practical
 

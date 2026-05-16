@@ -13,11 +13,11 @@ Very friendly, properly traditional Swabian wine tavern with very fair prices, b
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 6.5/10 |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

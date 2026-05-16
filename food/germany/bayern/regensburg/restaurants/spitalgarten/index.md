@@ -13,11 +13,11 @@ Attractive beer garden with good service, very decent beers, and generous food a
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

@@ -13,11 +13,11 @@ Probably the best pretzels in Stuttgart, and therefore in the world. The queue o
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 9/10   |
+| Service         | 7/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 

@@ -13,11 +13,11 @@ In der Altstadt, deshalb bei gutem Wetter auch nett zum draußen sitzen. Es gibt
 
 | Category        | Score  |
 |-----------------|--------|
-| Drinks          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Drinks          | 7.5/10 |
+| Service         | 8.5/10 |
+| Value for money | 7/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

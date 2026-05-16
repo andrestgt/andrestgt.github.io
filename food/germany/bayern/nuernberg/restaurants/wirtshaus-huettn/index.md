@@ -13,11 +13,11 @@ Quite expensive by Nuremberg standards, but the veranda is pleasant and they bre
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7/10   |
+| Service         | 7/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

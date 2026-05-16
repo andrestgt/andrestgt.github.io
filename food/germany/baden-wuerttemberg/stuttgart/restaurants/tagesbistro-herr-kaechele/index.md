@@ -12,11 +12,11 @@ For Stuttgart, this is well worth a visit, both in terms of price and quality. W
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7.5/10 |
+| Service         | 7.5/10 |
+| Value for money | 8/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

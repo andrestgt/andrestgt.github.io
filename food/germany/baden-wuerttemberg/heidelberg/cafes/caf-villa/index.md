@@ -13,11 +13,11 @@ Big place in a prime location may look rather tacky and jaded, but don't let thi
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 6.5/10 |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 6/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

@@ -13,11 +13,11 @@ A pleasant wine bar in the old town of St. Wendel with very friendly and attenti
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 7/10   |
+| Service         | 9/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

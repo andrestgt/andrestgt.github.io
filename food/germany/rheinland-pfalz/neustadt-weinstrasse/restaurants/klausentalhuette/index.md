@@ -13,11 +13,11 @@ Compared with other huts nearby, the Klausentalhütte is on the modern side and 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7.5/10 |
+| Service         | 7.5/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

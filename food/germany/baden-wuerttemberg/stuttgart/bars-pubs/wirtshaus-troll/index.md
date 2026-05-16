@@ -13,11 +13,11 @@ Has been around forever and is still a fun boozer with relatively cheap drinks, 
 
 | Category        | Score  |
 |-----------------|--------|
-| Bar food        | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Bar food        | 7/10   |
+| Service         | 7.5/10 |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

@@ -13,11 +13,11 @@ Despite the tourists, this place feels more like an authentic beer hall than the
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7.5/10 |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

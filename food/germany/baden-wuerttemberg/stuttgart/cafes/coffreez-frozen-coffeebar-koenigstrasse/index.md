@@ -12,11 +12,11 @@ Franchise with very decent cappuccinos at a reasonable price (€2.60). The Kön
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 7.5/10 |
+| Service         | 7/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 6.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

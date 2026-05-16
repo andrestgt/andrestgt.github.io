@@ -13,11 +13,11 @@ The food is very good, yes, my level of home cooking, which is a compliment, but
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 8/10   |
+| Service         | 7.5/10 |
+| Value for money | 5/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 

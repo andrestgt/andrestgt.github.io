@@ -13,11 +13,11 @@ Pleasant café with a small veranda at the back. Prices are reasonable for such 
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 5/10   |
+| Service         | 7/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 

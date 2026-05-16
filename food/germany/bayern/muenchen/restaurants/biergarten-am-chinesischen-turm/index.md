@@ -13,11 +13,11 @@ A bit expensive maybe for beers, it's 8,40€ for 1 litre, but the atmosphere an
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 6.5/10 |
+| Service         | 7/10   |
+| Value for money | 6.5/10 |
+| Atmosphere      | 9/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

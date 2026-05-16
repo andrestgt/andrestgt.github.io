@@ -15,11 +15,11 @@ The beer isn’t overpriced, and the food, while not cheap, is traditional Swabi
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 8/10   |
+| Service         | 7.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 9/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

@@ -13,11 +13,11 @@ Service staff here can be overwhelmed and prices are on the high side but the lo
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7/10   |
+| Service         | 6.5/10 |
+| Value for money | 6.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

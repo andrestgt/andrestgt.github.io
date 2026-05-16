@@ -13,11 +13,11 @@ Very good cappuccino for 2,60€, along with nice cakes and friendly service. Ha
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Coffee          | 8/10   |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

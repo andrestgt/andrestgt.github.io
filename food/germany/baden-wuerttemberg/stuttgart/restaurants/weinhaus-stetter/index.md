@@ -12,11 +12,11 @@ One of the best and most reasonably priced wine taverns in Stuttgart. In summer 
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | —/10 |
-| Service         | —/10 |
-| Value for money | —/10 |
-| Atmosphere      | —/10 |
-| Overall         | —/10 |
+| Food            | 7.5/10 |
+| Service         | 8/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 
