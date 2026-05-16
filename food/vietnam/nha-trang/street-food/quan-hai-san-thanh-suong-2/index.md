@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: Quán Hải Sản Thanh Sương
+title: Quán Hải Sản Thanh Sương 2
 subtitle: Nha Trang · Seafood
 ---
 When I first started coming here, just a few years back, this was a small hole in the wall seafood eatery, visited mostly by locals in the know. An insider tip for fresh, inexpensive seafood away from the tourist hot spots.
@@ -17,11 +17,11 @@ Prices have gone up, predictably, but it's still affordable
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
+| Food | 8.5/10 |
+| Service | 8/10 |
 | Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Atmosphere | 9/10 |
+| Overall | 8.5/10 |
 
 
 ### Practical
