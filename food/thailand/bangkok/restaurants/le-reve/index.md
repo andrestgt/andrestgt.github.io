@@ -11,12 +11,12 @@ Off the beaten track Thai restaurant with a lovely garden setting, and good serv
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10 |
+| ---             | ---    |
+| Food            | 8/10   |
 | Service         | 8/10   |
-| Value for money | 8/10 |
+| Value for money | 8/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 8/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

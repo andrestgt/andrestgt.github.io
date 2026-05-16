@@ -11,12 +11,12 @@ Dean & Deluca serves good coffee and very decent cheesecakes in fairly fancy sur
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10 |
-| Service         | 8/10 |
+| ---             | ---    |
+| Coffee          | 8/10   |
+| Service         | 8/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 8/10   |
-| Overall         | 7.5/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

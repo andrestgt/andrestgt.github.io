@@ -11,11 +11,11 @@ Surprisingly unpretentious, non-fancy for a sky bar at a 5-star hotel. Views are
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Service         | 8/10   |
 | Value for money | 7/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

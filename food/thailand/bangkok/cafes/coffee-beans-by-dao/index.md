@@ -11,12 +11,12 @@ This branch is beautifully designed and has extremely comfortable armchairs. The
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 7.5/10   |
-| Service         | 8.5/10 |
+| ---             | ---    |
+| Coffee          | 7.5/10 |
+| Service         | 8/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 7.5/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

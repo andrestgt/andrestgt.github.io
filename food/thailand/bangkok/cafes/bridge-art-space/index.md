@@ -11,7 +11,7 @@ Anyone needing a coffee break around this part of Bangkok could do much worse th
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |

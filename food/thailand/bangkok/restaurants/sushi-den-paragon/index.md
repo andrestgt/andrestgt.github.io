@@ -10,12 +10,12 @@ This particular Sushi Den branch is noticeably weaker than others. The fish was 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 6.5/10 |
 | Service         | 6/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 6/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 

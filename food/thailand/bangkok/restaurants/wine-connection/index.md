@@ -9,13 +9,13 @@ subtitle: Watthana · Wine Bar, Deli
 Wine Connection remains probably the best place for wine lovers in Thailand when it comes to value. Even the cheaper bottles around 500–600 Bt are perfectly decent. The food menu could be slightly more adventurous, but quality is consistently good.
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 8/10  |
+| Service         | 8/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10  |
 
 ### Practical
 

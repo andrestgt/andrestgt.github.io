@@ -13,9 +13,9 @@ The sausages in particular stood out. Prices are reasonable, and if you happen t
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
-| Service         | 7.5/10   |
+| Service         | 7.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |

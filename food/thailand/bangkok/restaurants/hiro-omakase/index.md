@@ -11,12 +11,12 @@ The bad reviews here are thoroughly undeserved in my opinion. The service was OK
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 9/10   |
-| Service         | 8/10 |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 8.5/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

@@ -11,7 +11,7 @@ Stylish café with striking décor, very comfortable sofas and the kind of polis
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 7.5/10 |
 | Value for money | 6/10   |

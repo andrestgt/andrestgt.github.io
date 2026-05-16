@@ -6,19 +6,35 @@ title: Moonshine Bar
 subtitle: Phra Nakhon · Bar
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/moonshine-bar-1.jpg" alt="Moonshine Bar">
+  <figcaption>Moonshine Bar</figcaption>
+</figure>
+
 On the plus side they have draft beer pints (well, 0.5l to be exact) for only 89 Bt. What's strange though is that their food, which is cooked fresh in a wok right in front of you and should be great, what with this being Bangkok, is surprisingly bland and boring.
 
 Both the cashewnut pork and the seafood noodles were so so at best.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/moonshine-bar-2.jpg" alt="Moonshine Bar">
+  <figcaption>Moonshine Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/moonshine-bar-3.jpg" alt="Moonshine Bar">
+  <figcaption>Moonshine Bar</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Bar food        | 6/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 8/10 |
-| Overall         | 6.5/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 7/10   |
 
 ### Practical
 

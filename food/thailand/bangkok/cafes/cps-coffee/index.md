@@ -11,12 +11,12 @@ While it's definitely a good thing to have a proper café at Terminal 21, not ju
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7.5/10 |
 | Service         | 6.5/10 |
 | Value for money | 5/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 7/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 

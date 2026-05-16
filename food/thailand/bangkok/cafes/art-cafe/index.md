@@ -11,12 +11,12 @@ Very cosy and comfortable little café with strong, well-prepared cappuccino at 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 7.5/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

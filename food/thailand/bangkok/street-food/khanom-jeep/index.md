@@ -10,12 +10,10 @@ We bought these dumplings from a stall in Terminal 21 and they turned out to be 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8.5/10   |
-| Service         |  |
+| ---             | ---    |
+| Food            | 8.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      |    |
-| Overall         | 8/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 

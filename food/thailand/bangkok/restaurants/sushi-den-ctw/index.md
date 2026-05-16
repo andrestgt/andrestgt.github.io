@@ -10,7 +10,7 @@ The sashimi here is fresh and reasonably priced, although some of the cooked dis
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |

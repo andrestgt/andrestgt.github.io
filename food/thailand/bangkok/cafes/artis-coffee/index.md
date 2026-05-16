@@ -10,10 +10,10 @@ Artis serves very good espresso drinks, although 110 Bt for a flat white is defi
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10 |
+| ---             | ---    |
+| Coffee          | 8/10   |
 | Service         | 7.5/10 |
-| Value for money | 7/10 |
+| Value for money | 7/10   |
 | Atmosphere      | 7/10   |
 | Overall         | 7.5/10 |
 

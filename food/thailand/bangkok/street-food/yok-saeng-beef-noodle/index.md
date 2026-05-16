@@ -11,8 +11,8 @@ Old-school beef noodle shop serving tender marinated meat in a clear broth. A bo
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8/10 |
+| ---             | ---    |
+| Food            | 8/10   |
 | Service         | 6.5/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 6.5/10 |

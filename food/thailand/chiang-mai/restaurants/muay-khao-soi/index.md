@@ -11,11 +11,11 @@ Neat little budget eatery in pricey Nimman. They have khao soi as well as nam ng
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
-| Service         | 7.5/10   |
-| Value for money | 8.5/10   |
-| Atmosphere      | 7/10 |
+| Service         | 7.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7/10   |
 | Overall         | 8/10   |
 
 ### Practical

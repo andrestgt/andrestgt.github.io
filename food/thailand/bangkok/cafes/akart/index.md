@@ -11,12 +11,12 @@ AKART serves excellent cappuccino for under 100 Bt, has free drinking water, and
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 8/10 |
-| Atmosphere      | 8/10 |
-| Overall         | 8.5/10 |
+| Service         | 8/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

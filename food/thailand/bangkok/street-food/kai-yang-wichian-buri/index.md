@@ -11,12 +11,12 @@ One of my favourite breakfasts in the world. Gai yang, or grilled chicken with s
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 9/10   |
 | Service         | 7.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 7/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 

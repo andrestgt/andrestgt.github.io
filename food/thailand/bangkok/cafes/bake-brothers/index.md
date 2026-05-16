@@ -11,7 +11,7 @@ Bake Brothers is a spacious café inside Terminal 21 serving fairly good cappucc
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |

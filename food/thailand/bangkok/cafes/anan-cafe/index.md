@@ -11,12 +11,12 @@ Anan Cafe uses surprisingly good beans for such reasonably priced espresso drink
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 6.5/10   |
+| ---             | ---    |
+| Coffee          | 6.5/10 |
 | Service         | 6.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 6.5/10 |
-| Overall         | 6.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

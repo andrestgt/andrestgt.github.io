@@ -15,7 +15,7 @@ Unfortunately there is very limited and rather uncomfortable seating. On the plu
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 7/10   |
 | Value for money | 9/10   |

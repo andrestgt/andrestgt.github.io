@@ -11,11 +11,11 @@ Very fancy riverside place with good views and atmosphere. Food is okay, nothing
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7/10   |
 | Service         | 8/10   |
 | Value for money | 4/10   |
-| Atmosphere      | 8.5/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 7/10   |
 
 ### Practical

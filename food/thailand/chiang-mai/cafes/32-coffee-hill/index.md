@@ -11,7 +11,7 @@ This attractive café is a great place to break the journey between Chiang Mai a
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7/10   |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |

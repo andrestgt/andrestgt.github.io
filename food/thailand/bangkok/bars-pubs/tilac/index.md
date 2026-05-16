@@ -11,8 +11,8 @@ If you want to experience just one go-go bar while visiting Bangkok make it this
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Service         | 8.5/10 |
+| ---             | ---    |
+| Service         | 8/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |

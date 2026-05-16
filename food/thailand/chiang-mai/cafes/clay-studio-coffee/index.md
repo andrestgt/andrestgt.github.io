@@ -11,11 +11,11 @@ Nicely designed place with a big garden. Reasonably priced drinks and food. Good
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7/10   |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |
-| Atmosphere      | 8.5/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 7.5/10 |
 
 ### Practical

@@ -11,12 +11,12 @@ My favourite sushi bar in Chiang Mai. They have a lot of interesting fusion dish
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 9/10   |
-| Service         | 8.5/10 |
+| Service         | 8/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 8/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 

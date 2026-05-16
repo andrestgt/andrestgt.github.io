@@ -13,12 +13,12 @@ Prices are similar to regular meat eateries, so no vegan hipster surcharges here
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 8.5/10   |
+| Value for money | 8.5/10 |
 | Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

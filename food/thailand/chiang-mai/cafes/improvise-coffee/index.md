@@ -11,11 +11,11 @@ In a city full of small coffee shops, it's not easy to stand out — but if you'
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8.5/10   |
-| Service         | 7/10 |
-| Value for money | 8.5/10   |
-| Atmosphere      | 7.5/10   |
+| ---             | ---    |
+| Coffee          | 8.5/10 |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

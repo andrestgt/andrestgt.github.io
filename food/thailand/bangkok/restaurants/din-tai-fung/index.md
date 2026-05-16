@@ -11,12 +11,12 @@ It’s Din Tai Fung, so naturally the dumplings are very good. Prices here feel 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 8/10   |
-| Value for money | 6.5/10   |
-| Atmosphere      | 7.5/10   |
-| Overall         | 8/10 |
+| Value for money | 6.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 

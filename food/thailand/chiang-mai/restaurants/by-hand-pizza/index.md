@@ -6,6 +6,11 @@ title: By Hand Pizza Cafe
 subtitle: Si Phum, Old Town · Pizza
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/by-hand-pizza-1.jpg" alt="By Hand Pizza Cafe">
+  <figcaption>By Hand Pizza Cafe</figcaption>
+</figure>
+
 Superb pizzas from the wood fired oven. I had the one with lamb merguez and capers. The crust was perfect and I'd absolutely recommend this place.
 
 I also think that the prices are very reasonable for the quality you get here.
@@ -17,12 +22,11 @@ But overall it's a great pizza. The anchovy and capers pizza on my second visit 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8.510   |
-| Service         | 8.5/10   |
+| ---             | ---    |
+| Service         | 8/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 8.5/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

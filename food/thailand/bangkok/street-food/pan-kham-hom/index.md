@@ -10,7 +10,7 @@ Pleasant food court that somehow never feels overcrowded, making it one of the m
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |

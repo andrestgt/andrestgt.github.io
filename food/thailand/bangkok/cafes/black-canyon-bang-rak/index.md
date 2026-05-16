@@ -11,12 +11,12 @@ Not the nicest Black Canyon branch in terms of atmosphere, and they may put cinn
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 7/10 |
+| ---             | ---    |
+| Coffee          | 7/10   |
 | Service         | 6/10   |
-| Value for money | 6.5/10   |
+| Value for money | 6.5/10 |
 | Atmosphere      | 5/10   |
-| Overall         | 6/10 |
+| Overall         | 6.5/10 |
 
 ### Practical
 

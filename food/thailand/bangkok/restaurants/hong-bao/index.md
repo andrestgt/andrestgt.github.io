@@ -11,12 +11,12 @@ Hong Bao is an excellent dim sum restaurant with a very extensive menu and consi
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8.5/10   |
-| Service         | 8.5/10 |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 8.5/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

@@ -11,11 +11,9 @@ Had a takeaway chicken tikka masala and garlic naan. The bread was very good, wi
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
-| Service         |  |
-| Value for money | 8/10 |
-| Atmosphere      |   |
+| Value for money | 8/10   |
 | Overall         | 7.5/10 |
 
 ### Practical

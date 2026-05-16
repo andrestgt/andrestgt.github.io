@@ -11,9 +11,9 @@ The food here is fairly generic Bangkok bistro fare, although by global standard
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
-| Service         | 8/10 |
+| Service         | 8/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |

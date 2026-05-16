@@ -11,7 +11,7 @@ Tim Ho Wan still serves excellent dim sum and remains well worth visiting despit
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7.5/10 |
 | Value for money | 7/10   |

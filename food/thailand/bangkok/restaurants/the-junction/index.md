@@ -15,12 +15,12 @@ At under 300 baht, prices are very reasonable, especially for proper wood-fired 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 8.5/10   |
-| Service         | 8.5/10   |
+| ---             | ---    |
+| Food            | 8.5/10 |
+| Service         | 8/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 8.5/10   |
-| Overall         | 8.5/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

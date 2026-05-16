@@ -4,32 +4,21 @@ title: Xi Mian Chinese Noodles
 section: food thailand phuket-town review
 ---
 
+<figure>
+  <img src="/photos/thailand/phuket/xi-mian-chinese-noodles-1.jpg" alt="Xi Mian Chinese Noodles">
+  <figcaption>Xi Mian Chinese Noodles</figcaption>
+</figure>
+
 ## Xi Mian Chinese Noodles
 *Phuket Old Town · Chinese · Noodles · Restaurant*
-
-<figure>
-  <a href="/photos/thailand/phuket/ximianinterior.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/ximianinterior.jpg" alt="Xi Mian Chinese Noodles interior">
-  </a>
-  <figcaption>Xi Mian Chinese Noodles, Phuket Old Town</figcaption>
-</figure>
 
 This modern noodle shop specialising in Chinese handmade noodles is a very good option for a quick bowl of noodle soup or a plate of dumplings in Phuket Old Town. The place feels a bit like something you’d stumble across in a Taipei backstreet, just transplanted into a much more polished setting.
 
 The space is modern, very clean and nicely decorated, and the food presentation is clearly designed to look good. The menu focuses on simple noodle dishes, dumplings and soups rather than larger main courses. Prices are good, especially considering the prime location right in the centre of the old town.
 
 <figure>
-  <a href="/photos/thailand/phuket/ximian1.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/ximian1.jpg" alt="Beef noodle soup at Xi Mian">
-  </a>
-  <figcaption>Beef noodle soup</figcaption>
-</figure>
-
-<figure>
-  <a href="/photos/thailand/phuket/ximian2.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/ximian2.jpg" alt="Wonton soup at Xi Mian">
-  </a>
-  <figcaption>Wonton soup</figcaption>
+  <img src="/photos/thailand/phuket/xi-mian-chinese-noodles-2.jpg" alt="Xi Mian Chinese Noodles">
+  <figcaption>Xi Mian Chinese Noodles</figcaption>
 </figure>
 
 ## Ratings

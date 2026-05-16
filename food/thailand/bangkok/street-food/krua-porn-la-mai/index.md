@@ -13,11 +13,11 @@ Edited update: on my second visit the food was still good, but the seafood wasn'
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 6/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 8.5/10  |
+| Atmosphere      | 8.5/10 |
 | Overall         | 7.5/10 |
 
 ### Practical

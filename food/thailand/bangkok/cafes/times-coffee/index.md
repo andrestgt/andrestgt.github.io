@@ -10,12 +10,12 @@ Tiny coffee shop with only a few tables, so not really somewhere for a long lazy
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8.5/10 |
 | Service         | 7.5/10 |
-| Value for money | 8.5/10   |
-| Atmosphere      | 6/10 |
-| Overall         | 7.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 6/10   |
+| Overall         | 8/10   |
 
 ### Practical
 

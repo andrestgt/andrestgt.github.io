@@ -10,7 +10,7 @@ The Thai fusion food here is only average by Bangkok’s very high standards, bu
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |

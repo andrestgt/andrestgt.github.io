@@ -13,11 +13,11 @@ Here a cappuccino, though misspelled on the menu, goes for 69 Bt and is actually
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7.5/10 |
 | Service         | 7.5/10 |
-| Value for money | 8.5/10   |
-| Atmosphere      | 8.5/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
 
 ### Practical

@@ -11,12 +11,12 @@ D’ARK is undeniably expensive, but it’s also one of the nicest cafés in Ban
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 9.5/10   |
-| Service         | 9/10   |
-| Value for money | 7/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10 |
+| ---             | ---    |
+| Coffee          | 9/10   |
+| Service         | 8/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 

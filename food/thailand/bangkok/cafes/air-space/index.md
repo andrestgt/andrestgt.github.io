@@ -11,7 +11,7 @@ Air Space is spacious and comfortable, with professionally prepared coffee at fa
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 7/10   |

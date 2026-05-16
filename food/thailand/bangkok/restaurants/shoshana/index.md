@@ -11,7 +11,7 @@ Shoshana has been serving large portions of reliable Middle Eastern comfort food
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |

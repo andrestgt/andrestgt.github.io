@@ -11,12 +11,12 @@ Cool place in Rot Fai weekend market, good craft beer. Their burgers are okay, v
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 6/10   |
 | Service         | 6.5/10 |
 | Value for money | 5.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 6/10   |
+| Overall         | 6.5/10 |
 
 ### Practical
 

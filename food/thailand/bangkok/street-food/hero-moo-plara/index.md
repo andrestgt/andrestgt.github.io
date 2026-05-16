@@ -6,17 +6,27 @@ title: Hero Moo Plara
 subtitle: Phra Nakhon · Thai, Grilled Meats
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/hero-moo-plara-1.jpg" alt="Hero Moo Plara">
+  <figcaption>Hero Moo Plara</figcaption>
+</figure>
+
 This place is just great. Cheap platters of charcoal grilled meats and sausages with delicious dipping sauces, plus Leo from the tap. Always open. What's not to like?
+
+<figure>
+  <img src="/photos/thailand/bangkok/hero-moo-plara-2.jpg" alt="Hero Moo Plara">
+  <figcaption>Hero Moo Plara</figcaption>
+</figure>
 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8.5/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

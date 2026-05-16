@@ -11,12 +11,12 @@ Wan Dee serves very good beef noodle soup with tender meat and rich flavourful b
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 8.5/10   |
+| Value for money | 8.5/10 |
 | Atmosphere      | 6.5/10 |
-| Overall         | 8/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

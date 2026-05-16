@@ -6,6 +6,11 @@ title: Salsa Kitchen
 subtitle: Chang Phueak · Mexican
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/salsa-kitchen-1.jpg" alt="Salsa Kitchen">
+  <figcaption>Salsa Kitchen</figcaption>
+</figure>
+
 I've spent enough time in South East Asia to know that finding really good Mexican food here is very difficult. That's why I had high hopes after reading the reviews of this place.
 
 But my experience was a bit of a disappointment. I had the chipotle chicken enchiladas, which looked great on the plate and came as a very generous portion.
@@ -19,12 +24,12 @@ Service on the other hand was friendly, and the refried beans were tasty.
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 6.5/10   |
-| Service         | 8/10 |
-| Value for money | 5/10 |
+| ---             | ---    |
+| Food            | 6.5/10 |
+| Service         | 8/10   |
+| Value for money | 5/10   |
 | Atmosphere      | 7.5/10 |
-| Overall         | 6.5/10   |
+| Overall         | 6.5/10 |
 
 ### Practical
 

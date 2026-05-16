@@ -11,8 +11,8 @@ One of the hundreds or thousands of tiny little cafés that have sprung up in Ba
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10 |
+| ---             | ---    |
+| Coffee          | 8/10   |
 | Service         | 7/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 7/10   |

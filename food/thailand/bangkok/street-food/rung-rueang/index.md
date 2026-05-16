@@ -11,7 +11,7 @@ Very basic but deservedly popular noodle place on Sukhumvit 26. I wouldn’t tra
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |

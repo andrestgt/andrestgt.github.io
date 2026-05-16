@@ -11,7 +11,7 @@ Jaywalk is tiny and extremely simple, without sofas or even a bathroom, but in a
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 7.5/10 |
 | Value for money | 8.5/10 |

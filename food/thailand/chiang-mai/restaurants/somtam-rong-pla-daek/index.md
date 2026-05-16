@@ -14,13 +14,13 @@ Service was good, with friendly English speaking staff.
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Food            | 6/10   |
-| Service         | 8/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 7/10 |
-| Overall         | 6.5/10   |
+| Category        | Score |
+| ---             | ---   |
+| Food            | 6/10  |
+| Service         | 8/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 7/10  |
 
 ### Practical
 

@@ -10,13 +10,13 @@ Even by Café Amazon standards this branch is rather poor. Seating is limited, t
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 3/10   |
-| Service         | 4/10   |
-| Value for money | 3/10   |
-| Atmosphere      | 3/10   |
-| Overall         | 3/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 3/10  |
+| Service         | 4/10  |
+| Value for money | 3/10  |
+| Atmosphere      | 3/10  |
+| Overall         | 3/10  |
 
 ### Practical
 

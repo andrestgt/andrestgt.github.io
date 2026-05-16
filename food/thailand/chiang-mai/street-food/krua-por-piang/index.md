@@ -17,7 +17,7 @@ I'd happily come back to try the duck curry another time.
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |

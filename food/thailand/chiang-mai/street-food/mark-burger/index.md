@@ -13,12 +13,12 @@ Cheap, tasty, hits the spot. Nothing fancy, but absolutely does the job.
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Food            | 7/10 |
+| ---             | ---    |
+| Food            | 7/10   |
 | Service         | 7/10   |
-| Value for money | 8.5/10   |
+| Value for money | 8.5/10 |
 | Atmosphere      | 6/10   |
-| Overall         | 7/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

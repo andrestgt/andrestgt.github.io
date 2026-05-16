@@ -11,7 +11,7 @@ Surprisingly good coffees here for 50 Bt. Nice veranda with a view.
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |

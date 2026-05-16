@@ -11,12 +11,12 @@ Baan Glang Soi is an inexpensive little restaurant with guest rooms tucked away 
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 8/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 7.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

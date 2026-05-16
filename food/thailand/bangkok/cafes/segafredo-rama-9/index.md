@@ -10,12 +10,12 @@ Segafredo remains one of the more reliable coffee chains in Bangkok. The seating
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8.5/10 |
-| Service         | 7.5/10   |
+| Service         | 7.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

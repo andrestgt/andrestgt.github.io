@@ -11,10 +11,10 @@ Excellent cappuccino for sure, and fair prices. I just wish they had somewhere a
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8.5/10 |
-| Service         | 7/10 |
-| Value for money | 7.5/10   |
+| Service         | 7/10   |
+| Value for money | 7.5/10 |
 | Atmosphere      | 6/10   |
 | Overall         | 7.5/10 |
 
