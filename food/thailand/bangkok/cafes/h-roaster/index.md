@@ -2,11 +2,11 @@
 layout: default
 section: food
 review: true
-title: Remedys
+title: H-Roasters
 subtitle: Samphanthawong, Chinatown · Café
 ---
 
-Remedys feels like a calm oasis in the middle of Chinatown chaos. It’s a rather elegant and extremely comfortable café serving very good coffee at prices lower than you’d expect. A latte costs around 85 Bt, and they also stock some craft beer and light food.
+H-Roasters feels like a calm oasis in the middle of Chinatown chaos. It’s a rather elegant and extremely comfortable café serving very good coffee at prices lower than you’d expect. A latte costs around 85 Bt, and they also stock some craft beer and light food.
 ## Ratings
 
 | Category        | Score  |
@@ -19,6 +19,6 @@ Remedys feels like a calm oasis in the middle of Chinatown chaos. It’s a rathe
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Remedys+Yaowarat+Rd+Chinatown+Bangkok)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=H-Roasters+Yaowarat+Rd+Chinatown+Bangkok)
 ☕ **Type:** Café
 💰 **Price level:** Moderate
