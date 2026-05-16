@@ -12,15 +12,25 @@ We had the sop buntut, which was good, and a large portion of gado-gado for 60K.
 
 Most seafood dishes were around 90K. Good portions, decent cooking, and a very attractive seaside setting.
 
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/wailela-cafe-resto-1.jpg" alt="Wailela Cafe & Resto">
+  <figcaption>Wailela Cafe & Resto</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/wailela-cafe-resto-2.jpg" alt="Wailela Cafe & Resto">
+  <figcaption>Wailela Cafe & Resto</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 8.5/10   |
-| Overall         | 7.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

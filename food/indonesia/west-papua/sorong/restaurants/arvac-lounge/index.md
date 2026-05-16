@@ -12,6 +12,16 @@ We stopped here before our flight and had single-origin Papua coffee and sop bun
 
 There's a minimum spend of around 80K, so it's not really worth coming just for a quick coffee. But if you're having proper food as well, the quality is solid and, by global airport standards, reasonably priced.
 
+<figure>
+  <img src="/photos/indonesia/west-papua/sorong/arvac-lounge-1.jpg" alt="Arvac Lounge">
+  <figcaption>Arvac Lounge</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/west-papua/sorong/arvac-lounge-2.jpg" alt="Arvac Lounge">
+  <figcaption>Arvac Lounge</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

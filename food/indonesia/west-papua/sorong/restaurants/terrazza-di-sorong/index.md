@@ -14,6 +14,16 @@ The pizza was very good considering we're in Papua. The dough itself was perfect
 
 By Italian standards, decent. By Papua standards, very good.
 
+<figure>
+  <img src="/photos/indonesia/west-papua/sorong/terrazza-di-sorong-1.jpg" alt="Pizzeria La Terrazza di Sorong">
+  <figcaption>Pizzeria La Terrazza di Sorong</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/west-papua/sorong/terrazza-di-sorong-2.jpg" alt="Pizzeria La Terrazza di Sorong">
+  <figcaption>Pizzeria La Terrazza di Sorong</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

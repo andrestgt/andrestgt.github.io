@@ -12,14 +12,19 @@ I had a cappuccino here for 32K and it was smooth and very well prepared, the se
 
 Probably the best place in the city centre for coffee lovers.
 
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/midway-coffee-1.jpg" alt="Midway Coffee">
+  <figcaption>Midway Coffee</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 9/10 |
-| Service         | 7/10 |
+| ---             | ---    |
+| Coffee          | 8.5/10 |
+| Service         | 7/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 7/10 |
+| Atmosphere      | 7/10   |
 | Overall         | 8/10   |
 
 ### Practical

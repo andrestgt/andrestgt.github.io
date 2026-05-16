@@ -10,6 +10,16 @@ Marina Star Seafood Restaurant is exactly the kind of place that every coastal c
 
 We had grilled squid and seafood mee goreng, both excellent and served with a very spicy sambal. Most seafood dishes are around 150K rupiah and upwards.
 
+<figure>
+  <img src="/photos/indonesia/west-papua/sorong/marina-star-seafood-1.jpg" alt="Marina Star Seafood">
+  <figcaption>Marina Star Seafood</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/west-papua/sorong/marina-star-seafood-2.jpg" alt="Marina Star Seafood">
+  <figcaption>Marina Star Seafood</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

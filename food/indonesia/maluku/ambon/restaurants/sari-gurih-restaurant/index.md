@@ -12,13 +12,18 @@ I ordered the ikan kuah kuning again, the turmeric-based fish soup that is one o
 
 The seafood capcay was very good, cooked with plenty of crunchy vegetables. Prices remain reasonable, and if you are staying in the centre of Ambon it is still a convenient place for a solid meal, even if the beach branch is the more enjoyable setting.
 
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/sari-gurih-restaurant-1.jpg" alt="Sari Gurih Restaurant">
+  <figcaption>Sari Gurih Restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Food            | 7.5/10 |
 | Service         | 8/10   |
-| Value for money | 8/10 |
+| Value for money | 8/10   |
 | Atmosphere      | 6/10   |
 | Overall         | 7.5/10 |
 
