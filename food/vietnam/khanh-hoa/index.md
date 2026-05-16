@@ -1,5 +1,6 @@
 ---
 layout: default
+background: khanhhoahero.jpg
 section: food
 region: khanh-hoa
 slug: khanh-hoa

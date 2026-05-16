@@ -1,5 +1,6 @@
 ---
 layout: default
+background: gialaihero.jpg
 section: food
 region: gia-lai
 slug: gia-lai

@@ -1,5 +1,6 @@
 ---
 layout: default
+background: hatinhhero.jpg
 section: food
 region: ha-tinh
 slug: ha-tinh

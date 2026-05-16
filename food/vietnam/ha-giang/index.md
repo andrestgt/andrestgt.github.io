@@ -1,5 +1,6 @@
 ---
 layout: default
+background: hagianghero.jpg
 section: food
 region: ha-giang
 slug: ha-giang
