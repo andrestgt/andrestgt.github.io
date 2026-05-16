@@ -6,7 +6,23 @@ title: Yong He Dou Jiang
 subtitle: Yan Nawa · Taiwanese, Dumplings
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/yong-he-dou-jiang-1.jpg" alt="Yong He Dou Jiang">
+  <figcaption>Yong He Dou Jiang</figcaption>
+</figure>
+
 Excellent little Taiwanese dumpling place serving huge portions at surprisingly fair prices. A couple of dishes here can easily feed an entire family, so ordering carefully is recommended.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/yong-he-dou-jiang-2.jpg" alt="Yong He Dou Jiang">
+  <figcaption>Yong He Dou Jiang</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/yong-he-dou-jiang-3.jpg" alt="Yong He Dou Jiang">
+  <figcaption>Yong He Dou Jiang</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
