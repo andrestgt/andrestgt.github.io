@@ -39,10 +39,16 @@ Mind, you might sit on tiny plastic chairs on the street and get your food serve
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ha-giang/pho-co-6.jpg" alt="Pho Co">
   <figcaption>Pho Co</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/ha-giang/pho-co-7.jpg" alt="Pho Co">
+  <figcaption>Pho Co</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -19,10 +19,16 @@ Prices are quite high and so is the quality.
 
 A nice trip out of town.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-lat/amap-2.jpg" alt="AMAP">
   <figcaption>AMAP</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/da-lat/amap-3.jpg" alt="AMAP">
+  <figcaption>AMAP</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

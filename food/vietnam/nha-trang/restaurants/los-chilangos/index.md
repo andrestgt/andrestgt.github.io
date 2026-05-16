@@ -103,10 +103,16 @@ Update: they now have a more extensive menu including burritos and rice meals wh
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-18.jpg" alt="Los Chilangos">
   <figcaption>Los Chilangos</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/los-chilangos-19.jpg" alt="Los Chilangos">
+  <figcaption>Los Chilangos</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

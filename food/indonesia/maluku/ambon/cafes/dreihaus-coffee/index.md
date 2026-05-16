@@ -15,12 +15,12 @@ If you care about coffee, this is the place to go in Ambon, even if you are stay
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 9.5/10   |
+| ---             | ---    |
+| Coffee          | 9/10   |
 | Service         | 6/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10   |
-| Overall         | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 

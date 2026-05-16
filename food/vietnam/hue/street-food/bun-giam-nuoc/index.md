@@ -13,10 +13,16 @@ subtitle: Huế · Vietnamese
 
 This one is for completists. A rarely found bowl of noodles with jellyfish and prawn crackers apparently only available in summer and in just a handful of places in Hue, so if it's your quest to try all the different noodle dishes in Vietnam, definitely search this one out. It's tasty too. 30k
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hue/bun-giam-nuoc-2.jpg" alt="Bún Giấm Nuốc">
   <figcaption>Bún Giấm Nuốc</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hue/bun-giam-nuoc-3.jpg" alt="Bún Giấm Nuốc">
+  <figcaption>Bún Giấm Nuốc</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

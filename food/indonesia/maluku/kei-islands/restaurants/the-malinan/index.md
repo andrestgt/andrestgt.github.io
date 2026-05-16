@@ -7,18 +7,24 @@ subtitle: Ohoijang Watdek, Langgur · Seafood, Indonesian
 ---
 
 <figure>
-  <img src="/photos/indonesia/maluku/kei-islands/the-malinan-1.jpg" alt="The Malinan">
-  <figcaption>The Malinan</figcaption>
+  <img src="/photos/indonesia/maluku/kei-islands/the-malinan-1.jpg" alt="The Malinan Kei Islands Resto and Cafe">
+  <figcaption>The Malinan Kei Islands Resto and Cafe</figcaption>
 </figure>
 
 This is an attractive restaurant by the sea with views over the harbour.
 
 I really liked their grilled fish, a large one easily enough for two, for just 80K, with a nice chilli oil marinade and excellent sides such as papaya leaves and papaya flower stir-fries. It is also the only place where I managed to get fresh coconut water.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/maluku/kei-islands/the-malinan-2.jpg" alt="The Malinan">
-  <figcaption>The Malinan</figcaption>
+  <img src="/photos/indonesia/maluku/kei-islands/the-malinan-2.jpg" alt="The Malinan Kei Islands Resto and Cafe">
+  <figcaption>The Malinan Kei Islands Resto and Cafe</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/maluku/the-malinan-1.jpg" alt="The Malinan Kei Islands Resto and Cafe">
+  <figcaption>The Malinan Kei Islands Resto and Cafe</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

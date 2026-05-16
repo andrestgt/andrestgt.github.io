@@ -61,6 +61,17 @@ Update 2025: Prices have gone up, predictably, but it’s still affordable.
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/hai-san-thanh-suong-2-10.jpg" alt="Hải sản Thanh Sương 2">
+  <figcaption>Hải sản Thanh Sương 2</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/hai-san-thanh-suong-2-11.jpg" alt="Hải sản Thanh Sương 2">
+  <figcaption>Hải sản Thanh Sương 2</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category | Score |

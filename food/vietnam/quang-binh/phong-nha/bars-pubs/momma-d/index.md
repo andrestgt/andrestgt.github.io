@@ -24,10 +24,16 @@ Fantastic rooftop bar with stunning views and great drink specials such as G&T f
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/phong-nha/momma-d-4.jpg" alt="Momma D">
   <figcaption>Momma D</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/phong-nha/momma-d-5.jpg" alt="Momma D">
+  <figcaption>Momma D</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

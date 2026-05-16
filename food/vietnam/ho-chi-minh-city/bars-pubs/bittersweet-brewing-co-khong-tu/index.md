@@ -32,6 +32,11 @@ It’s just a 10-minute walk from the metro station, and the ride from District 
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bittersweet-brewing-co-khong-tu-4.jpg" alt="BITTERSWEET BREWING CO. - KHỔNG TỬ">
+  <figcaption>BITTERSWEET BREWING CO. - KHỔNG TỬ</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

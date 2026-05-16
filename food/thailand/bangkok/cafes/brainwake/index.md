@@ -13,10 +13,16 @@ subtitle: Watthana · Café
 
 Apart from the unfortunate habit of putting cinnamon on cappuccino, Brainwake is a very pleasant café with good coffee, authentic noodle soups, and very fair prices.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/brainwake-2.jpg" alt="Brainwake Café">
   <figcaption>Brainwake Café</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/brainwake-3.jpg" alt="Brainwake Café">
+  <figcaption>Brainwake Café</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

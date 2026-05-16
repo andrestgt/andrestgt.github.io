@@ -30,10 +30,16 @@ A beautiful place for drinks and, when the buffet is running, a very good place 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/banda-islands/cilu-bintang-4.jpg" alt="Cilu Bintang Estate">
   <figcaption>Cilu Bintang Estate</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/maluku/cilu-bintang-estate-1.jpg" alt="Cilu Bintang Estate">
+  <figcaption>Cilu Bintang Estate</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -26,8 +26,19 @@ Furbrew is not exactly my favourite craft beer in Vietnam, I prefer Turtle Lake 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/the-100-garden-4.jpg" alt="The 100 Garden">
+  <figcaption>The 100 Garden</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/the-100-garden-5.jpg" alt="The 100 Garden">
+  <figcaption>The 100 Garden</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/hanoi/the-100-garden-6.jpg" alt="The 100 Garden">
   <figcaption>The 100 Garden</figcaption>
 </figure>
 

@@ -48,10 +48,16 @@ Highly recommended
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-8.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
   <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-9.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
+  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

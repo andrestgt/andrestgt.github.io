@@ -39,6 +39,11 @@ The food here is very good though. A perfectly prepared piece of foie gras goes 
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/hoi-an/green-mango-restaurant-6.jpg" alt="Green Mango Restaurant">
+  <figcaption>Green Mango Restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

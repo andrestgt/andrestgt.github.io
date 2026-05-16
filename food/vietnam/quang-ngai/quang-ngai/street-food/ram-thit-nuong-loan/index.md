@@ -26,6 +26,11 @@ Ram Thit Nuong is a Quang Ngai specialty dish consisting of several grilled meat
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/quang-ngai/ram-thit-nuong-loan-4.jpg" alt="Ram thịt nướng Loan">
+  <figcaption>Ram thịt nướng Loan</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

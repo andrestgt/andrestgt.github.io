@@ -13,12 +13,12 @@ Coffee is well made, though, with cappuccinos under 30K, which is in line with p
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10 |
+| ---             | ---    |
+| Coffee          | 8/10   |
 | Service         | 5/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 7.5/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

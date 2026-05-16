@@ -43,10 +43,16 @@ But if you want something truly local and even better food in equally beautiful 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-6.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
   <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-7.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
+  <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

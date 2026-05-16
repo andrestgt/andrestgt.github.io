@@ -65,6 +65,11 @@ I'd definitely come back for the ribs, though
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-10.jpg" alt="Yes chef: Kitchen and more">
+  <figcaption>Yes chef: Kitchen and more</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

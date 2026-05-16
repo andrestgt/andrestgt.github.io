@@ -13,6 +13,11 @@ subtitle: Phra Nakhon · Specialty Coffee
 
 Quirky little soi café that does very good espresso drinks at very affordable prices. A cappuccino is 50 Bt (in my opinion putting cinnamon on cappuccino should be a criminal offence, but sadly this is commonplace in Thailand, so make sure you order without).
 
+<figure>
+  <img src="/photos/thailand/bangkok/vespa-cafe-2.jpg" alt="Vespa Cafe Coffee Roaster">
+  <figcaption>Vespa Cafe Coffee Roaster</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

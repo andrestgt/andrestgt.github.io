@@ -24,10 +24,16 @@ This Japanese restaurant serves very solid sushi, sashimi, okonomiyaki, and othe
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/chiyoda-sushi-ben-thanh-4.jpg" alt="Chiyoda Sushi Bến Thành">
   <figcaption>Chiyoda Sushi Bến Thành</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/chiyoda-sushi-ben-thanh-5.jpg" alt="Chiyoda Sushi Bến Thành">
+  <figcaption>Chiyoda Sushi Bến Thành</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

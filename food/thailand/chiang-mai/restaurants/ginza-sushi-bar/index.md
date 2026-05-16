@@ -15,6 +15,11 @@ I only had a delivery, so I can't comment on the atmosphere or service, but the 
 
 There's nothing spectacular about the food or the freshness, but from the soft shell crab to unagi and salmon, everything was tasty.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/ginza-sushi-bar-2.jpg" alt="Ginza Sushi Bar">
+  <figcaption>Ginza Sushi Bar</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

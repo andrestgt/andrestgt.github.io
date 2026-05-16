@@ -15,6 +15,11 @@ A 15 min bike ride out of town, in a non-descript alley is a basic local eatery 
 
 I went for lunch on a Wednesday and the place was almost empty. A grumpy old lady served me a wonderful bowl of khao soi neua. The beef was tender, the curry soup was neither sugary nor coconutty, which tends to be the case in some less renowned places. There was a pleasant spiciness to it. Certainly one of the best bowls I've had in Chiang Mai.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/khao-soi-mae-manee-2.jpg" alt="Khao Soi Mae Manee">
+  <figcaption>Khao Soi Mae Manee</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

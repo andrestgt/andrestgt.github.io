@@ -13,10 +13,16 @@ subtitle: Planegg · Brewery Taproom, Bavarian
 
 Wonderfully rustic, traditional brewery taproom on the outskirts of Munich. They serve hearty Bavarian classics like Schweinebraten and Schäufele for under €20, alongside excellent Bavarian beer for under €5. You really do feel transported back in time here. Absolutely recommended if you're in the area.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/planegg/braeustueberl-2.jpg" alt="Bräustüberl">
   <figcaption>Bräustüberl</figcaption>
 </figure>
+<figure>
+  <img src="/photos/germany/planegg/braeustueberl-3.jpg" alt="Bräustüberl">
+  <figcaption>Bräustüberl</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

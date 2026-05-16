@@ -35,6 +35,17 @@ This is a really nice restaurant with khlong view and super friendly service. Th
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/duklong-6.jpg" alt="Duklong Cafe and Eat">
+  <figcaption>Duklong Cafe and Eat</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/duklong-7.jpg" alt="Duklong Cafe and Eat">
+  <figcaption>Duklong Cafe and Eat</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

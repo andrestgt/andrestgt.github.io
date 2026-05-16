@@ -15,10 +15,16 @@ The busiest Old Town café in a prime location opposite Thapae Gate, is a bright
 
 Another positive aspect is the fact that their iced coffees come in glasses instead of the usual plastic cups. Thumbs up for that.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/stories-2.jpg" alt="STORIES">
   <figcaption>STORIES</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/stories-3.jpg" alt="STORIES">
+  <figcaption>STORIES</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

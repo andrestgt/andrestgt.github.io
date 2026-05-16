@@ -19,6 +19,11 @@ As a matter of fact, the only criticism I have is overload. I thought they could
 
 But overall it's a great pizza. The anchovy and capers pizza on my second visit was perfect.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/by-hand-pizza-2.jpg" alt="By Hand Pizza Cafe">
+  <figcaption>By Hand Pizza Cafe</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

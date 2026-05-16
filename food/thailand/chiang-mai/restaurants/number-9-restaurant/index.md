@@ -15,10 +15,16 @@ A large, basic eatery that has been around for many years and which I'd always i
 
 That said, it's still a place I'd recommend for a quick, tasty Thai meal. The food is freshly prepared, prices are reasonable, and the quality is perfectly acceptable. The menu is huge, so there's something for everyone, which makes it a good option in this part of the old town.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/number-9-restaurant-2.jpg" alt="Number 9 Restaurant">
   <figcaption>Number 9 Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/number-9-restaurant-3.jpg" alt="Number 9 Restaurant">
+  <figcaption>Number 9 Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

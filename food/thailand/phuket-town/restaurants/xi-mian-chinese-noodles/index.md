@@ -16,10 +16,16 @@ This modern noodle shop specialising in Chinese handmade noodles is a very good 
 
 The space is modern, very clean and nicely decorated, and the food presentation is clearly designed to look good. The menu focuses on simple noodle dishes, dumplings and soups rather than larger main courses. Prices are good, especially considering the prime location right in the centre of the old town.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/phuket/xi-mian-chinese-noodles-2.jpg" alt="Xi Mian Chinese Noodles">
   <figcaption>Xi Mian Chinese Noodles</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/phuket/xi-mian-chinese-noodles-3.jpg" alt="Xi Mian Chinese Noodles">
+  <figcaption>Xi Mian Chinese Noodles</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

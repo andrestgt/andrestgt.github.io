@@ -26,10 +26,16 @@ Friendly place on Rambuttri, although there's nothing stand out about it. We wer
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/gastro-kafe-4.jpg" alt="Gastro Kafe">
   <figcaption>Gastro Kafe</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/gastro-kafe-5.jpg" alt="Gastro Kafe">
+  <figcaption>Gastro Kafe</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

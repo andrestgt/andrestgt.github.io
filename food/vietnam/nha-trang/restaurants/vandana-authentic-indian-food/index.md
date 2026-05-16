@@ -19,10 +19,16 @@ Palak Paneer, Chicken Korma and Samosas were all delicious.
 
 Prices are affordable with most mains around 100-150k.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/vandana-authentic-indian-food-2.jpg" alt="Vandana Authentic Indian Food">
   <figcaption>Vandana Authentic Indian Food</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/vandana-authentic-indian-food-3.jpg" alt="Vandana Authentic Indian Food">
+  <figcaption>Vandana Authentic Indian Food</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

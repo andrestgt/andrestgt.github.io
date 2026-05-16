@@ -17,6 +17,11 @@ Verdict : definitely one of the better banh mi in town and if you're in the tour
 
 Update: quality is still good, but prices have gone up
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/banh-mi-1-2.jpg" alt="Banh Mi #1">
+  <figcaption>Banh Mi #1</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

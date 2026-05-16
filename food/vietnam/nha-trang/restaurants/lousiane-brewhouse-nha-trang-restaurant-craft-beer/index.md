@@ -7,8 +7,8 @@ subtitle: Nha Trang · Vietnamese
 ---
 
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-1.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-1.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 
 This is best place with a beachfront location in Nha Trang. Sailing Club is fancier, but also a lot more expensive, Mangal is cheaper but also feels cheap, Story is mostly geared towards Russians. Louisiane has a very mixed international clientele with a good amount of Vietnamese locals and tourists. There's a pool, and a microbrewery on site which brews some fine beers that are sold at reasonable prices. Happy Hours from 11-13 and 4-6 pm are short but great value.
@@ -23,63 +23,69 @@ Story and Mangal haven't survived the pandemic, so this is hands down the best b
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-2.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-2.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-3.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-3.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-4.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-4.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-5.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-5.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-6.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-6.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-7.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-7.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-8.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-8.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-9.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-9.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-10.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-10.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-11.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-11.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-12.jpg" alt="Louisiane Brewhouse">
-  <figcaption>Louisiane Brewhouse</figcaption>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-12.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-13.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
+  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
@@ -90,7 +96,6 @@ Story and Mangal haven't survived the pandemic, so this is hands down the best b
 | Value for money | 9/10 |
 | Atmosphere | 10/10 |
 | Overall | 10/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lô+29+Trần+Phú+Vĩnh+Hoà+Nha+Trang+Khánh+Hòa+650000+Vietnam)

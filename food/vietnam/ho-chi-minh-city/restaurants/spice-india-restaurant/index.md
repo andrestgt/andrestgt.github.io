@@ -15,6 +15,11 @@ Got a delivery from this place. Special lamb curry. Spicy, authentic, and it cam
 
 Update: finally actually went there. It looks and feels a bit like being in India. Very small and barebones eatery. But the food is great, very authentically Indian. From the Palak paneer to the samosas and naan. Really tasty food, at very fair prices
 
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/spice-india-restaurant-2.jpg" alt="Spice India restaurant">
+  <figcaption>Spice India restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

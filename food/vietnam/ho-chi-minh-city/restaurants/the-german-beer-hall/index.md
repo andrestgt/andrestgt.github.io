@@ -37,6 +37,11 @@ But honestly? That’s not a bad thing. The food is good, and so is the beer, es
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/the-german-beer-hall-6.jpg" alt="The German Beer Hall">
+  <figcaption>The German Beer Hall</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -17,10 +17,16 @@ The noodle dishes here are nice, with tasty wonton, roasted pork and crab meat. 
 
 Their special dish contains the aforementioned ingredients plus a minuscule to rather small crab claw which is indeed tasty, but not really worth the high markup. I'd very much recommend this place if you're in the area and fancy a nice bowl of noodles, but don't go out of your way just to eat here expecting something extraordinary. There's so much great food in Bangkok, Michelin or not, and this is just another tasty humble eatery.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sawang-noodle-2.jpg" alt="Sawang Noodle">
   <figcaption>Sawang Noodle</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sawang-noodle-3.jpg" alt="Sawang Noodle">
+  <figcaption>Sawang Noodle</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

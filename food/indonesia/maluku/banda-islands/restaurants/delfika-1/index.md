@@ -7,8 +7,8 @@ subtitle: Banda Neira · Indonesian
 ---
 
 <figure>
-  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-1.jpg" alt="Delfika 1">
-  <figcaption>Delfika 1</figcaption>
+  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-1.jpg" alt="Delfika 1 Guesthouse / Cafe">
+  <figcaption>Delfika 1 Guesthouse / Cafe</figcaption>
 </figure>
 
 We had a couple of dinners in the courtyard garden of Delfika. The setting is really the highlight here. You sit in a beautiful enclosed courtyard surrounded by plants and a koi pond that make it one of the nicest places on the island to have dinner in the evening.
@@ -21,19 +21,25 @@ The food itself is good, but the courtyard makes it one of the best places in Ba
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-2.jpg" alt="Delfika 1">
-  <figcaption>Delfika 1</figcaption>
+  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-2.jpg" alt="Delfika 1 Guesthouse / Cafe">
+  <figcaption>Delfika 1 Guesthouse / Cafe</figcaption>
 </figure>
 <figure>
-  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-3.jpg" alt="Delfika 1">
-  <figcaption>Delfika 1</figcaption>
+  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-3.jpg" alt="Delfika 1 Guesthouse / Cafe">
+  <figcaption>Delfika 1 Guesthouse / Cafe</figcaption>
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-4.jpg" alt="Delfika 1">
-  <figcaption>Delfika 1</figcaption>
+  <img src="/photos/indonesia/maluku/banda-islands/delfika-1-4.jpg" alt="Delfika 1 Guesthouse / Cafe">
+  <figcaption>Delfika 1 Guesthouse / Cafe</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/maluku/delfika-1-1.jpg" alt="Delfika 1 Guesthouse / Cafe">
+  <figcaption>Delfika 1 Guesthouse / Cafe</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

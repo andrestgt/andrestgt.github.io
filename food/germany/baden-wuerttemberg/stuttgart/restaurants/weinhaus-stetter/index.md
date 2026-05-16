@@ -13,6 +13,11 @@ subtitle: Stuttgart · Wine Tavern, Swabian
 
 One of the best and most reasonably priced wine taverns in Stuttgart. In summer you sit beautifully outside; inside it's a warm, traditional atmosphere with solid Swabian food to accompany the excellent wines.
 
+<figure>
+  <img src="/photos/germany/stuttgart/weinhaus-stetter-2.jpg" alt="Weinhaus Stetter">
+  <figcaption>Weinhaus Stetter</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

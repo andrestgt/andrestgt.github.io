@@ -15,6 +15,11 @@ Classic hipster café that used to be incredibly popular a few years back, but e
 
 So for a change from Ca Phe Phin, if you fancy a cup that tastes more like Fitzroy or Prenzlauer Berg, this is a great choice
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/the-sun-coffee-bar-2.jpg" alt="THE SUN COFFEE BAR">
+  <figcaption>THE SUN COFFEE BAR</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

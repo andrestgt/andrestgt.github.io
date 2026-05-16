@@ -32,6 +32,11 @@ We had the northern hors d'oeuvre platter, a minced catfish salad, and a red cur
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/khaomao-khaofang-4.jpg" alt="Khaomao-Khaofang Imaginary Jungle">
+  <figcaption>Khaomao-Khaofang Imaginary Jungle</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -28,10 +28,16 @@ The interior still has that slightly dated German-Chinese restaurant look from t
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/cq-flavour-4.jpg" alt="CQ Flavour">
   <figcaption>CQ Flavour</figcaption>
 </figure>
+<figure>
+  <img src="/photos/germany/stuttgart/cq-flavour-5.jpg" alt="CQ Flavour">
+  <figcaption>CQ Flavour</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

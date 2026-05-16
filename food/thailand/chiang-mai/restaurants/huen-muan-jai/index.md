@@ -17,6 +17,11 @@ But, to be honest, I wasn't very impressed with the food. Especially the Micheli
 
 The pork omelette was very tasty, but also quite oily.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/huen-muan-jai-2.jpg" alt="Huen Muan Jai">
+  <figcaption>Huen Muan Jai</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

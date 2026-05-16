@@ -13,6 +13,11 @@ subtitle: Đà Lạt · Vietnamese
 
 Huge and hugely popular open-air eatery that specialises in grilled chicken. The whole chicken we ordered came with a sauce that was a bit too sweet for my taste, but the portion was generous enough that we didn’t get around to trying anything else. That said, the place has a great, lively atmosphere and is clearly a local favourite.
 
+<figure>
+  <img src="/photos/vietnam/da-lat/tuk-tuk-grilled-chicken-restaurant-2.jpg" alt="Tuk Tuk grilled chicken restaurant">
+  <figcaption>Tuk Tuk grilled chicken restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

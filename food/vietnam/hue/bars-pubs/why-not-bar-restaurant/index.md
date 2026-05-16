@@ -17,10 +17,16 @@ Yeah, why not?
 
 *— Attractions, hotels **&** travel agencies —*
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hue/why-not-bar-restaurant-2.jpg" alt="Why Not? Bar - Restaurant">
   <figcaption>Why Not? Bar - Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hue/why-not-bar-restaurant-3.jpg" alt="Why Not? Bar - Restaurant">
+  <figcaption>Why Not? Bar - Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

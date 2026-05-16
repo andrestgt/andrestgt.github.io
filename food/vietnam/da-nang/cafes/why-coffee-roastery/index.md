@@ -15,10 +15,16 @@ Very good looking hipster style café with very good coffees at reasonable price
 
 *— Attractions, hotels **&** travel agencies —*
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-nang/why-coffee-roastery-2.jpg" alt="Why Coffee Roastery">
   <figcaption>Why Coffee Roastery</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/da-nang/why-coffee-roastery-3.jpg" alt="Why Coffee Roastery">
+  <figcaption>Why Coffee Roastery</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

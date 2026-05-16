@@ -24,10 +24,16 @@ Attractive mid-range izakaya in Nimman with a lively atmosphere, friendly servic
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/okada-izakaya-4.jpg" alt="Okada Izakaya">
   <figcaption>Okada Izakaya</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/okada-izakaya-5.jpg" alt="Okada Izakaya">
+  <figcaption>Okada Izakaya</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

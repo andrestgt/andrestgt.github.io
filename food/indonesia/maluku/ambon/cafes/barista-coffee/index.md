@@ -15,7 +15,7 @@ Still, if you need a coffee near the harbour after arriving by ferry, Barista Co
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 5.5/10 |
 | Service         | 6/10   |
 | Value for money | 7/10   |

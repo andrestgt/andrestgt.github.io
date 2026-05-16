@@ -19,6 +19,11 @@ Update : in the last couple of years this place has become incredibly busy, and 
 
 They now also do flat whites (60k) which are just as perfect.
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/anh-coffee-roasters-2.jpg" alt="Anh Coffee Roasters">
+  <figcaption>Anh Coffee Roasters</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

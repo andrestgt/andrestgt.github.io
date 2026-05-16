@@ -48,6 +48,11 @@ There's a good reason why Yummy is the most popular traveller café in Cat Ba. I
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/cat-ba/yummy-2-restaurant-8.jpg" alt="Yummy 2 Restaurant">
+  <figcaption>Yummy 2 Restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

@@ -32,6 +32,11 @@ Prices are quite high for such a basic place, but you pay for freshness and auth
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/germany/stuttgart/sai-gon-asian-street-food-1.jpg" alt="Sai Gon Asian Street Food">
+  <figcaption>Sai Gon Asian Street Food</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

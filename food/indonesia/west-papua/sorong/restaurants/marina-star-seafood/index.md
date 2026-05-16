@@ -7,18 +7,24 @@ subtitle: Pelabuhan Perikanan, Sorong · Seafood
 ---
 
 <figure>
-  <img src="/photos/indonesia/west-papua/sorong/marina-star-seafood-1.jpg" alt="Marina Star Seafood">
-  <figcaption>Marina Star Seafood</figcaption>
+  <img src="/photos/indonesia/west-papua/sorong/marina-star-seafood-1.jpg" alt="Marina Star Restaurant Seafood">
+  <figcaption>Marina Star Restaurant Seafood</figcaption>
 </figure>
 
 Marina Star Seafood Restaurant is exactly the kind of place that every coastal city really should have: a pleasant seaside restaurant with a wooden veranda overlooking a picturesque fishing harbour. The views are nice, the atmosphere is relaxed, and the food is very good, though not exactly cheap.
 
 We had grilled squid and seafood mee goreng, both excellent and served with a very spicy sambal. Most seafood dishes are around 150K rupiah and upwards.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/west-papua/sorong/marina-star-seafood-2.jpg" alt="Marina Star Seafood">
-  <figcaption>Marina Star Seafood</figcaption>
+  <img src="/photos/indonesia/west-papua/sorong/marina-star-seafood-2.jpg" alt="Marina Star Restaurant Seafood">
+  <figcaption>Marina Star Restaurant Seafood</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/west-papua/marina-star-seafood-1.jpg" alt="Marina Star Restaurant Seafood">
+  <figcaption>Marina Star Restaurant Seafood</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -15,6 +15,11 @@ Old school Old Town eatery. A few plastic tables and chairs under a shady mango 
 
 It's just a nice experience overall. 35 Bt a plate.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/khanom-jeen-tai-baan-2.jpg" alt="Khanom Jeen Tai Baan">
+  <figcaption>Khanom Jeen Tai Baan</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

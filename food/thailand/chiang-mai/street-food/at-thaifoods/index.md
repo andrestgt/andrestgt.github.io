@@ -17,10 +17,16 @@ Prices are very low, usually around 50 to 60 baht per plate, roughly what you'd 
 
 Simple and satisfying local food.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/at-thaifoods-2.jpg" alt="A.T. Thaifoods">
   <figcaption>A.T. Thaifoods</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/at-thaifoods-3.jpg" alt="A.T. Thaifoods">
+  <figcaption>A.T. Thaifoods</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

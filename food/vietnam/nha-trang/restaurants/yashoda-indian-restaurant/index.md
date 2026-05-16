@@ -15,10 +15,16 @@ For some reason Nha Trang has always been blessed with good quality Indian resta
 
 Update 2025 : Yashoda had been closed for several years during the pandemic, but is now fully operational again, with the same menu and the same quality as before.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yashoda-indian-restaurant-2.jpg" alt="YASHODA INDIAN RESTAURANT">
   <figcaption>YASHODA INDIAN RESTAURANT</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/yashoda-indian-restaurant-3.jpg" alt="YASHODA INDIAN RESTAURANT">
+  <figcaption>YASHODA INDIAN RESTAURANT</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

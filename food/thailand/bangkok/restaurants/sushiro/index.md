@@ -50,10 +50,16 @@ Update: It has become extremely popular. Even outside of peak hours, it's now ha
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sushiro-8.jpg" alt="SUSHIRO ICONSIAM">
   <figcaption>SUSHIRO ICONSIAM</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sushiro-9.jpg" alt="SUSHIRO ICONSIAM">
+  <figcaption>SUSHIRO ICONSIAM</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

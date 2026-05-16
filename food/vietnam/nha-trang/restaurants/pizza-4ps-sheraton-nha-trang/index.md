@@ -48,6 +48,11 @@ They serve craft beers from the tap for less than you'd pay in most local bars (
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-8.jpg" alt="Pizza 4P's Sheraton Nha Trang">
+  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

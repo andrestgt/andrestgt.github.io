@@ -19,8 +19,19 @@ Service is not terribly friendly either, but then that's authentic, too.
 
 I still quite liked it and keep coming back
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/hoa-vien-brauhaus-tan-binh-2.jpg" alt="Hoa Vien Brauhaus Tan Binh">
+  <figcaption>Hoa Vien Brauhaus Tan Binh</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/hoa-vien-brauhaus-tan-binh-3.jpg" alt="Hoa Vien Brauhaus Tan Binh">
+  <figcaption>Hoa Vien Brauhaus Tan Binh</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/hoa-vien-brauhaus-tan-binh-4.jpg" alt="Hoa Vien Brauhaus Tan Binh">
   <figcaption>Hoa Vien Brauhaus Tan Binh</figcaption>
 </figure>
 

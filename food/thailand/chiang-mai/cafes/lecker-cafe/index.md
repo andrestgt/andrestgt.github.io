@@ -13,10 +13,16 @@ subtitle: Si Phum, Old Town · Café
 
 Arty little café/cocktail bar in a great location. You can choose between two kinds of roasts (I prefer the strong roast), and at 60 Bt their flat whites are excellent value.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/lecker-cafe-2.jpg" alt="Lecker Café & Bistro">
   <figcaption>Lecker Café & Bistro</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/lecker-cafe-3.jpg" alt="Lecker Café & Bistro">
+  <figcaption>Lecker Café & Bistro</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

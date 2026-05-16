@@ -13,6 +13,11 @@ subtitle: Munich · Beer Hall, Bavarian
 
 Despite the tourists, this place feels more like an authentic beer hall than the other big names in the city centre. Service is good, beers are surprisingly inexpensive, and the food is solid, with huge portions. The obvious food of choice here is the pork knuckle — crispy, hearty, and exactly what you’d want with a cold beer.
 
+<figure>
+  <img src="/photos/germany/muenchen/augustiner-braeustuben-2.jpg" alt="Augustiner Bräustuben">
+  <figcaption>Augustiner Bräustuben</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -19,10 +19,16 @@ A notch above standard fare, yet inexpensive, with bowls and plates going for 50
 
 There's an English menu on request.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/yuis-eatery-2.jpg" alt="Yui's Eatery">
   <figcaption>Yui's Eatery</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/yuis-eatery-3.jpg" alt="Yui's Eatery">
+  <figcaption>Yui's Eatery</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

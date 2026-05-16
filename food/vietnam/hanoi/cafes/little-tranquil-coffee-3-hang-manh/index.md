@@ -13,6 +13,11 @@ subtitle: Hoàn Kiếm · Coffee
 
 Tiny but cute coffee shop where you can get an excellent cup of flat white for 50k
 
+<figure>
+  <img src="/photos/vietnam/hanoi/little-tranquil-coffee-3-hang-manh-2.jpg" alt="Little Tranquil Coffee - 3 Hang Manh">
+  <figcaption>Little Tranquil Coffee - 3 Hang Manh</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

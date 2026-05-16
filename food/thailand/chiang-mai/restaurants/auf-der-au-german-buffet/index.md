@@ -17,10 +17,16 @@ The quality of the food ranges from mediocre and bland to succulent and deliciou
 
 I found the staff here very friendly and the free jugs of water were quickly refilled. The filter coffee which is also included in the price here is better than at some of the hipster roasteries in town.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/auf-der-au-german-buffet-2.jpg" alt="Auf der Au Garden German Buffet">
   <figcaption>Auf der Au Garden German Buffet</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/auf-der-au-german-buffet-3.jpg" alt="Auf der Au Garden German Buffet">
+  <figcaption>Auf der Au Garden German Buffet</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

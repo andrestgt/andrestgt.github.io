@@ -24,6 +24,17 @@ Large, modern brewery restaurant with a pleasant beer garden right on the Saar c
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/merzig/saarfuerst-brauhaus-am-yachthafen-1.jpg" alt="Saarfürst Brauhaus am Yachthafen">
+  <figcaption>Saarfürst Brauhaus am Yachthafen</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/merzig/saarfuerst-brauhaus-am-yachthafen-2.jpg" alt="Saarfürst Brauhaus am Yachthafen">
+  <figcaption>Saarfürst Brauhaus am Yachthafen</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

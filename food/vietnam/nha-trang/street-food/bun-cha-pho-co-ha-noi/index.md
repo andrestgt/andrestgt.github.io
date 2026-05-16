@@ -13,6 +13,11 @@ subtitle: Nha Trang · Vietnamese
 
 The bun cha here is very good, not to sweet, balanced flavours, plenty of fresh herbs and leaves, and the meatballs have that proper charcoal taste. Prices have gone up in recent years, though, with a bowl of bun cha dac biet costing 80k and a single side nem 20k. It's in a very touristy area, so it's not unusual to see elevated prices
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/bun-cha-pho-co-ha-noi-2.jpg" alt="Bún chả phố cổ Hà Nội">
+  <figcaption>Bún chả phố cổ Hà Nội</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

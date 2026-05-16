@@ -15,6 +15,11 @@ It shouldn't come as a surprise that it's easy to get great coffee in Vietnam's 
 
 *— Attractions, hotels **&** travel agencies —*
 
+<figure>
+  <img src="/photos/vietnam/buon-ma-thuot/daklac-coffee-2.jpg" alt="DakLac Coffee">
+  <figcaption>DakLac Coffee</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

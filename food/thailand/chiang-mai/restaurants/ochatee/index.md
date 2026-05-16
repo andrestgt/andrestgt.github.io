@@ -15,10 +15,16 @@ Set in a quiet, almost rural-feeling neighbourhood just south of the moat, Ochat
 
 You can also order tea snacks such as samosas, which makes this a good option for either breakfast or a light lunch. The atmosphere is relaxed, the people are friendly, and prices are very reasonable.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/ochatee-2.jpg" alt="Ochatee">
   <figcaption>Ochatee</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/ochatee-3.jpg" alt="Ochatee">
+  <figcaption>Ochatee</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

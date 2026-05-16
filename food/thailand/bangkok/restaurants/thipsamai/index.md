@@ -15,6 +15,11 @@ Out of all the amazing dishes Bangkok has to offer, Pad Thai isn't exactly the o
 
 So yes, I wouldn't queue here more than two minutes, but I don't regret trying it either.
 
+<figure>
+  <img src="/photos/thailand/bangkok/thipsamai-2.jpg" alt="Thipsamai Padthai Pratoopee">
+  <figcaption>Thipsamai Padthai Pratoopee</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -17,10 +17,16 @@ Izakayas in Chiang Mai are generally not cheap, largely because Japanese beers a
 
 If you're in the area and in the mood for a few cold beers with izakaya vibes, Daruma is a perfectly reasonable choice.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/daruma-izakaya-2.jpg" alt="Daruma Izakaya">
   <figcaption>Daruma Izakaya</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/daruma-izakaya-3.jpg" alt="Daruma Izakaya">
+  <figcaption>Daruma Izakaya</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

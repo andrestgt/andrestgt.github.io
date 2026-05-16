@@ -13,10 +13,16 @@ subtitle: Pathum Wan · Thai, Grilled Chicken
 
 One of my favourite dishes in the world is grilled chicken with papaya salad and sticky rice, and they do a good version of it here. It's Bangkok-style, so on the sweeter side, not exactly how I like it most, but that's to be expected. Apart from that, everything was well done. The setting is a big plus, with great views over CentralWorld and Pratunam, and for the location, prices are very reasonable.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/praram-9-kaiyang-2.jpg" alt="Praram 9 Kaiyang">
   <figcaption>Praram 9 Kaiyang</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/praram-9-kaiyang-3.jpg" alt="Praram 9 Kaiyang">
+  <figcaption>Praram 9 Kaiyang</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

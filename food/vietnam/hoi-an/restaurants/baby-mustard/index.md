@@ -48,6 +48,11 @@ They do nice fried spring rolls and the steamed vegetables for their Rau Kho Que
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/hoi-an/baby-mustard-8.jpg" alt="Baby Mustard">
+  <figcaption>Baby Mustard</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -24,6 +24,11 @@ Bun Bo Nam Bo is one of these Vietnamese dishes that is particularly suited to W
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/hanoi/bun-bo-nam-bo-bach-phuong-4.jpg" alt="Bún Bò Nam Bộ Bách Phương">
+  <figcaption>Bún Bò Nam Bộ Bách Phương</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

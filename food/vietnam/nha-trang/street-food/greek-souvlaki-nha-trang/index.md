@@ -15,10 +15,16 @@ Cheap and cheerful, with tasty wraps starting from 50k. There's also some Greek 
 
 Keep in mind that this place can be extremely busy and since everything is freshly prepared, expect to wait
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/greek-souvlaki-nha-trang-2.jpg" alt="Greek Souvlaki Nha Trang">
   <figcaption>Greek Souvlaki Nha Trang</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/greek-souvlaki-nha-trang-3.jpg" alt="Greek Souvlaki Nha Trang">
+  <figcaption>Greek Souvlaki Nha Trang</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

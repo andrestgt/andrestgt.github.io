@@ -28,6 +28,11 @@ The quality of the food is nothing special, but perfectly adequate for the price
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/golden-bamboo-restaurant-4.jpg" alt="Golden Bamboo Restaurant">
+  <figcaption>Golden Bamboo Restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

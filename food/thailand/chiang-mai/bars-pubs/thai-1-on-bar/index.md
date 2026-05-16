@@ -26,10 +26,16 @@ There's good music, tasty cocktails, and very decent pub grub on offer, covering
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/thai-1-on-bar-4.jpg" alt="Thai 1 On Bar & Grill">
   <figcaption>Thai 1 On Bar & Grill</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/thai-1-on-bar-5.jpg" alt="Thai 1 On Bar & Grill">
+  <figcaption>Thai 1 On Bar & Grill</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

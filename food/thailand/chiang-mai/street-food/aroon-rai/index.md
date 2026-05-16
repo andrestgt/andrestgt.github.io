@@ -15,10 +15,16 @@ Old school Thai eatery that's been around forever serving very good Northern Tha
 
 And yet, as someone who is not the biggest fan of Northern Thai food, I really enjoyed all dishes we ordered here. The pork khao soi, the larb moo, and most of all the spicy sour sausage salad. It's a bit pricier than similar, more local eateries, but still reasonable.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/aroon-rai-2.jpg" alt="Aroon (Rai)">
   <figcaption>Aroon (Rai)</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/aroon-rai-3.jpg" alt="Aroon (Rai)">
+  <figcaption>Aroon (Rai)</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

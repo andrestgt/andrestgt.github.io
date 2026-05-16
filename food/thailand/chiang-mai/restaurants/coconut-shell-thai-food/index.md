@@ -26,6 +26,11 @@ Quality-wise, it's right up there with your typical local Thai spot, and the pri
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/coconut-shell-thai-food-4.jpg" alt="Coconut Shell Thai Food">
+  <figcaption>Coconut Shell Thai Food</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

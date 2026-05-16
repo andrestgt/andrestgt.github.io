@@ -24,6 +24,11 @@ Arguably the most famous banh mi in Hanoi, but I don't get the hype to be honest
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/hanoi/banh-mi-25-4.jpg" alt="Banh Mi 25">
+  <figcaption>Banh Mi 25</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

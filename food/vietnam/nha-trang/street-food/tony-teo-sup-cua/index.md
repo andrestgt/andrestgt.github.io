@@ -19,10 +19,16 @@ Tony Tèo also serve some other dishes such as Banh Trang Tron (rice paper mango
 
 If you want to drink some cold beers with your grill and fry platters, they're very accommodating if you bring your own, which makes dining here even less expensive
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/tony-teo-sup-cua-2.jpg" alt="Tony Tèo Súp Cua">
   <figcaption>Tony Tèo Súp Cua</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/tony-teo-sup-cua-3.jpg" alt="Tony Tèo Súp Cua">
+  <figcaption>Tony Tèo Súp Cua</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

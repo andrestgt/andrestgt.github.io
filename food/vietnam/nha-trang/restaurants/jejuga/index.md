@@ -74,6 +74,11 @@ Their combos are great value so it's a good idea to bring friends, this is not a
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/jejuga-12.jpg" alt="Jejuga">
+  <figcaption>Jejuga</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

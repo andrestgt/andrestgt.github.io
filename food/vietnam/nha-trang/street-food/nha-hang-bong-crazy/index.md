@@ -24,6 +24,11 @@ Old-school hole-in-the-wall travellers eatery with outside tables in a quiet all
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-bong-crazy-4.jpg" alt="Nhà Hàng Bông Crazy">
+  <figcaption>Nhà Hàng Bông Crazy</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

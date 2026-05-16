@@ -37,6 +37,11 @@ Feels like Nha Trang in the 2000s, and that is very much a compliment. Simple ol
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/alley-cafe-6.jpg" alt="Alley Café">
+  <figcaption>Alley Café</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

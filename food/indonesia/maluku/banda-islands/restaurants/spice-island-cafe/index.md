@@ -41,6 +41,11 @@ It is a simple, but dependable place to eat and one of the few restaurants where
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/indonesia/maluku/spice-island-cafe-1.jpg" alt="Spice Island Cafe">
+  <figcaption>Spice Island Cafe</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

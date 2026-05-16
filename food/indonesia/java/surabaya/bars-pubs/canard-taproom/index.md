@@ -16,12 +16,12 @@ The stronger Weizenbock, at around 9.5%, was a bit much for me, but overall it i
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Service         | 6/10   |
-| Value for money | 9/10 |
-| Atmosphere      | 6/10   |
-| Overall         | 8/10   |
+| Category        | Score |
+| ---             | ---   |
+| Service         | 6/10  |
+| Value for money | 9/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 7/10  |
 
 ### Practical
 

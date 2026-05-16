@@ -13,10 +13,16 @@ subtitle: Bang Rak · Isaan
 
 Very good (as the name implies) Northeastern food cooked in a busy open sidewalk kitchen. The dining room is air conditioned though, which is a blessing in the Bangkok heat. Pork with black pepper and mussels with basil, both dishes we ordered were very tasty. Sathorn is obviously an expensive area, but the prices here are quite reasonable.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/northeast-2.jpg" alt="Northeast">
   <figcaption>Northeast</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/northeast-3.jpg" alt="Northeast">
+  <figcaption>Northeast</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

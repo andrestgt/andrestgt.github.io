@@ -26,6 +26,11 @@ Both the cashewnut pork and the seafood noodles were so so at best.
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/thailand/bangkok/moonshine-bar-4.jpg" alt="Moonshine Bar">
+  <figcaption>Moonshine Bar</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -13,6 +13,11 @@ subtitle: Nha Trang · Vietnamese
 
 This splendidly decorated wine bar and restaurant is the to go place in Nha Trang for lovers of wine and cheese. You won't find a better selection anywhere else in town. After the sad demise of Patricks wine bar, La Villa has filled an important gap in Nha Trang's culinary scene. It's very classy but less expensive than it looks. Thank Bacchus for that
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/la-villa-boutique-hotel-2.jpg" alt="La Villa Boutique Hotel">
+  <figcaption>La Villa Boutique Hotel</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

@@ -32,10 +32,16 @@ Still good, but the beef was sweeter and chewier than last time. Squid was excel
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lac-canh-beef-restaurant-4.jpg" alt="Lac Canh Beef Restaurant">
   <figcaption>Lac Canh Beef Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/lac-canh-beef-restaurant-5.jpg" alt="Lac Canh Beef Restaurant">
+  <figcaption>Lac Canh Beef Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

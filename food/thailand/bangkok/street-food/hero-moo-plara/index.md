@@ -13,10 +13,16 @@ subtitle: Phra Nakhon · Thai, Grilled Meats
 
 This place is just great. Cheap platters of charcoal grilled meats and sausages with delicious dipping sauces, plus Leo from the tap. Always open. What's not to like?
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/hero-moo-plara-2.jpg" alt="Hero Moo Plara">
   <figcaption>Hero Moo Plara</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/hero-moo-plara-3.jpg" alt="Hero Moo Plara">
+  <figcaption>Hero Moo Plara</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

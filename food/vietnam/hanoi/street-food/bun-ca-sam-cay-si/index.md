@@ -24,6 +24,11 @@ One of the best bowls of soup I found in Hanoi. The fish soup here is deeply sat
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/hanoi/bun-ca-sam-cay-si-4.jpg" alt="Bun Ca Sam Cay Si">
+  <figcaption>Bun Ca Sam Cay Si</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

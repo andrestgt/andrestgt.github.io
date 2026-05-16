@@ -13,6 +13,11 @@ subtitle: tỉnh Khánh Ho · Korean
 
 Good Korean BBQ restaurant franchise located in Lotte Mart. They have these fancy table grills, but prices are reasonable. The free appetisers are rather modest, but the grille octopus is a must. Recommended
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/gogi-house-2.jpg" alt="GoGi House">
+  <figcaption>GoGi House</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -15,10 +15,16 @@ We stopped here because the place was super busy full of locals even past lunch 
 
 *— Attractions, hotels **&** travel agencies —*
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/tuy-hoa/quan-binh-xin-2.jpg" alt="Quan Binh Xin">
   <figcaption>Quan Binh Xin</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/tuy-hoa/quan-binh-xin-3.jpg" alt="Quan Binh Xin">
+  <figcaption>Quan Binh Xin</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

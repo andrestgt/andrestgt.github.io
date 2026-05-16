@@ -17,10 +17,16 @@ Prices are surprisingly low considering the reputation. A bowl of chicken khao s
 
 The khao soi itself is on the lighter side, but full of flavour and very enjoyable. This is definitely a place worth visiting, but not one I'd be willing to queue for.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/khao-soi-maesai-2.jpg" alt="Khao Soi Maesai">
   <figcaption>Khao Soi Maesai</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/khao-soi-maesai-3.jpg" alt="Khao Soi Maesai">
+  <figcaption>Khao Soi Maesai</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

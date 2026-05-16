@@ -28,10 +28,16 @@ The grilled seafood is not quite as good as in the more local places around Lang
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/kei-islands/ten-cafe-4.jpg" alt="Ten Cafe">
   <figcaption>Ten Cafe</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/maluku/ten-cafe-1.jpg" alt="Ten Cafe">
+  <figcaption>Ten Cafe</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

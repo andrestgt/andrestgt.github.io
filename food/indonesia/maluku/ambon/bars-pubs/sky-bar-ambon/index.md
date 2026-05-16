@@ -15,11 +15,11 @@ Still, for the views alone, it's worth coming at least once while you're in Ambo
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Service         | 6/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 7.5/10 |
+| Overall         | 7/10   |
 
 ### Practical
 

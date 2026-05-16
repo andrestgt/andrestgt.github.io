@@ -13,6 +13,11 @@ subtitle: Si Phum, Old Town · Café
 
 This shop doubles as a very nice café with drinks and coffees of good quality at very reasonable prices. As elsewhere in Thailand, don't order cappuccino unless you're a fan of cinnamon on your coffee. Order a latte instead. At 45 Bt in such a nice atmosphere, it's a real steal.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/herb-basics-2.jpg" alt="Herb Basics">
+  <figcaption>Herb Basics</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -13,10 +13,16 @@ subtitle: Sathon · Specialty Coffee
 
 Cute little coffee shop opposite the Goethe-Institut serving very good flat whites for only 70 Bt, which is extremely fair for this neighbourhood.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/espero-2.jpg" alt="ES/PE/RO">
   <figcaption>ES/PE/RO</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/espero-3.jpg" alt="ES/PE/RO">
+  <figcaption>ES/PE/RO</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

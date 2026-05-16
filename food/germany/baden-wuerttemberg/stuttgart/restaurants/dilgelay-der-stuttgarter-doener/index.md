@@ -7,16 +7,22 @@ subtitle: Stuttgart · Döner, Turkish
 ---
 
 <figure>
-  <img src="/photos/germany/stuttgart/dilgelay-1.jpg" alt="Dilgelay – Der Stuttgarter Döner">
-  <figcaption>Dilgelay – Der Stuttgarter Döner</figcaption>
+  <img src="/photos/germany/stuttgart/dilgelay-1.jpg" alt="Dilgelay - Der Stuttgarter Döner">
+  <figcaption>Dilgelay - Der Stuttgarter Döner</figcaption>
 </figure>
 
 A bit pricier (a yufka costs just under €10), but in return you get one of the best classic döner in Stuttgart. At weekends it's prepared with tender, not over-spiced and not greasy steak meat. Generously filled with plenty of meat, cabbage and a pleasantly light yoghurt sauce.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/germany/stuttgart/dilgelay-2.jpg" alt="Dilgelay – Der Stuttgarter Döner">
-  <figcaption>Dilgelay – Der Stuttgarter Döner</figcaption>
+  <img src="/photos/germany/stuttgart/dilgelay-2.jpg" alt="Dilgelay - Der Stuttgarter Döner">
+  <figcaption>Dilgelay - Der Stuttgarter Döner</figcaption>
 </figure>
+<figure>
+  <img src="/photos/germany/stuttgart/dilgelay-der-stuttgarter-doener-1.jpg" alt="Dilgelay - Der Stuttgarter Döner">
+  <figcaption>Dilgelay - Der Stuttgarter Döner</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

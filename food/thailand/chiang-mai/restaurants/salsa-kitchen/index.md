@@ -21,6 +21,11 @@ At the prices they charge, they could at least offer a small dip of guacamole an
 
 Service on the other hand was friendly, and the refried beans were tasty.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/salsa-kitchen-2.jpg" alt="Salsa Kitchen">
+  <figcaption>Salsa Kitchen</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

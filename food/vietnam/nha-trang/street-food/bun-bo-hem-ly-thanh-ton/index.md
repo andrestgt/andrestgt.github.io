@@ -15,6 +15,11 @@ One of Nha Trang's oldest and most popular bun bo joints, right in the middle of
 
 Anyway, the soup here is very good, too. 40k a bowl
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/bun-bo-hem-ly-thanh-ton-2.jpg" alt="Bún Bò Hẻm Lý Thánh Tôn">
+  <figcaption>Bún Bò Hẻm Lý Thánh Tôn</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

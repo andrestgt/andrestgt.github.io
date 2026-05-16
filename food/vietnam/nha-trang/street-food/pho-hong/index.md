@@ -15,10 +15,16 @@ My favourite Pho Bo in Nha Trang. Two sizes only, a big bowl (55k) feeds two. Go
 
 Update 2025: new price is 65k for a big bowl, but the small bowl is more than enough for one. Quality is still the same, and I stand by my claim : best in town
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/pho-hong-2.jpg" alt="Phở Hồng">
   <figcaption>Phở Hồng</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/pho-hong-3.jpg" alt="Phở Hồng">
+  <figcaption>Phở Hồng</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

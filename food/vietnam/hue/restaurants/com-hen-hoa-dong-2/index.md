@@ -35,10 +35,16 @@ For a good reason this is considered the best Com Hen (baby mussels rice) place 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hue/com-hen-hoa-dong-2-6.jpg" alt="Cơm hến Hoa Đông">
   <figcaption>Cơm hến Hoa Đông</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hue/com-hen-hoa-dong-2-7.jpg" alt="Cơm hến Hoa Đông">
+  <figcaption>Cơm hến Hoa Đông</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

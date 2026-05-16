@@ -5,6 +5,7 @@ review: true
 title: Quán Nhậu Thanh Nguyệt
 subtitle: Cam Ranh · Vietnamese
 ---
+
 <figure>
   <img src="/photos/vietnam/cam-ranh/quan-nhau-thanh-nguyet-1.jpg" alt="Quán Nhậu Thanh Nguyệt">
   <figcaption>Quán Nhậu Thanh Nguyệt</figcaption>
@@ -33,6 +34,11 @@ Accidentally finding a place like this is one of the reasons why travelling arou
   <figcaption>Quán Nhậu Thanh Nguyệt</figcaption>
 </figure>
 </div>
+
+<figure>
+  <img src="/photos/vietnam/cam-ranh/quan-nhau-thanh-nguyet-6.jpg" alt="Quán Nhậu Thanh Nguyệt">
+  <figcaption>Quán Nhậu Thanh Nguyệt</figcaption>
+</figure>
 
 ## Ratings
 

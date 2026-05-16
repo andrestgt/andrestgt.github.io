@@ -17,6 +17,11 @@ The dipping sauce varies slightly from place to place and is usually a well-kept
 
 Nha Trang has quite a few nem nướng specialty restaurants, most of them around Dam Market. This little hole-in-the-wall eatery in Backpacker Alley is a convenient option if you want to try nem nướng in the tourist area. It’s obviously not the best in town—the skewers aren’t straight off the grill like in specialty restaurants but are reheated, and the dipping sauce is nothing special. That said, the price is fair (54k for 6), and even average nem nướng is still delicious.
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/nem-nuong-hung-hoa-the-local-restaurant-2.jpg" alt="NEM NƯỚNG HƯNG HÒA ( THE LOCAL RESTAURANT)">
+  <figcaption>NEM NƯỚNG HƯNG HÒA ( THE LOCAL RESTAURANT)</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

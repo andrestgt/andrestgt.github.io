@@ -24,10 +24,16 @@ For many years there was only one real Italian restaurant in Nha Trang, Da Ferna
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/la-cala-gusto-italiano-4.jpg" alt="La Cala - Gusto Italiano">
   <figcaption>La Cala - Gusto Italiano</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/la-cala-gusto-italiano-5.jpg" alt="La Cala - Gusto Italiano">
+  <figcaption>La Cala - Gusto Italiano</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

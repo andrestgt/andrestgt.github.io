@@ -15,12 +15,12 @@ The place was always empty when I went there early, which made it a convenient a
 ## Ratings
 
 | Category        | Score  |
-|-----------------|--------|
+| ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 6/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 6.5/10 |
-| Overall         | 7/10   |
+| Overall         | 7.5/10 |
 
 ### Practical
 

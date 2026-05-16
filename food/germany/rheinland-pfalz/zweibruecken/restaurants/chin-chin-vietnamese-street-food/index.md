@@ -24,10 +24,16 @@ Chin Chin offers a full restaurant atmosphere — minimalist, modern and very we
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/zweibruecken/chin-chin-4.jpg" alt="Chin Chin Vietnamese Street Food">
   <figcaption>Chin Chin Vietnamese Street Food</figcaption>
 </figure>
+<figure>
+  <img src="/photos/germany/zweibruecken/chin-chin-vietnamese-street-food-1.jpg" alt="Chin Chin Vietnamese Street Food">
+  <figcaption>Chin Chin Vietnamese Street Food</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

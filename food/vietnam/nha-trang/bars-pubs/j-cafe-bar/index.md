@@ -39,6 +39,11 @@ Friendly and competent service, reasonable prices and a fun atmosphere make this
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/j-cafe-bar-6.jpg" alt="J Cafe & Bar">
+  <figcaption>J Cafe & Bar</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

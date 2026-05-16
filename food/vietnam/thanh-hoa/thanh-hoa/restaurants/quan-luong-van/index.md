@@ -26,6 +26,11 @@ Thanh Hoa's most popular Bia hoi joint is worth a visit for the local specialty 
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/thanh-hoa/quan-luong-van-4.jpg" alt="Quán Lượng Vần">
+  <figcaption>Quán Lượng Vần</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

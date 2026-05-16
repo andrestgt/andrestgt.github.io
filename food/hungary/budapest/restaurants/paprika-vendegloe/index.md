@@ -6,6 +6,10 @@ title: Paprika Vendéglő
 subtitle: Budapest · Hungarian Restaurant
 ---
 
+<figure>
+  <img src="/photos/hungary/budapest/paprika-vendegloe-1.jpg" alt="Paprika Vendéglő">
+  <figcaption>Paprika Vendéglő</figcaption>
+</figure>
 
 Can't go wrong here. Yes, it's touristy, but it tastes and looks like a traditional vendéglő and is the perfect place to sample traditional Hungarian food. The prices are absolutely okay — a soup and a main easily feeds two hungry people. The goose leg, topped with a chunky slice of fatty goose liver, is a must. Friendly service too. My favourite restaurant in Budapest.
 

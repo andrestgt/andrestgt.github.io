@@ -15,10 +15,16 @@ Old school, noisy bia hoi joint near the market. The beer is good, 25k a jug (1,
 
 *— Attractions, hotels **&** travel agencies —*
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/bac-ha/quan-bia-quy-dien-2.jpg" alt="Quán Bia Quý Diễn">
   <figcaption>Quán Bia Quý Diễn</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/bac-ha/quan-bia-quy-dien-3.jpg" alt="Quán Bia Quý Diễn">
+  <figcaption>Quán Bia Quý Diễn</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -35,6 +35,11 @@ Huge beer garden with dishes from all over Vietnam. The food is good, staff almo
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/buon-ma-thuot/beer-zone-the-gioi-nhau-6.jpg" alt="Beer Zone - Thế Giới Nhậu">
+  <figcaption>Beer Zone - Thế Giới Nhậu</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

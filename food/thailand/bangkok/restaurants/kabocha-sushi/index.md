@@ -24,6 +24,11 @@ Ranks high on my personal "favourite restaurants in the world" list. Unbeatable 
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/thailand/bangkok/kabocha-sushi-4.jpg" alt="Kabocha Sushi at the Street">
+  <figcaption>Kabocha Sushi at the Street</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -28,10 +28,16 @@ An unreserved recommendation.
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/athidhi-4.jpg" alt="Athidhi Restaurant Stuttgart">
   <figcaption>Athidhi Restaurant Stuttgart</figcaption>
 </figure>
+<figure>
+  <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-1.jpg" alt="Athidhi Restaurant Stuttgart">
+  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

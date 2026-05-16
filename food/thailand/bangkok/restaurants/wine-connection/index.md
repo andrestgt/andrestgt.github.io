@@ -6,7 +6,13 @@ title: Wine Connection Rain Hill
 subtitle: Watthana · Wine Bar, Deli
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/wine-connection-1.jpg" alt="Wine Connection Rain Hill">
+  <figcaption>Wine Connection Rain Hill</figcaption>
+</figure>
+
 Wine Connection remains probably the best place for wine lovers in Thailand when it comes to value. Even the cheaper bottles around 500–600 Bt are perfectly decent. The food menu could be slightly more adventurous, but quality is consistently good.
+
 ## Ratings
 
 | Category        | Score |

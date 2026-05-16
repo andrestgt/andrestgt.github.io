@@ -24,6 +24,11 @@ Seriously, visiting this huge beer garden is a more quintessential Hanoi experie
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/vietnam/hanoi/bia-hoi-thu-hang-4.jpg" alt="Bia Hoi Thu Hang">
+  <figcaption>Bia Hoi Thu Hang</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

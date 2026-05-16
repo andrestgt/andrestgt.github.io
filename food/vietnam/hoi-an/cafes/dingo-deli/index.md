@@ -13,6 +13,11 @@ subtitle: Hội An · Coffee
 
 Superb sandwiches and very good cakes in what can only be described as expat heaven. The cream cheese salmon bagel is generously filled and, pleasingly, they even include capers. Expensive by local standards, certainly, but undeniably delicious. The flat whites are very good as well.
 
+<figure>
+  <img src="/photos/vietnam/hoi-an/dingo-deli-2.jpg" alt="Dingo Deli">
+  <figcaption>Dingo Deli</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

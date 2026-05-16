@@ -15,6 +15,11 @@ Small sausage eatery with rather mediocre homemade sausages, mostly German style
 
 *— Attractions, hotels **&** travel agencies —*
 
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/xuc-xich-duc-anh-ba-tay310-lo-m-khu-tai-thiet-hoang-dieu-2.jpg" alt="Xúc Xích Đức Anh Ba Tây_310 LÔ M KHU TÁI THIẾT HOÀNG DIỆU">
+  <figcaption>Xúc Xích Đức Anh Ba Tây_310 LÔ M KHU TÁI THIẾT HOÀNG DIỆU</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

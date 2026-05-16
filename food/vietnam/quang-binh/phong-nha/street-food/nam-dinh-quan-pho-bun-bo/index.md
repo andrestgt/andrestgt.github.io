@@ -15,6 +15,11 @@ This is a classic noodle soup place and often very busy for breakfast. The broth
 
 But to be honest, the quality of food in Phong Nha is very modest in general by Vietnamese standards and this is still one of the better options
 
+<figure>
+  <img src="/photos/vietnam/phong-nha/nam-dinh-quan-pho-bun-bo-2.jpg" alt="Nam Định Quán (PHỞ-BÚN BÒ)">
+  <figcaption>Nam Định Quán (PHỞ-BÚN BÒ)</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score |

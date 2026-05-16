@@ -13,10 +13,16 @@ subtitle: Zwiefalten · Brewpub, Swabian
 
 The smart, spacious dining hall of the brewery offers a fine selection of freshly tapped beer and hearty Swabian cooking in a modern setting, and is always worth a visit — practically a must if you're in the area. My favourite beer here is the unfiltered Engele, which I can wholeheartedly recommend if it's available. With a few lovely, creamy wild garlic and cheese Spätzle on the side, the calories you lost on the walk are right back in place.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/zwiefalten/zwiefalter-klosterbraeu-2.jpg" alt="Zwiefalter Klosterbräu Brauhaus Wirtshaus">
   <figcaption>Zwiefalter Klosterbräu Brauhaus Wirtshaus</figcaption>
 </figure>
+<figure>
+  <img src="/photos/germany/zwiefalten/zwiefalter-klosterbraeu-brauhaus-wirtshaus-1.jpg" alt="Zwiefalter Klosterbräu Brauhaus Wirtshaus">
+  <figcaption>Zwiefalter Klosterbräu Brauhaus Wirtshaus</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

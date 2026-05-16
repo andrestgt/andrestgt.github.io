@@ -59,10 +59,16 @@ Edit : they just moved to bigger premises with a slightly more expansive menu an
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-10.jpg" alt="Mì Bò chợ Lớn">
   <figcaption>Mì Bò chợ Lớn</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-11.jpg" alt="Mì Bò chợ Lớn">
+  <figcaption>Mì Bò chợ Lớn</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

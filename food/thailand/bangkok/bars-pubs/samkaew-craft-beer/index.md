@@ -30,6 +30,11 @@ The place fills up quickly and gets quite busy as the evening goes on, with live
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/thailand/bangkok/samkaew-craft-beer-4.jpg" alt="Samkaew Craft Beer Kanlapaphruek">
+  <figcaption>Samkaew Craft Beer Kanlapaphruek</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score |

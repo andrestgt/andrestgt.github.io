@@ -21,10 +21,16 @@ Prices are not terribly expensive, although portions could be a bit more generou
 
 I'm only giving 2 stars because don't don't even accept small dogs in their beer garden outside
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/dailas-nha-trang-2.jpg" alt="Dailas Nha Trang">
   <figcaption>Dailas Nha Trang</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/dailas-nha-trang-3.jpg" alt="Dailas Nha Trang">
+  <figcaption>Dailas Nha Trang</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -21,6 +21,11 @@ Prices are reasonable for such an upmarket restaurant, with baskets of 3 ranging
 
 I will definitely keep coming back here, although they charge 10% VAT on top of the menu prices, a practice which I detest, so I'll deduct one star
 
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/san-fu-lou-restaurant-hot-pot-ab-tower-2.jpg" alt="San Fu Lou Restaurant - Hot Pot AB Tower">
+  <figcaption>San Fu Lou Restaurant - Hot Pot AB Tower</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

@@ -13,10 +13,16 @@ subtitle: Ho Chi Minh City · Vietnamese
 
 The concept is smart. It's obviously gimmicky and geared towards the Instagram crowd, but offering a meal that consists of seven small bowls of diverse noodle dishes has culinary merits, too. It's a bit like tapas, Asian style and it lets you try lots of different flavours in a short time. And it's cheap. 79k for the seven bowls. Problem is, and expected at that price, the quality is not that great. Some bowls are better than others, but none are outstanding. It's fun to go there once, but I'm not sure I'd revisit, if it wasn't for the fact that they also serve dim sum from Khang upstairs
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/noodle-7-bowl-2.jpg" alt="Noodle 7 Bowl">
   <figcaption>Noodle 7 Bowl</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/noodle-7-bowl-3.jpg" alt="Noodle 7 Bowl">
+  <figcaption>Noodle 7 Bowl</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

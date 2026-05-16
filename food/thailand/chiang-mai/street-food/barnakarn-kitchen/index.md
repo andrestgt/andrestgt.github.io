@@ -24,10 +24,16 @@ Basic Thai eatery in the Old Town offering a large menu of wok fried one plate d
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/barnakarn-kitchen-4.jpg" alt="Barnakarn Kitchen">
   <figcaption>Barnakarn Kitchen</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/barnakarn-kitchen-5.jpg" alt="Barnakarn Kitchen">
+  <figcaption>Barnakarn Kitchen</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

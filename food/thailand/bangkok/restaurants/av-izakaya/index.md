@@ -28,6 +28,11 @@ A fun place to visit.
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/thailand/bangkok/av-izakaya-4.jpg" alt="AV Izakaya Saphan Khwai">
+  <figcaption>AV Izakaya Saphan Khwai</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

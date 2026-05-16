@@ -17,6 +17,22 @@ These are up there with some of the best (and often much more expensive) dim sum
 
 40k for a basket
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/da-nang/dim-sum-12.jpg" alt="Dim Sum">
+  <figcaption>Dim Sum</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/da-nang/dim-sum-13.jpg" alt="Dim Sum">
+  <figcaption>Dim Sum</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/da-nang/dim-sum-14.jpg" alt="Dim Sum">
+  <figcaption>Dim Sum</figcaption>
+</figure>
+
 ## Ratings
 
 | Category | Score |

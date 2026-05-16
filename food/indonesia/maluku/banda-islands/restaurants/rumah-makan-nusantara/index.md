@@ -19,10 +19,16 @@ Prices are moderate and slightly lower than some other tourist-oriented places o
 
 Overall, Nusantara is a decent option when other places are closed, but the cooking was the least memorable of the meals I had in Banda Neira.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/banda-islands/rumah-makan-nusantara-2.jpg" alt="Rumah Makan Nusantara">
   <figcaption>Rumah Makan Nusantara</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/maluku/rumah-makan-nusantara-1.jpg" alt="Rumah Makan Nusantara">
+  <figcaption>Rumah Makan Nusantara</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

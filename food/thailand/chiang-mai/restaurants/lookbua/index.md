@@ -15,10 +15,16 @@ As far as tourist-oriented restaurants in Chiang Mai's Old Town go, this is one 
 
 I also tried several other dishes, and everything fell into the same category: solid, well-prepared Thai standards. The service is good, the presentation is pleasant, and while nothing here is especially outstanding, it's a reliable choice if you're looking for decent Thai food in the Old Town.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/lookbua-2.jpg" alt="Lookbua Thai Food Restaurant">
   <figcaption>Lookbua Thai Food Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/lookbua-3.jpg" alt="Lookbua Thai Food Restaurant">
+  <figcaption>Lookbua Thai Food Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

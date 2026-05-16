@@ -15,6 +15,11 @@ I have a suspicion that places like Baristro Asian Style are built mainly with t
 
 We were lucky on the day we visited and found it relatively quiet, which made the experience much more enjoyable. What ultimately matters, though, is that the coffee is good. A nicely made cappuccino for 85 baht, enjoyed in such beautiful and peaceful surroundings, makes this a worthwhile trip out of town.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/baristro-asian-style-2.jpg" alt="The Baristro Asian Style">
+  <figcaption>The Baristro Asian Style</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score |

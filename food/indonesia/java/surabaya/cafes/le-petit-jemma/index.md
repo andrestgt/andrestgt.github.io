@@ -10,13 +10,13 @@ For a coffee shop at an international airport the flat white here is surprisingl
 
 ## Ratings
 
-| Category        | Score  |
-|-----------------|--------|
-| Coffee          | 8/10 |
-| Service         | 7/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 5/10   |
-| Overall         | 7/10   |
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 8/10  |
+| Service         | 7/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 5/10  |
+| Overall         | 7/10  |
 
 ### Practical
 

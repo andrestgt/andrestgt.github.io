@@ -70,10 +70,16 @@ Less cosy and intimate than the original sushi bar, but on a positive note, it's
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-12.jpg" alt="Nhà hàng Kiwami 2">
   <figcaption>Nhà hàng Kiwami 2</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-13.jpg" alt="Nhà hàng Kiwami 2">
+  <figcaption>Nhà hàng Kiwami 2</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

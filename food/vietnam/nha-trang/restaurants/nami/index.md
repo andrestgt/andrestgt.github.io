@@ -28,10 +28,16 @@ So if you're only looking for a good Korean barbecue restaurant, this place is r
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/nami-4.jpg" alt="Nami">
   <figcaption>Nami</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/nami-5.jpg" alt="Nami">
+  <figcaption>Nami</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -17,6 +17,11 @@ The flat white was excellent, one of the best I had in Bangkok, and at under 100
 
 It's your typical slightly uncomfortable hipster setup, but the coffee makes up for it.
 
+<figure>
+  <img src="/photos/thailand/bangkok/pobnar-2.jpg" alt="Pobnar Specialty Coffee & Roastery">
+  <figcaption>Pobnar Specialty Coffee & Roastery</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

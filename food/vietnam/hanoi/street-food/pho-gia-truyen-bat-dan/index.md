@@ -15,10 +15,16 @@ This place is an institution and a visit here is an experience. I don't even wan
 
 The food? There's Pho Bo Tai Nam, it's 60k a bowl and it's delicious. I wouldn't wait in line for an hour for it, though the experience is rather priceless.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/pho-gia-truyen-bat-dan-2.jpg" alt="Phở Gia Truyền Bát Đàn">
   <figcaption>Phở Gia Truyền Bát Đàn</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/pho-gia-truyen-bat-dan-3.jpg" alt="Phở Gia Truyền Bát Đàn">
+  <figcaption>Phở Gia Truyền Bát Đàn</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

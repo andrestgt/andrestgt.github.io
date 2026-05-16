@@ -17,6 +17,11 @@ The place is extremely popular with the selfie crowd. The café itself isn't any
 
 Worth a visit at least once for the photos and the atmosphere.
 
+<figure>
+  <img src="/photos/thailand/bangkok/mother-roaster-2.jpg" alt="Mother Roaster Talat Noi">
+  <figcaption>Mother Roaster Talat Noi</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

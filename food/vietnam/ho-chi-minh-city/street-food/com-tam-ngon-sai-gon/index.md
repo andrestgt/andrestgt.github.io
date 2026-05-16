@@ -15,6 +15,11 @@ Great cơm tấm spot in a lively, very local neighborhood in District 3. The po
 
 It’s just about walking distance from Pham Ngu Lao, making it a great option if you want to escape the tourist-heavy areas and try something more local. Well worth the effort!
 
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/com-tam-ngon-sai-gon-2.jpg" alt="Cơm Tấm Ngon Sài Gòn">
+  <figcaption>Cơm Tấm Ngon Sài Gòn</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

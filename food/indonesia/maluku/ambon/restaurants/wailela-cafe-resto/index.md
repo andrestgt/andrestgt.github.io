@@ -7,8 +7,8 @@ subtitle: Rumah Tiga, Teluk Ambon · Seafood, Indonesian
 ---
 
 <figure>
-  <img src="/photos/indonesia/maluku/ambon/wailela-cafe-resto-1.jpg" alt="Wailela Cafe & Resto">
-  <figcaption>Wailela Cafe & Resto</figcaption>
+  <img src="/photos/indonesia/maluku/ambon/wailela-cafe-resto-1.jpg" alt="Wailela Cafe and Resto">
+  <figcaption>Wailela Cafe and Resto</figcaption>
 </figure>
 
 One of the more popular seaside restaurants in Ambon, with a pleasant garden facing the bay and wide views across the water. It's a very nice place to sit by the sea.
@@ -17,10 +17,16 @@ We had the sop buntut, which was good, and a large portion of gado-gado for 60K.
 
 Most seafood dishes were around 90K. Good portions, decent cooking, and a very attractive seaside setting.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/maluku/ambon/wailela-cafe-resto-2.jpg" alt="Wailela Cafe & Resto">
-  <figcaption>Wailela Cafe & Resto</figcaption>
+  <img src="/photos/indonesia/maluku/ambon/wailela-cafe-resto-2.jpg" alt="Wailela Cafe and Resto">
+  <figcaption>Wailela Cafe and Resto</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/maluku/wailela-cafe-resto-1.jpg" alt="Wailela Cafe and Resto">
+  <figcaption>Wailela Cafe and Resto</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

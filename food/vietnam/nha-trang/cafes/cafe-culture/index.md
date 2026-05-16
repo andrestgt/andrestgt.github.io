@@ -56,10 +56,16 @@ Edit 2022: they moved to a better and bigger location, the whole place is nicer 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cafe-culture-8.jpg" alt="Cafe Culture">
   <figcaption>Cafe Culture</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/cafe-culture-9.jpg" alt="Cafe Culture">
+  <figcaption>Cafe Culture</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

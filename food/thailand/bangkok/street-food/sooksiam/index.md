@@ -48,10 +48,16 @@ This place is absolutely stunning, and you get pretty much all your favourite st
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sooksiam-8.jpg" alt="SOOKSIAM">
   <figcaption>SOOKSIAM</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sooksiam-9.jpg" alt="SOOKSIAM">
+  <figcaption>SOOKSIAM</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

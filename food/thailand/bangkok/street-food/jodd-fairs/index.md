@@ -26,6 +26,11 @@ With all the visually spectacular food offerings and frenetic atmosphere, it's d
 </figure>
 </div>
 
+<figure>
+  <img src="/photos/thailand/bangkok/jodd-fairs-4.jpg" alt="Jodd Fairs Night Market">
+  <figcaption>Jodd Fairs Night Market</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score |
