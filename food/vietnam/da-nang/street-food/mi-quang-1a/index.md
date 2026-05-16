@@ -5,6 +5,12 @@ review: true
 title: Mi Quang 1A
 subtitle: Hải Châu · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-nang/mi-quang-1a-1.jpg" alt="Mi Quang 1A">
+  <figcaption>Mi Quang 1A</figcaption>
+</figure>
+
 Popular and long established hole in the wall offering one dish only, Quang Nam specialty Mi Quang, which is one of my favourite noodle dishes in Vietnam. The version here is very tasty, but as unremarkable as the surroundings. 45k for a Dac Biet (all in) bowl is a good price though considering how popular the place is. Recommended, but don't go out of your way for it
 
 ## Ratings

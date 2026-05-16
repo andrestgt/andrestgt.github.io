@@ -5,6 +5,12 @@ review: true
 title: Quan Ngoc Anh
 subtitle: Minh Khai · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/ha-giang/quan-ngoc-anh-1.jpg" alt="Quan Ngoc Anh">
+  <figcaption>Quan Ngoc Anh</figcaption>
+</figure>
+
 Come to this friendly noodle joint for a large bowl of tasty Sot Vang (beef noodle stew) for 35k with tender beef and a mountain of noodles. Good value
 
 ## Ratings

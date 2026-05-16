@@ -5,6 +5,12 @@ review: true
 title: Phượng Tường dimsum
 subtitle: Hoàn Kiếm · Chinese · Dim Sum
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/phuong-tuong-dimsum-1.jpg" alt="Phượng Tường dimsum">
+  <figcaption>Phượng Tường dimsum</figcaption>
+</figure>
+
 Good dim sum in a very convenient old town location. Prices are okay for the area with baskets of 3 costing mostly under 50k.
 
 What I dislike is the sneaky 5% service charge they put on the bill. Vietnam has always been a place where the price shown on the menu was the price you finally pay and I would hope it'll stay that way.

@@ -5,6 +5,12 @@ review: true
 title: Tiffins Desserts and Coffee
 subtitle: Nha Trang · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/tiffins-desserts-and-coffee-1.jpg" alt="Tiffins Desserts and Coffee">
+  <figcaption>Tiffins Desserts and Coffee</figcaption>
+</figure>
+
 This café is unusual in the way that many of their coffee drink concoctions actually taste of coffee plus their various ingredients instead of just sugar, which is often the case elsewhere in Vietnam.
 
 There's ac and garden sections but the inside space can feel very cramped when it's busy (most mornings). It's more pleasant in the afternoon. Prices are reasonable for an upmarket coffee shop.

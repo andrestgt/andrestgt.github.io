@@ -5,6 +5,12 @@ review: true
 title: The Running Bean
 subtitle: Sài Gòn · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/the-running-bean-1.jpg" alt="The Running Bean">
+  <figcaption>The Running Bean</figcaption>
+</figure>
+
 Very nice, spacious and comfortable coffee shop with good service and quality coffee beans. The cappuccino is excellent. All the Vietnamese style coffees, however, are terribly sweet which completely destroys the good coffee taste. Prime downtown location with prices to match
 
 ## Ratings

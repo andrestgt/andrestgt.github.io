@@ -5,9 +5,20 @@ review: true
 title: Phở Phú Vương
 subtitle: Nguyễn Thái Bình · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/pho-phu-vuong-1.jpg" alt="Phở Phú Vương">
+  <figcaption>Phở Phú Vương</figcaption>
+</figure>
+
 The phở here is very good, with a rich and flavorful broth, and the location is convenient. The eatery is clean, and the service is quite friendl.
 
 Prices are typical for District 1—65K for a regular bowl and 85K for the đặc biệt, which is massive and well worth it if you're hungry.
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/pho-phu-vuong-2.jpg" alt="Phở Phú Vương">
+  <figcaption>Phở Phú Vương</figcaption>
+</figure>
 
 ## Ratings
 

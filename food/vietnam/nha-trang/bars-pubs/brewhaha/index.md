@@ -5,7 +5,18 @@ review: true
 title: Brewhaha
 subtitle: Nha Trang · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/brewhaha-1.jpg" alt="Brewhaha">
+  <figcaption>Brewhaha</figcaption>
+</figure>
+
 Soft opening experience, so things will hopefully still get better. A huge three storey beer restaurant that has great potential but seems to be badly managed. Staff appear to be untrained, the food is expensive (175k for a small portion of chewy luc lac) and mediocre, the menu has a buy 3 get 1 promotion for beers which turns out to be valid only for their Danang branch (!!??). The craft beer on tap is well priced and tasty, with glasses starting at 30k.
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/brewhaha-2.jpg" alt="Brewhaha">
+  <figcaption>Brewhaha</figcaption>
+</figure>
 
 ## Ratings
 
@@ -16,7 +27,6 @@ Soft opening experience, so things will hopefully still get better. A huge three
 | Value for money | 5/10 |
 | Atmosphere | 6/10 |
 | Overall | 6/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Brewhaha)

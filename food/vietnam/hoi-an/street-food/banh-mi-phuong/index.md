@@ -5,6 +5,12 @@ review: true
 title: Bánh Mì Phượng
 subtitle: Hội An · Vietnamese · Bánh Mì
 ---
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/banh-mi-phuong-1.jpg" alt="Bánh Mì Phượng">
+  <figcaption>Bánh Mì Phượng</figcaption>
+</figure>
+
 Believe the hype. The Banh Mi Sandwiches here really are that good. There's usually a long queue for a reason. Hoi An is by far the best place in Vietnam to eat Banh Mi, and Phuong is just about the best place in Hoi An. Go for #9
 
 2020 update :

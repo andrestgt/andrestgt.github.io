@@ -5,6 +5,12 @@ review: true
 title: Little Tranquil Coffee - 3 Hang Manh
 subtitle: Hoàn Kiếm · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/little-tranquil-coffee-3-hang-manh-1.jpg" alt="Little Tranquil Coffee - 3 Hang Manh">
+  <figcaption>Little Tranquil Coffee - 3 Hang Manh</figcaption>
+</figure>
+
 Tiny but cute coffee shop where you can get an excellent cup of flat white for 50k
 
 ## Ratings

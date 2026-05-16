@@ -5,6 +5,12 @@ review: true
 title: THE SUN COFFEE BAR
 subtitle: Nha Trang · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/the-sun-coffee-bar-1.jpg" alt="THE SUN COFFEE BAR">
+  <figcaption>THE SUN COFFEE BAR</figcaption>
+</figure>
+
 Classic hipster café that used to be incredibly popular a few years back, but empty on our latest visit. That might have to do with the prices that are higher here than in most other places (75k for a Flat White). But you do get what I think are probably the best espresso based drinks in Nha Trang, along with fast WiFi and strong AC.
 
 So for a change from Ca Phe Phin, if you fancy a cup that tastes more like Fitzroy or Prenzlauer Berg, this is a great choice

@@ -5,9 +5,20 @@ review: true
 title: Quán Bia Quý Diễn
 subtitle: Bắc Hà · Bia Hơi
 ---
+
+<figure>
+  <img src="/photos/vietnam/bac-ha/quan-bia-quy-dien-1.jpg" alt="Quán Bia Quý Diễn">
+  <figcaption>Quán Bia Quý Diễn</figcaption>
+</figure>
+
 Old school, noisy bia hoi joint near the market. The beer is good, 25k a jug (1,5 litres), the spicy fried tofu (30k) here is the best I've ever had, crispy outside, super soft inside, absolutely delicious. They do a nice leaf omelette too (30k). Sadly most meat dishes are only available in large portions for groups.
 
 *— Attractions, hotels **&** travel agencies —*
+
+<figure>
+  <img src="/photos/vietnam/bac-ha/quan-bia-quy-dien-2.jpg" alt="Quán Bia Quý Diễn">
+  <figcaption>Quán Bia Quý Diễn</figcaption>
+</figure>
 
 ## Ratings
 

@@ -5,11 +5,22 @@ review: true
 title: Why Not? Bar - Restaurant
 subtitle: Huế 49118 · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/hue/why-not-bar-restaurant-1.jpg" alt="Why Not? Bar - Restaurant">
+  <figcaption>Why Not? Bar - Restaurant</figcaption>
+</figure>
+
 Friendly backpacker bar with a pool table, 19k bottles of Huda and pretty decent traveller food to go with the cold beers.
 
 Yeah, why not?
 
 *— Attractions, hotels **&** travel agencies —*
+
+<figure>
+  <img src="/photos/vietnam/hue/why-not-bar-restaurant-2.jpg" alt="Why Not? Bar - Restaurant">
+  <figcaption>Why Not? Bar - Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

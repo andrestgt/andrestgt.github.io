@@ -5,6 +5,12 @@ review: true
 title: GoGi House
 subtitle: tỉnh Khánh Ho · Korean
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/gogi-house-1.jpg" alt="GoGi House">
+  <figcaption>GoGi House</figcaption>
+</figure>
+
 Good Korean BBQ restaurant franchise located in Lotte Mart. They have these fancy table grills, but prices are reasonable. The free appetisers are rather modest, but the grille octopus is a must. Recommended
 
 ## Ratings

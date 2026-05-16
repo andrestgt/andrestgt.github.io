@@ -5,6 +5,12 @@ review: true
 title: Anh Coffee Roasters
 subtitle: Nha Trang · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/anh-coffee-roasters-1.jpg" alt="Anh Coffee Roasters">
+  <figcaption>Anh Coffee Roasters</figcaption>
+</figure>
+
 Perfect cappuccino for 40k, quality beans, excellent preparation, foam texture and temperature, definitely one of the best cups you can get in Nha Trang (2020).
 
 It's just a tiny little shop, so not necessarily a place for hanging out too long, but if it's great coffee you're after, this is highly recommended.

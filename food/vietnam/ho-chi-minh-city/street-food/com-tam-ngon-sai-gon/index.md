@@ -5,6 +5,12 @@ review: true
 title: Cơm Tấm Ngon Sài Gòn
 subtitle: CC Đ. Nguyễn Thiện Thuật · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/com-tam-ngon-sai-gon-1.jpg" alt="Cơm Tấm Ngon Sài Gòn">
+  <figcaption>Cơm Tấm Ngon Sài Gòn</figcaption>
+</figure>
+
 Great cơm tấm spot in a lively, very local neighborhood in District 3. The pork chop is well-marinated and nicely grilled, with a good balance of flavors and less sweet than others. A generous portion with pork chop and egg costs 57K, which is a good deal for the quality.
 
 It’s just about walking distance from Pham Ngu Lao, making it a great option if you want to escape the tourist-heavy areas and try something more local. Well worth the effort!

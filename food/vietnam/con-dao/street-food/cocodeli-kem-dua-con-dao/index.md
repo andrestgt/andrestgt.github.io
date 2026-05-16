@@ -5,6 +5,12 @@ review: true
 title: CocoDeli Kem Dừa Côn Đảo
 subtitle: Côn Đảo · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/con-dao/cocodeli-kem-dua-con-dao-1.jpg" alt="CocoDeli Kem Dừa Côn Đảo">
+  <figcaption>CocoDeli Kem Dừa Côn Đảo</figcaption>
+</figure>
+
 This is another one dish only ice cream shop, new and less famous than the one up the road where all the tourist cars stop.
 
 The one dish they sell is Coconut ice cream, an island specialty, and as delicious as it sounds.
@@ -22,7 +28,6 @@ Price here is 60k for a cup, more expensive than up the road for the same qualit
 | Value for money | 9/10 |
 | Atmosphere | 10/10 |
 | Overall | 10/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khu+9+Nguyễn+Văn+Cừ+Côn+Đảo+Bà+Rịa+-+Vũng+Tàu+Vietnam)

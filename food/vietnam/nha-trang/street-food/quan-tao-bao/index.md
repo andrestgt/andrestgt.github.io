@@ -5,7 +5,18 @@ review: true
 title: Quán Tao bao
 subtitle: Nha Trang · Bia Hơi
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-tao-bao-1.jpg" alt="Quán Tao bao">
+  <figcaption>Quán Tao bao</figcaption>
+</figure>
+
 The bia hoi Saigon here is always fresh and cheap (45k for 3 litres). Add to that a menu of reasonably priced Vietnamese drinking food and a friendly atmosphere, it makes this one of best Quan Nhau in Nha Trang
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-tao-bao-2.jpg" alt="Quán Tao bao">
+  <figcaption>Quán Tao bao</figcaption>
+</figure>
 
 ## Ratings
 

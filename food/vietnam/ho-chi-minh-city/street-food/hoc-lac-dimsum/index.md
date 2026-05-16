@@ -5,7 +5,18 @@ review: true
 title: Học Lạc Dimsum
 subtitle: Ho Chi Minh City · Chinese · Dim Sum
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/hoc-lac-dimsum-1.jpg" alt="Học Lạc Dimsum">
+  <figcaption>Học Lạc Dimsum</figcaption>
+</figure>
+
 This hole-in-the-wall dim sum spot in Cho Lon is a hidden gem. They offer a great variety of really tasty, homemade dim sum at very affordable prices. It’s definitely worth the trip to Chinatown if you're craving some authentic, delicious dim sum.
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/hoc-lac-dimsum-2.jpg" alt="Học Lạc Dimsum">
+  <figcaption>Học Lạc Dimsum</figcaption>
+</figure>
 
 ## Ratings
 

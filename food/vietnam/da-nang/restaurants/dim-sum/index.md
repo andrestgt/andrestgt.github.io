@@ -5,6 +5,12 @@ review: true
 title: Dim Sum
 subtitle: Hải Châu · Chinese · Dim Sum
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-nang/dim-sum-1.jpg" alt="Dim Sum">
+  <figcaption>Dim Sum</figcaption>
+</figure>
+
 Superb, high quality dim sum at very affordable prices. Hakao and Chao Fan are generously stuffed with fat prawns, the scallops and roast duck dumplings are both delicious.
 
 These are up there with some of the best (and often much more expensive) dim sum I've had in Vietnam
@@ -20,7 +26,6 @@ These are up there with some of the best (and often much more expensive) dim sum
 | Value for money | 9/10 |
 | Atmosphere | 10/10 |
 | Overall | 10/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=45a+Ng.+Gia+Tự+Hải+Châu+Đà+Nẵng+550000+Vietnam)

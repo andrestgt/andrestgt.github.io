@@ -5,6 +5,12 @@ review: true
 title: Bún Bò Hẻm Lý Thánh Tôn
 subtitle: Nha Trang · Vietnamese · Bún Bò
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/bun-bo-hem-ly-thanh-ton-1.jpg" alt="Bún Bò Hẻm Lý Thánh Tôn">
+  <figcaption>Bún Bò Hẻm Lý Thánh Tôn</figcaption>
+</figure>
+
 One of Nha Trang's oldest and most popular bun bo joints, right in the middle of downtown. Coming here used to be quite an experience as this had been a crazy chaotic street food place before in the past. Now it's an interesting experience in a different way though. They have moved operations inside a building, which is possibly the narrowest house you'll ever get to enter. There's just enough room for small plastic tables and chairs on one side of the corridor and for one person to pass on the other side.
 
 Anyway, the soup here is very good, too. 40k a bowl

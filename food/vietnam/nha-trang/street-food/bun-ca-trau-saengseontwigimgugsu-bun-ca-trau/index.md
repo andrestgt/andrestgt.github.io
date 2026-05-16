@@ -5,7 +5,18 @@ review: true
 title: Bun Ca Trau 생선튀김국수*** (Bún Cá Trầu)
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/bun-ca-trau-saengseontwigimgugsu-bun-ca-trau-1.jpg" alt="Bun Ca Trau 생선튀김국수*** (Bún Cá Trầu)">
+  <figcaption>Bun Ca Trau 생선튀김국수*** (Bún Cá Trầu)</figcaption>
+</figure>
+
 The best Northern style Bun Ca I've had in Nha Trang. Now, it's not quite as amazing compared to the magic that is Bún cá Sâm Cây Si in Hanoi, the best place for Bun Ca in the world, but their fish is juicy and crispy and they put the indispensable dill, so that's as much as you can hope for in Nha Trang. 30k for a bowl is a fair price and it's got a very central location
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/bun-ca-trau-saengseontwigimgugsu-bun-ca-trau-2.jpg" alt="Bun Ca Trau 생선튀김국수*** (Bún Cá Trầu)">
+  <figcaption>Bun Ca Trau 생선튀김국수*** (Bún Cá Trầu)</figcaption>
+</figure>
 
 ## Ratings
 

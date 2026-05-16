@@ -5,9 +5,20 @@ review: true
 title: Why Coffee Roastery
 subtitle: Ngũ Hành Sơn · Specialty Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-nang/why-coffee-roastery-1.jpg" alt="Why Coffee Roastery">
+  <figcaption>Why Coffee Roastery</figcaption>
+</figure>
+
 Very good looking hipster style café with very good coffees at reasonable prices. A well prepared flat white is 49k. Only negative I have to say is the uncomfortable seating, there's not a cushion in sight, but I suppose that's part of the concept
 
 *— Attractions, hotels **&** travel agencies —*
+
+<figure>
+  <img src="/photos/vietnam/da-nang/why-coffee-roastery-2.jpg" alt="Why Coffee Roastery">
+  <figcaption>Why Coffee Roastery</figcaption>
+</figure>
 
 ## Ratings
 

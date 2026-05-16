@@ -5,6 +5,12 @@ review: true
 title: Yen Garden Bistro
 subtitle: Nha Trang · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/yen-garden-bistro-1.jpg" alt="Yen Garden Bistro">
+  <figcaption>Yen Garden Bistro</figcaption>
+</figure>
+
 Tricky to find and rarely busy, this is the most beautifully designed garden café in Nha Trang. Coffees are nice and reasonably priced, there's some basic dishes for breakfast and lunch, too.
 
 Overall, it's incredible value for the luxurious and serene atmosphere and my go to place for a calm morning cappuccino
