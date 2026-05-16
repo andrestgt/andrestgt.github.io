@@ -13,9 +13,8 @@ It attracts a bit of an Instagram crowd, but mornings are very quiet and actuall
 Coffee was decent, nothing particularly memorable, and on the pricier side for Surabaya, around 42K for a flat white. They also serve beer and soju.
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/the-library-1.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/the-library-1.jpg" alt="The Library Coffee & Pastries">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/the-library-1.jpg" alt="The Library Coffee & Pastries">
+  <figcaption>The Library Coffee & Pastries</figcaption>
 </figure>
 
 ## Ratings

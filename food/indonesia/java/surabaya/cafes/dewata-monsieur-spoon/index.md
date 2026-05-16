@@ -15,9 +15,8 @@ Prices are in line with West Surabaya, around 45K for a cappuccino, so not cheap
 Worth stopping by if you're in the area and feel like something a bit different.
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/dewata-monsieur-spoon-1.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/dewata-monsieur-spoon-1.jpg" alt="Dewata & Monsieur Spoon Préféré">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/dewata-monsieur-spoon-1.jpg" alt="Dewata & Monsieur Spoon">
+  <figcaption>Dewata & Monsieur Spoon</figcaption>
 </figure>
 
 ## Ratings

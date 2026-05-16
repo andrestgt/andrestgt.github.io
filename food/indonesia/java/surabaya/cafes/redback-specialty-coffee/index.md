@@ -13,15 +13,13 @@ Coffee was solid, but also among the more expensive ones in the city, around 45K
 Their salmon croissant was rather dry and not really worth the 100K+ price tag.
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/redback-specialty-coffee-1.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/redback-specialty-coffee-1.jpg" alt="Redback Specialty Coffee">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/redback-specialty-coffee-1.jpg" alt="Redback Specialty Coffee">
+  <figcaption>Redback Specialty Coffee</figcaption>
 </figure>
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/redback-specialty-coffee-2.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/redback-specialty-coffee-2.jpg" alt="Redback Specialty Coffee">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/redback-specialty-coffee-2.jpg" alt="Redback Specialty Coffee">
+  <figcaption>Redback Specialty Coffee</figcaption>
 </figure>
 
 ## Ratings

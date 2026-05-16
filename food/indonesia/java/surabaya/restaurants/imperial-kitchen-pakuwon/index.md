@@ -13,27 +13,23 @@ The Pakuwon branch is better than the one at Tunjungan, with a nicer setting and
 Prices are very reasonable for what you get. It's one of those places where you can have a proper dim sum feast for two and still end up paying under 300K.
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-1.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-1.jpg" alt="Imperial Kitchen & Dimsum – Pakuwon Mall">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-1.jpg" alt="Imperial Kitchen & Dimsum, Pakuwon Mall">
+  <figcaption>Imperial Kitchen & Dimsum, Pakuwon Mall</figcaption>
 </figure>
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-2.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-2.jpg" alt="Imperial Kitchen & Dimsum – Pakuwon Mall">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-2.jpg" alt="Imperial Kitchen & Dimsum, Pakuwon Mall">
+  <figcaption>Imperial Kitchen & Dimsum, Pakuwon Mall</figcaption>
 </figure>
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-3.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-3.jpg" alt="Imperial Kitchen & Dimsum – Pakuwon Mall">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-3.jpg" alt="Imperial Kitchen & Dimsum, Pakuwon Mall">
+  <figcaption>Imperial Kitchen & Dimsum, Pakuwon Mall</figcaption>
 </figure>
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-4.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-4.jpg" alt="Imperial Kitchen & Dimsum – Pakuwon Mall">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/imperial-kitchen-pakuwon-4.jpg" alt="Imperial Kitchen & Dimsum, Pakuwon Mall">
+  <figcaption>Imperial Kitchen & Dimsum, Pakuwon Mall</figcaption>
 </figure>
 
 ## Ratings

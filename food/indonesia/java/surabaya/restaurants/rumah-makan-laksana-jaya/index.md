@@ -13,9 +13,8 @@ It's an old-school, canteen-style eatery with all the usual local dishes on the 
 It's not the cheapest place for this kind of food in town, but still reasonably priced and deservedly popular.
 
 <figure>
-  <a href="/photos/indonesia/java/surabaya/rumah-makan-laksana-jaya-1.jpg" target="_blank">
-    <img src="/photos/indonesia/java/surabaya/rumah-makan-laksana-jaya-1.jpg" alt="Rumah Makan Laksana Jaya II">
-  </a>
+  <img src="/photos/indonesia/java/surabaya/rumah-makan-laksana-jaya-1.jpg" alt="Rumah Makan Laksana Jaya II">
+  <figcaption>Rumah Makan Laksana Jaya II</figcaption>
 </figure>
 
 ## Ratings
