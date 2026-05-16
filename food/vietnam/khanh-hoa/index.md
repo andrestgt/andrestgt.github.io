@@ -1,5 +1,6 @@
 ---
 layout: default
+hero: /photos/background/khanhhoahero.jpg
 background: khanhhoahero.jpg
 section: food
 region: khanh-hoa

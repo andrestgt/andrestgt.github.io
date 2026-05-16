@@ -1,5 +1,6 @@
 ---
 layout: default
+hero: /photos/background/gialaihero.jpg
 background: gialaihero.jpg
 section: food
 region: gia-lai

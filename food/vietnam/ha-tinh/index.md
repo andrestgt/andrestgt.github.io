@@ -1,5 +1,6 @@
 ---
 layout: default
+hero: /photos/background/hatinhhero.jpg
 background: hatinhhero.jpg
 section: food
 region: ha-tinh

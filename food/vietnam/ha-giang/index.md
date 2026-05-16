@@ -1,5 +1,6 @@
 ---
 layout: default
+hero: /photos/background/hagianghero.jpg
 background: hagianghero.jpg
 section: food
 region: ha-giang
