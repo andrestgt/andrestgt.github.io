@@ -3,23 +3,23 @@ layout: default
 section: food
 review: true
 title: Ecran Noodles
-subtitle: Street 735, Kampot · Chinese, Asian
+subtitle: Kampot · Chinese, Noodles
 ---
 
-Great place for a quick dumpling fill, or even a whole filling budget meal. The homemade dumplings and noodles are the star of the menu.
+Great place for a quick dumpling fill, or even a whole filling budget meal. The home-made dumplings and noodles are the star of the menu.
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Atmosphere      | 6.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ecran+Noodles+Street+735+Kampot+Cambodia)
-🍽️ **Cuisine:** Chinese, Asian
-💰 **Price level:** —
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ecran+Noodles+Kampot+Cambodia)
+🍽️ **Cuisine:** Chinese, Noodles, Dumplings
+💰 **Price level:** Inexpensive
