@@ -5,7 +5,24 @@ review: true
 title: Phở Hằng
 subtitle: Đông Hà · Vietnamese · Phở
 ---
+
+<figure>
+  <img src="/photos/vietnam/dong-ha/pho-hang-1.jpg" alt="Phở Hằng">
+  <figcaption>Phở Hằng</figcaption>
+</figure>
+
 This neat, modern eatery serves very good bowl of Northern style Pho (both beef a n D chicken) at very moderate prices, a large Dac Biet including a generous amount of delicious soft beef tendons goes for 35k. Plus there's a few dry noodle dishes, such as Pho Tron which are equally tasty. A good choice if you find yourself in Dong Ha for some reason.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/dong-ha/pho-hang-2.jpg" alt="Phở Hằng">
+  <figcaption>Phở Hằng</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/dong-ha/pho-hang-3.jpg" alt="Phở Hằng">
+  <figcaption>Phở Hằng</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

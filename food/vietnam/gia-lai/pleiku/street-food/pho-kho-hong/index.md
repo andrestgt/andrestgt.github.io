@@ -5,6 +5,12 @@ review: true
 title: Phở khô Hồng
 subtitle: Pleiku · Vietnamese · Phở
 ---
+
+<figure>
+  <img src="/photos/vietnam/pleiku/pho-kho-hong-1.jpg" alt="Phở khô Hồng">
+  <figcaption>Phở khô Hồng</figcaption>
+</figure>
+
 The pho here is special because it comes in separate bowls with dry noodles in one bowl and broth in the other. There's plenty of herbs and condiments and a generous portion of meat, too. Very popular and worth a visit. 50k and big enough for sharing
 
 *— Attractions, hotels **&** travel agencies —*
