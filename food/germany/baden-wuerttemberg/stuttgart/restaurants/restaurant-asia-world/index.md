@@ -6,8 +6,17 @@ title: Restaurant Asia World
 subtitle: Fellbach · Asian Buffet
 ---
 
+<figure>
+  <img src="/photos/germany/fellbach/restaurant-asia-world-1.jpg" alt="Restaurant Asia World">
+  <figcaption>Restaurant Asia World</figcaption>
+</figure>
 
 A vast old-school feeding temple with a generous buffet at €25 not including drinks. The selection is impressive, the quality rather mediocre. The sushi is inedible and the meat for the teppanyaki is so-so, but some dishes were genuinely tasty, much like at a decent Asian takeaway. Take it or leave it.
+
+<figure>
+  <img src="/photos/germany/fellbach/restaurant-asia-world-2.jpg" alt="Restaurant Asia World">
+  <figcaption>Restaurant Asia World</figcaption>
+</figure>
 
 ## Ratings
 

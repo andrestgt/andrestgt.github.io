@@ -6,6 +6,10 @@ title: Martha's
 subtitle: Stuttgart · Café-Restaurant
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/marthas-1.jpg" alt="Martha's">
+  <figcaption>Martha's</figcaption>
+</figure>
 
 Fantastic location on one of Germany's most beautiful squares. Quick and friendly service. The food is pretty good, too. Currywurst and fries are tasty. But prices are a bit over the top, even for Stuttgart. 11,30€ for a sausage and fries, 5,50€ for a beer.
 

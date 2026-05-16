@@ -6,7 +6,23 @@ title: Saarfürst Brauhaus am Yachthafen
 subtitle: Merzig · Brewery, Beer Garden
 ---
 
+<figure>
+  <img src="/photos/germany/merzig/saarfuerst-brauhaus-1.jpg" alt="Saarfürst Brauhaus am Yachthafen">
+  <figcaption>Saarfürst Brauhaus am Yachthafen</figcaption>
+</figure>
+
 Large, modern brewery restaurant with a pleasant beer garden right on the Saar cycle path — ideal for a break. The house beer is solid and the food is straightforward and good.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/merzig/saarfuerst-brauhaus-2.jpg" alt="Saarfürst Brauhaus am Yachthafen">
+  <figcaption>Saarfürst Brauhaus am Yachthafen</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/merzig/saarfuerst-brauhaus-3.jpg" alt="Saarfürst Brauhaus am Yachthafen">
+  <figcaption>Saarfürst Brauhaus am Yachthafen</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

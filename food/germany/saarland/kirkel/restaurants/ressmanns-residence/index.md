@@ -6,8 +6,45 @@ title: Ressmanns Residence
 subtitle: Kirkel · Fine Dining, International
 ---
 
+<figure>
+  <img src="/photos/germany/kirkel/ressmanns-residence-1.jpg" alt="Ressmanns Residence">
+  <figcaption>Ressmanns Residence</figcaption>
+</figure>
 
 An upmarket establishment with outstanding cooking at genuinely fair prices. I don't know any restaurant in the region with better value, the lunch menu in particular. The cooking is gutbürgerlich rather than creative, but that doesn't have to be a bad thing. Highly recommended.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/kirkel/ressmanns-residence-2.jpg" alt="Ressmanns Residence">
+  <figcaption>Ressmanns Residence</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/kirkel/ressmanns-residence-3.jpg" alt="Ressmanns Residence">
+  <figcaption>Ressmanns Residence</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/kirkel/ressmanns-residence-4.jpg" alt="Ressmanns Residence">
+  <figcaption>Ressmanns Residence</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/kirkel/ressmanns-residence-5.jpg" alt="Ressmanns Residence">
+  <figcaption>Ressmanns Residence</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/kirkel/ressmanns-residence-6.jpg" alt="Ressmanns Residence">
+  <figcaption>Ressmanns Residence</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/kirkel/ressmanns-residence-7.jpg" alt="Ressmanns Residence">
+  <figcaption>Ressmanns Residence</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

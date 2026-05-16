@@ -6,6 +6,10 @@ title: Forsthaus Lindemannsruhe
 subtitle: Bad Dürkheim · Excursion Restaurant, Beer Garden
 ---
 
+<figure>
+  <img src="/photos/germany/bad-duerkheim/forsthaus-lindemannsruhe-1.jpg" alt="Forsthaus Lindemannsruhe">
+  <figcaption>Forsthaus Lindemannsruhe</figcaption>
+</figure>
 
 A rustic old forester's lodge with a large, shady beer garden in the middle of the woods. Prices are relatively civilised, the portions enormous, and there are typical Pfälzer specialities. Quality is absolutely fine for the price. Set in the middle of beautiful walking country — ideal for a leisurely stop.
 

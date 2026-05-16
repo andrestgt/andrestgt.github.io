@@ -6,8 +6,17 @@ title: Schaumberg Alm
 subtitle: Schaumberg, Tholey · Alpine-Style Hut
 ---
 
+<figure>
+  <img src="/photos/germany/tholey/schaumberg-alm-1.jpg" alt="Schaumberg Alm">
+  <figcaption>Schaumberg Alm</figcaption>
+</figure>
 
 High up on a hill in the lovely Sankt Wendel countryside stands this place, built in the style of an Alpine hut. In good weather you can sit outside and enjoy the wide-ranging view, but it's also worth heading in: the hut has been kitted out with great attention to detail, right down to the toilets. Prices for food and drink are fine, even if the portions for a hearty rural place could be a touch more generous. Recommended chiefly for the successful interior and the lovely view.
+
+<figure>
+  <img src="/photos/germany/tholey/schaumberg-alm-2.jpg" alt="Schaumberg Alm">
+  <figcaption>Schaumberg Alm</figcaption>
+</figure>
 
 ## Ratings
 

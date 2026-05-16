@@ -6,6 +6,10 @@ title: Waldschenke Deidesheimer Hütte
 subtitle: Deidesheim · Forest Restaurant
 ---
 
+<figure>
+  <img src="/photos/germany/deidesheim/waldschenke-deidesheimer-huette-1.jpg" alt="Waldschenke Deidesheimer Hütte">
+  <figcaption>Waldschenke Deidesheimer Hütte</figcaption>
+</figure>
 
 Very pleasant excursion restaurant with a large beer garden in the woods. About 15 minutes on foot from the car park, or 45 minutes from the centre of Deidesheim. Self-service only, unfortunately, but with good Pfälzer cooking — sausages, Leberknödel and so on. Not cheap by Pfälzer standards (€13.90 for the Pfälzer Platte), but the quality is good and you'll definitely leave full. Very dog-friendly. Recommended.
 

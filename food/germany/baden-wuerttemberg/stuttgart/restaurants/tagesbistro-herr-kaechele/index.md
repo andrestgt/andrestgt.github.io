@@ -6,6 +6,11 @@ title: Tagesbistro Herr Kächele
 subtitle: Stuttgart · Lunch Bistro
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/tagesbistro-herr-kaechele-1.jpg" alt="Tagesbistro Herr Kächele">
+  <figcaption>Tagesbistro Herr Kächele</figcaption>
+</figure>
+
 For Stuttgart, this is well worth a visit, both in terms of price and quality. Worth knowing, though: it's a lunchtime-only operation and closes early in the afternoon.
 
 ## Ratings

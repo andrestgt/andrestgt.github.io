@@ -6,8 +6,17 @@ title: Wirtshaus Ratze
 subtitle: Stuttgart · Swabian, Wine Bar
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/wirtshaus-ratze-1.jpg" alt="Wirtshaus Ratze">
+  <figcaption>Wirtshaus Ratze</figcaption>
+</figure>
 
 Rustic place in the half-height residential band amid Kleingärten allotments. A young team offers a small but well-judged menu of modern Swabian specialities, which are genuinely good. On the pricier side for a simple Gaststätte, but always worth a visit. There's a beer garden in summer too.
+
+<figure>
+  <img src="/photos/germany/stuttgart/wirtshaus-ratze-2.jpg" alt="Wirtshaus Ratze">
+  <figcaption>Wirtshaus Ratze</figcaption>
+</figure>
 
 ## Ratings
 
