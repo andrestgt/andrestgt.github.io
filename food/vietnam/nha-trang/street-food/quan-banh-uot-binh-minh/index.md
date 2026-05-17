@@ -5,7 +5,18 @@ review: true
 title: Quán Bánh Ướt Bình Minh
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-banh-uot-binh-minh-1.jpg" alt="Quán Bánh Ướt Bình Minh">
+  <figcaption>Quán Bánh Ướt Bình Minh</figcaption>
+</figure>
+
 Small little eatery on Ngo Gia Tu that specializes in Banh Cuon and Banh Uot. 35k for a plate and they even have cold coconut water for 20k
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-banh-uot-binh-minh-2.jpg" alt="Quán Bánh Ướt Bình Minh">
+  <figcaption>Quán Bánh Ướt Bình Minh</figcaption>
+</figure>
 
 ## Ratings
 

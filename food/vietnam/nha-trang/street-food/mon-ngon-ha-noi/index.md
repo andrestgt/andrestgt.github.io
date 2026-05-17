@@ -5,7 +5,18 @@ review: true
 title: Món ngon Hà Nội
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/mon-ngon-ha-noi-1.jpg" alt="Món ngon Hà Nội">
+  <figcaption>Món ngon Hà Nội</figcaption>
+</figure>
+
 Very good little hole in the wall place with authentic Hanoi food at fair prices.
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/mon-ngon-ha-noi-2.jpg" alt="Món ngon Hà Nội">
+  <figcaption>Món ngon Hà Nội</figcaption>
+</figure>
 
 The Bun Ca (45k) with fried fish and dill is delicious, I just found their bun cha (45k) a bit on the sweet side, but that's down to personal taste.
 
