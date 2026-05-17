@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\andre\\\\Documents\\\\andrestgt.github.io\\\\food\\\\philippines\" -Recurse -Filter \"*.md\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Sort-Object FullName)",
+      "Bash(pip install *)",
+      "Bash(pip3 install *)",
+      "Read(//c/tmp/**)",
+      "Bash(cp \"/c/Users/andre/Documents/andrestgt.github.io/Reviews-master.docx\" .)",
+      "Bash(unzip -p Reviews-master.docx word/document.xml)",
+      "Bash(sed 's/<[^>]*>//g')",
+      "Bash(grep -v '^[[:space:]]*$')",
+      "Read(//tmp/**)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git checkout *)",
+      "Bash(git rebase *)",
+      "Bash(git remote *)",
+      "WebFetch(domain:andrestgt.github.io)",
+      "Bash(gh api *)",
+      "WebFetch(domain:github.com)",
+      "Bash(git rm *)",
+      "Bash(python3)",
+      "Bash(grep -v \"^$\")",
+      "Bash(awk ' *)",
+      "Bash(grep -A40 \"^Heading2: Hải Phòng$\")",
+      "Bash(git commit -m 'Fix Hải Phòng index: add links to city cafes and street-food *)",
+      "Bash(git commit -m 'Fix duplicate price level line in Bánh Đa Da Liễu *)"
+    ]
+  }
+}
