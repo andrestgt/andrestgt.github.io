@@ -25,8 +25,6 @@ At 9 p.m. I flew from Munich to Muscat, then on to Kuala Lumpur. At least everyt
 
 I arrived in Kuala Lumpur around 8 p.m., and getting through immigration was a breeze. You don't even have to queue at counters anymore, you just go through the e-gate. That part was very pleasant, although waiting for the luggage still took a while, so I only made it to KL Sentral around 10:30 p.m.
 
-I arrived in Kuala Lumpur around 8 p.m., and getting through immigration was a breeze. You don't even have to queue at counters anymore, you just go through the e-gate. That part was very pleasant, although waiting for the luggage still took a while, so I only made it to KL Sentral around 10:30 p.m.
-
 I checked into my hotel, grabbed some quick food at a nearby place called <a href="https://andrestgt.github.io/food/malaysia/kuala-lumpur/street-food/abc-one-bistro/">ABC One</a>, really nice roti canai with tasty dips and very decent kuay teow goreng, and then it was bedtime.
 
 I slept very well, no jet lag at all. I didn't wake up until 9 a.m. and had a quick breakfast next door at <a href="https://andrestgt.github.io/food/malaysia/kuala-lumpur/restaurants/mtr-kl-sentral/">MTR</a>, which is the same restaurant I'd previously visited in Bangalore — the original one is there. This branch even has a Michelin recommendation, so it's not exactly a cheap basic place, but I was quite happy with it. They didn't have the mini thali because I was there too early for that, so I had some idli and vada instead, which were really tasty.
