@@ -193,10 +193,24 @@ Despite the dramatic name, nothing revolutionary here — decent but forgettable
 
 ---
 
+## Som's Authentic Thai Cuisine
+*Poblacion, Makati · Thai*
+Thai food adjusted for Filipino tastes — oddly sweet tom yum, noodle soup lacking herbs, sanitised som tam. Not somewhere to revisit.
+→ [Read the full review](/food/philippines/manila/restaurants/soms-authentic-thai/)
+
+---
+
 ## Sumosam Legacy
 *SM North EDSA, Quezon City · Japanese*
 The salmon sashimi was genuinely dreadful — limp, watery, and seemingly just thawed — astonishing for a sizeable franchise.
 → [Read the full review](/food/philippines/manila/restaurants/sumosam-legacy/)
+
+---
+
+## Yoree Korean Dining
+*BGC, Taguig · Korean*
+Food and service are perfectly good but value disappoints — BBQ portions small, octopus stew had little octopus for the price.
+→ [Read the full review](/food/philippines/manila/restaurants/yoree-korean-dining/)
 
 ---
 
