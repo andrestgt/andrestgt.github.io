@@ -5,7 +5,18 @@ review: true
 title: Bún Bò O Thi
 subtitle: Nha Trang · Vietnamese · Bún Bò
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/bun-bo-o-thi-1.jpg" alt="Bún Bò O Thi">
+  <figcaption>Bún Bò O Thi</figcaption>
+</figure>
+
 Very popular bún bò place, a little pricier than some others, but the broth is good, the meat portions generous, and at 40k a bowl it is still hardly expensive. One of the better bowls in town.
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/bun-bo-o-thi-2.jpg" alt="Bún Bò O Thi">
+  <figcaption>Bún Bò O Thi</figcaption>
+</figure>
 
 ## Ratings
 

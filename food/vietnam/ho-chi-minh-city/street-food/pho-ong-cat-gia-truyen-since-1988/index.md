@@ -5,7 +5,18 @@ review: true
 title: Phở Ông Cát Gia Truyền Since 1988
 subtitle: Phạm Ngũ Lão · Vietnamese · Phở
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/pho-ong-cat-gia-truyen-since-1988-1.jpg" alt="Phở Ông Cát Gia Truyền Since 1988">
+  <figcaption>Phở Ông Cát Gia Truyền Since 1988</figcaption>
+</figure>
+
 Not impressed by the pho served here. Very salty broth with barely any hints of burnt onion, cinnamon, clove and star anise. Slightly chewy beef.
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/pho-ong-cat-gia-truyen-since-1988-2.jpg" alt="Phở Ông Cát Gia Truyền Since 1988">
+  <figcaption>Phở Ông Cát Gia Truyền Since 1988</figcaption>
+</figure>
 
 It's not bad but there's better options around.
 

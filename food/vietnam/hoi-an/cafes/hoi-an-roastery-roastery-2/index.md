@@ -5,7 +5,18 @@ review: true
 title: Hoi An Roastery - Roastery 2
 subtitle: Hội An · Specialty Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/hoi-an-roastery-roastery-2-1.jpg" alt="Hoi An Roastery - Roastery 2">
+  <figcaption>Hoi An Roastery - Roastery 2</figcaption>
+</figure>
+
 The nicest and comfiest Western-style café in Hội An. The cappuccino is excellent and while 49k is certainly not cheap, it feels justified by the quality.
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/hoi-an-roastery-roastery-2-2.jpg" alt="Hoi An Roastery - Roastery 2">
+  <figcaption>Hoi An Roastery - Roastery 2</figcaption>
+</figure>
 
 ## Ratings
 

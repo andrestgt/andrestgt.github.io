@@ -5,6 +5,12 @@ review: true
 title: Numpty's bar
 subtitle: Vũng Tàu · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/ba-ria-vung-tau/numptys-bar-1.jpg" alt="Numpty's bar">
+  <figcaption>Numpty's bar</figcaption>
+</figure>
+
 Friendly pub with a pool table, cold San Miguel on tap and good prices.
 
 ## Ratings

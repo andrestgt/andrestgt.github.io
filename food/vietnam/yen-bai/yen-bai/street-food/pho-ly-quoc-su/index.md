@@ -5,7 +5,24 @@ review: true
 title: Phở Lý Quốc Sư
 subtitle: Yên Bái · Vietnamese · Phở
 ---
+
+<figure>
+  <img src="/photos/vietnam/yen-bai/pho-ly-quoc-su-1.jpg" alt="Phở Lý Quốc Sư">
+  <figcaption>Phở Lý Quốc Sư</figcaption>
+</figure>
+
 Pretty good Pho Bo for only 25k. And the only place in town serving it at lunch time. Good place to stop on the way into the mountains
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/yen-bai/pho-ly-quoc-su-2.jpg" alt="Phở Lý Quốc Sư">
+  <figcaption>Phở Lý Quốc Sư</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/yen-bai/pho-ly-quoc-su-3.jpg" alt="Phở Lý Quốc Sư">
+  <figcaption>Phở Lý Quốc Sư</figcaption>
+</figure>
+</div>
 
 *— Attractions, hotels **&** travel agencies —*
 

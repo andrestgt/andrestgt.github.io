@@ -5,6 +5,12 @@ review: true
 title: Cafe Minh Thắng
 subtitle: Đông Giang · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/quang-nam/cafe-minh-thang-1.jpg" alt="Cafe Minh Thắng">
+  <figcaption>Cafe Minh Thắng</figcaption>
+</figure>
+
 This basic café is worth a stop for its attached bakery where they bake baguettes in an old school wood fired oven. So you can get a nice banh mi sandwich with your coffee for a mere 10k each.
 
 ## Ratings
