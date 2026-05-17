@@ -24,71 +24,10 @@ I used to live in this neighbourhood for several years and just as I moved to a 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/fork-n-lekker-4.jpg" alt="Fork N Lekker">
   <figcaption>Fork N Lekker</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-5.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-6.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-7.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-8.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-9.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-10.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-11.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-12.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-13.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-14.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/fork-n-lekker-15.jpg" alt="Fork N Lekker">
-  <figcaption>Fork N Lekker</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

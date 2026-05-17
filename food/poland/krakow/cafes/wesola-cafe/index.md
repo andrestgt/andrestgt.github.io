@@ -6,6 +6,10 @@ title: Wesoła Cafe
 subtitle: Kraków · Café
 ---
 
+<figure>
+  <img src="/photos/poland/krakow/wesola-cafe-1.jpg" alt="Wesoła Cafe">
+  <figcaption>Wesoła Cafe</figcaption>
+</figure>
 
 A bit of a scene, with hipster baristas and slightly annoying music. That said, it's probably the best café in town. Comfy seats, good cappuccino (10 zł), and generous sandwiches. Not cheap, obviously.
 

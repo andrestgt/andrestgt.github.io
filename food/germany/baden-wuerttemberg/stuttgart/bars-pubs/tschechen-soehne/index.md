@@ -6,6 +6,10 @@ title: Tschechen & Söhne
 subtitle: Stuttgart · Beer Bar, Views
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/tschechen-soehne-1.jpg" alt="Tschechen & Söhne">
+  <figcaption>Tschechen & Söhne</figcaption>
+</figure>
 
 Great views and cold beers at regular Stuttgart prices, i.e as high as the terrace. 3,60€ for Weizen
 

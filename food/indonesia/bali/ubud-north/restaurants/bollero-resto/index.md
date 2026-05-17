@@ -6,7 +6,17 @@ title: Bollero Resto & Bar
 subtitle: Ubud · Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/bali/bollero-resto-1.jpg" alt="Bollero Resto & Bar">
+  <figcaption>Bollero Resto & Bar</figcaption>
+</figure>
+
 Fantastic ikan pepes. A must try. This place has survived for years despite the silly name and fierce competition in Ubud. Reasonable prices, nice decor. Definitely recommended.
+
+<figure>
+  <img src="/photos/indonesia/bali/bollero-resto-2.jpg" alt="Bollero Resto & Bar">
+  <figcaption>Bollero Resto & Bar</figcaption>
+</figure>
 
 ## Ratings
 

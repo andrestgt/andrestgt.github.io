@@ -6,7 +6,28 @@ title: Dim Sum Emperors TK Avenue
 subtitle: TK Avenue Mall, Phnom Penh · Chinese
 ---
 
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-1.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
+
 The dim sum here is just as good as at the Central Market branch, but the atmosphere is noticeably calmer because it's usually much less crowded. Probably the best value dim sum in Phnom Penh.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-2.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-3.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-4.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
 
 ## Ratings
 

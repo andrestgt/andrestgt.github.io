@@ -6,6 +6,11 @@ title: The Living Room
 subtitle: KLIA, Sepang · Café
 ---
 
+<figure>
+  <img src="/photos/malaysia/sepang/the-living-room-1.jpg" alt="The Living Room">
+  <figcaption>The Living Room</figcaption>
+</figure>
+
 Comfortable airport café that works very well while waiting for a flight. Espresso drinks are surprisingly reasonably priced for an airport and the cappuccino is actually quite good.
 
 ## Ratings

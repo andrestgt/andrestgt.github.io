@@ -13,16 +13,6 @@ subtitle: Nha Trang · Coffee
 
 This wee alley café offers great quality food and beverages at a good price.
 
-Very nice coffees (45k for a smooth cappuccino) and superb burgers.
-
-The 179k Jack Daniels burger might be the best I've had in Nha Trang, and it's huge.
-
-Their "gourmet" pizzas might offend purists, and while I love a sparsely but perfectly topped South Italian pizza as much as the next foodie, I'll also readily admit that the thick crust overloaded fusion pizzas here are really delicious with quality ingredients, and even a 120k small sized one is so loaded it easily feeds a hungry man.
-
-I'd highly recommend the one with panko breaded chicken, bacon and blue cheese
-
-Edit 2022: they moved to a better and bigger location, the whole place is nicer and more spacious but the food is still great and the prices reasonable as ever.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cafe-culture-2.jpg" alt="Cafe Culture">
@@ -34,38 +24,20 @@ Edit 2022: they moved to a better and bigger location, the whole place is nicer 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cafe-culture-4.jpg" alt="Cafe Culture">
   <figcaption>Cafe Culture</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/cafe-culture-5.jpg" alt="Cafe Culture">
-  <figcaption>Cafe Culture</figcaption>
-</figure>
-</div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/cafe-culture-6.jpg" alt="Cafe Culture">
-  <figcaption>Cafe Culture</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/cafe-culture-7.jpg" alt="Cafe Culture">
-  <figcaption>Cafe Culture</figcaption>
-</figure>
-</div>
+Very nice coffees (45k for a smooth cappuccino) and superb burgers.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/cafe-culture-8.jpg" alt="Cafe Culture">
-  <figcaption>Cafe Culture</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/cafe-culture-9.jpg" alt="Cafe Culture">
-  <figcaption>Cafe Culture</figcaption>
-</figure>
-</div>
+The 179k Jack Daniels burger might be the best I've had in Nha Trang, and it's huge.
+
+Their "gourmet" pizzas might offend purists, and while I love a sparsely but perfectly topped South Italian pizza as much as the next foodie, I'll also readily admit that the thick crust overloaded fusion pizzas here are really delicious with quality ingredients, and even a 120k small sized one is so loaded it easily feeds a hungry man.
+
+I'd highly recommend the one with panko breaded chicken, bacon and blue cheese
+
+Edit 2022: they moved to a better and bigger location, the whole place is nicer and more spacious but the food is still great and the prices reasonable as ever.
 
 ## Ratings
 

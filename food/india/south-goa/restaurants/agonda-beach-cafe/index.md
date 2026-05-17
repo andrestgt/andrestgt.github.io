@@ -6,7 +6,17 @@ title: Agonda Beach Cafe
 subtitle: Agonda, South Goa · Goan, International
 ---
 
+<figure>
+  <img src="/photos/india/south-goa/agonda-beach-cafe-1.jpg" alt="Agonda Beach Cafe">
+  <figcaption>Agonda Beach Cafe</figcaption>
+</figure>
+
 As a basic eatery away from the beach, there's one or two things you have to do to attract customers — you either have to be better value or offer much better food than the places in prime location. Agonda Beach Cafe fails on both accounts. It's a perfectly decent place to have a meal, no regrets, but the food isn't particularly special, nor is it much cheaper than nicer places in the area. Seafood dishes around 250–300 Rs, similar to other places in South Goa.
+
+<figure>
+  <img src="/photos/india/south-goa/agonda-beach-cafe-2.jpg" alt="Agonda Beach Cafe">
+  <figcaption>Agonda Beach Cafe</figcaption>
+</figure>
 
 ## Ratings
 

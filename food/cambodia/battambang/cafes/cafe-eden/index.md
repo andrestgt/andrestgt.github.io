@@ -6,7 +6,28 @@ title: Cafe Eden
 subtitle: Riverside Rd, Battambang · Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/battambang/cafe-eden-1.jpg" alt="Cafe Eden">
+  <figcaption>Cafe Eden</figcaption>
+</figure>
+
 I've known this place for a long time. They moved to slightly bigger premises along the river road. Still the same menu, with decent, moderately priced bar chow. The coffee has actually improved. Sofas and good wifi. Recommended.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/battambang/cafe-eden-2.jpg" alt="Cafe Eden">
+  <figcaption>Cafe Eden</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/battambang/cafe-eden-3.jpg" alt="Cafe Eden">
+  <figcaption>Cafe Eden</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/battambang/cafe-eden-4.jpg" alt="Cafe Eden">
+  <figcaption>Cafe Eden</figcaption>
+</figure>
 
 ## Ratings
 

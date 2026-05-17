@@ -6,6 +6,10 @@ title: Doce Pimenta Café
 subtitle: Lisbon · Café
 ---
 
+<figure>
+  <img src="/photos/portugal/lisbon/doce-pimenta-cafe-1.jpg" alt="Doce Pimenta Café">
+  <figcaption>Doce Pimenta Café</figcaption>
+</figure>
 
 Doce Pimenta Café serves cheap beer and coffee, has reliable wifi, and works well as a quick pit stop while exploring the city.
 

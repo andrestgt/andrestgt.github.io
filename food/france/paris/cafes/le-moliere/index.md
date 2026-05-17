@@ -6,8 +6,17 @@ title: Le Molière
 subtitle: Paris · Café
 ---
 
+<figure>
+  <img src="/photos/france/paris/le-moliere-1.jpg" alt="Le Molière">
+  <figcaption>Le Molière</figcaption>
+</figure>
 
 People mostly come here for the atmosphere on Rue de Buci, which is basically the stereotypical Paris street experience. Beyond that, the coffee is fairly average and predictably expensive.
+
+<figure>
+  <img src="/photos/france/paris/le-moliere-2.jpg" alt="Le Molière">
+  <figcaption>Le Molière</figcaption>
+</figure>
 
 ## Ratings
 

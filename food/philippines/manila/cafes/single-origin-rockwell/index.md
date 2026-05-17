@@ -6,7 +6,28 @@ title: Single Origin – Rockwell
 subtitle: Rockwell, Makati · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-1.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
+
 Better than the BGC branch. The cappuccino was very well prepared and the flatbread nicely crisp. Prices are undeniably high, even by Makati standards, but the quality is there.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-2.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-3.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-4.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
 
 ## Ratings
 

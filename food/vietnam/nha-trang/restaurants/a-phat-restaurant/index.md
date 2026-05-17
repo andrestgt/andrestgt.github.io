@@ -5,7 +5,29 @@ review: true
 title: A Phát Restaurant
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/a-phat-restaurant-1.jpg" alt="A Phát Restaurant">
+  <figcaption>A Phát Restaurant</figcaption>
+</figure>
+
 As one of the most upmarket restaurants in the Big C area, this large open air establishment caters mostly to big groups, families or company parties, but is still very welcoming to foreign guests and smaller parties.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/a-phat-restaurant-2.jpg" alt="A Phát Restaurant">
+  <figcaption>A Phát Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/a-phat-restaurant-3.jpg" alt="A Phát Restaurant">
+  <figcaption>A Phát Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/a-phat-restaurant-4.jpg" alt="A Phát Restaurant">
+  <figcaption>A Phát Restaurant</figcaption>
+</figure>
 
 The service here is good and friendly, and the menu offers a huge selection of dishes, mostly standards, but there's a few less common choices such as eel sausage (my favourite) and their special fried rice served in an edible bowl. The food is generally good to excellent and prices are moderate, 150-200k per head with beers.
 

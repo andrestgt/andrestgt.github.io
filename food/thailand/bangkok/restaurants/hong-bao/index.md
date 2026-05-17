@@ -6,7 +6,17 @@ title: Hong Bao Central Embassy
 subtitle: Pathum Wan · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/hong-bao-1.jpg" alt="Hong Bao Central Embassy">
+  <figcaption>Hong Bao Central Embassy</figcaption>
+</figure>
+
 Hong Bao is an excellent dim sum restaurant with a very extensive menu and consistently high quality. It’s only a small step below Crystal Jade in both quality and pricing, which is definitely meant as praise.
+
+<figure>
+  <img src="/photos/thailand/bangkok/hong-bao-2.jpg" alt="Hong Bao Central Embassy">
+  <figcaption>Hong Bao Central Embassy</figcaption>
+</figure>
 
 ## Ratings
 

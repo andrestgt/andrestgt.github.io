@@ -13,12 +13,6 @@ subtitle: Banda Neira · Indonesian
 
 Spice Island Café is probably the most popular place in Banda Neira with Western tourists. One reason is that it is reliably open throughout the day, which cannot be said for many other restaurants on the island.
 
-The menu covers a range of local dishes. I tried ulang-ulang with kenari nut sauce, sup pala (nutmeg soup), and fish aru-aru. The food was generally well prepared and portions were reasonable.
-
-Prices are somewhat higher than elsewhere on the island because the café adds a 10% tax to the bill, something no other restaurant in Banda Neira seems to do.
-
-It is a simple, but dependable place to eat and one of the few restaurants where you can usually get food even when many other places are closed.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/banda-islands/spice-island-cafe-2.jpg" alt="Spice Island Cafe">
@@ -30,16 +24,16 @@ It is a simple, but dependable place to eat and one of the few restaurants where
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/banda-islands/spice-island-cafe-4.jpg" alt="Spice Island Cafe">
   <figcaption>Spice Island Cafe</figcaption>
 </figure>
-<figure>
-  <img src="/photos/indonesia/maluku/banda-islands/spice-island-cafe-5.jpg" alt="Spice Island Cafe">
-  <figcaption>Spice Island Cafe</figcaption>
-</figure>
-</div>
+
+The menu covers a range of local dishes. I tried ulang-ulang with kenari nut sauce, sup pala (nutmeg soup), and fish aru-aru. The food was generally well prepared and portions were reasonable.
+
+Prices are somewhat higher than elsewhere on the island because the café adds a 10% tax to the bill, something no other restaurant in Banda Neira seems to do.
+
+It is a simple, but dependable place to eat and one of the few restaurants where you can usually get food even when many other places are closed.
 
 ## Ratings
 

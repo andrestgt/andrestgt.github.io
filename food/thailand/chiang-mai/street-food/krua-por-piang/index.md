@@ -6,7 +6,17 @@ title: Krua Por Piang
 subtitle: Suthep · Thai
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/krua-por-piang-1.jpg" alt="Krua Por Piang">
+  <figcaption>Krua Por Piang</figcaption>
+</figure>
+
 I went to this place after doing some research on where to get a good red duck curry in Chiang Mai, only to find out that they're not selling duck dishes during the school holidays.
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/krua-por-piang-2.jpg" alt="Krua Por Piang">
+  <figcaption>Krua Por Piang</figcaption>
+</figure>
 
 Fortunately, they compensated me with a very good tom kha gai and a nice spicy salad.
 

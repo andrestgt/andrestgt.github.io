@@ -6,6 +6,11 @@ title: Black Canyon – Ratchadaphisek
 subtitle: Din Daeng · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/black-canyon-ratchada-1.jpg" alt="Black Canyon – Ratchadaphisek">
+  <figcaption>Black Canyon – Ratchadaphisek</figcaption>
+</figure>
+
 Like most Black Canyon branches, this one reliably serves decent coffee and one of the better versions of pad thai kung among Thai café chains. The branch itself is quiet, spacious, and comfortable.
 ## Ratings
 

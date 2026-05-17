@@ -6,6 +6,11 @@ title: Bombay Coffee Roasters – Vagator
 subtitle: Vagator, North Goa · Café
 ---
 
+<figure>
+  <img src="/photos/india/north-goa/bombay-coffee-roasters-vagator-1.jpg" alt="Bombay Coffee Roasters – Vagator">
+  <figcaption>Bombay Coffee Roasters – Vagator</figcaption>
+</figure>
+
 All three Bombay Coffee Roasters branches offer AC, reasonable WiFi and Italian-style espresso drinks at very fair prices (90 Rs for a cappuccino). The quality of the coffee itself is good at all three branches, however, only the Anjuna branch has staff who actually know how to prepare a decent cappuccino — the Vagator branch tends to come without or with very bubbly froth. Nevertheless, they're the best value espresso places in Goa.
 
 ## Ratings

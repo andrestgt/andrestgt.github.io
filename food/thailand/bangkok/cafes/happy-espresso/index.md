@@ -6,6 +6,11 @@ title: Happy Espresso
 subtitle: Pom Prap · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/happy-espresso-1.jpg" alt="Happy Espresso">
+  <figcaption>Happy Espresso</figcaption>
+</figure>
+
 Happy Espresso is not especially comfortable, but it has strong air conditioning, fast wifi, and genuinely excellent milk coffees made with premium beans. Around 90 Bt for a latte is very fair considering the quality.
 
 ## Ratings

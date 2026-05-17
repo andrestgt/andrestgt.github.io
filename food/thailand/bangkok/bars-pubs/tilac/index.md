@@ -6,7 +6,17 @@ title: Tilac
 subtitle: Watthana · Go-Go Bar
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/tilac-1.jpg" alt="Tilac">
+  <figcaption>Tilac</figcaption>
+</figure>
+
 If you want to experience just one go-go bar while visiting Bangkok make it this one. It's one of the rare places that don't try to rip you off, the service is friendly and they leave you in peace. Beers are expensive at 180 Bt but cocktails are the same price and come properly mixed, not diluted, so that's actually pretty good value.
+
+<figure>
+  <img src="/photos/thailand/bangkok/tilac-2.jpg" alt="Tilac">
+  <figcaption>Tilac</figcaption>
+</figure>
 
 ## Ratings
 

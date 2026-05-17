@@ -5,6 +5,12 @@ review: true
 title: Quán Bún Bò Huế
 subtitle: Nha Trang · Vietnamese · Bún Bò
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-bun-bo-hue-1.jpg" alt="Quán Bún Bò Huế">
+  <figcaption>Quán Bún Bò Huế</figcaption>
+</figure>
+
 This basic street eatery serves one of the best bowls of Bun Bo Hue in town.  Atmospheric seating on small plastic chairs in front of a small old building, one the city's last colonial remnants. Recommended
 
 ## Ratings

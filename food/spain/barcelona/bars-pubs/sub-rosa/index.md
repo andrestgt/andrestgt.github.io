@@ -6,8 +6,17 @@ title: Sub Rosa
 subtitle: Barcelona · Cocktail Bar
 ---
 
+<figure>
+  <img src="/photos/spain/barcelona/sub-rosa-1.jpg" alt="Sub Rosa">
+  <figcaption>Sub Rosa</figcaption>
+</figure>
 
 Superb little hideaway with good cocktails, good music, attractive décor, and excellent happy hour deals.
+
+<figure>
+  <img src="/photos/spain/barcelona/sub-rosa-2.jpg" alt="Sub Rosa">
+  <figcaption>Sub Rosa</figcaption>
+</figure>
 
 ## Ratings
 

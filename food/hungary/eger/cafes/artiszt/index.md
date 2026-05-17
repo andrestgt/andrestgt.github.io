@@ -6,6 +6,10 @@ title: Artiszt
 subtitle: Eger · Café-Bar
 ---
 
+<figure>
+  <img src="/photos/hungary/eger/artiszt-1.jpg" alt="Artiszt">
+  <figcaption>Artiszt</figcaption>
+</figure>
 
 Comfortable hipster café-bar with good cappuccino for 460 Ft. The service can be a little grumpy, although that seems to be a nationwide issue.
 

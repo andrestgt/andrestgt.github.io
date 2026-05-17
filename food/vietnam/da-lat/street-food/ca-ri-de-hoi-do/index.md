@@ -5,6 +5,12 @@ review: true
 title: Cà Ri Dê Hồi Đó
 subtitle: Đà Lạt · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/ca-ri-de-hoi-do-1.jpg" alt="Cà Ri Dê Hồi Đó">
+  <figcaption>Cà Ri Dê Hồi Đó</figcaption>
+</figure>
+
 Nicely presented goat curry with baby baguettes, the curry soup is tasty, pity that the goat consists mainly of fat and bones. For 45k a bit more actual meat would have been nice.
 
 ## Ratings

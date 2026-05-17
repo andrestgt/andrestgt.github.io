@@ -6,6 +6,11 @@ title: Overstand Coffee & Breakfast
 subtitle: Si Phum, Old Town · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/overstand-coffee-1.jpg" alt="Overstand Coffee & Breakfast">
+  <figcaption>Overstand Coffee & Breakfast</figcaption>
+</figure>
+
 Top marks for the coffees and quality sandwiches. The place is small and popular, so it's not a place to relax. Prices a little above average.
 
 ## Ratings

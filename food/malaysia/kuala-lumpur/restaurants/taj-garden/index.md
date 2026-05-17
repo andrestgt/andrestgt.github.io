@@ -6,7 +6,17 @@ title: Taj Garden
 subtitle: Brickfields, KL · Indian
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/taj-garden-1.jpg" alt="Taj Garden">
+  <figcaption>Taj Garden</figcaption>
+</figure>
+
 Clean and slightly sterile mid-range Indian restaurant in Little India with an open kitchen and authentic flavours. Prices are fair, the mango lassis are excellent and overall this was one of the better Indian meals I had in Kuala Lumpur.
+
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/taj-garden-2.jpg" alt="Taj Garden">
+  <figcaption>Taj Garden</figcaption>
+</figure>
 
 ## Ratings
 

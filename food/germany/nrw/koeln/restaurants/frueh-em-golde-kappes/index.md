@@ -6,8 +6,23 @@ title: FRÜH Em Golde Kappes
 subtitle: Köln-Nippes · Kölsch, Cologne
 ---
 
+<figure>
+  <img src="/photos/germany/koeln/frueh-em-golde-kappes-1.jpg" alt="FRÜH Em Golde Kappes">
+  <figcaption>FRÜH Em Golde Kappes</figcaption>
+</figure>
 
 Fresh Kölsch, friendly service, and traditional local food at good prices. The blood sausage is delicious, and the Mettbrötchen — raw minced pork on a bread roll, for the uninitiated — is genuinely excellent.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/koeln/frueh-em-golde-kappes-2.jpg" alt="FRÜH Em Golde Kappes">
+  <figcaption>FRÜH Em Golde Kappes</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/koeln/frueh-em-golde-kappes-3.jpg" alt="FRÜH Em Golde Kappes">
+  <figcaption>FRÜH Em Golde Kappes</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

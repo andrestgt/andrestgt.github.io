@@ -6,8 +6,23 @@ title: Blue House Hotel and Restaurant
 subtitle: Loutro · Restaurant
 ---
 
+<figure>
+  <img src="/photos/greece/crete/blue-house-1.jpg" alt="Blue House Hotel and Restaurant">
+  <figcaption>Blue House Hotel and Restaurant</figcaption>
+</figure>
 
 Blue House is a highly recommended restaurant in a wonderful setting with genuinely friendly service. The food is simple, honest, and home cooked, with fair prices by local standards, even if Loutro itself is slightly more expensive than much of the surrounding region. The octopus with spinach and the snails are especially good, and the cheap house white goes down very easily.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/greece/crete/blue-house-2.jpg" alt="Blue House Hotel and Restaurant">
+  <figcaption>Blue House Hotel and Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/greece/crete/blue-house-3.jpg" alt="Blue House Hotel and Restaurant">
+  <figcaption>Blue House Hotel and Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

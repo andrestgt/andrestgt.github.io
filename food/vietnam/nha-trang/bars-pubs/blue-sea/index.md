@@ -5,6 +5,12 @@ review: true
 title: Blue Sea
 subtitle: Nha Trang · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/blue-sea-1.jpg" alt="Blue Sea">
+  <figcaption>Blue Sea</figcaption>
+</figure>
+
 It's the cheapest beach bar in Nha Trang with 1€ beers or coconuts in a prime location. As such, it's easy to recommend even though the service is not great.
 
 ## Ratings

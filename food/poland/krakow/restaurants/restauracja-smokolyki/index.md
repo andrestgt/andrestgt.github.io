@@ -6,8 +6,17 @@ title: Restauracja Smakołyki
 subtitle: Kraków · Polish Restaurant
 ---
 
+<figure>
+  <img src="/photos/poland/krakow/restauracja-smokolyki-1.jpg" alt="Restauracja Smakołyki">
+  <figcaption>Restauracja Smakołyki</figcaption>
+</figure>
 
 Nice, modern eatery with mainly local clientele. It's cheap and filling, and the menu sticks to straightforward Polish staples. The gołąbki are a little bland, though.
+
+<figure>
+  <img src="/photos/poland/krakow/restauracja-smokolyki-2.jpg" alt="Restauracja Smakołyki">
+  <figcaption>Restauracja Smakołyki</figcaption>
+</figure>
 
 ## Ratings
 

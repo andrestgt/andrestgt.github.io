@@ -5,7 +5,29 @@ review: true
 title: Lanterns
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/lanterns-1.jpg" alt="Lanterns">
+  <figcaption>Lanterns</figcaption>
+</figure>
+
 Lanterns has been Nha Trang's most popular tourist restaurant for many years now but i never really saw why, as i was slightly underwhelmed by my first visit, and especially disappointed by their signature claypot dish, which tasted sweet and boring with medium quality fish.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/lanterns-2.jpg" alt="Lanterns">
+  <figcaption>Lanterns</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/lanterns-3.jpg" alt="Lanterns">
+  <figcaption>Lanterns</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/lanterns-4.jpg" alt="Lanterns">
+  <figcaption>Lanterns</figcaption>
+</figure>
 
 I remembered, however, that the other dishes i ordered were just fine, and decided to give it another try when i ran out of dining options.
 

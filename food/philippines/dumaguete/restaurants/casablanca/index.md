@@ -6,7 +6,28 @@ title: Casablanca Restaurant
 subtitle: Rizal Boulevard, Dumaguete · International
 ---
 
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-1.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+
 I have been frequenting Casablanca for more than a decade now and never had a bad meal. The Austrian owner is a proper restaurateur and knows his business. It's hard to find consistently good food in the provinces in the Philippines and Casablanca is a godsend. Casablanca is in a prime location on Rizal Blvd and on nice days you can enjoy the view over the deep blue ocean and Siquijor. The proprietor is also serious about wines, offering a decent collection of reasonably priced, good value bottles. Casablanca serves very eclectic international fare, from seared tuna to hearty Central European meat platters. Their lunch deals are incredible — 270 Php buys you a soup, a salad, a beer and a generous main course. Casablanca is a must visit for everyone who likes wine and good food when in the Visayas.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-2.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-3.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-4.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

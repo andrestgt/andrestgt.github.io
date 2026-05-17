@@ -6,6 +6,10 @@ title: The Bollocks
 subtitle: Barcelona · Bar
 ---
 
+<figure>
+  <img src="/photos/spain/barcelona/the-bollocks-1.jpg" alt="The Bollocks">
+  <figcaption>The Bollocks</figcaption>
+</figure>
 
 The Bollocks is just a really fun bar. Drinks are good, prices are fair, the music is good, and the atmosphere works. Easy place to end up staying longer than planned.
 

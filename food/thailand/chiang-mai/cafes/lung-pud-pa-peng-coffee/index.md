@@ -6,7 +6,28 @@ title: Lung Pud Pa Peng Coffee
 subtitle: Mae On · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/lung-pud-pa-peng-coffee-1.jpg" alt="Lung Pud Pa Peng Coffee">
+  <figcaption>Lung Pud Pa Peng Coffee</figcaption>
+</figure>
+
 For some reason this place is incredibly popular with local tourists. It's a lovely wooden house on a small creek, very picturesque. Coffees are quite good here, food options are very limited.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/lung-pud-pa-peng-coffee-2.jpg" alt="Lung Pud Pa Peng Coffee">
+  <figcaption>Lung Pud Pa Peng Coffee</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/lung-pud-pa-peng-coffee-3.jpg" alt="Lung Pud Pa Peng Coffee">
+  <figcaption>Lung Pud Pa Peng Coffee</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/lung-pud-pa-peng-coffee-4.jpg" alt="Lung Pud Pa Peng Coffee">
+  <figcaption>Lung Pud Pa Peng Coffee</figcaption>
+</figure>
 
 ## Ratings
 

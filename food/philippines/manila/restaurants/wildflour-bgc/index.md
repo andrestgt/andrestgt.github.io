@@ -6,6 +6,11 @@ title: Wildflour – BGC
 subtitle: BGC, Taguig · Café, Bistro
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/wildflour-bgc-1.jpg" alt="Wildflour – BGC">
+  <figcaption>Wildflour – BGC</figcaption>
+</figure>
+
 Knowing the average Filipino palate, I am seriously surprised by the ridiculous popularity of this place. The bread is absolutely delicious — crispy without a hint of doughy sweetness. The cappuccino is perfectly prepared and super strong, with no cinnamon or other atrocities done to it. This is so fundamentally different from what you usually get in this country. The food menu is interesting if expensive bistro fare and the chorizo-figs-bacon wraps are excellent. Service staff try hard but struggle to cope with the masses — best to visit during off-hours.
 
 ## Ratings

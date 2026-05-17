@@ -5,6 +5,12 @@ review: true
 title: Quán Đồng Xanh
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-dong-xanh-1.jpg" alt="Quán Đồng Xanh">
+  <figcaption>Quán Đồng Xanh</figcaption>
+</figure>
+
 Famous, well established old school countryside restaurant that's packed most nights and weekends. It's not instantly understandable just why this place is so popular, the atmosphere and surroundings are nothing special, the menu is extensive but unadventurous and it's not especially cheap either.
 
 The food, of course, is good, very good even, and you'll most likely still walk out with a bill of less than 500k for 2. The seafood salad is tart and fresh, the beef is tender and well marinated.

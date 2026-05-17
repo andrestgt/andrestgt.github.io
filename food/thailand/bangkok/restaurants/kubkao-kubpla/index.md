@@ -6,7 +6,23 @@ title: KubKao' KubPla Emquartier
 subtitle: Watthana · Thai
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/kubkao-kubpla-1.jpg" alt="KubKao' KubPla Emquartier">
+  <figcaption>KubKao' KubPla Emquartier</figcaption>
+</figure>
+
 If you manage to get a seat with a view, EmQuartier´s KubKao’ KubPla, becomes a very attractive place to eat. The Thai dishes are tasty, well presented and prices are fair for the Helix, plus the menu includes some less common items such as ox tongue stew.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/kubkao-kubpla-2.jpg" alt="KubKao' KubPla Emquartier">
+  <figcaption>KubKao' KubPla Emquartier</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/kubkao-kubpla-3.jpg" alt="KubKao' KubPla Emquartier">
+  <figcaption>KubKao' KubPla Emquartier</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

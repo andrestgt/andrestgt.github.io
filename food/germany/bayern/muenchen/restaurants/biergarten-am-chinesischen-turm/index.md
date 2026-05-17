@@ -6,6 +6,10 @@ title: Biergarten am Chinesischen Turm
 subtitle: English Garden · Beer Garden
 ---
 
+<figure>
+  <img src="/photos/germany/muenchen/biergarten-am-chinesischen-turm-1.jpg" alt="Biergarten am Chinesischen Turm">
+  <figcaption>Biergarten am Chinesischen Turm</figcaption>
+</figure>
 
 A bit expensive maybe for beers, it's 8,40€ for 1 litre, but the atmosphere and surroundings are great
 

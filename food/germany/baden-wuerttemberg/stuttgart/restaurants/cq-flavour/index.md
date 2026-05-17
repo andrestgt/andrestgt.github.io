@@ -13,10 +13,6 @@ subtitle: Stuttgart · Chinese, Sichuan
 
 Despite its location in the backyard of a rather dreary shopping complex on the outskirts, CQ Flavour Restaurant is, for me, the best Chinese restaurant in Stuttgart so far. “CQ” stands for Chongqing, a region known for its pungent, spicy cuisine, and that’s exactly what you get here if you order from the authentic menu.
 
-There are also the usual German-Chinese staples like kung pao chicken for less adventurous diners, and they do those perfectly well. But it’s really worth going for the more regional dishes, such as the lamb stew.
-
-The interior still has that slightly dated German-Chinese restaurant look from the eighties, but the flavours are the real deal. It’s not cheap, though, but then again this isn’t an Asia Imbiss.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/cq-flavour-2.jpg" alt="CQ Flavour">
@@ -28,16 +24,14 @@ The interior still has that slightly dated German-Chinese restaurant look from t
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/cq-flavour-4.jpg" alt="CQ Flavour">
   <figcaption>CQ Flavour</figcaption>
 </figure>
-<figure>
-  <img src="/photos/germany/stuttgart/cq-flavour-5.jpg" alt="CQ Flavour">
-  <figcaption>CQ Flavour</figcaption>
-</figure>
-</div>
+
+There are also the usual German-Chinese staples like kung pao chicken for less adventurous diners, and they do those perfectly well. But it’s really worth going for the more regional dishes, such as the lamb stew.
+
+The interior still has that slightly dated German-Chinese restaurant look from the eighties, but the flavours are the real deal. It’s not cheap, though, but then again this isn’t an Asia Imbiss.
 
 ## Ratings
 

@@ -6,6 +6,11 @@ title: Din Tai Fung
 subtitle: BGC, Taguig · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/din-tai-fung-bgc-1.jpg" alt="Din Tai Fung">
+  <figcaption>Din Tai Fung</figcaption>
+</figure>
+
 This branch delivers the usual Din Tai Fung standard, with excellent dumplings and surprisingly reasonable prices for BGC. It gets extremely busy during meal times though, so waiting for a table is almost inevitable.
 
 ## Ratings

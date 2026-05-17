@@ -6,8 +6,17 @@ title: The Beer House
 subtitle: Košice · Beer Pub
 ---
 
+<figure>
+  <img src="/photos/slovakia/kosice/the-beer-house-1.jpg" alt="The Beer House">
+  <figcaption>The Beer House</figcaption>
+</figure>
 
 Large beer pub with a huge range of beers on tap. Prices are very fair for the Old Town location, with most large glasses costing 1,50€ or less. The Maestro on tap is particularly smooth and easy to drink.
+
+<figure>
+  <img src="/photos/slovakia/kosice/the-beer-house-2.jpg" alt="The Beer House">
+  <figcaption>The Beer House</figcaption>
+</figure>
 
 ## Ratings
 

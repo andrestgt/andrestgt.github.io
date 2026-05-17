@@ -6,8 +6,17 @@ title: Codo
 subtitle: Dresden Neustadt · Vietnamese, Bistro
 ---
 
+<figure>
+  <img src="/photos/germany/dresden/codo-1.jpg" alt="Codo">
+  <figcaption>Codo</figcaption>
+</figure>
 
 Very popular bistro with tasteful decor and good Vietnamese food at reasonable prices. Very tasty banh mi sandwiches and bun thit nuong go together extremely well with a nice Hefeweizen
+
+<figure>
+  <img src="/photos/germany/dresden/codo-2.jpg" alt="Codo">
+  <figcaption>Codo</figcaption>
+</figure>
 
 ## Ratings
 

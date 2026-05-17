@@ -6,7 +6,28 @@ title: Huen Jai Yong
 subtitle: San Kamphaeng · Lanna, Northern Thai
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/huen-jai-yong-1.jpg" alt="Huen Jai Yong">
+  <figcaption>Huen Jai Yong</figcaption>
+</figure>
+
 A beautiful and very popular countryside restaurant specialising in traditional Lanna cuisine. As is often the case with Northern Thai food, some dishes can be a bit of an acquired taste due to the herbs used, but overall the cooking is very good.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/huen-jai-yong-2.jpg" alt="Huen Jai Yong">
+  <figcaption>Huen Jai Yong</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/huen-jai-yong-3.jpg" alt="Huen Jai Yong">
+  <figcaption>Huen Jai Yong</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/huen-jai-yong-4.jpg" alt="Huen Jai Yong">
+  <figcaption>Huen Jai Yong</figcaption>
+</figure>
 
 The sausages in particular stood out. Prices are reasonable, and if you happen to be in the area, it's well worth a stop.
 

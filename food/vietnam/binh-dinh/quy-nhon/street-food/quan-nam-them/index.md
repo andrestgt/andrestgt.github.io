@@ -24,16 +24,10 @@ Large and busy drinking place in the new part of town. It's nothing out of the o
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/quy-nhon/quan-nam-them-4.jpg" alt="Quán Năm Thêm">
   <figcaption>Quán Năm Thêm</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/quy-nhon/quan-nam-them-5.jpg" alt="Quán Năm Thêm">
-  <figcaption>Quán Năm Thêm</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

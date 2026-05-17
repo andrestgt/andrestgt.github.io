@@ -6,7 +6,17 @@ title: Ninive – Wood-Fired Pizza
 subtitle: Phra Khanong · Pizza, Café
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/ninive-1.jpg" alt="Ninive – Wood-Fired Pizza">
+  <figcaption>Ninive – Wood-Fired Pizza</figcaption>
+</figure>
+
 This should be your pizza place of choice around Phra Khanong. Baked freshly right in front of you in a wood fired oven. Perfectly delicious and reasonably priced. Wash it down with an ice cold Beer Lao. Excellent.
+
+<figure>
+  <img src="/photos/thailand/bangkok/ninive-2.jpg" alt="Ninive – Wood-Fired Pizza">
+  <figcaption>Ninive – Wood-Fired Pizza</figcaption>
+</figure>
 
 ## Ratings
 

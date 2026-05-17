@@ -6,6 +6,10 @@ title: Arokaria Cafe
 subtitle: Rethymno · Bar
 ---
 
+<figure>
+  <img src="/photos/greece/crete/arokaria-cafe-1.jpg" alt="Arokaria Cafe">
+  <figcaption>Arokaria Cafe</figcaption>
+</figure>
 
 Arokaria is a very pleasant place to sit in the yard with a cold quality draft beer. Prices are slightly on the high side, but the atmosphere makes up for it.
 

@@ -6,8 +6,23 @@ title: Apfelwein-Wirtschaft Fichtekränzi
 subtitle: Sachsenhausen · Apfelwein, Hessian
 ---
 
+<figure>
+  <img src="/photos/germany/frankfurt/apfelwein-wirtschaft-fichtekraenzi-1.jpg" alt="Apfelwein-Wirtschaft Fichtekränzi">
+  <figcaption>Apfelwein-Wirtschaft Fichtekränzi</figcaption>
+</figure>
 
 Honest local food in large portions at reasonable prices. Apple wine is definitely an acquired taste, though personally I much prefer the grape-based variety. Grüne Sauce is a must try.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/frankfurt/apfelwein-wirtschaft-fichtekraenzi-2.jpg" alt="Apfelwein-Wirtschaft Fichtekränzi">
+  <figcaption>Apfelwein-Wirtschaft Fichtekränzi</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/frankfurt/apfelwein-wirtschaft-fichtekraenzi-3.jpg" alt="Apfelwein-Wirtschaft Fichtekränzi">
+  <figcaption>Apfelwein-Wirtschaft Fichtekränzi</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

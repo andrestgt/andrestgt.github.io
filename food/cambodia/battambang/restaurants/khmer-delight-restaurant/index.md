@@ -6,7 +6,28 @@ title: Khmer Delight Restaurant
 subtitle: Street 119, Battambang · Khmer
 ---
 
+<figure>
+  <img src="/photos/cambodia/battambang/khmer-delight-restaurant-1.jpg" alt="Khmer Delight Restaurant">
+  <figcaption>Khmer Delight Restaurant</figcaption>
+</figure>
+
 Khmer Delight is a pleasant little tourist restaurant with a surprisingly decent wine list at fair prices. The food is standard Khmer fare, tasty enough, even if nothing especially memorable.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/battambang/khmer-delight-restaurant-2.jpg" alt="Khmer Delight Restaurant">
+  <figcaption>Khmer Delight Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/battambang/khmer-delight-restaurant-3.jpg" alt="Khmer Delight Restaurant">
+  <figcaption>Khmer Delight Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/battambang/khmer-delight-restaurant-4.jpg" alt="Khmer Delight Restaurant">
+  <figcaption>Khmer Delight Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

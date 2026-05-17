@@ -24,16 +24,10 @@ This microbrewery on a quiet residential street near Co-op mart is a great find 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/men-tuoi-bia-thu-cong-nha-trang-4.jpg" alt="Men Tươi - Bia thủ công Nha Trang">
   <figcaption>Men Tươi - Bia thủ công Nha Trang</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/men-tuoi-bia-thu-cong-nha-trang-5.jpg" alt="Men Tươi - Bia thủ công Nha Trang">
-  <figcaption>Men Tươi - Bia thủ công Nha Trang</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

@@ -6,8 +6,28 @@ title: Augustiner Stammhaus
 subtitle: Munich · Beer Hall, Bavarian
 ---
 
+<figure>
+  <img src="/photos/germany/muenchen/augustiner-stammhaus-1.jpg" alt="Augustiner Stammhaus">
+  <figcaption>Augustiner Stammhaus</figcaption>
+</figure>
 
 Very nice traditional place, inside and outside. Beer is quite expensive, but excellent, esp the Dunkel. Food is reasonably priced, hearty and very good with huge portions
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/muenchen/augustiner-stammhaus-2.jpg" alt="Augustiner Stammhaus">
+  <figcaption>Augustiner Stammhaus</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/muenchen/augustiner-stammhaus-3.jpg" alt="Augustiner Stammhaus">
+  <figcaption>Augustiner Stammhaus</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/germany/muenchen/augustiner-stammhaus-4.jpg" alt="Augustiner Stammhaus">
+  <figcaption>Augustiner Stammhaus</figcaption>
+</figure>
 
 ## Ratings
 

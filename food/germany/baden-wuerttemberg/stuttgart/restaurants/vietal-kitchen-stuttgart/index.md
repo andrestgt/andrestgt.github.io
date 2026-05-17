@@ -6,8 +6,17 @@ title: Vietal Kitchen Stuttgart
 subtitle: Stuttgart · Vietnamese, Healthy
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/vietal-kitchen-stuttgart-1.jpg" alt="Vietal Kitchen Stuttgart">
+  <figcaption>Vietal Kitchen Stuttgart</figcaption>
+</figure>
 
 Outstanding healthy food, mostly Asian/Vietnamese influenced. Quite chic for the east end with prices to match, but the quality is excellent. Strong contender for best Asian food in Stuttgart. Don't be put off by the health food tag, they do meat, too
+
+<figure>
+  <img src="/photos/germany/stuttgart/vietal-kitchen-stuttgart-2.jpg" alt="Vietal Kitchen Stuttgart">
+  <figcaption>Vietal Kitchen Stuttgart</figcaption>
+</figure>
 
 ## Ratings
 

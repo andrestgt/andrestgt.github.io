@@ -6,6 +6,11 @@ title: Move On Cafe
 subtitle: Prawirotaman · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/yogyakarta/move-on-cafe-1.jpg" alt="Move On Cafe">
+  <figcaption>Move On Cafe</figcaption>
+</figure>
+
 Spacious and attractive café with plenty of genuinely comfortable seating, something surprisingly rare in Indonesia. The espresso drinks are excellent and very reasonably priced, with cappuccinos below 25k. Easily the best café I found in Yogyakarta.
 
 ## Ratings

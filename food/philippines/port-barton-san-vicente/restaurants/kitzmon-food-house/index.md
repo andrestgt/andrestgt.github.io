@@ -6,7 +6,28 @@ title: Kitzmon Food House
 subtitle: Port Barton, San Vicente · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/port-barton-san-vicente/kitzmon-food-house-1.jpg" alt="Kitzmon Food House">
+  <figcaption>Kitzmon Food House</figcaption>
+</figure>
+
 This place is much neater and cleaner than your average provincial Foodhaus, offering a good variety of Filipino favorites, including Chaolong, the Palawan version of Vietnamese beef stew. The prices are very reasonable, and the service is friendly. It's probably the best food option outside of the resorts for many miles.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/port-barton-san-vicente/kitzmon-food-house-2.jpg" alt="Kitzmon Food House">
+  <figcaption>Kitzmon Food House</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/port-barton-san-vicente/kitzmon-food-house-3.jpg" alt="Kitzmon Food House">
+  <figcaption>Kitzmon Food House</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/port-barton-san-vicente/kitzmon-food-house-4.jpg" alt="Kitzmon Food House">
+  <figcaption>Kitzmon Food House</figcaption>
+</figure>
 
 ## Ratings
 

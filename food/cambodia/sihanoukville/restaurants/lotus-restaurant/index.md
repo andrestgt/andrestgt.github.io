@@ -6,7 +6,28 @@ title: LOTUS Restaurant
 subtitle: Independence Beach, Sihanoukville · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/cambodia/sihanoukville/lotus-restaurant-1.jpg" alt="LOTUS Restaurant">
+  <figcaption>LOTUS Restaurant</figcaption>
+</figure>
+
 LOTUS claims to serve the best dim sum in Sihanoukville and, surprisingly enough, that claim is probably justified. The baskets are inexpensive at around 1.25–1.75$ and the quality is genuinely good. Slightly ironic perhaps that, with Sihanoukville increasingly dominated by Chinese development, one of the better meals in town is still at a Chinese restaurant.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/lotus-restaurant-2.jpg" alt="LOTUS Restaurant">
+  <figcaption>LOTUS Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/lotus-restaurant-3.jpg" alt="LOTUS Restaurant">
+  <figcaption>LOTUS Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/sihanoukville/lotus-restaurant-4.jpg" alt="LOTUS Restaurant">
+  <figcaption>LOTUS Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

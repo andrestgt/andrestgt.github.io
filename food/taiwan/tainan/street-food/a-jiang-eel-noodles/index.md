@@ -6,7 +6,17 @@ title: A-Jiang Eel Noodles
 subtitle: West Central District, Tainan · Taiwanese
 ---
 
+<figure>
+  <img src="/photos/taiwan/tainan/a-jiang-eel-noodles-1.jpg" alt="A-Jiang Eel Noodles">
+  <figcaption>A-Jiang Eel Noodles</figcaption>
+</figure>
+
 Eel noodles, very tasty. 120 NT$ for a pretty big portion. Must try when in Tainan. Super popular so better visit outside of peak hours.
+
+<figure>
+  <img src="/photos/taiwan/tainan/a-jiang-eel-noodles-2.jpg" alt="A-Jiang Eel Noodles">
+  <figcaption>A-Jiang Eel Noodles</figcaption>
+</figure>
 
 ## Ratings
 

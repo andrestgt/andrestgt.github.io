@@ -5,7 +5,18 @@ review: true
 title: Phở bò 24
 subtitle: Đông Thành · Vietnamese · Phở
 ---
+
+<figure>
+  <img src="/photos/vietnam/ninh-binh/pho-bo-24-1.jpg" alt="Phở bò 24">
+  <figcaption>Phở bò 24</figcaption>
+</figure>
+
 Deservedly popular local pho place that serves not only very good bowls of the eponymous beef noodle soup, but unusual for a pho eatery, also large plates of tasty fried rice with chicken or beef. Good for breakfast, lunch, dinner or anytime in between
+
+<figure>
+  <img src="/photos/vietnam/ninh-binh/pho-bo-24-2.jpg" alt="Phở bò 24">
+  <figcaption>Phở bò 24</figcaption>
+</figure>
 
 ## Ratings
 

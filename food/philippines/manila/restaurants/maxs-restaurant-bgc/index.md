@@ -6,7 +6,28 @@ title: Max's Restaurant
 subtitle: Forbespark, BGC · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/maxs-restaurant-bgc-1.jpg" alt="Max's Restaurant">
+  <figcaption>Max's Restaurant</figcaption>
+</figure>
+
 Whenever I end up at Max's, it's usually for two things: the chicken sisig and the mango shakes. Both are genuinely excellent and among my favourite versions anywhere in the Philippines. The rest of the menu doesn't really interest me nearly as much.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/maxs-restaurant-bgc-2.jpg" alt="Max's Restaurant">
+  <figcaption>Max's Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/maxs-restaurant-bgc-3.jpg" alt="Max's Restaurant">
+  <figcaption>Max's Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/manila/maxs-restaurant-bgc-4.jpg" alt="Max's Restaurant">
+  <figcaption>Max's Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

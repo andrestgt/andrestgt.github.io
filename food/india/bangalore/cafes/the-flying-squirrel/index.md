@@ -6,6 +6,11 @@ title: The Flying Squirrel
 subtitle: Ashok Nagar, Bangalore · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/india/bangalore/the-flying-squirrel-1.jpg" alt="The Flying Squirrel">
+  <figcaption>The Flying Squirrel</figcaption>
+</figure>
+
 Located inside a large and very fancy Samsung shop, this small café prepares one of the best cappuccinos I've had in India, although it does not come cheap at 200 Rs. Comfy seats, functioning WiFi and clean toilets are a bonus.
 
 ## Ratings

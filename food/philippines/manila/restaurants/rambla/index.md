@@ -6,7 +6,28 @@ title: Rambla
 subtitle: Rockwell, Makati · Spanish
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/rambla-1.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
+
 Stylish and rather upscale Rockwell restaurant serving creative food, affordable wines and very good lunch deals. A great choice if you feel like splurging a little. The foie gras empanadas are a must. Easily one of the better meals I had in Manila.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/rambla-2.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/rambla-3.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/manila/rambla-4.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
 
 ## Ratings
 

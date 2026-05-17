@@ -24,16 +24,10 @@ I've been coming here for almost two decades. Not only does Quán An Ngon have a
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/quan-an-ngon-4.jpg" alt="Quan An Ngon">
   <figcaption>Quan An Ngon</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/hanoi/quan-an-ngon-5.jpg" alt="Quan An Ngon">
-  <figcaption>Quan An Ngon</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

@@ -5,7 +5,29 @@ review: true
 title: Ganesh Indian Restaurant
 subtitle: Nha Trang · Indian
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-1.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
+
 I have tried all Indian restaurants in Nha Trang and Ganesh is my personal favourite. The food here is very good, even for people who spent time in India, and ordering spicy will actually get you a proper authentic curry, some of the tastier ones this side of Kolkata.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-2.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-3.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-4.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
 
 Add to that the reasonable prices (the gorgeous lamb tikka masala is the most expensive dish at 160k), good portions and the comfy upstairs lounge and we have a real winner.
 

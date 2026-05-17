@@ -24,16 +24,10 @@ Madamzabb is a tiny and very tidy hole-in-the-wall restaurant serving delicious 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/madamzabb-4.jpg" alt="Madamzabb">
   <figcaption>Madamzabb</figcaption>
 </figure>
-<figure>
-  <img src="/photos/thailand/bangkok/madamzabb-5.jpg" alt="Madamzabb">
-  <figcaption>Madamzabb</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

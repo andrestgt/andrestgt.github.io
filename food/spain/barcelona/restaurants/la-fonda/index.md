@@ -6,8 +6,23 @@ title: La Fonda
 subtitle: Barcelona · Restaurant
 ---
 
+<figure>
+  <img src="/photos/spain/barcelona/la-fonda-1.jpg" alt="La Fonda">
+  <figcaption>La Fonda</figcaption>
+</figure>
 
 La Fonda is unapologetically aimed at tourists, but the prices remain surprisingly reasonable, especially for wine. You can still get a decent bottle for under 10€. The food is alright, although the mixed appetisers could be better.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/spain/barcelona/la-fonda-2.jpg" alt="La Fonda">
+  <figcaption>La Fonda</figcaption>
+</figure>
+<figure>
+  <img src="/photos/spain/barcelona/la-fonda-3.jpg" alt="La Fonda">
+  <figcaption>La Fonda</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

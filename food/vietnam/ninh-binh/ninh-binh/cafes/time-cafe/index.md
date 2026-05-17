@@ -5,6 +5,12 @@ review: true
 title: Time Cafe
 subtitle: Đông Thành · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ninh-binh/time-cafe-1.jpg" alt="Time Cafe">
+  <figcaption>Time Cafe</figcaption>
+</figure>
+
 Fanciest and comfiest café in town, really nice, and surprisingly inexpensive place, but stick to Vietnamese coffees, they prepare cappuccino with sweetened milk (!!!). Ugh
 
 ## Ratings

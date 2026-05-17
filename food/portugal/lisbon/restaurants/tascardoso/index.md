@@ -6,8 +6,28 @@ title: Tascardoso
 subtitle: Lisbon · Restaurant
 ---
 
+<figure>
+  <img src="/photos/portugal/lisbon/tascardoso-1.jpg" alt="Tascardoso">
+  <figcaption>Tascardoso</figcaption>
+</figure>
 
 Tascardoso is a small local eatery serving huge portions of simple, tasty food at local prices, usually around 6–8€ for a main. The house white wine is good as well, although slightly expensive compared with the food.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/portugal/lisbon/tascardoso-2.jpg" alt="Tascardoso">
+  <figcaption>Tascardoso</figcaption>
+</figure>
+<figure>
+  <img src="/photos/portugal/lisbon/tascardoso-3.jpg" alt="Tascardoso">
+  <figcaption>Tascardoso</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/portugal/lisbon/tascardoso-4.jpg" alt="Tascardoso">
+  <figcaption>Tascardoso</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,6 +6,11 @@ title: Win Chang Beef Soup Anping Main Shop
 subtitle: Anping · Taiwanese, Beef Soup
 ---
 
+<figure>
+  <img src="/photos/taiwan/tainan/win-chang-beef-soup-1.jpg" alt="Win Chang Beef Soup Anping Main Shop">
+  <figcaption>Win Chang Beef Soup Anping Main Shop</figcaption>
+</figure>
+
 Bone broth with fresh beef. Most famous in town and tasty for sure. Some carbs on the side — rice with minced beef. A nice meal for 120 NT$, but I don't think I'd queue for it like the locals do.
 
 ## Ratings

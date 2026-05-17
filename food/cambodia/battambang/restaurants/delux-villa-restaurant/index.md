@@ -6,7 +6,17 @@ title: Delux Villa Restaurant
 subtitle: Battambang · International
 ---
 
+<figure>
+  <img src="/photos/cambodia/battambang/delux-villa-restaurant-1.jpg" alt="Delux Villa Restaurant">
+  <figcaption>Delux Villa Restaurant</figcaption>
+</figure>
+
 Delux Villa is not only one of the nicest hotels in Battambang, but its restaurant is worth visiting even if you are not staying there. The appetisers are particularly good, especially the fried wontons and the squid with Kampot pepper.
+
+<figure>
+  <img src="/photos/cambodia/battambang/delux-villa-restaurant-2.jpg" alt="Delux Villa Restaurant">
+  <figcaption>Delux Villa Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

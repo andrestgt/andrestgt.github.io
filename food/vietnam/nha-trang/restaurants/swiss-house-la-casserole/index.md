@@ -5,7 +5,29 @@ review: true
 title: Swiss House La Casserole
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/swiss-house-la-casserole-1.jpg" alt="Swiss House La Casserole">
+  <figcaption>Swiss House La Casserole</figcaption>
+</figure>
+
 La Casserole is a small, unpretentious restaurant in the tourist area. It's quite popular with expats, but also worth finding out for visitors to Nha Trang.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/swiss-house-la-casserole-2.jpg" alt="Swiss House La Casserole">
+  <figcaption>Swiss House La Casserole</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/swiss-house-la-casserole-3.jpg" alt="Swiss House La Casserole">
+  <figcaption>Swiss House La Casserole</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/swiss-house-la-casserole-4.jpg" alt="Swiss House La Casserole">
+  <figcaption>Swiss House La Casserole</figcaption>
+</figure>
 
 The food is essentially Swiss but with a few Asian dishes thrown in for good measure.
 

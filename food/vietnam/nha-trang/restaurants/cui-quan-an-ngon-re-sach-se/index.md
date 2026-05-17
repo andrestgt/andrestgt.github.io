@@ -24,27 +24,10 @@ This is a great new addition to Nha Trang's culinary scene, a hybrid between a r
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cui-quan-an-ngon-re-sach-se-4.jpg" alt="Củi Quán ăn ngon, rẻ, sạch sẽ">
   <figcaption>Củi Quán ăn ngon, rẻ, sạch sẽ</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/cui-quan-an-ngon-re-sach-se-5.jpg" alt="Củi Quán ăn ngon, rẻ, sạch sẽ">
-  <figcaption>Củi Quán ăn ngon, rẻ, sạch sẽ</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/cui-quan-an-ngon-re-sach-se-6.jpg" alt="Củi Quán ăn ngon, rẻ, sạch sẽ">
-  <figcaption>Củi Quán ăn ngon, rẻ, sạch sẽ</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/cui-quan-an-ngon-re-sach-se-7.jpg" alt="Củi Quán ăn ngon, rẻ, sạch sẽ">
-  <figcaption>Củi Quán ăn ngon, rẻ, sạch sẽ</figcaption>
-</figure>
-</div>
 
 Prices are very reasonable for what they offer and the quality of the food is indeed higher than usual and some of the traditional dishes have nice twists.
 

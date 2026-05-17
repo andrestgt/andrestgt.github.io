@@ -6,6 +6,11 @@ title: Erras Bar
 subtitle: Adriatico St, Malate · Bar
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/erras-bar-1.jpg" alt="Erras Bar">
+  <figcaption>Erras Bar</figcaption>
+</figure>
+
 A long-running Malate institution. This open-air bar never closes, the kitchen operates around the clock, and the beers are among the cheapest in the area. The atmosphere is always lively and the food is surprisingly decent as well.
 
 ## Ratings

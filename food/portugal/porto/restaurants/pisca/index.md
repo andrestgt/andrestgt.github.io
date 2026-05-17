@@ -6,8 +6,23 @@ title: Pisca
 subtitle: Porto · Wine Bar
 ---
 
+<figure>
+  <img src="/photos/portugal/porto/pisca-1.jpg" alt="Pisca">
+  <figcaption>Pisca</figcaption>
+</figure>
 
 Attractive little tapas and wine bar overlooking the Douro, with vintage trams passing by outside the veranda. The place is slightly cramped, but the food and wine are both good. Perhaps a little pricey.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/portugal/porto/pisca-2.jpg" alt="Pisca">
+  <figcaption>Pisca</figcaption>
+</figure>
+<figure>
+  <img src="/photos/portugal/porto/pisca-3.jpg" alt="Pisca">
+  <figcaption>Pisca</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

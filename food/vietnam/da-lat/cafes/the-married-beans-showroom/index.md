@@ -5,6 +5,12 @@ review: true
 title: The Married Beans - Showroom
 subtitle: Đà Lạt · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/the-married-beans-showroom-1.jpg" alt="The Married Beans - Showroom">
+  <figcaption>The Married Beans - Showroom</figcaption>
+</figure>
+
 One of Dalat's best options for coffee lovers. They don't really offer anything else here, but there's one nice sofa and excellent cappuccino for 40k a cup, and it's smack in the centre of town, which makes this an ideal place for a coffee break
 
 ## Ratings

@@ -5,6 +5,12 @@ review: true
 title: Woody Classic Bar
 subtitle: Đà Lạt · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/woody-classic-bar-1.jpg" alt="Woody Classic Bar">
+  <figcaption>Woody Classic Bar</figcaption>
+</figure>
+
 This is a nice boozer, dark and cozy. Mellow rock and pop tunes, mostly from the 70s. Just very pleasant. The cocktails here are nice but very small. OK for the price, though, with most around 70-80k. Sadly there's no grub available, not even nibbles
 
 ## Ratings

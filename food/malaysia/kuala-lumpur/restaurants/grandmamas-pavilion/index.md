@@ -6,7 +6,28 @@ title: Grandmama's – Pavilion Kuala Lumpur
 subtitle: Bukit Bintang · Malay
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-1.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+
 Very good Malay food that genuinely tastes close to proper street versions, just served in the comfort of a polished air-conditioned shopping mall with comfortable seating. Naturally you pay more for that convenience.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-2.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-3.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-4.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
 
 ## Ratings
 

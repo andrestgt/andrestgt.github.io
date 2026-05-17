@@ -13,8 +13,6 @@ subtitle: island · Vietnamese
 
 We stayed just next door so this became our go to restaurant during our time in Con Dao. But it's well worth a visit no matter where you're staying as Beach House is certainly one of the best restaurants on the island. It's run by a young couple and has a surprisingly international menu of home-cooked, mostly healthy dishes from squid tagliatelle to a delicious vegan naan sandwich. Prices are really good and there's cold beer for 20k.
 
-Highly recommended
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-2.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
@@ -26,38 +24,12 @@ Highly recommended
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-4.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
   <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-5.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
-</figure>
-</div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-6.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-7.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-8.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-9.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
-</figure>
-</div>
+Highly recommended
 
 ## Ratings
 

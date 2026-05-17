@@ -6,8 +6,17 @@ title: Zodiaco
 subtitle: Barcelona · Bar
 ---
 
+<figure>
+  <img src="/photos/spain/barcelona/zodiaco-1.jpg" alt="Zodiaco">
+  <figcaption>Zodiaco</figcaption>
+</figure>
 
 As long as you don't expect gourmet food or some deeply authentic local experience, Zodiaco delivers exactly what it promises: cheap beer, cheap pinchos, generous portions, and a cheerful atmosphere.
+
+<figure>
+  <img src="/photos/spain/barcelona/zodiaco-2.jpg" alt="Zodiaco">
+  <figcaption>Zodiaco</figcaption>
+</figure>
 
 ## Ratings
 

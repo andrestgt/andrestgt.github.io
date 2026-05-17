@@ -6,7 +6,28 @@ title: Bougainvillea Spanish Restaurant
 subtitle: Alona Beach, Panglao · Spanish
 ---
 
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-1.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+
 Outside of fancy tapas bars in the big cities you will not find better Spanish food in Asia. Full stop. The real deal, cooked by a talented Spanish chef. This place is worth travelling to Panglao for. In addition to the wonderful food, Bougainvillea has a lovely secluded setting, affordable wines and fair prices in general. 2000 Php goes a long way here. Sardinas are a must, but we tried pretty much the entire menu on repeat visits, and it's all good.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-2.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-3.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-4.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

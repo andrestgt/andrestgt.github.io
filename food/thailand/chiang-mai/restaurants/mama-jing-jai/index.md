@@ -6,7 +6,23 @@ title: Mama at Jing Jai Village
 subtitle: Chang Phueak · Thai, Noodles
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/mama-jing-jai-1.jpg" alt="Mama at Jing Jai Village">
+  <figcaption>Mama at Jing Jai Village</figcaption>
+</figure>
+
 Top notch chicken noodle soup. A little pricier maybe than your average eatery in Chiang Mai (60–80 Bt), but you get a clean, modern environment in the attractive Jing Jai Village. Well worth it.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/mama-jing-jai-2.jpg" alt="Mama at Jing Jai Village">
+  <figcaption>Mama at Jing Jai Village</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/mama-jing-jai-3.jpg" alt="Mama at Jing Jai Village">
+  <figcaption>Mama at Jing Jai Village</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

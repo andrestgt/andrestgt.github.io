@@ -24,27 +24,10 @@ An upmarket establishment with outstanding cooking at genuinely fair prices. I d
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/kirkel/ressmanns-residence-4.jpg" alt="Ressmanns Residence">
   <figcaption>Ressmanns Residence</figcaption>
 </figure>
-<figure>
-  <img src="/photos/germany/kirkel/ressmanns-residence-5.jpg" alt="Ressmanns Residence">
-  <figcaption>Ressmanns Residence</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/germany/kirkel/ressmanns-residence-6.jpg" alt="Ressmanns Residence">
-  <figcaption>Ressmanns Residence</figcaption>
-</figure>
-<figure>
-  <img src="/photos/germany/kirkel/ressmanns-residence-7.jpg" alt="Ressmanns Residence">
-  <figcaption>Ressmanns Residence</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

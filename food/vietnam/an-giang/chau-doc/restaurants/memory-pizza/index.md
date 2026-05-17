@@ -5,6 +5,12 @@ review: true
 title: Memory Pizza
 subtitle: Châu Đốc · Italian · Pizza
 ---
+
+<figure>
+  <img src="/photos/vietnam/an-giang/memory-pizza-1.jpg" alt="Memory Pizza">
+  <figcaption>Memory Pizza</figcaption>
+</figure>
+
 This comfy western style café is an air con oasis in Chau Doc's busy centre. Prices are reasonable, I just wished the cappuccino was good, sadly it's not, so better to stick with Vietnamese coffee
 
 ## Ratings

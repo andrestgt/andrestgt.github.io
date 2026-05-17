@@ -6,7 +6,17 @@ title: Del Mar Pastry & Coffee
 subtitle: Ekareach St, Sihanoukville · Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/sihanoukville/del-mar-coffee-1.jpg" alt="Del Mar Pastry & Coffee">
+  <figcaption>Del Mar Pastry & Coffee</figcaption>
+</figure>
+
 Out of the many modern air-conditioned cafés that have opened in Sihanoukville in recent years, Del Mar is probably my favourite overall. It is slightly more polished and expensive than most competitors, but the cappuccino is also one of the best in town, even at around 2.50$.
+
+<figure>
+  <img src="/photos/cambodia/sihanoukville/del-mar-coffee-2.jpg" alt="Del Mar Pastry & Coffee">
+  <figcaption>Del Mar Pastry & Coffee</figcaption>
+</figure>
 
 ## Ratings
 

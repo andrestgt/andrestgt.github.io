@@ -6,7 +6,28 @@ title: KRI Catering
 subtitle: Silliman Ave, Dumaguete · International
 ---
 
+<figure>
+  <img src="/photos/philippines/dumaguete/kri-catering-1.jpg" alt="KRI Catering">
+  <figcaption>KRI Catering</figcaption>
+</figure>
+
 KRI is Dumaguete's most ambitious restaurant. With an open kitchen and a stylish dining room they're trying their hands at creative international cooking and some Filipino dishes with a twist. Not everything works and the service is friendly but often a little incompetent. But for the most part, the food served here is some of the best in town.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/dumaguete/kri-catering-2.jpg" alt="KRI Catering">
+  <figcaption>KRI Catering</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/kri-catering-3.jpg" alt="KRI Catering">
+  <figcaption>KRI Catering</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/dumaguete/kri-catering-4.jpg" alt="KRI Catering">
+  <figcaption>KRI Catering</figcaption>
+</figure>
 
 ## Ratings
 

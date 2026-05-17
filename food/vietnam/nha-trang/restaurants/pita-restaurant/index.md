@@ -5,7 +5,24 @@ review: true
 title: Pita restaurant
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/pita-restaurant-1.jpg" alt="Pita restaurant">
+  <figcaption>Pita restaurant</figcaption>
+</figure>
+
 Gotta love this small place smack in the middle of Nha Trang's tourist area. Expats swear by the huge portions, the tasty dishes and extremely reasonable prices and seeing that it's always packed, Pita simply does things right. The beer is cold and cheap, their house wine an excellent, affordable choice. And the food is simple Greek, but simply tasty. The platter for two is humongous, easily fills four. Personally I love their grilled feta most, and the tzatziki is gorgeous too. Best visit outside main eating times, or you'll find yourself waiting for a table.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/pita-restaurant-2.jpg" alt="Pita restaurant">
+  <figcaption>Pita restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/pita-restaurant-3.jpg" alt="Pita restaurant">
+  <figcaption>Pita restaurant</figcaption>
+</figure>
+</div>
 
 Ironically Pita was started by the same Greek people who later set up Mix, but then changed hands and is now Russian run.
 

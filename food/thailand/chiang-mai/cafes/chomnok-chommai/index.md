@@ -6,7 +6,28 @@ title: Chomnok Chommai
 subtitle: Mae On · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/chomnok-chommai-1.jpg" alt="Chomnok Chommai">
+  <figcaption>Chomnok Chommai</figcaption>
+</figure>
+
 Has the best view of the village, nice veranda, good coffees at 50 Bt, decent cakes, too. Busy, but friendly. Recommended.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/chomnok-chommai-2.jpg" alt="Chomnok Chommai">
+  <figcaption>Chomnok Chommai</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/chomnok-chommai-3.jpg" alt="Chomnok Chommai">
+  <figcaption>Chomnok Chommai</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/chomnok-chommai-4.jpg" alt="Chomnok Chommai">
+  <figcaption>Chomnok Chommai</figcaption>
+</figure>
 
 ## Ratings
 

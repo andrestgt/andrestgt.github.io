@@ -24,16 +24,10 @@ The Cholon Khang Dim Sum Bar is a good choice for a filling dumpling feast if yo
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/khang-dim-sum-bar-restaurant-4.jpg" alt="Khang Dim Sum Bar Restaurant">
   <figcaption>Khang Dim Sum Bar Restaurant</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/khang-dim-sum-bar-restaurant-5.jpg" alt="Khang Dim Sum Bar Restaurant">
-  <figcaption>Khang Dim Sum Bar Restaurant</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

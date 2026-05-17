@@ -24,19 +24,8 @@ Accidentally finding a place like this is one of the reasons why travelling arou
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/cam-ranh/quan-nhau-thanh-nguyet-4.jpg" alt="Quán Nhậu Thanh Nguyệt">
-  <figcaption>Quán Nhậu Thanh Nguyệt</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/cam-ranh/quan-nhau-thanh-nguyet-5.jpg" alt="Quán Nhậu Thanh Nguyệt">
-  <figcaption>Quán Nhậu Thanh Nguyệt</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/vietnam/cam-ranh/quan-nhau-thanh-nguyet-6.jpg" alt="Quán Nhậu Thanh Nguyệt">
   <figcaption>Quán Nhậu Thanh Nguyệt</figcaption>
 </figure>
 

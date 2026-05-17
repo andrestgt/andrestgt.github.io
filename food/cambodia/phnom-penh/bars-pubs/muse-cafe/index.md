@@ -6,6 +6,11 @@ title: Muse Café & Lounge
 subtitle: Street 178, Phnom Penh · Bar
 ---
 
+<figure>
+  <img src="/photos/cambodia/phnom-penh/muse-cafe-1.jpg" alt="Muse Café & Lounge">
+  <figcaption>Muse Café & Lounge</figcaption>
+</figure>
+
 Lovely lounge bar in a great location. Service with a smile and seriously good cocktails. Fair prices and happy hours.
 
 ## Ratings

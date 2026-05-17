@@ -6,7 +6,23 @@ title: Warung Mendez
 subtitle: Penestanan · Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/bali/warung-mendez-1.jpg" alt="Warung Mendez">
+  <figcaption>Warung Mendez</figcaption>
+</figure>
+
 Very good choice in Penestanan, especially for their gorgeous BBQ goat leg with yellow rice. 120K, enough for two. Net prices, which I support.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/bali/warung-mendez-2.jpg" alt="Warung Mendez">
+  <figcaption>Warung Mendez</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/bali/warung-mendez-3.jpg" alt="Warung Mendez">
+  <figcaption>Warung Mendez</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

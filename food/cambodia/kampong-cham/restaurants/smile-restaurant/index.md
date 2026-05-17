@@ -6,7 +6,23 @@ title: Smile Restaurant
 subtitle: Riverside, Kampong Cham · Khmer
 ---
 
+<figure>
+  <img src="/photos/cambodia/kampong-cham/smile-restaurant-1.jpg" alt="Smile Restaurant">
+  <figcaption>Smile Restaurant</figcaption>
+</figure>
+
 Touristy riverside restaurant, but the prices are fair and the food is perfectly decent. The beef salad is especially good. Better skip the cappuccino, though.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/kampong-cham/smile-restaurant-2.jpg" alt="Smile Restaurant">
+  <figcaption>Smile Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/kampong-cham/smile-restaurant-3.jpg" alt="Smile Restaurant">
+  <figcaption>Smile Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

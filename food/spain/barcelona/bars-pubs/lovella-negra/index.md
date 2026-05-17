@@ -6,6 +6,11 @@ title: L'Ovella Negra – Ramblas
 subtitle: Ciutat Vella, Barcelona · Bar
 ---
 
+<figure>
+  <img src="/photos/spain/barcelona/lovella-negra-1.jpg" alt="L'Ovella Negra – Ramblas">
+  <figcaption>L'Ovella Negra – Ramblas</figcaption>
+</figure>
+
 One of the cheapest places to drink in Barcelona's Old Town. The interior feels more like a beer hall than a bar, with lots of space and a lively atmosphere.
 
 ## Ratings

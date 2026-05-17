@@ -6,6 +6,11 @@ title: Aroma Chef Restaurant and Bar
 subtitle: Street 172, Phnom Penh · Bar, Khmer
 ---
 
+<figure>
+  <img src="/photos/cambodia/phnom-penh/aroma-chef-1.jpg" alt="Aroma Chef Restaurant and Bar">
+  <figcaption>Aroma Chef Restaurant and Bar</figcaption>
+</figure>
+
 Aroma Chef is one of many similar-looking bars and restaurants along Street 172, but it's worth stopping here for the excellent 1.50$ passion fruit mojitos, which are served all day. The Khmer food is decent as well and very reasonably priced.
 
 ## Ratings

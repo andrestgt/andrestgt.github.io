@@ -6,7 +6,28 @@ title: Digby's
 subtitle: Preah Trasak Paem St, Phnom Penh · Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/phnom-penh/digbys-1.jpg" alt="Digby's">
+  <figcaption>Digby's</figcaption>
+</figure>
+
 The delicatessen section at Digby's looks fantastic but is ultimately more style than substance. The café itself, however, is genuinely excellent. Good cappuccinos are still surprisingly rare in Phnom Penh, and they serve some of the best around here alongside very solid international bistro food.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/phnom-penh/digbys-2.jpg" alt="Digby's">
+  <figcaption>Digby's</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/phnom-penh/digbys-3.jpg" alt="Digby's">
+  <figcaption>Digby's</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/phnom-penh/digbys-4.jpg" alt="Digby's">
+  <figcaption>Digby's</figcaption>
+</figure>
 
 ## Ratings
 

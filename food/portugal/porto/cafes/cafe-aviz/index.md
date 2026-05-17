@@ -6,7 +6,17 @@ title: Café Aviz
 subtitle: Porto · Café
 ---
 
+<figure>
+  <img src="/photos/portugal/porto/cafe-aviz-1.jpg" alt="Café Aviz">
+  <figcaption>Café Aviz</figcaption>
+</figure>
+
 Very friendly traditional café with genuinely good service. The famous francesinha sandwich was only so-so, although I'm not entirely convinced I like the dish in general.
+
+<figure>
+  <img src="/photos/portugal/porto/cafe-aviz-2.jpg" alt="Café Aviz">
+  <figcaption>Café Aviz</figcaption>
+</figure>
 
 ## Ratings
 

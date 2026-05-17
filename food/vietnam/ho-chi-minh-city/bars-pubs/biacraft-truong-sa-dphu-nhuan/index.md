@@ -5,7 +5,29 @@ review: true
 title: BiaCraft Truong Sa | D.Phu Nhuan
 subtitle: Phú Nhuận · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-1.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
+  <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
+</figure>
+
 This is probably the biggest BiaCraft place in town, and owing to the location it's more local than the D1 and D2 branches. But as big as it is, it still gets packed in the evening. I'm a big fan of their beers and the food here and always try to visit one of their branches whenever I'm in Saigon
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-2.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
+  <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-3.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
+  <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-4.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
+  <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
+</figure>
 
 ## Ratings
 

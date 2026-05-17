@@ -6,8 +6,17 @@ title: Camelot Cafe
 subtitle: Kraków · Café
 ---
 
+<figure>
+  <img src="/photos/poland/krakow/camelot-cafe-1.jpg" alt="Camelot Cafe">
+  <figcaption>Camelot Cafe</figcaption>
+</figure>
 
 Camelot is undeniably a beautiful café, and the décor is the main reason to come. The service is pretty bad, and the prices feel high for Kraków. The drinks are creative, though, so it can still be worth a one-off stop — preferably when you're not in a hurry.
+
+<figure>
+  <img src="/photos/poland/krakow/camelot-cafe-2.jpg" alt="Camelot Cafe">
+  <figcaption>Camelot Cafe</figcaption>
+</figure>
 
 ## Ratings
 

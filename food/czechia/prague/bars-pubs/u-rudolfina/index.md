@@ -6,6 +6,10 @@ title: U Rudolfina
 subtitle: Prague · Pub
 ---
 
+<figure>
+  <img src="/photos/czechia/prague/u-rudolfina-1.jpg" alt="U Rudolfina">
+  <figcaption>U Rudolfina</figcaption>
+</figure>
 
 Despite the location, this pivnice feels a little more authentic than many other places in Prague's Old Town. Prices are not cheap, but still reasonable, and there are even a few locals drinking here. Only Pilsner Urquell is on tap, for 45 Kč.
 

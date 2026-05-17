@@ -6,6 +6,11 @@ title: The Little Molmol Pizza
 subtitle: Larena, Siquijor · Italian
 ---
 
+<figure>
+  <img src="/photos/philippines/siquijor/little-molmol-pizza-1.jpg" alt="The Little Molmol Pizza">
+  <figcaption>The Little Molmol Pizza</figcaption>
+</figure>
+
 Finally a place on Siquijor serving proper pizza. Good ingredients, fair prices and a welcome sign that the island's food scene has caught up with modern expectations.
 
 ## Ratings

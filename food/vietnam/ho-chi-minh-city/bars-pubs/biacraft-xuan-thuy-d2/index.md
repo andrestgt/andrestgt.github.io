@@ -5,6 +5,12 @@ review: true
 title: BiaCraft Xuan Thuy | D.2
 subtitle: Thủ Đức · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-xuan-thuy-d2-1.jpg" alt="BiaCraft Xuan Thuy | D.2">
+  <figcaption>BiaCraft Xuan Thuy | D.2</figcaption>
+</figure>
+
 One of the smaller BiaCraft places in town, they only seem to offer a slightly downsized menu compared to the bigger branches, but there's enough food and beer available to make everyone happy, and it's the best address for a quiet drink compared to the raucous beer club atmosphere of the Truong Sa branch. It's more expat oriented as well.
 
 ## Ratings

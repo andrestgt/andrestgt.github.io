@@ -5,7 +5,18 @@ review: true
 title: Olivia Restaurant
 subtitle: Nha Trang · Italian
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/olivia-restaurant-1.jpg" alt="Olivia Restaurant">
+  <figcaption>Olivia Restaurant</figcaption>
+</figure>
+
 Olivia has been around and busy for many years which means they must be doing something right.
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/olivia-restaurant-2.jpg" alt="Olivia Restaurant">
+  <figcaption>Olivia Restaurant</figcaption>
+</figure>
 
 It is indeed a charming, rustic restaurant, certainly one of the more attractive places to eat in Nha Trang's tourist area.
 

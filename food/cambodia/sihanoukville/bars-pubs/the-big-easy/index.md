@@ -6,6 +6,11 @@ title: The Big Easy
 subtitle: Mittapheap St, Sihanoukville · Bar
 ---
 
+<figure>
+  <img src="/photos/cambodia/sihanoukville/the-big-easy-1.jpg" alt="The Big Easy">
+  <figcaption>The Big Easy</figcaption>
+</figure>
+
 The Big Easy follows more or less the same formula as Monkey Republic next door, but somehow seems considerably more popular these days. Cheap drinks, long happy hours, and good music still work perfectly well in Sihanoukville.
 
 ## Ratings

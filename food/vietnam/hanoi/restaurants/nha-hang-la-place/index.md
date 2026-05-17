@@ -5,7 +5,29 @@ review: true
 title: Nhà hàng La Place
 subtitle: Hoàn Kiếm · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/nha-hang-la-place-1.jpg" alt="Nhà hàng La Place">
+  <figcaption>Nhà hàng La Place</figcaption>
+</figure>
+
 Perfect location on Cathedral square. Very cute little bistro with good Vietnamese and Western food at affordable prices. Drinks are a bit pricy. Still, I've been coming here for many years and I'd recommend this place wholeheartedly
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/hanoi/nha-hang-la-place-2.jpg" alt="Nhà hàng La Place">
+  <figcaption>Nhà hàng La Place</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/nha-hang-la-place-3.jpg" alt="Nhà hàng La Place">
+  <figcaption>Nhà hàng La Place</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/hanoi/nha-hang-la-place-4.jpg" alt="Nhà hàng La Place">
+  <figcaption>Nhà hàng La Place</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,7 +6,17 @@ title: Grand Cafe
 subtitle: Angeles, Pampanga · Café
 ---
 
+<figure>
+  <img src="/photos/philippines/angeles/grand-cafe-1.jpg" alt="Grand Cafe">
+  <figcaption>Grand Cafe</figcaption>
+</figure>
+
 Surprisingly stylish café by Fields Avenue standards, with a touch of class and quite decent bistro food. Unfortunately the coffee lets the place down badly.
+
+<figure>
+  <img src="/photos/philippines/angeles/grand-cafe-2.jpg" alt="Grand Cafe">
+  <figcaption>Grand Cafe</figcaption>
+</figure>
 
 ## Ratings
 

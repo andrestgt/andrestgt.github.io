@@ -6,6 +6,10 @@ title: Gossip Coffee Place
 subtitle: Budapest · Café
 ---
 
+<figure>
+  <img src="/photos/hungary/budapest/gossip-coffee-place-1.jpg" alt="Gossip Coffee Place">
+  <figcaption>Gossip Coffee Place</figcaption>
+</figure>
 
 A very nice-looking café in an expensive neighbourhood, but unfortunately the coffee does not justify the prices. A cappuccino costs 720 Ft, which is a lot for Budapest, and despite using Illy beans it arrives too hot and more bitter than it should be. Not recommended, I'm afraid.
 

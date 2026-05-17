@@ -6,7 +6,17 @@ title: Cafe del Sol
 subtitle: Station 2, Boracay · Café
 ---
 
+<figure>
+  <img src="/photos/philippines/boracay/cafe-del-sol-1.jpg" alt="Cafe del Sol">
+  <figcaption>Cafe del Sol</figcaption>
+</figure>
+
 Cafe del Sol serves good coffee, although the espresso is slightly on the weak side, so it's worth ordering an extra shot. The mango cheesecake is genuinely excellent and the panini are very good as well.
+
+<figure>
+  <img src="/photos/philippines/boracay/cafe-del-sol-2.jpg" alt="Cafe del Sol">
+  <figcaption>Cafe del Sol</figcaption>
+</figure>
 
 ## Ratings
 

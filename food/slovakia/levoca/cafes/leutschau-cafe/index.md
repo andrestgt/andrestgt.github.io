@@ -6,6 +6,10 @@ title: Leutschau Café
 subtitle: Levoča · Café
 ---
 
+<figure>
+  <img src="/photos/slovakia/levoca/leutschau-cafe-1.jpg" alt="Leutschau Café">
+  <figcaption>Leutschau Café</figcaption>
+</figure>
 
 Beautiful café in a prime location with excellent espresso macchiato for 1,50€, draft beer, and generally very low prices considering how nice the place is.
 

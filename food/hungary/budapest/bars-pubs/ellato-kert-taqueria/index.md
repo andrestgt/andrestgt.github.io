@@ -6,8 +6,17 @@ title: Ellátó Kert & Taqueria
 subtitle: Budapest · Beer Garden
 ---
 
+<figure>
+  <img src="/photos/hungary/budapest/ellato-kert-taqueria-1.jpg" alt="Ellátó Kert & Taqueria">
+  <figcaption>Ellátó Kert & Taqueria</figcaption>
+</figure>
 
 Nicely decorated hipster beer garden with reasonable prices. The place has a Mexican theme, although we didn't try the food.
+
+<figure>
+  <img src="/photos/hungary/budapest/ellato-kert-taqueria-2.jpg" alt="Ellátó Kert & Taqueria">
+  <figcaption>Ellátó Kert & Taqueria</figcaption>
+</figure>
 
 ## Ratings
 

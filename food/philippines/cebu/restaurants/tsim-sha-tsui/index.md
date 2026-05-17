@@ -6,7 +6,17 @@ title: Tsim Sha Tsui Dimsum & Tea Bar
 subtitle: Ayala Center, Cebu City · Chinese
 ---
 
+<figure>
+  <img src="/photos/philippines/cebu/tsim-sha-tsui-1.jpg" alt="Tsim Sha Tsui Dimsum & Tea Bar">
+  <figcaption>Tsim Sha Tsui Dimsum & Tea Bar</figcaption>
+</figure>
+
 Some of the dim sum here were slightly oversteamed and fell apart too easily, but overall the quality is good and the prices are very reasonable. A perfectly fine place for a quick and inexpensive dim sum meal.
+
+<figure>
+  <img src="/photos/philippines/cebu/tsim-sha-tsui-2.jpg" alt="Tsim Sha Tsui Dimsum & Tea Bar">
+  <figcaption>Tsim Sha Tsui Dimsum & Tea Bar</figcaption>
+</figure>
 
 ## Ratings
 

@@ -24,16 +24,10 @@ An Italian restaurant run by Russians. But before you run away screaming, keep r
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/marinelli-4.jpg" alt="Marinelli">
   <figcaption>Marinelli</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/marinelli-5.jpg" alt="Marinelli">
-  <figcaption>Marinelli</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

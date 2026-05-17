@@ -6,8 +6,17 @@ title: Penzion U Candru
 subtitle: Vyšší Brod · Restaurant
 ---
 
+<figure>
+  <img src="/photos/czechia/vyssi-brod/penzion-u-candru-1.jpg" alt="Penzion U Candru">
+  <figcaption>Penzion U Candru</figcaption>
+</figure>
 
 At first glance this looks like a fairly generic Czech restaurant aimed mostly at Austrian border trippers. In reality, the food is actually very decent, portions are generous, and prices are reasonable.
+
+<figure>
+  <img src="/photos/czechia/vyssi-brod/penzion-u-candru-2.jpg" alt="Penzion U Candru">
+  <figcaption>Penzion U Candru</figcaption>
+</figure>
 
 ## Ratings
 

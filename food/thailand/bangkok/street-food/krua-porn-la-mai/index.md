@@ -6,7 +6,23 @@ title: Krua Porn La Mai
 subtitle: Samphanthawong · Street Food, Seafood
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/krua-porn-la-mai-1.jpg" alt="Krua Porn La Mai">
+  <figcaption>Krua Porn La Mai</figcaption>
+</figure>
+
 Very good street food. Yes, it's popular, and yes, there's probably a queue and possibly some YouTubers filming but the food is spot on. Not too many dishes on the menu but still varied enough to try different things. Seafood is fresh and portions are good. 500 Baht will easily feed a table of four. Most dishes come out on a hot plate. They make a very nice Tom Yum soup, too.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/krua-porn-la-mai-2.jpg" alt="Krua Porn La Mai">
+  <figcaption>Krua Porn La Mai</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/krua-porn-la-mai-3.jpg" alt="Krua Porn La Mai">
+  <figcaption>Krua Porn La Mai</figcaption>
+</figure>
+</div>
 
 Edited update: on my second visit the food was still good, but the seafood wasn't fresh and the service was a disaster, so I'm deducting one star from my initial 5-star rating.
 

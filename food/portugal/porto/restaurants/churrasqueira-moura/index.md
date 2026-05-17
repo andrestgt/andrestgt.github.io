@@ -6,8 +6,17 @@ title: Churrasqueira Moura
 subtitle: Porto · Restaurant
 ---
 
+<figure>
+  <img src="/photos/portugal/porto/churrasqueira-moura-1.jpg" alt="Churrasqueira Moura">
+  <figcaption>Churrasqueira Moura</figcaption>
+</figure>
 
 This cafeteria-style local restaurant is not going to win awards for atmosphere, but the grilled meat with their homemade spicy sauce is genuinely very good. Prices are low, and the cheap house wine helps as well.
+
+<figure>
+  <img src="/photos/portugal/porto/churrasqueira-moura-2.jpg" alt="Churrasqueira Moura">
+  <figcaption>Churrasqueira Moura</figcaption>
+</figure>
 
 ## Ratings
 

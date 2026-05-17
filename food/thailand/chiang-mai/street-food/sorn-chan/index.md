@@ -24,16 +24,10 @@ Basic local eatery in a prime location, just in front of Thapae Gate. They have 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/sorn-chan-4.jpg" alt="Sorn Chan">
   <figcaption>Sorn Chan</figcaption>
 </figure>
-<figure>
-  <img src="/photos/thailand/chiang-mai/sorn-chan-5.jpg" alt="Sorn Chan">
-  <figcaption>Sorn Chan</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

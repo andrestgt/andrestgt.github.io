@@ -6,6 +6,10 @@ title: Eszeweria
 subtitle: Kraków · Pub
 ---
 
+<figure>
+  <img src="/photos/poland/krakow/eszeweria-1.jpg" alt="Eszeweria">
+  <figcaption>Eszeweria</figcaption>
+</figure>
 
 Dark, cavernous, and pleasantly moody — a proper little pub with a good atmosphere. Drinks are reasonably priced. Service can be painfully slow when it's busy, so it works best if you've got time to spare.
 

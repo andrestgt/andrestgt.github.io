@@ -6,7 +6,23 @@ title: Tha Chang Hill
 subtitle: Hang Dong · Thai, International
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/tha-chang-hill-1.jpg" alt="Tha Chang Hill">
+  <figcaption>Tha Chang Hill</figcaption>
+</figure>
+
 Well prepared cappuccino and very good Thai bistro food on a pretty veranda above the valley. Prices slightly above average, but reasonable. Very good pit stop.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/tha-chang-hill-2.jpg" alt="Tha Chang Hill">
+  <figcaption>Tha Chang Hill</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/tha-chang-hill-3.jpg" alt="Tha Chang Hill">
+  <figcaption>Tha Chang Hill</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -6,6 +6,10 @@ title: Pijalnia Wódki i Piwa
 subtitle: Kraków · Bar
 ---
 
+<figure>
+  <img src="/photos/poland/krakow/pijalnia-wodki-i-piwa-1.jpg" alt="Pijalnia Wódki i Piwa">
+  <figcaption>Pijalnia Wódki i Piwa</figcaption>
+</figure>
 
 Exactly what the name implies: vodka and beer. It's cheap and cheerful and does the job. Probably best not to make it your first stop of the night, unless you enjoy seeing where poor decisions begin.
 

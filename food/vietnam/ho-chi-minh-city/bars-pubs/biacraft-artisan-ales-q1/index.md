@@ -5,6 +5,12 @@ review: true
 title: BiaCraft Artisan Ales | Q.1
 subtitle: Bến Nghé · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-artisan-ales-q1-1.jpg" alt="BiaCraft Artisan Ales | Q.1">
+  <figcaption>BiaCraft Artisan Ales | Q.1</figcaption>
+</figure>
+
 Big fan of all BiaCraft branches in Saigon. They're all very different in character even though the menu is almost identical. You'll get a mind boggling selection of mostly good beer and tasty food. Even if you drink lots of beers and eat oysters and carpaccio, you'll still come out for less than 1 mil per couple, which is reasonable for the quality
 
 ## Ratings

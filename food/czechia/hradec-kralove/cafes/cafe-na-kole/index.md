@@ -6,6 +6,10 @@ title: Café Na Kole
 subtitle: Hradec Králové · Café
 ---
 
+<figure>
+  <img src="/photos/czechia/hradec-kralove/cafe-na-kole-1.jpg" alt="Café Na Kole">
+  <figcaption>Café Na Kole</figcaption>
+</figure>
 
 Very friendly café with good cappuccino and a relaxed atmosphere.
 

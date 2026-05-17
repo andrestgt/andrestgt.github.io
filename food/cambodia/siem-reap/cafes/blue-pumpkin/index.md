@@ -6,6 +6,11 @@ title: Blue Pumpkin
 subtitle: Siem Reap · Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/siem-reap/blue-pumpkin-1.jpg" alt="Blue Pumpkin">
+  <figcaption>Blue Pumpkin</figcaption>
+</figure>
+
 At 3.50$ a cappuccino, you would expect at least reasonably good coffee, but Blue Pumpkin somehow manages to produce one of the blandest cups imaginable. The beans taste cheap and lifeless, which is disappointing given the prices and polished image.
 
 ## Ratings

@@ -6,7 +6,17 @@ title: Ninety Nine
 subtitle: Grand Indonesia · Bistro, Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/jakarta/ninety-nine-1.jpg" alt="Ninety Nine">
+  <figcaption>Ninety Nine</figcaption>
+</figure>
+
 Serves reliable Western and Indonesian bistro dishes in comfortable surroundings. Food prices are fair enough, although beverages are noticeably overpriced.
+
+<figure>
+  <img src="/photos/indonesia/java/jakarta/ninety-nine-2.jpg" alt="Ninety Nine">
+  <figcaption>Ninety Nine</figcaption>
+</figure>
 
 ## Ratings
 

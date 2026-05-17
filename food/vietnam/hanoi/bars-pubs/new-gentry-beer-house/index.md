@@ -5,6 +5,12 @@ review: true
 title: New Gentry Beer House
 subtitle: Hoàn Kiếm · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/new-gentry-beer-house-1.jpg" alt="New Gentry Beer House">
+  <figcaption>New Gentry Beer House</figcaption>
+</figure>
+
 Extensive beer selection at pretty standard Hanoi prices, most bottles between 70 and 90k, which is fair for an Old Town location. But New Gentry really needs better service and more tlc, especially when it comes to food. Sub standard pub grub is a big no no in this foodie town, they should know that.
 
 ## Ratings

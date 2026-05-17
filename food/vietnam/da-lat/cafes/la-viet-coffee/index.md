@@ -5,7 +5,18 @@ review: true
 title: La Viet Coffee
 subtitle: Đà Lạt · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/la-viet-coffee-1.jpg" alt="La Viet Coffee">
+  <figcaption>La Viet Coffee</figcaption>
+</figure>
+
 A coffee shop with the look and feel of a beer hall, a massive space with long wooden benches. It's all a bit strange. That said, however, they're very serious about coffee here, with a long menu including everything from classic lattes to cold brew coffee cocktails, all made from locally sourced beans.
+
+<figure>
+  <img src="/photos/vietnam/da-lat/la-viet-coffee-2.jpg" alt="La Viet Coffee">
+  <figcaption>La Viet Coffee</figcaption>
+</figure>
 
 Prices are immensely reasonable, with a well prepared cappuccino going for only 35k. The cold brew is exquisite, far from the boring cold coffee that goes by that name in lesser coffee shops. Worth the walk out here.
 

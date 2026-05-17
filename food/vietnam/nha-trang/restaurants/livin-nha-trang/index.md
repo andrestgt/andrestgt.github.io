@@ -24,16 +24,10 @@ I've given this place a few chances because I like the concept and I really want
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/livin-nha-trang-4.jpg" alt="LIVIN - Nha Trang">
   <figcaption>LIVIN - Nha Trang</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/livin-nha-trang-5.jpg" alt="LIVIN - Nha Trang">
-  <figcaption>LIVIN - Nha Trang</figcaption>
-</figure>
-</div>
 
 This was my review for the old Livin Collective and I must say that on my last few visits, since the place changed their name to Livin Barbecue the quality has gone up tremendously even though it still looks the same and the menu is not too different.
 

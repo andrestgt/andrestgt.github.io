@@ -13,8 +13,6 @@ subtitle: Nha Trang · Mexican
 
 It's really rare to find real Mexican flavours anywhere in South East Asia, even in the biggest cities. Most 'Mexican' restaurants are of the generic Tex-Mex burritos and nachos variety. So finding a place like Los Chilangos in Nha Trang is a pleasant surprise. Sure, they only sell tacos, but these are proper ones, on homemade tortillas with three kinds of salsa, all prepared by actual Mexicans. It's a bit hidden in a newly built residential area by the old airport, but well worth seeking out.
 
-Update: they now have a more extensive menu including burritos and rice meals which is great news
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-2.jpg" alt="Los Chilangos">
@@ -26,93 +24,12 @@ Update: they now have a more extensive menu including burritos and rice meals wh
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-4.jpg" alt="Los Chilangos">
   <figcaption>Los Chilangos</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-5.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-6.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-7.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-8.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-9.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-10.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-11.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-12.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-13.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-14.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-15.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-16.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-17.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-18.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/los-chilangos-19.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
-</figure>
-</div>
+Update: they now have a more extensive menu including burritos and rice meals which is great news
 
 ## Ratings
 

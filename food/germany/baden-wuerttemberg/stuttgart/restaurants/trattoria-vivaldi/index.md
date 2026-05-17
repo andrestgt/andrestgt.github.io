@@ -6,6 +6,10 @@ title: Trattoria Vivaldi
 subtitle: Stuttgart · Italian
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/trattoria-vivaldi-1.jpg" alt="Trattoria Vivaldi">
+  <figcaption>Trattoria Vivaldi</figcaption>
+</figure>
 
 Decent Italian food at affordable prices. The lunch specials are outstanding value, often under 7€. The place has survived in this location for a long time, so they must be doing something right
 

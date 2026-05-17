@@ -6,7 +6,17 @@ title: River Bistro Restaurant & Lounge
 subtitle: Riverside · International
 ---
 
+<figure>
+  <img src="/photos/cambodia/phnom-penh/river-bistro-1.jpg" alt="River Bistro Restaurant & Lounge">
+  <figcaption>River Bistro Restaurant & Lounge</figcaption>
+</figure>
+
 River Bistro somehow seems frozen in time, including the prices, which nowadays makes it surprisingly cheap for such a prime riverside location. The cocktails and food are nothing special, but they are perfectly acceptable for the money.
+
+<figure>
+  <img src="/photos/cambodia/phnom-penh/river-bistro-2.jpg" alt="River Bistro Restaurant & Lounge">
+  <figcaption>River Bistro Restaurant & Lounge</figcaption>
+</figure>
 
 ## Ratings
 

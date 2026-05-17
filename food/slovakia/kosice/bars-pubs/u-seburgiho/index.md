@@ -6,8 +6,28 @@ title: U Seburgiho
 subtitle: Košice · Pub
 ---
 
+<figure>
+  <img src="/photos/slovakia/kosice/u-seburgiho-1.jpg" alt="U Seburgiho">
+  <figcaption>U Seburgiho</figcaption>
+</figure>
 
 This place is quite a surprise once you make your way through the rather drab courtyard and up the stairs. Beer and food prices are good, although quite a few menu items weren't available when we visited. In the end we just had beers and a small duck pâté, which was excellent.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/slovakia/kosice/u-seburgiho-2.jpg" alt="U Seburgiho">
+  <figcaption>U Seburgiho</figcaption>
+</figure>
+<figure>
+  <img src="/photos/slovakia/kosice/u-seburgiho-3.jpg" alt="U Seburgiho">
+  <figcaption>U Seburgiho</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/slovakia/kosice/u-seburgiho-4.jpg" alt="U Seburgiho">
+  <figcaption>U Seburgiho</figcaption>
+</figure>
 
 ## Ratings
 

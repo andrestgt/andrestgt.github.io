@@ -5,6 +5,12 @@ review: true
 title: Ngo Ri
 subtitle: Ho Chi Minh City · Thai
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/ngo-ri-1.jpg" alt="Ngo Ri">
+  <figcaption>Ngo Ri</figcaption>
+</figure>
+
 This is real Thai food (albeit a little spiced down), and they have a great menu with all the favourites. Prices between 80-150k which is good value for size and quality. Inexpensive, but drinkable Argentinian house wine. The red duck curry is delicious
 
 ## Ratings

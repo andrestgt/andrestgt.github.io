@@ -6,7 +6,17 @@ title: Wine I Love You
 subtitle: Watthana · Wine Bar, International
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/wine-i-love-you-1.jpg" alt="Wine I Love You">
+  <figcaption>Wine I Love You</figcaption>
+</figure>
+
 The food here is fairly generic Bangkok bistro fare, although by global standards it would still count as very good. The wine list is reasonably priced, with some bottles under 800 Bt, and the Thai dishes remain properly spicy.
+
+<figure>
+  <img src="/photos/thailand/bangkok/wine-i-love-you-2.jpg" alt="Wine I Love You">
+  <figcaption>Wine I Love You</figcaption>
+</figure>
 
 ## Ratings
 

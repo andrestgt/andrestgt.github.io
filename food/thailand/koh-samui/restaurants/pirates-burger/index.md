@@ -6,6 +6,11 @@ title: The Pirates Burger & More
 subtitle: Mae Nam · International, Thai
 ---
 
+<figure>
+  <img src="/photos/thailand/koh-samui/pirates-burger-1.jpg" alt="The Pirates Burger & More">
+  <figcaption>The Pirates Burger & More</figcaption>
+</figure>
+
 Welcoming little tourist/expat restaurant with burgers and Thai food. I tried the panang curry which was nice albeit a bit expensive considering there were only a few small pieces of beef inside. Very friendly place though, and the burgers looked good too.
 
 ## Ratings

@@ -6,8 +6,29 @@ title: Sushi Den @ CentralWorld
 subtitle: Pathum Wan · Japanese, Sushi
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-ctw-1.jpg" alt="Sushi Den @ CentralWorld">
+  <figcaption>Sushi Den @ CentralWorld</figcaption>
+</figure>
+
 The sashimi here is fresh and reasonably priced, although some of the cooked dishes are less convincing. The salmon head was very good, the unagi roll acceptable, while the chicken balls unfortunately still contained bits of bone.
 ## Ratings
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-ctw-2.jpg" alt="Sushi Den @ CentralWorld">
+  <figcaption>Sushi Den @ CentralWorld</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-ctw-3.jpg" alt="Sushi Den @ CentralWorld">
+  <figcaption>Sushi Den @ CentralWorld</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-ctw-4.jpg" alt="Sushi Den @ CentralWorld">
+  <figcaption>Sushi Den @ CentralWorld</figcaption>
+</figure>
 
 | Category        | Score  |
 | ---             | ---    |

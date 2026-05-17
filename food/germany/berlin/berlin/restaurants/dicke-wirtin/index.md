@@ -6,6 +6,10 @@ title: Dicke Wirtin
 subtitle: Charlottenburg · Traditional Berlin
 ---
 
+<figure>
+  <img src="/photos/germany/berlin/dicke-wirtin-1.jpg" alt="Dicke Wirtin">
+  <figcaption>Dicke Wirtin</figcaption>
+</figure>
 
 Traditional Berlin food in a lively, atmospheric setting. It's touristy and fairly expensive, with most mains well above 10€, but portions are massive. The veal liver is a good choice.
 

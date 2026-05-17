@@ -24,16 +24,10 @@ Located in Saigon's most upscale area, this sushi spot comes with a hefty price 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sushi-hokkaido-sachi-4.jpg" alt="Sushi Hokkaido Sachi">
   <figcaption>Sushi Hokkaido Sachi</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/sushi-hokkaido-sachi-5.jpg" alt="Sushi Hokkaido Sachi">
-  <figcaption>Sushi Hokkaido Sachi</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

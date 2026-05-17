@@ -13,14 +13,6 @@ subtitle: Nha Trang · Vietnamese
 
 This is best place with a beachfront location in Nha Trang. Sailing Club is fancier, but also a lot more expensive, Mangal is cheaper but also feels cheap, Story is mostly geared towards Russians. Louisiane has a very mixed international clientele with a good amount of Vietnamese locals and tourists. There's a pool, and a microbrewery on site which brews some fine beers that are sold at reasonable prices. Happy Hours from 11-13 and 4-6 pm are short but great value.
 
-There's a large variety of food which is generally good to excellent, but comes at a price, which is understandable at such a prime location; avoid the pizzas though, they're decidedly mediocre for the price.
-
-Update: there's now three happy hours from 11am to 12, 4pm to 5pm and 11pm to midnight.
-
-Story and Mangal haven't survived the pandemic, so this is hands down the best beach option in town.
-
-2025 update: no more afternoon happy hour, but longer noon time happy hour from 12-2 with small beers for 45k. They have a new menu with food prices that now rival Sailing Club, but the food quality is really not worth these prices. Fortunately, the beer prices remain reasonable.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-2.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
@@ -32,60 +24,18 @@ Story and Mangal haven't survived the pandemic, so this is hands down the best b
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-4.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
   <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-5.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-</div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-6.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-7.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-</div>
+There's a large variety of food which is generally good to excellent, but comes at a price, which is understandable at such a prime location; avoid the pizzas though, they're decidedly mediocre for the price.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-8.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-9.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-</div>
+Update: there's now three happy hours from 11am to 12, 4pm to 5pm and 11pm to midnight.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-10.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-11.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-</div>
+Story and Mangal haven't survived the pandemic, so this is hands down the best beach option in town.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-12.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-13.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
-</figure>
-</div>
+2025 update: no more afternoon happy hour, but longer noon time happy hour from 12-2 with small beers for 45k. They have a new menu with food prices that now rival Sailing Club, but the food quality is really not worth these prices. Fortunately, the beer prices remain reasonable.
 
 ## Ratings
 

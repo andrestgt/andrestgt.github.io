@@ -6,6 +6,11 @@ title: Choco L'Art Café
 subtitle: Street 119, Battambang · Bar, Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/battambang/choco-lart-cafe-1.jpg" alt="Choco L'Art Café">
+  <figcaption>Choco L'Art Café</figcaption>
+</figure>
+
 Nice comfy café bar with good music and a tasty hot chocolate. Their Passion mojito is delicious, they also do snakebite which is rare in these parts. Good prices.
 
 ## Ratings

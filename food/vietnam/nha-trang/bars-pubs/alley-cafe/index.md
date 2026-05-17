@@ -13,8 +13,6 @@ subtitle: Nha Trang · Bar & Pub
 
 Feels like Nha Trang in the 2000s, and that's a compliment. Simple old school outdoor café/bar, cheap, cold beers, inexpensive food. Relaxed place, popular with expats
 
-Feels like Nha Trang in the 2000s, and that is very much a compliment. Simple old-school outdoor café-bar with cheap cold beers, inexpensive food and the sort of relaxed atmosphere that has become increasingly rare. Popular with the expat crowd, for understandable reasons.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/alley-cafe-2.jpg" alt="Alley Café">
@@ -26,21 +24,12 @@ Feels like Nha Trang in the 2000s, and that is very much a compliment. Simple ol
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/alley-cafe-4.jpg" alt="Alley Café">
   <figcaption>Alley Café</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/alley-cafe-5.jpg" alt="Alley Café">
-  <figcaption>Alley Café</figcaption>
-</figure>
-</div>
 
-<figure>
-  <img src="/photos/vietnam/nha-trang/alley-cafe-6.jpg" alt="Alley Café">
-  <figcaption>Alley Café</figcaption>
-</figure>
+Feels like Nha Trang in the 2000s, and that is very much a compliment. Simple old-school outdoor café-bar with cheap cold beers, inexpensive food and the sort of relaxed atmosphere that has become increasingly rare. Popular with the expat crowd, for understandable reasons.
 
 ## Ratings
 

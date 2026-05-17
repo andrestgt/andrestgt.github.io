@@ -6,7 +6,28 @@ title: The Daily Fix Cafe
 subtitle: Jalan Hang Jebat, Melaka · Café
 ---
 
+<figure>
+  <img src="/photos/malaysia/melaka/the-daily-fix-cafe-1.jpg" alt="The Daily Fix Cafe">
+  <figcaption>The Daily Fix Cafe</figcaption>
+</figure>
+
 One of the nicest cafés in Melaka with genuinely very good coffee and easily the best flat white I found in town. Their durian pancakes are excellent as well and definitely worth trying alongside the coffee.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/melaka/the-daily-fix-cafe-2.jpg" alt="The Daily Fix Cafe">
+  <figcaption>The Daily Fix Cafe</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/melaka/the-daily-fix-cafe-3.jpg" alt="The Daily Fix Cafe">
+  <figcaption>The Daily Fix Cafe</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/melaka/the-daily-fix-cafe-4.jpg" alt="The Daily Fix Cafe">
+  <figcaption>The Daily Fix Cafe</figcaption>
+</figure>
 
 ## Ratings
 

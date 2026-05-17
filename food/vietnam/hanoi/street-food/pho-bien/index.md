@@ -5,6 +5,12 @@ review: true
 title: Phở Biên
 subtitle: Hai Bà Trưng · Vietnamese · Phở
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/pho-bien-1.jpg" alt="Phở Biên">
+  <figcaption>Phở Biên</figcaption>
+</figure>
+
 Very popular local hole in the wall place. Pho Sot Vang is 50k a bowl with lots of meat. Well worth it and a nice change from the regular pho bo, which they also serve, of course
 
 ## Ratings

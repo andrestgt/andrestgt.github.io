@@ -6,7 +6,28 @@ title: Khin's Shack
 subtitle: Otres Beach, Sihanoukville · Seafood
 ---
 
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-1.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+
 Khin's Shack feels like one of the last survivors of the old Otres Beach atmosphere before Sihanoukville changed beyond recognition. Cheap drinks, wicker chairs in the sand, fresh seafood barbecue, and genuinely relaxed old-school beach vibes. The large seafood BBQ platter at around 12$ is excellent value. Hopefully the place survives.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-2.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-3.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-4.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
 
 ## Ratings
 

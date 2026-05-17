@@ -24,38 +24,10 @@ Wonderful French restaurant overlooking the city. The 470k brunch is fantastic v
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/la-petite-maison-de-song-cai-4.jpg" alt="La Petite Maison de Song Cai">
   <figcaption>La Petite Maison de Song Cai</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/la-petite-maison-de-song-cai-5.jpg" alt="La Petite Maison de Song Cai">
-  <figcaption>La Petite Maison de Song Cai</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/la-petite-maison-de-song-cai-6.jpg" alt="La Petite Maison de Song Cai">
-  <figcaption>La Petite Maison de Song Cai</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/la-petite-maison-de-song-cai-7.jpg" alt="La Petite Maison de Song Cai">
-  <figcaption>La Petite Maison de Song Cai</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/la-petite-maison-de-song-cai-8.jpg" alt="La Petite Maison de Song Cai">
-  <figcaption>La Petite Maison de Song Cai</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/la-petite-maison-de-song-cai-9.jpg" alt="La Petite Maison de Song Cai">
-  <figcaption>La Petite Maison de Song Cai</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

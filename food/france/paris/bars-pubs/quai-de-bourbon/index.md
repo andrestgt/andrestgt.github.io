@@ -6,6 +6,10 @@ title: Quai de Bourbon
 subtitle: Paris · Wine Bar
 ---
 
+<figure>
+  <img src="/photos/france/paris/quai-de-bourbon-1.jpg" alt="Quai de Bourbon">
+  <figcaption>Quai de Bourbon</figcaption>
+</figure>
 
 Nice place on Île Saint-Louis for a glass of wine and some homemade dips. Considering the location, prices are actually fairly reasonable. Pas mal.
 

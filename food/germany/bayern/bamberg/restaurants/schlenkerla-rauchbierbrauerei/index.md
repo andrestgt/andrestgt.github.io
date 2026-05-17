@@ -6,6 +6,10 @@ title: Schlenkerla, Rauchbierbrauerei
 subtitle: Bamberg · Rauchbier, Franconian
 ---
 
+<figure>
+  <img src="/photos/germany/bamberg/schlenkerla-rauchbierbrauerei-1.jpg" alt="Schlenkerla, Rauchbierbrauerei">
+  <figcaption>Schlenkerla, Rauchbierbrauerei</figcaption>
+</figure>
 
 The most famous Gasthaus in Bamberg, this place is obviously very popular with tourists, but has managed to maintain a very traditional flair. Their eponymous Rauchbier is very much an acquired taste, like drinking liquid bacon, but I'm quite fond. Even better is Schäufele, a local specialty dish of crispy porky deliciousness with dumplings and sauerkraut. What's not to like?
 

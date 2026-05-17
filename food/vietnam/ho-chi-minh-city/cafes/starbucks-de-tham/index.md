@@ -5,7 +5,18 @@ review: true
 title: Starbucks (De Tham)
 subtitle: Ho Chi Minh City · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/starbucks-de-tham-1.jpg" alt="Starbucks (De Tham)">
+  <figcaption>Starbucks (De Tham)</figcaption>
+</figure>
+
 The coffee here is a sad joke. Don't they train their baristas? Second worse Starbucks I've ever had. Worse was only in Manila. 70k vnd for hot watery broth (they call it cappuccino) and uncomfortable seats. What a rip off
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/starbucks-de-tham-2.jpg" alt="Starbucks (De Tham)">
+  <figcaption>Starbucks (De Tham)</figcaption>
+</figure>
 
 ## Ratings
 

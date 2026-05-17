@@ -5,6 +5,12 @@ review: true
 title: Lão Hạc Quán
 subtitle: Tân Định · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/lao-hac-quan-1.jpg" alt="Lão Hạc Quán">
+  <figcaption>Lão Hạc Quán</figcaption>
+</figure>
+
 Unique nostalgia café by the canal, the sort of place where you can happily spend a lazy afternoon pretending it is 1996 in Saigon. The atmosphere is wonderfully evocative, even if the prices are rather less nostalgic and firmly rooted in the present.
 
 ## Ratings

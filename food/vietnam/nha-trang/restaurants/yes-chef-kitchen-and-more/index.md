@@ -13,14 +13,6 @@ subtitle: Nha Trang · Vietnamese
 
 With a nice garden setting in Vinh Ngoc, a 10 minute drive from the centre, this restaurant does things differently from your standard Vietnamese country style eatery. The menu is short and most dishes are what you could probably call international or fusion.
 
-The ribs (190k) were fantastic, melt in your mouth tender with beautiful flavours.
-
-I also rated the two starters we ordered, the tuna tartare and the wonton soup.
-
-The beer platter (230k) was slightly underwhelming though, and rather small for the price.
-
-I'd definitely come back for the ribs, though
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-2.jpg" alt="Yes chef: Kitchen and more">
@@ -32,43 +24,18 @@ I'd definitely come back for the ribs, though
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-4.jpg" alt="Yes chef: Kitchen and more">
   <figcaption>Yes chef: Kitchen and more</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-5.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
-</figure>
-</div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-6.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-7.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
-</figure>
-</div>
+The ribs (190k) were fantastic, melt in your mouth tender with beautiful flavours.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-8.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-9.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
-</figure>
-</div>
+I also rated the two starters we ordered, the tuna tartare and the wonton soup.
 
-<figure>
-  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-10.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
-</figure>
+The beer platter (230k) was slightly underwhelming though, and rather small for the price.
+
+I'd definitely come back for the ribs, though
 
 ## Ratings
 

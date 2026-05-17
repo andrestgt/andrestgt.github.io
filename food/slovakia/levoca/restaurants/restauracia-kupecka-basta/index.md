@@ -6,8 +6,28 @@ title: Reštaurácia Kupecká Bašta
 subtitle: Levoča · Restaurant
 ---
 
+<figure>
+  <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-1.jpg" alt="Reštaurácia Kupecká Bašta">
+  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+</figure>
 
 Atmospheric and popular restaurant inside the old town walls serving very good local dishes at reasonable prices. The goat cheese dumplings with sour cream and bacon are excellent and cost under 5€. A large beer is barely over 1€.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-2.jpg" alt="Reštaurácia Kupecká Bašta">
+  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+</figure>
+<figure>
+  <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-3.jpg" alt="Reštaurácia Kupecká Bašta">
+  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-4.jpg" alt="Reštaurácia Kupecká Bašta">
+  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+</figure>
 
 ## Ratings
 

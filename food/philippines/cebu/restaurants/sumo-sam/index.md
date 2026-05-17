@@ -6,7 +6,17 @@ title: Sumo Sam
 subtitle: Ayala Center, Cebu City · Japanese
 ---
 
+<figure>
+  <img src="/photos/philippines/cebu/sumo-sam-1.jpg" alt="Sumo Sam">
+  <figcaption>Sumo Sam</figcaption>
+</figure>
+
 Sumo Sam does perfectly decent sushi and Japanese comfort food. The sashimi was fresh enough, the rolls were large and tasty, and overall the quality is solid without really standing out. Slightly expensive for what you get, perhaps, but not a bad option at Ayala.
+
+<figure>
+  <img src="/photos/philippines/cebu/sumo-sam-2.jpg" alt="Sumo Sam">
+  <figcaption>Sumo Sam</figcaption>
+</figure>
 
 ## Ratings
 

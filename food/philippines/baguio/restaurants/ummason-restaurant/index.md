@@ -6,6 +6,11 @@ title: UMMASON Restaurant
 subtitle: Baguio City · Korean BBQ
 ---
 
+<figure>
+  <img src="/photos/philippines/baguio/ummason-restaurant-1.jpg" alt="UMMASON Restaurant">
+  <figcaption>UMMASON Restaurant</figcaption>
+</figure>
+
 UMMASON is a basic, cash-only Korean BBQ place, but the value is excellent. For under 400 Php per person you get unlimited meat and side dishes, and the quality is surprisingly good as well.
 
 ## Ratings

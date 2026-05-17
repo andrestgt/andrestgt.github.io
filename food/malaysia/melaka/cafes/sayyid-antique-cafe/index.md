@@ -6,7 +6,23 @@ title: Sayyid Antique & Cafe
 subtitle: Lorong Hang Jebat, Melaka · Café
 ---
 
+<figure>
+  <img src="/photos/malaysia/melaka/sayyid-antique-cafe-1.jpg" alt="Sayyid Antique & Cafe">
+  <figcaption>Sayyid Antique & Cafe</figcaption>
+</figure>
+
 Interesting antiques shop that also functions as a café and small restaurant. Their Nyonya laksa is very good, especially once you add some of the excellent sambal.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/melaka/sayyid-antique-cafe-2.jpg" alt="Sayyid Antique & Cafe">
+  <figcaption>Sayyid Antique & Cafe</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/melaka/sayyid-antique-cafe-3.jpg" alt="Sayyid Antique & Cafe">
+  <figcaption>Sayyid Antique & Cafe</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -6,7 +6,23 @@ title: Wong Ah Wah Restaurant
 subtitle: Jalan Alor, KL · Chinese
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/wong-ah-wah-restaurant-1.jpg" alt="Wong Ah Wah Restaurant">
+  <figcaption>Wong Ah Wah Restaurant</figcaption>
+</figure>
+
 The famous chicken wings really are worth the hype and I did not find the service anywhere near as rude as some reviews suggest. Definitely worth stopping here for a snack while wandering along Jalan Alor.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/wong-ah-wah-restaurant-2.jpg" alt="Wong Ah Wah Restaurant">
+  <figcaption>Wong Ah Wah Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/wong-ah-wah-restaurant-3.jpg" alt="Wong Ah Wah Restaurant">
+  <figcaption>Wong Ah Wah Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

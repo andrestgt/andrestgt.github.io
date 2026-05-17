@@ -6,7 +6,17 @@ title: Feel Good Café
 subtitle: Street 136, Phnom Penh · Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/phnom-penh/feel-good-cafe-1.jpg" alt="Feel Good Café">
+  <figcaption>Feel Good Café</figcaption>
+</figure>
+
 They have very good coffees indeed. Prices are okay for the Riverside, with cappuccino at 2.50$. Limited comfortable seating, though — wooden chairs are never a good idea for a café. Still, this is my first port of call whenever I stay riverside. The food is nice, albeit rather expensive.
+
+<figure>
+  <img src="/photos/cambodia/phnom-penh/feel-good-cafe-2.jpg" alt="Feel Good Café">
+  <figcaption>Feel Good Café</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,7 +6,28 @@ title: Flip Flops Restobar
 subtitle: Dumaguete City · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/dumaguete/flip-flops-restobar-1.jpg" alt="Flip Flops Restobar">
+  <figcaption>Flip Flops Restobar</figcaption>
+</figure>
+
 Simple but excellent little restobar attracting a pleasant mix of locals and expats. The Filipino bar food is surprisingly good and they also serve proper wood-fired pizzas. The kinilaw and sisig are especially recommended. Not exactly cheap, but very good value overall and probably my favourite hangout in Dumaguete.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/dumaguete/flip-flops-restobar-2.jpg" alt="Flip Flops Restobar">
+  <figcaption>Flip Flops Restobar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/flip-flops-restobar-3.jpg" alt="Flip Flops Restobar">
+  <figcaption>Flip Flops Restobar</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/dumaguete/flip-flops-restobar-4.jpg" alt="Flip Flops Restobar">
+  <figcaption>Flip Flops Restobar</figcaption>
+</figure>
 
 ## Ratings
 

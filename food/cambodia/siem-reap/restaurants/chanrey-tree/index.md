@@ -6,7 +6,28 @@ title: Chanrey Tree
 subtitle: Pokambor Ave, Siem Reap · Khmer
 ---
 
+<figure>
+  <img src="/photos/cambodia/siem-reap/chanrey-tree-1.jpg" alt="Chanrey Tree">
+  <figcaption>Chanrey Tree</figcaption>
+</figure>
+
 Chanrey Tree is a remarkably beautiful restaurant, from the lotus pond entrance to the minimalist lemongrass-scented dining room. It must be an amazing experience for first-time travellers in the region. However, the food is beautifully presented but taste-wise fairly ordinary. Out of three dishes we ordered, only one was really good — the seafood with Kampot pepper. For foodies with knowledge of Khmer cooking, this place is definitely style over substance. There are better fine dining options in town.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/siem-reap/chanrey-tree-2.jpg" alt="Chanrey Tree">
+  <figcaption>Chanrey Tree</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/chanrey-tree-3.jpg" alt="Chanrey Tree">
+  <figcaption>Chanrey Tree</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/siem-reap/chanrey-tree-4.jpg" alt="Chanrey Tree">
+  <figcaption>Chanrey Tree</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,8 +6,28 @@ title: Βασιλική Κουζίνα
 subtitle: Rethymno · Restaurant
 ---
 
+<figure>
+  <img src="/photos/greece/crete/vasiliki-kouzina-1.jpg" alt="Βασιλική Κουζίνα">
+  <figcaption>Βασιλική Κουζίνα</figcaption>
+</figure>
 
 Despite the prime tourist location, Vasiliki Kouzina serves honest Mediterranean food at very reasonable prices. Even the inexpensive house wine is surprisingly good, and with the views and friendly service this ended up being one of my favourite meals in Crete.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/greece/crete/vasiliki-kouzina-2.jpg" alt="Βασιλική Κουζίνα">
+  <figcaption>Βασιλική Κουζίνα</figcaption>
+</figure>
+<figure>
+  <img src="/photos/greece/crete/vasiliki-kouzina-3.jpg" alt="Βασιλική Κουζίνα">
+  <figcaption>Βασιλική Κουζίνα</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/greece/crete/vasiliki-kouzina-4.jpg" alt="Βασιλική Κουζίνα">
+  <figcaption>Βασιλική Κουζίνα</figcaption>
+</figure>
 
 ## Ratings
 

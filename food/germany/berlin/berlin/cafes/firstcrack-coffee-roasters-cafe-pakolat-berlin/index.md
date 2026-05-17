@@ -6,6 +6,10 @@ title: Firstcrack Coffee Roasters & Cafe Pakolat Berlin
 subtitle: Prenzlauer Berg · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/germany/berlin/firstcrack-coffee-roasters-cafe-pakolat-berlin-1.jpg" alt="Firstcrack Coffee Roasters & Cafe Pakolat Berlin">
+  <figcaption>Firstcrack Coffee Roasters & Cafe Pakolat Berlin</figcaption>
+</figure>
 
 Cute hipster café with excellent coffee at slightly more reasonable prices than most places of this type.
 

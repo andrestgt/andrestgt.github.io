@@ -6,6 +6,10 @@ title: Fekete Kutya
 subtitle: Budapest · Pub
 ---
 
+<figure>
+  <img src="/photos/hungary/budapest/fekete-kutya-1.jpg" alt="Fekete Kutya">
+  <figcaption>Fekete Kutya</figcaption>
+</figure>
 
 Really nice pub with decent prices and a selection of what they call tapas — actually closer to Hungarian beer snacks such as liver pâté and sausage. A good place to sit for a few drinks.
 

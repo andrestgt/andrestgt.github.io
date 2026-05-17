@@ -6,6 +6,11 @@ title: Sushi Den – Siam Paragon
 subtitle: Pathum Wan · Japanese, Sushi
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-paragon-1.jpg" alt="Sushi Den – Siam Paragon">
+  <figcaption>Sushi Den – Siam Paragon</figcaption>
+</figure>
+
 This particular Sushi Den branch is noticeably weaker than others. The fish was fresh enough, but portions were smaller and the nigiri fell apart too easily. Normally the chain is reliable, but this branch feels slightly off.
 ## Ratings
 

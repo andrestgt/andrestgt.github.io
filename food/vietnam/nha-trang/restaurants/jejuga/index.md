@@ -13,12 +13,6 @@ subtitle: Nha Trang · Korean
 
 Jejuga is currently my favourite Korean restaurant in Nha Trang. Quite a few Korean places in the tourist area have not survived the corona times, and whenever we came here we were the only customers, so I really hope they can keep going.
 
-It's a slightly upmarket affair with beautifully presented and super tasty Korean food.
-
-Their combos are great value so it's a good idea to bring friends, this is not an place for solo dining.
-
-200-250k/pax will give you a feast of quality meats, noodle and rice dishes, soups and nice variety of unlimited appetisers.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-2.jpg" alt="Jejuga">
@@ -30,54 +24,16 @@ Their combos are great value so it's a good idea to bring friends, this is not a
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-4.jpg" alt="Jejuga">
   <figcaption>Jejuga</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-5.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
-</div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-6.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-7.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
-</div>
+It's a slightly upmarket affair with beautifully presented and super tasty Korean food.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-8.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-9.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
-</div>
+Their combos are great value so it's a good idea to bring friends, this is not an place for solo dining.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-10.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-11.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/vietnam/nha-trang/jejuga-12.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
-</figure>
+200-250k/pax will give you a feast of quality meats, noodle and rice dishes, soups and nice variety of unlimited appetisers.
 
 ## Ratings
 

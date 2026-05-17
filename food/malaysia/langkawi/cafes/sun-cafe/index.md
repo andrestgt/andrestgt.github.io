@@ -6,7 +6,28 @@ title: Sun Cafe
 subtitle: Pantai Tengah, Langkawi · Café, International
 ---
 
+<figure>
+  <img src="/photos/malaysia/langkawi/sun-cafe-1.jpg" alt="Sun Cafe">
+  <figcaption>Sun Cafe</figcaption>
+</figure>
+
 One of Cenang/Tengah's classiest eateries — slightly let down by the strip mall location, but inside it's quite tastefully decorated and pleasant. The Asian dishes we ordered, such as beef rendang and yum neua, were all very good, though nothing extraordinary. Good choice and reasonable prices.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/langkawi/sun-cafe-2.jpg" alt="Sun Cafe">
+  <figcaption>Sun Cafe</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/langkawi/sun-cafe-3.jpg" alt="Sun Cafe">
+  <figcaption>Sun Cafe</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/langkawi/sun-cafe-4.jpg" alt="Sun Cafe">
+  <figcaption>Sun Cafe</figcaption>
+</figure>
 
 ## Ratings
 

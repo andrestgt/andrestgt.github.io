@@ -6,7 +6,17 @@ title: Greenhouse Effect
 subtitle: Sihanoukville · Bar
 ---
 
+<figure>
+  <img src="/photos/cambodia/sihanoukville/greenhouse-effect-1.jpg" alt="Greenhouse Effect">
+  <figcaption>Greenhouse Effect</figcaption>
+</figure>
+
 Greenhouse Effect feels a little worn around the edges these days, but the atmosphere is still very good. Drinks are reasonably priced, although charging 2$ for a coconut feels slightly optimistic even by beach standards. The views are excellent, though.
+
+<figure>
+  <img src="/photos/cambodia/sihanoukville/greenhouse-effect-2.jpg" alt="Greenhouse Effect">
+  <figcaption>Greenhouse Effect</figcaption>
+</figure>
 
 ## Ratings
 

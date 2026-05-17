@@ -6,7 +6,17 @@ title: Nyonya Colors – Suria KLCC
 subtitle: KLCC, KL · Malay, Nyonya
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/nyonya-colors-suria-klcc-1.jpg" alt="Nyonya Colors – Suria KLCC">
+  <figcaption>Nyonya Colors – Suria KLCC</figcaption>
+</figure>
+
 Food is decent enough and reasonably priced considering the location. The restaurant itself is not especially inviting, but proper Malay food options can be surprisingly limited in KLCC, so this works well enough for a quick meal.
+
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/nyonya-colors-suria-klcc-2.jpg" alt="Nyonya Colors – Suria KLCC">
+  <figcaption>Nyonya Colors – Suria KLCC</figcaption>
+</figure>
 
 ## Ratings
 

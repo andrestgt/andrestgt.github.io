@@ -6,7 +6,23 @@ title: Tunday Kababi
 subtitle: Aminabad, Lucknow · Awadhi
 ---
 
+<figure>
+  <img src="/photos/india/lucknow/tunday-kababi-1.jpg" alt="Tunday Kababi">
+  <figcaption>Tunday Kababi</figcaption>
+</figure>
+
 Come early to get a table here — it's packed to the rafters despite large seating capacity. Their claim to fame is galawat kababis: essentially creamy, melt-in-your-mouth meat balls which are indeed something special, and cheap too. They also do a nice mutton biryani and the mutton gravy is perfect for dipping.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/india/lucknow/tunday-kababi-2.jpg" alt="Tunday Kababi">
+  <figcaption>Tunday Kababi</figcaption>
+</figure>
+<figure>
+  <img src="/photos/india/lucknow/tunday-kababi-3.jpg" alt="Tunday Kababi">
+  <figcaption>Tunday Kababi</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

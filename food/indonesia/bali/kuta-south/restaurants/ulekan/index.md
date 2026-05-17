@@ -6,7 +6,17 @@ title: Ulekan
 subtitle: Canggu · Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/bali/ulekan-1.jpg" alt="Ulekan">
+  <figcaption>Ulekan</figcaption>
+</figure>
+
 Pleasant countryside dining, great concept with the small dishes, so it's possible to try different things. Food is good, but not amazing enough to justify the price. Almost 100K for nasi campur.
+
+<figure>
+  <img src="/photos/indonesia/bali/ulekan-2.jpg" alt="Ulekan">
+  <figcaption>Ulekan</figcaption>
+</figure>
 
 ## Ratings
 

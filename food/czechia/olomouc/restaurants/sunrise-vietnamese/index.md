@@ -6,8 +6,17 @@ title: Sunrise Vietnamese
 subtitle: Olomouc · Vietnamese Restaurant
 ---
 
+<figure>
+  <img src="/photos/czechia/olomouc/sunrise-vietnamese-1.jpg" alt="Sunrise Vietnamese">
+  <figcaption>Sunrise Vietnamese</figcaption>
+</figure>
 
 Sunrise is a large, modern Vietnamese restaurant that feels much fancier than what you usually find in Czechia, and the prices reflect that to some extent. Even so, it's still very good value. The pho bo was the best I've had outside Vietnam, and the sizzling duck was superb as well. I honestly did not expect food this good here.
+
+<figure>
+  <img src="/photos/czechia/olomouc/sunrise-vietnamese-2.jpg" alt="Sunrise Vietnamese">
+  <figcaption>Sunrise Vietnamese</figcaption>
+</figure>
 
 ## Ratings
 

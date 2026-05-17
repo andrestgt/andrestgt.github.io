@@ -6,6 +6,11 @@ title: Pecos Hideout Koramangala
 subtitle: Koramangala, Bangalore · Bar
 ---
 
+<figure>
+  <img src="/photos/india/bangalore/pecos-hideout-1.jpg" alt="Pecos Hideout Koramangala">
+  <figcaption>Pecos Hideout Koramangala</figcaption>
+</figure>
+
 Decent rock bar with good music and relatively inexpensive beers. Sadly not very busy, even at night. Maybe there's more going on at weekends.
 
 ## Ratings

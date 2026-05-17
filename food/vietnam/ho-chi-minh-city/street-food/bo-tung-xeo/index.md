@@ -5,7 +5,29 @@ review: true
 title: Bo Tung Xeo
 subtitle: Ho Chi Minh City · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-1.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
+
 I have been coming to this restaurant for almost two decades. It was my first ever dinner in Vietnam and it blew me away.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-2.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-3.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-4.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
 
 We paid less than 20$ for a feast including grilled beef, salmon sashimi, claypot trout, several king prawns and fresh oysters.
 

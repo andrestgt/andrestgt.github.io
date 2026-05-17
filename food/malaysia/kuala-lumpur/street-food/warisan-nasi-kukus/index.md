@@ -6,7 +6,17 @@ title: Warisan Nasi Kukus
 subtitle: NU Sentral, KL · Malay
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/warisan-nasi-kukus-1.jpg" alt="Warisan Nasi Kukus">
+  <figcaption>Warisan Nasi Kukus</figcaption>
+</figure>
+
 The nasi lemak itself could have used considerably more flavour, but the side dishes, especially the lamb and fried chicken, were genuinely enjoyable.
+
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/warisan-nasi-kukus-2.jpg" alt="Warisan Nasi Kukus">
+  <figcaption>Warisan Nasi Kukus</figcaption>
+</figure>
 
 ## Ratings
 

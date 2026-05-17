@@ -6,6 +6,10 @@ title: Kosta Kosta Cafe
 subtitle: Malia · Café
 ---
 
+<figure>
+  <img src="/photos/greece/crete/kosta-kosta-cafe-1.jpg" alt="Kosta Kosta Cafe">
+  <figcaption>Kosta Kosta Cafe</figcaption>
+</figure>
 
 Modern-looking café with comfortable sofas and outdoor seating. Cappuccino costs around 2,50€, which feels slightly expensive for the area, although the quality is decent enough.
 

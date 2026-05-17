@@ -6,8 +6,23 @@ title: Szimpla Kert
 subtitle: Budapest · Ruin Pub
 ---
 
+<figure>
+  <img src="/photos/hungary/budapest/szimpla-kert-1.jpg" alt="Szimpla Kert">
+  <figcaption>Szimpla Kert</figcaption>
+</figure>
 
 The best of the ruin pubs — quite an amazing place to visit. Less cool, however, is the fact that they serve their house wine at room temperature, including the white. A bad idea at 34 degrees.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/hungary/budapest/szimpla-kert-2.jpg" alt="Szimpla Kert">
+  <figcaption>Szimpla Kert</figcaption>
+</figure>
+<figure>
+  <img src="/photos/hungary/budapest/szimpla-kert-3.jpg" alt="Szimpla Kert">
+  <figcaption>Szimpla Kert</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

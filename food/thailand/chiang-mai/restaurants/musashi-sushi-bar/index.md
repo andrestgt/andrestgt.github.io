@@ -6,7 +6,28 @@ title: Musashi Sushi Bar
 subtitle: Si Phum, Old Town · Japanese
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-1.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+
 My favourite sushi bar in Chiang Mai. They have a lot of interesting fusion dishes (scallop crème brûlée anyone?) but they do the traditional stuff really well too. Actually their salmon sashimi, cut out of a whole fresh salmon in front of us, were probably the best I've ever tasted. Super value for the quality.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-2.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-3.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-4.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
 
 ## Ratings
 

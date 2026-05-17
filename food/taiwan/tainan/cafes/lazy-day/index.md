@@ -6,7 +6,23 @@ title: Lazy Day
 subtitle: East District, Tainan · Café
 ---
 
+<figure>
+  <img src="/photos/taiwan/tainan/lazy-day-1.jpg" alt="Lazy Day">
+  <figcaption>Lazy Day</figcaption>
+</figure>
+
 Very cute little alley café with just a few seats. A smooth, nicely prepared cappuccino goes for 90 NT$. Their sinful matcha lava cake took ages to arrive, but is not only tasty but very Instagrammable.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/taiwan/tainan/lazy-day-2.jpg" alt="Lazy Day">
+  <figcaption>Lazy Day</figcaption>
+</figure>
+<figure>
+  <img src="/photos/taiwan/tainan/lazy-day-3.jpg" alt="Lazy Day">
+  <figcaption>Lazy Day</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

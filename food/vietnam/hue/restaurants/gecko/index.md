@@ -24,16 +24,10 @@ This friendly traveller café is still open during corona times and offers reall
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hue/gecko-4.jpg" alt="Gecko">
   <figcaption>Gecko</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/hue/gecko-5.jpg" alt="Gecko">
-  <figcaption>Gecko</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

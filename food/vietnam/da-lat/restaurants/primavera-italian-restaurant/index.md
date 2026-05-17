@@ -24,16 +24,10 @@ I loved everything about Primavera — from the well-stocked deli and wood-fired
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-lat/primavera-italian-restaurant-4.jpg" alt="Primavera Italian Restaurant">
   <figcaption>Primavera Italian Restaurant</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/da-lat/primavera-italian-restaurant-5.jpg" alt="Primavera Italian Restaurant">
-  <figcaption>Primavera Italian Restaurant</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

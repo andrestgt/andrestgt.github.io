@@ -13,8 +13,6 @@ subtitle: Phra Sing · Thai, Chicken
 
 SP came up first when I researched gai yang places in Chiang Mai. It's a very popular restaurant with tourists, but still feels like a local eatery. They make it very easy for tourists to order and everything is well organised. The food is great. Gai yang, som tum and sticky rice is one of my favourite foods in the world and they serve very good versions here. The chicken is very flavourful and garlicky.
 
-Prices are reasonable and other dishes such as larb moo and nam tok neua are tasty too.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/sp-chicken-2.jpg" alt="SP Chicken">
@@ -26,21 +24,12 @@ Prices are reasonable and other dishes such as larb moo and nam tok neua are tas
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/sp-chicken-4.jpg" alt="SP Chicken">
   <figcaption>SP Chicken</figcaption>
 </figure>
-<figure>
-  <img src="/photos/thailand/chiang-mai/sp-chicken-5.jpg" alt="SP Chicken">
-  <figcaption>SP Chicken</figcaption>
-</figure>
-</div>
 
-<figure>
-  <img src="/photos/thailand/chiang-mai/sp-chicken-6.jpg" alt="SP Chicken">
-  <figcaption>SP Chicken</figcaption>
-</figure>
+Prices are reasonable and other dishes such as larb moo and nam tok neua are tasty too.
 
 ## Ratings
 

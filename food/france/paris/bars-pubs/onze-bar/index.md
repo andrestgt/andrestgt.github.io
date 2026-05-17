@@ -6,8 +6,17 @@ title: Onze Bar
 subtitle: Paris · Bar
 ---
 
+<figure>
+  <img src="/photos/france/paris/onze-bar-1.jpg" alt="Onze Bar">
+  <figcaption>Onze Bar</figcaption>
+</figure>
 
 Wonderful little bohemian neighbourhood bar with surprisingly low prices for Paris. The food and wine are both very good, happy hour is generous, and the charcuterie and cheese platters are genuinely excellent. Few places that look this much like a dive bar produce food this good.
+
+<figure>
+  <img src="/photos/france/paris/onze-bar-2.jpg" alt="Onze Bar">
+  <figcaption>Onze Bar</figcaption>
+</figure>
 
 ## Ratings
 

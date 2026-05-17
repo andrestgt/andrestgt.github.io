@@ -6,7 +6,17 @@ title: Rikitikitavi
 subtitle: Riverside Rd, Kampot · Khmer Fusion
 ---
 
+<figure>
+  <img src="/photos/cambodia/kampot-kep/rikitikitavi-1.jpg" alt="Rikitikitavi">
+  <figcaption>Rikitikitavi</figcaption>
+</figure>
+
 Rikitikitavi is one of Kampot's more upscale dining spots, with a fantastic terrace overlooking the river. Prices are high by local standards but still perfectly reasonable overall. The coffee is only decent, but the Khmer fusion food is genuinely good, with very nice starters and generous mains. The river views alone make it an easy place to linger.
+
+<figure>
+  <img src="/photos/cambodia/kampot-kep/rikitikitavi-2.jpg" alt="Rikitikitavi">
+  <figcaption>Rikitikitavi</figcaption>
+</figure>
 
 ## Ratings
 

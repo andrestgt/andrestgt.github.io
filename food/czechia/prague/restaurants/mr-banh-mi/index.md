@@ -6,6 +6,10 @@ title: Mr. Banh Mi
 subtitle: Prague · Vietnamese Restaurant
 ---
 
+<figure>
+  <img src="/photos/czechia/prague/mr-banh-mi-1.jpg" alt="Mr. Banh Mi">
+  <figcaption>Mr. Banh Mi</figcaption>
+</figure>
 
 The banh mi here is tasty, although prices feel a little high considering the location and the fact that there's standing room only. Still, the food itself is hard to complain about.
 

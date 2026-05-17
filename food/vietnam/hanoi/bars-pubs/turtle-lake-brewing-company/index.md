@@ -15,14 +15,19 @@ One of the lesser known craft beer breweries in Vietnam, but they have an impres
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/hanoi/turtle-lake-brewing-company-4.jpg" alt="Turtle Lake Brewing Company">
+  <img src="/photos/vietnam/hanoi/turtle-lake-brewing-company-2.jpg" alt="Turtle Lake Brewing Company">
   <figcaption>Turtle Lake Brewing Company</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/hanoi/turtle-lake-brewing-company-5.jpg" alt="Turtle Lake Brewing Company">
+  <img src="/photos/vietnam/hanoi/turtle-lake-brewing-company-3.jpg" alt="Turtle Lake Brewing Company">
   <figcaption>Turtle Lake Brewing Company</figcaption>
 </figure>
 </div>
+
+<figure>
+  <img src="/photos/vietnam/hanoi/turtle-lake-brewing-company-4.jpg" alt="Turtle Lake Brewing Company">
+  <figcaption>Turtle Lake Brewing Company</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,7 +6,28 @@ title: Taste Paradise
 subtitle: Plaza Indonesia · Cantonese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/jakarta/taste-paradise-1.jpg" alt="Taste Paradise">
+  <figcaption>Taste Paradise</figcaption>
+</figure>
+
 Elegant Cantonese restaurant with excellent dim sum in far more refined surroundings than nearby competitors charging similar prices. The scallop dumplings are particularly memorable.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/taste-paradise-2.jpg" alt="Taste Paradise">
+  <figcaption>Taste Paradise</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/taste-paradise-3.jpg" alt="Taste Paradise">
+  <figcaption>Taste Paradise</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/indonesia/java/jakarta/taste-paradise-4.jpg" alt="Taste Paradise">
+  <figcaption>Taste Paradise</figcaption>
+</figure>
 
 ## Ratings
 

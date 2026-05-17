@@ -24,27 +24,10 @@ This branch has a lovely garden setting and serves a variety of Vietnamese dishe
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-4.jpg" alt="Quán Bụi Garden">
   <figcaption>Quán Bụi Garden</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-5.jpg" alt="Quán Bụi Garden">
-  <figcaption>Quán Bụi Garden</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-6.jpg" alt="Quán Bụi Garden">
-  <figcaption>Quán Bụi Garden</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-7.jpg" alt="Quán Bụi Garden">
-  <figcaption>Quán Bụi Garden</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

@@ -5,6 +5,12 @@ review: true
 title: Sailing Club Nha Trang
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/sailing-club-nha-trang-1.jpg" alt="Sailing Club Nha Trang">
+  <figcaption>Sailing Club Nha Trang</figcaption>
+</figure>
+
 I first visited the Sailing Club in March 2000, it was a meal I'll never forget. One of the best meals I had in my entire life, and the best meal on a month long foodie trip throughout Vietnam. Back then, it was a much more modest place, but the food was already top notch, and incredible value.
 
 On my second visit in 2006, the place had become considerably more posh, but it was still great value for outstanding food and a fantastic atmosphere. But then, in 2006, Nha Trang was paradise on earth, the nightmare it has become still years away.

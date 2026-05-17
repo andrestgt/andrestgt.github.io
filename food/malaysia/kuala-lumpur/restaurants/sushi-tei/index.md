@@ -6,6 +6,11 @@ title: Sushi Tei
 subtitle: Pavilion KL, Bukit Bintang · Japanese
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/sushi-tei-1.jpg" alt="Sushi Tei">
+  <figcaption>Sushi Tei</figcaption>
+</figure>
+
 This used to be one of my favourite Japanese chains and I have eaten here many times over the years. Unfortunately the quality has gradually declined, with smaller portions and more compromises seemingly introduced to keep prices low.
 
 ## Ratings

@@ -6,8 +6,23 @@ title: Moi-te
 subtitle: Évora · Bar
 ---
 
+<figure>
+  <img src="/photos/portugal/evora/moi-te-1.jpg" alt="Moi-te">
+  <figcaption>Moi-te</figcaption>
+</figure>
 
 Moi-te has a very picturesque patio shaded by lemon trees, and prices are quite reasonable considering the surroundings. On a hot day, a refreshing tango — beer mixed with gooseberry juice — works remarkably well.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/portugal/evora/moi-te-2.jpg" alt="Moi-te">
+  <figcaption>Moi-te</figcaption>
+</figure>
+<figure>
+  <img src="/photos/portugal/evora/moi-te-3.jpg" alt="Moi-te">
+  <figcaption>Moi-te</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

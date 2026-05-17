@@ -6,6 +6,11 @@ title: Seniman Coffee
 subtitle: Ubud · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/indonesia/bali/seniman-coffee-1.jpg" alt="Seniman Coffee">
+  <figcaption>Seniman Coffee</figcaption>
+</figure>
+
 Ubud's ultimate hipster café with, well, let's say interesting decor. The coffees are indeed up there with the best in town, although they come at a price (34K++).
 
 ## Ratings

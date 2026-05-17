@@ -6,8 +6,17 @@ title: O Prado
 subtitle: Lisbon · Restaurant
 ---
 
+<figure>
+  <img src="/photos/portugal/lisbon/o-prado-1.jpg" alt="O Prado">
+  <figcaption>O Prado</figcaption>
+</figure>
 
 We ordered two starters here and the portions were so huge they could practically have rolled us out afterwards. The food is good, prices are reasonable, and the snails are especially worth ordering. Nice vinho verde as well. Mostly local clientele.
+
+<figure>
+  <img src="/photos/portugal/lisbon/o-prado-2.jpg" alt="O Prado">
+  <figcaption>O Prado</figcaption>
+</figure>
 
 ## Ratings
 

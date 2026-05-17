@@ -6,7 +6,17 @@ title: Pasta King Cafe di Roma
 subtitle: Dumaguete City · Italian
 ---
 
+<figure>
+  <img src="/photos/philippines/dumaguete/pasta-king-1.jpg" alt="Pasta King Cafe di Roma">
+  <figcaption>Pasta King Cafe di Roma</figcaption>
+</figure>
+
 Everything here is reasonably decent, from the pizza to the cakes and coffee, but nothing really stands out. The coffee may actually be among the better ones in Dumaguete, which admittedly is not saying much. Prices are fair, though the café itself is not especially comfortable for lingering.
+
+<figure>
+  <img src="/photos/philippines/dumaguete/pasta-king-2.jpg" alt="Pasta King Cafe di Roma">
+  <figcaption>Pasta King Cafe di Roma</figcaption>
+</figure>
 
 ## Ratings
 

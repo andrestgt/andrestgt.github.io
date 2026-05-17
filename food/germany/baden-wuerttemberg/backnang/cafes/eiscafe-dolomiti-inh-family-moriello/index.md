@@ -6,6 +6,10 @@ title: Eiscafe Dolomiti Inh. Family Moriello
 subtitle: Backnang · Italian Café
 ---
 
+<figure>
+  <img src="/photos/germany/backnang/eiscafe-dolomiti-inh-family-moriello-1.jpg" alt="Eiscafe Dolomiti Inh. Family Moriello">
+  <figcaption>Eiscafe Dolomiti Inh. Family Moriello</figcaption>
+</figure>
 
 Italian café in a beautiful half timbered house in the Old Town. A good cappuccino comes in a nice size and goes for only 2,40€
 

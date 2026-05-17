@@ -5,6 +5,12 @@ review: true
 title: Pasteur Street Brewing Co.
 subtitle: Bến Nghé · Craft Beer
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/pasteur-street-brewing-co-1.jpg" alt="Pasteur Street Brewing Co.">
+  <figcaption>Pasteur Street Brewing Co.</figcaption>
+</figure>
+
 Their home brews are amazingly good. Some of the best beer I've ever tasted. They can be sipped and enjoyed like wine. This no place to get drunk though, as prices are higher than Bitexco tower despite the backstreet location
 
 ## Ratings

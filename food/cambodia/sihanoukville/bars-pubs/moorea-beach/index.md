@@ -6,7 +6,28 @@ title: Moorea Beach
 subtitle: Otres Beach, Sihanoukville · Bar
 ---
 
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-1.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+
 Moorea is probably my favourite place around Otres Beach. Very comfortable cushions, tasteful design, decent chilled wine, and food that remains reasonably priced despite the setting. The swordfish sashimi goes particularly well with a glass of white Minervois.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-2.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-3.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-4.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
 
 ## Ratings
 

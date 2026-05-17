@@ -6,7 +6,17 @@ title: Nyonya Tingkat – NU Sentral
 subtitle: NU Sentral, KL · Nyonya
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/nyonya-tingkat-nu-sentral-1.jpg" alt="Nyonya Tingkat – NU Sentral">
+  <figcaption>Nyonya Tingkat – NU Sentral</figcaption>
+</figure>
+
 The flavours here are genuinely very good and the classic Nyonya dishes are well executed. Unfortunately portions of meat and seafood feel rather stingy considering the prices, especially the nasi lemak ayam rendang.
+
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/nyonya-tingkat-nu-sentral-2.jpg" alt="Nyonya Tingkat – NU Sentral">
+  <figcaption>Nyonya Tingkat – NU Sentral</figcaption>
+</figure>
 
 ## Ratings
 

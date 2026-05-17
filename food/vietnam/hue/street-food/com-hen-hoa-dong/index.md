@@ -24,19 +24,8 @@ Not to be confused with its namesake further down the alley (spot the different 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hue/com-hen-hoa-dong-4.jpg" alt="Com Hen Hoa Dong">
-  <figcaption>Com Hen Hoa Dong</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/hue/com-hen-hoa-dong-5.jpg" alt="Com Hen Hoa Dong">
-  <figcaption>Com Hen Hoa Dong</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/vietnam/hue/com-hen-hoa-dong-6.jpg" alt="Com Hen Hoa Dong">
   <figcaption>Com Hen Hoa Dong</figcaption>
 </figure>
 

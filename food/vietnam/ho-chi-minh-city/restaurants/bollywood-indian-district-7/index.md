@@ -5,7 +5,18 @@ review: true
 title: Bollywood Indian district 7
 subtitle: sky garden 2 · Indian
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bollywood-indian-district-7-1.jpg" alt="Bollywood Indian district 7">
+  <figcaption>Bollywood Indian district 7</figcaption>
+</figure>
+
 Got a delivery from here. Not impressed. The chicken tikka were good, but the masala was too sweet and tomato-y. The lamb korma was average, a bit bland, nothing special. Not bad, but there's better Indian food in HCMC"
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bollywood-indian-district-7-2.jpg" alt="Bollywood Indian district 7">
+  <figcaption>Bollywood Indian district 7</figcaption>
+</figure>
 
 ## Ratings
 

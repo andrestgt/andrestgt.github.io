@@ -5,7 +5,24 @@ review: true
 title: Ngò Rí - Coriander , Thai Cuisine
 subtitle: Nha Trang · Thai
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/ngo-ri-coriander-thai-cuisine-1.jpg" alt="Ngò Rí - Coriander , Thai Cuisine">
+  <figcaption>Ngò Rí - Coriander , Thai Cuisine</figcaption>
+</figure>
+
 There is only one proper Thai restaurant in Nha Trang, and fortunately it is this one. Good food at fair prices, with all the expected curries, salads and other favourites, plus the useful option of adjusting the spice level to your tolerance.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/ngo-ri-coriander-thai-cuisine-2.jpg" alt="Ngò Rí - Coriander , Thai Cuisine">
+  <figcaption>Ngò Rí - Coriander , Thai Cuisine</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/ngo-ri-coriander-thai-cuisine-3.jpg" alt="Ngò Rí - Coriander , Thai Cuisine">
+  <figcaption>Ngò Rí - Coriander , Thai Cuisine</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

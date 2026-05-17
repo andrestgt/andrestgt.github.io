@@ -6,7 +6,23 @@ title: Han Guk Kwan
 subtitle: Cebu City · Korean
 ---
 
+<figure>
+  <img src="/photos/philippines/cebu/han-guk-kwan-1.jpg" alt="Han Guk Kwan">
+  <figcaption>Han Guk Kwan</figcaption>
+</figure>
+
 The service at Han Guk Kwan can be pretty dreadful, but the food more than makes up for it. This is possibly the best Korean restaurant in Cebu, with large portions, very good flavours, and excellent value overall. Best visited with a group so you can try more dishes.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/cebu/han-guk-kwan-2.jpg" alt="Han Guk Kwan">
+  <figcaption>Han Guk Kwan</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/cebu/han-guk-kwan-3.jpg" alt="Han Guk Kwan">
+  <figcaption>Han Guk Kwan</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

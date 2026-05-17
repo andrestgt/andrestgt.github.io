@@ -6,7 +6,17 @@ title: Jasmine
 subtitle: Chang Moi · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/jasmine-1.jpg" alt="Jasmine">
+  <figcaption>Jasmine</figcaption>
+</figure>
+
 Dim sum places are surprisingly scarce in Chiang Mai, so this fading old fashioned hotel restaurant is still a decent choice, not great but not too expensive either. Not much atmosphere though.
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/jasmine-2.jpg" alt="Jasmine">
+  <figcaption>Jasmine</figcaption>
+</figure>
 
 ## Ratings
 

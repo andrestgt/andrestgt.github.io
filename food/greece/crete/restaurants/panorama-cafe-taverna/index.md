@@ -6,8 +6,28 @@ title: Panorama Cafe – Taverna
 subtitle: Kefali · Taverna
 ---
 
+<figure>
+  <img src="/photos/greece/crete/panorama-cafe-taverna-1.jpg" alt="Panorama Cafe – Taverna">
+  <figcaption>Panorama Cafe – Taverna</figcaption>
+</figure>
 
 Small village taverna with gorgeous mountain views and very friendly service. The moussaka here was probably the best I had in Crete — rich, creamy, and generously filled with meat. Even ordering a small snack comes with smooth complimentary raki.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/greece/crete/panorama-cafe-taverna-2.jpg" alt="Panorama Cafe – Taverna">
+  <figcaption>Panorama Cafe – Taverna</figcaption>
+</figure>
+<figure>
+  <img src="/photos/greece/crete/panorama-cafe-taverna-3.jpg" alt="Panorama Cafe – Taverna">
+  <figcaption>Panorama Cafe – Taverna</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/greece/crete/panorama-cafe-taverna-4.jpg" alt="Panorama Cafe – Taverna">
+  <figcaption>Panorama Cafe – Taverna</figcaption>
+</figure>
 
 ## Ratings
 

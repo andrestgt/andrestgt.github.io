@@ -6,7 +6,28 @@ title: Dream Cafe
 subtitle: Downtown, Tacloban City · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/tacloban/dream-cafe-1.jpg" alt="Dream Cafe">
+  <figcaption>Dream Cafe</figcaption>
+</figure>
+
 Tacloban is genuinely lucky to have a place like Dream Cafe. The food is consistently very good and reasonably priced, with both Filipino and Western dishes prepared using proper ingredients rather than shortcuts. The lechon kawali is particularly good. Easily my favourite place in town.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/tacloban/dream-cafe-2.jpg" alt="Dream Cafe">
+  <figcaption>Dream Cafe</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/tacloban/dream-cafe-3.jpg" alt="Dream Cafe">
+  <figcaption>Dream Cafe</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/tacloban/dream-cafe-4.jpg" alt="Dream Cafe">
+  <figcaption>Dream Cafe</figcaption>
+</figure>
 
 ## Ratings
 

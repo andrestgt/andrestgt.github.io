@@ -6,6 +6,11 @@ title: The Original Good Taste Cafe & Restaurant
 subtitle: Lapu Lapu St, Baguio City · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/baguio/good-taste-cafe-1.jpg" alt="The Original Good Taste Cafe & Restaurant">
+  <figcaption>The Original Good Taste Cafe & Restaurant</figcaption>
+</figure>
+
 Good Taste is extremely popular, mostly because the portions are huge and the prices are incredibly low. The food is simple, hearty Filipino comfort food with plenty of pork, rice, and local favourites. It's not fine dining by any stretch, but for the money it's very hard to complain.
 
 ## Ratings

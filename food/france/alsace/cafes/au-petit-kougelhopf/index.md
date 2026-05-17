@@ -6,6 +6,10 @@ title: Patisserie Au Petit Kougelhopf
 subtitle: Wissembourg · Café & Pâtisserie
 ---
 
+<figure>
+  <img src="/photos/france/alsace/au-petit-kougelhopf-1.jpg" alt="Patisserie Au Petit Kougelhopf">
+  <figcaption>Patisserie Au Petit Kougelhopf</figcaption>
+</figure>
 
 This pâtisserie serves excellent raspberry tartlets and éclairs. When the weather is good, there are some attractive outdoor tables where you can enjoy them with a cup of coffee. They also have a small lunch menu with simple regional dishes like quiche Lorraine or pâté en croûte at very reasonable prices. One detail worth noting: cappuccino comes with whipped cream here, very much like it used to in the 90s. They do warn you before you order, so if that's not your thing, go for a café crème instead.
 
