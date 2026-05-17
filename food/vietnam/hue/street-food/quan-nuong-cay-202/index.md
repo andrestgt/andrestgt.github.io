@@ -5,6 +5,12 @@ review: true
 title: Quán Nướng Cay 202
 subtitle: A Lưới · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/hue/quan-nuong-cay-202-1.jpg" alt="Quán Nướng Cay 202">
+  <figcaption>Quán Nướng Cay 202</figcaption>
+</figure>
+
 Cheap as chips and really good food. Anyone travelling the Ho Chi Minh trail and spends a night in A Luoi should definitely pay a visit to this place on the main road. A bottle of Huda is 9k and they do some seriously nice grilled marinated meat dishes at rock bottom prices without compromising on the quality. A plate of grilled pork belly is 50k and comes with mustard leaves. Friendly service and deservedly popular
 
 ## Ratings

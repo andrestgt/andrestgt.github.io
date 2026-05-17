@@ -5,6 +5,12 @@ review: true
 title: August Coffee & Restaurant
 subtitle: Yên Minh · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ha-giang/august-coffee-restaurant-1.jpg" alt="August Coffee & Restaurant">
+  <figcaption>August Coffee & Restaurant</figcaption>
+</figure>
+
 More coffee shop than restaurant, this nice little place is a good pitstop on the Ha Giang loop. They make sinfully delicious egg coffee (45k) and serve some simple dishes, mostly breakfast items involving eggs.
 
 *— Attractions, hotels **&** travel agencies —*

@@ -5,6 +5,12 @@ review: true
 title: Madam Khanh - The Banh Mi Queen
 subtitle: Hội An · Vietnamese · Bánh Mì
 ---
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/madam-khanh-the-banh-mi-queen-1.jpg" alt="Madam Khanh - The Banh Mi Queen">
+  <figcaption>Madam Khanh - The Banh Mi Queen</figcaption>
+</figure>
+
 The 30k "all in" bánh mì here is one of the best in the country. I am particularly fond of their chilli jam, which gives it a distinctive edge. It is usually less crowded than Phượng, but every bit as good.
 
 ## Ratings

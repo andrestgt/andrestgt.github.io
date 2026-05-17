@@ -5,6 +5,12 @@ review: true
 title: Quan Cu Duc
 subtitle: Đà Lạt · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/quan-cu-duc-1.jpg" alt="Quan Cu Duc">
+  <figcaption>Quan Cu Duc</figcaption>
+</figure>
+
 Very popular BBQ restaurant, noisy and smoky, no English menu here. Come for the venison and horse meat. Prices are reasonable, less than 200k per head for lots of meat and beers. A carnivor's dream
 
 Classic Vietnamese barbecue chaos: noisy, smoky and packed with locals. There is no English menu, so this is not the most beginner-friendly experience, but adventurous carnivores will be well rewarded with venison, horse meat and plenty of grilled indulgence. Prices are very fair, with a feast of meat and beers easily possible for under 200k per person.

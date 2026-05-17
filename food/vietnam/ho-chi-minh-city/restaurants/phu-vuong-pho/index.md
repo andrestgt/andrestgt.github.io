@@ -5,6 +5,12 @@ review: true
 title: Phu Vuong Pho
 subtitle: Nguyễn Thái Bình · Vietnamese · Phở
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/phu-vuong-pho-1.jpg" alt="Phu Vuong Pho">
+  <figcaption>Phu Vuong Pho</figcaption>
+</figure>
+
 The pho here is very good and the location is convenient. The eatery is very clean and service is quite friendly. Regular D1 prices, 65k for a bowl
 
 ## Ratings

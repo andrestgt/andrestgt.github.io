@@ -5,7 +5,18 @@ review: true
 title: Chips 'N' Fish 'N' Stuff
 subtitle: Hội An · Bia Hơi
 ---
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-1.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+
 Yes, it's a tourist place, with a view, but the food here is superb and very reasonably priced. There's cheap bia hoi, too. Try the fish in banana leaf and the won ton. This is my regular joint whenever I'm in town, and it wouldn't be if the food wasn't bloody good
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-2.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
 
 June 2020 update :
 
