@@ -27,4 +27,4 @@ The food is really good. I'm usually doubtful about local restaurants that mainl
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mok+Mony+Restaurant+Street+294+Phnom+Penh)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** $5–10 per main
+💰 **Price level:** $15-25 $ per main
