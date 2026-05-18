@@ -24,8 +24,41 @@ Excellent casual fine dining restaurant with an intimate atmosphere, friendly se
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-4.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-5.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-6.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-7.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-8.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-9.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-10.jpg" alt="Zinc Restaurant & Bar">
   <figcaption>Zinc Restaurant & Bar</figcaption>
 </figure>
 

@@ -24,8 +24,19 @@ Las Flores is a good looking, modern restaurant with good service and a classic 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/las-flores-4.jpg" alt="Las Flores">
+  <figcaption>Las Flores</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/las-flores-5.jpg" alt="Las Flores">
+  <figcaption>Las Flores</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/manila/las-flores-6.jpg" alt="Las Flores">
   <figcaption>Las Flores</figcaption>
 </figure>
 

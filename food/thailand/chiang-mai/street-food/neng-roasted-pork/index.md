@@ -24,8 +24,19 @@ I came across this large open-air eatery by accident while riding around on my b
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/neng-roasted-pork-4.jpg" alt="Neng Roasted Pork">
+  <figcaption>Neng Roasted Pork</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/neng-roasted-pork-5.jpg" alt="Neng Roasted Pork">
+  <figcaption>Neng Roasted Pork</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/neng-roasted-pork-6.jpg" alt="Neng Roasted Pork">
   <figcaption>Neng Roasted Pork</figcaption>
 </figure>
 

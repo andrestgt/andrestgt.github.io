@@ -14,6 +14,17 @@ subtitle: Pathum Wan · Japanese, Sushi
 This particular Sushi Den branch is noticeably weaker than others. The fish was fresh enough, but portions were smaller and the nigiri fell apart too easily. Normally the chain is reliable, but this branch feels slightly off.
 ## Ratings
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-paragon-2.jpg" alt="Sushi Den – Siam Paragon">
+  <figcaption>Sushi Den – Siam Paragon</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-paragon-3.jpg" alt="Sushi Den – Siam Paragon">
+  <figcaption>Sushi Den – Siam Paragon</figcaption>
+</figure>
+</div>
+
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 6.5/10 |

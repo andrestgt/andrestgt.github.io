@@ -24,10 +24,16 @@ Perfect location on Cathedral square. Very cute little bistro with good Vietname
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/nha-hang-la-place-4.jpg" alt="Nhà hàng La Place">
   <figcaption>Nhà hàng La Place</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/nha-hang-la-place-5.jpg" alt="Nhà hàng La Place">
+  <figcaption>Nhà hàng La Place</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
@@ -38,7 +44,6 @@ Perfect location on Cathedral square. Very cute little bistro with good Vietname
 | Value for money | 7/10 |
 | Atmosphere | 8/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=6+P.+Ấu+Triệu+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)

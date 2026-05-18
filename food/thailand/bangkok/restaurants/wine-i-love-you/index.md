@@ -13,10 +13,27 @@ subtitle: Watthana · Wine Bar, International
 
 The food here is fairly generic Bangkok bistro fare, although by global standards it would still count as very good. The wine list is reasonably priced, with some bottles under 800 Bt, and the Thai dishes remain properly spicy.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/wine-i-love-you-2.jpg" alt="Wine I Love You">
   <figcaption>Wine I Love You</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/wine-i-love-you-3.jpg" alt="Wine I Love You">
+  <figcaption>Wine I Love You</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/wine-i-love-you-4.jpg" alt="Wine I Love You">
+  <figcaption>Wine I Love You</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/wine-i-love-you-5.jpg" alt="Wine I Love You">
+  <figcaption>Wine I Love You</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

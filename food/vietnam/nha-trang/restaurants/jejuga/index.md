@@ -24,8 +24,41 @@ Jejuga is currently my favourite Korean restaurant in Nha Trang. Quite a few Kor
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-4.jpg" alt="Jejuga">
+  <figcaption>Jejuga</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/jejuga-5.jpg" alt="Jejuga">
+  <figcaption>Jejuga</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/jejuga-6.jpg" alt="Jejuga">
+  <figcaption>Jejuga</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/jejuga-7.jpg" alt="Jejuga">
+  <figcaption>Jejuga</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/jejuga-8.jpg" alt="Jejuga">
+  <figcaption>Jejuga</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/jejuga-9.jpg" alt="Jejuga">
+  <figcaption>Jejuga</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/jejuga-10.jpg" alt="Jejuga">
   <figcaption>Jejuga</figcaption>
 </figure>
 

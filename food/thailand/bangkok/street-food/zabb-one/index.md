@@ -13,6 +13,17 @@ subtitle: Huai Khwang · Isaan
 
 Zabb One serves Isaan food adapted slightly for Bangkok tastes, meaning less chilli heat and a bit more sweetness. That probably makes it easier for many foreign visitors to enjoy. Prices are low, the place is very popular, and the grilled chicken is definitely the highlight.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/zabb-one-2.jpg" alt="Zabb One Ratchada">
+  <figcaption>Zabb One Ratchada</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/zabb-one-3.jpg" alt="Zabb One Ratchada">
+  <figcaption>Zabb One Ratchada</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

@@ -24,8 +24,30 @@ Nha Trang's original and still best Korean restaurant. The stews are sublime, th
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/kimchi-restaurant-4.jpg" alt="Kimchi Restaurant">
+  <figcaption>Kimchi Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/kimchi-restaurant-5.jpg" alt="Kimchi Restaurant">
+  <figcaption>Kimchi Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/kimchi-restaurant-6.jpg" alt="Kimchi Restaurant">
+  <figcaption>Kimchi Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/kimchi-restaurant-7.jpg" alt="Kimchi Restaurant">
+  <figcaption>Kimchi Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/kimchi-restaurant-8.jpg" alt="Kimchi Restaurant">
   <figcaption>Kimchi Restaurant</figcaption>
 </figure>
 

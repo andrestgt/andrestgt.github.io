@@ -24,8 +24,19 @@ Delightfully old-fashioned brewery inn serving excellent house-brewed beer along
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-4.jpg" alt="Brauerei-Gasthof Mohren">
+  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-5.jpg" alt="Brauerei-Gasthof Mohren">
+  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-6.jpg" alt="Brauerei-Gasthof Mohren">
   <figcaption>Brauerei-Gasthof Mohren</figcaption>
 </figure>
 

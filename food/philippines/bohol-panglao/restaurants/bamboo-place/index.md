@@ -13,6 +13,17 @@ subtitle: Tawala, Panglao · International
 
 Bamboo Place feels like a quiet little oasis away from the beach crowds. The menu is mostly international comfort food such as burgers and pasta, and the quality is very solid for the price, with most dishes below 300 Php. The only thing really missing is a decent wine list to go with the food.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bamboo-place-2.jpg" alt="Bamboo Place">
+  <figcaption>Bamboo Place</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bamboo-place-3.jpg" alt="Bamboo Place">
+  <figcaption>Bamboo Place</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

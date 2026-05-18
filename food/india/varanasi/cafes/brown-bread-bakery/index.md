@@ -24,10 +24,16 @@ Varanasi's most famous traveller café should be thought of as a bakery rather t
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/varanasi/brown-bread-bakery-4.jpg" alt="Brown Bread Bakery Varanasi">
   <figcaption>Brown Bread Bakery Varanasi</figcaption>
 </figure>
+<figure>
+  <img src="/photos/india/varanasi/brown-bread-bakery-5.jpg" alt="Brown Bread Bakery Varanasi">
+  <figcaption>Brown Bread Bakery Varanasi</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -13,6 +13,11 @@ subtitle: Nguyễn Thái Bình · Vietnamese · Phở
 
 The pho here is very good and the location is convenient. The eatery is very clean and service is quite friendly. Regular D1 prices, 65k for a bowl
 
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/phu-vuong-pho-2.jpg" alt="Phu Vuong Pho">
+  <figcaption>Phu Vuong Pho</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

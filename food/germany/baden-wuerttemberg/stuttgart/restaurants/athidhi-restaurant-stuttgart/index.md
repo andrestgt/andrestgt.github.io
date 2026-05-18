@@ -7,37 +7,31 @@ subtitle: Stuttgart · Indian
 ---
 
 <figure>
-  <img src="/photos/germany/stuttgart/athidhi-1.jpg" alt="Athidhi Restaurant Stuttgart">
+  <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-1.jpg" alt="Athidhi Restaurant Stuttgart">
   <figcaption>Athidhi Restaurant Stuttgart</figcaption>
 </figure>
 
 As someone who has been to India several times and considers himself a genuine friend and connoisseur of Indian cuisine, I was both delighted and surprised by Athidhi. The menu is excellently put together, with dishes from both north and south India — and it shows in the food: precisely the kind of cooking you rarely encounter in Germany.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-2.jpg" alt="Athidhi Restaurant Stuttgart">
+  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-3.jpg" alt="Athidhi Restaurant Stuttgart">
+  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-4.jpg" alt="Athidhi Restaurant Stuttgart">
+  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+</figure>
+
 The Mysore dosa was outstanding, and so was the lamb curry, beautifully seasoned, with tender meat and a properly spiced gravy. Add to this pleasingly fair prices for the quality.
 
 An unreserved recommendation.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/germany/stuttgart/athidhi-2.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
-</figure>
-<figure>
-  <img src="/photos/germany/stuttgart/athidhi-3.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/germany/stuttgart/athidhi-4.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
-</figure>
-<figure>
-  <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-1.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

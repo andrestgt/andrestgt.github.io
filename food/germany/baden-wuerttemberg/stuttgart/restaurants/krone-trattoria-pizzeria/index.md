@@ -24,6 +24,22 @@ Really good Italian food in the east end with friendly service and reasonable pr
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/stuttgart/krone-trattoria-pizzeria-4.jpg" alt="KRONE Trattoria-Pizzeria">
+  <figcaption>KRONE Trattoria-Pizzeria</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/stuttgart/krone-trattoria-pizzeria-5.jpg" alt="KRONE Trattoria-Pizzeria">
+  <figcaption>KRONE Trattoria-Pizzeria</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/germany/stuttgart/krone-trattoria-pizzeria-6.jpg" alt="KRONE Trattoria-Pizzeria">
+  <figcaption>KRONE Trattoria-Pizzeria</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

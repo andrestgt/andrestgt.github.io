@@ -24,10 +24,16 @@ Very respectable dim sum selection considering this is inside a Pullman hotel. P
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/nu-er-hong-restaurant-4.jpg" alt="Nu Er Hong Restaurant">
   <figcaption>Nu Er Hong Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/malaysia/kuching/nu-er-hong-restaurant-5.jpg" alt="Nu Er Hong Restaurant">
+  <figcaption>Nu Er Hong Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

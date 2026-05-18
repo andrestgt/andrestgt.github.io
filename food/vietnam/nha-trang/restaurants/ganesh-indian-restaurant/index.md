@@ -24,8 +24,30 @@ I have tried all Indian restaurants in Nha Trang and Ganesh is my personal favou
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-4.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-5.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-6.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-7.jpg" alt="Ganesh Indian Restaurant">
+  <figcaption>Ganesh Indian Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-8.jpg" alt="Ganesh Indian Restaurant">
   <figcaption>Ganesh Indian Restaurant</figcaption>
 </figure>
 
@@ -42,7 +64,6 @@ If you fancy Indian in Nha Trang, Ganesh is the place to go.
 | Value for money | 9/10 |
 | Atmosphere | 10/10 |
 | Overall | 10/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=186+Hùng+Vương+Nha+Trang+Khánh+Hòa+650000+Vietnam)

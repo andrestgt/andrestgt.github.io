@@ -24,8 +24,19 @@ Nha Trang Xua seems like a very secret, off the beaten track kind of place, quit
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-4.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
+  <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-5.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
+  <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-6.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
   <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
 </figure>
 

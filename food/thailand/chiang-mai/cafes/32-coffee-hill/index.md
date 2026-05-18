@@ -24,8 +24,30 @@ This attractive café is a great place to break the journey between Chiang Mai a
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/32-coffee-hill-4.jpg" alt="32 Coffee Hill & Resort">
+  <figcaption>32 Coffee Hill & Resort</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/32-coffee-hill-5.jpg" alt="32 Coffee Hill & Resort">
+  <figcaption>32 Coffee Hill & Resort</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/32-coffee-hill-6.jpg" alt="32 Coffee Hill & Resort">
+  <figcaption>32 Coffee Hill & Resort</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/32-coffee-hill-7.jpg" alt="32 Coffee Hill & Resort">
+  <figcaption>32 Coffee Hill & Resort</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/32-coffee-hill-8.jpg" alt="32 Coffee Hill & Resort">
   <figcaption>32 Coffee Hill & Resort</figcaption>
 </figure>
 

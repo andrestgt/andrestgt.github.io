@@ -24,10 +24,16 @@ Twin Lotus looks polished and rather upscale by Sihanoukville standards, but the
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/twin-lotus-restaurant-4.jpg" alt="Twin Lotus Restaurant">
   <figcaption>Twin Lotus Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/twin-lotus-restaurant-5.jpg" alt="Twin Lotus Restaurant">
+  <figcaption>Twin Lotus Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

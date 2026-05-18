@@ -24,10 +24,16 @@ Chanrey Tree is a remarkably beautiful restaurant, from the lotus pond entrance 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/chanrey-tree-4.jpg" alt="Chanrey Tree">
   <figcaption>Chanrey Tree</figcaption>
 </figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/chanrey-tree-5.jpg" alt="Chanrey Tree">
+  <figcaption>Chanrey Tree</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -24,10 +24,16 @@ Small night market, mostly for tourists. The food here is generally good to grea
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/chang-phuak-market-4.jpg" alt="Chang Phuak Market">
   <figcaption>Chang Phuak Market</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/chang-phuak-market-5.jpg" alt="Chang Phuak Market">
+  <figcaption>Chang Phuak Market</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

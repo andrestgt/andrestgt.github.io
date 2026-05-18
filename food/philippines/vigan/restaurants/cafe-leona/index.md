@@ -24,10 +24,16 @@ There is good food in the Philippines and Cafe Leona, which has been around for 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/vigan/cafe-leona-4.jpg" alt="Cafe Leona">
   <figcaption>Cafe Leona</figcaption>
 </figure>
+<figure>
+  <img src="/photos/philippines/vigan/cafe-leona-5.jpg" alt="Cafe Leona">
+  <figcaption>Cafe Leona</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

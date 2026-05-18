@@ -24,8 +24,30 @@ I have been coming to this restaurant for almost two decades. It was my first ev
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-4.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-5.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-6.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-7.jpg" alt="Bo Tung Xeo">
+  <figcaption>Bo Tung Xeo</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-8.jpg" alt="Bo Tung Xeo">
   <figcaption>Bo Tung Xeo</figcaption>
 </figure>
 
@@ -42,7 +64,6 @@ Prices have risen considerably since then and it's quite an expensive restaurant
 | Value for money | 9/10 |
 | Atmosphere | 10/10 |
 | Overall | 10/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bo+Tung+Xeo)

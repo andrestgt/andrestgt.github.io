@@ -25,8 +25,19 @@ The sashimi here is fresh and reasonably priced, although some of the cooked dis
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-ctw-4.jpg" alt="Sushi Den @ CentralWorld">
+  <figcaption>Sushi Den @ CentralWorld</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-ctw-5.jpg" alt="Sushi Den @ CentralWorld">
+  <figcaption>Sushi Den @ CentralWorld</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/bangkok/sushi-den-ctw-6.jpg" alt="Sushi Den @ CentralWorld">
   <figcaption>Sushi Den @ CentralWorld</figcaption>
 </figure>
 

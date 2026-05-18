@@ -24,8 +24,30 @@ It's a sad prospect to think that Bangkok's street food scene is an endangered s
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sooksiam-4.jpg" alt="SOOKSIAM">
+  <figcaption>SOOKSIAM</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sooksiam-5.jpg" alt="SOOKSIAM">
+  <figcaption>SOOKSIAM</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/sooksiam-6.jpg" alt="SOOKSIAM">
+  <figcaption>SOOKSIAM</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sooksiam-7.jpg" alt="SOOKSIAM">
+  <figcaption>SOOKSIAM</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/bangkok/sooksiam-8.jpg" alt="SOOKSIAM">
   <figcaption>SOOKSIAM</figcaption>
 </figure>
 

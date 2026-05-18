@@ -24,10 +24,16 @@ Very attractive restaurant in an old converted French villa. Some of their dishe
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/chaka-restaurant-4.jpg" alt="Chaka Restaurant">
   <figcaption>Chaka Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/chaka-restaurant-5.jpg" alt="Chaka Restaurant">
+  <figcaption>Chaka Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
@@ -38,7 +44,6 @@ Very attractive restaurant in an old converted French villa. Some of their dishe
 | Value for money | 9/10 |
 | Atmosphere | 9/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Ngô+Thì+Nhậm+Hai+Bà+Trưng+Hà+Nội+100000+Vietnam)

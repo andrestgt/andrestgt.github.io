@@ -24,10 +24,38 @@ My favourite sushi bar in Chiang Mai. They have a lot of interesting fusion dish
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-4.jpg" alt="Musashi Sushi Bar">
   <figcaption>Musashi Sushi Bar</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-5.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-6.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-7.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-8.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-9.jpg" alt="Musashi Sushi Bar">
+  <figcaption>Musashi Sushi Bar</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -24,8 +24,41 @@ Super nice, extremely comfy lounge, but their happy hour cocktails are disappoin
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/green-mango-restaurant-4.jpg" alt="Green Mango Restaurant">
+  <figcaption>Green Mango Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hoi-an/green-mango-restaurant-5.jpg" alt="Green Mango Restaurant">
+  <figcaption>Green Mango Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/hoi-an/green-mango-restaurant-6.jpg" alt="Green Mango Restaurant">
+  <figcaption>Green Mango Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hoi-an/green-mango-restaurant-7.jpg" alt="Green Mango Restaurant">
+  <figcaption>Green Mango Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/hoi-an/green-mango-restaurant-8.jpg" alt="Green Mango Restaurant">
+  <figcaption>Green Mango Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hoi-an/green-mango-restaurant-9.jpg" alt="Green Mango Restaurant">
+  <figcaption>Green Mango Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/green-mango-restaurant-10.jpg" alt="Green Mango Restaurant">
   <figcaption>Green Mango Restaurant</figcaption>
 </figure>
 

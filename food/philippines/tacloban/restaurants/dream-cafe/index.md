@@ -24,10 +24,16 @@ Tacloban is genuinely lucky to have a place like Dream Cafe. The food is consist
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/tacloban/dream-cafe-4.jpg" alt="Dream Cafe">
   <figcaption>Dream Cafe</figcaption>
 </figure>
+<figure>
+  <img src="/photos/philippines/tacloban/dream-cafe-5.jpg" alt="Dream Cafe">
+  <figcaption>Dream Cafe</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

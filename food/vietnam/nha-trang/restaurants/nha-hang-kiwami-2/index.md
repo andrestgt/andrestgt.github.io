@@ -24,8 +24,41 @@ Less cosy and intimate than the original sushi bar, but on a positive note, it's
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-4.jpg" alt="Nhà hàng Kiwami 2">
+  <figcaption>Nhà hàng Kiwami 2</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-5.jpg" alt="Nhà hàng Kiwami 2">
+  <figcaption>Nhà hàng Kiwami 2</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-6.jpg" alt="Nhà hàng Kiwami 2">
+  <figcaption>Nhà hàng Kiwami 2</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-7.jpg" alt="Nhà hàng Kiwami 2">
+  <figcaption>Nhà hàng Kiwami 2</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-8.jpg" alt="Nhà hàng Kiwami 2">
+  <figcaption>Nhà hàng Kiwami 2</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-9.jpg" alt="Nhà hàng Kiwami 2">
+  <figcaption>Nhà hàng Kiwami 2</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-kiwami-2-10.jpg" alt="Nhà hàng Kiwami 2">
   <figcaption>Nhà hàng Kiwami 2</figcaption>
 </figure>
 

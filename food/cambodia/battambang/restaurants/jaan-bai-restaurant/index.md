@@ -24,10 +24,16 @@ The modern, air-conditioned Jaan Bai has been a welcome addition to Battambang's
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/battambang/jaan-bai-restaurant-4.jpg" alt="Jaan Bai Restaurant">
   <figcaption>Jaan Bai Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/cambodia/battambang/jaan-bai-restaurant-5.jpg" alt="Jaan Bai Restaurant">
+  <figcaption>Jaan Bai Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

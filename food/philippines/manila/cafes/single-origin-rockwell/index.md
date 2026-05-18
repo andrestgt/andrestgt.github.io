@@ -24,8 +24,30 @@ Better than the BGC branch. The cappuccino was very well prepared and the flatbr
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/single-origin-rockwell-4.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-5.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-6.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-7.jpg" alt="Single Origin – Rockwell">
+  <figcaption>Single Origin – Rockwell</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/manila/single-origin-rockwell-8.jpg" alt="Single Origin – Rockwell">
   <figcaption>Single Origin – Rockwell</figcaption>
 </figure>
 

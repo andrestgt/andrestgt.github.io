@@ -24,10 +24,16 @@ If you're expecting an authentic German beer hall experience in Ho Chi Minh City
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/the-german-beer-hall-4.jpg" alt="The German Beer Hall">
   <figcaption>The German Beer Hall</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/the-german-beer-hall-5.jpg" alt="The German Beer Hall">
+  <figcaption>The German Beer Hall</figcaption>
+</figure>
+</div>
 
 But honestly? That’s not a bad thing. The food is good, and so is the beer, especially considering the more than reasonable prices. Just go in with the right expectations, and you’ll have a great time.
 

@@ -24,10 +24,16 @@ The food here is traditional and good without being especially refined. The real
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/spain/mallorca/antic-celler-san-toreo-4.jpg" alt="Antic Celler San Toreó">
   <figcaption>Antic Celler San Toreó</figcaption>
 </figure>
+<figure>
+  <img src="/photos/spain/mallorca/antic-celler-san-toreo-5.jpg" alt="Antic Celler San Toreó">
+  <figcaption>Antic Celler San Toreó</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

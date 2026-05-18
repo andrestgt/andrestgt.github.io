@@ -24,8 +24,41 @@ Khin's Shack feels like one of the last survivors of the old Otres Beach atmosph
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/khins-shack-4.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-5.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-6.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-7.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-8.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-9.jpg" alt="Khin's Shack">
+  <figcaption>Khin's Shack</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/sihanoukville/khins-shack-10.jpg" alt="Khin's Shack">
   <figcaption>Khin's Shack</figcaption>
 </figure>
 

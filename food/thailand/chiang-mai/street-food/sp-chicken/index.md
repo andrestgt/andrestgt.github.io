@@ -24,10 +24,16 @@ SP came up first when I researched gai yang places in Chiang Mai. It's a very po
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/sp-chicken-4.jpg" alt="SP Chicken">
   <figcaption>SP Chicken</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/sp-chicken-5.jpg" alt="SP Chicken">
+  <figcaption>SP Chicken</figcaption>
+</figure>
+</div>
 
 Prices are reasonable and other dishes such as larb moo and nam tok neua are tasty too.
 

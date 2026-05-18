@@ -24,10 +24,16 @@ Looks like the swankiest place in town, huge menu with English Google translatio
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/tra-vinh/nha-hang-la-vang-tra-vinh-com-trua-com-tour-4.jpg" alt="Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)">
   <figcaption>Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/tra-vinh/nha-hang-la-vang-tra-vinh-com-trua-com-tour-5.jpg" alt="Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)">
+  <figcaption>Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
@@ -38,7 +44,6 @@ Looks like the swankiest place in town, huge menu with English Google translatio
 | Value for money | 9/10 |
 | Atmosphere | 8/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=45B+Phạm+Ngũ+Lão+Phường+1+Trà+Vinh+Vietnam)

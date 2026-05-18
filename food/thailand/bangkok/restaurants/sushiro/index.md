@@ -24,8 +24,30 @@ I doubt there are many places in the world where you can get sushi of decent qua
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sushiro-4.jpg" alt="SUSHIRO ICONSIAM">
+  <figcaption>SUSHIRO ICONSIAM</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sushiro-5.jpg" alt="SUSHIRO ICONSIAM">
+  <figcaption>SUSHIRO ICONSIAM</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/sushiro-6.jpg" alt="SUSHIRO ICONSIAM">
+  <figcaption>SUSHIRO ICONSIAM</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sushiro-7.jpg" alt="SUSHIRO ICONSIAM">
+  <figcaption>SUSHIRO ICONSIAM</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/bangkok/sushiro-8.jpg" alt="SUSHIRO ICONSIAM">
   <figcaption>SUSHIRO ICONSIAM</figcaption>
 </figure>
 

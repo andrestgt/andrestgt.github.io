@@ -24,10 +24,16 @@ Beautifully designed restaurant with excellent atmosphere and genuinely impressi
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/langkawi/fat-cupid-4.jpg" alt="Fat Cupid Café & Restaurant">
   <figcaption>Fat Cupid Café & Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/malaysia/langkawi/fat-cupid-5.jpg" alt="Fat Cupid Café & Restaurant">
+  <figcaption>Fat Cupid Café & Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

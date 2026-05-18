@@ -13,6 +13,33 @@ subtitle: Nha Trang · Bar & Distillery
 
 Hem 89, Thái Thông, Nha Trang, Khánh Hòa, Vietnam
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-2.jpg" alt="Kilo Distillery & Bar">
+  <figcaption>Kilo Distillery & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-3.jpg" alt="Kilo Distillery & Bar">
+  <figcaption>Kilo Distillery & Bar</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-4.jpg" alt="Kilo Distillery & Bar">
+  <figcaption>Kilo Distillery & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-5.jpg" alt="Kilo Distillery & Bar">
+  <figcaption>Kilo Distillery & Bar</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-6.jpg" alt="Kilo Distillery & Bar">
+  <figcaption>Kilo Distillery & Bar</figcaption>
+</figure>
+
 Lovely off the beaten track bar and distillery only open on the weekends and for special events which makes it all the more intriguing. There's tasty homemade pick and mix pizzas with quality ingredients that are rather exotic in Vietnam such as capers, merguez or salmon. Prices are very reasonable with beers starting from 20k, pizzas from around 100k, and the spirits from the on site distillery are inexpensive, too. Highly recommended
 
 ## Ratings

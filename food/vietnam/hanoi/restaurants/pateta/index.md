@@ -24,10 +24,16 @@ Friendly place with a big balcony overlooking an old town street. Cheap Larue dr
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/pateta-4.jpg" alt="Pateta">
   <figcaption>Pateta</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/pateta-5.jpg" alt="Pateta">
+  <figcaption>Pateta</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

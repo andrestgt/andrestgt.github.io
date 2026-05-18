@@ -24,10 +24,27 @@ I'd heard great things about 4P from other people, but it took me a long time to
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-4.jpg" alt="Pizza 4P's Sheraton Nha Trang">
   <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-5.jpg" alt="Pizza 4P's Sheraton Nha Trang">
+  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-6.jpg" alt="Pizza 4P's Sheraton Nha Trang">
+  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-7.jpg" alt="Pizza 4P's Sheraton Nha Trang">
+  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+</figure>
+</div>
 
 They serve craft beers from the tap for less than you'd pay in most local bars (75k+) and there's a happy hour between 11 am and 6 pm.
 

@@ -13,12 +13,34 @@ subtitle: Hanoi · Vietnamese
 
 My personal favourite bun cha in Hanoi. The sauce is perfectly balanced, the meat has a wonderful barbecue taste and the portion is very generous for 35k. Nem on the side is a must of course. Very popular place, so better visit outside peak meal times
 
-My personal favourite place for bún chả in Hanoi since long before they got Michelin recognition. The dipping sauce is perfectly balanced, the grilled meat carries a wonderful smoky barbecue flavour, and the portion is remarkably generous for just 35k. Nem on the side is, naturally, non-negotiable. Very popular, so visiting outside peak meal times is advisable.
-
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-2.jpg" alt="Bun cha Tuyet 34">
   <figcaption>Bun cha Tuyet 34</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-3.jpg" alt="Bun cha Tuyet 34">
+  <figcaption>Bun cha Tuyet 34</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-4.jpg" alt="Bun cha Tuyet 34">
+  <figcaption>Bun cha Tuyet 34</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-5.jpg" alt="Bun cha Tuyet 34">
+  <figcaption>Bun cha Tuyet 34</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-6.jpg" alt="Bun cha Tuyet 34">
+  <figcaption>Bun cha Tuyet 34</figcaption>
+</figure>
+
+My personal favourite place for bún chả in Hanoi since long before they got Michelin recognition. The dipping sauce is perfectly balanced, the grilled meat carries a wonderful smoky barbecue flavour, and the portion is remarkably generous for just 35k. Nem on the side is, naturally, non-negotiable. Very popular, so visiting outside peak meal times is advisable.
 
 ## Ratings
 

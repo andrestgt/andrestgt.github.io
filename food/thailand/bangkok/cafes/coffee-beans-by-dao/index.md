@@ -13,6 +13,17 @@ subtitle: Pathum Wan · Café
 
 This branch is beautifully designed and has extremely comfortable armchairs. The coffee is good, although not really worth the 100+ Bt price tag, and the international bistro menu is similarly expensive but quality.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/coffee-beans-by-dao-2.jpg" alt="Coffee Beans By Dao – Central Embassy">
+  <figcaption>Coffee Beans By Dao – Central Embassy</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/coffee-beans-by-dao-3.jpg" alt="Coffee Beans By Dao – Central Embassy">
+  <figcaption>Coffee Beans By Dao – Central Embassy</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

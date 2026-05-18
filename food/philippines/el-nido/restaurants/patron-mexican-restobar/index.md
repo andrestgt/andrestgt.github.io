@@ -13,6 +13,11 @@ subtitle: El Nido Town · Mexican
 
 I certainly didn't expect to find authentic Mexican food in El Nido of all places, but there's a reason why this place is extremely popular and usually packed. The real draw is the cheerful atmosphere, cheap long drinks, and — by El Nido standards — reasonably priced food, even if the portions are on the smaller side. All in all, a thumbs up in a town where good value food is hard to come by.
 
+<figure>
+  <img src="/photos/philippines/el-nido/patron-mexican-restobar-2.jpg" alt="Patron Mexican Restobar">
+  <figcaption>Patron Mexican Restobar</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

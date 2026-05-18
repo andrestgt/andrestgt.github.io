@@ -24,10 +24,38 @@ Belito's Vineyard is located just off busy Laurel St, but its rustic garden sett
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/belitos-4.jpg" alt="Belito's Vineyard">
   <figcaption>Belito's Vineyard</figcaption>
 </figure>
+<figure>
+  <img src="/photos/philippines/davao/belitos-5.jpg" alt="Belito's Vineyard">
+  <figcaption>Belito's Vineyard</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/davao/belitos-6.jpg" alt="Belito's Vineyard">
+  <figcaption>Belito's Vineyard</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/davao/belitos-7.jpg" alt="Belito's Vineyard">
+  <figcaption>Belito's Vineyard</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/davao/belitos-8.jpg" alt="Belito's Vineyard">
+  <figcaption>Belito's Vineyard</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/davao/belitos-9.jpg" alt="Belito's Vineyard">
+  <figcaption>Belito's Vineyard</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

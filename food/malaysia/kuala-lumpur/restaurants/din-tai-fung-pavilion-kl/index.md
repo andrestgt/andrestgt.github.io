@@ -13,6 +13,11 @@ subtitle: Bukit Bintang, KL · Chinese, Dim Sum
 
 Din Tai Fung remains synonymous with excellent dumplings and this branch is probably my favourite anywhere. The truffle xiao long bao and spicy wontons are absolutely superb. It gets extremely busy during peak hours, so timing your visit carefully is highly advisable.
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/din-tai-fung-pavilion-kl-2.jpg" alt="Din Tai Fung – Pavilion KL">
+  <figcaption>Din Tai Fung – Pavilion KL</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -24,10 +24,27 @@ I visit this place every time I'm in Chau Doc for almost fifteen years now. It h
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/an-giang/quan-mekong-4.jpg" alt="Quán Mekong">
   <figcaption>Quán Mekong</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/an-giang/quan-mekong-5.jpg" alt="Quán Mekong">
+  <figcaption>Quán Mekong</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/an-giang/quan-mekong-6.jpg" alt="Quán Mekong">
+  <figcaption>Quán Mekong</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/an-giang/quan-mekong-7.jpg" alt="Quán Mekong">
+  <figcaption>Quán Mekong</figcaption>
+</figure>
+</div>
 
 As it is, though, it's just a basic local eatery, but that's not a bad thing. I never had a bad meal here, actually. They have an English menu and cater to tourists as well, so you pay a little bit more than in other basic street eateries, but the food is still inexpensive by any standards and I like the atmosphere here.
 
@@ -40,7 +57,6 @@ As it is, though, it's just a basic local eatery, but that's not a bad thing. I 
 | Value for money | 7/10 |
 | Atmosphere | 8/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=41+Đ.+Lê+Lợi+Châu+Phú+B+Châu+Đốc+An+Giang+Vietnam)

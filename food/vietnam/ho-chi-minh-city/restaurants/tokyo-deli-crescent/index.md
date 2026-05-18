@@ -24,8 +24,30 @@ With several outlets around HCMC Tokyo Deli is one of the best places for a quic
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-4.jpg" alt="Tokyo Deli Crescent">
+  <figcaption>Tokyo Deli Crescent</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-5.jpg" alt="Tokyo Deli Crescent">
+  <figcaption>Tokyo Deli Crescent</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-6.jpg" alt="Tokyo Deli Crescent">
+  <figcaption>Tokyo Deli Crescent</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-7.jpg" alt="Tokyo Deli Crescent">
+  <figcaption>Tokyo Deli Crescent</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-8.jpg" alt="Tokyo Deli Crescent">
   <figcaption>Tokyo Deli Crescent</figcaption>
 </figure>
 
@@ -38,7 +60,6 @@ With several outlets around HCMC Tokyo Deli is one of the best places for a quic
 | Value for money | 7/10 |
 | Atmosphere | 8/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Crescent+Residence+1+Đ+Tôn+Dật+Tiên+Tân+Phú+Quận+7+Hồ+Chí+Minh+Vietnam)

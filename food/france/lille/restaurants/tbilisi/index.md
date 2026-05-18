@@ -24,10 +24,16 @@ This is a tiny Georgian restaurant with just a few tables, and it's quite hard t
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/france/lille/tbilisi-4.jpg" alt="Tbilisi">
   <figcaption>Tbilisi</figcaption>
 </figure>
+<figure>
+  <img src="/photos/france/lille/tbilisi-5.jpg" alt="Tbilisi">
+  <figcaption>Tbilisi</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

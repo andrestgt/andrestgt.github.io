@@ -24,10 +24,38 @@ Outside of fancy tapas bars in the big cities you will not find better Spanish f
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-4.jpg" alt="Bougainvillea Spanish Restaurant">
   <figcaption>Bougainvillea Spanish Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-5.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-6.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-7.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-8.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bougainvillea-9.jpg" alt="Bougainvillea Spanish Restaurant">
+  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

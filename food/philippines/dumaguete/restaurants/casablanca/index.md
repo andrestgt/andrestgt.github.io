@@ -24,8 +24,41 @@ I have been frequenting Casablanca for more than a decade now and never had a ba
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/casablanca-4.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-5.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-6.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-7.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-8.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-9.jpg" alt="Casablanca Restaurant">
+  <figcaption>Casablanca Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/dumaguete/casablanca-10.jpg" alt="Casablanca Restaurant">
   <figcaption>Casablanca Restaurant</figcaption>
 </figure>
 

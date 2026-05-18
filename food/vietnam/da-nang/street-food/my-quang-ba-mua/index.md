@@ -13,6 +13,17 @@ subtitle: Hải Châu · Vietnamese
 
 With several branches around the city, this neat My Quang eatery is a very good option for trying Quan Nam's favourite noodle dish, especially the frog version or the special Claypot version with a little bit of everything (65k). Prices are very reasonable and they also do a few other good local dishes, so it's possible to have a substantial meal here as well
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/da-nang/my-quang-ba-mua-2.jpg" alt="Mỳ Quảng Bà Mua">
+  <figcaption>Mỳ Quảng Bà Mua</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/da-nang/my-quang-ba-mua-3.jpg" alt="Mỳ Quảng Bà Mua">
+  <figcaption>Mỳ Quảng Bà Mua</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category | Score |

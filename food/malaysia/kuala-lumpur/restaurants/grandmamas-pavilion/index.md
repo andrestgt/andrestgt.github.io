@@ -24,8 +24,41 @@ Very good Malay food that genuinely tastes close to proper street versions, just
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-4.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-5.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-6.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-7.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-8.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-9.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
+  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-10.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
   <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
 </figure>
 

@@ -24,10 +24,16 @@ A very good choice for traditional Andhra food served on banana leaves. The plac
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/bangalore/nagarjuna-restaurant-4.jpg" alt="Nagarjuna Restaurant">
   <figcaption>Nagarjuna Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/india/bangalore/nagarjuna-restaurant-5.jpg" alt="Nagarjuna Restaurant">
+  <figcaption>Nagarjuna Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

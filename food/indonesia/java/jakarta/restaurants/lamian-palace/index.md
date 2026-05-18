@@ -24,6 +24,44 @@ Budget-friendly noodle and dumpling restaurant hidden inside one of Jakarta’s 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lamian-palace-4.jpg" alt="Lamian Palace – Grand Indonesia">
+  <figcaption>Lamian Palace – Grand Indonesia</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lamian-palace-5.jpg" alt="Lamian Palace – Grand Indonesia">
+  <figcaption>Lamian Palace – Grand Indonesia</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lamian-palace-6.jpg" alt="Lamian Palace – Grand Indonesia">
+  <figcaption>Lamian Palace – Grand Indonesia</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lamian-palace-7.jpg" alt="Lamian Palace – Grand Indonesia">
+  <figcaption>Lamian Palace – Grand Indonesia</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lamian-palace-8.jpg" alt="Lamian Palace – Grand Indonesia">
+  <figcaption>Lamian Palace – Grand Indonesia</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lamian-palace-9.jpg" alt="Lamian Palace – Grand Indonesia">
+  <figcaption>Lamian Palace – Grand Indonesia</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lamian-palace-10.jpg" alt="Lamian Palace – Grand Indonesia">
+  <figcaption>Lamian Palace – Grand Indonesia</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

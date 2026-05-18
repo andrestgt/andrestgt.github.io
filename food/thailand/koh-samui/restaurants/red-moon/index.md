@@ -24,10 +24,27 @@ With most of the seaview restaurants in Fisherman Village charging pretty outrag
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/koh-samui/red-moon-4.jpg" alt="Red Moon">
   <figcaption>Red Moon</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/koh-samui/red-moon-5.jpg" alt="Red Moon">
+  <figcaption>Red Moon</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/koh-samui/red-moon-6.jpg" alt="Red Moon">
+  <figcaption>Red Moon</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/koh-samui/red-moon-7.jpg" alt="Red Moon">
+  <figcaption>Red Moon</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

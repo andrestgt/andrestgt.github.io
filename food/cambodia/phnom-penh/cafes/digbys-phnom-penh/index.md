@@ -24,10 +24,16 @@ The delicatessen section at Digby's looks fantastic but is ultimately more style
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/digbys-phnom-penh-4.jpg" alt="Digby's Phnom Penh">
   <figcaption>Digby's Phnom Penh</figcaption>
 </figure>
+<figure>
+  <img src="/photos/cambodia/phnom-penh/digbys-phnom-penh-5.jpg" alt="Digby's Phnom Penh">
+  <figcaption>Digby's Phnom Penh</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

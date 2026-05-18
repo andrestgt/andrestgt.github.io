@@ -24,8 +24,41 @@ Very neat little noodle place that deserves to be a lot more popular. To my know
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-4.jpg" alt="Mì Bò chợ Lớn">
+  <figcaption>Mì Bò chợ Lớn</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-5.jpg" alt="Mì Bò chợ Lớn">
+  <figcaption>Mì Bò chợ Lớn</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-6.jpg" alt="Mì Bò chợ Lớn">
+  <figcaption>Mì Bò chợ Lớn</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-7.jpg" alt="Mì Bò chợ Lớn">
+  <figcaption>Mì Bò chợ Lớn</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-8.jpg" alt="Mì Bò chợ Lớn">
+  <figcaption>Mì Bò chợ Lớn</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-9.jpg" alt="Mì Bò chợ Lớn">
+  <figcaption>Mì Bò chợ Lớn</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/mi-bo-cho-lon-10.jpg" alt="Mì Bò chợ Lớn">
   <figcaption>Mì Bò chợ Lớn</figcaption>
 </figure>
 

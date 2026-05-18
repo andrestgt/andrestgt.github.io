@@ -24,8 +24,19 @@ Prices have gone up in recent years, so it's not a bargain anymore, but the bist
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/boracay/lemoni-cafe-4.jpg" alt="Lemoni Café and Restaurant">
+  <figcaption>Lemoni Café and Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/boracay/lemoni-cafe-5.jpg" alt="Lemoni Café and Restaurant">
+  <figcaption>Lemoni Café and Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/boracay/lemoni-cafe-6.jpg" alt="Lemoni Café and Restaurant">
   <figcaption>Lemoni Café and Restaurant</figcaption>
 </figure>
 

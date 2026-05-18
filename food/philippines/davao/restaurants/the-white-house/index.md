@@ -24,8 +24,41 @@ The White House is a beautiful restaurant in a heritage building with a show kit
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/the-white-house-4.jpg" alt="The White House">
+  <figcaption>The White House</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/davao/the-white-house-5.jpg" alt="The White House">
+  <figcaption>The White House</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/davao/the-white-house-6.jpg" alt="The White House">
+  <figcaption>The White House</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/davao/the-white-house-7.jpg" alt="The White House">
+  <figcaption>The White House</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/davao/the-white-house-8.jpg" alt="The White House">
+  <figcaption>The White House</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/davao/the-white-house-9.jpg" alt="The White House">
+  <figcaption>The White House</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/davao/the-white-house-10.jpg" alt="The White House">
   <figcaption>The White House</figcaption>
 </figure>
 

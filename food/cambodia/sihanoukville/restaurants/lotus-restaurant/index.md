@@ -24,10 +24,16 @@ LOTUS claims to serve the best dim sum in Sihanoukville and, surprisingly enough
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/lotus-restaurant-4.jpg" alt="LOTUS Restaurant">
   <figcaption>LOTUS Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/lotus-restaurant-5.jpg" alt="LOTUS Restaurant">
+  <figcaption>LOTUS Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

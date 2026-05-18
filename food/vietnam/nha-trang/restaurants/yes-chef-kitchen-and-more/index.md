@@ -24,10 +24,38 @@ With a nice garden setting in Vinh Ngoc, a 10 minute drive from the centre, this
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-4.jpg" alt="Yes chef: Kitchen and more">
   <figcaption>Yes chef: Kitchen and more</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-5.jpg" alt="Yes chef: Kitchen and more">
+  <figcaption>Yes chef: Kitchen and more</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-6.jpg" alt="Yes chef: Kitchen and more">
+  <figcaption>Yes chef: Kitchen and more</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-7.jpg" alt="Yes chef: Kitchen and more">
+  <figcaption>Yes chef: Kitchen and more</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-8.jpg" alt="Yes chef: Kitchen and more">
+  <figcaption>Yes chef: Kitchen and more</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-9.jpg" alt="Yes chef: Kitchen and more">
+  <figcaption>Yes chef: Kitchen and more</figcaption>
+</figure>
+</div>
 
 The ribs (190k) were fantastic, melt in your mouth tender with beautiful flavours.
 

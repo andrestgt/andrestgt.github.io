@@ -24,10 +24,27 @@ A great place to visit — the bike ride from the southern beaches is very beaut
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/south-goa/tanshikar-spice-farm-4.jpg" alt="Tanshikar Spice Farm">
   <figcaption>Tanshikar Spice Farm</figcaption>
 </figure>
+<figure>
+  <img src="/photos/india/south-goa/tanshikar-spice-farm-5.jpg" alt="Tanshikar Spice Farm">
+  <figcaption>Tanshikar Spice Farm</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/india/south-goa/tanshikar-spice-farm-6.jpg" alt="Tanshikar Spice Farm">
+  <figcaption>Tanshikar Spice Farm</figcaption>
+</figure>
+<figure>
+  <img src="/photos/india/south-goa/tanshikar-spice-farm-7.jpg" alt="Tanshikar Spice Farm">
+  <figcaption>Tanshikar Spice Farm</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

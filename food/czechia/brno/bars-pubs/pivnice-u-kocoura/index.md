@@ -24,10 +24,16 @@ Pivnice U Kocoura is a fantastic beer pub with excellent comfort food, tasty bee
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/czechia/brno/pivnice-u-kocoura-4.jpg" alt="Pivnice U Kocoura">
   <figcaption>Pivnice U Kocoura</figcaption>
 </figure>
+<figure>
+  <img src="/photos/czechia/brno/pivnice-u-kocoura-5.jpg" alt="Pivnice U Kocoura">
+  <figcaption>Pivnice U Kocoura</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

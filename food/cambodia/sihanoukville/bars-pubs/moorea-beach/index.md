@@ -24,8 +24,41 @@ Moorea is probably my favourite place around Otres Beach. Very comfortable cushi
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/moorea-beach-4.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-5.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-6.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-7.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-8.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-9.jpg" alt="Moorea Beach">
+  <figcaption>Moorea Beach</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/sihanoukville/moorea-beach-10.jpg" alt="Moorea Beach">
   <figcaption>Moorea Beach</figcaption>
 </figure>
 

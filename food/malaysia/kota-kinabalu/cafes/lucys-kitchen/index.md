@@ -24,8 +24,19 @@ This one looks like just another generic mall café, but looks can be deceiving.
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/lucys-kitchen-4.jpg" alt="Lucy's Kitchen">
+  <figcaption>Lucy's Kitchen</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kota-kinabalu/lucys-kitchen-5.jpg" alt="Lucy's Kitchen">
+  <figcaption>Lucy's Kitchen</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/kota-kinabalu/lucys-kitchen-6.jpg" alt="Lucy's Kitchen">
   <figcaption>Lucy's Kitchen</figcaption>
 </figure>
 

@@ -24,8 +24,19 @@ I'll go with the majority opinion here and say this is a great place with friend
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/hampi/mango-tree-restaurant-4.jpg" alt="Mango Tree Restaurant">
+  <figcaption>Mango Tree Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/india/hampi/mango-tree-restaurant-5.jpg" alt="Mango Tree Restaurant">
+  <figcaption>Mango Tree Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/india/hampi/mango-tree-restaurant-6.jpg" alt="Mango Tree Restaurant">
   <figcaption>Mango Tree Restaurant</figcaption>
 </figure>
 

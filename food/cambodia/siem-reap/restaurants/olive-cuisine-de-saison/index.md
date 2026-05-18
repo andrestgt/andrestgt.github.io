@@ -24,8 +24,41 @@ Olive is a very attractive fine dining restaurant in Siem Reap's Old Town, with 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/olive-cuisine-de-saison-4.jpg" alt="Olive Cuisine de Saison">
+  <figcaption>Olive Cuisine de Saison</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/olive-cuisine-de-saison-5.jpg" alt="Olive Cuisine de Saison">
+  <figcaption>Olive Cuisine de Saison</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/siem-reap/olive-cuisine-de-saison-6.jpg" alt="Olive Cuisine de Saison">
+  <figcaption>Olive Cuisine de Saison</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/olive-cuisine-de-saison-7.jpg" alt="Olive Cuisine de Saison">
+  <figcaption>Olive Cuisine de Saison</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/siem-reap/olive-cuisine-de-saison-8.jpg" alt="Olive Cuisine de Saison">
+  <figcaption>Olive Cuisine de Saison</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/olive-cuisine-de-saison-9.jpg" alt="Olive Cuisine de Saison">
+  <figcaption>Olive Cuisine de Saison</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/siem-reap/olive-cuisine-de-saison-10.jpg" alt="Olive Cuisine de Saison">
   <figcaption>Olive Cuisine de Saison</figcaption>
 </figure>
 

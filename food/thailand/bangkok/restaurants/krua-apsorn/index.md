@@ -24,10 +24,27 @@ You don't come here for atmosphere, it has a cheap canteen feel to it. But the p
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/krua-apsorn-4.jpg" alt="Krua Apsorn">
   <figcaption>Krua Apsorn</figcaption>
 </figure>
+<figure>
+  <img src="/photos/thailand/bangkok/krua-apsorn-5.jpg" alt="Krua Apsorn">
+  <figcaption>Krua Apsorn</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/krua-apsorn-6.jpg" alt="Krua Apsorn">
+  <figcaption>Krua Apsorn</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/krua-apsorn-7.jpg" alt="Krua Apsorn">
+  <figcaption>Krua Apsorn</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

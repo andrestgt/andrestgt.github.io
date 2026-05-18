@@ -24,8 +24,30 @@ We stayed just next door so this became our go to restaurant during our time in 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-4.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
+  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-5.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
+  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-6.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
+  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-7.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
+  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-8.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
   <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
 </figure>
 

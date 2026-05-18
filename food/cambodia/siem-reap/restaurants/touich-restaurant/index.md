@@ -24,10 +24,16 @@ Touich absolutely deserves its reputation and is well worth leaving the centre o
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/touich-restaurant-4.jpg" alt="Touich Restaurant">
   <figcaption>Touich Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/touich-restaurant-5.jpg" alt="Touich Restaurant">
+  <figcaption>Touich Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

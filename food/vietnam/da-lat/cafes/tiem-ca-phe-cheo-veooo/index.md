@@ -24,10 +24,16 @@ This cute all wooden café with sweeping views is very popular with the young se
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-lat/tiem-ca-phe-cheo-veooo-4.jpg" alt="Tiệm cà phê Cheo veooo">
   <figcaption>Tiệm cà phê Cheo veooo</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/da-lat/tiem-ca-phe-cheo-veooo-5.jpg" alt="Tiệm cà phê Cheo veooo">
+  <figcaption>Tiệm cà phê Cheo veooo</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
@@ -38,7 +44,6 @@ This cute all wooden café with sweeping views is very popular with the young se
 | Value for money | 7/10 |
 | Atmosphere | 8/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=116+Đ.+Hùng+Vương+Phường+11+Đà+Lạt+Lâm+Đồng+66000+Vietnam)

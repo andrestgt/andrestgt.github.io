@@ -24,8 +24,19 @@ This is currently the only place in Nha Trang serving food that at least somewha
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-4.jpg" alt="Cactus Bogosov Mexican Food">
+  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-5.jpg" alt="Cactus Bogosov Mexican Food">
+  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-6.jpg" alt="Cactus Bogosov Mexican Food">
   <figcaption>Cactus Bogosov Mexican Food</figcaption>
 </figure>
 

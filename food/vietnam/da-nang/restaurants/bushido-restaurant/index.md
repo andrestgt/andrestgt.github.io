@@ -24,8 +24,19 @@ Korean and Japanese food available here. The grilled meat dishes excellent, from
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-nang/bushido-restaurant-4.jpg" alt="Bushido restaurant">
+  <figcaption>Bushido restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/da-nang/bushido-restaurant-5.jpg" alt="Bushido restaurant">
+  <figcaption>Bushido restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/da-nang/bushido-restaurant-6.jpg" alt="Bushido restaurant">
   <figcaption>Bushido restaurant</figcaption>
 </figure>
 

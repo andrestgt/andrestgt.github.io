@@ -24,8 +24,41 @@ It's really rare to find real Mexican flavours anywhere in South East Asia, even
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-4.jpg" alt="Los Chilangos">
+  <figcaption>Los Chilangos</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/los-chilangos-5.jpg" alt="Los Chilangos">
+  <figcaption>Los Chilangos</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/los-chilangos-6.jpg" alt="Los Chilangos">
+  <figcaption>Los Chilangos</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/los-chilangos-7.jpg" alt="Los Chilangos">
+  <figcaption>Los Chilangos</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/los-chilangos-8.jpg" alt="Los Chilangos">
+  <figcaption>Los Chilangos</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/los-chilangos-9.jpg" alt="Los Chilangos">
+  <figcaption>Los Chilangos</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/los-chilangos-10.jpg" alt="Los Chilangos">
   <figcaption>Los Chilangos</figcaption>
 </figure>
 

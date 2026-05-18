@@ -24,8 +24,30 @@ Stylish and rather upscale Rockwell restaurant serving creative food, affordable
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/rambla-4.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/rambla-5.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/rambla-6.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/rambla-7.jpg" alt="Rambla">
+  <figcaption>Rambla</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/manila/rambla-8.jpg" alt="Rambla">
   <figcaption>Rambla</figcaption>
 </figure>
 

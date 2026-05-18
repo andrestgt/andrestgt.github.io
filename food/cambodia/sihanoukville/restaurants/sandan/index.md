@@ -24,10 +24,16 @@ Just like all 'good cause' restaurants, Sandan is of course slightly overrated. 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/sandan-4.jpg" alt="Sandan">
   <figcaption>Sandan</figcaption>
 </figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/sandan-5.jpg" alt="Sandan">
+  <figcaption>Sandan</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -24,10 +24,16 @@ La Casserole is a small, unpretentious restaurant in the tourist area. It's quit
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/swiss-house-la-casserole-4.jpg" alt="Swiss House La Casserole">
   <figcaption>Swiss House La Casserole</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/swiss-house-la-casserole-5.jpg" alt="Swiss House La Casserole">
+  <figcaption>Swiss House La Casserole</figcaption>
+</figure>
+</div>
 
 The food is essentially Swiss but with a few Asian dishes thrown in for good measure.
 

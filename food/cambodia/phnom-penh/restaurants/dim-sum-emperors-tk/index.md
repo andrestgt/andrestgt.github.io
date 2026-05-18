@@ -24,8 +24,30 @@ The dim sum here is just as good as at the Central Market branch, but the atmosp
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-4.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-5.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-6.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-7.jpg" alt="Dim Sum Emperors TK Avenue">
+  <figcaption>Dim Sum Emperors TK Avenue</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/phnom-penh/dim-sum-emperors-tk-8.jpg" alt="Dim Sum Emperors TK Avenue">
   <figcaption>Dim Sum Emperors TK Avenue</figcaption>
 </figure>
 

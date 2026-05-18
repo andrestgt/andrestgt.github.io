@@ -24,10 +24,27 @@ Atmospheric and popular restaurant inside the old town walls serving very good l
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-4.jpg" alt="Reštaurácia Kupecká Bašta">
   <figcaption>Reštaurácia Kupecká Bašta</figcaption>
 </figure>
+<figure>
+  <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-5.jpg" alt="Reštaurácia Kupecká Bašta">
+  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-6.jpg" alt="Reštaurácia Kupecká Bašta">
+  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+</figure>
+<figure>
+  <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-7.jpg" alt="Reštaurácia Kupecká Bašta">
+  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

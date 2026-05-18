@@ -24,10 +24,38 @@ Large restaurant of chalets above lotus ponds in the midst of rice fields. It's 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/dam-tram-chim-4.jpg" alt="Đảm Tràm Chim">
   <figcaption>Đảm Tràm Chim</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/dam-tram-chim-5.jpg" alt="Đảm Tràm Chim">
+  <figcaption>Đảm Tràm Chim</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/dam-tram-chim-6.jpg" alt="Đảm Tràm Chim">
+  <figcaption>Đảm Tràm Chim</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/dam-tram-chim-7.jpg" alt="Đảm Tràm Chim">
+  <figcaption>Đảm Tràm Chim</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/dam-tram-chim-8.jpg" alt="Đảm Tràm Chim">
+  <figcaption>Đảm Tràm Chim</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/dam-tram-chim-9.jpg" alt="Đảm Tràm Chim">
+  <figcaption>Đảm Tràm Chim</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

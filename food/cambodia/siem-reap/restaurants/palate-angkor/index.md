@@ -24,8 +24,30 @@ Attractive, upmarket Khmer fusion restaurant by the river. Food comes tapas-size
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/palate-angkor-4.jpg" alt="Palate Angkor Restaurant & Bar">
+  <figcaption>Palate Angkor Restaurant & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/palate-angkor-5.jpg" alt="Palate Angkor Restaurant & Bar">
+  <figcaption>Palate Angkor Restaurant & Bar</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/siem-reap/palate-angkor-6.jpg" alt="Palate Angkor Restaurant & Bar">
+  <figcaption>Palate Angkor Restaurant & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/siem-reap/palate-angkor-7.jpg" alt="Palate Angkor Restaurant & Bar">
+  <figcaption>Palate Angkor Restaurant & Bar</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/cambodia/siem-reap/palate-angkor-8.jpg" alt="Palate Angkor Restaurant & Bar">
   <figcaption>Palate Angkor Restaurant & Bar</figcaption>
 </figure>
 

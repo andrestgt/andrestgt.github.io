@@ -24,10 +24,16 @@ Spice Island Café is probably the most popular place in Banda Neira with Wester
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/maluku/banda-islands/spice-island-cafe-4.jpg" alt="Spice Island Cafe">
   <figcaption>Spice Island Cafe</figcaption>
 </figure>
+<figure>
+  <img src="/photos/indonesia/maluku/banda-islands/spice-island-cafe-5.jpg" alt="Spice Island Cafe">
+  <figcaption>Spice Island Cafe</figcaption>
+</figure>
+</div>
 
 The menu covers a range of local dishes. I tried ulang-ulang with kenari nut sauce, sup pala (nutmeg soup), and fish aru-aru. The food was generally well prepared and portions were reasonable.
 

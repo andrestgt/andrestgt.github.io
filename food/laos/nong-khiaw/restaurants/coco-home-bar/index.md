@@ -24,10 +24,16 @@ Probably the most inviting restaurant in Nong Khiaw, with pleasant views and rel
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/laos/nong-khiaw/coco-home-bar-4.jpg" alt="Coco Home Bar & Restaurant">
   <figcaption>Coco Home Bar & Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/laos/nong-khiaw/coco-home-bar-5.jpg" alt="Coco Home Bar & Restaurant">
+  <figcaption>Coco Home Bar & Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

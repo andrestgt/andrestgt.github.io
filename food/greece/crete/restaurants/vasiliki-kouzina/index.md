@@ -24,10 +24,27 @@ Despite the prime tourist location, Vasiliki Kouzina serves honest Mediterranean
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/greece/crete/vasiliki-kouzina-4.jpg" alt="Βασιλική Κουζίνα">
   <figcaption>Βασιλική Κουζίνα</figcaption>
 </figure>
+<figure>
+  <img src="/photos/greece/crete/vasiliki-kouzina-5.jpg" alt="Βασιλική Κουζίνα">
+  <figcaption>Βασιλική Κουζίνα</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/greece/crete/vasiliki-kouzina-6.jpg" alt="Βασιλική Κουζίνα">
+  <figcaption>Βασιλική Κουζίνα</figcaption>
+</figure>
+<figure>
+  <img src="/photos/greece/crete/vasiliki-kouzina-7.jpg" alt="Βασιλική Κουζίνα">
+  <figcaption>Βασιλική Κουζίνα</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

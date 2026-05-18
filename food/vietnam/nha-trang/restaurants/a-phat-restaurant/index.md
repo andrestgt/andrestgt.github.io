@@ -24,10 +24,16 @@ As one of the most upmarket restaurants in the Big C area, this large open air e
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/a-phat-restaurant-4.jpg" alt="A Phát Restaurant">
   <figcaption>A Phát Restaurant</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/a-phat-restaurant-5.jpg" alt="A Phát Restaurant">
+  <figcaption>A Phát Restaurant</figcaption>
+</figure>
+</div>
 
 The service here is good and friendly, and the menu offers a huge selection of dishes, mostly standards, but there's a few less common choices such as eel sausage (my favourite) and their special fried rice served in an edible bowl. The food is generally good to excellent and prices are moderate, 150-200k per head with beers.
 

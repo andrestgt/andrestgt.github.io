@@ -24,8 +24,41 @@ Beautiful fine dining restaurant outside of town. A real surprise, with impeccab
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/davids-kitchen-4.jpg" alt="David's Kitchen at 909">
+  <figcaption>David's Kitchen at 909</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/davids-kitchen-5.jpg" alt="David's Kitchen at 909">
+  <figcaption>David's Kitchen at 909</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/davids-kitchen-6.jpg" alt="David's Kitchen at 909">
+  <figcaption>David's Kitchen at 909</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/davids-kitchen-7.jpg" alt="David's Kitchen at 909">
+  <figcaption>David's Kitchen at 909</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/davids-kitchen-8.jpg" alt="David's Kitchen at 909">
+  <figcaption>David's Kitchen at 909</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/davids-kitchen-9.jpg" alt="David's Kitchen at 909">
+  <figcaption>David's Kitchen at 909</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/davids-kitchen-10.jpg" alt="David's Kitchen at 909">
   <figcaption>David's Kitchen at 909</figcaption>
 </figure>
 

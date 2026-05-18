@@ -13,6 +13,28 @@ subtitle: Lake Balaton · Restaurant
 
 This is the place to go in the area if you're looking for huge portions at rock-bottom prices. Considering the prices, the quality is actually very good. Everything from pizza to game to beef stew comes in large portions, and the set menus are unbeatable value. It's no wonder the place is packed every day. If I lived here, I'd probably come regularly — it's not much more expensive than cooking at home.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/hungary/balaton/csillagvar-etterem-2.jpg" alt="Csillagvár Étterem">
+  <figcaption>Csillagvár Étterem</figcaption>
+</figure>
+<figure>
+  <img src="/photos/hungary/balaton/csillagvar-etterem-3.jpg" alt="Csillagvár Étterem">
+  <figcaption>Csillagvár Étterem</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/hungary/balaton/csillagvar-etterem-4.jpg" alt="Csillagvár Étterem">
+  <figcaption>Csillagvár Étterem</figcaption>
+</figure>
+<figure>
+  <img src="/photos/hungary/balaton/csillagvar-etterem-5.jpg" alt="Csillagvár Étterem">
+  <figcaption>Csillagvár Étterem</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

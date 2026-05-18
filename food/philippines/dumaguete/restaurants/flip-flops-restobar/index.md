@@ -24,10 +24,27 @@ Simple but excellent little restobar attracting a pleasant mix of locals and exp
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/flip-flops-restobar-4.jpg" alt="Flip Flops Restobar">
   <figcaption>Flip Flops Restobar</figcaption>
 </figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/flip-flops-restobar-5.jpg" alt="Flip Flops Restobar">
+  <figcaption>Flip Flops Restobar</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/dumaguete/flip-flops-restobar-6.jpg" alt="Flip Flops Restobar">
+  <figcaption>Flip Flops Restobar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/flip-flops-restobar-7.jpg" alt="Flip Flops Restobar">
+  <figcaption>Flip Flops Restobar</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -13,8 +13,52 @@ subtitle: Hội An · Bia Hơi
 
 Yes, it's a tourist place, with a view, but the food here is superb and very reasonably priced. There's cheap bia hoi, too. Try the fish in banana leaf and the won ton. This is my regular joint whenever I'm in town, and it wouldn't be if the food wasn't bloody good
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-2.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-3.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-4.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-5.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-6.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-7.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-8.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-9.jpg" alt="Chips 'N' Fish 'N' Stuff">
+  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-10.jpg" alt="Chips 'N' Fish 'N' Stuff">
   <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
 </figure>
 
@@ -31,7 +75,6 @@ I deduct one star from my previous review. This used to be my favourite place in
 | Value for money | 9/10 |
 | Atmosphere | 8/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1+Nguyễn+Phúc+Chu+Street+Hội+An+Quảng+Nam+Vietnam)

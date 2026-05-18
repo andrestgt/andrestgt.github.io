@@ -24,8 +24,30 @@ Giuseppe serves some of the best pizzas and pasta dishes in the Visayas, with hu
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/bohol-panglao/giuseppe-pizzeria-4.jpg" alt="Giuseppe Pizzeria & Sicilian Roast">
+  <figcaption>Giuseppe Pizzeria & Sicilian Roast</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/giuseppe-pizzeria-5.jpg" alt="Giuseppe Pizzeria & Sicilian Roast">
+  <figcaption>Giuseppe Pizzeria & Sicilian Roast</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/giuseppe-pizzeria-6.jpg" alt="Giuseppe Pizzeria & Sicilian Roast">
+  <figcaption>Giuseppe Pizzeria & Sicilian Roast</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/giuseppe-pizzeria-7.jpg" alt="Giuseppe Pizzeria & Sicilian Roast">
+  <figcaption>Giuseppe Pizzeria & Sicilian Roast</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/bohol-panglao/giuseppe-pizzeria-8.jpg" alt="Giuseppe Pizzeria & Sicilian Roast">
   <figcaption>Giuseppe Pizzeria & Sicilian Roast</figcaption>
 </figure>
 

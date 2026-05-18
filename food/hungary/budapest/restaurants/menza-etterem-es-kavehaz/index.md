@@ -13,6 +13,11 @@ subtitle: Budapest · Hungarian Restaurant
 
 In an area packed with good restaurants around the lovely Liszt Ferenc tér, Menza stands out for its attractive menu, which includes several goose dishes including roasted goose and foie gras. Prices are on the higher side for Hungary, but still very reasonable by international standards, especially considering the quality. The interior is chic but a bit old-fashioned — in good weather, sitting outside is clearly the nicer option.
 
+<figure>
+  <img src="/photos/hungary/budapest/menza-etterem-es-kavehaz-2.jpg" alt="Menza Étterem és Kávéház">
+  <figcaption>Menza Étterem és Kávéház</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -24,10 +24,27 @@ This is probably the biggest BiaCraft place in town, and owing to the location i
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-4.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
   <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-5.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
+  <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-6.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
+  <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/biacraft-truong-sa-dphu-nhuan-7.jpg" alt="BiaCraft Truong Sa | D.Phu Nhuan">
+  <figcaption>BiaCraft Truong Sa | D.Phu Nhuan</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

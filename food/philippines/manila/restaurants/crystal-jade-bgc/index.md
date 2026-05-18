@@ -6,28 +6,7 @@ title: Crystal Jade Dining In
 subtitle: BGC, Taguig · Chinese, Dim Sum
 ---
 
-<figure>
-  <img src="/photos/philippines/manila/crystal-jade-bgc-1.jpg" alt="Crystal Jade Dining In">
-  <figcaption>Crystal Jade Dining In</figcaption>
-</figure>
-
 The main reason to visit any Crystal Jade branch is usually the dim sum, and this one is no exception. The BGC branch is more polished and upscale than most, with prices to match. The dim sum selection is not huge, but the quality is consistently very good. At around 200 Php a basket it feels expensive, but proper dim sum options in Manila are surprisingly limited, and Crystal Jade is probably still among the best.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/manila/crystal-jade-bgc-2.jpg" alt="Crystal Jade Dining In">
-  <figcaption>Crystal Jade Dining In</figcaption>
-</figure>
-<figure>
-  <img src="/photos/philippines/manila/crystal-jade-bgc-3.jpg" alt="Crystal Jade Dining In">
-  <figcaption>Crystal Jade Dining In</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/philippines/manila/crystal-jade-bgc-4.jpg" alt="Crystal Jade Dining In">
-  <figcaption>Crystal Jade Dining In</figcaption>
-</figure>
 
 ## Ratings
 

@@ -13,12 +13,29 @@ subtitle: Nha Trang · Vietnamese
 
 Charming old-fashioned European style coffee house. They serve one of the best cappuccinos in town at a reasonable 50k. Comfy seating is available, but the colonial theme means there's no ac. Wifi is good though.
 
-Food is rather pricey and rather hit and miss. While I love their merguez sandwich, the nicely presented 'bo ne' was an abomination, with a thin slice of dry rubbery meat in tasteless sauce. I haven't eaten there since.
-
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/time-house-bistro-2.jpg" alt="Time House Bistro">
   <figcaption>Time House Bistro</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/time-house-bistro-3.jpg" alt="Time House Bistro">
+  <figcaption>Time House Bistro</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/time-house-bistro-4.jpg" alt="Time House Bistro">
+  <figcaption>Time House Bistro</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/time-house-bistro-5.jpg" alt="Time House Bistro">
+  <figcaption>Time House Bistro</figcaption>
+</figure>
+</div>
+
+Food is rather pricey and rather hit and miss. While I love their merguez sandwich, the nicely presented 'bo ne' was an abomination, with a thin slice of dry rubbery meat in tasteless sauce. I haven't eaten there since.
 
 ## Ratings
 

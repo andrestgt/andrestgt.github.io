@@ -24,10 +24,16 @@ If you're in Nha Trang and you feel a craving for Dim Sum you really don't have 
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/steam-n-spice-4.jpg" alt="Steam n' Spice">
   <figcaption>Steam n' Spice</figcaption>
 </figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/steam-n-spice-5.jpg" alt="Steam n' Spice">
+  <figcaption>Steam n' Spice</figcaption>
+</figure>
+</div>
 
 Service and atmosphere are predictably good.
 
@@ -40,7 +46,6 @@ Service and atmosphere are predictably good.
 | Value for money | 7/10 |
 | Atmosphere | 8/10 |
 | Overall | 8/10 |
-
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sheraton+Nha+Trang+Hotel+**&**+Spa+26-28+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
