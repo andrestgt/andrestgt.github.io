@@ -32,4 +32,4 @@ Destiny Café has comfortable armchairs and surprisingly decent cappuccino for a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Destiny+Cafe+Rue+Pasteur+Kampong+Cham+Cambodia)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** inexpensive to moderate
