@@ -22,11 +22,11 @@ The Kitchen looks inviting enough from the outside, especially in Battambang's a
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 4/10  |
-| Service         | 4/10  |
+| Coffee          | 1/10  |
+| Service         | 5/10  |
 | Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Atmosphere      | 3/10  |
+| Overall         | 3/10  |
 
 ### Practical
 
