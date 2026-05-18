@@ -40,9 +40,3 @@ Prime corner location on the riverfront with cheap all-day drinks, free wifi, an
 
 ---
 
-## Ambience
-*Bassac Lane · Bar*
-Comfy and friendly low-key bar that's been around a while — reasonable drink prices and better-than-average bar food.
-→ [Read the full review](/food/cambodia/phnom-penh/bars-pubs/ambience/)
-
----
