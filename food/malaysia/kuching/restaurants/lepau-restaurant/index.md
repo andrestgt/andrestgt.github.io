@@ -6,7 +6,23 @@ title: Lepau Restaurant
 subtitle: Jalan Ban Hock, Kuching · Sarawakian
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuching/lepau-restaurant-1.jpg" alt="Lepau Restaurant">
+  <figcaption>Lepau Restaurant</figcaption>
+</figure>
+
 A very interesting place to explore Sarawakian flavours that feel genuinely different from standard Malaysian cuisine. Dishes such as catfish curry and prawn umai can be unfamiliar at first, but they are delicious once your palate adjusts. Prices remain surprisingly affordable.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuching/lepau-restaurant-2.jpg" alt="Lepau Restaurant">
+  <figcaption>Lepau Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuching/lepau-restaurant-3.jpg" alt="Lepau Restaurant">
+  <figcaption>Lepau Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

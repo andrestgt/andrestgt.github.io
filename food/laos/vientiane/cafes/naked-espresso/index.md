@@ -6,7 +6,28 @@ title: Naked Espresso
 subtitle: Dongpalan Rd, Vientiane · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/laos/vientiane/naked-espresso-1.jpg" alt="Naked Espresso">
+  <figcaption>Naked Espresso</figcaption>
+</figure>
+
 The cappuccino here is probably the best in town — nice and smooth. Friendly place, great location in the Old Town. The only drawback is the lack of comfy seating. They also do tasty sandwiches here which, at around 30k, are not much more expensive than a bowl of noodle soup at a local eatery. My favourite coffee shop in Vientiane.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/laos/vientiane/naked-espresso-2.jpg" alt="Naked Espresso">
+  <figcaption>Naked Espresso</figcaption>
+</figure>
+<figure>
+  <img src="/photos/laos/vientiane/naked-espresso-3.jpg" alt="Naked Espresso">
+  <figcaption>Naked Espresso</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/laos/vientiane/naked-espresso-4.jpg" alt="Naked Espresso">
+  <figcaption>Naked Espresso</figcaption>
+</figure>
 
 ## Ratings
 

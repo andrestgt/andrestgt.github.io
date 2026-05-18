@@ -6,6 +6,11 @@ title: Rung Rueang Pork Tung Noodle
 subtitle: Khlong Toei · Street Food, Noodles
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/rung-rueang-1.jpg" alt="Rung Rueang Pork Tung Noodle">
+  <figcaption>Rung Rueang Pork Tung Noodle</figcaption>
+</figure>
+
 Very basic but deservedly popular noodle place on Sukhumvit 26. I wouldn’t travel across Bangkok specifically for it, but for a quick bowl of dry tom yum noodles with fish crackers it’s an excellent option, especially given the low prices for this area.
 
 ## Ratings

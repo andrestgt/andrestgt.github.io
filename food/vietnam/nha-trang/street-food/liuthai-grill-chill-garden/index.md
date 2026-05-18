@@ -5,6 +5,12 @@ review: true
 title: LiuThai Grill & Chill Garden
 subtitle: Nha Trang · Thai
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/liuthai-grill-chill-garden-1.jpg" alt="LiuThai Grill & Chill Garden">
+  <figcaption>LiuThai Grill & Chill Garden</figcaption>
+</figure>
+
 Simple street food place with small chairs and plastic tables on a busy road. So the Bangkok feeling is there.
 
 Sadly, the food is not very good, and not very Thai.

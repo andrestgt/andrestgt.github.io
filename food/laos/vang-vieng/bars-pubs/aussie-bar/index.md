@@ -6,7 +6,17 @@ title: Aussie Bar
 subtitle: Vang Vieng · Bar
 ---
 
+<figure>
+  <img src="/photos/laos/vang-vieng/aussie-bar-1.jpg" alt="Aussie Bar">
+  <figcaption>Aussie Bar</figcaption>
+</figure>
+
 Cheap and friendly backpacker bar with good larb gai and generous portions of Western comfort food. Very easy place to settle into for an evening in Vang Vieng.
+
+<figure>
+  <img src="/photos/laos/vang-vieng/aussie-bar-2.jpg" alt="Aussie Bar">
+  <figcaption>Aussie Bar</figcaption>
+</figure>
 
 ## Ratings
 

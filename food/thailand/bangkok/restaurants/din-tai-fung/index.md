@@ -6,7 +6,17 @@ title: Din Tai Fung Central Embassy
 subtitle: Pathum Wan · Taiwanese, Dumplings
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/din-tai-fung-1.jpg" alt="Din Tai Fung Central Embassy">
+  <figcaption>Din Tai Fung Central Embassy</figcaption>
+</figure>
+
 It’s Din Tai Fung, so naturally the dumplings are very good. Prices here feel noticeably higher than in Kuala Lumpur or even Hong Kong, though. Expect to spend at least 500 Bt per person if you actually want a full meal.
+
+<figure>
+  <img src="/photos/thailand/bangkok/din-tai-fung-2.jpg" alt="Din Tai Fung Central Embassy">
+  <figcaption>Din Tai Fung Central Embassy</figcaption>
+</figure>
 
 ## Ratings
 

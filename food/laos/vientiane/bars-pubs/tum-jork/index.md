@@ -6,6 +6,11 @@ title: Tum Jork
 subtitle: Vientiane · Beer Garden
 ---
 
+<figure>
+  <img src="/photos/laos/vientiane/tum-jork-1.jpg" alt="Tum Jork">
+  <figcaption>Tum Jork</figcaption>
+</figure>
+
 Upmarket local beer garden and cocktail bar by the river. No English menu. Big Beer Lao is 13k. Good atmosphere.
 
 ## Ratings

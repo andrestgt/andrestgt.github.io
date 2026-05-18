@@ -6,7 +6,28 @@ title: Tamarind
 subtitle: Kingkitsarath Rd, Luang Prabang · Lao
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/tamarind-1.jpg" alt="Tamarind">
+  <figcaption>Tamarind</figcaption>
+</figure>
+
 If you only eat at one Lao restaurant in Luang Prabang, Tamarind is probably the best choice. The food is genuinely excellent and, while not especially cheap, it avoids the feeling of being a tourist trap that some other places in town suffer from.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/laos/luang-prabang/tamarind-2.jpg" alt="Tamarind">
+  <figcaption>Tamarind</figcaption>
+</figure>
+<figure>
+  <img src="/photos/laos/luang-prabang/tamarind-3.jpg" alt="Tamarind">
+  <figcaption>Tamarind</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/laos/luang-prabang/tamarind-4.jpg" alt="Tamarind">
+  <figcaption>Tamarind</figcaption>
+</figure>
 
 ## Ratings
 

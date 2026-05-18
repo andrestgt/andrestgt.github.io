@@ -6,7 +6,23 @@ title: Utopia Bar & Restaurant
 subtitle: Kingkitsarath Rd, Luang Prabang · Bar
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/utopia-bar-1.jpg" alt="Utopia Bar & Restaurant">
+  <figcaption>Utopia Bar & Restaurant</figcaption>
+</figure>
+
 Utopia is probably the definitive traveller hangout in Luang Prabang. The open-air garden setting overlooking the river is beautifully designed, with cushions scattered everywhere for lounging. Drinks are slightly expensive, but the atmosphere more than compensates.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/laos/luang-prabang/utopia-bar-2.jpg" alt="Utopia Bar & Restaurant">
+  <figcaption>Utopia Bar & Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/laos/luang-prabang/utopia-bar-3.jpg" alt="Utopia Bar & Restaurant">
+  <figcaption>Utopia Bar & Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -6,7 +6,28 @@ title: Zinc Restaurant & Bar
 subtitle: Tabuan Rd, Kuching · International
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-1.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+
 Excellent casual fine dining restaurant with an intimate atmosphere, friendly service and genuinely impressive food. We enjoyed it so much that we returned the following day. Everything we tried, from the foie gras to the laksa pizza and escargots, was superb. Around RM80 per person including drinks feels very fair for the quality on offer.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-2.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-3.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/kuching/zinc-restaurant-4.jpg" alt="Zinc Restaurant & Bar">
+  <figcaption>Zinc Restaurant & Bar</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,7 +6,28 @@ title: Meet+Wine
 subtitle: Signal Hill Park, Kota Kinabalu · Mediterranean
 ---
 
+<figure>
+  <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-1.jpg" alt="Meet+Wine">
+  <figcaption>Meet+Wine</figcaption>
+</figure>
+
 Fantastic little bistro and wine bar. Small menu of delicious Mediterranean dishes — pulpitos, lamb ragout pasta, cheeses, charcuterie — and a great wine selection, all reasonably priced for Malaysia. NZ Sauvignon Blanc for under RM150. Love this place.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-2.jpg" alt="Meet+Wine">
+  <figcaption>Meet+Wine</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-3.jpg" alt="Meet+Wine">
+  <figcaption>Meet+Wine</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-4.jpg" alt="Meet+Wine">
+  <figcaption>Meet+Wine</figcaption>
+</figure>
 
 ## Ratings
 

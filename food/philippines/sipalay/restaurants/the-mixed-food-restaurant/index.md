@@ -6,6 +6,11 @@ title: The Mixed Food Restaurant
 subtitle: Sipalay City · International
 ---
 
+<figure>
+  <img src="/photos/philippines/sipalay/the-mixed-food-restaurant-1.jpg" alt="The Mixed Food Restaurant">
+  <figcaption>The Mixed Food Restaurant</figcaption>
+</figure>
+
 Laid-back expat-run beach shack serving cheap food and cold beer in a relaxed setting. The green fish curry was surprisingly decent, making this a perfectly fine casual stop in Sipalay.
 
 ## Ratings

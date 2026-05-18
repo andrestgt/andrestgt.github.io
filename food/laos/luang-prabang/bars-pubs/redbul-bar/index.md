@@ -6,7 +6,23 @@ title: Redbul Sport Bar
 subtitle: Kingkitsarath Rd, Luang Prabang · Bar
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/redbul-bar-1.jpg" alt="Redbul Sport Bar">
+  <figcaption>Redbul Sport Bar</figcaption>
+</figure>
+
 Redbul Bar looks like a rough little backpacker dive from the outside, but it's actually one of the friendliest places in Luang Prabang. The cheap cocktail buckets are dangerously drinkable, especially while lounging on Thai cushions, but the real surprise is the food. The burgers are genuinely excellent and the pizzas use proper ingredients instead of the usual backpacker-bar shortcuts.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/laos/luang-prabang/redbul-bar-2.jpg" alt="Redbul Sport Bar">
+  <figcaption>Redbul Sport Bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/laos/luang-prabang/redbul-bar-3.jpg" alt="Redbul Sport Bar">
+  <figcaption>Redbul Sport Bar</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

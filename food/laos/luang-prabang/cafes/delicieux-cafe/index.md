@@ -6,6 +6,11 @@ title: Delicieux Café & Restaurant
 subtitle: Luang Prabang · Café
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/delicieux-cafe-1.jpg" alt="Delicieux Café & Restaurant">
+  <figcaption>Delicieux Café & Restaurant</figcaption>
+</figure>
+
 Delicieux is a pleasant air-conditioned café with wifi and coffee that is at least slightly better and cheaper than Joma's. Seating is not especially comfortable, though. The dim sum are clearly not homemade, but still surprisingly tasty.
 
 ## Ratings

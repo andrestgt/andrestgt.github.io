@@ -6,7 +6,23 @@ title: El Chupacabra
 subtitle: Poblacion, Makati · Bar & Grill
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/el-chupacabra-1.jpg" alt="El Chupacabra">
+  <figcaption>El Chupacabra</figcaption>
+</figure>
+
 El Chupacabra remains one of the best hangouts in Makati and is deservedly popular. The Tex-Fil-Mex food is genuinely tasty, the booze is inexpensive, and the atmosphere is always lively. The lengua burrito and sisig taco are both excellent. Very easy place to recommend.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/el-chupacabra-2.jpg" alt="El Chupacabra">
+  <figcaption>El Chupacabra</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/el-chupacabra-3.jpg" alt="El Chupacabra">
+  <figcaption>El Chupacabra</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

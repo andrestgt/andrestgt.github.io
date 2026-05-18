@@ -6,6 +6,11 @@ title: Joma Bakery Café – Chao Fa Ngum
 subtitle: Chao Fa Ngum Rd, Luang Prabang · Café
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/joma-bakery-cafe-1.jpg" alt="Joma Bakery Café – Chao Fa Ngum">
+  <figcaption>Joma Bakery Café – Chao Fa Ngum</figcaption>
+</figure>
+
 This beautiful café inside an old colonial villa used to serve some of the best coffee in Laos years ago, but the quality has declined badly. The cappuccino was bitter and, predictably for Laos, topped with cinnamon.
 
 ## Ratings

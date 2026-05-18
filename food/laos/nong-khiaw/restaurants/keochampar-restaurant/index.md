@@ -6,7 +6,17 @@ title: Keochampar Restaurant
 subtitle: Nong Khiaw · Lao
 ---
 
+<figure>
+  <img src="/photos/laos/nong-khiaw/keochampar-restaurant-1.jpg" alt="Keochampar Restaurant">
+  <figcaption>Keochampar Restaurant</figcaption>
+</figure>
+
 Keochampar serves tasty home-style Lao food at lower prices than most nearby competitors while maintaining similar quality. The flavours are toned down for foreign visitors, like almost everywhere in Nong Khiaw, but that honestly suits many dishes quite well.
+
+<figure>
+  <img src="/photos/laos/nong-khiaw/keochampar-restaurant-2.jpg" alt="Keochampar Restaurant">
+  <figcaption>Keochampar Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

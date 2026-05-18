@@ -6,7 +6,28 @@ title: Bohol Farm
 subtitle: Dauis, Bohol · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-1.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+
 Bohol Farm has a brilliant location with wonderful views over the surrounding countryside. The food is decent, and by Philippine standards actually very good. Some dishes lean a little too sweet for my taste, but there are plenty of salads and vegetable dishes on the menu as well. Prices are fair for the setting.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-2.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-3.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-4.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
 
 ## Ratings
 

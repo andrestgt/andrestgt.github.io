@@ -6,7 +6,28 @@ title: Lemoni Café and Restaurant
 subtitle: D'Mall, Boracay · Café & Bistro
 ---
 
+<figure>
+  <img src="/photos/philippines/boracay/lemoni-cafe-1.jpg" alt="Lemoni Café and Restaurant">
+  <figcaption>Lemoni Café and Restaurant</figcaption>
+</figure>
+
 Prices have gone up in recent years, so it's not a bargain anymore, but the bistro food here is still delicious, some of the best of the island. Lovely soups and sandwiches, and great versions of classic Filipino breakfasts.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/boracay/lemoni-cafe-2.jpg" alt="Lemoni Café and Restaurant">
+  <figcaption>Lemoni Café and Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/boracay/lemoni-cafe-3.jpg" alt="Lemoni Café and Restaurant">
+  <figcaption>Lemoni Café and Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/boracay/lemoni-cafe-4.jpg" alt="Lemoni Café and Restaurant">
+  <figcaption>Lemoni Café and Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

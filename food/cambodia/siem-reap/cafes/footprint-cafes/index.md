@@ -6,7 +6,17 @@ title: Footprint Cafes
 subtitle: Wat Bo, Siem Reap · Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/siem-reap/footprint-cafes-1.jpg" alt="Footprint Cafes">
+  <figcaption>Footprint Cafes</figcaption>
+</figure>
+
 Footprint is a friendly little book café with excellent coffee and very decent Khmer bistro food. The river fish dishes are particularly good. The only downside is the seating, which is far less comfortable than the relaxed atmosphere would suggest.
+
+<figure>
+  <img src="/photos/cambodia/siem-reap/footprint-cafes-2.jpg" alt="Footprint Cafes">
+  <figcaption>Footprint Cafes</figcaption>
+</figure>
 
 ## Ratings
 

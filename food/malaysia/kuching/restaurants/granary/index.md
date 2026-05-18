@@ -6,7 +6,17 @@ title: Granary
 subtitle: Wayang St, Kuching · International
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuching/granary-1.jpg" alt="Granary">
+  <figcaption>Granary</figcaption>
+</figure>
+
 This place looks like it should be excellent, but then they serve pizza topped with chilli sauce and red wine at tropical room temperature. Despite these questionable decisions, it is still a decent enough restaurant with fair prices and a fairly interesting menu.
+
+<figure>
+  <img src="/photos/malaysia/kuching/granary-2.jpg" alt="Granary">
+  <figcaption>Granary</figcaption>
+</figure>
 
 ## Ratings
 

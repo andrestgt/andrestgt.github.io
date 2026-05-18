@@ -6,6 +6,11 @@ title: Nazim Indian Restaurant – Laos Branch
 subtitle: Vang Vieng · Indian
 ---
 
+<figure>
+  <img src="/photos/laos/vang-vieng/nazim-indian-1.jpg" alt="Nazim Indian Restaurant – Laos Branch">
+  <figcaption>Nazim Indian Restaurant – Laos Branch</figcaption>
+</figure>
+
 Before coming back, I'd read all the bad reviews but still wanted to give it another chance. Bad idea. The chicken saag was a joke — it tasted of nothing and had the cheapest cut of meat inside. No idea how it's even possible to cook an Indian spinach dish and make it so bland. A real disappointment. Two stars only for the naan which was okay.
 
 ## Ratings

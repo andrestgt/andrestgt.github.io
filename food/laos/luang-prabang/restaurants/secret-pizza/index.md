@@ -6,7 +6,23 @@ title: Secret Pizza
 subtitle: Luang Prabang · Italian
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/secret-pizza-1.jpg" alt="Secret Pizza">
+  <figcaption>Secret Pizza</figcaption>
+</figure>
+
 Secret Pizza is only open twice a week, but it's absolutely worth planning around. The pizzas are genuinely as good as what you would expect in Italy, the lasagne is excellent too, and the prices remain very fair.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/laos/luang-prabang/secret-pizza-2.jpg" alt="Secret Pizza">
+  <figcaption>Secret Pizza</figcaption>
+</figure>
+<figure>
+  <img src="/photos/laos/luang-prabang/secret-pizza-3.jpg" alt="Secret Pizza">
+  <figcaption>Secret Pizza</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

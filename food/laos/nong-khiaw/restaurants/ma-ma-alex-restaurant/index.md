@@ -6,7 +6,23 @@ title: Ma Ma Alex Restaurant
 subtitle: Nong Khiaw · Lao
 ---
 
+<figure>
+  <img src="/photos/laos/nong-khiaw/ma-ma-alex-restaurant-1.jpg" alt="Ma Ma Alex Restaurant">
+  <figcaption>Ma Ma Alex Restaurant</figcaption>
+</figure>
+
 You need patience here because service moves very slowly, but the home-cooked food is tasty and reasonably priced. The aubergine dip with fried sticky rice was especially good.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/laos/nong-khiaw/ma-ma-alex-restaurant-2.jpg" alt="Ma Ma Alex Restaurant">
+  <figcaption>Ma Ma Alex Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/laos/nong-khiaw/ma-ma-alex-restaurant-3.jpg" alt="Ma Ma Alex Restaurant">
+  <figcaption>Ma Ma Alex Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
