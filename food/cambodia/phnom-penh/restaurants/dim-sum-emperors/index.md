@@ -43,4 +43,4 @@ Dim Sum Emperors is probably my favourite place for dim sum in Phnom Penh. The s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dim+Sum+Emperors+Central+Market+Phnom+Penh)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** 8-12 $
