@@ -6,8 +6,23 @@ title: Platanos
 subtitle: Crete · Taverna
 ---
 
+<figure>
+  <img src="/photos/greece/crete/platanos-1.jpg" alt="Platanos">
+  <figcaption>Platanos</figcaption>
+</figure>
 
 During the evenings this place seems to cater heavily to organised tour groups, but during the day it's a lovely shaded village taverna for a relaxed lunch or a glass of wine. Prices are fair and the atmosphere is very pleasant.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/greece/crete/platanos-2.jpg" alt="Platanos">
+  <figcaption>Platanos</figcaption>
+</figure>
+<figure>
+  <img src="/photos/greece/crete/platanos-3.jpg" alt="Platanos">
+  <figcaption>Platanos</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

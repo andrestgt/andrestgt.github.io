@@ -6,7 +6,23 @@ title: Sung Phochana
 subtitle: Phra Nakhon · Noodles
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/sung-phochana-1.jpg" alt="Sung Phochana">
+  <figcaption>Sung Phochana</figcaption>
+</figure>
+
 Excellent beef noodle soup served in a lovely setting beside the canal. A generous bowl with several different cuts of beef costs only around 70 Bt.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/sung-phochana-2.jpg" alt="Sung Phochana">
+  <figcaption>Sung Phochana</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/sung-phochana-3.jpg" alt="Sung Phochana">
+  <figcaption>Sung Phochana</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

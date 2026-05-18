@@ -6,7 +6,23 @@ title: Passion Chinese Restaurant
 subtitle: Pasay, Manila · Chinese
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/passion-chinese-restaurant-1.jpg" alt="Passion Chinese Restaurant">
+  <figcaption>Passion Chinese Restaurant</figcaption>
+</figure>
+
 Very fancy and correspondingly expensive Chinese restaurant. The dim sum quality varies quite a bit, from fairly average xiao long bao to genuinely excellent har gow. At these prices, though, consistency should really be higher.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/passion-chinese-restaurant-2.jpg" alt="Passion Chinese Restaurant">
+  <figcaption>Passion Chinese Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/passion-chinese-restaurant-3.jpg" alt="Passion Chinese Restaurant">
+  <figcaption>Passion Chinese Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

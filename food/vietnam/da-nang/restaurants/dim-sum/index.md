@@ -13,22 +13,6 @@ subtitle: Hải Châu · Chinese · Dim Sum
 
 Superb, high quality dim sum at very affordable prices. Hakao and Chao Fan are generously stuffed with fat prawns, the scallops and roast duck dumplings are both delicious.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/da-nang/dim-sum-2.jpg" alt="Dim Sum">
-  <figcaption>Dim Sum</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/da-nang/dim-sum-3.jpg" alt="Dim Sum">
-  <figcaption>Dim Sum</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/vietnam/da-nang/dim-sum-4.jpg" alt="Dim Sum">
-  <figcaption>Dim Sum</figcaption>
-</figure>
-
 These are up there with some of the best (and often much more expensive) dim sum I've had in Vietnam
 
 40k for a basket

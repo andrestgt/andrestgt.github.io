@@ -5,7 +5,40 @@ review: true
 title: Khoai
 subtitle: Thảo Điền · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khoai-1.jpg" alt="Khoai">
+  <figcaption>Khoai</figcaption>
+</figure>
+
 This is probably my favourite pub in Saigon. The haphazard deco works well, the atmosphere is good, there's a nice garden and they have a truly impressive selection of beers available, from unusual Vietnamese lager brands to exotic and obscure craft beers, domestic as well as international.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khoai-2.jpg" alt="Khoai">
+  <figcaption>Khoai</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khoai-3.jpg" alt="Khoai">
+  <figcaption>Khoai</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khoai-4.jpg" alt="Khoai">
+  <figcaption>Khoai</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khoai-5.jpg" alt="Khoai">
+  <figcaption>Khoai</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/khoai-6.jpg" alt="Khoai">
+  <figcaption>Khoai</figcaption>
+</figure>
 
 There's 20% discount from 5-7 pm but prices are very reasonable anyway, some of the lowest in the city.
 

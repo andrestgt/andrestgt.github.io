@@ -6,6 +6,10 @@ title: Chez Georges
 subtitle: Paris · Wine Bar
 ---
 
+<figure>
+  <img src="/photos/france/paris/chez-georges-1.jpg" alt="Chez Georges">
+  <figcaption>Chez Georges</figcaption>
+</figure>
 
 Chez Georges has a unique wine cellar atmosphere. The best approach is probably to order a bottle of wine, some cheese, and stay a while. There are a lot of tourists, though.
 

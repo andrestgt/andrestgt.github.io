@@ -6,34 +6,7 @@ title: Twin Lotus Restaurant
 subtitle: Sihanoukville · International
 ---
 
-<figure>
-  <img src="/photos/cambodia/sihanoukville/twin-lotus-restaurant-1.jpg" alt="Twin Lotus Restaurant">
-  <figcaption>Twin Lotus Restaurant</figcaption>
-</figure>
-
 Twin Lotus looks polished and rather upscale by Sihanoukville standards, but the experience didn't really justify the prices. A fairly average cappuccino costs 2.70$, and the dish we actually wanted to order was unavailable. Overall not particularly impressive.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/cambodia/sihanoukville/twin-lotus-restaurant-2.jpg" alt="Twin Lotus Restaurant">
-  <figcaption>Twin Lotus Restaurant</figcaption>
-</figure>
-<figure>
-  <img src="/photos/cambodia/sihanoukville/twin-lotus-restaurant-3.jpg" alt="Twin Lotus Restaurant">
-  <figcaption>Twin Lotus Restaurant</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/cambodia/sihanoukville/twin-lotus-restaurant-4.jpg" alt="Twin Lotus Restaurant">
-  <figcaption>Twin Lotus Restaurant</figcaption>
-</figure>
-<figure>
-  <img src="/photos/cambodia/sihanoukville/twin-lotus-restaurant-5.jpg" alt="Twin Lotus Restaurant">
-  <figcaption>Twin Lotus Restaurant</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

@@ -5,6 +5,12 @@ review: true
 title: Little Armenia
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/little-armenia-1.jpg" alt="Little Armenia">
+  <figcaption>Little Armenia</figcaption>
+</figure>
+
 Very greasy food, tasty enough and reasonably priced, but a long way from the authentic Armenian cooking I know and love. Perfectly acceptable for what it is, just not the real thing.
 
 ## Ratings

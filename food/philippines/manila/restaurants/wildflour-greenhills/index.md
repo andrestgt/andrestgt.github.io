@@ -6,11 +6,6 @@ title: Wildflour – Greenhills
 subtitle: Greenhills, San Juan · Café, Bistro
 ---
 
-<figure>
-  <img src="/photos/philippines/manila/wildflour-greenhills-1.jpg" alt="Wildflour – Greenhills">
-  <figcaption>Wildflour – Greenhills</figcaption>
-</figure>
-
 The same reliable Wildflour quality and pricing as elsewhere, but this branch is noticeably more spacious and quieter than the BGC or Makati locations. A very good choice if you want excellent pastries, strong coffee, and a calmer atmosphere.
 
 ## Ratings

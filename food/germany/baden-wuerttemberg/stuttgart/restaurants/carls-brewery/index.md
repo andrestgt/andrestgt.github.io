@@ -6,8 +6,17 @@ title: Carls Brewery
 subtitle: Stuttgart · Brewpub, Swabian
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/carls-brewery-1.jpg" alt="Carls Brewery">
+  <figcaption>Carls Brewery</figcaption>
+</figure>
 
 With its prime location, modern interior, and a very nice alfresco area overlooking Stuttgart’s main square and castle, Carls Brauhaus is almost always busy. Despite that, it’s not a tourist trap.
+
+<figure>
+  <img src="/photos/germany/stuttgart/carls-brewery-2.jpg" alt="Carls Brewery">
+  <figcaption>Carls Brewery</figcaption>
+</figure>
 
 The beer isn’t overpriced, and the food, while not cheap, is traditional Swabian and very good. If you can find a seat, there’s no reason not to come here.
 

@@ -6,7 +6,17 @@ title: Yong Pin Restaurant
 subtitle: Lebuh Kimberley, George Town · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/malaysia/penang/yong-pin-restaurant-1.jpg" alt="Yong Pin Restaurant">
+  <figcaption>Yong Pin Restaurant</figcaption>
+</figure>
+
 Traditional, chaotic and very hot dim sum spot. The steamed dumplings are fairly average and lack variety, but the fried items are genuinely excellent.
+
+<figure>
+  <img src="/photos/malaysia/penang/yong-pin-restaurant-2.jpg" alt="Yong Pin Restaurant">
+  <figcaption>Yong Pin Restaurant</figcaption>
+</figure>
 
 ## Ratings
 

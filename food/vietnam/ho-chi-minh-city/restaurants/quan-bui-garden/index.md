@@ -24,11 +24,6 @@ This branch has a lovely garden setting and serves a variety of Vietnamese dishe
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-4.jpg" alt="Quán Bụi Garden">
-  <figcaption>Quán Bụi Garden</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

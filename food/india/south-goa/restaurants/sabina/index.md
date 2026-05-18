@@ -6,6 +6,11 @@ title: Sabina
 subtitle: Palolem, South Goa · Goan, Indian
 ---
 
+<figure>
+  <img src="/photos/india/south-goa/sabina-1.jpg" alt="Sabina">
+  <figcaption>Sabina</figcaption>
+</figure>
+
 Good simple choice for a meal away from the beach shacks in Palolem. Family-run place with hearty portions of home-cooked meals — Goan, Indian and international. Their tandoori butter naan is perfectly flaky. I love the fact that they offer squid grilled in the tandoori — a good portion for 400 Rs. The mutton xacuti (300 Rs) was very flavourful.
 
 ## Ratings

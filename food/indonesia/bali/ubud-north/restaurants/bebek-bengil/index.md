@@ -6,7 +6,50 @@ title: Bebek Bengil Ubud
 subtitle: Ubud · Indonesian, Duck
 ---
 
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-1.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
+
 The most famous roast duck place in Ubud has magical rice paddy views from its back terrace, but I found their duck to be drier and less meaty than at some other places on the island, so I'm not convinced and don't quite understand the popularity and high prices. Taste-wise it was nice enough, but certainly not worth the hype. I really did like their satay though.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-2.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-3.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-4.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-5.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-6.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-7.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/indonesia/bali/bebek-bengil-8.jpg" alt="Bebek Bengil Ubud">
+  <figcaption>Bebek Bengil Ubud</figcaption>
+</figure>
 
 ## Ratings
 

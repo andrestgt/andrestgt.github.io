@@ -6,6 +6,11 @@ title: Murray D'Vine
 subtitle: BGC, Taguig · Bar
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/murray-dvine-1.jpg" alt="Murray D'Vine">
+  <figcaption>Murray D'Vine</figcaption>
+</figure>
+
 Probably the best bar around High Street for happy hour. Drinks specials are good, beers come properly ice cold, and the atmosphere is lively without trying too hard. The burgers are tasty but a little small for the price, while the sisig is delicious in a deeply unhealthy sort of way.
 
 ## Ratings

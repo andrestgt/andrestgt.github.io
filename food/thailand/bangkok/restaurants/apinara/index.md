@@ -6,7 +6,23 @@ title: Apinara
 subtitle: Pathum Wan · Thai
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/apinara-1.jpg" alt="Apinara">
+  <figcaption>Apinara</figcaption>
+</figure>
+
 Apinara is a very upmarket Thai restaurant at Groove with stylish interiors, good service, and genuinely delicious food. Portions are generous and prices feel fair considering the setting and quality. The Thai appetiser platter is especially worth ordering.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/apinara-2.jpg" alt="Apinara">
+  <figcaption>Apinara</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/apinara-3.jpg" alt="Apinara">
+  <figcaption>Apinara</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

@@ -6,6 +6,11 @@ title: The Baristro at Train Station
 subtitle: Wat Ket · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/baristro-train-station-1.jpg" alt="The Baristro at Train Station">
+  <figcaption>The Baristro at Train Station</figcaption>
+</figure>
+
 This chic, minimalist café is a much nicer place to wait for a train than the station hall. Great lattes go for 85 Bt, there's plenty of room for even big luggage, fast WiFi and strong AC.
 
 ## Ratings

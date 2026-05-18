@@ -6,7 +6,28 @@ title: River Vibe Bar & Restaurant
 subtitle: Samphanthawong, Talat Noi · Rooftop Bar
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/river-vibe-1.jpg" alt="River Vibe Bar & Restaurant">
+  <figcaption>River Vibe Bar & Restaurant</figcaption>
+</figure>
+
 We stayed just downstairs in the hotel, so this rooftop bar was the obvious place to spend a beautiful happy hour with great views over the river. That said, it's a standalone spot and well worth coming here even if you're not staying nearby.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/river-vibe-2.jpg" alt="River Vibe Bar & Restaurant">
+  <figcaption>River Vibe Bar & Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/river-vibe-3.jpg" alt="River Vibe Bar & Restaurant">
+  <figcaption>River Vibe Bar & Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/bangkok/river-vibe-4.jpg" alt="River Vibe Bar & Restaurant">
+  <figcaption>River Vibe Bar & Restaurant</figcaption>
+</figure>
 
 There aren't that many rooftop bars in Bangkok that don't break the bank, and this one, while not cheap, is quite affordable. The menu is standard Thai fare, portions are on the smaller side, but the food is good quality and properly spicy.
 

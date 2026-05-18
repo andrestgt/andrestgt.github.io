@@ -6,7 +6,17 @@ title: Mr. Kurosawa
 subtitle: Newport City, Pasay · Japanese, Fusion
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/mr-kurosawa-1.jpg" alt="Mr. Kurosawa">
+  <figcaption>Mr. Kurosawa</figcaption>
+</figure>
+
 Surprisingly good Japanese-inspired fusion food with friendly service and fair prices. The spicy salmon salad is excellent and the sashimi notably fresh. Highly recommended.
+
+<figure>
+  <img src="/photos/philippines/manila/mr-kurosawa-2.jpg" alt="Mr. Kurosawa">
+  <figcaption>Mr. Kurosawa</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,7 +6,28 @@ title: Batiks
 subtitle: Merdeka Walk · Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/sumatra/medan/batiks-1.jpg" alt="Batiks">
+  <figcaption>Batiks</figcaption>
+</figure>
+
 One of the better and more stylish restaurants around Merdeka Walk, making it ideal for people watching. Serves very good Indonesian classics including an especially tasty gado-gado. Prices are slightly above average for the area, though still perfectly reasonable.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/sumatra/medan/batiks-2.jpg" alt="Batiks">
+  <figcaption>Batiks</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/sumatra/medan/batiks-3.jpg" alt="Batiks">
+  <figcaption>Batiks</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/medan/batiks-4.jpg" alt="Batiks">
+  <figcaption>Batiks</figcaption>
+</figure>
 
 ## Ratings
 

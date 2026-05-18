@@ -6,7 +6,17 @@ title: Krua Rim Khlong
 subtitle: Chang Khlan · Street Food
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/krua-rim-khlong-1.jpg" alt="Krua Rim Khlong">
+  <figcaption>Krua Rim Khlong</figcaption>
+</figure>
+
 Set in a prime location by the Khlong Mae Kha canal, this small hole-in-the-wall is a pleasant place to stop for a quick bite and take in the atmosphere. It's ideal for a short break while exploring the neighbourhood.
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/krua-rim-khlong-2.jpg" alt="Krua Rim Khlong">
+  <figcaption>Krua Rim Khlong</figcaption>
+</figure>
 
 I've seen some complaints about portion sizes, but that feels a bit beside the point. This isn't a full restaurant and it's not somewhere you'd come for dinner, so it works best as a place for a light snack, a drink, and a bit of a rest.
 

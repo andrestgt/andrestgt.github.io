@@ -6,6 +6,10 @@ title: Folt Kávézó
 subtitle: Szentendre · Coffee Shop
 ---
 
+<figure>
+  <img src="/photos/hungary/szentendre/folt-kavezoe-1.jpg" alt="Folt Kávézó">
+  <figcaption>Folt Kávézó</figcaption>
+</figure>
 
 Fantastic and slightly eclectic coffee shop serving Italian-style coffee, craft beer, and — unusually for Hungary — genuinely friendly English-speaking service. The local craft beers are very good value. The coffee itself is only average, though.
 

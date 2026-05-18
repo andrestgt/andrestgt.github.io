@@ -6,7 +6,17 @@ title: Joseph Bar
 subtitle: Fontainhas, Panaji · Bar
 ---
 
+<figure>
+  <img src="/photos/india/north-goa/joseph-bar-1.jpg" alt="Joseph Bar">
+  <figcaption>Joseph Bar</figcaption>
+</figure>
+
 Hands down the best bar in town, and certainly the most picturesque, located in the most beautiful part of Panjim. It's a tiny place and not the cheapest boozer in town, but they have a nice selection of drinks, including some good locally brewed craft beers. Sadly there's no food.
+
+<figure>
+  <img src="/photos/india/north-goa/joseph-bar-2.jpg" alt="Joseph Bar">
+  <figcaption>Joseph Bar</figcaption>
+</figure>
 
 ## Ratings
 

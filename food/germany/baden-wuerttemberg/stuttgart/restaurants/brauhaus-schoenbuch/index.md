@@ -6,8 +6,17 @@ title: Brauhaus Schönbuch
 subtitle: Stuttgart · Brewpub, Swabian
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/brauhaus-schoenbuch-1.jpg" alt="Brauhaus Schönbuch">
+  <figcaption>Brauhaus Schönbuch</figcaption>
+</figure>
 
 Despite its fairly uninspiring backstreet location, Brauhaus Schönbuch manages to create a genuinely convincing traditional brewpub atmosphere. The beer selection is varied and well worth exploring, while the hearty Swabian food is tasty and served in generous portions. Prices, unsurprisingly, are very much in line with central Stuttgart.
+
+<figure>
+  <img src="/photos/germany/stuttgart/brauhaus-schoenbuch-2.jpg" alt="Brauhaus Schönbuch">
+  <figcaption>Brauhaus Schönbuch</figcaption>
+</figure>
 
 ## Ratings
 
