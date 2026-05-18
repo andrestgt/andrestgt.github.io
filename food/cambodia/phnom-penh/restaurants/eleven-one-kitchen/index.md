@@ -28,14 +28,14 @@ A welcoming, simple restaurant in the residential area south of the Russian Mark
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
+| Food            | 8/10   |
 | Service         | 8/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
+| Value for money | 9/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Eleven+One+Kitchen+St+460+Phnom+Penh)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** —
+💰 **Price level:** 10$
