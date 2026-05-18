@@ -22,4 +22,4 @@ Esso Drip is a small, friendly coffee shop serving one of the best cappuccinos i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Esso+Drip+Siem+Reap+Cambodia)
 ☕️ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** Moderate to expensive
