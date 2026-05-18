@@ -18,10 +18,6 @@ Saravoan has a beautiful sea-view terrace, attractive surroundings, and even pro
   <img src="/photos/cambodia/kampot-kep/saravoan-kep-2.jpg" alt="Saravoan Kep">
   <figcaption>Saravoan Kep</figcaption>
 </figure>
-<figure>
-  <img src="/photos/cambodia/kampot-kep/saravoan-kep-3.jpg" alt="Saravoan Kep">
-  <figcaption>Saravoan Kep</figcaption>
-</figure>
 </div>
 
 <figure>
@@ -36,11 +32,11 @@ Saravoan has a beautiful sea-view terrace, attractive surroundings, and even pro
 | Coffee          | 6/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 7.5/10 |
-| Overall         | 6/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Saravoan+Kep+Hotel+Restaurant+Bar+Coffee+Kep+Cambodia)
 ☕ **Type:** Café, Restaurant
-💰 **Price level:** —
+💰 **Price level:** moderate
