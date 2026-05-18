@@ -17,8 +17,8 @@ Lovely lounge bar in a great location. Service with a smile and seriously good c
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 8/10   |
-| Service         | 7/10   |
+| Bar food        | 7.5/10   |
+| Service         | 8/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
@@ -27,4 +27,4 @@ Lovely lounge bar in a great location. Service with a smile and seriously good c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Muse+Cafe+Lounge+Street+178+Phnom+Penh)
 🍺 **Type:** Bar, Lounge
-💰 **Price level:** —
+💰 **Price level:** moderate
