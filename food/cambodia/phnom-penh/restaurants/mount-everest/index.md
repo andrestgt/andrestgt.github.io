@@ -12,7 +12,7 @@ I still haven't found truly superb Indian food in Phnom Penh, but this is one of
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
@@ -22,4 +22,4 @@ I still haven't found truly superb Indian food in Phnom Penh, but this is one of
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mount+Everest+Indian+Restaurant+Street+294+Phnom+Penh)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** $5–7 per main
+💰 **Price level:** 10-15 $
