@@ -13,8 +13,8 @@ Ellipse Coffee is a very welcome addition to Kampot's café scene. There's air c
 | Category        | Score  |
 | ---             | ---    |
 | Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
+| Service         | 7.5/10   |
+| Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -22,4 +22,4 @@ Ellipse Coffee is a very welcome addition to Kampot's café scene. There's air c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ellipse+Coffee+Kampot+Cambodia)
 ☕ **Type:** Café
-💰 **Price level:** $1.75 per coffee
+💰 **Price level:** inexpensive
