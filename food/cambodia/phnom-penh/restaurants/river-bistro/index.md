@@ -22,14 +22,14 @@ River Bistro somehow seems frozen in time, including the prices, which nowadays 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6/10   |
+| Food            | 7/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 7/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=River+Bistro+Phnom+Penh+Cambodia)
 🍽️ **Cuisine:** International
-💰 **Price level:** Moderate
+💰 **Price level:** 10-15 $
