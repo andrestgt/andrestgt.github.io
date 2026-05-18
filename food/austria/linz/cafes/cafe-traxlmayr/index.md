@@ -18,10 +18,10 @@ A traditional old-fashioned Austrian coffee house with good coffee and a nice Ap
 | Category        | Score  |
 | ---             | ---    |
 | Coffee          | 8/10   |
-| Service         | 7/10   |
+| Service         | 8.5/10   |
 | Value for money | 5/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 7/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
