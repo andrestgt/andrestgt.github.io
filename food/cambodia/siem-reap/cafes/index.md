@@ -40,13 +40,6 @@ Friendly book café with excellent coffee and decent Khmer bistro food — the r
 
 ---
 
-## Red Piano
-*Sok San Rd · Café*
-The coffee underwhelms but the Khmer lunch specials with a free beer included are very good value.
-→ [Read the full review](/food/cambodia/siem-reap/cafes/red-piano/)
-
----
-
 ## Common Grounds Café
 *Street 14 · Café*
 Fair prices and good ingredients, but my cappuccino was served so excessively hot it burnt my tongue — inconsistent training.
