@@ -117,13 +117,6 @@ Frozen in time, which now makes it surprisingly cheap for a prime riverside spot
 
 ---
 
-## Sher-E-Punjab Indian Restaurant
-*Street 130 · Indian*
-Fairly average Indian food — decent meat quality, but curries and breads lack depth of flavour.
-→ [Read the full review](/food/cambodia/phnom-penh/restaurants/sher-e-punjab/)
-
----
-
 ## Terrazza
 *Samdach Louis Em St · Italian*
 Outstanding antipasti and Argentinian house wine, let down by a too-long wait for pizza and sharply inflated wine prices on a later visit.
