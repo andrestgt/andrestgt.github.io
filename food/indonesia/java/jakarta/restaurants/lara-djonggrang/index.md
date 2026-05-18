@@ -6,7 +6,61 @@ title: Lara Djonggrang
 subtitle: Menteng · Indonesian, Fine Dining
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-1.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+
 Quite possibly Jakarta’s most atmospheric restaurant. The extraordinary interior decoration alone makes it worth visiting, but fortunately the food is very good as well, showcasing dishes from across the Indonesian archipelago. The ikan pepes is excellent and the durian ice cream dessert should not be skipped. Expensive, yes, but entirely justified by the experience.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-2.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-3.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-4.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-5.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-6.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-7.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-8.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-9.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-10.jpg" alt="Lara Djonggrang">
+  <figcaption>Lara Djonggrang</figcaption>
+</figure>
 
 ## Ratings
 
