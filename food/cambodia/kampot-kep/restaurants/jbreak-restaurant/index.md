@@ -15,11 +15,11 @@ Good place at the refurbished old market. Pretty nice set-up, standard fare but 
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 7/10   |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=JBreak+Restaurant+Kampot+Cambodia)
 🍽️ **Cuisine:** Khmer, International
-💰 **Price level:** Moderate to Expensive
+💰 **Price level:** 10-15 $
