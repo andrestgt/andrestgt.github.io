@@ -6,6 +6,11 @@ title: The People’s Cafe
 subtitle: Grand Indonesia · Café
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/jakarta/the-peoples-cafe-1.jpg" alt="The People’s Cafe">
+  <figcaption>The People’s Cafe</figcaption>
+</figure>
+
 Very popular café with comfortable seating, good snacks and surprisingly well-prepared cappuccino at reasonable prices. Easy place to spend some time during a shopping break.
 
 ## Ratings

@@ -5,6 +5,12 @@ review: true
 title: Bánh Mỳ Hồng
 subtitle: Nha Trang · Vietnamese · Bánh Mì
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/banh-my-hong-1.jpg" alt="Bánh Mỳ Hồng">
+  <figcaption>Bánh Mỳ Hồng</figcaption>
+</figure>
+
 Their Banh Mi Dac Biet for 22k is one of the best traditional Vietnamese baguette sandwich you can get in Nha Trang. Their opening hours are quite erratic though
 
 ## Ratings

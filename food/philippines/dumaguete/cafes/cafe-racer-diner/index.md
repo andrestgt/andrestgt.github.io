@@ -6,6 +6,11 @@ title: Cafe Racer Diner
 subtitle: EJ Blanco Drive, Dumaguete · Café, Diner
 ---
 
+<figure>
+  <img src="/photos/philippines/dumaguete/cafe-racer-diner-1.jpg" alt="Cafe Racer Diner">
+  <figcaption>Cafe Racer Diner</figcaption>
+</figure>
+
 Funky retro-style diner next to Lantaw with fair prices and a relaxed atmosphere. Better suited for beers and casual drinks than for coffee, which is fairly poor. Food is acceptable but not especially memorable.
 
 ## Ratings

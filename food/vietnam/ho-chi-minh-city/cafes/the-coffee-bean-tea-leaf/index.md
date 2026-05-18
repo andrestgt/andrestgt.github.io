@@ -5,6 +5,12 @@ review: true
 title: The Coffee Bean & Tea Leaf
 subtitle: Bến Nghé · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/the-coffee-bean-tea-leaf-1.jpg" alt="The Coffee Bean & Tea Leaf">
+  <figcaption>The Coffee Bean & Tea Leaf</figcaption>
+</figure>
+
 Spacious, comfortable branch in an excellent central location. Like most CBTL outlets, however, the coffee is underwhelming: too much milk, too little actual coffee, and rather overpriced for what arrives in the cup. With so many stronger options nearby, there is little reason to seek this one out.
 
 ## Ratings

@@ -5,6 +5,12 @@ review: true
 title: Nhà hàng bia tươi Beerfest-vn
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/nha-hang-bia-tuoi-beerfest-vn-1.jpg" alt="Nhà hàng bia tươi Beerfest-vn">
+  <figcaption>Nhà hàng bia tươi Beerfest-vn</figcaption>
+</figure>
+
 A rather odd place: mostly empty, awkwardly located and somehow lacking much atmosphere. It is perfectly acceptable for a few reasonably priced microbrews, but the food is oddly more expensive than in the tourist area, and the service was genuinely poor.
 
 ## Ratings

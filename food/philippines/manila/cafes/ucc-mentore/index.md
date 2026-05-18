@@ -6,6 +6,11 @@ title: UCC Mentore Coffee + Bar
 subtitle: SM Aura, BGC · Café
 ---
 
+<figure>
+  <img src="/photos/philippines/manila/ucc-mentore-1.jpg" alt="UCC Mentore Coffee + Bar">
+  <figcaption>UCC Mentore Coffee + Bar</figcaption>
+</figure>
+
 UCC Mentore is definitely expensive, but at least the coffee is noticeably better than the Starbucks downstairs. They also have wifi, which already gives them an advantage over quite a few cafés in BGC.
 
 ## Ratings

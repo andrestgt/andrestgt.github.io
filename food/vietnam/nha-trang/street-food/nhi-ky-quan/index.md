@@ -5,7 +5,29 @@ review: true
 title: Nhị Ký Quán
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/nhi-ky-quan-1.jpg" alt="Nhị Ký Quán">
+  <figcaption>Nhị Ký Quán</figcaption>
+</figure>
+
 A basic eatery in an untouristy part of town behind Dam Market, this place is curiously popular with Russians—presumably expats. It bills itself as a Singaporean restaurant, but in reality, it specializes in smoked and roasted meats—think char siu or roasted duck.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/nhi-ky-quan-2.jpg" alt="Nhị Ký Quán">
+  <figcaption>Nhị Ký Quán</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/nhi-ky-quan-3.jpg" alt="Nhị Ký Quán">
+  <figcaption>Nhị Ký Quán</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/nhi-ky-quan-4.jpg" alt="Nhị Ký Quán">
+  <figcaption>Nhị Ký Quán</figcaption>
+</figure>
 
 Prices are rock bottom: a full combo meal for two, including wonton soup, rice, noodles, a drink, and three kinds of meat, costs just 135k. They also offer homemade dumplings (60k for 10), but they’re not great—the dough is too thick and gelatinous.
 

@@ -6,7 +6,50 @@ title: Coffee Waan
 subtitle: Chang Khlan · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-1.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
+
 Most places in Chiang Mai that charge under 50 Bt for espresso drinks use cheap, unpleasantly bitter roasts and you get your milk coffees sloppily prepared.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-2.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-3.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-4.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-5.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-6.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-7.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/coffee-waan-8.jpg" alt="Coffee Waan">
+  <figcaption>Coffee Waan</figcaption>
+</figure>
 
 Not so here. A smooth latte goes for only 45 Bt.
 

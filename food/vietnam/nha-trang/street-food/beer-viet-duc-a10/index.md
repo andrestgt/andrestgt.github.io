@@ -5,7 +5,18 @@ review: true
 title: Beer Việt Đức A10
 subtitle: Nha Trang · Bia Hơi
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/beer-viet-duc-a10-1.jpg" alt="Beer Việt Đức A10">
+  <figcaption>Beer Việt Đức A10</figcaption>
+</figure>
+
 One of the very few proper bia hoi joints in downtown Nha Trang. They have 2 litre 'bombs' of Viet Duc beer, which is light and fresh and better than most. It's 40k which is more expensive than elsewhere, but still cheap enough. Food, however, is rather pricy here, with meat dishes around 150k. The Goi Ca Mai for 100k is good and they have a multilingual menu.
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/beer-viet-duc-a10-2.jpg" alt="Beer Việt Đức A10">
+  <figcaption>Beer Việt Đức A10</figcaption>
+</figure>
 
 There are better value bia hoi places outside of the city centre, but this place is probably the choice downtown.
 

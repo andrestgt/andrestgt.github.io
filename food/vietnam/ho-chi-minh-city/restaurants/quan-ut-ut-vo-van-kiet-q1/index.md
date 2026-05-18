@@ -5,6 +5,12 @@ review: true
 title: Quán Ụt Ụt Võ Văn Kiệt | Q.1
 subtitle: Cầu Ông Lãnh · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/quan-ut-ut-vo-van-kiet-q1-1.jpg" alt="Quán Ụt Ụt Võ Văn Kiệt | Q.1">
+  <figcaption>Quán Ụt Ụt Võ Văn Kiệt | Q.1</figcaption>
+</figure>
+
 Great ribs, good craft beers and prices that are perfectly fair by District 1 standards. Recommended. Writing this reminds me that I really should eat here more often, but then again, that is the eternal problem in Saigon: simply too much good food elsewhere competing for attention.
 
 ## Ratings

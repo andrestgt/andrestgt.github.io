@@ -6,6 +6,11 @@ title: Cafe Inn
 subtitle: Patnem, South Goa · Café
 ---
 
+<figure>
+  <img src="/photos/india/south-goa/cafe-inn-1.jpg" alt="Cafe Inn">
+  <figcaption>Cafe Inn</figcaption>
+</figure>
+
 I prefer their sister establishment in Patnem for atmosphere, but they serve the same very good cappuccino for a hefty 150 Rs.
 
 ## Ratings

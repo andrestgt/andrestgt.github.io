@@ -5,6 +5,12 @@ review: true
 title: Nhã Na Coffee
 subtitle: Hội An · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hoi-an/nha-na-coffee-1.jpg" alt="Nhã Na Coffee">
+  <figcaption>Nhã Na Coffee</figcaption>
+</figure>
+
 The location is not exactly inspiring by Hoi An standards, but the 40k flat white is really good here, there's ac and fast Internet. Seems popular with the local expat community, prices are more reasonable than in the Old Town and service is very friendly
 
 ## Ratings

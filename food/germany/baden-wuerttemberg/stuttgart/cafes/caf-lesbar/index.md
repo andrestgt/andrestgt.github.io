@@ -6,8 +6,17 @@ title: Café Lesbar
 subtitle: Stuttgart City Library · Café
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/caf-lesbar-1.jpg" alt="Café Lesbar">
+  <figcaption>Café Lesbar</figcaption>
+</figure>
 
 Modern café on the top floor of the impressive city library. From some tables you have a fine view over the city. The coffee (flat white) is very respectable.
+
+<figure>
+  <img src="/photos/germany/stuttgart/caf-lesbar-2.jpg" alt="Café Lesbar">
+  <figcaption>Café Lesbar</figcaption>
+</figure>
 
 ## Ratings
 

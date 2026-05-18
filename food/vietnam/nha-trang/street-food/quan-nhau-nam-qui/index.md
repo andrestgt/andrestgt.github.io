@@ -5,7 +5,29 @@ review: true
 title: Quán Nhậu Năm Quí
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-nhau-nam-qui-1.jpg" alt="Quán Nhậu Năm Quí">
+  <figcaption>Quán Nhậu Năm Quí</figcaption>
+</figure>
+
 Tourists go to Lac Canh, connoisseurs go to this place for their Vietnamese BBQ, although it's a bit out of the way and there's no English menu.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-nhau-nam-qui-2.jpg" alt="Quán Nhậu Năm Quí">
+  <figcaption>Quán Nhậu Năm Quí</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-nhau-nam-qui-3.jpg" alt="Quán Nhậu Năm Quí">
+  <figcaption>Quán Nhậu Năm Quí</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-nhau-nam-qui-4.jpg" alt="Quán Nhậu Năm Quí">
+  <figcaption>Quán Nhậu Năm Quí</figcaption>
+</figure>
 
 Super fresh squid, frogs were still twitching on the plate, beef tender and generous portions. Very reasonable prices, 100k per head with beers
 

@@ -6,7 +6,17 @@ title: Jae Hong Stir Fried Chicken Noodle
 subtitle: Pom Prap · Street Food
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/jae-hong-1.jpg" alt="Jae Hong Stir Fried Chicken Noodle">
+  <figcaption>Jae Hong Stir Fried Chicken Noodle</figcaption>
+</figure>
+
 Hidden deep inside a small market alley, this place is deservedly popular for its fried chicken and char kway teow with large fresh prawns cooked over charcoal. Tasty and inexpensive.
+
+<figure>
+  <img src="/photos/thailand/bangkok/jae-hong-2.jpg" alt="Jae Hong Stir Fried Chicken Noodle">
+  <figcaption>Jae Hong Stir Fried Chicken Noodle</figcaption>
+</figure>
 
 ## Ratings
 

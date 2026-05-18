@@ -5,6 +5,12 @@ review: true
 title: The Coffee Factory - Nguyễn Du
 subtitle: Bến Nghé · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/the-coffee-factory-nguyen-du-1.jpg" alt="The Coffee Factory - Nguyễn Du">
+  <figcaption>The Coffee Factory - Nguyễn Du</figcaption>
+</figure>
+
 Cute, fashionably run-down and agreeably urban in style. The coffee here is very good, whether you go for Italian-style espresso drinks or traditional Vietnamese coffee. Prices are perfectly reasonable for this part of town.
 
 ## Ratings

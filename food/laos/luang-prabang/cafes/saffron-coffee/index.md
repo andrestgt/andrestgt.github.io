@@ -6,7 +6,17 @@ title: Saffron Coffee
 subtitle: Luang Prabang · Café
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/saffron-coffee-1.jpg" alt="Saffron Coffee">
+  <figcaption>Saffron Coffee</figcaption>
+</figure>
+
 Saffron has lovely Mekong views, comfortable armchairs, and a genuinely pleasant atmosphere. Unfortunately the cappuccino suffers from the same problems found almost everywhere else in Luang Prabang: bitter beans and unnecessary cinnamon on top.
+
+<figure>
+  <img src="/photos/laos/luang-prabang/saffron-coffee-2.jpg" alt="Saffron Coffee">
+  <figcaption>Saffron Coffee</figcaption>
+</figure>
 
 ## Ratings
 

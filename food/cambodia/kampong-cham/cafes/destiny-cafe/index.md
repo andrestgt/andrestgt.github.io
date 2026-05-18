@@ -6,7 +6,17 @@ title: Destiny Café
 subtitle: Rue Pasteur, Kampong Cham · Café
 ---
 
+<figure>
+  <img src="/photos/cambodia/kampong-cham/destiny-cafe-1.jpg" alt="Destiny Café">
+  <figcaption>Destiny Café</figcaption>
+</figure>
+
 Destiny Café has comfortable armchairs and surprisingly decent cappuccino for a provincial Cambodian town. The fish pakoras were fresh and very tasty as well.
+
+<figure>
+  <img src="/photos/cambodia/kampong-cham/destiny-cafe-2.jpg" alt="Destiny Café">
+  <figcaption>Destiny Café</figcaption>
+</figure>
 
 ## Ratings
 

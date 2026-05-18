@@ -6,7 +6,23 @@ title: Clay Studio Coffee in the Garden
 subtitle: Phra Sing · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/clay-studio-coffee-1.jpg" alt="Clay Studio Coffee in the Garden">
+  <figcaption>Clay Studio Coffee in the Garden</figcaption>
+</figure>
+
 Nicely designed place with a big garden. Reasonably priced drinks and food. Good coffees (just make sure they don't put cinnamon in case you order cappuccino!) and shakes. Fresh spring rolls are a nice snack.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/chiang-mai/clay-studio-coffee-2.jpg" alt="Clay Studio Coffee in the Garden">
+  <figcaption>Clay Studio Coffee in the Garden</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/chiang-mai/clay-studio-coffee-3.jpg" alt="Clay Studio Coffee in the Garden">
+  <figcaption>Clay Studio Coffee in the Garden</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

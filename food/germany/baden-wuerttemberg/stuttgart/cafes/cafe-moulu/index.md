@@ -6,8 +6,17 @@ title: Café Moulu
 subtitle: Stuttgart · Café
 ---
 
+<figure>
+  <img src="/photos/germany/stuttgart/cafe-moulu-1.jpg" alt="Café Moulu">
+  <figcaption>Café Moulu</figcaption>
+</figure>
 
 A really lovely café in Stuttgart West, housed in a charming Gründerzeit building. Lots of wood inside, a cosy atmosphere, and plenty of pleasant seating, including outdoor tables in good weather. The service is friendly and attentive throughout.
+
+<figure>
+  <img src="/photos/germany/stuttgart/cafe-moulu-2.jpg" alt="Café Moulu">
+  <figcaption>Café Moulu</figcaption>
+</figure>
 
 The coffee beans and roast are fundamentally of very good quality. My flat white, however, was a little too milky, almost drifting into latte territory. At nearly €5, I would have expected more convincing barista technique.
 

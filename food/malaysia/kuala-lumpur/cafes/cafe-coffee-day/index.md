@@ -6,6 +6,11 @@ title: Cafe Coffee Day
 subtitle: NU Sentral, KL · Café
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/cafe-coffee-day-1.jpg" alt="Cafe Coffee Day">
+  <figcaption>Cafe Coffee Day</figcaption>
+</figure>
+
 Comfortable little café inside NU Sentral with reasonably priced coffee that is actually quite decent. Unfortunately the service was utterly chaotic and painfully slow.
 
 ## Ratings

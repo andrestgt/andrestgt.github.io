@@ -5,6 +5,12 @@ review: true
 title: Banh mi Phan
 subtitle: Nha Trang · Vietnamese · Bánh Mì
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/banh-mi-phan-1.jpg" alt="Banh mi Phan">
+  <figcaption>Banh mi Phan</figcaption>
+</figure>
+
 Along with Ba Le, this is the best place for banh mi sandwiches in Nha Trang. They also do a few ones with a twist such as Indonesian chicken filling, but the regular thap cam is the best. They don't have the quality of what you get in the famous Hoi An eateries, but in Nha Trang this is as good as it gets.
 
 It used to be very touristy in the before times, but now with corona they survive very well on locals, a clear sign of quality

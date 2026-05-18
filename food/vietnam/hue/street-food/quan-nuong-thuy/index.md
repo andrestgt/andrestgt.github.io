@@ -5,6 +5,12 @@ review: true
 title: Quán nướng Thủy
 subtitle: Huế · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/hue/quan-nuong-thuy-1.jpg" alt="Quán nướng Thủy">
+  <figcaption>Quán nướng Thủy</figcaption>
+</figure>
+
 Really good grilled chicken and bo la lot. A bit more expensive maybe than you'd expect for a simple eatery in Hue but you'd be hard pressed to find better quality grilled meat in town. Excellent marinade and sauces
 
 ## Ratings

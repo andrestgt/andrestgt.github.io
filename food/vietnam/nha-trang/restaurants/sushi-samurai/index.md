@@ -5,7 +5,18 @@ review: true
 title: Sushi Samurai
 subtitle: Nha Trang · Japanese · Sushi
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/sushi-samurai-1.jpg" alt="Sushi Samurai">
+  <figcaption>Sushi Samurai</figcaption>
+</figure>
+
 This Western-owned place has a prime location in the tourist area, is surprisingly inexpensive, and looks good from the outside.
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/sushi-samurai-2.jpg" alt="Sushi Samurai">
+  <figcaption>Sushi Samurai</figcaption>
+</figure>
 
 But unfortunately, you get what you pay for, really applies here.
 

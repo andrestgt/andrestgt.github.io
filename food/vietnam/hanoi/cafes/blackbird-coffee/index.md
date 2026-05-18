@@ -5,6 +5,12 @@ review: true
 title: Blackbird Coffee
 subtitle: Hoàn Kiếm · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/blackbird-coffee-1.jpg" alt="Blackbird Coffee">
+  <figcaption>Blackbird Coffee</figcaption>
+</figure>
+
 Hipster coffee shop where bespectacled baristas prepare some of the best brews in town. The cappuccino is excellent at 55k, and this is unquestionably one of Hanoi's top addresses for serious coffee.
 
 ## Ratings

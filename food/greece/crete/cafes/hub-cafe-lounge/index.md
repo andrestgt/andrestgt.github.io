@@ -6,6 +6,10 @@ title: Hub Cafe+Lounge
 subtitle: Iraklion · Café
 ---
 
+<figure>
+  <img src="/photos/greece/crete/hub-cafe-lounge-1.jpg" alt="Hub Cafe+Lounge">
+  <figcaption>Hub Cafe+Lounge</figcaption>
+</figure>
 
 Relaxed Old Town lounge with very good coffee and a laid-back atmosphere. Seating could be more comfortable and prices are definitely high by Cretan standards, but the cappuccino was the best I had anywhere on the island.
 

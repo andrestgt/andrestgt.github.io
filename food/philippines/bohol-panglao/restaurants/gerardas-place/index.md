@@ -6,7 +6,17 @@ title: Gerarda's Place
 subtitle: Tagbilaran City · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/bohol-panglao/gerardas-place-1.jpg" alt="Gerarda's Place">
+  <figcaption>Gerarda's Place</figcaption>
+</figure>
+
 Gerarda's is widely considered the best place for Filipino food in Tagbilaran, and while I'm not the world's biggest fan of the local sweet-and-salty flavour combinations, the food here is certainly decent. The restaurant itself is classy without being pretentious, prices are reasonable, and the old-world atmosphere alone makes it worth a visit.
+
+<figure>
+  <img src="/photos/philippines/bohol-panglao/gerardas-place-2.jpg" alt="Gerarda's Place">
+  <figcaption>Gerarda's Place</figcaption>
+</figure>
 
 ## Ratings
 

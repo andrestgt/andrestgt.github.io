@@ -5,6 +5,12 @@ review: true
 title: Quan Ba ​​Heaven Gate
 subtitle: Quản Bạ · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ha-giang/quan-ba-heaven-gate-1.jpg" alt="Quan Ba ​​Heaven Gate">
+  <figcaption>Quan Ba ​​Heaven Gate</figcaption>
+</figure>
+
 Beautiful views, and you can have a coffee or beer here, too. Can get busy though
 
 ## Ratings

@@ -6,6 +6,10 @@ title: Old Cafe
 subtitle: Iraklion · Wine Bar
 ---
 
+<figure>
+  <img src="/photos/greece/crete/old-cafe-1.jpg" alt="Old Cafe">
+  <figcaption>Old Cafe</figcaption>
+</figure>
 
 Lovely little place tucked away in a shaded pedestrian alley. The 2,50€ carafe of house white is probably among the best bargains in town, and it even comes with small nibbles on the side.
 

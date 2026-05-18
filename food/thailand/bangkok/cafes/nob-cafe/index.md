@@ -6,7 +6,28 @@ title: NOB café
 subtitle: Bang Rak · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/nob-cafe-1.jpg" alt="NOB café">
+  <figcaption>NOB café</figcaption>
+</figure>
+
 Friendly café with fair prices and a choice of different coffee roasts. The medium roast cappuccino I tried tasted slightly bitter and unsubtle, though perhaps the lighter roast works better.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/thailand/bangkok/nob-cafe-2.jpg" alt="NOB café">
+  <figcaption>NOB café</figcaption>
+</figure>
+<figure>
+  <img src="/photos/thailand/bangkok/nob-cafe-3.jpg" alt="NOB café">
+  <figcaption>NOB café</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/thailand/bangkok/nob-cafe-4.jpg" alt="NOB café">
+  <figcaption>NOB café</figcaption>
+</figure>
 
 ## Ratings
 

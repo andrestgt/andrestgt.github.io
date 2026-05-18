@@ -6,7 +6,23 @@ title: Cafe Coffee Day – Park Street
 subtitle: Park Street · Café
 ---
 
+<figure>
+  <img src="/photos/india/kolkata/cafe-coffee-day-park-street-1.jpg" alt="Cafe Coffee Day – Park Street">
+  <figcaption>Cafe Coffee Day – Park Street</figcaption>
+</figure>
+
 One of the more attractive CCD outlets, located in a grand old building just off Park Street. Their cappuccinos are alright and well prepared, toilets are passable, WiFi works too. Good for a coffee break.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/india/kolkata/cafe-coffee-day-park-street-2.jpg" alt="Cafe Coffee Day – Park Street">
+  <figcaption>Cafe Coffee Day – Park Street</figcaption>
+</figure>
+<figure>
+  <img src="/photos/india/kolkata/cafe-coffee-day-park-street-3.jpg" alt="Cafe Coffee Day – Park Street">
+  <figcaption>Cafe Coffee Day – Park Street</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

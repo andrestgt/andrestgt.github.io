@@ -5,7 +5,183 @@ review: true
 title: Skylight Nha Trang - Sky Dining & Rooftop Nightclub
 subtitle: Nha Trang · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-1.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+
 3 stars but one extra for the views
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-2.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-3.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-4.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-5.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-6.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-7.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-8.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-9.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-10.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-11.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-12.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-13.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-14.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-15.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-16.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-17.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-18.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-19.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-20.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-21.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-22.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-23.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-24.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-25.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-26.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-27.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-28.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-29.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-30.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-31.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/skylight-nha-trang-sky-dining-rooftop-nightclub-32.jpg" alt="Skylight Nha Trang - Sky Dining & Rooftop Nightclub">
+  <figcaption>Skylight Nha Trang - Sky Dining & Rooftop Nightclub</figcaption>
+</figure>
 
 We went to Skylight and its Chef's Club restaurant for a special Thai set menu, allegedly prepared by a Michelin starred chef.
 

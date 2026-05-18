@@ -5,6 +5,12 @@ review: true
 title: Le Beret Cafe
 subtitle: Hoàn Kiếm · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/le-beret-cafe-1.jpg" alt="Le Beret Cafe">
+  <figcaption>Le Beret Cafe</figcaption>
+</figure>
+
 Friendly modern café with strong air conditioning, reliable wifi and properly prepared coffee drinks. The flat white was smooth, strong and well made at 45k, while their Vietnamese coffees pack plenty of flavour and caffeine alike.
 
 ## Ratings

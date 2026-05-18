@@ -5,7 +5,29 @@ review: true
 title: Quán ăn X.O
 subtitle: Nha Trang · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-an-xo-1.jpg" alt="Quán ăn X.O">
+  <figcaption>Quán ăn X.O</figcaption>
+</figure>
+
 Real Vietnamese drinking food, tiny plastic chairs on the sidewalk. Good prices for this neighbourhood which is in full process of gentrification due to its proximity to the tourist area. Come here for an authentic experience as long as such places still exist and order the grilled duck throats if you dare
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-an-xo-2.jpg" alt="Quán ăn X.O">
+  <figcaption>Quán ăn X.O</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-an-xo-3.jpg" alt="Quán ăn X.O">
+  <figcaption>Quán ăn X.O</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/quan-an-xo-4.jpg" alt="Quán ăn X.O">
+  <figcaption>Quán ăn X.O</figcaption>
+</figure>
 
 ## Ratings
 

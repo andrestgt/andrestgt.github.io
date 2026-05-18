@@ -6,6 +6,11 @@ title: Le Banneton Café & French Bakery
 subtitle: Sakkaline Rd, Luang Prabang · Bakery, Café
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/le-banneton-cafe-1.jpg" alt="Le Banneton Café & French Bakery">
+  <figcaption>Le Banneton Café & French Bakery</figcaption>
+</figure>
+
 Le Banneton is a lovely little French-style café with very decent croissants, but unfortunately the coffee is disappointing. Proper cappuccino and flat white seem strangely difficult to find anywhere in Luang Prabang.
 
 ## Ratings

@@ -5,6 +5,12 @@ review: true
 title: Windmills Cafe
 subtitle: Đà Lạt · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/windmills-cafe-1.jpg" alt="Windmills Cafe">
+  <figcaption>Windmills Cafe</figcaption>
+</figure>
+
 Small western style coffee shop with good inexpensive cappuccino and tasty frozen yoghurt
 
 ## Ratings

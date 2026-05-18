@@ -6,6 +6,11 @@ title: Tim Ho Wan
 subtitle: Pathum Wan · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/tim-ho-wan-1.jpg" alt="Tim Ho Wan">
+  <figcaption>Tim Ho Wan</figcaption>
+</figure>
+
 Tim Ho Wan still serves excellent dim sum and remains well worth visiting despite being more expensive than in Hong Kong. Expect around 8€ per person for a fairly substantial meal. Personally, I slightly prefer the Hong Kong version of their famous pork buns, which seem sweeter here.
 
 ## Ratings

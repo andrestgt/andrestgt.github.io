@@ -6,6 +6,11 @@ title: Temple Food n Beverage
 subtitle: Street 08, Siem Reap · Khmer
 ---
 
+<figure>
+  <img src="/photos/cambodia/siem-reap/temple-food-n-beverage-1.jpg" alt="Temple Food n Beverage">
+  <figcaption>Temple Food n Beverage</figcaption>
+</figure>
+
 Part of the Temple café group, this branch does at least serve beer at extremely low prices. The menu, however, is fairly limited and not especially cheap. The fish amok was decent enough but not convincing enough to make me want to return specifically for the food.
 
 ## Ratings
