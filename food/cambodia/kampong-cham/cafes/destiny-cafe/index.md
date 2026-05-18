@@ -26,7 +26,7 @@ Destiny Café has comfortable armchairs and surprisingly decent cappuccino for a
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
