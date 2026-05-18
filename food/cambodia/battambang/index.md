@@ -17,6 +17,3 @@ Reviews grouped by category.
 ## Cafés
 - [Cafés](/food/cambodia/battambang/cafes/)
 
-## Bars & pubs
-- [Bars & pubs](/food/cambodia/battambang/bars-pubs/)
-
