@@ -5,6 +5,12 @@ review: true
 title: Cà phê Tiên Dung
 subtitle: Đà Lạt · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/ca-phe-tien-dung-main.jpg" alt="Cà phê Tiên Dung">
+  <figcaption>Cà phê Tiên Dung</figcaption>
+</figure>
+
 Wonderful hidden oasis in the hills of Dalat. Beautiful views, serene atmosphere, good coffees at reasonable prices. Worth seeking out
 
 ## Ratings

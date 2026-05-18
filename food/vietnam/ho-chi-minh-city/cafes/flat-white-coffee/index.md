@@ -5,6 +5,12 @@ review: true
 title: Flat White Coffee
 subtitle: Bến Thành · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/flat-white-coffee-main.jpg" alt="Flat White Coffee">
+  <figcaption>Flat White Coffee</figcaption>
+</figure>
+
 True to its name, they serve a very good cup of flat white here. It tastes very strong, like a double shot espresso minimum, quite the way I like it. Prices are D1 high, but that's to be expected
 
 ## Ratings

@@ -5,7 +5,19 @@ review: true
 title: Marina Royale
 subtitle: Quy Nhơn · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/binh-dinh/marina-royale-main.jpg" alt="Marina Royale">
+  <figcaption>Marina Royale</figcaption>
+</figure>
+
 Possibly the prettiest coffee shop in town. There's ac and garden seating. And it's a lot less expensive than it looks. A Vietnamese coffee is 18k. They also do espresso drinks, but I didn't try any. Small choice of food items
+
+
+<figure>
+  <img src="/photos/vietnam/binh-dinh/marina-royale-main-2.jpg" alt="Marina Royale">
+  <figcaption>Marina Royale</figcaption>
+</figure>
 
 ## Ratings
 

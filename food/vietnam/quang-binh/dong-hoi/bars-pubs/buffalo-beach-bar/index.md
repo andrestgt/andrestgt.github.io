@@ -5,6 +5,12 @@ review: true
 title: Buffalo Beach Bar
 subtitle: Đồng Hới · Bar & Pub
 ---
+
+<figure>
+  <img src="/photos/vietnam/quang-binh/buffalo-beach-bar-main.jpg" alt="Buffalo Beach Bar">
+  <figcaption>Buffalo Beach Bar</figcaption>
+</figure>
+
 That fifth star is largely for the superb beachfront location. Even without that, this is a very likeable bar with friendly service, cold beers from 20k and even Beer Lao at a perfectly fair 30k. There is a small food menu as well, so it works well as a place to settle in for sunset drinks by the sea.
 
 ## Ratings

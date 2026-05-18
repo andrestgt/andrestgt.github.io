@@ -5,6 +5,12 @@ review: true
 title: Quán Bia Sinh Hiền
 subtitle: Hoàng Su Phì · Korean
 ---
+
+<figure>
+  <img src="/photos/vietnam/ha-giang/quan-bia-sinh-hien-main.jpg" alt="Quán Bia Sinh Hiền">
+  <figcaption>Quán Bia Sinh Hiền</figcaption>
+</figure>
+
 Good place to eat and drink. They have a pretty fancy and intricate Korean style table BBQ system which sadly only operates in winter. The bia hoi is good and cheap (25k a jug) and the fried rice with beef and egg is great value at 40k. More exotic dishes include dried buffalo meat (100k) or deep fried black pig trotters (100k) for which you'll need good teeth.
 
 *— Attractions, hotels **&** travel agencies —*
