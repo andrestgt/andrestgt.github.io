@@ -26,10 +26,10 @@ The Khmer food here is cheap and very good. You can't go wrong with the Kampot p
 | Service         | 7/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kampot+Old+Bridge+Kitchen+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** —
+💰 **Price level:** 6-10 $
