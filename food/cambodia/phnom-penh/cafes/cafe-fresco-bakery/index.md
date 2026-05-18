@@ -17,14 +17,14 @@ Cafe Fresco used to be one of the best cafés in Phnom Penh back in the 2000s, w
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 4/10  |
+| Coffee          | 6/10  |
 | Service         | 4/10  |
 | Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 4.5/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Fresco+Bakery+Preah+Sisowath+Quay+Phnom+Penh)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
