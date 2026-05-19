@@ -54,4 +54,4 @@ The old Café Espresso downtown used to offer the best coffee in provincial Camb
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Espresso+Roastery+Kampot+Cambodia)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate

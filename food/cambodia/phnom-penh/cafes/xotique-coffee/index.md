@@ -17,11 +17,11 @@ The coffees are decent but if my smoked salmon sandwich is in any way representa
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 6/10   |
-| Service         | 6/10   |
-| Value for money | 5.5/10 |
+| Coffee          | 6.5/10   |
+| Service         | 6.5/10   |
+| Value for money | 4/10 |
 | Atmosphere      | 6/10   |
-| Overall         | 5.5/10 |
+| Overall         | 6/10 |
 
 ### Practical
 

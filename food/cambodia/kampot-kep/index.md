@@ -17,5 +17,3 @@ Reviews grouped by category.
 ## Cafés
 - [Cafés](/food/cambodia/kampot-kep/cafes/)
 
-## Bars & pubs
-- [Bars & pubs](/food/cambodia/kampot-kep/bars-pubs/)

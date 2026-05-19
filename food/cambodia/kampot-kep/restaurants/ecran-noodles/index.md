@@ -17,14 +17,14 @@ Great place for a quick dumpling fill, or even a whole filling budget meal. The 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 6.5/10 |
-| Overall         | 7.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ecran+Noodles+Kampot+Cambodia)
 🍽️ **Cuisine:** Chinese, Noodles, Dumplings
-💰 **Price level:** Inexpensive
+💰 **Price level:** 5-8 $

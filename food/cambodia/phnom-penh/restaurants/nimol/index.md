@@ -30,7 +30,7 @@ Local outdoor eatery with a good, varied English menu of Khmer classics and pers
 | ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 8.5/10 |
+| Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -38,4 +38,4 @@ Local outdoor eatery with a good, varied English menu of Khmer classics and pers
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nimol+Restaurant+Preah+Ang+Yukanthor+Street+Phnom+Penh)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** Around $5 per main
+💰 **Price level:** 10-15 $

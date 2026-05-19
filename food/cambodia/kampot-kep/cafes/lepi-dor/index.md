@@ -12,14 +12,14 @@ L'Epi d'Or is a pleasant French-style bakery with attractive décor, air conditi
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
-| Value for money | 5/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Coffee          | 7/10  |
+| Service         | 7/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 7/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=L%27Epi+d%27Or+Kampot+Cambodia)
 ☕ **Type:** Bakery, Café
-💰 **Price level:** —
+💰 **Price level:** expensive

@@ -23,13 +23,13 @@ Amok is one of the many tourist-oriented restaurants tucked away around Pub Stre
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 7.5/10 |
-| Service         | 6/10   |
-| Value for money | 5/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Service         | 7/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Amok+Restaurant+Street+08+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** —
+💰 **Price level:** 10-15 $

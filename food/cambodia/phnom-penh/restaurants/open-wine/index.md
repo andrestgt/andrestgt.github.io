@@ -29,29 +29,22 @@ Semi-fancy French restaurant with great lunch deals and fine dining for dinner. 
   <img src="/photos/cambodia/phnom-penh/open-wine-4.jpg" alt="Open Wine">
   <figcaption>Open Wine</figcaption>
 </figure>
-<figure>
-  <img src="/photos/cambodia/phnom-penh/open-wine-5.jpg" alt="Open Wine">
-  <figcaption>Open Wine</figcaption>
-</figure>
 </div>
 
-<figure>
-  <img src="/photos/cambodia/phnom-penh/open-wine-6.jpg" alt="Open Wine">
-  <figcaption>Open Wine</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
+| Service         | 8/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Open+Wine+Restaurant+Phnom+Penh)
 🍽️ **Cuisine:** French
-💰 **Price level:** —
+💰 **Price level:** 30-40 $

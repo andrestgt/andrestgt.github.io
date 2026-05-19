@@ -19,12 +19,12 @@ Lemongrass Bistro is a quirky little Thai-Khmer place that comes highly recommen
 | ---             | ---    |
 | Food            | 5/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Value for money | 6.5/10   |
+| Atmosphere      | 7/10   |
 | Overall         | 6.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lemongrass+Bistro+Kampot+Cambodia)
 🍽️ **Cuisine:** Thai, Khmer
-💰 **Price level:** —
+💰 **Price level:** 6-10 $

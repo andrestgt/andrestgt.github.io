@@ -12,7 +12,7 @@ TARRAJU is a pleasant little neighbourhood café serving genuinely very good cap
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10 |
+| Coffee          | 8/10 |
 | Service         | 7/10   |
 | Value for money | 5.5/10 |
 | Atmosphere      | 7.5/10 |
@@ -22,4 +22,4 @@ TARRAJU is a pleasant little neighbourhood café serving genuinely very good cap
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tarraju+Cafe+Street+370+Phnom+Penh)
 ☕ **Type:** Café
-💰 **Price level:** $3 per coffee
+💰 **Price level:** expensive

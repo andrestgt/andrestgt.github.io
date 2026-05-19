@@ -22,14 +22,14 @@ Real Lebanese food in Phnom Penh — one of the best cuisines in the world. The 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
+| Food            | 8.5/10   |
+| Service         | 7/10 |
 | Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hummus+House+Phnom+Penh)
 🍽️ **Cuisine:** Lebanese
-💰 **Price level:** —
+💰 **Price level:** 10-12 $
