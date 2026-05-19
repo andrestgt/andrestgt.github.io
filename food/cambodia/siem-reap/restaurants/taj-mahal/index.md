@@ -17,14 +17,14 @@ Despite the Indian owners, the North Indian dishes here taste rather different f
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
+| Food            | 6.5/10  |
 | Service         | 6/10  |
-| Value for money | 7/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 5/10  |
+| Overall         | 6.5/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Taj+Mahal+Indian+Restaurant+Street+2+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** —
+💰 **Price level:** $10-12
