@@ -32,4 +32,4 @@ At first glance this looks like a fairly generic Czech restaurant aimed mostly a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Náměstí+36+382+73+Vyšší+Brod+Czechia)
 📍 Náměstí 36, 382 73 Vyšší Brod, Czechia
-💰 moderate
+💰 CZK500-700
