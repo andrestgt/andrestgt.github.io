@@ -12,10 +12,10 @@ subtitle: Restaurants in Sihanoukville
 
 ---
 
-## Sihanoukville's Finest Seafood Restaurant
+## The Deck at Sokha Beach
 *Sihanoukville · Seafood, International*
 Probably the best restaurant in Sihanoukville — three visits over 18 months, never a single disappointing dish, outstanding duck consommée and Deck Bites.
-→ [Read the full review](/food/cambodia/sihanoukville/restaurants/sihanoukville-finest-seafood/)
+→ [Read the full review](/food/cambodia/sihanoukville/restaurants/the-deck-at-sokha-beach/)
 
 ---
 
