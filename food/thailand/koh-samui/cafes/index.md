@@ -12,13 +12,6 @@ subtitle: Coffee shops in Koh Samui
 
 ---
 
-## Coffee Way Lamai
-*Lamai Beach · Café*
-Friendly, air-conditioned café with decent coffees...
-→ [Read the full review](/food/thailand/koh-samui/cafes/coffee-way-lamai/)
-
----
-
 ## Sasatorn
 *Bo Put · Café*
 Some of the best coffee on the island and worth a return visit for the food menu as well...

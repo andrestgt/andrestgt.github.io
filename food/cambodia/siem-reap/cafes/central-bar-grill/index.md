@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: Central Bar & Grill
+title: Café Central
 subtitle: Street 08, Siem Reap · Café, Bar
 ---
 
