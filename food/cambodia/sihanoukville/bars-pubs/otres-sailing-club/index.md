@@ -45,4 +45,4 @@ Otres Sailing Club has an excellent beachfront location with comfortable cushion
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Otres+Boat+Club+Marina+Road+Sihanoukville+Cambodia)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
