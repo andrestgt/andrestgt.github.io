@@ -102,13 +102,6 @@ Tasty enough Indian food but not especially authentic — the unusually cheap dr
 
 ---
 
-## Temple Food n Beverage
-*Street 08 · Khmer*
-Extremely cheap beer and a limited menu — the fish amok was decent but not worth a special trip.
-→ [Read the full review](/food/cambodia/siem-reap/restaurants/temple-food-n-beverage/)
-
----
-
 ## Vanakkam India
 *2 Thnou St · Indian*
 Friendly and slightly polished, but not memorable enough to return to given the competitive Indian restaurant scene.
