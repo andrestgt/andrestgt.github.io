@@ -32,4 +32,4 @@ Greenhouse Effect feels a little worn around the edges these days, but the atmos
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Greenhouse+Effect+Bar+Sihanoukville+Cambodia)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
