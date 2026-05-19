@@ -27,4 +27,4 @@ Stray Cats has a relaxed little lounge atmosphere, cheap drinks, and a surprisin
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Stray+Cats+Guesthouse+Otres+Village+Sihanoukville+Cambodia)
 🍺 **Type:** Bar, Restaurant
-💰 **Price level:** $8-12
+💰 **Price level:** inexpensive
