@@ -6,15 +6,16 @@ title: V Design Restaurant
 subtitle: Street 08, Siem Reap · Khmer
 ---
 
+
 <figure>
-  <img src="/photos/cambodia/siem-reap/v-design-restaurant-1.jpg" alt="V Design Restaurant">
+  <img src="/photos/cambodia/siem-reap/v-design-restaurant-2.jpg" alt="V Design Restaurant">
   <figcaption>V Design Restaurant</figcaption>
 </figure>
 
 V Design is probably the most comfortable place around Pub Street to sit down for a while. Cheap ice-cold beers are a given, but the food is genuinely good too. The seafood amok in particular is excellent value, with portions large enough for two people to share comfortably.
 
 <figure>
-  <img src="/photos/cambodia/siem-reap/v-design-restaurant-2.jpg" alt="V Design Restaurant">
+  <img src="/photos/cambodia/siem-reap/v-design-restaurant-1.jpg" alt="V Design Restaurant">
   <figcaption>V Design Restaurant</figcaption>
 </figure>
 
