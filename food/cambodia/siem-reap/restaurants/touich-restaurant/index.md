@@ -39,14 +39,14 @@ Touich absolutely deserves its reputation and is well worth leaving the centre o
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 9/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Touich+Restaurant+Angkor+Tree+Street+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** —
+💰 **Price level:** $15-20
