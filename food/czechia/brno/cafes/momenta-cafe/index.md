@@ -29,8 +29,8 @@ Probably the nicest café in Brno. Thankfully, it avoids the usual hipster style
 | Category        | Score  |
 | ---             | ---    |
 | Coffee          | 8/10   |
-| Service         | 8/10   |
-| Value for money | 7/10   |
+| Service         | 8.5/10   |
+| Value for money | 7.5/10   |
 | Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
 
@@ -38,4 +38,4 @@ Probably the nicest café in Brno. Thankfully, it avoids the usual hipster style
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Zelný+trh+314+602+00+Brno+Czechia)
 📍 Zelný trh 314, 602 00 Brno, Czechia
-💰 moderate
+💰 moderate to expensive
