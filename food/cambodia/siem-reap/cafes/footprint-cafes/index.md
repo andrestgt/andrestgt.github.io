@@ -32,4 +32,4 @@ Footprint is a friendly little book café with excellent coffee and very decent 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Footprint+Cafes+Street+26+Wat+Bo+Siem+Reap+Cambodia)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate
