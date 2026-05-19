@@ -12,7 +12,7 @@ If you're seriously hungry, give this one a try. This is a simple outdoor place 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
@@ -22,4 +22,4 @@ If you're seriously hungry, give this one a try. This is a simple outdoor place 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Crocodile+River+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Central European, Thai
-💰 **Price level:** Moderate
+💰 **Price level:** $10-15
