@@ -18,10 +18,6 @@ subtitle: Nové Město nad Metují · Restaurant & Bar
   <img src="/photos/czechia/nove-mesto-metuje/zamek-bar-2.jpg" alt="Zámek-Bar Restaurant">
   <figcaption>Zámek-Bar Restaurant</figcaption>
 </figure>
-<figure>
-  <img src="/photos/czechia/nove-mesto-metuje/zamek-bar-3.jpg" alt="Zámek-Bar Restaurant">
-  <figcaption>Zámek-Bar Restaurant</figcaption>
-</figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
@@ -44,14 +40,14 @@ subtitle: Nové Město nad Metují · Restaurant & Bar
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 8.5/10   |
 | Service         | 8.5/10 |
-| Value for money | 9.5/10 |
+| Value for money | 9/10 |
 | Atmosphere      | 9.5/10 |
-| Overall         | 9.5/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Husovo+náměstí+1202+549+01+Nové+Město+nad+Metují+Czechia)
 📍 Husovo nám. 1202, 549 01 Nové Město nad Metují, Czechia
-💰 budget
+💰 €15-25
