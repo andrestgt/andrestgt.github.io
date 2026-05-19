@@ -7,6 +7,11 @@ subtitle: Wachau · Winery & Gasthaus
 ---
 
 <figure>
+  <img src="/photos/austria/wachau/weingut-hermenegild-mang-main.jpg" alt="Weingut Hermenegild Mang">
+  <figcaption>Weingut Hermenegild Mang</figcaption>
+</figure>
+
+<figure>
   <img src="/photos/austria/wachau/weingut-hermenegild-mang-1.jpg" alt="Weingut Hermenegild Mang">
   <figcaption>Weingut Hermenegild Mang</figcaption>
 </figure>
