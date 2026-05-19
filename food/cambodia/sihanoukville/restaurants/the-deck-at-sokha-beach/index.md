@@ -13,13 +13,6 @@ subtitle: Sihanoukville · Seafood, International
 
 This is probably Sihanoukville's fanciest and best restaurant, but given the amazing location and the quality of the food, the prices are reasonable. I've eaten here three times over 18 months and never had a single disappointing dish. The 'Deck Bites' are a great way of sampling what's on offer, other outstanding dishes are the wonton duck consommée and, when available, the lamb. The best place for a splurge and a must for every foodie visiting Sihanoukville.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/cambodia/sihanoukville/the-deck-at-sokha-beach-2.jpg" alt="The Deck at Sokha Beach">
-  <figcaption>The Deck at Sokha Beach</figcaption>
-</figure>
-</div>
-
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
