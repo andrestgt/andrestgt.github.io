@@ -17,7 +17,7 @@ The Big Easy follows more or less the same formula as Monkey Republic next door,
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 8/10   |
+| Bar food        | 7.5/10   |
 | Service         | 8/10   |
 | Value for money | 8/10 |
 | Atmosphere      | 8.5/10 |
