@@ -19,10 +19,10 @@ Probably the best café in Sihanoukville overall — slightly more polished than
 
 ---
 
-## Enocafe Coffee & Italian Restaurant
+## Enoteca
 *Koh Rong Island · Café, Italian*
 Decent 2$ cappuccino alongside very nice (if expensive) parma ham sandwiches on an island setting.
-→ [Read the full review](/food/cambodia/sihanoukville/cafes/enocafe/)
+→ [Read the full review](/food/cambodia/sihanoukville/cafes/enoteca/)
 
 ---
 
