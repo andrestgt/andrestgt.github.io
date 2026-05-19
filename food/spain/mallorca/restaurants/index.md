@@ -30,3 +30,8 @@ Simple, honest food in huge portions at low prices, massively popular for good r
 Es Llombards · Restaurant
 Simple village restaurant where the food is decent enough, although slightly overpriced for what it is. No paella at lunch out of season.
 → [Read the full review](./restaurante-sa-fona/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

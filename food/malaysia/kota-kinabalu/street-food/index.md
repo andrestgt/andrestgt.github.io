@@ -25,3 +25,8 @@ Busy and basic kopitiam serving delicious laksa for just 7 RM.
 → [Read the full review](/food/malaysia/kota-kinabalu/street-food/kedai-kopi-33/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

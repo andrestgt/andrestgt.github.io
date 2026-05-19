@@ -55,3 +55,8 @@ Tiny working-class eatery inside the market serving wonderfully traditional Cret
 Iraklion · Restaurant
 Excellent location and a very pleasant place either for a full meal or simply some wine with small snacks alongside.
 → [Read the full review](./xatiri/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

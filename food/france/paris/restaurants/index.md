@@ -25,3 +25,8 @@ Good wine and classic bistro food in the middle of Saint-Germain. The steak tart
 Paris · Restaurant
 Large portions of honest French countryside cooking at reasonable prices. Think tête de veau rather than refined bistro cuisine. Somehow avoids feeling like a tourist trap.
 → [Read the full review](./le-mouffetard/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

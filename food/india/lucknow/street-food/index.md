@@ -31,3 +31,8 @@ Basic tea shop with excellent samosas — perfect quick snack if you're in the a
 → [Read the full review](/food/india/lucknow/street-food/ram-kewal-tea-stall/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

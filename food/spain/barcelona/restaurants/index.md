@@ -35,3 +35,8 @@ Great little place in Barceloneta with good tapas, friendly service, and fair pr
 Barcelona · Pinchos Bar
 Cheap beer, cheap pinchos, generous portions, and a cheerful atmosphere. Delivers exactly what it promises.
 → [Read the full review](./zodiaco/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

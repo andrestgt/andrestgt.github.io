@@ -15,3 +15,8 @@ subtitle: Restaurants in Olomouc
 Olomouc · Vietnamese Restaurant
 A large, modern Vietnamese restaurant — much fancier than what you usually find in Czechia. The pho bo was the best I've had outside Vietnam, and the sizzling duck was superb as well.
 → [Read the full review](./sunrise-vietnamese/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

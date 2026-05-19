@@ -24,3 +24,8 @@ Popular backpacker roadside eatery that's actually not as cheap as it looks — 
 → [Read the full review](/food/india/south-goa/street-food/little-ganesha/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

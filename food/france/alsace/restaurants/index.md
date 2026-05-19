@@ -30,3 +30,8 @@ Quite simply a wonderful place on any Alsace trip — spectacular food for a non
 Baerenthal · Restaurant
 It's genuinely difficult to find even mediocre food in Alsace, and this place is no exception. In summer there's also a lovely garden for outdoor dining.
 → [Read the full review](./a-larbre-vert/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

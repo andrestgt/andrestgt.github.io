@@ -44,3 +44,8 @@ One of the most charming eateries in Tuktuk, with an attractive garden terrace o
 *Tuktuk Siadong · Indonesian, Batak*
 Family-run restaurant with good homemade Batak cooking — the ayam semur is particularly good, and the fresh avocados from the tree are a lovely touch.
 → [Read the full review](/food/indonesia/sumatra/samosir/restaurants/maruba-restaurant/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

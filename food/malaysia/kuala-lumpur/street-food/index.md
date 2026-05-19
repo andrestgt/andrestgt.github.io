@@ -53,3 +53,8 @@ The nasi lemak lacks flavour but the side dishes, especially lamb and fried chic
 → [Read the full review](/food/malaysia/kuala-lumpur/street-food/warisan-nasi-kukus/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

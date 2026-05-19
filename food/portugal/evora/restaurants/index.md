@@ -15,3 +15,8 @@ subtitle: Restaurants in Évora
 Évora · Wine Bar & Tapas
 Lovely little wine bar, small and intimate, with a good selection of Portuguese wines at fair prices. Also a small tapas menu including octopus salad.
 → [Read the full review](./vinarium/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

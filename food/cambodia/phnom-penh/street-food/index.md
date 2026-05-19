@@ -18,3 +18,8 @@ Despite the unfortunate name, this immaculately clean noodle shop serves some of
 → [Read the full review](/food/cambodia/phnom-penh/street-food/khmer-fungus-noodle/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -15,3 +15,8 @@ subtitle: Restaurants in Eger
 Eger · Traditional Hungarian Restaurant
 A wonderfully old school Hungarian restaurant in the Old Town. One dish was quite spectacular: layers of potato cakes topped with pork, duck liver and mushroom ragout.
 → [Read the full review](./szantofer-vendegloe/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

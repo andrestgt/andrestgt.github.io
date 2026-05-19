@@ -17,3 +17,8 @@ Delicious lassis made from pure buffalo milk, lots of choices — very atmospher
 → [Read the full review](/food/india/varanasi/street-food/balu-natural-lassi-shop/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

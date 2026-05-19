@@ -18,3 +18,8 @@ Insanely good beef noodles at 90 NT$ — possibly the best meal in Taiwan. Amazi
 → [Read the full review](/food/taiwan/taipei/street-food/fuhong-beef-noodles/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

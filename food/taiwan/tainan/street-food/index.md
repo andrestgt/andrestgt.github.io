@@ -46,3 +46,8 @@ Most famous beef soup in town — tasty bone broth with fresh beef and minced be
 → [Read the full review](/food/taiwan/tainan/street-food/win-chang-beef-soup/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

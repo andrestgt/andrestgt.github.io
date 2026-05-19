@@ -50,3 +50,8 @@ Tiny and cute, but largely aimed at tourists. The food is good and prices fairly
 Lisbon · Food Market
 A great concept and basically a paradise for foodies. Can get unbelievably crowded, and prices are high by Lisbon standards.
 → [Read the full review](./time-out-market/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

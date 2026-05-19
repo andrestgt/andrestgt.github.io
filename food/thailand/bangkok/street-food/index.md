@@ -151,3 +151,8 @@ Old-school beef noodle shop with clear broth and nicely marinated meat for 70 Bt
 *Huai Khwang · Isaan*
 Very popular Isaan spot right at the MRT — Bangkok-style, so less spicy and a bit sweeter, but good for sampling many dishes. The kai yang is the star.
 → [Read the full review](/food/thailand/bangkok/street-food/zabb-one/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

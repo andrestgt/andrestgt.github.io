@@ -25,3 +25,8 @@ Nice Moroccan-themed décor and good, authentic food with large portions. The ta
 Lille · Georgian Restaurant
 A tiny Georgian restaurant that's quite hard to get into — and for good reason. Sumptuous starters, wonderfully greasy khachapuri, and delicious stews. Georgian cuisine remains one of the most underrated in the world.
 → [Read the full review](./tbilisi/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

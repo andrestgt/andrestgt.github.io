@@ -17,3 +17,8 @@ Self-service breakfast institution — beautiful open butter masala dosa at 55 R
 → [Read the full review](/food/india/mysore/street-food/abiruchi-pure-veg/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

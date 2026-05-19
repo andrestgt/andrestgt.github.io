@@ -30,3 +30,8 @@ Attractive little tapas and wine bar overlooking the Douro, with vintage trams p
 Porto · Restaurant
 Rather fancy restaurant by the beach with excellent sea views and very comfortable surroundings. Prices are extremely high by local standards.
 → [Read the full review](./restaurante-praia-da-luz/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -18,3 +18,8 @@ A surviving relic of old Luang Prabang — simple, cheap noodle soup eaten in fr
 → [Read the full review](/food/laos/luang-prabang/street-food/local-noodle-shop/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

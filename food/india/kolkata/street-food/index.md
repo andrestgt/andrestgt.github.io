@@ -24,3 +24,8 @@ Surprisingly delicious fast food — paper-thin prawn dumplings with proper chun
 → [Read the full review](/food/india/kolkata/street-food/wow-momo-kolkata/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

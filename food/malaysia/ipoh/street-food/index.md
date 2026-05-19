@@ -39,3 +39,8 @@ Very friendly kopitiam with local favourites like Nyonya curry mee and chicken h
 → [Read the full review](/food/malaysia/ipoh/street-food/kong-q-dine/)
 
 ---
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

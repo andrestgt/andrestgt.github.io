@@ -20,3 +20,8 @@ A beautiful, reed-thatched old farmhouse with very friendly service and hearty, 
 Lake Balaton · Restaurant
 The place to go for huge portions at rock-bottom prices. Everything from pizza to game to beef stew comes in large portions, and the set menus are unbeatable value.
 → [Read the full review](./csillagvar-etterem/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

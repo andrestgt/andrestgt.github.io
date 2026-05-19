@@ -25,3 +25,8 @@ Traditional beer restaurant in the Old Town. The house beers on tap are genuinel
 Prague · Restaurant
 Small place that feels noticeably less touristy than most restaurants nearby. Short menu, but everything is well prepared and reasonably priced. A very good option in the Old Town area.
 → [Read the full review](./u-magistra-kelly/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -25,3 +25,8 @@ Stands out for its attractive menu, which includes several goose dishes includin
 Budapest · Hungarian Restaurant
 Can't go wrong here. A perfect place to sample traditional Hungarian food. The goose leg, topped with a chunky slice of fatty goose liver, is a must. My favourite restaurant in Budapest.
 → [Read the full review](./paprika-vendegloe/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

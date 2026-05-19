@@ -25,3 +25,8 @@ Nice modern eatery with mainly local clientele. Cheap and filling, with straight
 Kraków · Polish Restaurant
 Small place with a mix of tourists and locals, serving simple Polish food. Tasty and not expensive, though portions are small by Central European standards. Good bigos and pork neck.
 → [Read the full review](./warsztat-po-polsku/)
+
+---
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
