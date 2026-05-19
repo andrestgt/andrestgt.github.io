@@ -27,4 +27,4 @@ The coffees are decent but if my smoked salmon sandwich is in any way representa
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Xotique+Coffee+Phnom+Penh+Cambodia)
 ☕️ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

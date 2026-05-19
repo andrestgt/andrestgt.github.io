@@ -22,4 +22,4 @@ Coffee quality here is somewhat inconsistent compared with the better café chai
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Palais+Coffee+Independence+Beach+Sihanoukville+Cambodia)
 ☕ **Type:** Café
-💰 **Price level:** Around $2 per coffee
+💰 **Price level:** moderate

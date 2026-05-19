@@ -27,4 +27,4 @@ Crane is a stylish little artsy café serving probably the best coffee in Siem R
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Crane+Coffee+Siem+Reap+Cambodia)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** $3 per coffee
+💰 **Price level:** moderate

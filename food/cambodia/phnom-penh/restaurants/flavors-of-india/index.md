@@ -22,4 +22,4 @@ In the past few years I've tried almost all of Phnom Penh's Indian restaurants a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Flavors+of+India+Street+63+Phnom+Penh)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** $5-7 per main
+💰 **Price level:** $12-18

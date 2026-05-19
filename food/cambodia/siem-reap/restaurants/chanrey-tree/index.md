@@ -49,4 +49,4 @@ Chanrey Tree is a remarkably beautiful restaurant, from the lotus pond entrance 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chanrey+Tree+Pokambor+Ave+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** Around $30
+💰 **Price level:** $30

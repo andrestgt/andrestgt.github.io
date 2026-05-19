@@ -32,4 +32,4 @@ Out of the many modern air-conditioned cafés that have opened in Sihanoukville 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Del+Mar+Pastry+Coffee+Ekareach+St+Sihanoukville+Cambodia)
 ☕ **Type:** Café
-💰 **Price level:** $2.50 per coffee
+💰 **Price level:** moderate

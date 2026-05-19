@@ -32,4 +32,4 @@ Finding a place like Divino is every travelling foodie's dream — imagine stumb
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Divino+Italian+Restaurant+Pizzeria+Fish+Island+Road+Kampot+Cambodia)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** Under $5 per main
+💰 **Price level:** $10-15

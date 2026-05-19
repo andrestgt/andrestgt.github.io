@@ -37,4 +37,4 @@ La Croisette is one of the old-school riverside cafés that have been around for
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=La+Croisette+Phnom+Penh+Cambodia)
 ☕️ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate
