@@ -19,10 +19,10 @@ My favourite place around Otres Beach — comfortable cushions, tasteful design,
 
 ---
 
-## Otres Boat Club
+## Otres Sailing Club
 *Marina Rd · Bar*
 Excellent beachfront location with comfortable cushions, relaxed atmosphere, and 4–7 pm happy hour.
-→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/otres-boat-club/)
+→ [Read the full review](/food/cambodia/sihanoukville/bars-pubs/otres-sailing-club/)
 
 ---
 
