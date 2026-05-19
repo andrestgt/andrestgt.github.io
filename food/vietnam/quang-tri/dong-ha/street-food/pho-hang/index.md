@@ -24,11 +24,6 @@ This neat, modern eatery serves very good bowl of Northern style Pho (both beef 
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/vietnam/dong-ha/pho-hang-4.jpg" alt="Phở Hằng">
-  <figcaption>Phở Hằng</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

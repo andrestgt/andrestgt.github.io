@@ -13,8 +13,6 @@ subtitle: Si Phum · Bar & Restaurant
 
 I don't understand why this place is mostly empty. Granted, it's the dog day low season, but other places are still busy.
 
-They have very friendly staff, a free pool table and draft Tiger for only 45 Bt. Plus a large selection of local craft beer at very reasonable prices. Good pub grub, such as larb moo tord and prawn crackers, too. The larb burger wasn't as good as it could have been, but I'd really recommend this place for value and friendliness.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/globe-bar-2.jpg" alt="The Globe Bar & Restaurant">
@@ -26,10 +24,7 @@ They have very friendly staff, a free pool table and draft Tiger for only 45 Bt.
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/thailand/chiang-mai/globe-bar-4.jpg" alt="The Globe Bar & Restaurant">
-  <figcaption>The Globe Bar & Restaurant</figcaption>
-</figure>
+They have very friendly staff, a free pool table and draft Tiger for only 45 Bt. Plus a large selection of local craft beer at very reasonable prices. Good pub grub, such as larb moo tord and prawn crackers, too. The larb burger wasn't as good as it could have been, but I'd really recommend this place for value and friendliness.
 
 ## Ratings
 

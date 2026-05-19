@@ -13,16 +13,10 @@ subtitle: Bến Nghé · Vietnamese
 
 Excellent place to sample a broad range of Vietnamese street food in cleaner, quieter, air-conditioned surroundings. Prices are perfectly reasonable for Saigon Centre, the quality is consistently good, and they even offer less commonly seen southern dishes such as bánh tằm bì, with its thick noodles, shredded pork skin, coconut sauce and strips of coconut palm heart.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-37th-street-2.jpg" alt="Quán 37th Street">
   <figcaption>Quán 37th Street</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/quan-37th-street-3.jpg" alt="Quán 37th Street">
-  <figcaption>Quán 37th Street</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

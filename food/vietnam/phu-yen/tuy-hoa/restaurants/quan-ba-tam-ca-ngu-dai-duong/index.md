@@ -24,11 +24,6 @@ Basic tuna speciality restaurant serving everything from unusual delicacies such
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/vietnam/tuy-hoa/quan-ba-tam-ca-ngu-dai-duong-4.jpg" alt="Quán Bà Tám - Cá ngừ đại dương">
-  <figcaption>Quán Bà Tám - Cá ngừ đại dương</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

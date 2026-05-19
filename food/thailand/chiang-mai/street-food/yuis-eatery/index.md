@@ -13,22 +13,16 @@ subtitle: Wat Ket · Thai-Chinese
 
 If heavy rain hadn't forced us to find shelter, we probably wouldn't have found this unassuming canteen style eatery across the river.
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/yuis-eatery-2.jpg" alt="Yui's Eatery">
+  <figcaption>Yui's Eatery</figcaption>
+</figure>
+
 And that would have been a pity because we got some excellent Thai-Chinese dishes here. The shrimp wontons tasted very fresh and the roasted duck was flavourful and juicy.
 
 A notch above standard fare, yet inexpensive, with bowls and plates going for 50–60 Bt.
 
 There's an English menu on request.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/thailand/chiang-mai/yuis-eatery-2.jpg" alt="Yui's Eatery">
-  <figcaption>Yui's Eatery</figcaption>
-</figure>
-<figure>
-  <img src="/photos/thailand/chiang-mai/yuis-eatery-3.jpg" alt="Yui's Eatery">
-  <figcaption>Yui's Eatery</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

@@ -13,20 +13,14 @@ subtitle: Chang Phueak, Santitham · Street Food
 
 Another inexpensive local place on Santitham Road that comes highly recommended is AT Thai Foods. One of the reasons I came here is that they do a good version of one of my favourite dishes, khao kha moo, a sweet-and-sour stewed pork leg.
 
-Prices are very low, usually around 50 to 60 baht per plate, roughly what you'd pay at a night market. Portions here tend to be a bit more generous, though, which makes it particularly good value.
-
-Simple and satisfying local food.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/at-thaifoods-2.jpg" alt="A.T. Thaifoods">
   <figcaption>A.T. Thaifoods</figcaption>
 </figure>
-<figure>
-  <img src="/photos/thailand/chiang-mai/at-thaifoods-3.jpg" alt="A.T. Thaifoods">
-  <figcaption>A.T. Thaifoods</figcaption>
-</figure>
-</div>
+
+Prices are very low, usually around 50 to 60 baht per plate, roughly what you'd pay at a night market. Portions here tend to be a bit more generous, though, which makes it particularly good value.
+
+Simple and satisfying local food.
 
 ## Ratings
 

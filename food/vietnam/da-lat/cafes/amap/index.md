@@ -13,22 +13,16 @@ subtitle: Đà Lạt · Coffee
 
 Calm and comfortable oasis in an agricultural valley off Mimosa Rd.
 
+<figure>
+  <img src="/photos/vietnam/da-lat/amap-2.jpg" alt="AMAP">
+  <figcaption>AMAP</figcaption>
+</figure>
+
 It's rustic and chic in equal parts with tasty drink and food options.
 
 Prices are quite high and so is the quality.
 
 A nice trip out of town.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/da-lat/amap-2.jpg" alt="AMAP">
-  <figcaption>AMAP</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/da-lat/amap-3.jpg" alt="AMAP">
-  <figcaption>AMAP</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

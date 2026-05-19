@@ -13,11 +13,6 @@ subtitle: Phra Nakhon · Thai
 
 Probably the best traveller café on Rambuttri. Service is friendly, the food consistently good, and there’s often somebody playing guitar in the background. Prices are slightly high, but in line with the rest of the area, and the place has clearly survived this long for a reason.
 
-<figure>
-  <img src="/photos/thailand/bangkok/popiang-2.jpg" alt="Popiang">
-  <figcaption>Popiang</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

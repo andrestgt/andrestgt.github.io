@@ -13,16 +13,10 @@ subtitle: Nha Trang · Seafood
 
 We actually came here to get a nice view over Nha Trang, but sadly Garden Hills, despite the high location, has only one table with a good view, which was already occupied. The food here, a extensive menu of Vietnamese standards, is good. We had the seafood salad and grilled squid. Prices are a bit higher than usual, but generally it's a nice place
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/garden-hills-restaurant-2.jpg" alt="Garden Hills restaurant">
   <figcaption>Garden Hills restaurant</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/garden-hills-restaurant-3.jpg" alt="Garden Hills restaurant">
-  <figcaption>Garden Hills restaurant</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

@@ -17,11 +17,6 @@ Despite the name, I didn't actually try the somtum here. I had the pad kra pao i
 
 Quick, cheap and unadulterated Thai food. If that's what you're after, this is the place for you.
 
-<figure>
-  <img src="/photos/thailand/chiang-mai/next-level-som-tum-2.jpg" alt="Next-Level Som Tum">
-  <figcaption>Next-Level Som Tum</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

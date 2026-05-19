@@ -57,11 +57,6 @@ This used to be one of my favourite cheap warungs in Ubud, with a beautifully de
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/indonesia/bali/warung-pulau-kelapa-10.jpg" alt="Warung Pulau Kelapa">
-  <figcaption>Warung Pulau Kelapa</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

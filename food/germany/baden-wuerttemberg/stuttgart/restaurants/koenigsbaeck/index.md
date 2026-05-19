@@ -13,11 +13,6 @@ subtitle: Stuttgart · Bakery
 
 Probably the best pretzels in Stuttgart, and therefore in the world. The queue often stretches out onto the street, but the wait is worth it. Pricing is similar to other Stuttgart bakeries, but on quality they're unbeatable. They also do an excellent cappuccino.
 
-<figure>
-  <img src="/photos/germany/stuttgart/koenigsbaeck-2.jpg" alt="Königsbäck">
-  <figcaption>Königsbäck</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

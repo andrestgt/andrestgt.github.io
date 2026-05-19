@@ -13,11 +13,6 @@ subtitle: Hai Bà Trưng · Vietnamese
 
 Tasty homemade sausage, grilled over charcoal and served on a stick, exactly the sort of straightforward street food that makes Vietnam such a great foodie destination. Seating is on the usual tiny plastic stools, prices are low, and it is a very worthwhile stop for a quick local snack.
 
-<figure>
-  <img src="/photos/vietnam/hanoi/thit-xien-doi-sun-nuong-ha-nguyet-2.jpg" alt="Thịt xiên dồi sụn nướng Hà Nguyệt">
-  <figcaption>Thịt xiên dồi sụn nướng Hà Nguyệt</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

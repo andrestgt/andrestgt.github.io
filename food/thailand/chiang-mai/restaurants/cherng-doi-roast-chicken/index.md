@@ -15,11 +15,6 @@ The portions are quite small for the price and there's no option of ordering a w
 
 But for a Nimman location it's a reasonable option to satisfy your chicken cravings.
 
-<figure>
-  <img src="/photos/thailand/chiang-mai/cherng-doi-roast-chicken-2.jpg" alt="Cherng Doi Roast Chicken">
-  <figcaption>Cherng Doi Roast Chicken</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

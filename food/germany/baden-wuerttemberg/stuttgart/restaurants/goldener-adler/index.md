@@ -24,11 +24,6 @@ Goldener Adler combines creative, international starters with main courses of he
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/germany/stuttgart/goldener-adler-4.jpg" alt="Goldener Adler">
-  <figcaption>Goldener Adler</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

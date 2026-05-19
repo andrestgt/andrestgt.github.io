@@ -13,11 +13,6 @@ subtitle: Phra Nakhon · Café
 
 Beautifully decorated vintage café with bookshelves, old armchairs, and a genuinely cosy atmosphere. The coffee is well prepared, prices are moderate, and overall this is probably the nicest café in the area.
 
-<figure>
-  <img src="/photos/thailand/bangkok/petit-peyton-2.jpg" alt="Petit Peyton Travelogue Cafe">
-  <figcaption>Petit Peyton Travelogue Cafe</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

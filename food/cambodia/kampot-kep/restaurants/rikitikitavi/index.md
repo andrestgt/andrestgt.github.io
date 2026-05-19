@@ -35,19 +35,8 @@ Rikitikitavi is one of Kampot's more upscale dining spots, with a fantastic terr
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/kampot-kep/rikitikitavi-6.jpg" alt="Rikitikitavi">
-  <figcaption>Rikitikitavi</figcaption>
-</figure>
-<figure>
-  <img src="/photos/cambodia/kampot-kep/rikitikitavi-7.jpg" alt="Rikitikitavi">
-  <figcaption>Rikitikitavi</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/cambodia/kampot-kep/rikitikitavi-8.jpg" alt="Rikitikitavi">
   <figcaption>Rikitikitavi</figcaption>
 </figure>
 

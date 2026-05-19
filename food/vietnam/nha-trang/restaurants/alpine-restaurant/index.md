@@ -19,11 +19,6 @@ A bottle of Saigon goes for 19k.
 
 All in all, despite some room for improvement, a good meal at a great price
 
-<figure>
-  <img src="/photos/vietnam/nha-trang/alpine-restaurant-2.jpg" alt="Alpine Restaurant">
-  <figcaption>Alpine Restaurant</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

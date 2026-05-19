@@ -57,11 +57,6 @@ Very good Malay food that genuinely tastes close to proper street versions, just
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/malaysia/kuala-lumpur/grandmamas-pavilion-10.jpg" alt="Grandmama's – Pavilion Kuala Lumpur">
-  <figcaption>Grandmama's – Pavilion Kuala Lumpur</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

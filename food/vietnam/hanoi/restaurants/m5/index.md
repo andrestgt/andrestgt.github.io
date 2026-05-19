@@ -13,11 +13,6 @@ subtitle: Hanoi · Vietnamese
 
 Their motto is, drink Western beer, eat Vietnamese food, pay Vietnamese prices. Now to be honest, Vietnamese prices are not exactly what they used to be and Western beer tends to be expensive anyway, but by Hanoi beer garden standards, the prices here are indeed moderate with locals beers for under 30k and a very tasty Dinkelacker Hopfenwunder going for 70k. Very attentive service
 
-<figure>
-  <img src="/photos/vietnam/hanoi/m5-2.jpg" alt="M5">
-  <figcaption>M5</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

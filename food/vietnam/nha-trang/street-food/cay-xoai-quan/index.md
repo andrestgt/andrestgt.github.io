@@ -15,11 +15,6 @@ Classic drinking place with cheap bia hoi and an extensive menu of the usual sus
 
 Probably not worth taking a trip to the outskirts just to eat here, but if you're in the area this is a good choice
 
-<figure>
-  <img src="/photos/vietnam/nha-trang/cay-xoai-quan-2.jpg" alt="Cây Xoài Quán">
-  <figcaption>Cây Xoài Quán</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

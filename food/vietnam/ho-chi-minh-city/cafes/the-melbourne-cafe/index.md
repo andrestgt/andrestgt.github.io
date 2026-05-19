@@ -13,11 +13,6 @@ subtitle: Võ Thị Sáu · Coffee
 
 Along with Shin Coffee, this place offers probably the best espresso drinks in Saigon, and it's quite a bit less expensive than Shin. A perfect flat white costs 65k. Their Vietnamese coffees are good as well. It would be nice if they offered Vietnamese food for breakfast, as of now they have Viet food only for lunch and dinner and only Western breakfast in the morning.
 
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/the-melbourne-cafe-2.jpg" alt="The Melbourne Cafe">
-  <figcaption>The Melbourne Cafe</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

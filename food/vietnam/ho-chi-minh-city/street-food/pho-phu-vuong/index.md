@@ -13,18 +13,12 @@ subtitle: Nguyễn Thái Bình · Vietnamese
 
 The phở here is very good, with a rich and flavorful broth, and the location is convenient. The eatery is clean, and the service is quite friendl.
 
-Prices are typical for District 1—65K for a regular bowl and 85K for the đặc biệt, which is massive and well worth it if you're hungry.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/pho-phu-vuong-2.jpg" alt="Phở Phú Vương">
   <figcaption>Phở Phú Vương</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/pho-phu-vuong-3.jpg" alt="Phở Phú Vương">
-  <figcaption>Phở Phú Vương</figcaption>
-</figure>
-</div>
+
+Prices are typical for District 1—65K for a regular bowl and 85K for the đặc biệt, which is massive and well worth it if you're hungry.
 
 ## Ratings
 

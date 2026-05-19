@@ -24,17 +24,6 @@ Most famous Pho place in the Old Town so you can imagine it's packed with locals
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/hanoi/pho-10-ly-quoc-su-4.jpg" alt="Pho 10 Ly Quoc Su">
-  <figcaption>Pho 10 Ly Quoc Su</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/hanoi/pho-10-ly-quoc-su-5.jpg" alt="Pho 10 Ly Quoc Su">
-  <figcaption>Pho 10 Ly Quoc Su</figcaption>
-</figure>
-</div>
-
 ## Ratings
 
 | Category        | Score  |

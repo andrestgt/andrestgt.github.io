@@ -35,17 +35,6 @@ Good Korean BBQ restaurant franchise located in Lotte Mart. They have these fanc
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/gogi-house-6.jpg" alt="GoGi House">
-  <figcaption>GoGi House</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/gogi-house-7.jpg" alt="GoGi House">
-  <figcaption>GoGi House</figcaption>
-</figure>
-</div>
-
 ## Ratings
 
 | Category        | Score  |

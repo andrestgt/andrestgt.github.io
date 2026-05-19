@@ -1,41 +1,45 @@
----
-layout: default
-section: food
-review: true
-title: K cafe
-subtitle: Nha Trang · Coffee
+---
+
+layout: default
+
+section: food
+
+review: true
+
+title: K cafe
+
+subtitle: Nha Trang · Coffee
+
 ---
 
 <figure>
-  <img src="/photos/vietnam/nha-trang/k-cafe-main.jpg" alt="K cafe">
+  <img src="/photos/vietnam/nha-trang/k-cafe-1.jpg" alt="K cafe">
   <figcaption>K cafe</figcaption>
 </figure>
 
-
-
-<figure>
-  <img src="/photos/vietnam/nha-trang/k-cafe-1.jpg" alt="K cafe">
-  <figcaption>K cafe</figcaption>
-</figure>
-
-Nha Trang's most charming café looks much more Hoi An or Melaka Old Town than you'd expect in this brash tourist city. This particular area between Dam market and the beach still retains some old school charm with scattered French era buildings and quiet streets. K is one of the few places that take advantage of this. The old fashioned decor, the breezy backyard, it's a lovely place to while some time away with one of their well prepared espresso drinks (45k for a smooth cappuccino) or a cold draft beer.
-
-<figure>
-  <img src="/photos/vietnam/nha-trang/k-cafe-2.jpg" alt="K cafe">
-  <figcaption>K cafe</figcaption>
-</figure>
-
-## Ratings
-
-| Category        | Score  |
-| ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
-
-### Practical
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=11+Đ.+Phan+Chu+Trinh+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+650000+Vietnam)
-☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+Nha Trang's most charming café looks much more Hoi An or Melaka Old Town than you'd expect in this brash tourist city. This particular area between Dam market and the beach still retains some old school charm with scattered French era buildings and quiet streets. K is one of the few places that take advantage of this. The old fashioned decor, the breezy backyard, it's a lovely place to while some time away with one of their well prepared espresso drinks (45k for a smooth cappuccino) or a cold draft beer.
+
+## Ratings
+
+| Category        | Score  |
+
+| ---             | ---    |
+
+| Coffee          | 9/10   |
+
+| Service         | 8.5/10 |
+
+| Value for money | 8.5/10 |
+
+| Atmosphere      | 9/10   |
+
+| Overall         | 9/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=11+Đ.+Phan+Chu+Trinh+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+650000+Vietnam)
+
+☕ **Type:** Coffee
+
+💰 **Price level:** ₫ Under 50k per person
+

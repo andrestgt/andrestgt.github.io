@@ -24,16 +24,10 @@ After choices for Korean food had been very limited for many years, BBQ places a
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/ari-arirang-korean-restaurant-4.jpg" alt="ARI ARIRANG Korean Restaurant">
   <figcaption>ARI ARIRANG Korean Restaurant</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/ari-arirang-korean-restaurant-5.jpg" alt="ARI ARIRANG Korean Restaurant">
-  <figcaption>ARI ARIRANG Korean Restaurant</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

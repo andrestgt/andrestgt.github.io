@@ -17,11 +17,6 @@ Prices are reasonable, but they charge a whopping 10k for a glass of tra da, whi
 
 To be fair, the freshly prepared food looks delicious, but I doubt I’ll be coming back, with so many other options around.
 
-<figure>
-  <img src="/photos/vietnam/nha-trang/galangal-2.jpg" alt="Galangal">
-  <figcaption>Galangal</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

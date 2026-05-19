@@ -13,19 +13,8 @@ subtitle: Nha Trang · Indian
 
 For some reason Nha Trang has always been blessed with good quality Indian restaurants, and this relative newcomer is no exception. You can't go wrong here with their curries and tikkas. Breads are nice, too. Its bare bones restaurant decoration and food presentation is unusual for an Indian restaurant, but as long as the food is tasty, I'm fine with it (2019)
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yashoda-indian-restaurant-2.jpg" alt="YASHODA INDIAN RESTAURANT">
-  <figcaption>YASHODA INDIAN RESTAURANT</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/yashoda-indian-restaurant-3.jpg" alt="YASHODA INDIAN RESTAURANT">
-  <figcaption>YASHODA INDIAN RESTAURANT</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/vietnam/nha-trang/yashoda-indian-restaurant-4.jpg" alt="YASHODA INDIAN RESTAURANT">
   <figcaption>YASHODA INDIAN RESTAURANT</figcaption>
 </figure>
 

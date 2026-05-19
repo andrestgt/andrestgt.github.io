@@ -19,11 +19,6 @@ The cooking isn’t particularly creative or adventurous, but it’s solid and g
 
 The chicken curry was very good. The fish balls were tasty as well, but felt a little bare, coming simply topped with some garlic and little else in the way of herbs or seasoning. The deep-fried eggs were slightly dry.
 
-<figure>
-  <img src="/photos/thailand/phuket/one-chun-cafe-restaurant-2.jpg" alt="One Chun Cafe & Restaurant">
-  <figcaption>One Chun Cafe & Restaurant</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score |

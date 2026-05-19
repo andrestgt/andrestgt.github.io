@@ -17,11 +17,6 @@ What I dislike is the sneaky 5% service charge they put on the bill. Vietnam has
 
 If a restaurant's menu prices are too low that they have the need to add additional charges, they should simply raise them and be honest about it.
 
-<figure>
-  <img src="/photos/vietnam/hanoi/phuong-tuong-dimsum-2.jpg" alt="Phượng Tường dimsum">
-  <figcaption>Phượng Tường dimsum</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

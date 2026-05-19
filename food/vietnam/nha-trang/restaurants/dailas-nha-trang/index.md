@@ -13,6 +13,11 @@ subtitle: Nha Trang · Vietnamese
 
 Newly opened beer restaurant with excellent, friendly service, even during Tet.
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/dailas-nha-trang-2.jpg" alt="Dailas Nha Trang">
+  <figcaption>Dailas Nha Trang</figcaption>
+</figure>
+
 Their craft beer selection is not the biggest in town but they have 7 Bridges from Danang which is one my favourites.
 
 Food is international, with interesting dishes such as foie gras canapés with anchovy sauce. Fish&chips comes with purple taro crisps instead of actual chips which is healtheir and good looking, but will probably offend purists.
@@ -20,17 +25,6 @@ Food is international, with interesting dishes such as foie gras canapés with a
 Prices are not terribly expensive, although portions could be a bit more generous, but my only visit until now was during Tet, so that might be a reason.
 
 I'm only giving 2 stars because don't don't even accept small dogs in their beer garden outside
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/dailas-nha-trang-2.jpg" alt="Dailas Nha Trang">
-  <figcaption>Dailas Nha Trang</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/dailas-nha-trang-3.jpg" alt="Dailas Nha Trang">
-  <figcaption>Dailas Nha Trang</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

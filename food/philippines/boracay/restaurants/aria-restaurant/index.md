@@ -24,19 +24,8 @@ Looks like a tourist trap but looks can be deceiving. This is one of the best pl
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/boracay/aria-restaurant-4.jpg" alt="Aria Restaurant">
-  <figcaption>Aria Restaurant</figcaption>
-</figure>
-<figure>
-  <img src="/photos/philippines/boracay/aria-restaurant-5.jpg" alt="Aria Restaurant">
-  <figcaption>Aria Restaurant</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/philippines/boracay/aria-restaurant-6.jpg" alt="Aria Restaurant">
   <figcaption>Aria Restaurant</figcaption>
 </figure>
 

@@ -46,19 +46,8 @@ Mitami is a good friendly Japanese restaurant in the tourist area that has only 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/mitami-japanese-restaurant-8.jpg" alt="MITAMI Japanese Restaurant">
-  <figcaption>MITAMI Japanese Restaurant</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/mitami-japanese-restaurant-9.jpg" alt="MITAMI Japanese Restaurant">
-  <figcaption>MITAMI Japanese Restaurant</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/vietnam/nha-trang/mitami-japanese-restaurant-10.jpg" alt="MITAMI Japanese Restaurant">
   <figcaption>MITAMI Japanese Restaurant</figcaption>
 </figure>
 

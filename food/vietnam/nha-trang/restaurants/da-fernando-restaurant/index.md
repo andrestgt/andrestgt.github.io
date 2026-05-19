@@ -13,16 +13,10 @@ subtitle: Nha Trang · Italian
 
 For many years, Fernando has been serving the best Italian food in Nha Trang, and while most other individually run places in the tourist area have shut down in recent years, due to astronomical rents and the invasion of Russian and Chinese package tourists, Fernando is almost the last man standing.  It's a simple, small place with prices on the high side, but the home made pasta dishes and good pizzas are worth it. Wine is expensive, but beers are still cheap
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/da-fernando-restaurant-2.jpg" alt="Da Fernando Restaurant">
   <figcaption>Da Fernando Restaurant</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/da-fernando-restaurant-3.jpg" alt="Da Fernando Restaurant">
-  <figcaption>Da Fernando Restaurant</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

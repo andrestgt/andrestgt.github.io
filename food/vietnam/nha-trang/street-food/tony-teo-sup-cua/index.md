@@ -13,22 +13,16 @@ subtitle: Nha Trang · Vietnamese
 
 This alley street food place has deservedly become popular for their specialty dish Sup Cua or Crab soup. This kind of soup is very popular with locals all over Vietnam, but it's not very well known among foreigners. This is a pity, and I believe almost anyone trying a bowl here will enjoy it.
 
+<figure>
+  <img src="/photos/vietnam/nha-trang/tony-teo-sup-cua-2.jpg" alt="Tony Tèo Súp Cua">
+  <figcaption>Tony Tèo Súp Cua</figcaption>
+</figure>
+
 The basic sup cua (15k) contains shredded chicken, mushrooms and quail eggs in a thick crab meat based broth (hence the name). You can then add other ingredients according to your taste. Fresh prawns, century egg and for the adventurous palate some nice creamy pig brain. An all-in bowl goes for 30k. Add a spoon of their home made chili oil (saté) and you're in heaven.
 
 Tony Tèo also serve some other dishes such as Banh Trang Tron (rice paper mango salad, 15-20k) and delicious grilled Bo la lot (20k), plus home made mozzarella sticks and chicken nuggets.
 
 If you want to drink some cold beers with your grill and fry platters, they're very accommodating if you bring your own, which makes dining here even less expensive
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/nha-trang/tony-teo-sup-cua-2.jpg" alt="Tony Tèo Súp Cua">
-  <figcaption>Tony Tèo Súp Cua</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/tony-teo-sup-cua-3.jpg" alt="Tony Tèo Súp Cua">
-  <figcaption>Tony Tèo Súp Cua</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

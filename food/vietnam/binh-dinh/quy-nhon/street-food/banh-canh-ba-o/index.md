@@ -13,11 +13,6 @@ subtitle: Quy Nhơn · Vietnamese
 
 This basic hole-in-the-wall eatery is popular for it's Banh Canh noodle soup which is indeed very good here. The star of the show, however, are their Banh Cuon, which here resemble Malaysian popiah and dipped in peanut sauce. Very tasty. Prices are worth it, but quite high for this kind of basic eatery. 52k for a bowl of soup and two rolls
 
-<figure>
-  <img src="/photos/vietnam/quy-nhon/banh-canh-ba-o-2.jpg" alt="Bánh canh Bà O">
-  <figcaption>Bánh canh Bà O</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

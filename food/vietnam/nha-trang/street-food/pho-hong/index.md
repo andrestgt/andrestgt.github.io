@@ -13,19 +13,8 @@ subtitle: Nha Trang · Vietnamese · Phở
 
 My favourite Pho Bo in Nha Trang. Two sizes only, a big bowl (55k) feeds two. Go for Pho Bac (northern style) and mixed tai, nam, gan for diversity. Delicious broth, quality meat and the gan (joints) are wonderfully soft and gelatinous. Yes, tourists eat here too and it's not the cheapest bowl in town, but it's probably the best.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/pho-hong-2.jpg" alt="Phở Hồng">
-  <figcaption>Phở Hồng</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/pho-hong-3.jpg" alt="Phở Hồng">
-  <figcaption>Phở Hồng</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/vietnam/nha-trang/pho-hong-4.jpg" alt="Phở Hồng">
   <figcaption>Phở Hồng</figcaption>
 </figure>
 

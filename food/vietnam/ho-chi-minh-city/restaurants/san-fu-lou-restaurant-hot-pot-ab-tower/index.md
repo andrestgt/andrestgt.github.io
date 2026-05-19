@@ -24,17 +24,6 @@ This Cantonese restaurant in a prime location is great news for Dim Sum lovers i
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/san-fu-lou-restaurant-hot-pot-ab-tower-4.jpg" alt="San Fu Lou Restaurant - Hot Pot AB Tower">
-  <figcaption>San Fu Lou Restaurant - Hot Pot AB Tower</figcaption>
-</figure>
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/san-fu-lou-restaurant-hot-pot-ab-tower-5.jpg" alt="San Fu Lou Restaurant - Hot Pot AB Tower">
-  <figcaption>San Fu Lou Restaurant - Hot Pot AB Tower</figcaption>
-</figure>
-</div>
-
 Some of them are outright divine, such as the duck and truffle dumplings, but the standard ones are very good too, not quite as excellent as Crystal Jade, but close and much easier to avail of.
 
 The only small disappointment were the Xiao Long Bao, which were a little doughy, but still good.

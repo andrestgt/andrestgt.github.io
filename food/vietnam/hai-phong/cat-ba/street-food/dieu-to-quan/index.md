@@ -13,11 +13,6 @@ subtitle: Cát Bà · Bia Hơi
 
 One of several basic harbour view sidewalk bia hoi joints in this area. Cool mugs of good bia hoi are 8k and they have fresh, succulent oysters for only 10k a piece. Very slow service, but nice for a sundowner
 
-<figure>
-  <img src="/photos/vietnam/cat-ba/dieu-to-quan-2.jpg" alt="Diều Tô Quán">
-  <figcaption>Diều Tô Quán</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

@@ -13,16 +13,10 @@ subtitle: Nha Trang · Bar & Pub
 
 Classic expat hangout and not the easiest place to track down, but once you do, you can happily indulge your inner Brit: meat pies with chips, ice-cold draught beer and The Smiths on the speakers. Not a Russian in sight, which in Nha Trang counts as a selling point.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cheers-sports-pub-2.jpg" alt="Cheers Sports Pub">
   <figcaption>Cheers Sports Pub</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/nha-trang/cheers-sports-pub-3.jpg" alt="Cheers Sports Pub">
-  <figcaption>Cheers Sports Pub</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

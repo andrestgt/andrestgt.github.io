@@ -24,11 +24,6 @@ One of the few remnants of old Malate, this cozy little pub still has its charm,
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/manila/oarhouse-pub-4.jpg" alt="Oarhouse Pub">
-  <figcaption>Oarhouse Pub</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

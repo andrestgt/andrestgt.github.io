@@ -13,18 +13,12 @@ subtitle: Tuy Hòa · Seafood
 
 We stopped here because the place was super busy full of locals even past lunch time so we thought it would be a good place to eat. And obviously, it was. I thought the (very tasty) Seafood Fried Rice was possibly a bit expensive for 90k considering this is a simple open air eatery, but the Goi Ca Mai (raw anchovy salad) was absolutely gorgeous and generous for a mere 60k, it's worth making the trip out here just for that
 
-*— Attractions, hotels **&** travel agencies —*
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/tuy-hoa/quan-binh-xin-2.jpg" alt="Quan Binh Xin">
   <figcaption>Quan Binh Xin</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/tuy-hoa/quan-binh-xin-3.jpg" alt="Quan Binh Xin">
-  <figcaption>Quan Binh Xin</figcaption>
-</figure>
-</div>
+
+*— Attractions, hotels **&** travel agencies —*
 
 ## Ratings
 

@@ -13,16 +13,10 @@ subtitle: Đà Lạt · Coffee
 
 In a town full of nice cafés, Woodstock still stands out as one of the best. It's friendly, beautifully decorated and they serve excellent cappuccinos at a reasonable 45k. There's plenty of comfy seats and sofas to kick back, Read a book or get some work done. WiFi is fast. In the evening you come for al fresco craft beer and pizza, next to their log cabin bar
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-lat/woodstock-coffee-da-lat-2.jpg" alt="Woodstock coffee - Đà Lạt">
   <figcaption>Woodstock coffee - Đà Lạt</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/da-lat/woodstock-coffee-da-lat-3.jpg" alt="Woodstock coffee - Đà Lạt">
-  <figcaption>Woodstock coffee - Đà Lạt</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

@@ -13,19 +13,8 @@ subtitle: Ubud · Japanese
 
 Once Ubud's first Japanese address, this place has gone seriously downhill these past few years. Service is a joke, food presentation listless. Prices have gone up as quality has gone down. Saving grace is the quality of the fish, which is still good.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/ryoshi-2.jpg" alt="Ryoshi Japanese Restaurant Ubud">
-  <figcaption>Ryoshi Japanese Restaurant Ubud</figcaption>
-</figure>
-<figure>
-  <img src="/photos/indonesia/bali/ryoshi-3.jpg" alt="Ryoshi Japanese Restaurant Ubud">
-  <figcaption>Ryoshi Japanese Restaurant Ubud</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/indonesia/bali/ryoshi-4.jpg" alt="Ryoshi Japanese Restaurant Ubud">
   <figcaption>Ryoshi Japanese Restaurant Ubud</figcaption>
 </figure>
 

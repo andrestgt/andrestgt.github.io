@@ -19,11 +19,6 @@ What I don't understand though : this place has the most wonderful location in a
 
 Price here is 60k for a cup, more expensive than up the road for the same quality and quantity, but if atmosphere is more important than price, I'd recommend coming here.
 
-<figure>
-  <img src="/photos/vietnam/con-dao/cocodeli-kem-dua-con-dao-2.jpg" alt="CocoDeli Kem Dừa Côn Đảo">
-  <figcaption>CocoDeli Kem Dừa Côn Đảo</figcaption>
-</figure>
-
 ## Ratings
 
 | Category | Score |

@@ -29,14 +29,12 @@ Lovely lounge bar with seriously good cocktails, service with a smile, and fair 
 ## Aroma Chef Restaurant and Bar
 *Street 172 · Bar, Khmer*
 Worth stopping for the excellent 1.50$ passion fruit mojitos alone — the Khmer food is decent and very reasonably priced.
-→ [Read the full review](/food/cambodia/phnom-penh/bars-pubs/aroma-chef/)
 
 ---
 
 ## Lucky Corner Restaurant
 *Sisowath Quay · Bar*
 Prime corner location on the riverfront with cheap all-day drinks, free wifi, and surprisingly comfortable wicker chairs.
-→ [Read the full review](/food/cambodia/phnom-penh/bars-pubs/lucky-corner-restaurant/)
 
 ---
 

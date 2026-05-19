@@ -13,10 +13,6 @@ subtitle: Phaya Thai · Japanese, Izakaya
 
 Definitely not your standard izakaya. This one has a clear adult theme throughout. Female guests are offered a free cake in a rather suggestive shape, which tastes better than you might think — I know because I was allowed to take a bite.
 
-But it's not just style over substance. They do what a proper izakaya should, and they do it well. There's a good selection of skewers, along with more refined dishes like beef yukke. You can go for cheaper Asahi or more expensive Sapporo, so the evening can be as affordable or as expensive as you want.
-
-A fun place to visit.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/av-izakaya-2.jpg" alt="AV Izakaya Saphan Khwai">
@@ -28,10 +24,9 @@ A fun place to visit.
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/thailand/bangkok/av-izakaya-4.jpg" alt="AV Izakaya Saphan Khwai">
-  <figcaption>AV Izakaya Saphan Khwai</figcaption>
-</figure>
+But it's not just style over substance. They do what a proper izakaya should, and they do it well. There's a good selection of skewers, along with more refined dishes like beef yukke. You can go for cheaper Asahi or more expensive Sapporo, so the evening can be as affordable or as expensive as you want.
+
+A fun place to visit.
 
 ## Ratings
 

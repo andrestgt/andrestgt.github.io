@@ -24,11 +24,6 @@ For me this is the best Tex-Mex food I've had anywhere in South East Asia. Consi
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/indonesia/bali/taco-casa-4.jpg" alt="Taco Casa Fresh Mexican Grill & Bar">
-  <figcaption>Taco Casa Fresh Mexican Grill & Bar</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

@@ -13,11 +13,6 @@ subtitle: Stuttgart · Café-Restaurant
 
 Fantastic location on one of Germany's most beautiful squares. Quick and friendly service. The food is pretty good, too. Currywurst and fries are tasty. But prices are a bit over the top, even for Stuttgart. 11,30€ for a sausage and fries, 5,50€ for a beer.
 
-<figure>
-  <img src="/photos/germany/stuttgart/marthas-2.jpg" alt="Martha's">
-  <figcaption>Martha's</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

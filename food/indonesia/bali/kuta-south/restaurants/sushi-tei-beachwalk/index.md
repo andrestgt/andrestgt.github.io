@@ -46,11 +46,6 @@ Sushi Tei used to be my favourite sushi chain, but recently I have been disappoi
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/indonesia/bali/sushi-tei-beachwalk-8.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

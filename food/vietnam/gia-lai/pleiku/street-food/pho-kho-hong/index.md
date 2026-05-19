@@ -15,11 +15,6 @@ The pho here is special because it comes in separate bowls with dry noodles in o
 
 *— Attractions, hotels **&** travel agencies —*
 
-<figure>
-  <img src="/photos/vietnam/pleiku/pho-kho-hong-2.jpg" alt="Phở khô Hồng">
-  <figcaption>Phở khô Hồng</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

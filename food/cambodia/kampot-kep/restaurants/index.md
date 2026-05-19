@@ -26,10 +26,10 @@ Upscale riverside dining with fantastic terrace views, good Khmer fusion food, a
 
 ---
 
-## JBreak Restaurant
+## Veronica's Garden
 *Street 735, Kampot · Khmer*
 Good place at the refurbished Old Market — decent Khmer food with nice touches and good value wines.
-→ [Read the full review](/food/cambodia/kampot-kep/restaurants/jbreak-restaurant/)
+→ [Read the full review](/food/cambodia/kampot-kep/restaurants/veronicas-garden/)
 
 ---
 

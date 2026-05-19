@@ -24,11 +24,6 @@ Zum Schwanen is among the less famous and pleasingly cheaper places in Deideshei
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/germany/deidesheim/zum-schwanen-4.jpg" alt="Zum Schwanen">
-  <figcaption>Zum Schwanen</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

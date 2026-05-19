@@ -17,11 +17,6 @@ They do very good beef noodles and dumplings at very low prices, especially cons
 
 Oh and don't miss the spicy free pickles on the counter, they're delicious.
 
-<figure>
-  <img src="/photos/thailand/chiang-mai/dao-chinese-restaurant-2.jpg" alt="Dao Chinese Restaurant">
-  <figcaption>Dao Chinese Restaurant</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |

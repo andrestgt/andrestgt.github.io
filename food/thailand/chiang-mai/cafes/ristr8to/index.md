@@ -24,17 +24,6 @@ This has been my go-to coffee shop in the Nimman area for well over a decade, ba
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/thailand/chiang-mai/ristr8to-4.jpg" alt="Ristr8to Original">
-  <figcaption>Ristr8to Original</figcaption>
-</figure>
-<figure>
-  <img src="/photos/thailand/chiang-mai/ristr8to-5.jpg" alt="Ristr8to Original">
-  <figcaption>Ristr8to Original</figcaption>
-</figure>
-</div>
-
 ## Ratings
 
 | Category        | Score  |

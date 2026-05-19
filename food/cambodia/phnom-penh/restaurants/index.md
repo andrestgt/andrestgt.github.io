@@ -17,6 +17,8 @@ subtitle: Restaurants in Phnom Penh
 Real Lebanese food in Phnom Penh — sumptuous meze platters, simple setting, not cheap but genuinely good value.
 → [Read the full review](/food/cambodia/phnom-penh/restaurants/hummus-house/)
 
+→ [Read the full review](/food/cambodia/phnom-penh/restaurants/aroma-chef/)
+
 ---
 
 ## Dim Sum Emperors
@@ -96,10 +98,10 @@ Excellent baguettes from the deli, but the restaurant is hit and miss — the sa
 
 ---
 
-## Kroeung Garden
+## Yi Sang
 *Sisowath Quay · Chinese, Dim Sum*
 Once worth the premium riverside location — now better value dim sum options exist elsewhere in the city.
-→ [Read the full review](/food/cambodia/phnom-penh/restaurants/kroeung-garden/)
+→ [Read the full review](/food/cambodia/phnom-penh/restaurants/yi-sang/)
 
 ---
 
@@ -133,3 +135,5 @@ Outstanding antipasti and Argentinian house wine, let down by a too-long wait fo
 
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
+
+→ [Read the full review](/food/cambodia/phnom-penh/restaurants/lucky-corner-restaurant/)

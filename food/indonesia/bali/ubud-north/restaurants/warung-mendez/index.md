@@ -46,22 +46,6 @@ Very good choice in Penestanan, especially for their gorgeous BBQ goat leg with 
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/indonesia/bali/warung-mendez-8.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
-</figure>
-<figure>
-  <img src="/photos/indonesia/bali/warung-mendez-9.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/indonesia/bali/warung-mendez-10.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |
