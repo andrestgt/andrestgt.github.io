@@ -27,4 +27,4 @@ Pink Elephant is cheap, cheerful, and very much lives up to the "happy pizza" re
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pink+Elephant+Happy+Pizza+Sisowath+Quay+Phnom+Penh)
 🍽️ **Cuisine:** Pizza, Khmer
-💰 **Price level:** 10-15 $
+💰 **Price level:** $10-15

@@ -11,7 +11,7 @@ subtitle: Sihanoukville · Khmer
   <figcaption>Sandan</figcaption>
 </figure>
 
-Just like all 'good cause' restaurants, Sandan is of course slightly overrated. However, the food is indeed very good, not outstanding, but good quality Khmer fare. Some dishes can be ordered as half portions, making it easier to sample more things. The beef salad, seafood amok, and squid with Kampot pepper were all flawless. At 9$ for a seafood amok, Sandan is not exactly good value, and the service is not very good either. But it's a very nice restaurant worth a visit.
+Just like all 'good cause' restaurants, Sandan is of course slightly overrated. However, the food is indeed very good, not outstanding, but good quality Khmer fare. Some dishes can be ordered as half portions, making it easier to sample more things. The beef salad, seafood amok, and squid with Kampot pepper were all flawless. At $9 for a seafood amok, Sandan is not exactly good value, and the service is not very good either. But it's a very nice restaurant worth a visit.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

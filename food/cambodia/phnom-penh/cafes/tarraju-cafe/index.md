@@ -6,7 +6,7 @@ title: Tarraju Café
 subtitle: Street 370, Phnom Penh · Café
 ---
 
-TARRAJU is a pleasant little neighbourhood café serving genuinely very good cappuccino, even if 3$ a cup is undeniably expensive for Phnom Penh. The only problem is the bizarre local obsession with sprinkling cinnamon onto perfectly good milk foam. Without that, the coffee would be close to flawless.
+TARRAJU is a pleasant little neighbourhood café serving genuinely very good cappuccino, even if $3 a cup is undeniably expensive for Phnom Penh. The only problem is the bizarre local obsession with sprinkling cinnamon onto perfectly good milk foam. Without that, the coffee would be close to flawless.
 
 ## Ratings
 

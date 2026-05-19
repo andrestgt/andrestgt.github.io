@@ -32,4 +32,4 @@ River Bistro somehow seems frozen in time, including the prices, which nowadays 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=River+Bistro+Phnom+Penh+Cambodia)
 🍽️ **Cuisine:** International
-💰 **Price level:** 10-15 $
+💰 **Price level:** $10-15

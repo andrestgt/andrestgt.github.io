@@ -11,7 +11,7 @@ subtitle: Sisowath Quay, Phnom Penh · Chinese, Dim Sum
   <figcaption>Yi Sang</figcaption>
 </figure>
 
-There used to be a time when Yi Sang was pretty much the only option for quality dim sum in Phnom Penh and I understood that they charged premium prices for the perfect Riverside location. But with whopping prices of 4$ and more per basket, there are now better value options in town. I'd like to thank them for their service, but I wouldn't go back anymore.
+There used to be a time when Yi Sang was pretty much the only option for quality dim sum in Phnom Penh and I understood that they charged premium prices for the perfect Riverside location. But with whopping prices of $4 and more per basket, there are now better value options in town. I'd like to thank them for their service, but I wouldn't go back anymore.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

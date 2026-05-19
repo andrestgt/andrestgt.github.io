@@ -6,7 +6,7 @@ title: Flavors of India
 subtitle: Street 63, Phnom Penh · Indian
 ---
 
-In the past few years I've tried almost all of Phnom Penh's Indian restaurants and still haven't found one that manages to unconditionally satisfy me. If I had to choose the best of the bunch, it would be Flavours. Their korma, especially, is very good, and they tend not to use too fatty or too dry cuts of meat. For most dishes between 5–7$, it remains my go-to Indian in the city.
+In the past few years I've tried almost all of Phnom Penh's Indian restaurants and still haven't found one that manages to unconditionally satisfy me. If I had to choose the best of the bunch, it would be Flavours. Their korma, especially, is very good, and they tend not to use too fatty or too dry cuts of meat. For most dishes between 5–$7, it remains my go-to Indian in the city.
 
 ## Ratings
 
@@ -22,4 +22,4 @@ In the past few years I've tried almost all of Phnom Penh's Indian restaurants a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Flavors+of+India+Street+63+Phnom+Penh)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** $5–7 per main
+💰 **Price level:** $5-7 per main

@@ -38,4 +38,4 @@ It used to be a good place by Phnom Penh standards a decade ago. Now not really.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Friends+the+Restaurant+Street+13+Phnom+Penh)
 🍽️ **Cuisine:** International
-💰 **Price level:** 20 $
+💰 **Price level:** $20

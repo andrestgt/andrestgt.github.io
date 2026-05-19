@@ -11,7 +11,7 @@ subtitle: Siem Reap · Specialty Coffee
   <figcaption>Crane</figcaption>
 </figure>
 
-Crane is a stylish little artsy café serving probably the best coffee in Siem Reap. A properly prepared cappuccino costs around 3$, which is expensive for Cambodia, and the seating is not especially comfortable, but the quality of the coffee more than makes up for it.
+Crane is a stylish little artsy café serving probably the best coffee in Siem Reap. A properly prepared cappuccino costs around $3, which is expensive for Cambodia, and the seating is not especially comfortable, but the quality of the coffee more than makes up for it.
 
 ## Ratings
 

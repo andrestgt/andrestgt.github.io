@@ -22,4 +22,4 @@ The pizzas here are decent enough, but they are not really the reason to come. E
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ecstatic+Restaurant+Old+Market+Kampot+Cambodia)
 🍽️ **Cuisine:** Khmer, International
-💰 **Price level:** 8-10 $
+💰 **Price level:** $8-10

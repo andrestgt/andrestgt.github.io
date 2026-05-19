@@ -43,4 +43,4 @@ If you happen to find yourself stuck in Kampong Chhnang, Angkor Thmey is a solid
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Angkor+Thmey+Restaurant+Kampong+Chhnang+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** 8-12 $
+💰 **Price level:** $8-12

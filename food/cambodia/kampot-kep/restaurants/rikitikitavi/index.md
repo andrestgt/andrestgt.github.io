@@ -50,4 +50,4 @@ Rikitikitavi is one of Kampot's more upscale dining spots, with a fantastic terr
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rikitikitavi+Hotel+Restaurant+Bar+Riverside+Road+Kampot+Cambodia)
 🍽️ **Cuisine:** Khmer Fusion
-💰 **Price level:** 8-15 $
+💰 **Price level:** $8-15

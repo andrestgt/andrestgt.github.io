@@ -6,7 +6,7 @@ title: Palais Coffee
 subtitle: Independence Beach, Sihanoukville · Café
 ---
 
-Coffee quality here is somewhat inconsistent compared with the better café chains, but finding a genuinely decent cappuccino in Sihanoukville has never been easy. At around 2$, the cappuccino here is still one of the more acceptable options in town.
+Coffee quality here is somewhat inconsistent compared with the better café chains, but finding a genuinely decent cappuccino in Sihanoukville has never been easy. At around $2, the cappuccino here is still one of the more acceptable options in town.
 
 ## Ratings
 

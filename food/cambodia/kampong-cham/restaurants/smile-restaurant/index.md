@@ -38,4 +38,4 @@ Touristy riverside restaurant, but the prices are fair and the food is perfectly
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Smile+Restaurant+Kampong+Cham+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** 8-12 $
+💰 **Price level:** $8-12

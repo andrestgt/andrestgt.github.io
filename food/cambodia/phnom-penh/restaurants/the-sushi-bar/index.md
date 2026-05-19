@@ -76,4 +76,4 @@ The Sushi Bar serves fresh sashimi, very decent rolls, and keeps prices relative
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Sushi+Bar+Phnom+Penh)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** 20-30 $
+💰 **Price level:** $20-30

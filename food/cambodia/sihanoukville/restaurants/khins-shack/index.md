@@ -11,7 +11,7 @@ subtitle: Otres Beach, Sihanoukville · Seafood
   <figcaption>Khin's Shack</figcaption>
 </figure>
 
-Khin's Shack feels like one of the last survivors of the old Otres Beach atmosphere before Sihanoukville changed beyond recognition. Cheap drinks, wicker chairs in the sand, fresh seafood barbecue, and genuinely relaxed old-school beach vibes. The large seafood BBQ platter at around 12$ is excellent value. Hopefully the place survives.
+Khin's Shack feels like one of the last survivors of the old Otres Beach atmosphere before Sihanoukville changed beyond recognition. Cheap drinks, wicker chairs in the sand, fresh seafood barbecue, and genuinely relaxed old-school beach vibes. The large seafood BBQ platter at around $12 is excellent value. Hopefully the place survives.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

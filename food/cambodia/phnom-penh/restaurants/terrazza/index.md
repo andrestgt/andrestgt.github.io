@@ -54,4 +54,4 @@ Terrazza is high-end Italian dining of a high quality. The antipasti dishes were
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Terrazza+Samdach+Louis+Em+Street+282+Phnom+Penh)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** 20-30 $
+💰 **Price level:** $20-30

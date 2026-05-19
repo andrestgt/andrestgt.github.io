@@ -22,4 +22,4 @@ The dim sum here is just as good as at the Central Market branch, but the atmosp
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dim+Sum+Emperors+TK+Avenue+Mall+Phnom+Penh)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** 15$
+💰 **Price level:** $15

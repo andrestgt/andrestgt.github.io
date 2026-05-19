@@ -22,4 +22,4 @@ Good Khmer food and simple, tasty French fare. But for Battambang rather too exp
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Au+Cabaret+Vert+Battambang+Cambodia)
 🍽️ **Cuisine:** Khmer, French
-💰 **Price level:** 20-30 $
+💰 **Price level:** $20-30

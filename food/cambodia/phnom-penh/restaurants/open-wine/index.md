@@ -47,4 +47,4 @@ Semi-fancy French restaurant with great lunch deals and fine dining for dinner. 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Open+Wine+Restaurant+Phnom+Penh)
 🍽️ **Cuisine:** French
-💰 **Price level:** 30-40 $
+💰 **Price level:** $30-40

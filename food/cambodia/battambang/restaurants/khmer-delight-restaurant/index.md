@@ -52,4 +52,4 @@ Khmer Delight is a pleasant little tourist restaurant with a surprisingly decent
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khmer+Delight+Restaurant+Street+119+Battambang+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** 8-15 $
+💰 **Price level:** $8-15

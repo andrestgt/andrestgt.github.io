@@ -11,7 +11,7 @@ subtitle: Preah Ang Yukanthor St, Phnom Penh · Khmer
   <figcaption>Nimol</figcaption>
 </figure>
 
-Local outdoor eatery with a good, varied English menu of Khmer classics and personal favourites such as raw beef salad and fish amok. Most dishes around 5$, so it's not cheap, but reasonable for the central location.
+Local outdoor eatery with a good, varied English menu of Khmer classics and personal favourites such as raw beef salad and fish amok. Most dishes around $5, so it's not cheap, but reasonable for the central location.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -38,4 +38,4 @@ Local outdoor eatery with a good, varied English menu of Khmer classics and pers
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nimol+Restaurant+Preah+Ang+Yukanthor+Street+Phnom+Penh)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** 10-15 $
+💰 **Price level:** $10-15

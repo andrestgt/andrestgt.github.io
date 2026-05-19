@@ -28,4 +28,4 @@ Delux Villa is not only one of the nicest hotels in Battambang, but its restaura
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Delux+Villa+Hotel+Restaurant+Battambang+Cambodia)
 🍽️ **Cuisine:** International, Khmer
-💰 **Price level:** 15-20 $
+💰 **Price level:** $15-20

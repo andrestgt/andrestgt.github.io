@@ -49,4 +49,4 @@ The modern, air-conditioned Jaan Bai has been a welcome addition to Battambang's
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jaan+Bai+Restaurant+Street+2+Battambang+Cambodia)
 🍽️ **Cuisine:** Pan-Asian
-💰 **Price level:** 15-20 $
+💰 **Price level:** $15-20

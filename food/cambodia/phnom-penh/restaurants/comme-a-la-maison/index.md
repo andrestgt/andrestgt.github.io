@@ -32,4 +32,4 @@ Whenever I'm in Phnom Penh, the deli at CALM is my first choice for baguette —
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Comme+a+la+Maison+Street+57+Phnom+Penh)
 🍽️ **Cuisine:** French
-💰 **Price level:** 20 $
+💰 **Price level:** $20

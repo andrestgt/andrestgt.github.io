@@ -22,4 +22,4 @@ Curry Walla used to be my favourite Indian restaurant in Siem Reap, but they pla
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Curry+Walla+Sivatha+Rd+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** $ 12-18
+💰 **Price level:** $12-18
