@@ -19,7 +19,6 @@ Food & drink in Czechia.
 - [Liberec](/food/czechia/liberec/)
 - [Frymburk](/food/czechia/frymburk/)
 - [Hradec Králové](/food/czechia/hradec-kralove/)
-- [Mariánské Lázně](/food/czechia/marianske-lazne/)
 - [Náchod](/food/czechia/nachod/)
 - [Nové Město nad Metují](/food/czechia/nove-mesto-metuje/)
 - [Vodňany](/food/czechia/vodnany/)
