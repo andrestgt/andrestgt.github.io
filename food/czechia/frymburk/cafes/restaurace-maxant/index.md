@@ -6,6 +6,10 @@ title: Restaurace Maxant
 subtitle: Frymburk · Café
 ---
 
+<figure>
+  <img src="/photos/czechia/frymburk/restaurace-maxant-1.jpg" alt="Restaurace Maxant">
+  <figcaption>Restaurace Maxant</figcaption>
+</figure>
 
 Prices here are closer to Prague Old Town levels, which is slightly hard to justify in Frymburk. On the plus side, the café makes a halfway decent cappuccino for 65 Kč, which is far from guaranteed in this part of the world. We didn't try the food.
 
