@@ -54,12 +54,5 @@ More polished than most Otres spots with genuinely good Khmer seafood at reasona
 
 ---
 
-## Twin Lotus Restaurant
-*Sihanoukville · International*
-Looks upscale but doesn't justify the prices — average coffee, unavailable dishes, overall unimpressive.
-→ [Read the full review](/food/cambodia/sihanoukville/restaurants/twin-lotus-restaurant/)
-
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
