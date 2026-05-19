@@ -17,14 +17,14 @@ The banh mi here is tasty, although prices feel a little high considering the lo
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
+| Food            | 7.5/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 5/10   |
-| Overall         | 6.5/10 |
+| Overall         | 7/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rumunská+23+120+00+Prague+Czechia)
 📍 Rumunská 23/30, 120 00 Prague, Czechia
-💰 moderate
+💰 CZK400
