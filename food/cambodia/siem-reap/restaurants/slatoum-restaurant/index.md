@@ -2,16 +2,16 @@
 layout: default
 section: food
 review: true
-title: Slatoum Restaurant by Rohatt Cafe
+title: Rohatt Café
 subtitle: Wat Bo · Khmer
 ---
 
 <figure>
-  <img src="/photos/cambodia/siem-reap/slatoum-restaurant-1.jpg" alt="Slatoum Restaurant by Rohatt Cafe">
-  <figcaption>Slatoum Restaurant by Rohatt Cafe</figcaption>
+  <img src="/photos/cambodia/siem-reap/slatoum-restaurant-1.jpg" alt="Rohatt Café">
+  <figcaption>Rohatt Café</figcaption>
 </figure>
 
-The coffee and cocktails at Slatoum were fairly average and didn't leave much of an impression, but the beef lok lak was genuinely outstanding. Perfectly peppery, with tender cubes of beef and exactly the kind of flavour the dish should have. The restaurant itself is pleasant enough overall.
+The coffee and cocktails at Rohatt Café were fairly average and didn't leave much of an impression, but the beef lok lak was genuinely outstanding. Perfectly peppery, with tender cubes of beef and exactly the kind of flavour the dish should have. The restaurant itself is pleasant enough overall.
 
 ## Ratings
 
