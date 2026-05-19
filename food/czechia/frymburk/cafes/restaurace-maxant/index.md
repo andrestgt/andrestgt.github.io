@@ -17,11 +17,11 @@ Prices here are closer to Prague Old Town levels, which is slightly hard to just
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
+| Coffee          | 7/10  |
+| Service         | 7/10  |
 | Value for money | 5/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 7/10  |
 
 ### Practical
 
