@@ -39,14 +39,14 @@ LOTUS claims to serve the best dim sum in Sihanoukville and, surprisingly enough
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 8.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lotus+Restaurant+Holiday+Palace+Hotel+Sihanoukville+Cambodia)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** $1.25–1.75 per basket
+💰 **Price level:** $10
