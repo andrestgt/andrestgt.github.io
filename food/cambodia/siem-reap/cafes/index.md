@@ -19,13 +19,6 @@ Probably the best coffee in Siem Reap — properly prepared cappuccino at around
 
 ---
 
-## Esso Drip
-*Sivutha Blvd · Specialty Coffee*
-Small, friendly coffee shop serving one of the best cappuccinos in Siem Reap — prices are high by Cambodian standards but the quality justifies it.
-→ [Read the full review](/food/cambodia/siem-reap/cafes/esso-drip/)
-
----
-
 ## Temple Coffee n Bakery
 *Street 25 · Café*
 Fantastic décor and one of the most comfortable café-lounge spaces in Siem Reap, with good coffee and a nice range of inexpensive finger food.
