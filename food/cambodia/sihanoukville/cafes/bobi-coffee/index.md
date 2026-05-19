@@ -19,8 +19,8 @@ BoBi is a spacious and comfortable café with modern Asian-style décor and plen
 | ---             | ---   |
 | Coffee          | 6/10  |
 | Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
+| Value for money | 6.5/10  |
+| Atmosphere      | 7/10  |
 | Overall         | 6/10  |
 
 ### Practical
