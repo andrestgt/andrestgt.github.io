@@ -26,10 +26,6 @@ Otres Sailing Club has an excellent beachfront location with comfortable cushion
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/cambodia/sihanoukville/otres-sailing-club-4.jpg" alt="Otres Sailing Club">
-  <figcaption>Otres Sailing Club</figcaption>
-</figure>
-<figure>
   <img src="/photos/cambodia/sihanoukville/otres-sailing-club-5.jpg" alt="Otres Sailing Club">
   <figcaption>Otres Sailing Club</figcaption>
 </figure>
