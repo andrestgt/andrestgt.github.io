@@ -17,14 +17,14 @@ Despite the location, this pivnice feels a little more authentic than many other
 
 | Category        | Score  |
 | ---             | ---    |
-| Beer            | 7/10   |
+| Food and Beer   | 7.5/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 7/10   |
 | Atmosphere      | 7.5/10 |
-| Overall         | 6.5/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Křižovnická+60+110+00+Prague+Czechia)
 📍 Křižovnická 60/10, 110 00 Prague, Czechia
-💰 expensive
+💰 Moderate
