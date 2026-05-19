@@ -92,7 +92,6 @@ Remarkably beautiful restaurant but style over substance — only one of three d
 ## Bella's Pizzeria & Western Eatery
 *Sok San Rd · American, Pizza*
 Unapologetically American with very large portions — decent burger but soggy fries let it down.
-→ [Read the full review](/food/cambodia/siem-reap/restaurants/bellas-pizzeria/)
 
 ---
 
