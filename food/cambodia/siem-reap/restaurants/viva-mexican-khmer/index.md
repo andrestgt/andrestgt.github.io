@@ -50,14 +50,14 @@ Viva is an institution. They've been serving their $5 mango margarita pitchers i
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7.5/10   |
 | Service         | 8/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Viva+Mexican+Khmer+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Mexican, Khmer
-💰 **Price level:** Inexpensive to Moderate
+💰 **Price level:** $10-15
