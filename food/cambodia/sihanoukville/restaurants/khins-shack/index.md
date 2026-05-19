@@ -66,14 +66,14 @@ Khin's Shack feels like one of the last survivors of the old Otres Beach atmosph
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10   |
+| Service         | 7.5/10 |
+| Value for money | 8.5/10   |
+| Atmosphere      | 9/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khin%27s+Shack+Otres+Beach+Sihanoukville+Cambodia)
 🍽️ **Cuisine:** Seafood, International
-💰 **Price level:** Around $12 seafood platter
+💰 **Price level:** $10-15
