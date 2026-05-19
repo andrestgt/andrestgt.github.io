@@ -68,7 +68,7 @@ Olive is a very attractive fine dining restaurant in Siem Reap's Old Town, with 
 | ---             | ---    |
 | Food            | 9/10   |
 | Service         | 9/10   |
-| Value for money | 8.5/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
 
@@ -76,4 +76,4 @@ Olive is a very attractive fine dining restaurant in Siem Reap's Old Town, with 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Olive+Cuisine+de+Saison+Old+Town+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Mediterranean, French
-💰 **Price level:** —
+💰 **Price level:** $30-50
