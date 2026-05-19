@@ -53,14 +53,14 @@ This is probably Sihanoukville's fanciest and best restaurant, but given the ama
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
-| Service         | 8.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
+| Food            | 9/10   |
+| Service         | 9/10 |
+| Value for money | 9/10   |
+| Atmosphere      | 9.5/10 |
 | Overall         | 9/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fine+Dining+Seafood+Restaurant+Sihanoukville+Cambodia)
 🍽️ **Cuisine:** Seafood, International
-💰 **Price level:** —
+💰 **Price level:** $20-30
