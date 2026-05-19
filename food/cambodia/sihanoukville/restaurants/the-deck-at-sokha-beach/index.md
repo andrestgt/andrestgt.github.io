@@ -38,6 +38,17 @@ This is probably Sihanoukville's fanciest and best restaurant, but given the ama
 
 
 
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/cambodia/sihanoukville/the-deck-at-sokha-beach-10.jpg" alt="The Deck at Sokha Beach">
+  <figcaption>The Deck at Sokha Beach</figcaption>
+</figure>
+<figure>
+  <img src="/photos/cambodia/sihanoukville/the-deck-at-sokha-beach-11.jpg" alt="The Deck at Sokha Beach">
+  <figcaption>The Deck at Sokha Beach</figcaption>
+</figure>
+</div>
 ## Ratings
 
 | Category        | Score  |
