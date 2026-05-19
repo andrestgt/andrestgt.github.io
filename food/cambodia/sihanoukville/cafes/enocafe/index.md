@@ -3,7 +3,7 @@ layout: default
 section: food
 review: true
 title: Enocafe Coffee & Italian Restaurant
-subtitle: Koh Rong Island, Sihanoukville · Café, Italian
+subtitle: Sihanoukville · Café, Italian
 ---
 
 Their Italian cappuccino is actually not better than at some of the other coffee shops in town, but it's OK for 2$. Sandwiches such as the parma ham one are very nice, if rather expensive — though imported ingredients are obviously not cheap to get here.
@@ -12,14 +12,14 @@ Their Italian cappuccino is actually not better than at some of the other coffee
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
+| Coffee          | 7/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Value for money | 6.5/10 |
+| Atmosphere      | 7/10 |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Enocafe+Coffee+Italian+Restaurant+Koh+Rong+Sihanoukville+Cambodia)
 ☕ **Type:** Café, Italian
-💰 **Price level:** $2 per coffee
+💰 **Price level:** moderate 
