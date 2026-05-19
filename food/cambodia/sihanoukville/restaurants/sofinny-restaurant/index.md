@@ -24,7 +24,7 @@ Sofinny is a very good choice in Otres Village for inexpensive, home-style Khmer
 | ---             | ---    |
 | Food            | 8.5/10 |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
+| Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -32,4 +32,4 @@ Sofinny is a very good choice in Otres Village for inexpensive, home-style Khmer
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sofinny+Restaurant+Otres+Village+Sihanoukville+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** —
+💰 **Price level:** $8-12
