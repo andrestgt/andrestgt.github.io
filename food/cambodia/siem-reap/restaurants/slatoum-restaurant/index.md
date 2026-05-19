@@ -27,4 +27,4 @@ The coffee and cocktails at Slatoum were fairly average and didn't leave much of
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Slatoum+Restaurant+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Khmer
-💰 **Price level:** Moderate
+💰 **Price level:** $10-15
