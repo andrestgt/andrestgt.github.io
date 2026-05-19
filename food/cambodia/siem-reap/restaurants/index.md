@@ -47,10 +47,10 @@ Worth the short trip out of town — pizza among the best in Siem Reap with genu
 
 ---
 
-## The Crocodile River
+## Schnitzelwirtin
 *Riverside, Siem Reap · European, Thai*
 Enormous portions of excellent schnitzel and cheese spätzle alongside authentic Thai curries — come seriously hungry.
-→ [Read the full review](/food/cambodia/siem-reap/restaurants/the-crocodile-river/)
+→ [Read the full review](/food/cambodia/siem-reap/restaurants/schnitzelwirtin/)
 
 ---
 
