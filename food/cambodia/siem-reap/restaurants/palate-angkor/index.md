@@ -65,4 +65,4 @@ Attractive, upmarket Khmer fusion restaurant by the river. Food comes tapas-size
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Palate+Angkor+Restaurant+Bar+Acha+Sva+Road+Siem+Reap+Cambodia)
 🍽️ **Cuisine:** Khmer Fusion
-💰 **Price level:** —
+💰 **Price level:** $15-20

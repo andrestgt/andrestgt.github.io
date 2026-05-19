@@ -22,4 +22,4 @@ Lucky Corner has a prime corner location right on Sisowath Quay and is an easy p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lucky+Corner+Restaurant+Sisowath+Quay+Phnom+Penh)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** $10-15

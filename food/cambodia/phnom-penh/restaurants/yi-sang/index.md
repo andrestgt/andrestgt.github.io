@@ -65,4 +65,4 @@ There used to be a time when Yi Sang was pretty much the only option for quality
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kroeung+Garden+Sisowath+Quay+Phnom+Penh)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** $15-20

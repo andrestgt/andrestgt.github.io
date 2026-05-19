@@ -27,4 +27,4 @@ Aroma Chef is one of many similar-looking bars and restaurants along Street 172,
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Aroma+Chef+Restaurant+Bar+Street+172+Phnom+Penh)
 🍺 **Type:** Bar, Restaurant
-💰 **Price level:** —
+💰 **Price level:** $8-12
