@@ -21,9 +21,17 @@ Palawan &middot; Malaysian Borneo
 Rangoon &middot; Toungoo &middot; Mandalay &middot; Myitkyina &middot; Bhamo &middot; Katha
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/burma-2009/)
 
+## Philippines (2008)
+Manila &middot; North Luzon &middot; Bicol &middot; Visayas &middot; Negros &middot; Siquijor
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/philippines-2008/)
+
 ## Burma / Myanmar (2008)
 Rangoon &middot; Golden Rock &middot; Moulmein &middot; Naypyidaw &middot; Inle Lake &middot; Bagan
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/burma-2008/)
+
+## Indonesia (2008)
+Sumatra &middot; Java &middot; Bali
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/indonesia-2008/)
 
 ## Iran (2007)
 Tehran &middot; Yazd &middot; Shiraz &middot; Isfahan
@@ -36,3 +44,11 @@ Thailand &middot; Laos &middot; Cambodia &middot; Vietnam
 ## Cycling Cambodia & Vietnam (2006)
 Thailand &middot; Cambodia &middot; Vietnam
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-cambodia-vietnam-2006/)
+
+## South Africa (2002)
+Johannesburg &middot; Kruger &middot; Drakensberg &middot; Garden Route &middot; Cape Town
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/south-africa-2002/)
+
+## Eastern Europe (2002)
+Hungary &middot; Romania &middot; Bulgaria &middot; Greece &middot; Croatia &middot; Venice
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/eastern-europe-2002/)
