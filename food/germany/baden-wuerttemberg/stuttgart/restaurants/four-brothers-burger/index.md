@@ -6,16 +6,15 @@ title: Four Brothers Burger
 subtitle: Stuttgart · Burgers
 ---
 
-A solid bet for when you fancy a burger between meals. Quality is consistent across the board — really nothing to complain about.
-
+Recommended if you’re in the mood for a burger. The quality is consistently good, with really nothing to complain about. The burgers are well made, but the real standout is the chips, which are genuinely excellent. Prices are reasonable, especially for Stuttgart. A reliable place for a good burger.
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
-| Service         | 7.5/10 |
+| Food            | 8/10 |
+| Service         | 7/10 |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7/10   |
+| Atmosphere      | 6/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
