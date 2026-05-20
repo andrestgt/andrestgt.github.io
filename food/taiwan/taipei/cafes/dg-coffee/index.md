@@ -22,4 +22,4 @@ Possibly the prettiest café in town, although the prices really are over the to
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=D.G+Coffee+Dihua+Street+Section+1+Datong+District+Taipei+Taiwan)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** 200 NT$ per coffee
+💰 **Price level:** moderate

@@ -22,4 +22,4 @@ I only came here initially to escape the rain, but it turned out to be a very pl
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nosh+Co+Jalan+Ampang+Kuala+Lumpur+Malaysia)
 ☕ **Type:** Café
-💰 **Price level:** 9 RM per flat white
+💰 **Price level:** inexpensive

@@ -24,4 +24,4 @@ You get a very good cappuccino for 32k and a Vietnamese coffee for under 20k—a
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=23B+Biệt+Thự+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

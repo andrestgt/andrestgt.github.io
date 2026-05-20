@@ -20,4 +20,4 @@ Friendly, spacious coffee shop with ac and very fast WiFi, BUT I ordered a cappu
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=86+Đ.+Đề+Thám+Phường+Cầu+Ông+Lãnh+Quận+1+Hồ+Chí+Minh+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

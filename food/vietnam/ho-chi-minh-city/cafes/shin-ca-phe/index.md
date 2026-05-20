@@ -20,4 +20,4 @@ They promise the best coffee in town and I won't argue with that. Their espresso
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=18+Hồ+Huấn+Nghiệp+Bến+Nghé+Quận+1+Hồ+Chí+Minh+70000+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

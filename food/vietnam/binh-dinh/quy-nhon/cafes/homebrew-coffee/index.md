@@ -20,4 +20,4 @@ Brand new Western style café with smooth, well prepared cappuccino for only 39k
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=232+Nguyễn+Thị+Định+Nguyễn+Văn+Cừ+Quy+Nhơn+Bình+Định+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

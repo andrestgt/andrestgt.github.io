@@ -20,4 +20,4 @@ Nicely decorated coffee shop with good Vietnamese coffees. Avoid the espresso ba
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=21B+Điện+Biên+Phủ+Điện+Biên+Ba+Đình+Hà+Nội+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

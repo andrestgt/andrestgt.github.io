@@ -21,4 +21,4 @@ Very good cappuccino here for 35k. Inexpensive. Just a pity that the café is no
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=11+Ngõ+6+P.+Lê+Thánh+Tông+Phan+Chu+Trinh+Hoàn+Kiếm+Hà+Nội+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** inexpensive

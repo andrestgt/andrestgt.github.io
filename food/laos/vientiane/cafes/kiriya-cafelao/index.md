@@ -22,4 +22,4 @@ Modern, air-conditioned little café with surprisingly good coffee. The cappucci
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kiriya+Cafelao+Vientiane+Laos)
 ☕ **Type:** Café
-💰 **Price level:** 15,000 LAK per coffee
+💰 **Price level:** inexpensive

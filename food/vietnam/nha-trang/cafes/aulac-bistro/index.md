@@ -20,4 +20,4 @@ Beautiful café, nicely decorated with sofas and cushions, making it a very comf
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=75a+Nguyễn+Thị+Minh+Khai+Phước+Hoà+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

@@ -21,4 +21,4 @@ Surprisingly fancy café right on Highway 1, though prices are far less expensiv
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=7P67+89J+QL1+Quỳnh+Dị+Hoàng+Mai+Nghệ+An+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** inexpensive

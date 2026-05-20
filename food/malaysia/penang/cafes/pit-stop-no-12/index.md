@@ -22,4 +22,4 @@ Properly prepared Lavazza cappuccino for around 8 RM, plus air conditioning and 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pit+Stop+No+12+Lorong+Chulia+George+Town+Penang)
 ☕ **Type:** Café
-💰 **Price level:** 8 RM per coffee
+💰 **Price level:** moderate

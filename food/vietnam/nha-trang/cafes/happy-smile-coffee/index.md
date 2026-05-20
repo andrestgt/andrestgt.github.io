@@ -23,4 +23,4 @@ This basic coffee shop has some of the best views over Nha Trang without having 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bắc+Nha+trang+bên+cạnh+cổng+Chùa+Nha+Trang+Khánh+Hòa+57000+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

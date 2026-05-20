@@ -7,8 +7,6 @@ subtitle: Ba Bể District · Vietnamese
 ---
 We ended up having lunch here simply because is was the only place that was open on a Monday during Covid19. It's a large restaurant that seems to cater mostly to bigger groups but we were the only guests. No menu was available, but they cooked us some fried rice, fries and the local lap suon sausage. The food was alright but nothing special and rather pricy. We paid 180k for the three dishes and 2 beers. But without competition, oh well... Nice views
 
-*— Attractions, hotels **&** travel agencies —*
-
 ## Ratings
 
 | Category | Score |

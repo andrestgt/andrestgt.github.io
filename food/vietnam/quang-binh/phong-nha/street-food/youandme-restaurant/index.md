@@ -11,8 +11,6 @@ The fried spring rolls (50k) were fine, but came with chili sauce from the bottl
 
 At least it was cheap
 
-*— Attractions, hotels **&** travel agencies —*
-
 ## Ratings
 
 | Category | Score |

@@ -7,8 +7,6 @@ subtitle: Hà Tĩnh · Bia Hơi
 ---
 This is everything a bia hoi joint should be, cheap, cheerful, friendly and delicious. A glass of refreshing and really fresh beer is a mere 6k, and their crispy fried pig cheeks are absolutely porkalicious.
 
-*— Attractions, hotels **&** travel agencies —*
-
 ## Ratings
 
 | Category        | Score  |

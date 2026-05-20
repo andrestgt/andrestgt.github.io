@@ -20,4 +20,4 @@ Very nice little café in the Old Town. It seems brand new and as such less busy
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=25/52+Đ.+Chùa+Vẽ+Đông+Hải+1+Hải+An+Hải+Phòng+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** inexpensive

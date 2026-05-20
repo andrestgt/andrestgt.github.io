@@ -22,4 +22,4 @@ Very good cappuccino for under 10 RM in a stylishly decorated café. One of the 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wheeler%27s+Lorong+Love+George+Town+Penang+Malaysia)
 ☕ **Type:** Café
-💰 **Price level:** Under 10 RM per coffee
+💰 **Price level:** moderate

@@ -20,4 +20,4 @@ Very nice, spacious and comfortable café with both Vietnamese coffees and espre
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lô+7M+Đường+19/5+Xã+Vĩnh+Hiệp+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

@@ -22,4 +22,4 @@ A very decent café stop inside Times Square with fast WiFi, power sockets and s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jardin+Coffee+Tea+Berjaya+Times+Square+Jalan+Imbi+Kuala+Lumpur)
 ☕ **Type:** Café
-💰 **Price level:** Under 12 RM per coffee
+💰 **Price level:** moderate

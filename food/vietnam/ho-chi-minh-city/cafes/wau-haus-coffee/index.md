@@ -20,4 +20,4 @@ Good coffees in a pleasantly quiet setting. At 55k for a cappuccino, prices are 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=66+Đ.+51+An+Phú+Thủ+Đức+Thành+phố+Hồ+Chí+Minh+27088+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** moderate

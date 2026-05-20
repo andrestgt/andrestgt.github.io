@@ -20,4 +20,4 @@ If we were anywhere south of the Northern mountain area, I wouldn't even review 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=CPX9+GP9+TT.+Chợ+Rầm+Ba+Bể+Bắc+Kạn+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** inexpensive

@@ -28,8 +28,9 @@ hero: /photos/background/vietnamhero.jpg
 
 - [An Giang](/food/vietnam/an-giang/)
 - [Bà Rịa – Vũng Tàu](/food/vietnam/ba-ria-vung-tau/)
-- [Bình Định](/food/vietnam/binh-dinh/)
 - [Bắc Kạn](/food/vietnam/bac-kan/)
+- [Bình Định](/food/vietnam/binh-dinh/)
+- [Đắk Lắk](/food/vietnam/dak-lak/)
 - [Gia Lai](/food/vietnam/gia-lai/)
 - [Hà Giang](/food/vietnam/ha-giang/)
 - [Hà Tĩnh](/food/vietnam/ha-tinh/)
@@ -48,4 +49,3 @@ hero: /photos/background/vietnamhero.jpg
 - [Thanh Hóa](/food/vietnam/thanh-hoa/)
 - [Trà Vinh](/food/vietnam/tra-vinh/)
 - [Yên Bái](/food/vietnam/yen-bai/)
-- [Đắk Lắk](/food/vietnam/dak-lak/)
