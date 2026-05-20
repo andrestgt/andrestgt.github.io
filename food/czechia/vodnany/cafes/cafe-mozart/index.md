@@ -6,6 +6,10 @@ title: Café Mozart
 subtitle: Vodňany · Café
 ---
 
+<figure>
+  <img src="/photos/czechia/vodnany/cafe-mozart-1.jpg" alt="Café Mozart">
+  <figcaption>Café Mozart</figcaption>
+</figure>
 
 Nice café on the town square, though not especially cheap. They also serve Italian-style cappuccino with cinnamon, which may or may not be your thing. The espresso is good, however.
 
