@@ -32,4 +32,4 @@ Serves reliable Western and Indonesian bistro dishes in comfortable surroundings
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ninety+Nine+Grand+Indonesia+Jakarta)
 🍽️ **Cuisine:** International, Indonesian
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

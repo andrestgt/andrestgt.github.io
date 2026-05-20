@@ -45,5 +45,5 @@ Worth a visit at least once for the photos and the atmosphere.
 
 ☕ **Type:** Café
 
-💰 **Price level:** Moderate
+💰 **Price level:** moderate
 

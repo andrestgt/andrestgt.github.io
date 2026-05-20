@@ -27,4 +27,4 @@ Very pleasant excursion restaurant with a large beer garden in the woods. About 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mühlbachtal+im+Wald+67146+Deidesheim+Germany)
 📍 Mühlbachtal im Wald, 67146 Deidesheim, Germany
-💰 €20–30 · Lunch
+💰 **Price level:** €20–30 · Lunch

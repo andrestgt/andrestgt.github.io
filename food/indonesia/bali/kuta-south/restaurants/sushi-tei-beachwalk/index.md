@@ -60,4 +60,4 @@ Sushi Tei used to be my favourite sushi chain, but recently I have been disappoi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Tei+Beachwalk+Kuta+Bali)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

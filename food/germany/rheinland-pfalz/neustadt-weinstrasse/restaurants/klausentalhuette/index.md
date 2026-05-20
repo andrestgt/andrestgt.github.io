@@ -27,4 +27,4 @@ Compared with other huts nearby, the Klausentalhütte is on the modern side and 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Weißkreuzstr+100+67434+Neustadt+an+der+Weinstraße+Germany)
 📍 Weißkreuzstr 100, 67434 Neustadt an der Weinstraße, Germany
-💰 €10–20
+💰 **Price level:** €10–20

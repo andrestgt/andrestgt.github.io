@@ -27,4 +27,4 @@ Dark, cavernous, and pleasantly moody — a proper little pub with a good atmosp
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Józefa+9+31-056+Kraków+Poland)
 📍 Józefa 9, 31-056 Kraków, Poland
-💰 moderate
+💰 **Price level:** moderate

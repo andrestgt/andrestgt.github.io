@@ -22,4 +22,4 @@ A decent enough option for Cantonese dim sum when stuck in Mid Valley. Quality i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Canton-i+The+Gardens+Kuala+Lumpur+Malaysia)
 🍽️ **Cuisine:** Cantonese, Dim Sum
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

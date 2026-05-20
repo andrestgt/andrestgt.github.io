@@ -26,4 +26,4 @@ Like most Black Canyon branches, this one reliably serves decent coffee and one 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Black+Canyon+Ratchadaphisek+Din+Daeng+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

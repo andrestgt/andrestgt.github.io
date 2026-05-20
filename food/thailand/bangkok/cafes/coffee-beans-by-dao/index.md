@@ -38,4 +38,4 @@ This branch is beautifully designed and has extremely comfortable armchairs. The
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffee+Beans+By+Dao+Central+Embassy+Bangkok)
 ☕ **Type:** Café & Bistro
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

@@ -27,4 +27,4 @@ This shop doubles as a very nice café with drinks and coffees of good quality a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Herb+Basics+Prapokklao+Road+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

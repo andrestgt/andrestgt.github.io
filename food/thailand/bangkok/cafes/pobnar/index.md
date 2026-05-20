@@ -31,4 +31,4 @@ It's your typical slightly uncomfortable hipster setup, but the coffee makes up 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pobnar+Specialty+Coffee+Convent+Rd+Silom+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

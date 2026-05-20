@@ -32,4 +32,4 @@ The location by the Danube is basically impossible to beat. Cocktails by the car
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fővám+tér+11+1093+Budapest+Hungary)
 📍 Fővám tér 11-12, 1093 Budapest, Hungary
-💰 moderate
+💰 **Price level:** moderate

@@ -41,5 +41,5 @@ I've been to Bangkok many times and been to many cafés but this is probably the
 
 ☕ **Type:** Café
 
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive
 

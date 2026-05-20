@@ -32,4 +32,4 @@ Surprisingly stylish café by Fields Avenue standards, with a touch of class and
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Grand+Cafe+Don+Juico+Ave+Angeles+Pampanga+Philippines)
 ☕️ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

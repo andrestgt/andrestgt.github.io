@@ -22,4 +22,4 @@ Friendly café-bakery with a large variety of Indonesian coffees prepared in sev
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Christines+Garden+Prawirotaman+Yogyakarta)
 ☕️ **Type:** Café-Bakery
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

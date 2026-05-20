@@ -32,4 +32,4 @@ A vast old-school feeding temple with a generous buffet at €25 not including d
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Stuttgarter+Str.+62-64+70736+Fellbach+Germany)
 📍 Stuttgarter Str. 62-64, 70736 Fellbach, Germany
-💰 €20–30 · Dinner
+💰 **Price level:** €20–30 · Dinner

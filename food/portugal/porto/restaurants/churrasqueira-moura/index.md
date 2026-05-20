@@ -32,4 +32,4 @@ This cafeteria-style local restaurant is not going to win awards for atmosphere,
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rua+do+Almada+219+4000-407+Porto+Portugal)
 📍 Rua do Almada 219, 4000-407 Porto, Portugal
-💰 budget
+💰 **Price level:** budget

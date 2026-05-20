@@ -40,4 +40,4 @@ Prices are quite high for such a basic place, but you pay for freshness and auth
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bahnhofstraße+20+70372+Stuttgart+Germany)
 📍 Bahnhofstraße 20, 70372 Stuttgart, Germany
-💰 €20–30 · Lunch
+💰 **Price level:** €20–30 · Lunch

@@ -32,4 +32,4 @@ Modern Italian-style café with comfortable armchairs and outdoor seating. Prope
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Metodova+2+080+01+Prešov+Slovakia)
 📍 Metodova 7279/2, 080 01 Prešov, Slovakia
-💰 budget
+💰 **Price level:** budget

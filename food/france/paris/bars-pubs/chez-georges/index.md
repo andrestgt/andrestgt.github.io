@@ -27,4 +27,4 @@ Chez Georges has a unique wine cellar atmosphere. The best approach is probably 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=11+Rue+des+Canettes+75006+Paris+France)
 📍 11 Rue des Canettes, 75006 Paris, France
-💰 moderate
+💰 **Price level:** moderate

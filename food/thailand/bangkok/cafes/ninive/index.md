@@ -32,4 +32,4 @@ This should be your pizza place of choice around Phra Khanong. Baked freshly rig
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ninive+Games+Pizza+Phra+Khanong+Bangkok)
 ☕ **Type:** Board Game Café & Pizzeria
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

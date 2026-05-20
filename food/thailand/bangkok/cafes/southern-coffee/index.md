@@ -22,4 +22,4 @@ The chairs here are very comfortable, unfortunately the coffee itself is awful. 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Southern+Coffee+by+Pakin+Phaya+Thai+Rd+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

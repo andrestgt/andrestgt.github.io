@@ -23,4 +23,4 @@ Attractive little hipster café with comfortable seating, good coffee, and a gre
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Geisbergweg+8+48143+Münster+Germany)
 📍 Geisbergweg 8, 48143 Münster, Germany
-💰 —
+💰 **Price level:** —

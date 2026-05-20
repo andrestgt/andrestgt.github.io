@@ -27,4 +27,4 @@ AlGaSo looks rather unassuming from outside, even with the pleasant terrace that
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Olkstraße+18+54349+Trittenheim+Germany)
 📍 Olkstraße 18, 54349 Trittenheim, Germany
-💰 €10–20 · Lunch
+💰 **Price level:** €10–20 · Lunch

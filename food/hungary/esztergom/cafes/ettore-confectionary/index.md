@@ -23,4 +23,4 @@ Despite the Italian name, the coffee here is anything but. Cappuccino comes with
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lőrinc+u.+2+2500+Esztergom+Hungary)
 📍 Lőrinc u. 2, 2500 Esztergom, Hungary
-💰 budget
+💰 **Price level:** budget

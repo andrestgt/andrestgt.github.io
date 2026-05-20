@@ -32,4 +32,4 @@ Unlike many other Pfälzer forest restaurants, this one is easy to reach by car 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Im+Meisental+81+67433+Neustadt+an+der+Weinstraße+Germany)
 📍 Im Meisental 81, 67433 Neustadt an der Weinstraße, Germany
-💰 €20–30
+💰 **Price level:** €20–30

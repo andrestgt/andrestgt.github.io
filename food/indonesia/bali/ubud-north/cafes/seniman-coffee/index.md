@@ -27,4 +27,4 @@ Ubud's ultimate hipster café with, well, let's say interesting decor. The coffe
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Seniman+Coffee+Jl+Sri+Wedari+Ubud+Bali)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate to expensive
+💰 **Price level:** moderate to expensive

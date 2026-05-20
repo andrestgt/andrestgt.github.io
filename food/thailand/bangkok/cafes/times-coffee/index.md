@@ -21,4 +21,4 @@ Tiny coffee shop with only a few tables, so not really somewhere for a long lazy
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Time%27s+Coffee+Naradhiwas+Rajanagarindra+Rd+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

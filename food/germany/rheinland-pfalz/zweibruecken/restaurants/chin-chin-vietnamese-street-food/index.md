@@ -49,4 +49,4 @@ Chin Chin offers a full restaurant atmosphere — minimalist, modern and very we
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hauptstraße+12A+66482+Zweibrücken+Germany)
 📍 Hauptstraße 12A, 66482 Zweibrücken, Germany
-💰 €10–20
+💰 **Price level:** €10–20

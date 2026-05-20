@@ -23,4 +23,4 @@ They serve proper flat whites here, alongside craft beer and avocado toast. Quit
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+de+Sant+Domingo+27+07460+Pollença+Mallorca+Spain)
 📍 Carrer de Sant Domingo, 27, 07460 Pollença, Mallorca, Spain
-💰 moderate
+💰 **Price level:** moderate

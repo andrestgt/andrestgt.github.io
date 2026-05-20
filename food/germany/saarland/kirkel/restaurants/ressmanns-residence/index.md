@@ -43,4 +43,4 @@ An upmarket establishment with outstanding cooking at genuinely fair prices. I d
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kaiserstraße+87+66459+Kirkel+Germany)
 📍 Kaiserstraße 87, 66459 Kirkel, Germany
-💰 —
+💰 **Price level:** —

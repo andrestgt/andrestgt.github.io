@@ -22,4 +22,4 @@ Probably the most famous restaurant on Samosir and deservedly popular for its su
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jennys+Restaurant+Tuktuk+Samosir+Lake+Toba)
 🍽️ **Cuisine:** Indonesian, Grilled Fish
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

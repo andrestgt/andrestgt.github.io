@@ -22,4 +22,4 @@ Nice little café where the coffee is reasonably priced. The food feels slightly
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Traveller+Passos+Manuel+Porto+Portugal)
 ☕️ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

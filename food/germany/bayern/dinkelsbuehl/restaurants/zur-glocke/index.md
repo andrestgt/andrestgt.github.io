@@ -38,4 +38,4 @@ Good god, this place is as old school as it gets. I had no ideas such places sti
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Weinmarkt+1+91550+Dinkelsbühl+Germany)
 📍 Weinmarkt 1, 91550 Dinkelsbühl, Germany
-💰 —
+💰 **Price level:** —

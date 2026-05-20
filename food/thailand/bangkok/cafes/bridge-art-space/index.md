@@ -27,4 +27,4 @@ Anyone needing a coffee break around this part of Bangkok could do much worse th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=bridge+art+space+Charoen+Krung+Rd+Bangkok)
 ☕ **Type:** Café & Gallery
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

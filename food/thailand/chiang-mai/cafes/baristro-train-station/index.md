@@ -27,4 +27,4 @@ This chic, minimalist café is a much nicer place to wait for a train than the s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Baristro+at+Train+Station+Rotfai+Alley+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

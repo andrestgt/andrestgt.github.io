@@ -43,4 +43,4 @@ Even by Café Amazon standards this branch is rather poor. Seating is limited, t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Amazon+Naradhiwas+Rajanagarindra+Rd+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

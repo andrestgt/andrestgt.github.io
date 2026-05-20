@@ -31,4 +31,4 @@ Probably the best place in the city centre for coffee lovers.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Midway+Coffee+Ambon+city+centre)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -26,4 +26,4 @@ It's a bit on the pricey side, but the setting and overall atmosphere make it a 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Isara+Local+Bar+Brewery+Charoen+Nakhon+Rd+Bangkok)
 🍺 **Type:** Microbrewery
-💰 **Price level:** Moderate to Expensive
+💰 **Price level:** moderate to expensive

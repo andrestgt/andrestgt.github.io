@@ -27,4 +27,4 @@ Loulou serves good wine and classic bistro food in the middle of Saint-Germain. 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=90+Bd+Saint-Germain+75005+Paris+France)
 📍 90 Bd Saint-Germain, 75005 Paris, France
-💰 expensive
+💰 **Price level:** expensive

@@ -46,5 +46,5 @@ Cute little coffee shop opposite the Goethe-Institut serving very good flat whit
 
 ☕ **Type:** Specialty Coffee
 
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive
 

@@ -46,5 +46,5 @@ Arty little café/cocktail bar in a great location. You can choose between two k
 
 ☕ **Type:** Café & Cocktail Bar
 
-💰 **Price level:** Moderate
+💰 **Price level:** moderate
 

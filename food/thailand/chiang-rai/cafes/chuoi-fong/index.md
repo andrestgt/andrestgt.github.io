@@ -32,4 +32,4 @@ The tea plantations here are genuinely beautiful, although during high season th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Choui+Fong+Tea+Chiang+Rai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

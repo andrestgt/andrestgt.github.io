@@ -22,4 +22,4 @@ D’ARK is undeniably expensive, but it’s also one of the nicest cafés in Ban
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=D%27ARK+Sukhumvit+49+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

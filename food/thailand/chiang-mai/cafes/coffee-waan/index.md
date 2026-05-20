@@ -69,4 +69,4 @@ Unfortunately there is very limited and rather uncomfortable seating. On the plu
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffee+Waan+Kampangdin+Rd+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

@@ -27,4 +27,4 @@ A very nice-looking café in an expensive neighbourhood, but unfortunately the c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hajós+u.+15+1065+Budapest+Hungary)
 📍 Hajós u. 15, 1065 Budapest, Hungary
-💰 expensive
+💰 **Price level:** expensive

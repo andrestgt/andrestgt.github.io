@@ -27,4 +27,4 @@ The most famous Gasthaus in Bamberg, this place is obviously very popular with t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dominikanerstraße+6+96049+Bamberg+Germany)
 📍 Dominikanerstraße 6, 96049 Bamberg, Germany
-💰 —
+💰 **Price level:** —

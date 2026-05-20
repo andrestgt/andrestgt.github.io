@@ -21,4 +21,4 @@ The cakes and pies here are really delicious and surprisingly inexpensive. The c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Charin+Garden+Resort+Mae+Suai+Chiang+Rai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

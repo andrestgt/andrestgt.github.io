@@ -22,4 +22,4 @@ Strategic location for a coffee break on Jl Raya Kuta. Coffee drinks are not the
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Memorial+Cafe+Jl+Legian+Kuta+Bali)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

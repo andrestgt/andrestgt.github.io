@@ -21,4 +21,4 @@ Mezzo is basically a local Starbucks imitation. The coffee tastes almost exactly
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mezzo+The+Street+Ratchadaphisek+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

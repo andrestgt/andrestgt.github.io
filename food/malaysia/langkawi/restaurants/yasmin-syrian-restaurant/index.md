@@ -27,4 +27,4 @@ Very authentic Syrian and Middle Eastern food with excellent appetisers and part
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Yasmin+Syrian+Restaurant+Langkawi+Malaysia)
 🍽️ **Cuisine:** Syrian, Middle Eastern
-💰 **Price level:** Moderate to Expensive
+💰 **Price level:** moderate to expensive

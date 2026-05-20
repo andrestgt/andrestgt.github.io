@@ -27,4 +27,4 @@ Spacious and attractive café with plenty of genuinely comfortable seating, some
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Move+On+Cafe+Prawirotaman+Yogyakarta)
 ☕️ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

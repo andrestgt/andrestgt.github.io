@@ -43,4 +43,4 @@ Very nice little wine bar in the Old Town with an excellent white muscat by the 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hlavná+9+040+01+Košice+Slovakia)
 📍 Hlavná 9, 040 01 Košice, Slovakia
-💰 moderate
+💰 **Price level:** moderate

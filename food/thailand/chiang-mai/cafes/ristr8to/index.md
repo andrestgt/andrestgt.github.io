@@ -38,4 +38,4 @@ This has been my go-to coffee shop in the Nimman area for well over a decade, ba
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ristr8to+Original+Nimmanahaeminda+Road+Chiang+Mai)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

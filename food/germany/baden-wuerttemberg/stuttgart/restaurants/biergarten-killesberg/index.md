@@ -32,4 +32,4 @@ Pleasant beer garden in the greenery with decent Swabian cooking. Big portions a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Stresemannstraße+39+70191+Stuttgart+Germany)
 📍 Stresemannstraße 39, 70191 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

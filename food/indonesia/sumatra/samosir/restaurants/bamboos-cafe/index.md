@@ -22,4 +22,4 @@ One of the nicer places in Tuktuk for relaxing with lake views and comfortable c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bamboos+Cafe+Tuktuk+Samosir+Lake+Toba)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

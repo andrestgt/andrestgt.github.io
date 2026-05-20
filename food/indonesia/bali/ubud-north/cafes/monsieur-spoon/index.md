@@ -27,4 +27,4 @@ Pretty chic café-patisserie with nice croissants and decent baguettes. The coff
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Monsieur+Spoon+Jl+Hanoman+Ubud+Bali)
 ☕ **Type:** Café & Patisserie
-💰 **Price level:** Moderate to expensive
+💰 **Price level:** moderate to expensive

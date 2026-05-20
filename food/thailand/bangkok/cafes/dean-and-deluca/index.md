@@ -22,4 +22,4 @@ Dean & Deluca serves good coffee and very decent cheesecakes in fairly fancy sur
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dean+Deluca+Bangkok)
 ☕ **Type:** Café & Deli
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

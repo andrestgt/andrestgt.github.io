@@ -38,4 +38,4 @@ Traditional restaurant dating back to medieval times, famous and very popular wi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Glöckleinsgasse+2+90403+Nürnberg+Germany)
 📍 Glöckleinsgasse 2, 90403 Nürnberg, Germany
-💰 —
+💰 **Price level:** —

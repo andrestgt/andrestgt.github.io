@@ -25,4 +25,4 @@ Still, for the views alone, it's worth coming at least once while you're in Ambo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://maps.app.goo.gl/?q=854P+44G+Swiss-Belhotel,+Jl.+Benteng+Kapaha+No.88,+Uritetu,+Sirimau,+Ambon)
 🍺 **Type:** Rooftop Bar
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

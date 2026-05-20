@@ -34,4 +34,4 @@ Still, the hearty Swabian food is good and you can never go wrong with a nice He
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Karl-Schurz-Straße+28c+70190+Stuttgart+Germany)
 📍 Karl-Schurz-Straße 28c, 70190 Stuttgart, Germany
-💰 €20–30 · Dinner
+💰 **Price level:** €20–30 · Dinner

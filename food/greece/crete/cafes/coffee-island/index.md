@@ -23,4 +23,4 @@ Coffee Island serves decent coffee at very fair prices, with cappuccino costing 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=El.+Venizelou+190+Limenas+Chersonisou+700+14+Greece)
 📍 El. Venizelou 190, Limenas Chersonisou 700 14, Greece
-💰 budget
+💰 **Price level:** budget

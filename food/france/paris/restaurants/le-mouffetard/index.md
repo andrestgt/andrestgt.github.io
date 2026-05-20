@@ -38,4 +38,4 @@ Le Mouffetard serves large portions of honest French countryside cooking at reas
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=116+Rue+Mouffetard+75005+Paris+France)
 📍 116 Rue Mouffetard, 75005 Paris, France
-💰 moderate
+💰 **Price level:** moderate

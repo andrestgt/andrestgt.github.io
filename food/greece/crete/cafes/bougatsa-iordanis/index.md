@@ -27,4 +27,4 @@ Excellent place for breakfast or a quick snack. A plate costs around 3€, is su
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Apokoronou+24+Chania+731+35+Greece)
 📍 Apokoronou 24, Chania 731 35, Greece
-💰 budget
+💰 **Price level:** budget

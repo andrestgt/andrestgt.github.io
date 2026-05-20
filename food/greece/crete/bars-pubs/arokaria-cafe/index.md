@@ -27,4 +27,4 @@ Arokaria is a very pleasant place to sit in the yard with a cold quality draft b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Salaminos+7+Rethymno+741+31+Greece)
 📍 Salaminos 7, Rethymno 741 31, Greece
-💰 moderate
+💰 **Price level:** moderate

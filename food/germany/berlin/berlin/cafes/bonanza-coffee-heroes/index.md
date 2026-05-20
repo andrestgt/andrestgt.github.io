@@ -23,4 +23,4 @@ Like many hipster cafés, this place takes coffee extremely seriously, and the c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oderberger+Str.+35+10435+Berlin+Germany)
 📍 Oderberger Str. 35, 10435 Berlin, Germany
-💰 —
+💰 **Price level:** —

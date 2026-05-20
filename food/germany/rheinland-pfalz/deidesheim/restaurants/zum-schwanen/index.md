@@ -38,4 +38,4 @@ Zum Schwanen is among the less famous and pleasingly cheaper places in Deideshei
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Weinstraße+40+67146+Deidesheim+Germany)
 📍 Weinstraße 40, 67146 Deidesheim, Germany
-💰 €20–30
+💰 **Price level:** €20–30

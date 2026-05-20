@@ -27,4 +27,4 @@ Happy Espresso is not especially comfortable, but it has strong air conditioning
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Happy+Espresso+Mittraphan+Rd+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -47,4 +47,4 @@ An unreserved recommendation.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gablenberger+Hauptstraße+45+70186+Stuttgart+Germany)
 📍 Gablenberger Hauptstraße 45, 70186 Stuttgart, Germany
-💰 €20–30
+💰 **Price level:** €20–30

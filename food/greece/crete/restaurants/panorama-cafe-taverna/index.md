@@ -43,4 +43,4 @@ Small village taverna with gorgeous mountain views and very friendly service. Th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kefali+village+Crete+Greece)
 📍 Kefali, Crete, Greece
-💰 moderate
+💰 **Price level:** moderate

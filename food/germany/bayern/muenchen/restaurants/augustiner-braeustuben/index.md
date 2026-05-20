@@ -41,5 +41,5 @@ Despite the tourists, this place feels more like an authentic beer hall than the
 
 📍 Landsberger Str. 19, 80339 München, Germany
 
-💰 €20–30 · Dinner
+💰 **Price level:** €20–30 · Dinner
 

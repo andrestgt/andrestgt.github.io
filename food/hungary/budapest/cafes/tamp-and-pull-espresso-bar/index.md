@@ -23,4 +23,4 @@ Nice espresso bar out in the outskirts of Budapest. The cappuccino is expertly p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Váci+út+85+1139+Budapest+Hungary)
 📍 Váci út 85, 1139 Budapest, Hungary
-💰 moderate
+💰 **Price level:** moderate

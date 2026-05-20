@@ -23,4 +23,4 @@ Great little place in Barceloneta with good tapas, friendly service, and fair pr
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+del+Baluard+58+Ciutat+Vella+08003+Barcelona+Spain)
 📍 Carrer del Baluard, 58, Barceloneta, 08003 Barcelona, Spain
-💰 moderate
+💰 **Price level:** moderate

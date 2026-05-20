@@ -32,4 +32,4 @@ Wonderful little bohemian neighbourhood bar with surprisingly low prices for Par
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=83+Rue+Jean-Pierre+Timbaud+75011+Paris+France)
 📍 83 Rue Jean-Pierre Timbaud, 75011 Paris, France
-💰 budget
+💰 **Price level:** budget

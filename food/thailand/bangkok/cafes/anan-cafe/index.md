@@ -22,4 +22,4 @@ Anan Cafe uses surprisingly good beans for such reasonably priced espresso drink
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Anan+Cafe+Phahonyothin+Rd+Phaya+Thai+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

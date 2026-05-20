@@ -27,4 +27,4 @@ This is quite an oddity. A simple 'Gaststätte' in a quiet East End residential 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kniebisstraße+16+70188+Stuttgart+Germany)
 📍 Kniebisstraße 16, 70188 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

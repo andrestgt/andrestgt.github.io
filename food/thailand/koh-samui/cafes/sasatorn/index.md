@@ -40,4 +40,4 @@ This is not only a very nicely decorated and friendly café, they also serve the
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sasatorn+Bo+Put+Koh+Samui)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

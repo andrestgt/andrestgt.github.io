@@ -32,4 +32,4 @@ Camelot is undeniably a beautiful café, and the décor is the main reason to co
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Św.+Tomasza+17+31-022+Kraków+Poland)
 📍 Św. Tomasza 17, 31-022 Kraków, Poland
-💰 expensive
+💰 **Price level:** expensive

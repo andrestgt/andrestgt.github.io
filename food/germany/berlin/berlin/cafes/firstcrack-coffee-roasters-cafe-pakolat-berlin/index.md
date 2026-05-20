@@ -27,4 +27,4 @@ Cute hipster café with excellent coffee at slightly more reasonable prices than
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Raumerstraße+40+10437+Berlin+Germany)
 📍 Raumerstraße 40, 10437 Berlin, Germany
-💰 —
+💰 **Price level:** —

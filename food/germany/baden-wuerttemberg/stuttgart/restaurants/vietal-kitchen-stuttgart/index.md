@@ -32,4 +32,4 @@ Outstanding healthy food, mostly Asian/Vietnamese influenced. Quite chic for the
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Landhausstraße+181+70188+Stuttgart+Germany)
 📍 Landhausstraße 181, 70188 Stuttgart, Germany
-💰 €20–30 · Lunch
+💰 **Price level:** €20–30 · Lunch

@@ -23,4 +23,4 @@ Friendly café with excellent coffee at sensible prices. Unfortunately, there's 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gutenbergstraße+27+14467+Potsdam+Germany)
 📍 Gutenbergstraße 27, 14467 Potsdam, Germany
-💰 —
+💰 **Price level:** —

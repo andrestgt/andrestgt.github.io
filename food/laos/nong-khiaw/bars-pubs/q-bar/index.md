@@ -22,4 +22,4 @@ Q Bar is probably the best place in Nong Khiaw for happy hour cocktails between 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Q+Bar+Nong+Khiaw+Laos)
 ☕️ **Type:** Bar
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

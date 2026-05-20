@@ -27,4 +27,4 @@ Simple and quiet little place in the centre, but away from the worst tourist cro
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+dels+Mercaders+28+Ciutat+Vella+08003+Barcelona+Spain)
 📍 Carrer dels Mercaders, 28, Ciutat Vella, 08003 Barcelona, Spain
-💰 budget
+💰 **Price level:** budget

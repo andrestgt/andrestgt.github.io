@@ -24,4 +24,4 @@ Coffee is well made, though, with cappuccinos under 30K, which is in line with p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fifteenth+Coffee+Kota+Lama+Surabaya)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

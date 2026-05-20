@@ -22,4 +22,4 @@ Forget the overpriced ice cream for once and come here for the surprisingly affo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Haagen-Dazs+Tanah+Abang+Jakarta)
 ☕️ **Type:** Café, Ice Cream
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

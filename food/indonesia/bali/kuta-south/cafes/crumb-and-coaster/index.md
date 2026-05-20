@@ -22,4 +22,4 @@ Just went there for coffee. It's a nice and friendly little place, a bit pricey 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Crumb+Coaster+Jl+Benesari+Kuta+Bali)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

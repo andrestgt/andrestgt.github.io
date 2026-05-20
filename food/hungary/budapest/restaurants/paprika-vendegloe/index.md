@@ -49,4 +49,4 @@ Can't go wrong here. Yes, it's touristy, but it tastes and looks like a traditio
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dózsa+György+út+72+1071+Budapest+Hungary)
 📍 Dózsa György út 72, 1071 Budapest, Hungary
-💰 moderate
+💰 **Price level:** moderate

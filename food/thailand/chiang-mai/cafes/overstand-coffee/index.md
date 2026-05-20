@@ -27,4 +27,4 @@ Top marks for the coffees and quality sandwiches. The place is small and popular
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Overstand+Coffee+Breakfast+Ratchamanka+Rd+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

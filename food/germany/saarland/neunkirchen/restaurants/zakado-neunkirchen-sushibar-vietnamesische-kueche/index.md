@@ -38,4 +38,4 @@ For a Vietnamese-run sushi restaurant in the German provinces, the quality at Za
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lindenallee+18+66538+Neunkirchen+Germany)
 📍 Lindenallee 18, 66538 Neunkirchen, Germany
-💰 €20–30 · Lunch
+💰 **Price level:** €20–30 · Lunch

@@ -31,4 +31,4 @@ Coffee was decent, nothing particularly memorable, and on the pricier side for S
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Library+Coffee+Pastries+Waterplace+Surabaya)
 ☕ **Type:** Book Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

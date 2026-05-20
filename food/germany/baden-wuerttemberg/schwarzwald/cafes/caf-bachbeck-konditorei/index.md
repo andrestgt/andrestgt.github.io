@@ -23,4 +23,4 @@ The nicest café in town, and quite inexpensive. But the coffees and cakes are r
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bachstraße+1+77761+Schiltach+Germany)
 📍 Bachstraße 1, 77761 Schiltach, Germany
-💰 —
+💰 **Price level:** —

@@ -32,4 +32,4 @@ A wonderfully old school, traditional Hungarian restaurant in the Old Town which
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bródy+Sándor+u.+3+3300+Eger+Hungary)
 📍 Bródy Sándor u. 3, 3300 Eger, Hungary
-💰 moderate
+💰 **Price level:** moderate

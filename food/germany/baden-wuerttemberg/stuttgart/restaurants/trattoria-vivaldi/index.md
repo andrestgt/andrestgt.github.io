@@ -27,4 +27,4 @@ Decent Italian food at affordable prices. The lunch specials are outstanding val
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bergstraße+5+70186+Stuttgart+Germany)
 📍 Bergstraße 5, 70186 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

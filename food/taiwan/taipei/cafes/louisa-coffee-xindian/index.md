@@ -22,4 +22,4 @@ Friendly little café at Xindian metro station. Coffees come in big mugs but are
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Louisa+Coffee+MRT+Xindian+Station+Taipei+Taiwan)
 ☕️ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

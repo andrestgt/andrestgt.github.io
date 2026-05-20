@@ -38,4 +38,4 @@ A pleasant traditional Swabian beer garden with hot food served all day and a go
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hintere+Str.+2+74348+Lauffen+am+Neckar+Germany)
 📍 Hintere Str. 2, 74348 Lauffen am Neckar, Germany
-💰 €20–30 · Lunch
+💰 **Price level:** €20–30 · Lunch

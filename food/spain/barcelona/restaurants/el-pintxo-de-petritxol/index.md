@@ -38,4 +38,4 @@ Pintxos really do not get much better than this. The morcilla and foie gras are 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=El+Pintxo+De+Petritxol+Carrer+Petritxol+Barcelona+Spain)
 🍽️ **Cuisine:** Tapas, Pintxos
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

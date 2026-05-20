@@ -23,4 +23,4 @@ A cute little hipster coffee kiosk that does exactly what it says on the tin. Or
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wielopole+14+31-072+Kraków+Poland)
 📍 Wielopole 14, 31-072 Kraków, Poland
-💰 budget
+💰 **Price level:** budget

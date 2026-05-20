@@ -27,4 +27,4 @@ Very popular café with comfortable seating, good snacks and surprisingly well-p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Peoples+Cafe+Grand+Indonesia+Jakarta)
 ☕️ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

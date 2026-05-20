@@ -43,4 +43,4 @@ The food is very good, yes, my level of home cooking, which is a compliment, but
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Friedrichstraße+41+70173+Stuttgart+Germany)
 📍 Friedrichstraße 41, 70173 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

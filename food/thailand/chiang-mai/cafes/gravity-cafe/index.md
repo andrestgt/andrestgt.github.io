@@ -22,4 +22,4 @@ If Stories at Tapae Gate is too crowded, Gravity is a quieter alternative with t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gravity+Cafe+Bistro+Samlarn+Rd+Chiang+Mai)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -60,4 +60,4 @@ Has the best view of the village, nice veranda, good coffees at 50 Bt, decent ca
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chomnok+Chommai+Huai+Kaeo+Mae+On+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

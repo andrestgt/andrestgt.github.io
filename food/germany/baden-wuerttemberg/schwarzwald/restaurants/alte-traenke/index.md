@@ -38,4 +38,4 @@ Charming traditional Black Forest farmhouse and an excellent place to stop for a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fürstenbergstraße+41+77776+Bad+Rippoldsau-Schapbach+Germany)
 📍 Fürstenbergstraße 41, 77776 Bad Rippoldsau-Schapbach, Germany
-💰 —
+💰 **Price level:** —

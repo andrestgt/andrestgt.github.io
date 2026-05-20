@@ -32,4 +32,4 @@ Apart from the unfortunate habit of putting cinnamon on cappuccino, Brainwake is
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Brainwake+Cafe+Sukhumvit+33+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

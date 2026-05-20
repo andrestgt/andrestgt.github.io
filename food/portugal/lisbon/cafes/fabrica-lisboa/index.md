@@ -23,4 +23,4 @@ Apart from the shortage of comfortable seating, this is a very pleasant café wi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+da+Madalena+121+1100-319+Lisboa+Portugal)
 📍 R. da Madalena 121, 1100-319 Lisboa, Portugal
-💰 moderate
+💰 **Price level:** moderate

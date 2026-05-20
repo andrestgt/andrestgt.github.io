@@ -30,4 +30,4 @@ Sweet Maesalong Café serves very good coffee on a beautiful mountainside terrac
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sweet+Maesalong+Cafe+Mae+Salong+Chiang+Rai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

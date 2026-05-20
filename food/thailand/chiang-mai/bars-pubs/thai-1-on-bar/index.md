@@ -45,4 +45,4 @@ There's good music, tasty cocktails, and very decent pub grub on offer, covering
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Thai+1+On+Bar+Grill+Si+Phum+Chiang+Mai)
 🍺 **Type:** Bar & Grill
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

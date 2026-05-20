@@ -23,4 +23,4 @@ Touristy bar-restaurant with excellent views over Porto. A litre jug of sangria 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Av.+de+Diogo+Leite+242+4430-999+Vila+Nova+de+Gaia+Portugal)
 📍 Av. de Diogo Leite 242, 4430-999 Vila Nova de Gaia, Portugal
-💰 moderate
+💰 **Price level:** moderate

@@ -22,4 +22,4 @@ Surprisingly good coffees here for 50 Bt. Nice veranda with a view.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Eden+Caffee+Mae+Rim+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

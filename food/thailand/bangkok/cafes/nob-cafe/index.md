@@ -43,4 +43,4 @@ Friendly café with fair prices and a choice of different coffee roasts. The med
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=NOB+Cafe+Silom+Rd+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -22,4 +22,4 @@ Despite the name, this is very much Thai food adjusted for Filipino tastes. The 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Soms+Authentic+Thai+Cuisine+Manalac+Makati+Manila)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -23,4 +23,4 @@ Nice, slightly chic little café on the Old Town square with inexpensive beer an
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Šafárikova+22+048+01+Rožňava+Slovakia)
 📍 Šafárikova 22, 048 01 Rožňava, Slovakia
-💰 budget
+💰 **Price level:** budget

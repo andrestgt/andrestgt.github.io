@@ -32,4 +32,4 @@ Well, it's a currywurst, and I like currywurst, so recommending this place is ha
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Schönhauser+Allee+44b+10435+Berlin+Germany)
 📍 Schönhauser Allee 44b, 10435 Berlin, Germany
-💰 —
+💰 **Price level:** —

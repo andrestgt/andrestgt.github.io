@@ -38,4 +38,4 @@ Still, Café Moulu is a very pleasant place that I can comfortably recommend, wh
 
 ☕ **Type:** Café
 
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -27,4 +27,4 @@ A rustic old forester's lodge with a large, shady beer garden in the middle of t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lindemannsruhe+1+67098+Bad+Dürkheim+Germany)
 📍 Lindemannsruhe 1, 67098 Bad Dürkheim, Germany
-💰 €10–20
+💰 **Price level:** €10–20

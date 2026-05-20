@@ -43,5 +43,5 @@ We were lucky on the day we visited and found it relatively quiet, which made th
 
 ☕ **Type:** Café
 
-💰 **Price level:** Moderate
+💰 **Price level:** moderate
 

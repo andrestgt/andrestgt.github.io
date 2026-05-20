@@ -40,4 +40,4 @@ They have very friendly staff, a free pool table and draft Tiger for only 45 Bt.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Globe+Bar+Restaurant+Sri+Poom+Rd+Chiang+Mai)
 🍺 **Type:** Bar & Restaurant
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

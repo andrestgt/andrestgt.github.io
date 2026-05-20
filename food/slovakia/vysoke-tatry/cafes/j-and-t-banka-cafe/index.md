@@ -23,4 +23,4 @@ Very fancy and extremely comfortable café. Considering the setting, just over 2
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Starý+Smokovec+38+062+01+Vysoké+Tatry+Slovakia)
 📍 Starý Smokovec 38, 062 01 Vysoké Tatry, Slovakia
-💰 moderate
+💰 **Price level:** moderate

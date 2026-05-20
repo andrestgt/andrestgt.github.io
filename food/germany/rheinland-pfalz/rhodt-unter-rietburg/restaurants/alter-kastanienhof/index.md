@@ -32,4 +32,4 @@ At Alter Kastanienhof in the pretty village of Rhodt unter Rietburg, you can sit
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Theresienstraße+79+76835+Rhodt+unter+Rietburg+Germany)
 📍 Theresienstraße 79, 76835 Rhodt unter Rietburg, Germany
-💰 —
+💰 **Price level:** —

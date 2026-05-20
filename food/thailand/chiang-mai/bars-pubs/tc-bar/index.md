@@ -24,4 +24,4 @@ Places like this exist for exactly those moments before you go home, when all yo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=TC+Bar+Grill+Changphuak+Soi+1+Chiang+Mai)
 🍺 **Type:** Bar
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

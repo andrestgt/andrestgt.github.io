@@ -23,4 +23,4 @@ Service staff here can be overwhelmed and prices are on the high side but the lo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bahnhofpl.+6+76137+Karlsruhe+Germany)
 📍 Bahnhofpl. 6, 76137 Karlsruhe, Germany
-💰 —
+💰 **Price level:** —

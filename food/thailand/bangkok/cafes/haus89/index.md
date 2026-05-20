@@ -22,4 +22,4 @@ This chic, modern coffee shop gets a lot of things right. Well prepared tasty ca
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=haus89+Samyan+Si+Phraya+Rd+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

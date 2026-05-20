@@ -32,4 +32,4 @@ Superb little hideaway with good cocktails, good music, attractive décor, and e
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+d'en+Rauric+23+Ciutat+Vella+08002+Barcelona+Spain)
 📍 Carrer d'en Rauric, 23, Ciutat Vella, 08002 Barcelona, Spain
-💰 moderate
+💰 **Price level:** moderate

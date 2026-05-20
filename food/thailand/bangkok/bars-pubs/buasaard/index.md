@@ -22,4 +22,4 @@ Very local bar with live music, good food and drinks. Inexpensive by Bangkok sta
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Buasaard+Ram+Buttri+Rd+Bangkok)
 🍺 **Type:** Bar
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

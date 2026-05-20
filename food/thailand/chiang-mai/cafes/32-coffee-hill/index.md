@@ -65,4 +65,4 @@ This attractive café is a great place to break the journey between Chiang Mai a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=32+Coffee+Hill+Resort+Pa+Pae+Mae+Taeng+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

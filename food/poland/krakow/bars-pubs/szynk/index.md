@@ -38,4 +38,4 @@ Pleasant, traditional beer-and-food pub with good draft beers and local comfort 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Podbrzezie+2+31-054+Kraków+Poland)
 📍 Podbrzezie 2, 31-054 Kraków, Poland
-💰 moderate
+💰 **Price level:** moderate

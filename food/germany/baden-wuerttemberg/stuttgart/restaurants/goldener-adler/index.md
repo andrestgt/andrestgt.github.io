@@ -38,4 +38,4 @@ Goldener Adler combines creative, international starters with main courses of he
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Böheimstraße+38+70178+Stuttgart+Germany)
 📍 Böheimstraße 38, 70178 Stuttgart, Germany
-💰 €70–80 · Dinner
+💰 **Price level:** €70–80 · Dinner

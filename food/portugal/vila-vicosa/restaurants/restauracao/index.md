@@ -23,4 +23,4 @@ Friendly place in a prime location. The house wine is good, which is hardly surp
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Praça+da+República+2+7160-207+Vila+Viçosa+Portugal)
 📍 Praça da República 2, 7160-207 Vila Viçosa, Portugal
-💰 moderate
+💰 **Price level:** moderate

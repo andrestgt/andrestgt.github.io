@@ -22,4 +22,4 @@ A nicely located café right by the canal in Banglamphu, a good place to stop if
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Richdees+Eatery+Cafe+Banphanthom+Alley+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

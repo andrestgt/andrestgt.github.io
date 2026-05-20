@@ -43,4 +43,4 @@ This place is quite a surprise once you make your way through the rather drab co
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hlavná+43+040+01+Košice+Slovakia)
 📍 Hlavná 43, 040 01 Košice, Slovakia
-💰 moderate
+💰 **Price level:** moderate

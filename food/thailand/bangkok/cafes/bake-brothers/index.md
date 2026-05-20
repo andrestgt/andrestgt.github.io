@@ -22,4 +22,4 @@ Bake Brothers is a spacious café inside Terminal 21 serving fairly good cappucc
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bake+Brothers+Terminal+21+Bangkok)
 ☕ **Type:** Café & Bakery
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

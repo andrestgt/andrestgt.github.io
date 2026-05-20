@@ -23,4 +23,4 @@ Exactly what the name promises: really good coffee. Cappuccino is around 2,50€
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kolumbastraße+8+50667+Köln+Germany)
 📍 Kolumbastraße 8, 50667 Köln, Germany
-💰 —
+💰 **Price level:** —

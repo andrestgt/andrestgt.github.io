@@ -34,4 +34,4 @@ The beer isn’t overpriced, and the food, while not cheap, is traditional Swabi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Stauffenbergstraße+1+70173+Stuttgart+Germany)
 📍 Stauffenbergstraße 1, 70173 Stuttgart, Germany
-💰 €20–30 · Lunch
+💰 **Price level:** €20–30 · Lunch

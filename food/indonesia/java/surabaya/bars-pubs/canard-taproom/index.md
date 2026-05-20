@@ -27,4 +27,4 @@ The stronger Weizenbock, at around 9.5%, was a bit much for me, but overall it i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Canard+Taproom+Cafe+Surabaya)
 🍺 **Type:** Craft Beer Bar
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

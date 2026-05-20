@@ -23,4 +23,4 @@ Zum Becher has apparently been around for a long time, even if I have to admit I
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Urbanstraße+33+70182+Stuttgart+Germany)
 📍 Urbanstraße 33, 70182 Stuttgart, Germany
-💰 €40–50
+💰 **Price level:** €40–50

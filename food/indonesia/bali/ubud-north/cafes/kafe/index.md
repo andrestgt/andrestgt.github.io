@@ -22,4 +22,4 @@ Very popular for many years. Their coffees come in generous mugs, but are strong
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=KAFE+Jl+Hanoman+Ubud+Bali)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

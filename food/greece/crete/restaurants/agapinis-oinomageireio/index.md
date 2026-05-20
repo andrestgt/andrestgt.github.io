@@ -23,4 +23,4 @@ Tiny working-class eatery inside the market serving wonderfully traditional Cret
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Agoras+Market+Chania+731+00+Greece)
 📍 Δημοτική Αγορά Χανίων, Pl. Agoras, Chania 731 00, Greece
-💰 budget
+💰 **Price level:** budget

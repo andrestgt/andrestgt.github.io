@@ -32,4 +32,4 @@ Very friendly, properly traditional Swabian wine tavern with very fair prices, b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Trollingerstraße+8+70329+Stuttgart+Germany)
 📍 Trollingerstraße 8, 70329 Stuttgart, Germany
-💰 €10–20 · Lunch
+💰 **Price level:** €10–20 · Lunch

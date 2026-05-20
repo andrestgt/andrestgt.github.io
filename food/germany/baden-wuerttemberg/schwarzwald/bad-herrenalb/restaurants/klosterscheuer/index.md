@@ -27,4 +27,4 @@ A gutbürgerlich Swabian restaurant in a beautifully renovated klosterscheuer in
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Im+Kloster+14+76332+Bad+Herrenalb+Germany)
 📍 Im Kloster 14, 76332 Bad Herrenalb, Germany
-💰 —
+💰 **Price level:** —

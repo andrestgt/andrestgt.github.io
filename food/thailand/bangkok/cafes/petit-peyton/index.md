@@ -27,4 +27,4 @@ Beautifully decorated vintage café with bookshelves, old armchairs, and a genui
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Petit+Peyton+Travelogue+Cafe+Maha+Chai+Rd+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

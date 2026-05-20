@@ -21,4 +21,4 @@ Minimalist little coffee shop with only a handful of seats, but the coffee is ex
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mitr+Roast+Brewsters+Phahonyothin+Rd+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

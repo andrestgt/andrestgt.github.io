@@ -86,4 +86,4 @@ Surprisingly unpretentious, non-fancy for a sky bar at a 5-star hotel. Views are
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Octave+Rooftop+Lounge+Bar+Marriott+Sukhumvit+57+Bangkok)
 🍺 **Type:** Rooftop Bar
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

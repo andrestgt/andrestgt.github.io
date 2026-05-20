@@ -27,4 +27,4 @@ Has been around forever and is still a fun boozer with relatively cheap drinks, 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hasenbergstraße+37B+70176+Stuttgart+Germany)
 📍 Hasenbergstraße 37B, 70176 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

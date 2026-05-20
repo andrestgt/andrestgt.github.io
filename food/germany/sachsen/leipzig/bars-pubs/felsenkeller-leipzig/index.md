@@ -27,4 +27,4 @@ Felsenkeller is a very attractive hipster beer garden right in the middle of Lei
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Karl-Heine-Straße+32+04229+Leipzig+Germany)
 📍 Karl-Heine-Straße 32, 04229 Leipzig, Germany
-💰 —
+💰 **Price level:** —

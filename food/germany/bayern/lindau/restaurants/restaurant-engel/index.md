@@ -32,4 +32,4 @@ Restaurant Engel is very popular, but if you turn up early enough you'll definit
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Schafgasse+4+88131+Lindau+Germany)
 📍 Schafgasse 4, 88131 Lindau, Germany
-💰 €20–30 · Dinner
+💰 **Price level:** €20–30 · Dinner

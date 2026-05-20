@@ -33,4 +33,4 @@ Worth stopping by if you're in the area and feel like something a bit different.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dewata+Monsieur+Spoon+Comunale+West+Market+Surabaya)
 ☕ **Type:** Café & Patisserie
-💰 **Price level:** Moderate to Expensive
+💰 **Price level:** moderate to expensive

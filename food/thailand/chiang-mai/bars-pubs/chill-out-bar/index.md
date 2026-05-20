@@ -21,4 +21,4 @@ I used to stay around the corner from this place for a month in 2008 and it was 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chill+Out+Bar+Si+Phum+Chiang+Mai)
 🍺 **Type:** Bar
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

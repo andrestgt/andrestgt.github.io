@@ -27,4 +27,4 @@ Comfortable hipster café-bar with good cappuccino for 460 Ft. The service can b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Széchenyi+u.+16+3300+Eger+Hungary)
 📍 Széchenyi u. 16., 3300 Eger, Hungary
-💰 moderate
+💰 **Price level:** moderate

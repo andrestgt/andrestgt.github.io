@@ -27,4 +27,4 @@ Probably the best pretzels in Stuttgart, and therefore in the world. The queue o
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gablenberger+Hauptstraße+77+70186+Stuttgart+Germany)
 📍 Gablenberger Hauptstraße 77, 70186 Stuttgart, Germany
-💰 €1–10 · Breakfast
+💰 **Price level:** €1–10 · Breakfast

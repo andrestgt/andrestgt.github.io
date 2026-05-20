@@ -27,4 +27,4 @@ This place is better than people tend to give it credit for, especially for what
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bangi+Kopi+Sultan+Hasanuddin+Airport+Makassar)
 ☕️ **Type:** Café-Bistro
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

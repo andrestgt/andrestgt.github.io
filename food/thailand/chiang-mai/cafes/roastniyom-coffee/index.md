@@ -22,4 +22,4 @@ The coffee here is better than it was on my last visit 10 years ago, but for 70 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Roastniyom+Coffee+Chang+Khlan+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

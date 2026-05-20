@@ -47,4 +47,4 @@ The interior still has that slightly dated German-Chinese restaurant look from t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kirchheimer+Str.+126+70619+Stuttgart+Germany)
 📍 Kirchheimer Str. 126, 70619 Stuttgart, Germany
-💰 €30–40 · Dinner
+💰 **Price level:** €30–40 · Dinner

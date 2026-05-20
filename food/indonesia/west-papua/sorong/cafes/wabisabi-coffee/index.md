@@ -34,4 +34,4 @@ With AC and Wi-Fi, it's a good place for a coffee fix or to relax for a while if
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wabi+Sabi+Coffee+Sorong)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

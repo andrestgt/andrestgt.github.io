@@ -32,4 +32,4 @@ Modern café on the top floor of the impressive city library. From some tables y
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mailänder+Platz+1/Stadtbibliothek+8.+OG+70173+Stuttgart+Germany)
 📍 Mailänder Platz 1/Stadtbibliothek 8. OG, 70173 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

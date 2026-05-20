@@ -32,4 +32,4 @@ Nice, modern eatery with mainly local clientele. It's cheap and filling, and the
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Floriana+Straszewskiego+28+31-113+Kraków+Poland)
 📍 Floriana Straszewskiego 28, 31-113 Kraków, Poland
-💰 budget
+💰 **Price level:** budget

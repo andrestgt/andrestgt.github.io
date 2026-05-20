@@ -23,4 +23,4 @@ Large cocktails with proper amounts of alcohol inside, all for 4€. Hard to arg
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Schlesische+Str.+7-8+10997+Berlin+Germany)
 📍 Schlesische Str. 7-8, 10997 Berlin, Germany
-💰 —
+💰 **Price level:** —

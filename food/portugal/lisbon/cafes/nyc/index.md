@@ -22,4 +22,4 @@ Strong coffee, generously filled bagels, and fast wifi, all at suburban prices f
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=NYC+Café+Lisbon+Portugal)
-💰 budget
+💰 **Price level:** budget

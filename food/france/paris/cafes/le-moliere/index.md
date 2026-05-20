@@ -32,4 +32,4 @@ People mostly come here for the atmosphere on Rue de Buci, which is basically th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=12+Rue+de+Buci+75006+Paris+France)
 📍 12 Rue de Buci, 75006 Paris, France
-💰 expensive
+💰 **Price level:** expensive

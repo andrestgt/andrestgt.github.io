@@ -40,4 +40,4 @@ Both the cashewnut pork and the seafood noodles were so so at best.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Moonshine+Bar+Rong+Mai+Alley+Bangkok)
 🍺 **Type:** Bar
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

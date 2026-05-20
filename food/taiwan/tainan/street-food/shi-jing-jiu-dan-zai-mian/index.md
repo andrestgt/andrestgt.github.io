@@ -22,4 +22,4 @@ Danzai noodles (50 NT$) and century egg (15 NT$) — a tasty combination for a n
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Shi+Jing+Jiu+Dan+Zai+Mian+Tainan+Taiwan)
 🍽️ **Cuisine:** Taiwanese, Noodles
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

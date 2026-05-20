@@ -27,4 +27,4 @@ A bit expensive maybe for beers, it's 8,40€ for 1 litre, but the atmosphere an
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Englischer+Garten+3+80538+München+Germany)
 📍 Englischer Garten 3, 80538 München, Germany
-💰 —
+💰 **Price level:** —

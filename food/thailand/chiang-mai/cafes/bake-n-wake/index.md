@@ -22,4 +22,4 @@ Bright air conditioned café with very good lattes for 65 Bt.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bake+n+Wake+Kampangdin+Rd+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

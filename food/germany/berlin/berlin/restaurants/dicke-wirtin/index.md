@@ -27,4 +27,4 @@ Traditional Berlin food in a lively, atmospheric setting. It's touristy and fair
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carmerstraße+9+10623+Berlin+Germany)
 📍 Carmerstraße 9, 10623 Berlin, Germany
-💰 —
+💰 **Price level:** —

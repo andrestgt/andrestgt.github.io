@@ -38,4 +38,4 @@ Honest local food in large portions at reasonable prices. Apple wine is definite
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wallstraße+5+60594+Frankfurt+am+Main+Germany)
 📍 Wallstraße 5, 60594 Frankfurt am Main, Germany
-💰 —
+💰 **Price level:** —

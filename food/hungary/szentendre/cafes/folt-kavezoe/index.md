@@ -27,4 +27,4 @@ Fantastic and slightly eclectic coffee shop serving Italian-style coffee, craft 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kucsera+Ferenc+u.+11+2000+Szentendre+Hungary)
 📍 Kucsera Ferenc u. 11, 2000 Szentendre, Hungary
-💰 moderate
+💰 **Price level:** moderate

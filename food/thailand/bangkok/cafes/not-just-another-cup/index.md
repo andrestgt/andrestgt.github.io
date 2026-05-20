@@ -22,4 +22,4 @@ Just another cup, and an expensive one at that (100++). However, it was a nice c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Not+Just+Another+Cup+Sathon+Soi+10+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

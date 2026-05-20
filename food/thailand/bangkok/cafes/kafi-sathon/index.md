@@ -22,4 +22,4 @@ A nicely decorated café and a good spot for a morning coffee. Flat whites are w
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=KAFI+Sathon+Krung+Thon+Buri+Road+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

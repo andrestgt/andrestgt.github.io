@@ -22,4 +22,4 @@ In a city full of small coffee shops, it's not easy to stand out — but if you'
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Improvise+Coffee+Charoen+Prathet+Rd+Chiang+Mai)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -32,4 +32,4 @@ Nicely decorated hipster beer garden with reasonable prices. The place has a Mex
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kazinczy+u.+48+1075+Budapest+Hungary)
 📍 Kazinczy u. 48, 1075 Budapest, Hungary
-💰 moderate
+💰 **Price level:** moderate

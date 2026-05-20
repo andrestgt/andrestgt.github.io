@@ -27,4 +27,4 @@ Doce Pimenta Café serves cheap beer and coffee, has reliable wifi, and works we
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+Maria+68C+1170-202+Lisboa+Portugal)
 📍 R. Maria 68C, 1170-202 Lisboa, Portugal
-💰 budget
+💰 **Price level:** budget

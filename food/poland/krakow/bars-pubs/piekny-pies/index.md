@@ -23,4 +23,4 @@ Big, spacious bar/club with a very casual feel. Drinks are pretty cheap, and it'
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=plac+Wolnica+9+31-060+Kraków+Poland)
 📍 plac Wolnica 9, 31-060 Kraków, Poland
-💰 budget
+💰 **Price level:** budget

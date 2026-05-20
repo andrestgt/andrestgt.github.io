@@ -32,4 +32,4 @@ Rustic place in the half-height residential band amid Kleingärten allotments. A
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Raichberg+4+70186+Stuttgart+Germany)
 📍 Raichberg 4, 70186 Stuttgart, Germany
-💰 — · Dinner
+💰 **Price level:** — · Dinner

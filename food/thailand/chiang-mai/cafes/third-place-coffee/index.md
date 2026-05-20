@@ -22,4 +22,4 @@ Great little coffee shop in the quiet part of Nimman. The flat white here is rea
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Third+Place+Coffee+Siri+Mangkalajarn+Rd+Chiang+Mai)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

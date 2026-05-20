@@ -27,4 +27,4 @@ One of the cheapest places to drink in Barcelona's Old Town. The interior feels 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=L%27Ovella+Negra+Carrer+Sitges+Barcelona+Spain)
 🍺 **Type:** Bar
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

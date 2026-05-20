@@ -23,4 +23,4 @@ There's no jazz here, and it isn't a café either. It's a full-blown rock club, 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sławkowska+12+31-014+Kraków+Poland)
 📍 Sławkowska 12, 31-014 Kraków, Poland
-💰 moderate
+💰 **Price level:** moderate

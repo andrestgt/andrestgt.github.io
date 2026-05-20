@@ -27,4 +27,4 @@ The Bollocks is just a really fun bar. Drinks are good, prices are fair, the mus
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+Ample+46+Ciutat+Vella+08002+Barcelona+Spain)
 📍 Carrer Ample, 46, Ciutat Vella, 08002 Barcelona, Spain
-💰 moderate
+💰 **Price level:** moderate

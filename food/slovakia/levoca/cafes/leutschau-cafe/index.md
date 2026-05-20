@@ -27,4 +27,4 @@ Beautiful café in a prime location with excellent espresso macchiato for 1,50�
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Námestie+Majstra+Pavla+18+054+01+Levoča+Slovakia)
 📍 Námestie Majstra Pavla 18, 054 01 Levoča, Slovakia
-💰 budget
+💰 **Price level:** budget

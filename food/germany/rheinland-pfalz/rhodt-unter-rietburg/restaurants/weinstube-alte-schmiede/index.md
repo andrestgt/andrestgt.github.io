@@ -46,5 +46,5 @@ Alte Schmiede in the lovely wine village of Rhodt unter Rietburg is a typical Pf
 
 📍 Weinstraße 35, 76835 Rhodt unter Rietburg, Germany
 
-💰 €20–30
+💰 **Price level:** €20–30
 

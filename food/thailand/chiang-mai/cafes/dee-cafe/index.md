@@ -43,4 +43,4 @@ Dee is wee, bright, and air-conditioned. Their flat white may not be made with t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dee+Cafe+Charoensuk+Rd+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

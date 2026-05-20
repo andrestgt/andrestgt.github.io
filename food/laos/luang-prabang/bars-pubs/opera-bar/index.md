@@ -27,4 +27,4 @@ Opera Bar has probably the best people-watching location in town. It's a small, 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Opera+Bar+Luang+Prabang+Laos)
 ☕️ **Type:** Wine Bar
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

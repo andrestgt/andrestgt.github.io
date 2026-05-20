@@ -23,4 +23,4 @@ Very funky 70s decor with reasonable prices. The coffee here is of the burnt var
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Louisenstraße+66+01099+Dresden+Germany)
 📍 Louisenstraße 66, 01099 Dresden, Germany
-💰 —
+💰 **Price level:** —

@@ -27,4 +27,4 @@ Quirky little soi café that does very good espresso drinks at very affordable p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Vespa+Cafe+Coffee+Roaster+Samsen+3+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

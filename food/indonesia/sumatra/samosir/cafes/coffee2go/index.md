@@ -22,4 +22,4 @@ Seemed to be the only place in town capable of preparing a proper cappuccino. Pr
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffee2Go+Tuktuk+Samosir+Lake+Toba)
 ☕️ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

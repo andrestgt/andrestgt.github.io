@@ -32,4 +32,4 @@ A bit pricier (a yufka costs just under €10), but in return you get one of the
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Neckarstraße+156+70190+Stuttgart+Germany)
 📍 Neckarstraße 156, 70190 Stuttgart, Germany
-💰 €10–20 · Lunch
+💰 **Price level:** €10–20 · Lunch

@@ -49,4 +49,4 @@ Large, modern brewery restaurant with a pleasant beer garden right on the Saar c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Saarwiesenring+6+66663+Merzig+Germany)
 📍 Saarwiesenring 6, 66663 Merzig, Germany
-💰 €20–30 · Lunch
+💰 **Price level:** €20–30 · Lunch

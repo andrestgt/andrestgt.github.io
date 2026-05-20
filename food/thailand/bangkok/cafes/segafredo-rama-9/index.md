@@ -37,4 +37,4 @@ Segafredo remains one of the more reliable coffee chains in Bangkok. The seating
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Segafredo+Zanetti+CentralPlaza+Grand+Rama+9+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

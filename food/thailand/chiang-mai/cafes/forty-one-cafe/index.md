@@ -22,4 +22,4 @@ Forty One makes for a great pitstop with comfy seating, strong AC, WiFi, and ine
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Forty+One+Cafe+Suriyawong+Rd+Haiya+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

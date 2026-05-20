@@ -27,4 +27,4 @@ Fantastic location on one of Germany's most beautiful squares. Quick and friendl
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Königstraße+28+70173+Stuttgart+Germany)
 📍 Königstraße 28, 70173 Stuttgart, Germany
-💰 €10–20 · Lunch
+💰 **Price level:** €10–20 · Lunch

@@ -27,4 +27,4 @@ While it's definitely a good thing to have a proper café at Terminal 21, not ju
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=CPS+Coffee+Terminal+21+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

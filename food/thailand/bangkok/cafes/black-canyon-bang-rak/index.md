@@ -22,4 +22,4 @@ Not the nicest Black Canyon branch in terms of atmosphere, and they may put cinn
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Black+Canyon+Robinson+Bang+Rak+Charoen+Krung+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

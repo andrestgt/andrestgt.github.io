@@ -23,4 +23,4 @@ This café looks nice enough from the outside and sits directly on the main squa
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Március+15.+tér+13+2600+Vác+Hungary)
 📍 Március 15. tér 13, 2600 Vác, Hungary
-💰 budget
+💰 **Price level:** budget

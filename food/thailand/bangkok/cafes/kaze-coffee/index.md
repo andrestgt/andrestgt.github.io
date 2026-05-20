@@ -22,4 +22,4 @@ One of the hundreds or thousands of tiny little cafés that have sprung up in Ba
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kaze+Coffee+Soi+Pramuan+Silom+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

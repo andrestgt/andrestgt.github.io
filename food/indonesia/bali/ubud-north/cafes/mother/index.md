@@ -22,4 +22,4 @@ Nice place for a coffee — an expertly prepared, pleasant flat white at 28K++. 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=MOTHER+Cafe+Jl+Nyuh+Bojog+Mas+Ubud+Bali)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

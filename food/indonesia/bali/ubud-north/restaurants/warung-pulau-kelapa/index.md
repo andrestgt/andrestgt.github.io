@@ -71,4 +71,4 @@ This used to be one of my favourite cheap warungs in Ubud, with a beautifully de
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Warung+Pulau+Kelapa+Jl+Raya+Sanggingan+Kedewatan+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

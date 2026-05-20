@@ -47,4 +47,4 @@ For around 500 baht, you can have two dishes and a couple of happy hour beers, w
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=River+Vibe+Bar+Restaurant+Song+Wat+Rd+Bangkok)
 🍺 **Type:** Rooftop Bar
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

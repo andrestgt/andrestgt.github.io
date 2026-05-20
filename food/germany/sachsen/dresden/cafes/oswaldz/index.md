@@ -23,4 +23,4 @@ Oswaldz serves good cappuccino for around 3€ a cup, and it's properly prepared
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bautzner+Str.+9+01099+Dresden+Germany)
 📍 Bautzner Str. 9, 01099 Dresden, Germany
-💰 —
+💰 **Price level:** —

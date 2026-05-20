@@ -29,4 +29,4 @@ Great views and cold beers at regular Stuttgart prices, i.e as high as the terra
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Humboldtstraße+44+70178+Stuttgart+Germany)
 📍 Humboldtstraße 44, 70178 Stuttgart, Germany
-💰 €1–10
+💰 **Price level:** €1–10

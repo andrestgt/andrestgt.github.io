@@ -22,4 +22,4 @@ One of Jakarta’s most deservedly popular coffee shops with some of the stronge
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tanamera+Coffee+Thamrin+City+Jakarta)
 ☕️ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

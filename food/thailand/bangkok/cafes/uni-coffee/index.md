@@ -41,5 +41,5 @@ I usually don't recommend places that offer only paper cups instead of proper cu
 
 ☕ **Type:** Café
 
-💰 **Price level:** Moderate
+💰 **Price level:** moderate
 

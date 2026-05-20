@@ -22,4 +22,4 @@ Excelso was always quite pricey, but 53k for a cappuccino feels increasingly har
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Excelso+Plaza+Indonesia+Jakarta)
 ☕️ **Type:** Café
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

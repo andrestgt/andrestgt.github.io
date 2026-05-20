@@ -32,4 +32,4 @@ Seemed at first a little pricey for a neighbourhood pub. But they have a good se
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Munkásotthon+u.+18+1043+Budapest+Hungary)
 📍 Munkásotthon u. 18, 1043 Budapest, Hungary
-💰 moderate
+💰 **Price level:** moderate

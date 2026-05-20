@@ -54,4 +54,4 @@ Fantastic place for fresh seafood at some of the best prices you'll find anywher
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mercado+Bom+Sucesso+Praça+do+Bom+Sucesso+4150-146+Porto+Portugal)
 📍 Mercado Bom Sucesso, Praça do Bom Sucesso 74-90, 4150-146 Porto, Portugal
-💰 budget
+💰 **Price level:** budget

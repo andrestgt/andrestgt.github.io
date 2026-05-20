@@ -32,4 +32,4 @@ Naturfreundehaus is both easy to reach by car and a lovely walk. The interior ha
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Schänzelstraße+3+67480+Edenkoben+Germany)
 📍 Schänzelstraße 3, 67480 Edenkoben, Germany
-💰 —
+💰 **Price level:** —

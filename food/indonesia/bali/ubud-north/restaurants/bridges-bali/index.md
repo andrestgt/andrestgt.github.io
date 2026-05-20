@@ -76,4 +76,4 @@ Bridges is my favourite fine dining restaurant in Ubud. I had a nice meal at Moz
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bridges+Bali+Restaurant+Jl+Raya+Campuan+Ubud)
 🍽️ **Cuisine:** International, Fine Dining
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

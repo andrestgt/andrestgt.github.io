@@ -23,4 +23,4 @@ In der Altstadt, deshalb bei gutem Wetter auch nett zum draußen sitzen. Es gibt
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Katholisch-Kirch-Straße+1+66111+Saarbrücken+Germany)
 📍 Katholisch-Kirch-Straße 1, 66111 Saarbrücken, Germany
-💰 —
+💰 **Price level:** —

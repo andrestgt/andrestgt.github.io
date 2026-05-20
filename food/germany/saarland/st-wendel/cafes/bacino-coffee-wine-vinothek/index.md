@@ -23,4 +23,4 @@ A pleasant wine bar in the old town of St. Wendel with very friendly and attenti
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Am+Schloßpl.+12+66606+St.+Wendel+Germany)
 📍 Am Schloßpl. 12, 66606 St. Wendel, Germany
-💰 €10–20
+💰 **Price level:** €10–20

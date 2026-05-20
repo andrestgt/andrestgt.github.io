@@ -23,4 +23,4 @@ The beer garden’s location by the river is its biggest draw, offering a fantas
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gartenstraße+4+72074+Tübingen+Germany)
 📍 Gartenstraße 4, 72074 Tübingen, Germany
-💰 —
+💰 **Price level:** —

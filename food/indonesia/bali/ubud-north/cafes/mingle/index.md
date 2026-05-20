@@ -22,4 +22,4 @@ Comfy and inviting corner café. Their coffees are well prepared, but the slight
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mingle+Cafe+Jl+Dewisita+Ubud+Bali)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

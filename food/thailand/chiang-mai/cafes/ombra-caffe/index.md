@@ -22,4 +22,4 @@ Excellent flat white for 75 Bt. This feels more like a co-working space than a c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ombra+Caffe+Chang+Phueak+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

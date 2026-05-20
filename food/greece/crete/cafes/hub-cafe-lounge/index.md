@@ -27,4 +27,4 @@ Relaxed Old Town lounge with very good coffee and a laid-back atmosphere. Seatin
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kantanoleontos+21+Iraklio+712+02+Greece)
 📍 Kantanoleontos 21, Iraklio 712 02, Greece
-💰 expensive
+💰 **Price level:** expensive

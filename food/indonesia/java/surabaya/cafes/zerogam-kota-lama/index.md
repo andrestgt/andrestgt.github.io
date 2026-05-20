@@ -26,4 +26,4 @@ The place itself is quite basic and not particularly comfortable, with rather un
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Zerogam+Kota+Lama+Surabaya)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

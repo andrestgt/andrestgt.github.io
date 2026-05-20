@@ -32,4 +32,4 @@ Once Ubud's first Japanese address, this place has gone seriously downhill these
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ryoshi+Japanese+Restaurant+Jl+Hanoman+Ubud+Bali)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

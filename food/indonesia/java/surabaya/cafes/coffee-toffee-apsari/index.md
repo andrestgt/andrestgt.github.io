@@ -29,4 +29,4 @@ Prices are very reasonable, and the coffee is perfectly fine. If you're in the a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffee+Toffee+Apsari+Grahadi+Surabaya)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

@@ -38,4 +38,4 @@ Moi-te has a very picturesque patio shaded by lemon trees, and prices are quite 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Largo+Alexandre+Herculano+3+7000-841+Évora+Portugal)
 📍 Largo Alexandre Herculano 3, 7000-841 Évora, Portugal
-💰 moderate
+💰 **Price level:** moderate

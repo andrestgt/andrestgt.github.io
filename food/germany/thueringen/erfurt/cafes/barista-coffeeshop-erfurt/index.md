@@ -23,4 +23,4 @@ The coffee and the location here are both good, but the place feels rather expen
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Schlösserstraße+34+99084+Erfurt+Germany)
 📍 Schlösserstraße 34, 99084 Erfurt, Germany
-💰 —
+💰 **Price level:** —

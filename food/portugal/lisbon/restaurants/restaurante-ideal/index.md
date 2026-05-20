@@ -32,4 +32,4 @@ Simple local eatery with cheap wine and reasonably friendly service. Even the gr
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+Marques+da+Silva+28+1170-225+Lisboa+Portugal)
 📍 R. Marques da Silva 28, 1170-225 Lisboa, Portugal
-💰 budget
+💰 **Price level:** budget

@@ -22,4 +22,4 @@ For a coffee shop at an international airport the flat white here is surprisingl
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Petit+Jemma+Juanda+Airport+Surabaya)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

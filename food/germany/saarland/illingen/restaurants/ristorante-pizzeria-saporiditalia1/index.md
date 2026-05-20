@@ -23,4 +23,4 @@ I can only judge the pizza, but it's one of the best in the region. Fresh from t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=In+d.+Au+5a+66557+Illingen+Germany)
 📍 In d. Au 5a, 66557 Illingen, Germany
-💰 €10–20 · Lunch
+💰 **Price level:** €10–20 · Lunch

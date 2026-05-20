@@ -34,4 +34,4 @@ Another positive aspect is the fact that their iced coffees come in glasses inst
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Stories+Cafe+Rachadamnoen+Rd+Chiang+Mai)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

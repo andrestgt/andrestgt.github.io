@@ -60,4 +60,4 @@ Fair prices, large portions, highly recommended
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Presselstraße+23+70191+Stuttgart+Germany)
 📍 Presselstraße 23, 70191 Stuttgart, Germany
-💰 €30–40 · Dinner
+💰 **Price level:** €30–40 · Dinner

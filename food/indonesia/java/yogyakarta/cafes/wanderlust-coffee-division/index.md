@@ -22,4 +22,4 @@ Friendly little coffee shop tucked away in one of Sosrowijayan’s narrow alleys
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wanderlust+Coffee+Division+Sosrowijayan+Yogyakarta)
 ☕️ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

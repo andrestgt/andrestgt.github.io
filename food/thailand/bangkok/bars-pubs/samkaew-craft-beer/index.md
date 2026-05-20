@@ -58,5 +58,5 @@ The place fills up quickly and gets quite busy as the evening goes on, with live
 
 🍺 **Type:** Craft Beer Bar
 
-💰 **Price level:** Moderate
+💰 **Price level:** moderate
 

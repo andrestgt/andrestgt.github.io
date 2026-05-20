@@ -32,4 +32,4 @@ Despite its fairly uninspiring backstreet location, Brauhaus Schönbuch manages 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bolzstraße+10+70173+Stuttgart+Germany)
 📍 Bolzstraße 10, 70173 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

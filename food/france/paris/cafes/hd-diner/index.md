@@ -23,4 +23,4 @@ Good place for an Italian-style coffee in a perfect location near Gare de l'Est.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=6+Rue+du+8+Mai+1945+75010+Paris+France)
 📍 6 Rue du 8 Mai 1945, 75010 Paris, France
-💰 moderate
+💰 **Price level:** moderate

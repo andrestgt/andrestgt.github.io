@@ -23,4 +23,4 @@ Super nice little café with a slightly quirky atmosphere and excellent cappucci
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hviezdoslavova+2+040+01+Košice+Slovakia)
 📍 Hviezdoslavova 1003/2, 040 01 Košice, Slovakia
-💰 budget
+💰 **Price level:** budget

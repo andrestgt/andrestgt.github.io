@@ -38,4 +38,4 @@ One of the more attractive CCD outlets, located in a grand old building just off
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Coffee+Day+Park+Street+Kolkata+India)
 ☕️ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

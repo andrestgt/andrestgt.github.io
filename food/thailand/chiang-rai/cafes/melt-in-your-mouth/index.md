@@ -33,4 +33,4 @@ Melt In Your Mouth is a very attractive riverside café with a good range of foo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Melt+in+Your+Mouth+Chiang+Rai)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

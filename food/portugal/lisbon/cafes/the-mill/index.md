@@ -23,4 +23,4 @@ The Mill is pretty much perfect for a coffee break after climbing Lisbon's hills
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+do+Poço+dos+Negros+1+1200-335+Lisboa+Portugal)
 📍 R. do Poço dos Negros 1, 1200-335 Lisboa, Portugal
-💰 moderate
+💰 **Price level:** moderate

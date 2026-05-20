@@ -36,4 +36,4 @@ Their salmon croissant was rather dry and not really worth the 100K+ price tag.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Redback+Specialty+Coffee+Surabaya)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate to Expensive
+💰 **Price level:** moderate to expensive

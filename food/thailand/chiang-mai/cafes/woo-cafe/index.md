@@ -27,4 +27,4 @@ Stylish café with striking décor, very comfortable sofas and the kind of polis
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Woo+Cafe+Art+Gallery+Charoen+Rat+Rd+Chiang+Mai)
 ☕ **Type:** Café & Gallery
-💰 **Price level:** Moderate to Expensive
+💰 **Price level:** moderate to expensive

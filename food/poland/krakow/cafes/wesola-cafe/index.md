@@ -27,4 +27,4 @@ A bit of a scene, with hipster baristas and slightly annoying music. That said, 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rakowicka+17+31-511+Kraków+Poland)
 📍 Rakowicka 17, 31-511 Kraków, Poland
-💰 moderate
+💰 **Price level:** moderate

@@ -22,4 +22,4 @@ Franchise with very decent cappuccinos at a reasonable price (€2.60). The Kön
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffreez+Königstraße+22+70173+Stuttgart+Germany)
 📍 Coffreez, Königstraße 22, 70173 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

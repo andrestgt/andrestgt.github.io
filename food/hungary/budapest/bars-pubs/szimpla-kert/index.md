@@ -38,4 +38,4 @@ The best of the ruin pubs — quite an amazing place to visit. Less cool, howeve
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kazinczy+u.+14+1075+Budapest+Hungary)
 📍 Kazinczy u. 14, 1075 Budapest, Hungary
-💰 moderate
+💰 **Price level:** moderate

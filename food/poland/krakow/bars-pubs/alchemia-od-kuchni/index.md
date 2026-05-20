@@ -38,4 +38,4 @@ This place oozes atmosphere. It's a little pricey by local standards, but it's p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Estery+5+31-056+Kraków+Poland)
 📍 Estery 5, 31-056 Kraków, Poland
-💰 moderate
+💰 **Price level:** moderate

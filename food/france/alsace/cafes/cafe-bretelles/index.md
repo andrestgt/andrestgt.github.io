@@ -23,4 +23,4 @@ Excellent coffee inside a beautiful medieval building in Petite France. Cappucci
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=36+Rue+du+Bain-aux-Plantes+67000+Strasbourg+France)
 📍 36 Rue du Bain-aux-Plantes, 67000 Strasbourg, France
-💰 moderate
+💰 **Price level:** moderate

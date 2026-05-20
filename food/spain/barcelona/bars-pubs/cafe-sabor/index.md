@@ -23,4 +23,4 @@ Lovely little place to stop for a couple of ice-cold 1€ cañas. Wifi is fast a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+de+la+Barra+de+Ferro+7+Ciutat+Vella+08003+Barcelona+Spain)
 📍 Carrer de la Barra de Ferro, 7, Ciutat Vella, 08003 Barcelona, Spain
-💰 budget
+💰 **Price level:** budget

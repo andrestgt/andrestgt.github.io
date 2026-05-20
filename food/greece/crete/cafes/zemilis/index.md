@@ -23,4 +23,4 @@ Mostly a takeaway coffee place, although there are a few seats available as well
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kriari+2+Rethymno+741+32+Greece)
 📍 Kriari 2, Rethymno 741 32, Greece
-💰 budget
+💰 **Price level:** budget

@@ -23,4 +23,4 @@ Excellent bakery café with a spacious, genuinely comfortable interior that make
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Heilsbronner+Str.+6+91564+Neuendettelsau+Germany)
 📍 Heilsbronner Str. 6, 91564 Neuendettelsau, Germany
-💰 —
+💰 **Price level:** —

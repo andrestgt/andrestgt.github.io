@@ -27,4 +27,4 @@ This pâtisserie serves excellent raspberry tartlets and éclairs. When the weat
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=20+Rue+nationale+67160+Wissembourg+France)
 📍 20 Rue nationale, 67160 Wissembourg, France
-💰 moderate
+💰 **Price level:** moderate

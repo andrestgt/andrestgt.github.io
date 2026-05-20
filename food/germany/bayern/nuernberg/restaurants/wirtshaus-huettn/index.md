@@ -23,4 +23,4 @@ Quite expensive by Nuremberg standards, but the veranda is pleasant and they bre
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bergstraße+20+90403+Nürnberg+Germany)
 📍 Bergstraße 20, 90403 Nürnberg, Germany
-💰 —
+💰 **Price level:** —

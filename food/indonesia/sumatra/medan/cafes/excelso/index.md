@@ -27,4 +27,4 @@ The coffee quality itself is as good as at most Excelso branches, but the prepar
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Excelso+Centre+Point+Mall+Medan)
 ☕️ **Type:** Café
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

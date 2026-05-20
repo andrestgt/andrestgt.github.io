@@ -21,4 +21,4 @@ H-Roasters feels like a calm oasis in the middle of Chinatown chaos. It’s a ra
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=H-Roasters+Yaowarat+Rd+Chinatown+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

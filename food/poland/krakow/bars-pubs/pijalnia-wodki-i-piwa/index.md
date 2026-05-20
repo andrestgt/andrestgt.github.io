@@ -27,4 +27,4 @@ Exactly what the name implies: vodka and beer. It's cheap and cheerful and does 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=plac+Nowy+7+33-332+Kraków+Poland)
 📍 plac Nowy 7, 31-060 Kraków, Poland
-💰 budget
+💰 **Price level:** budget

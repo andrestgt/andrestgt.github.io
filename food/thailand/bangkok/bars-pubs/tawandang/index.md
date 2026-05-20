@@ -42,4 +42,4 @@ Beer here is indeed very good, and by Bangkok standards, reasonably priced. The 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tawandang+German+Brewery+Rama+III+Rd+Bangkok)
 🍺 **Type:** Beer Hall
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

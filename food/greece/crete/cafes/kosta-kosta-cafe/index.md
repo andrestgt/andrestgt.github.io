@@ -27,4 +27,4 @@ Modern-looking café with comfortable sofas and outdoor seating. Cappuccino cost
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=El.+Venizelou+176+Malia+700+07+Greece)
 📍 El. Venizelou 176, Malia 700 07, Greece
-💰 moderate
+💰 **Price level:** moderate

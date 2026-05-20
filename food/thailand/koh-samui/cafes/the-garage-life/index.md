@@ -27,4 +27,4 @@ The Garage Life is a quirky little café serving nicely presented drinks at pric
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Garage+Life+Mae+Nam+Koh+Samui)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

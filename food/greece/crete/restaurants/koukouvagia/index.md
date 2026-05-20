@@ -23,4 +23,4 @@ Koukouvagia may look slightly touristy because of the location, but in reality i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Milatou+13+Iraklio+712+02+Greece)
 📍 Milatou 13, Iraklio 712 02, Greece
-💰 moderate
+💰 **Price level:** moderate

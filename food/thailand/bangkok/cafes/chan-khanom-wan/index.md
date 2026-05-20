@@ -24,4 +24,4 @@ Here a cappuccino, though misspelled on the menu, goes for 69 Bt and is actually
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chan+Khanom+Wan+Charoen+Krung+Chinatown+Bangkok)
 ☕ **Type:** Café & Dessert
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

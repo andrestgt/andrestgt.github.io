@@ -31,4 +31,4 @@ If you want to experience just one go-go bar while visiting Bangkok make it this
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tilac+Soi+Cowboy+Bangkok)
 🍺 **Type:** Bar
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

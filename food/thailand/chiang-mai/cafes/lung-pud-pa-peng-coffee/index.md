@@ -49,4 +49,4 @@ For some reason this place is incredibly popular with local tourists. It's a lov
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lung+Pud+Pa+Peng+Coffee+Huai+Kaeo+Mae+On+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

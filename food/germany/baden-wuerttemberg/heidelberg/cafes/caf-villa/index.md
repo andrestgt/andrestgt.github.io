@@ -23,4 +23,4 @@ Big place in a prime location may look rather tacky and jaded, but don't let thi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hauptstraße+187+69117+Heidelberg+Germany)
 📍 Hauptstraße 187, 69117 Heidelberg, Germany
-💰 —
+💰 **Price level:** —

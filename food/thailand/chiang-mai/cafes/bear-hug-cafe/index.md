@@ -38,4 +38,4 @@ Very pretty and cosy bear themed café. The cappuccino with bear latte art looks
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bear+Hug+Cafe+Kotchasarn+Rd+Chiang+Mai)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

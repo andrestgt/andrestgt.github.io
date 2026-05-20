@@ -27,4 +27,4 @@ One of the best and most reasonably priced wine taverns in Stuttgart. In summer 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rosenstraße+32+70182+Stuttgart+Germany)
 📍 Rosenstraße 32, 70182 Stuttgart, Germany
-💰 €20–30
+💰 **Price level:** €20–30

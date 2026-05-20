@@ -38,4 +38,4 @@ One of the few cafés in Bangkok that opens very early and consistently serves v
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffee+Club+Mode+Sathorn+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

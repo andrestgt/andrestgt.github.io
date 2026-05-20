@@ -27,4 +27,4 @@ A classic Besenwirtschaft in Obertürkheim, open only a few weeks a year. As you
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Im+Mäder+8+70329+Stuttgart+Germany)
 📍 Im Mäder 8, 70329 Stuttgart, Germany
-💰 —
+💰 **Price level:** —

@@ -21,4 +21,4 @@ Artis serves very good espresso drinks, although 110 Bt for a flat white is defi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Artis+Coffee+Sukhumvit+Soi+18+Bangkok)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Expensive
+💰 **Price level:** expensive

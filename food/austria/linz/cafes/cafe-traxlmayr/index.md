@@ -27,4 +27,4 @@ A traditional old-fashioned Austrian coffee house with good coffee and a nice Ap
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Promenade+16+4020+Linz+Austria)
 📍 Promenade 16, 4020 Linz, Austria
-💰 expensive
+💰 **Price level:** expensive

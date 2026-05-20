@@ -22,4 +22,4 @@ Air Space is spacious and comfortable, with professionally prepared coffee at fa
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Air+Space+Ratchadamri+Rd+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

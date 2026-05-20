@@ -22,4 +22,4 @@ Jaywalk is tiny and extremely simple, without sofas or even a bathroom, but in a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jaywalk+Cafe+Phra+Athit+Rd+Bangkok)
 ☕ **Type:** Café
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

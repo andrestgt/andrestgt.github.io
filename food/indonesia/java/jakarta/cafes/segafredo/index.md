@@ -22,4 +22,4 @@ Very well-prepared coffee with an excellent roast profile, though prices are sli
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Segafredo+Plaza+Indonesia+Jakarta)
 ☕️ **Type:** Espresso Bar
-💰 **Price level:** Moderate to Expensive
+💰 **Price level:** moderate to expensive

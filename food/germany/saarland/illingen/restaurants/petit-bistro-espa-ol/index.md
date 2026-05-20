@@ -56,4 +56,4 @@ The patatas alioli, croquetas de bacalao, and tortilla were all solid. The large
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Judengasse+36+66557+Illingen+Germany)
 📍 Judengasse 36, 66557 Illingen, Germany
-💰 €20–30
+💰 **Price level:** €20–30

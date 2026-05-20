@@ -43,4 +43,4 @@ Very cosy and comfortable little café with strong, well-prepared cappuccino at 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Art+Cafe+Bistro+Triphet+Rd+Bangkok)
 ☕ **Type:** Café & Bistro
-💰 **Price level:** Inexpensive
+💰 **Price level:** inexpensive

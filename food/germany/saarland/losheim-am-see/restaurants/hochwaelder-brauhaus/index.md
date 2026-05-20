@@ -46,5 +46,5 @@ Hochwälder Brauhaus on Losheim Lake is beautifully done out — stylish, modern
 
 📍 Zum Stausee 190, 66679 Losheim am See, Germany
 
-💰 €20–30
+💰 **Price level:** €20–30
 

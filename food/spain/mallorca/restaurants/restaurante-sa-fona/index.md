@@ -32,4 +32,4 @@ Simple village restaurant where the food is decent enough, although slightly ove
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+Sant+Domingo+1+07690+Es+Llombards+Mallorca+Spain)
 📍 Carrer Sant Domingo, 1, 07690 Es Llombards, Mallorca, Spain
-💰 expensive
+💰 **Price level:** expensive

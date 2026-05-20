@@ -22,4 +22,4 @@ Excellent cappuccino for sure, and fair prices. I just wish they had somewhere a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pacamara+Coffee+Rachadamnoen+Rd+Chiang+Mai)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

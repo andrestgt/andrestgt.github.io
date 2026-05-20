@@ -23,4 +23,4 @@ Janela da Atalaia is a very friendly little bar serving generous drinks at fair 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+da+Atalaia+160+1200-043+Lisboa+Portugal)
 📍 R. da Atalaia 160, 1200-043 Lisboa, Portugal
-💰 moderate
+💰 **Price level:** moderate

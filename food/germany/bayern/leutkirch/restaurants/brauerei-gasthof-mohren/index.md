@@ -54,4 +54,4 @@ Delightfully old-fashioned brewery inn serving excellent house-brewed beer along
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wangener+Str.+1+88299+Leutkirch+im+Allgäu+Germany)
 📍 Wangener Str. 1, 88299 Leutkirch im Allgäu, Germany
-💰 —
+💰 **Price level:** —

@@ -32,4 +32,4 @@ Still going strong after all these years. For coffee there are now better option
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tutmak+Warung+Kopi+Jl+Dewisita+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

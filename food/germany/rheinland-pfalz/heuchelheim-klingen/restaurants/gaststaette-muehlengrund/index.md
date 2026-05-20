@@ -32,4 +32,4 @@ Gaststätte Mühlengrund is set in deep countryside and is only reachable via na
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Untermühle+1+76831+Heuchelheim-Klingen+Germany)
 📍 Untermühle 1, 76831 Heuchelheim-Klingen, Germany
-💰 —
+💰 **Price level:** —

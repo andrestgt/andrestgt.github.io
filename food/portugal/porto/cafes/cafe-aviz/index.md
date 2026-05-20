@@ -32,4 +32,4 @@ Very friendly traditional café with genuinely good service. The famous francesi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Aviz+Rua+de+Avis+Porto+Portugal)
 ☕️ **Type:** Café
-💰 **Price level:** Moderate
+💰 **Price level:** moderate

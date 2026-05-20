@@ -27,4 +27,4 @@ Really nice pub with decent prices and a selection of what they call tapas — a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dob+u.+31+1074+Budapest+Hungary)
 📍 Dob u. 31, 1074 Budapest, Hungary
-💰 moderate
+💰 **Price level:** moderate
