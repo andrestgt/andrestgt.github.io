@@ -29,10 +29,10 @@ Rangoon &middot; Golden Rock &middot; Moulmein &middot; Naypyidaw &middot; Inle 
 Tehran &middot; Yazd &middot; Shiraz &middot; Isfahan
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/iran-2007/)
 
-## Cycling Cambodia & Vietnam (2006)
-Thailand &middot; Cambodia &middot; Vietnam
-&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-cambodia-vietnam-2006/)
-
 ## Cycling Indochina (2006)
 Thailand &middot; Laos &middot; Cambodia &middot; Vietnam
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-indochina-2006/)
+
+## Cycling Cambodia & Vietnam (2006)
+Thailand &middot; Cambodia &middot; Vietnam
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-cambodia-vietnam-2006/)
