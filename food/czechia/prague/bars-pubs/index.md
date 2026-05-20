@@ -20,3 +20,10 @@ Mind-boggling beer selection with countless craft beers on tap and bottled. The 
 Prague · Pub
 Feels a little more authentic than many places in Prague's Old Town. Only Pilsner Urquell on tap, for 45 Kč. Prices not cheap, but still reasonable.
 → [Read the full review](./u-rudolfina/)
+
+---
+
+## PIVOVAR U TŘÍ RŮŽÍ
+Prague · Beer Bar
+Traditional beer bar in the Old Town serving excellent house beers on tap — the Weizen and the Vienna Red are particularly good.
+→ [Read the full review](./pivovar-u-tri-ruzi/)

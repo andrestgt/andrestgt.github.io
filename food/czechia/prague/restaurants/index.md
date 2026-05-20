@@ -10,7 +10,6 @@ subtitle: Restaurants in Prague
 
 # Restaurants in Prague
 
-
 ## MR. BANH MI
 Prague · Vietnamese Restaurant
 The banh mi here is tasty, although prices feel a little high considering the location and the standing-room-only setup. Still, the food itself is hard to complain about.
@@ -19,7 +18,6 @@ The banh mi here is tasty, although prices feel a little high considering the lo
 ## PIVOVAR U TŘÍ RŮŽÍ
 Prague · Beer Restaurant
 Traditional beer restaurant in the Old Town. The house beers on tap are genuinely very good, especially the Weizen and the Vienna Red.
-→ [Read the full review](./pivovar-u-tri-ruzi/)
 
 ## U MAGISTRA KELLY
 Prague · Restaurant

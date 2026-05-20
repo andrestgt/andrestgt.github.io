@@ -10,11 +10,9 @@ subtitle: Cafés in Prague
 
 # Cafés in Prague
 
-
 ## AGAINST THE CURRENT
 Prague · Café
 Very attractive café with friendly service and reasonable prices. Cappuccino 49 Kč for a large cup, though personally I'd prefer the coffee a little stronger.
-→ [Read the full review](./against-the-current/)
 
 ## KAFKA HUMMUS CAFÉ
 Prague · Café
