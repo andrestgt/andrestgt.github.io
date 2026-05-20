@@ -6,8 +6,34 @@ title: Auberge des Trois Châteaux
 subtitle: Eguisheim · Alsatian Restaurant
 ---
 
+<figure>
+  <img src="/photos/france/alsace/auberge-des-trois-chateaux-1.jpg" alt="Auberge des Trois Châteaux">
+  <figcaption>Auberge des Trois Châteaux</figcaption>
+</figure>
 
 The restaurant attached to the hotel serves hearty and genuinely excellent Alsatian food such as choucroute and baeckeoffe. Portions are extremely generous and the cuisine is definitely on the heavy side. Fortunately, we were staying there as well.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/france/alsace/auberge-des-trois-chateaux-2.jpg" alt="Auberge des Trois Châteaux">
+  <figcaption>Auberge des Trois Châteaux</figcaption>
+</figure>
+<figure>
+  <img src="/photos/france/alsace/auberge-des-trois-chateaux-3.jpg" alt="Auberge des Trois Châteaux">
+  <figcaption>Auberge des Trois Châteaux</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/france/alsace/auberge-des-trois-chateaux-4.jpg" alt="Auberge des Trois Châteaux">
+  <figcaption>Auberge des Trois Châteaux</figcaption>
+</figure>
+<figure>
+  <img src="/photos/france/alsace/auberge-des-trois-chateaux-5.jpg" alt="Auberge des Trois Châteaux">
+  <figcaption>Auberge des Trois Châteaux</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

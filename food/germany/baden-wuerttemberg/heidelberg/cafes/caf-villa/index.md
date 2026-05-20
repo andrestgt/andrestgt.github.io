@@ -6,8 +6,17 @@ title: Café Villa
 subtitle: Heidelberg · Café, Bar
 ---
 
+<figure>
+  <img src="/photos/germany/heidelberg/caf-villa-1.jpg" alt="Café Villa">
+  <figcaption>Café Villa</figcaption>
+</figure>
 
 Big place in a prime location may look rather tacky and jaded, but don't let this deter you. Cocktail happy hour starts at 6 and is great value at 4€ a glass. Tasty Käsespätzle come in casserole big enough for 2 people easily. Value for money
+
+<figure>
+  <img src="/photos/germany/heidelberg/caf-villa-2.jpg" alt="Café Villa">
+  <figcaption>Café Villa</figcaption>
+</figure>
 
 ## Ratings
 

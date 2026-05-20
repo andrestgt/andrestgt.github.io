@@ -6,7 +6,17 @@ title: Herencia Cafe
 subtitle: Paoay, Ilocos Norte · Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/vigan/herencia-cafe-1.jpg" alt="Herencia Cafe">
+  <figcaption>Herencia Cafe</figcaption>
+</figure>
+
 No trip to Paoay Church is complete without trying one of Herencia's seriously tasty and unique pinakbet pizzas. They also do longganisa toppings. A bit pricey maybe, but finding great quality pizza in such a remote provincial place is definitely not a given.
+
+<figure>
+  <img src="/photos/philippines/vigan/herencia-cafe-2.jpg" alt="Herencia Cafe">
+  <figcaption>Herencia Cafe</figcaption>
+</figure>
 
 ## Ratings
 

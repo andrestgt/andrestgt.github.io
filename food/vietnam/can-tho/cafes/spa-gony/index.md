@@ -5,7 +5,24 @@ review: true
 title: Spa Gony
 subtitle: Cần Thơ · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/can-tho/spa-gony-1.jpg" alt="Spa Gony">
+  <figcaption>Spa Gony</figcaption>
+</figure>
+
 Nice to see a modern comfy lounge cafe in the Delta. But stick with Vietnamese coffee, the cappuccino is not nice. Only French wines on offer, unfortunately. Good Vietnamese bistro food, though
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/can-tho/spa-gony-2.jpg" alt="Spa Gony">
+  <figcaption>Spa Gony</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/can-tho/spa-gony-3.jpg" alt="Spa Gony">
+  <figcaption>Spa Gony</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

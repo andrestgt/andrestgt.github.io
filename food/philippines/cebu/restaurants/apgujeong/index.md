@@ -6,7 +6,45 @@ title: Apgujeong
 subtitle: Mactan, Cebu · Korean
 ---
 
+<figure>
+  <img src="/photos/philippines/cebu/apgujeong-1.jpg" alt="Apgujeong">
+  <figcaption>Apgujeong</figcaption>
+</figure>
+
 Apgujeong serves very authentic Korean food and is clearly popular with the local Korean community as well. Prices are a little on the high side, but the seafood pancake and mandu are excellent and worth coming for.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/cebu/apgujeong-2.jpg" alt="Apgujeong">
+  <figcaption>Apgujeong</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/cebu/apgujeong-3.jpg" alt="Apgujeong">
+  <figcaption>Apgujeong</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/cebu/apgujeong-4.jpg" alt="Apgujeong">
+  <figcaption>Apgujeong</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/cebu/apgujeong-5.jpg" alt="Apgujeong">
+  <figcaption>Apgujeong</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/cebu/apgujeong-6.jpg" alt="Apgujeong">
+  <figcaption>Apgujeong</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/cebu/apgujeong-7.jpg" alt="Apgujeong">
+  <figcaption>Apgujeong</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

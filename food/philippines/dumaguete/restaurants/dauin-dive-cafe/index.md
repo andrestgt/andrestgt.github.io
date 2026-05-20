@@ -6,6 +6,11 @@ title: Dauin Dive Café
 subtitle: Dauin, Negros Oriental · Filipino, International
 ---
 
+<figure>
+  <img src="/photos/philippines/dumaguete/dauin-dive-cafe-1.jpg" alt="Dauin Dive Café">
+  <figcaption>Dauin Dive Café</figcaption>
+</figure>
+
 Relaxed little dive café serving ice-cold beer and hearty home-cooked comfort food. Friendly atmosphere and, importantly, non-divers are welcome too.
 
 ## Ratings

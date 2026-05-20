@@ -6,6 +6,11 @@ title: Cafe Elora
 subtitle: Mactan, Cebu · Café
 ---
 
+<figure>
+  <img src="/photos/philippines/cebu/cafe-elora-1.jpg" alt="Cafe Elora">
+  <figcaption>Cafe Elora</figcaption>
+</figure>
+
 Cafe Elora is a nice little oasis in what is otherwise a fairly bleak part of Mactan. Prices are fair, the food is simple but decent, and it's a pleasant enough place to sit for a while. The only real disappointment is the coffee, as they still don't seem able to prepare a proper cappuccino.
 
 ## Ratings
