@@ -27,4 +27,4 @@ Very friendly café with good cappuccino and a relaxed atmosphere.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Velké+náměstí+130+500+03+Hradec+Králové+Czechia)
 📍 Velké nám. 130, 500 03 Hradec Králové, Czechia
-💰 moderate
+💰 **Price level:** moderate

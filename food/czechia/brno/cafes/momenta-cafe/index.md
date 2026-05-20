@@ -38,4 +38,4 @@ Probably the nicest café in Brno. Thankfully, it avoids the usual hipster style
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Zelný+trh+314+602+00+Brno+Czechia)
 📍 Zelný trh 314, 602 00 Brno, Czechia
-💰 moderate to expensive
+💰 **Price level:** moderate to expensive

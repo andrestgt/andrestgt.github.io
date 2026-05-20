@@ -27,4 +27,4 @@ Nice café on the town square, though not especially cheap. They also serve Ital
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=náměstí+Svobody+21+389+01+Vodňany+Czechia)
 📍 nám. Svobody 21, 389 01 Vodňany, Czechia
-💰 moderate
+💰 **Price level:** moderate

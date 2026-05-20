@@ -27,4 +27,4 @@ Nice and friendly hipster-vegan café with good coffee. The prices, especially f
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5.+května+62+460+01+Liberec+Czechia)
 📍 5. května 62/46, 460 01 Liberec, Czechia
-💰 expensive
+💰 **Price level:** expensive

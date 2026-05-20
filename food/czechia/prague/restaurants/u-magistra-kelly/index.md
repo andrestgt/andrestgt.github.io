@@ -34,4 +34,4 @@ Small place that feels noticeably less touristy than most restaurants nearby. Th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Šporkova+521+118+00+Prague+Czechia)
 📍 Šporkova 521/5, 118 00 Malá Strana, Prague, Czechia
-💰 CZK350-500
+💰 **Price level:** CZK350-500

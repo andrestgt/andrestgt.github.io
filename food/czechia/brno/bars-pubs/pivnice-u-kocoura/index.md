@@ -49,4 +49,4 @@ Pivnice U Kocoura is a fantastic beer pub with excellent comfort food, tasty bee
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Biskupská+266+602+00+Brno+Czechia)
 📍 Biskupská 266, 602 00 Brno, Czechia
-💰 moderate
+💰 **Price level:** moderate

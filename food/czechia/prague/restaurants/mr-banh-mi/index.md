@@ -27,4 +27,4 @@ The banh mi here is tasty, although prices feel a little high considering the lo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rumunská+23+120+00+Prague+Czechia)
 📍 Rumunská 23/30, 120 00 Prague, Czechia
-💰 CZK400
+💰 **Price level:** CZK400

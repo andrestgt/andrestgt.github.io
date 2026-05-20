@@ -27,4 +27,4 @@ The beer selection here is honestly mind-boggling, with countless craft and regu
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Křižíkova+272+186+00+Prague+Czechia)
 📍 Křižíkova 272/17, 186 00 Prague, Czechia
-💰 moderate
+💰 **Price level:** moderate

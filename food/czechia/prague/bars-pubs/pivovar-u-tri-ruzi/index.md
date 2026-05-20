@@ -23,4 +23,4 @@ Traditional beer restaurant in the Old Town with predictably Old Town prices. Fo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Husova+232+110+00+Prague+Czechia)
 📍 Husova 232/10, 110 00 Prague, Czechia
-💰 expensive
+💰 **Price level:** expensive

@@ -38,4 +38,4 @@ Na Parkanu serves excellent fresh Pilsner Urquell alongside tasty beer snacks in
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Veleslavínova+59+301+00+Plzeň+Czechia)
 📍 Veleslavínova 59, 301 00 Plzeň, Czechia
-💰 moderate
+💰 **Price level:** moderate

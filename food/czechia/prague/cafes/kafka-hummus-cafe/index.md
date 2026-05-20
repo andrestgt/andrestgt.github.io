@@ -23,4 +23,4 @@ One of the few genuinely beautiful cafés still left in central Prague. It's exp
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Široká+64+110+00+Prague+Czechia)
 📍 Široká 64/12, 110 00 Prague, Czechia
-💰 expensive
+💰 **Price level:** expensive

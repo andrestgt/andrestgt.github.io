@@ -23,4 +23,4 @@ Comfortable armchairs and decent coffee in a town where café options are fairly
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Karlovo+náměstí+177+547+01+Náchod+Czechia)
 📍 Karlovo nám. 177, 547 01 Náchod, Czechia
-💰 Inexpensive
+💰 **Price level:** inexpensive

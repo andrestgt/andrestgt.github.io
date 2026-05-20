@@ -27,4 +27,4 @@ This place looks extremely fancy, almost intimidatingly so, but it's actually a 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=tř.+Svobody+21+779+00+Olomouc+Czechia)
 📍 tř. Svobody 21, 779 00 Olomouc, Czechia
-💰 moderate
+💰 **Price level:** moderate

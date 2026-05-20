@@ -27,4 +27,4 @@ Prices here are closer to Prague Old Town levels, which is slightly hard to just
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Frymburk+81+382+79+Frymburk+Czechia)
 📍 Frymburk 81, 382 79 Frymburk, Czechia
-💰 expensive
+💰 **Price level:** expensive

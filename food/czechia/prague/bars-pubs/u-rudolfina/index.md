@@ -27,4 +27,4 @@ Despite the location, this pivnice feels a little more authentic than many other
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Křižovnická+60+110+00+Prague+Czechia)
 📍 Křižovnická 60/10, 110 00 Prague, Czechia
-💰 Moderate
+💰 **Price level:** moderate
