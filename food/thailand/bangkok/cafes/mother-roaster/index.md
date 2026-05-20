@@ -26,17 +26,11 @@ Worth a visit at least once for the photos and the atmosphere.
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Coffee          | 7.5/10 |
-
 | Service         | 7/10   |
-
 | Value for money | 6/10   |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 7.5/10 |
 
 ### Practical

@@ -44,17 +44,11 @@ Brothers Burger is still probably the best burger franchise in the Philippines. 
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Food            | 9/10   |
-
 | Service         | 7/10   |
-
 | Value for money | 7.5/10 |
-
 | Atmosphere      | 7.5/10 |
-
 | Overall         | 8/10   |
 
 ### Practical

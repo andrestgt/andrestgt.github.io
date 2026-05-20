@@ -68,17 +68,11 @@ Well hidden, down by the river, this basic place is the most scenic bar in Nha T
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Drinks          | 9/10   |
-
 | Service         | 8.5/10 |
-
 | Value for money | 9/10   |
-
 | Atmosphere      | 6.5/10 |
-
 | Overall         | 9.5/10 |
 
 ### Practical

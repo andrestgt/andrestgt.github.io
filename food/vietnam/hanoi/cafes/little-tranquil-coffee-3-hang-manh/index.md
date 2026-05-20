@@ -22,17 +22,11 @@ Tiny but cute coffee shop where you can get an excellent cup of flat white for 5
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Coffee          | 9/10   |
-
 | Service         | 8.5/10 |
-
 | Value for money | 8.5/10 |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 9/10   |
 
 ### Practical

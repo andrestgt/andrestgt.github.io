@@ -25,17 +25,11 @@ It seems like half of the reviews here are about the cocktail bar rather than th
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Coffee          | 9.5/10 |
-
 | Service         | 8.5/10 |
-
 | Value for money | 8.5/10 |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 9.5/10 |
 
 ### Practical

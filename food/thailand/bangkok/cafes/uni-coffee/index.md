@@ -22,17 +22,11 @@ I usually don't recommend places that offer only paper cups instead of proper cu
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Coffee          | 7.5/10 |
-
 | Service         | 6/10   |
-
 | Value for money | 7.5/10 |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 7.5/10 |
 
 ### Practical

@@ -54,17 +54,11 @@ The main drawback is the opening hours. Serenade only opens at 5 pm, which makes
 
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Coffee          | 7.5/10 |
-
 | Service         | 7/10   |
-
 | Value for money | 9/10   |
-
 | Atmosphere      | 7.5/10 |
-
 | Overall         | 7.5/10 |
 
 

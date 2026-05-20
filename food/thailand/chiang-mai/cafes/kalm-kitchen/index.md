@@ -34,17 +34,11 @@ The coffee beans they use tend to be on the bitter side though, the ones you usu
 
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Coffee          | 5.5/10 |
-
 | Service         | 7.5/10 |
-
 | Value for money | 5/10   |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 6.5/10 |
 
 

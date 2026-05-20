@@ -38,17 +38,11 @@ One of the best bowls of Pho in Nha Trang for several reasons. The main one is t
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Food            | 9/10   |
-
 | Service         | 8.5/10 |
-
 | Value for money | 8.5/10 |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 9/10   |
 
 ### Practical

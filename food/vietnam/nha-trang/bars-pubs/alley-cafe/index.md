@@ -67,17 +67,11 @@ Feels like Nha Trang in the 2000s, and that is very much a compliment. Simple ol
 ## Ratings
 
 | Category | Score |
-
 |---|---|
-
 | Drinks | 8/10 |
-
 | Service | 8/10 |
-
 | Value for money | 7/10 |
-
 | Atmosphere | 8/10 |
-
 | Overall | 8/10 |
 
 ### Practical

@@ -28,17 +28,11 @@ Sadly the quality of the espresso is very poor so I wouldn't recommend having co
 ## Ratings
 
 | Category | Score |
-
 |---|---|
-
 | Coffee | 8/10 |
-
 | Service | 6/10 |
-
 | Value for money | 8/10 |
-
 | Atmosphere | 10/10 |
-
 | Overall | 8/10 |
 
 ### Practical

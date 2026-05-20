@@ -27,17 +27,11 @@ Hochwälder Brauhaus on Losheim Lake is beautifully done out — stylish, modern
 ## Ratings
 
 | Category        | Score  |
-
 |-----------------|--------|
-
 | Food            | 7/10   |
-
 | Service         | 7.5/10 |
-
 | Value for money | 7/10   |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 7.5/10 |
 
 ### Practical

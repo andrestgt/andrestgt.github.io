@@ -57,17 +57,11 @@ Friendly and competent service, reasonable prices and a fun atmosphere make this
 ## Ratings
 
 | Category | Score |
-
 |---|---|
-
 | Drinks | 10/10 |
-
 | Service | 10/10 |
-
 | Value for money | 9/10 |
-
 | Atmosphere | 10/10 |
-
 | Overall | 10/10 |
 
 ### Practical

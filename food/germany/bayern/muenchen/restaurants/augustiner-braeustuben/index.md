@@ -22,17 +22,11 @@ Despite the tourists, this place feels more like an authentic beer hall than the
 ## Ratings
 
 | Category        | Score  |
-
 |-----------------|--------|
-
 | Food            | 7.5/10 |
-
 | Service         | 8/10   |
-
 | Value for money | 8/10   |
-
 | Atmosphere      | 8.5/10 |
-
 | Overall         | 8/10   |
 
 ### Practical

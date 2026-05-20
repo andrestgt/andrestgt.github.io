@@ -22,17 +22,11 @@ It shouldn't come as a surprise that it's easy to get great coffee in Vietnam's 
 ## Ratings
 
 | Category | Score |
-
 |---|---|
-
 | Coffee | 10/10 |
-
 | Service | 10/10 |
-
 | Value for money | 9/10 |
-
 | Atmosphere | 10/10 |
-
 | Overall | 10/10 |
 
 ### Practical

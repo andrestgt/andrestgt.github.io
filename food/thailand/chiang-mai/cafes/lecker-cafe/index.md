@@ -27,17 +27,11 @@ Arty little café/cocktail bar in a great location. You can choose between two k
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Coffee          | 8.5/10 |
-
 | Service         | 7/10   |
-
 | Value for money | 8/10   |
-
 | Atmosphere      | 7.5/10 |
-
 | Overall         | 8/10   |
 
 ### Practical

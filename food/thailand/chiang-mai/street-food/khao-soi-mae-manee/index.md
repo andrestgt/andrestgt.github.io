@@ -24,17 +24,11 @@ I went for lunch on a Wednesday and the place was almost empty. A grumpy old lad
 ## Ratings
 
 | Category        | Score  |
-
 | ---             | ---    |
-
 | Food            | 8.5/10 |
-
 | Service         | 6/10   |
-
 | Value for money | 9/10   |
-
 | Atmosphere      | 6/10   |
-
 | Overall         | 7.5/10 |
 
 ### Practical

@@ -35,17 +35,11 @@ With all the visually spectacular food offerings and frenetic atmosphere, it's d
 ## Ratings
 
 | Category        | Score |
-
 | ---             | ---   |
-
 | Food            | 6/10  |
-
 | Service         | 6/10  |
-
 | Value for money | 5/10  |
-
 | Atmosphere      | 8/10  |
-
 | Overall         | 6/10  |
 
 ### Practical
