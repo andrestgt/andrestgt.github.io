@@ -13,6 +13,18 @@ subtitle: Baerenthal · Restaurant
 
 It's genuinely difficult to find even mediocre food in Alsace, and this place is no exception. In summer there's also a lovely garden for outdoor dining. The faux-filet with girolles and homemade fries is simple but very tasty.
 
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/france/alsace/a-larbre-vert-1.jpg" alt="A l'Arbre Vert">
+  <figcaption>A l'Arbre Vert</figcaption>
+</figure>
+<figure>
+  <img src="/photos/france/alsace/a-larbre-vert-2.jpg" alt="A l'Arbre Vert">
+  <figcaption>A l'Arbre Vert</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
