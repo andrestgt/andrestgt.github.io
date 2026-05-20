@@ -50,4 +50,4 @@ subtitle: Nové Město nad Metují · Restaurant & Bar
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Husovo+náměstí+1202+549+01+Nové+Město+nad+Metují+Czechia)
 📍 Husovo nám. 1202, 549 01 Nové Město nad Metují, Czechia
-💰 €15-25
+💰 CZK 400-600
