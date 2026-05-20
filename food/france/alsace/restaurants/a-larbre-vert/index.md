@@ -6,6 +6,10 @@ title: A l'Arbre Vert
 subtitle: Baerenthal · Restaurant
 ---
 
+<figure>
+  <img src="/photos/france/alsace/a-larbre-vert-main.jpg" alt="A l'Arbre Vert">
+  <figcaption>A l'Arbre Vert</figcaption>
+</figure>
 
 It's genuinely difficult to find even mediocre food in Alsace, and this place is no exception. In summer there's also a lovely garden for outdoor dining. The faux-filet with girolles and homemade fries is simple but very tasty.
 
