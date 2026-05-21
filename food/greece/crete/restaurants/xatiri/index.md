@@ -14,10 +14,10 @@ Excellent location and a very pleasant place either for a full meal or simply so
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 7.5/10 |
-| Service         | 7/10   |
+| Service         | 7.5/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 8/10   |
-| Overall         | 7.5/10 |
+| Atmosphere      | 8.5/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
