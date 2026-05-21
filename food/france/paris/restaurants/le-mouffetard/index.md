@@ -7,17 +7,13 @@ subtitle: Paris · Restaurant
 ---
 
 <figure>
-  <img src="/photos/france/paris/le-mouffetard-1.jpg" alt="Le Mouffetard">
+  <img src="/photos/france/paris/le-mouffetard-2.jpg" alt="Le Mouffetard">
   <figcaption>Le Mouffetard</figcaption>
 </figure>
 
 Le Mouffetard serves large portions of honest French countryside cooking at reasonable prices. Think dishes like tête de veau rather than refined bistro cuisine. The location right on Rue Mouffetard is excellent, yet the place somehow avoids feeling like a tourist trap.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/france/paris/le-mouffetard-2.jpg" alt="Le Mouffetard">
-  <figcaption>Le Mouffetard</figcaption>
-</figure>
 <figure>
   <img src="/photos/france/paris/le-mouffetard-3.jpg" alt="Le Mouffetard">
   <figcaption>Le Mouffetard</figcaption>
@@ -29,7 +25,7 @@ Le Mouffetard serves large portions of honest French countryside cooking at reas
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8/10   |
-| Service         | 7/10   |
+| Service         | 7.5/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
