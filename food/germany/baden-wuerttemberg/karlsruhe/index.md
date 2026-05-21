@@ -4,7 +4,7 @@ section: food
 city: karlsruhe
 slug: karlsruhe
 title: Karlsruhe
-subtitle: Essen & Trinken in Karlsruhe
+subtitle: Food & Drink in Karlsruhe
 ---
 
 # Karlsruhe
