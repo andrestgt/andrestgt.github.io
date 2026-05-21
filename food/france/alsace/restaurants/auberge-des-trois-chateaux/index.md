@@ -7,7 +7,7 @@ subtitle: Eguisheim · Alsatian Restaurant
 ---
 
 <figure>
-  <img src="/photos/france/alsace/auberge-des-trois-chateaux-1.jpg" alt="Auberge des Trois Châteaux">
+  <img src="/photos/france/alsace/auberge-des-trois-chateaux-5.jpg" alt="Auberge des Trois Châteaux">
   <figcaption>Auberge des Trois Châteaux</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ The restaurant attached to the hotel serves hearty and genuinely excellent Alsat
   <figcaption>Auberge des Trois Châteaux</figcaption>
 </figure>
 <figure>
-  <img src="/photos/france/alsace/auberge-des-trois-chateaux-5.jpg" alt="Auberge des Trois Châteaux">
+  <img src="/photos/france/alsace/auberge-des-trois-chateaux-1.jpg" alt="Auberge des Trois Châteaux">
   <figcaption>Auberge des Trois Châteaux</figcaption>
 </figure>
 </div>
