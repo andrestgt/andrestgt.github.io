@@ -16,7 +16,7 @@ Koukouvagia may look slightly touristy because of the location, but in reality i
 | Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8.5/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
