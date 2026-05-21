@@ -4,7 +4,7 @@ section: food
 city: heidelberg
 slug: heidelberg
 title: Heidelberg
-subtitle: Essen & Trinken in Heidelberg
+subtitle: Food & Drink in Heidelberg
 ---
 
 # Heidelberg
