@@ -4,7 +4,7 @@ section: food
 city: backnang
 slug: backnang
 title: Backnang
-subtitle: Fooo & Drink in Backnang
+subtitle: Food & Drink in Backnang
 ---
 
 # Backnang
