@@ -32,4 +32,4 @@ Sunrise is a large, modern Vietnamese restaurant that feels much fancier than wh
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=tř.+Svobody+956+779+00+Olomouc+Czechia)
 📍 tř. Svobody 956/31, 779 00 Olomouc, Czechia
-💰 **Price level:** €15-20
+💰 **Price level:** CZK 350–500

@@ -38,4 +38,4 @@ This modern brewpub serves house-brewed craft beer alongside hearty Czech food w
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Krajinská+27+370+01+České+Budějovice+Czechia)
 📍 Krajinská 27, 370 01 České Budějovice, Czechia
-💰 **Price level:** €25-40
+💰 **Price level:** CZK 600–1,000
