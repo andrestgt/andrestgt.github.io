@@ -4,7 +4,7 @@ section: food
 city: stuttgart
 slug: stuttgart
 title: Stuttgart
-subtitle: Essen & Trinken in Stuttgart
+subtitle: Food & Drink in Stuttgart
 ---
 
 # Stuttgart
