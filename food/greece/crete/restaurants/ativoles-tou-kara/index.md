@@ -21,7 +21,7 @@ Very friendly family-run taverna with excellent food at genuinely fair prices, m
 | Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
