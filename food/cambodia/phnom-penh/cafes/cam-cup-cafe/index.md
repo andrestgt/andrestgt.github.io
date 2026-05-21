@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Cam Cup Café
 subtitle: Old Post Office, Phnom Penh · Café
 ---

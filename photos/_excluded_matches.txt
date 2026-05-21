@@ -11,3 +11,5 @@ dim-sum-emperors-tk | Dim Sum Emperors
 dim-sum-emperors-tk | Dim Sum Emperors @ TK Avenue
 khmer-delight-restaurant | Khmer House
 khmer-delight-restaurant | Khmer Delight
+cam-cup-cafe | Camcup Café
+cam-cup-cafe | Camcup
