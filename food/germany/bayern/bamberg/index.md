@@ -4,7 +4,7 @@ section: food
 city: bamberg
 slug: bamberg
 title: Bamberg
-subtitle: Essen & Trinken in Bamberg
+subtitle: Food & Drink in Bamberg
 ---
 
 # Bamberg
