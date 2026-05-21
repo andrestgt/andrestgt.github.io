@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Minipivovar Krajinská 27
 subtitle: Budweis · Brewpub
 ---

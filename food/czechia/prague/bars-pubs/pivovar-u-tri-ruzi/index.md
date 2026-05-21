@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Pivovar U Tří Růží
 subtitle: Prague · Beer Restaurant
 ---

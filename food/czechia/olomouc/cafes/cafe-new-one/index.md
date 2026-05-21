@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Cafe New One
 subtitle: Olomouc · Café
 ---

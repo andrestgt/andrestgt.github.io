@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Na Parkanu
 subtitle: Pilsen · Beer Pub
 ---

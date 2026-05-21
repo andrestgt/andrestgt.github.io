@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Café Na Kole
 subtitle: Hradec Králové · Café
 ---

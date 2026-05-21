@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Zámek-Bar Restaurant
 subtitle: Nové Město nad Metují · Restaurant & Bar
 ---
