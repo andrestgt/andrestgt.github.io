@@ -26,5 +26,4 @@ Popular and long established hole in the wall offering one dish only, Quang Nam 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1+Hải+Phòng+Thạch+Thang+Hải+Châu+Đà+Nẵng+550000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

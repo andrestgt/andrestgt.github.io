@@ -38,4 +38,4 @@ They also have a good selection of Thai craft beers, including a very good Weize
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Olive+Kitchen+Khaosan+Chana+Songkhram+Bangkok)
 🍽️ **Cuisine:** Italian, Pizza
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

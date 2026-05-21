@@ -36,5 +36,4 @@ Food presentation is surprisingly nice for an inexpensive basic eatery.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=85c1+Tô+Hiến+Thành+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

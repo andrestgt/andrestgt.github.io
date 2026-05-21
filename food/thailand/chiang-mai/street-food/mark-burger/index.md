@@ -24,4 +24,4 @@ Cheap, tasty, hits the spot. Nothing fancy, but absolutely does the job.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mark+Burger+Steak+Sodsueksa+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Burgers, Street Food
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

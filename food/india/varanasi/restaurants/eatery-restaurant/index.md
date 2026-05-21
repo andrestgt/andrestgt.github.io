@@ -32,4 +32,4 @@ Friendly little family restaurant in a small, clean air-conditioned environment.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Eatery+Restaurant+Shivala+Road+Varanasi+India)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** 200–350 Rs per person
+💰 **Price level:** 200–350 Rs

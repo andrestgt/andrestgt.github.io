@@ -34,4 +34,4 @@ That said, it's still a place I'd recommend for a quick, tasty Thai meal. The fo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Number+9+Restaurant+Moon+Muang+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

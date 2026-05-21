@@ -38,4 +38,4 @@ The Khao San area is not the backpacker food desert it used to be with lots of g
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hemlock+Phra+Athit+Rd+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿150–250 per person
+💰 **Price level:** ฿150–250

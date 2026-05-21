@@ -26,5 +26,4 @@ Nghe An is famous for its eel dishes and this clean, well run restaurant is one 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=154+Mai+Hắc+Đế+Hà+Huy+Tập+Vinh+Nghệ+An+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

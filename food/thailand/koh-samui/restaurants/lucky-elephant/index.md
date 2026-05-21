@@ -34,4 +34,4 @@ Lucky Elephant fits this rule quite well, it makes up for its noisy ring road lo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lucky+Elephant+Maret+Koh+Samui)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿150–250 per person
+💰 **Price level:** ฿150–250

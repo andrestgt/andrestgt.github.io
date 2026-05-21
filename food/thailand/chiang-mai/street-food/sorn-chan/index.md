@@ -50,4 +50,4 @@ Basic local eatery in a prime location, just in front of Thapae Gate. They have 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sorn+Chan+Kotchasarn+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Northern Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

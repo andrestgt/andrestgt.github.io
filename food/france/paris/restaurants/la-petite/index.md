@@ -27,4 +27,4 @@ La Petite is the archetypal Parisian bistro on one of the city's prettiest squar
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=53+Rue+Lacépède+75005+Paris+France)
 📍 53 Rue Lacépède, 75005 Paris, France
-💰 **Price level:** expensive
+💰 **Price level:** —

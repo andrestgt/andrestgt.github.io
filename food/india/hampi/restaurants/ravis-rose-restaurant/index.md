@@ -27,4 +27,4 @@ Another one of Hampi's same-same rooftop traveller cafés. It's a decent place f
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ravi%27s+Rose+Restaurant+Hampi+Karnataka+India)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** 130–170 Rs per person
+💰 **Price level:** 130–170 Rs

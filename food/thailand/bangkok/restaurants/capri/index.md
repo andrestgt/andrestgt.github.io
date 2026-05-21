@@ -37,4 +37,4 @@ If you come during the weekday two-for-one promotion, Capri offers very good Ita
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Capri+Charoen+Krung+Rd+Bang+Kho+Laem+Bangkok)
 🍽️ **Cuisine:** Italian, Pizza
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400

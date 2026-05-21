@@ -28,4 +28,4 @@ It's cheap (cheaper than in Bangkok and similar to most in Chiang Mai) and tasty
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Roti+Pa+Dae+Tha+Phae+Road+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

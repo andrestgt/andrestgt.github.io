@@ -34,4 +34,4 @@ You can also order tea snacks such as samosas, which makes this a good option fo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ochatee+Suriyawong+Alley+Haiya+Chiang+Mai)
 🍽️ **Cuisine:** Burmese
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

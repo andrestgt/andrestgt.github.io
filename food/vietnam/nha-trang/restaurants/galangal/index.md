@@ -30,5 +30,4 @@ To be fair, the freshly prepared food looks delicious, but I doubt I’ll be com
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1-A+Biệt+Thự+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

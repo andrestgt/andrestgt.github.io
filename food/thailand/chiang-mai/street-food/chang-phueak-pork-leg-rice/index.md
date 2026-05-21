@@ -42,4 +42,4 @@ There was no hype visible when I visited, but it would certainly deserve it.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chang+Phueak+Pork+Leg+Rice+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿80 per person
+💰 **Price level:** ฿80

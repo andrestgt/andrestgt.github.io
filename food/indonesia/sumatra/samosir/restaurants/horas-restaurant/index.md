@@ -22,4 +22,4 @@ Very simple restaurant with beautiful lake views and genuinely tasty home-style 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Horas+Restaurant+Tuktuk+Samosir+Lake+Toba)
 🍽️ **Cuisine:** Indonesian, Batak
-💰 **Price level:** inexpensive
+💰 **Price level:** —

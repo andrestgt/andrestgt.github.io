@@ -31,5 +31,4 @@ I doubt that you'll find a better Banh Mi Heo Quay (roasted pork baguette) anywh
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sơn+Trạch+Bố+Trạch+District+Quảng+Bình+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bánh Mì
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

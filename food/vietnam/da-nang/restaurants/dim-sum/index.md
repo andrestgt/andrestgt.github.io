@@ -30,5 +30,4 @@ These are up there with some of the best (and often much more expensive) dim sum
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=45a+Ng.+Gia+Tự+Hải+Châu+Đà+Nẵng+550000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

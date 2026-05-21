@@ -46,4 +46,4 @@ We had the northern hors d'oeuvre platter, a minced catfish salad, and a red cur
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khaomao+Khaofang+Ratchapruek+Rd+Hang+Dong+Chiang+Mai)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿200–400 per person
+💰 **Price level:** ฿200–400

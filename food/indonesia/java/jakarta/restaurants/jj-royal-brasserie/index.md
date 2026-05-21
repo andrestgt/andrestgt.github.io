@@ -22,4 +22,4 @@ Fantastic upscale brasserie managing to serve foie gras and pempek equally well,
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=JJ+Royal+Brasserie+Kuningan+Jakarta)
 🍽️ **Cuisine:** International, Indonesian
-💰 **Price level:** moderate to expensive
+💰 **Price level:** —

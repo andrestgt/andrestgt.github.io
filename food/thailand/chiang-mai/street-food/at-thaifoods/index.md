@@ -36,4 +36,4 @@ Simple and satisfying local food.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=AT+Thai+Foods+Santitham+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿50–60 per person
+💰 **Price level:** ฿50–60

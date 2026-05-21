@@ -38,4 +38,4 @@ Well prepared cappuccino and very good Thai bistro food on a pretty veranda abov
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tha+Chang+Hill+Hang+Dong+Chiang+Mai)
 🍽️ **Cuisine:** Thai, International
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

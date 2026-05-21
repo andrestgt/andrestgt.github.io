@@ -76,4 +76,4 @@ Excellent casual fine dining restaurant with an intimate atmosphere, friendly se
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Zinc+Restaurant+Bar+Tabuan+Road+Kuching+Sarawak+Malaysia)
 🍽️ **Cuisine:** International
-💰 **Price level:** Around RM80 per person
+💰 **Price level:** Around RM80

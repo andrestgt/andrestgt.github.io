@@ -41,4 +41,4 @@ We had grilled squid and seafood mee goreng, both excellent and served with a ve
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Marina+Star+Restaurant+Seafood+Sorong)
 🍽️ **Cuisine:** Seafood
-💰 **Price level:** Rp 125,000–150,000 per person
+💰 **Price level:** Rp 125,000–150,000

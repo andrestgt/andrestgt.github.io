@@ -26,5 +26,4 @@ Old school Old Quarter bia hoi joint that's busy with locals all day long. The b
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2+P.+Đường+Thành+Cửa+Đông+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

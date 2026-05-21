@@ -32,4 +32,4 @@ Kouzoumama is one of the best places to eat in Kissamos. The food is fresh and g
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kouzoumama+Kissamos+Crete+Greece)
 📍 Teloneio Beach, Kissamos 734 00, Greece
-💰 **Price level:** moderate
+💰 **Price level:** —

@@ -38,4 +38,4 @@ Tiny and very cute little restaurant that feels almost like the ultimate Lisbon 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+da+Barroca+43+1200-086+Lisboa+Portugal)
 📍 R. da Barroca 43, 1200-086 Lisboa, Portugal
-💰 **Price level:** moderate
+💰 **Price level:** —

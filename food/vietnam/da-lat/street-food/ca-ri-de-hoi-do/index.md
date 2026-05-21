@@ -26,5 +26,4 @@ Nicely presented goat curry with baby baguettes, the curry soup is tasty, pity t
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=75+Nguyễn+Văn+Trỗi+Phường+2+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

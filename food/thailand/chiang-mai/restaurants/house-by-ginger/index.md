@@ -32,4 +32,4 @@ Very fancy and super comfortable restaurant. Dishes are about 50% more expensive
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+House+by+Ginger+Mun+Mueang+Rd+Chiang+Mai)
 🍽️ **Cuisine:** International, Thai
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

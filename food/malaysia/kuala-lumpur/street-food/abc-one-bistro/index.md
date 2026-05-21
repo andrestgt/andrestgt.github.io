@@ -22,4 +22,4 @@ Busy and popular 24-hour fast-food eatery with a menu covering Malay, Indian, Ch
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=ABC+One+Bistro+Jalan+Thambipillay+Brickfields+Kuala+Lumpur)
 🍽️ **Cuisine:** Malaysian
-💰 **Price level:** RM 1–20 per person
+💰 **Price level:** RM 1–20

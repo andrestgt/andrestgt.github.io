@@ -36,4 +36,4 @@ Most seafood dishes were around 90K. Good portions, decent cooking, and a very a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wailela+Cafe+Resto+Ambon)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 125,000–150,000 per person
+💰 **Price level:** Rp 125,000–150,000

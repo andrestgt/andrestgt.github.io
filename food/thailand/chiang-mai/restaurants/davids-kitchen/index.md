@@ -76,4 +76,4 @@ Beautiful fine dining restaurant outside of town. A real surprise, with impeccab
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=David%27s+Kitchen+909+Bamrungrat+Rd+Chiang+Mai)
 🍽️ **Cuisine:** French-Thai, Fine Dining
-💰 **Price level:** ฿600–800 per person
+💰 **Price level:** ฿600–800

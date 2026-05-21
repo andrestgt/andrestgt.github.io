@@ -37,5 +37,4 @@ Bun Bo Nam Bo is one of these Vietnamese dishes that is particularly suited to W
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=73-75+Hàng+Điếu+Cửa+Đông+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

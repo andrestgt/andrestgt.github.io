@@ -48,4 +48,4 @@ The Thai fusion food here is only average by Bangkok’s very high standards, bu
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Reflections+Restaurant+Ratchadamri+Bangkok)
 🍽️ **Cuisine:** Thai Fusion
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

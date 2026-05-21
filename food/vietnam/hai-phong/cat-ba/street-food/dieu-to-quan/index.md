@@ -26,5 +26,4 @@ One of several basic harbour view sidewalk bia hoi joints in this area. Cool mug
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Diều+Tô+Quán)
 🍽️ **Cuisine:** Bia Hơi
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

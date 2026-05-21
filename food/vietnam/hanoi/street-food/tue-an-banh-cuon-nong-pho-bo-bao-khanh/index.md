@@ -44,5 +44,4 @@ My go to place for banh cuon in Hanoi for almost two decades. Almost unchanged s
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=14B+P.+Báo+Khánh+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

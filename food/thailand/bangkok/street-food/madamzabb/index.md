@@ -43,4 +43,4 @@ Madamzabb is a tiny and very tidy hole-in-the-wall restaurant serving delicious 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Madamzabb+Don+Mueang+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

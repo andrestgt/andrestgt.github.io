@@ -32,4 +32,4 @@ Off the beaten track Thai restaurant with a lovely garden setting, and good serv
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Reve+Garden+Eatery+Nang+Linchi+Rd+Bangkok)
 🍽️ **Cuisine:** Thai, International
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

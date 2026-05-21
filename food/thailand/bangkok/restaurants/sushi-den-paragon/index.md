@@ -37,4 +37,4 @@ This particular Sushi Den branch is noticeably weaker than others. The fish was 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Den+Siam+Paragon+Bangkok)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** ฿400–500 per person
+💰 **Price level:** ฿400–500

@@ -22,4 +22,4 @@ One of my favourite breakfasts in the world. Gai yang, or grilled chicken with s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kai+Yang+Wichian+Buri+Vibhavadi+Rangsit+Bangkok)
 🍽️ **Cuisine:** Thai, Grilled Chicken
-💰 **Price level:** ฿100–150 per person
+💰 **Price level:** ฿100–150

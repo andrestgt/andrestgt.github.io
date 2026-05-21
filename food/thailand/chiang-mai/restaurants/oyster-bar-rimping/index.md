@@ -22,4 +22,4 @@ Wine at retail prices and delicious fresh oysters. Their Thai food menu is exten
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oyster+Bar+Rimping+Supermarket+Chiang+Mai)
 🍽️ **Cuisine:** Oysters, Wine, Thai
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

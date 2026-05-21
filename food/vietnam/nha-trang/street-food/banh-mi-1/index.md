@@ -30,5 +30,4 @@ Update: quality is still good, but prices have gone up
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=239+Nguyễn+Thiện+Thuật+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bánh Mì
-💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

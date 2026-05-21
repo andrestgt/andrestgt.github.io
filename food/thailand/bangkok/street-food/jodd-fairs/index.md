@@ -48,5 +48,5 @@ With all the visually spectacular food offerings and frenetic atmosphere, it's d
 
 🍽️ **Cuisine:** Street Food, Night Market
 
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200
 

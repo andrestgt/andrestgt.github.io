@@ -27,4 +27,4 @@ UMMASON is a basic, cash-only Korean BBQ place, but the value is excellent. For 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=UMMASON+Restaurant+Baguio+City)
 🍽️ **Cuisine:** Korean BBQ
-💰 **Price level:** Under ₱400 per person
+💰 **Price level:** Under ₱400

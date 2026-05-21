@@ -37,5 +37,4 @@ This famous pho restaurant has been my go-to for the last 20 years, and in all t
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=260C+Pasteur+Phường+Xuân+Hòa+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

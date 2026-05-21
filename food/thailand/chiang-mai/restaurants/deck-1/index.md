@@ -43,4 +43,4 @@ Very fancy riverside place with good views and atmosphere. Food is okay, nothing
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Deck+1+Charoen+Rat+Rd+Chiang+Mai)
 🍽️ **Cuisine:** International, Thai
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

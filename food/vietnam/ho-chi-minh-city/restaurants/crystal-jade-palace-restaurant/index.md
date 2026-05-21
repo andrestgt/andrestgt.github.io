@@ -26,5 +26,4 @@ The big drawback is that they only serve Dim Sum between 11am and 2.30pm and the
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Legend+Saigon+Hotel+4A+Tôn+Đức+Thắng+Sài+Gòn+Hồ+Chí+Minh+70000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
-💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

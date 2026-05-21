@@ -21,5 +21,4 @@ This basic coffee shop has some of the best views over Nha Trang without having 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=8639+93W+Vĩnh+Hải+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

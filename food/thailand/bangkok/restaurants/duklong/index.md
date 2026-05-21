@@ -43,4 +43,4 @@ This is a really nice restaurant with khlong view and super friendly service. Th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Duklong+Cafe+and+Eat+Ban+Phan+Thom+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

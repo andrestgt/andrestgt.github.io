@@ -32,4 +32,4 @@ La Villa Luna serves very good thin-crust pizzas from a wood-fired oven with rel
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=La+Villa+Luna+Mae+Nam+Koh+Samui)
 🍽️ **Cuisine:** Italian, Pizza
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

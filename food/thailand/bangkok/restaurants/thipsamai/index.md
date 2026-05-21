@@ -29,4 +29,4 @@ So yes, I wouldn't queue here more than two minutes, but I don't regret trying i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Thipsamai+Padthai+Pratoopee+Maha+Chai+Rd+Bangkok)
 🍽️ **Cuisine:** Thai, Pad Thai
-💰 **Price level:** ฿150–200 per person
+💰 **Price level:** ฿150–200

@@ -38,4 +38,4 @@ Simple place, excellent cooking, and easily the best meal I had in Banda Neira.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Terapung+Banda+Neira)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 75,000–100,000 per person
+💰 **Price level:** Rp 75,000–100,000

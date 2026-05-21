@@ -37,5 +37,4 @@ Pretty good Pho Bo for only 25k. And the only place in town serving it at lunch 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phở+Lý+Quốc+Sư)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

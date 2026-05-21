@@ -40,5 +40,5 @@ But overall it's a great pizza. The anchovy and capers pizza on my second visit 
 
 🍽️ **Cuisine:** Pizza
 
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400
 

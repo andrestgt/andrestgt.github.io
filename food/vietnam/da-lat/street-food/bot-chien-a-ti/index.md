@@ -21,5 +21,4 @@ This is the place to go for a filling vegetarian meal for very little money, an 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=119b+Nguyễn+Văn+Trỗi+Phường+2+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

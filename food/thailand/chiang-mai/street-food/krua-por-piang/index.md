@@ -38,4 +38,4 @@ I'd happily come back to try the duck curry another time.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Krua+Por+Piang+Chiang+Mai+University)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

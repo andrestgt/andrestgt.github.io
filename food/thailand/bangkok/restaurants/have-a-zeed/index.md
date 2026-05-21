@@ -22,4 +22,4 @@ Comfortable and slightly upmarket mall restaurant serving reliable Isaan food al
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Have+a+Zeed+Steak+Lao+Terminal+21+Bangkok)
 🍽️ **Cuisine:** Isaan
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400

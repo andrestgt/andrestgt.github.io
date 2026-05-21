@@ -35,4 +35,4 @@ Service on the other hand was friendly, and the refried beans were tasty.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Salsa+Kitchen+Huay+Kaew+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Mexican
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

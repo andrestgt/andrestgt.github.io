@@ -34,4 +34,4 @@ And yet, as someone who is not the biggest fan of Northern Thai food, I really e
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Aroon+Rai+Kotchasarn+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Northern Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

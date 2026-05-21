@@ -22,4 +22,4 @@ Budget-friendly noodle and dumpling restaurant hidden inside one of Jakarta’s 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lamian+Palace+Grand+Indonesia+Jakarta)
 🍽️ **Cuisine:** Chinese, Noodles
-💰 **Price level:** inexpensive to moderate
+💰 **Price level:** —

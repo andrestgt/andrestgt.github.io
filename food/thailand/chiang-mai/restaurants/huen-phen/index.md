@@ -29,4 +29,4 @@ The eggplant nam prik and pork cracklings were excellent, the 60 Bt kao soi moo 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Huen+Phen+Si+Phum+Chiang+Mai)
 🍽️ **Cuisine:** Northern Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

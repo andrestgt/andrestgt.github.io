@@ -47,4 +47,4 @@ The grilled seafood is not quite as good as in the more local places around Lang
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ten+Cafe+Ngurbloat+Kei+Kecil)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 125,000–150,000 per person
+💰 **Price level:** Rp 125,000–150,000

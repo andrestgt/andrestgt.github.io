@@ -26,4 +26,4 @@ This place is one of many similar mookata restaurants in the area, and quality-w
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Big+Big+Shabu+Santitham+Chiang+Mai)
 🍽️ **Cuisine:** Mookata, Buffet
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

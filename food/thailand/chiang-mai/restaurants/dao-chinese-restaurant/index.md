@@ -31,4 +31,4 @@ Oh and don't miss the spicy free pickles on the counter, they're delicious.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dao+Chinese+Restaurant+Hillside+Plaza+Huay+Kaew+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Chinese, Sichuan
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

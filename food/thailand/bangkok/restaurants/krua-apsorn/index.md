@@ -60,4 +60,4 @@ You don't come here for atmosphere, it has a cheap canteen feel to it. But the p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Krua+Apsorn+Dinso+Rd+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿150–200 per person
+💰 **Price level:** ฿150–200

@@ -27,4 +27,4 @@ Very basic but deservedly popular noodle place on Sukhumvit 26. I wouldn’t tra
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rung+Rueang+Pork+Tung+Noodle+Sukhumvit+26+Bangkok)
 🍽️ **Cuisine:** Street Food, Noodles
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

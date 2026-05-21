@@ -71,4 +71,4 @@ Ranks high on my personal "favourite restaurants in the world" list. Unbeatable 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kabocha+Sushi+at+the+Street+Ratchadaphisek+Bangkok)
 🍽️ **Cuisine:** Japanese, Fusion
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

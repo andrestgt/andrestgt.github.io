@@ -38,4 +38,4 @@ Classic tapas bar where locals clearly outnumber tourists. Prices are reasonable
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+de+Vic+23+Gràcia+08006+Barcelona+Spain)
 📍 Carrer de Vic, 23, Gràcia, 08006 Barcelona, Spain
-💰 **Price level:** moderate
+💰 **Price level:** —

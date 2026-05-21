@@ -31,5 +31,4 @@ This basic hole in the wall eatery serves nothing but Northern style banh cuon w
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=PMRH+GM4+TT.+Vinh+Quang+Hoàng+Su+Phì+Hà+Giang+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

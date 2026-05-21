@@ -37,5 +37,4 @@ One of the best bowls of soup I found in Hanoi. The fish soup here is deeply sat
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5+Đ.+Trần+Duy+Hưng+Trung+Hoà+Cầu+Giấy+Hà+Nội+100000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

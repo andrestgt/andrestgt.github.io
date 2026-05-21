@@ -26,5 +26,4 @@ They've just moved a couple of doors up the alley. A simple, yet popular neighbo
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=WCXQ+MV3+Phường+2+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Seafood
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

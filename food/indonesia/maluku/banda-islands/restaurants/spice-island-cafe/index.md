@@ -55,4 +55,4 @@ It is a simple, but dependable place to eat and one of the few restaurants where
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Spice+Island+Cafe+Banda+Neira)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Rp 125,000–150,000 per person
+💰 **Price level:** Rp 125,000–150,000

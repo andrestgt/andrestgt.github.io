@@ -22,4 +22,4 @@ Not exactly Mexican, but this street food cart prepares surprisingly tasty drink
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tacos+Bell+Ratvithi+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Street Food
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

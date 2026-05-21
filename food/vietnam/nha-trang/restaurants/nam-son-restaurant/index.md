@@ -40,5 +40,4 @@ Try the Bo Nhung Giam, the Vietnamese version of a Fondue bourguignonne. Count o
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=196+Hương+lộ+Ngọc+Hiệp+Xóm+Hộ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫100–200k per person
+💰 **Price level:** ₫100–200k

@@ -53,5 +53,4 @@ This is currently the only place in Nha Trang serving food that at least somewha
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=176+Hùng+Vương+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Mexican
-💰 **Price level:** ...
-💰 **Price level:** ₫50–100k per person
+💰 **Price level:** ₫50–100k

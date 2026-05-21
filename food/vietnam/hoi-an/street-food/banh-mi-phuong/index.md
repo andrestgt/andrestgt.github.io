@@ -30,5 +30,4 @@ they reshuffled their menu, so now the sandwich to order is #3 thap cam, with a 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2b+Đ.+Phan+Chu+Trinh+Cẩm+Châu+Hội+An+Quảng+Nam+560000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bánh Mì
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

@@ -32,4 +32,4 @@ For a backpacker-oriented Mexican restaurant in Southeast Asia, Amigo's serves s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Amigos+Vang+Vieng+Laos)
 🍽️ **Cuisine:** Mexican
-💰 **Price level:** moderate
+💰 **Price level:** —

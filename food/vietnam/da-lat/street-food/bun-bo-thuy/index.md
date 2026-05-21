@@ -43,5 +43,4 @@ If you stay near this simple eatery, basically just a few tables in the small li
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=61+Nguyễn+Thị+Nghĩa+Phường+2+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

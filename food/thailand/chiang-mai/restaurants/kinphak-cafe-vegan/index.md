@@ -24,4 +24,4 @@ Prices are similar to regular meat eateries, so no vegan hipster surcharges here
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kinphak+Cafe+Vegan+Chang+Phueak+Chiang+Mai)
 🍽️ **Cuisine:** Vegan, Thai
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

@@ -38,4 +38,4 @@ There's an English menu on request.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Yui%27s+Eatery+Kaeonawarat+Rd+Wat+Ket+Chiang+Mai)
 🍽️ **Cuisine:** Thai-Chinese
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

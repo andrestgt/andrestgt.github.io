@@ -43,4 +43,4 @@ Attractive mid-range izakaya in Nimman with a lively atmosphere, friendly servic
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Okada+Izakaya+Nimmana+Haeminda+Lane+9+Chiang+Mai)
 🍽️ **Cuisine:** Japanese, Izakaya
-💰 **Price level:** ฿600–700 per person
+💰 **Price level:** ฿600–700

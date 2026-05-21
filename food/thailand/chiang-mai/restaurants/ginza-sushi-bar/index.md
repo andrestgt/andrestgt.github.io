@@ -27,4 +27,4 @@ There's nothing spectacular about the food or the freshness, but from the soft s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ginza+Sushi+Bar+Nimman+Chiang+Mai)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400

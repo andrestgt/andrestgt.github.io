@@ -33,5 +33,4 @@ Update 2025: new price is 65k for a big bowl, but the small bowl is more than en
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=40+Đ.+Lê+Thánh+Tôn+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

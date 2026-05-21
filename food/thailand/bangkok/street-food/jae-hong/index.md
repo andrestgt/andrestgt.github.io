@@ -32,4 +32,4 @@ Hidden deep inside a small market alley, this place is deservedly popular for it
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jae+Hong+Stir+Fried+Chicken+Noodle+Pom+Prap+Bangkok)
 🍽️ **Cuisine:** Street Food, Noodles
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

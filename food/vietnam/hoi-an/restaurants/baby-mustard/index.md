@@ -68,5 +68,4 @@ They do nice fried spring rolls and the steamed vegetables for their Rau Kho Que
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Đường+Biển+Cẩm+Hà+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫50–100k per person
+💰 **Price level:** ₫50–100k

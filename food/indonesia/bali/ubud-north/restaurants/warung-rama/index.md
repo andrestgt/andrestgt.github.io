@@ -32,4 +32,4 @@ One of the best nasi campur you can get for 30K. The place is as tiny as the men
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Warung+Rama+Jl+Nyuh+Gading+Mas+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** inexpensive
+💰 **Price level:** —

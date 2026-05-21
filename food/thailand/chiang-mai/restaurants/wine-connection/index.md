@@ -27,4 +27,4 @@ The most affordable place for wine and deli food in Thailand. Wine Connection is
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wine+Connection+Central+Festival+Chiang+Mai)
 🍽️ **Cuisine:** Wine, Deli
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

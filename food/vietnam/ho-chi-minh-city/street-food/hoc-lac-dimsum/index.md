@@ -31,5 +31,4 @@ This hole-in-the-wall dim sum spot in Cho Lon is a hidden gem. They offer a grea
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=38B+Đ.+Học+Lạc+Phường+14+Quận+5+Thành+phố+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
-💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

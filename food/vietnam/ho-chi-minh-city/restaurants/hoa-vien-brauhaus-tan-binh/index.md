@@ -46,7 +46,6 @@ I still quite liked it and keep coming back
 
 🍽️ **Cuisine:** Vietnamese
 
-💰 **Price level:** ...
 
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k
 

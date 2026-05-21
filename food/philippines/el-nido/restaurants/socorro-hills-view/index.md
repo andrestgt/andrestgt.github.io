@@ -38,4 +38,4 @@ The nicest pit stop along Route 490 to El Nido, this viewpoint resto offers more
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Socorro+Hills+View+Restaurant+El+Nido+Palawan)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** ₱200–400 per person
+💰 **Price level:** ₱200–400

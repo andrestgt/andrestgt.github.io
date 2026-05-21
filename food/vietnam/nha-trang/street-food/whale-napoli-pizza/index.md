@@ -35,5 +35,4 @@ That said, the amount of toppings was just right, and the quality was great. So 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=83+Việt+Bắc+Vĩnh+Hoà+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Italian · Pizza
-💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

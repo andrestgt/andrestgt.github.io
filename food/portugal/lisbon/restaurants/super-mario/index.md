@@ -38,4 +38,4 @@ With Lisbon now firmly on the international tourist circuit, Super Mário initia
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+do+Duque+9+1200-158+Lisboa+Portugal)
 📍 R. do Duque 9, 1200-158 Lisboa, Portugal
-💰 **Price level:** budget
+💰 **Price level:** —

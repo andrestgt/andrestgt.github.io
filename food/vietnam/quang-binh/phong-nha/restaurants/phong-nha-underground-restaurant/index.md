@@ -20,5 +20,4 @@ Very nice and welcoming air conditioned restaurant with good international food 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Đường+tỉnh+20+Phong+NHA+Quảng+Bình+510000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
-💰 **Price level:** ₫50–100k per person
+💰 **Price level:** ₫50–100k

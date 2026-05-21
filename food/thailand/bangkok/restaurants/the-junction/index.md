@@ -26,4 +26,4 @@ At under 300 baht, prices are very reasonable, especially for proper wood-fired 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Junction+Bang+Kachao+Phra+Pradaeng)
 🍽️ **Cuisine:** Italian, Pizza, Craft Beer
-💰 **Price level:** ฿200–400 per person
+💰 **Price level:** ฿200–400

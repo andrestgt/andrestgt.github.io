@@ -60,4 +60,4 @@ The restaurant has a nice Moroccan-themed décor and serves good, authentic food
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=27+Pl.+Sébastopol+59000+Lille+France)
 📍 27 Pl. Sébastopol, 59000 Lille, France
-💰 **Price level:** expensive
+💰 **Price level:** —

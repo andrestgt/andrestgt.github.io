@@ -22,4 +22,4 @@ Small place with a mix of tourists and locals, serving simple Polish food. It's 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Warsztat+Po+Polsku+Miodowa+Krakow+Poland)
 🍽️ **Cuisine:** Polish
-💰 **Price level:** inexpensive
+💰 **Price level:** —

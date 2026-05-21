@@ -26,5 +26,4 @@ Tasty duck/goose soup with clear broth and meatballs, 35k a bowl
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=31+P.+Lý+Quốc+Sư+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

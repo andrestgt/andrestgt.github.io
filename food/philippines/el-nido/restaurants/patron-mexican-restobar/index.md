@@ -32,4 +32,4 @@ I certainly didn't expect to find authentic Mexican food in El Nido of all place
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Patron+Mexican+Restobar+El+Nido+Palawan)
 🍽️ **Cuisine:** Mexican
-💰 **Price level:** ₱400–600 per person
+💰 **Price level:** ₱400–600

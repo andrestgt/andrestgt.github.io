@@ -22,4 +22,4 @@ Another family-run restaurant serving homemade food typical of Tuktuk. Many plac
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Maruba+Restaurant+Tuktuk+Samosir+Lake+Toba)
 🍽️ **Cuisine:** Indonesian, Batak
-💰 **Price level:** inexpensive
+💰 **Price level:** —

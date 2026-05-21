@@ -31,5 +31,4 @@ The concept is smart. It's obviously gimmicky and geared towards the Instagram c
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=41+Nguyễn+Duy+Dương+Phường+8+Quận+5+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

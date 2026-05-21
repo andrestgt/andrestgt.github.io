@@ -42,5 +42,4 @@ Large and busy drinking place in the new part of town. It's nothing out of the o
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Q657+5PG+Bùi+Hữu+Nghĩa+Nguyễn+Văn+Cừ+Quy+Nhơn+Bình+Định+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

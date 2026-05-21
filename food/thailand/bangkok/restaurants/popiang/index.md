@@ -27,4 +27,4 @@ Probably the best traveller café on Rambuttri. Service is friendly, the food co
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Popiang+Ram+Buttri+Alley+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

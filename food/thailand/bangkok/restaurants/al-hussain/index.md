@@ -26,4 +26,4 @@ Al-Hussain is a great place for authentic Muslim Indian and Middle Eastern food.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Al-Hussain+Restaurant+Sukhumvit+Soi+3+Bangkok)
 🍽️ **Cuisine:** Indian, Middle Eastern
-💰 **Price level:** ฿150–250 per person
+💰 **Price level:** ฿150–250

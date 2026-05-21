@@ -27,4 +27,4 @@ Upmarket carinderia with sea views on Puerto's rather forlorn Baywalk. They offe
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lato+Coffee+and+Restaurant+Baywalk+Puerto+Princesa+Palawan)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** ₱200–400 per person
+💰 **Price level:** ₱200–400

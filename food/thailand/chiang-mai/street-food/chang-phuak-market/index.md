@@ -49,4 +49,4 @@ Small night market, mostly for tourists. The food here is generally good to grea
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chang+Phuak+Market+Manee+Nopparat+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

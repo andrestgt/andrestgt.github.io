@@ -42,5 +42,4 @@ This place is located right next to Cococha, party backpacker Central in Hoi An,
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=504+Đ.+Hai+Bà+Trưng+Cẩm+Sơn+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

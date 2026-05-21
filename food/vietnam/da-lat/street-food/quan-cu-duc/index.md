@@ -44,5 +44,4 @@ Classic Vietnamese barbecue chaos: noisy, smoky and packed with locals. There is
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Quan+Cu+Duc)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫100–200k per person
+💰 **Price level:** ₫100–200k

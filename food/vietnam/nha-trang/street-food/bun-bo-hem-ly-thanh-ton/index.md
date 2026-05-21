@@ -28,5 +28,4 @@ Anyway, the soup here is very good, too. 40k a bowl
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=35+Lý+Thánh+Tôn+Lộc+Thọ+Nha+Trang+Khánh+Hòa+65000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

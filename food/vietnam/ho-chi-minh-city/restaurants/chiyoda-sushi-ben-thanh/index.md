@@ -42,5 +42,4 @@ This Japanese restaurant serves very solid sushi, sashimi, okonomiyaki, and othe
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=256+Lê+Thánh+Tôn+Phường+Bến+Thành+Quận+1+Thành+phố+Hồ+Chí+Minh+700000+Vietnam)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** ...
 💰 **Price level:** ₫300–400k

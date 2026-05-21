@@ -20,4 +20,4 @@ Had a takeaway chicken tikka masala and garlic naan. The bread was very good, wi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rajdarbar+Indian+Restaurant+Loi+Kroh+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

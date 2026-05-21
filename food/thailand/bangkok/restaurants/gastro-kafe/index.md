@@ -45,4 +45,4 @@ Friendly place on Rambuttri, although there's nothing stand out about it. We wer
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gastro+Kafe+Ram+Buttri+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

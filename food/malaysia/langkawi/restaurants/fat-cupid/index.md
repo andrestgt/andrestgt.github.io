@@ -49,4 +49,4 @@ Beautifully designed restaurant with excellent atmosphere and genuinely impressi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fat+Cupid+Cafe+Restaurant+Langkawi+Malaysia)
 🍽️ **Cuisine:** Malay
-💰 **Price level:** moderate
+💰 **Price level:** —

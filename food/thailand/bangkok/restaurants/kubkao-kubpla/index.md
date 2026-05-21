@@ -38,4 +38,4 @@ If you manage to get a seat with a view, EmQuartier´s KubKao’ KubPla, becomes
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=KubKao+KubPla+Emquartier+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

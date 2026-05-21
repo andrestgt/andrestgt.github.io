@@ -59,7 +59,6 @@ My personal favourite place for bún chả in Hanoi since long before they got M
 
 🍽️ **Cuisine:** Vietnamese
 
-💰 **Price level:** ...
 
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k
 

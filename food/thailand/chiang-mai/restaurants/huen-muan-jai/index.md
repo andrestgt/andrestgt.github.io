@@ -31,4 +31,4 @@ The pork omelette was very tasty, but also quite oily.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Huen+Muan+Jai+Ratchaphuek+Alley+Chiang+Mai)
 🍽️ **Cuisine:** Northern Thai
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

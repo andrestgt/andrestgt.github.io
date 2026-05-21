@@ -69,4 +69,4 @@ Update: It has become extremely popular. Even outside of peak hours, it's now ha
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=SUSHIRO+ICONSIAM+Bangkok)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

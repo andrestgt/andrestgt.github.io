@@ -22,4 +22,4 @@ Rather disappointing overall. The nasi lemak lacked flavour and the burger buns 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fuel+Shack+Low+Yat+Plaza+Kuala+Lumpur+Malaysia)
 🍽️ **Cuisine:** Burgers, Malaysian
-💰 **Price level:** moderate
+💰 **Price level:** —

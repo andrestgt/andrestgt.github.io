@@ -19,4 +19,4 @@ We bought these dumplings from a stall in Terminal 21 and they turned out to be 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khanom+Jeep+Tom+Hia+Sek+Bangkok)
 🍽️ **Cuisine:** Street Food, Dumplings
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

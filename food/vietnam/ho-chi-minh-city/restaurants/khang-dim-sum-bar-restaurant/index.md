@@ -42,5 +42,4 @@ The Cholon Khang Dim Sum Bar is a good choice for a filling dumpling feast if yo
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=200+Đ.+Nguyễn+Tri+Phương+Phường+4+Quận+10+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

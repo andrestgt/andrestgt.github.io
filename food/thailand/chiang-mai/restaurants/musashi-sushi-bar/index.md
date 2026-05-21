@@ -71,4 +71,4 @@ My favourite sushi bar in Chiang Mai. They have a lot of interesting fusion dish
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Musashi+Sushi+Bar+Prapokklao+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400

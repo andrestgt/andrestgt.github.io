@@ -38,4 +38,4 @@ Prices are fair for the quality and portion sizes. If I had to choose just one s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurant+Sari+Gurih+Beach+Lateri+Ambon)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 125,000–150,000 per person
+💰 **Price level:** Rp 125,000–150,000

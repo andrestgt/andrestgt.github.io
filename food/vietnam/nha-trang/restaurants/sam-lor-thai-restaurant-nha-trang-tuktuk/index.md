@@ -32,5 +32,4 @@ This newly opened Thai restaurant should be so much better. It's friendly, nicel
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=76+Đống+Đa+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ...
-💰 **Price level:** ₫50–100k per person
+💰 **Price level:** ₫50–100k

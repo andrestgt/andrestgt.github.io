@@ -22,4 +22,4 @@ Basic tea shop with excellent samosas. Great for a quick snack if you're in the 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ram+Kewal+Tea+Stall+Shah+Najaf+Road+Hazratganj+Lucknow+India)
 🍽️ **Cuisine:** Indian, Chai
-💰 **Price level:** Very inexpensive
+💰 **Price level:** —

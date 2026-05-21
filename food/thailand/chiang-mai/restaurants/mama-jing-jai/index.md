@@ -38,4 +38,4 @@ Top notch chicken noodle soup. A little pricier maybe than your average eatery i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mama+Jing+Jai+Village+Atsadathon+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Noodles
-💰 **Price level:** ฿60–100 per person
+💰 **Price level:** ฿60–100

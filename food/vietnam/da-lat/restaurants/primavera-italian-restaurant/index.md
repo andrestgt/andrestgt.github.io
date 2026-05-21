@@ -49,5 +49,4 @@ I loved everything about Primavera — from the well-stocked deli and wood-fired
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=54/7+Phan+Đình+Phùng+Phường+1+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** ...
 💰 **Price level:** ₫300–400k

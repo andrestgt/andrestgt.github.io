@@ -27,4 +27,4 @@ Master Chao Lang has so much potential but doesn't seem to care about attracting
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Master+Chaolong+Port+Barton+San+Vicente+Palawan)
 🍽️ **Cuisine:** Vietnamese, Filipino
-💰 **Price level:** Under ₱200 per person
+💰 **Price level:** Under ₱200

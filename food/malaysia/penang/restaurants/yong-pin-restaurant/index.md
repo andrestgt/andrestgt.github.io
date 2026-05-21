@@ -32,4 +32,4 @@ Traditional, chaotic and very hot dim sum spot. The steamed dumplings are fairly
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Yong+Pin+Restaurant+Lebuh+Kimberley+George+Town+Penang)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** RM 1–20 per person
+💰 **Price level:** RM 1–20

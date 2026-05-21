@@ -43,4 +43,4 @@ Pricey Sathorn/Surasak is not exactly the place where you would expect to find t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Laab+Ubon+Kontrakran+S+Sathon+Rd+Bangkok)
 🍽️ **Cuisine:** Isaan
-💰 **Price level:** ฿100–150 per person
+💰 **Price level:** ฿100–150

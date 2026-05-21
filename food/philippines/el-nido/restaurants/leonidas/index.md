@@ -27,4 +27,4 @@ How unexpected to find such a beautiful garden café, seemingly in the middle of
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Leonida%27s+Restaurant+Taytay+Palawan)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** ₱200–400 per person
+💰 **Price level:** ₱200–400

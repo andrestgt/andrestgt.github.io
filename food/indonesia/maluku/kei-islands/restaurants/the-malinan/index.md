@@ -34,4 +34,4 @@ I really liked their grilled fish, a large one easily enough for two, for just 8
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Malinan+Kei+Islands+Resto+Langgur)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 100,000–125,000 per person
+💰 **Price level:** Rp 100,000–125,000

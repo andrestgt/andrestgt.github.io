@@ -41,4 +41,4 @@ Finding homemade Shanghai-style dumplings in sleepy Chiang Saen is slightly unex
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kiao+Siang+Hai+Restaurant+Chiang+Saen+Chiang+Rai)
 🍽️ **Cuisine:** Chinese
-💰 **Price level:** ฿150–250 per person
+💰 **Price level:** ฿150–250

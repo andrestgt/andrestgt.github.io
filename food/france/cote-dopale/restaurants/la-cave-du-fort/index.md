@@ -32,4 +32,4 @@ Great pub with a small menu of Moules Frites, planchas and a board of changing d
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=23+Rue+du+Maréchal+Foch+62164+Ambleteuse+France)
 📍 23 Rue du Maréchal Foch, 62164 Ambleteuse, France
-💰 **Price level:** moderate
+💰 **Price level:** —

@@ -38,5 +38,4 @@ Simple garden restaurant with a short, focused menu of Huế specialities. At 25
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=8+Nguyễn+Bỉnh+Khiêm+Phú+Hiệp+Huế+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

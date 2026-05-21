@@ -27,4 +27,4 @@ Simple, traditional chai shop serving a mixed clientele of locals and tourists. 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Patnem+Chai+Shop+Patnem+Bus+Stop+Canacona+Goa+India)
 🍽️ **Cuisine:** Indian, Chai
-💰 **Price level:** Very inexpensive
+💰 **Price level:** —

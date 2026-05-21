@@ -36,4 +36,4 @@ Their special dish contains the aforementioned ingredients plus a minuscule to r
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sawang+Noodle+Si+Phraya+Rd+Bangkok)
 🍽️ **Cuisine:** Noodles
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

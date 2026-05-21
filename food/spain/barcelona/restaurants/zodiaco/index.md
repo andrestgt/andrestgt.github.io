@@ -32,4 +32,4 @@ As long as you don't expect gourmet food or some deeply authentic local experien
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+de+Blai+39+Sants-Montjuïc+08004+Barcelona+Spain)
 📍 Carrer de Blai, 39, Sants-Montjuïc, 08004 Barcelona, Spain
-💰 **Price level:** budget
+💰 **Price level:** —

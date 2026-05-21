@@ -45,5 +45,4 @@ Best to visit in the evening, with the alluminated landscaped garden and the tra
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=10B+Cầu+Dứa+-+Phú+Nông+Vĩnh+Hiệp+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫100–200k per person
+💰 **Price level:** ₫100–200k

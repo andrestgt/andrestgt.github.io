@@ -27,5 +27,4 @@ This is real Thai food (albeit a little spiced down), and they have a great menu
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ngo+Ri)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ...
-💰 **Price level:** ₫100–200k per person
+💰 **Price level:** ₫100–200k

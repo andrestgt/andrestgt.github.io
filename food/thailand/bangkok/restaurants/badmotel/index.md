@@ -38,4 +38,4 @@ BADMOTEL attracts the usual Thonglor crowd, so naturally it isn’t cheap. Still
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=BADMOTEL+Thonglor+Bangkok)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

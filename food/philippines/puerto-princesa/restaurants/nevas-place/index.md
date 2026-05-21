@@ -27,4 +27,4 @@ Anyone familiar with Neva's in Dumaguete will recognise the concept. The pizza h
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Neva%27s+Place+Taft+St+Puerto+Princesa+Palawan)
 🍽️ **Cuisine:** Filipino, Pizza
-💰 **Price level:** ₱200–400 per person
+💰 **Price level:** ₱200–400

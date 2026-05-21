@@ -46,7 +46,6 @@ Come to this basic, authentic place for delicious Hen Tron (35k) with Banh Trang
 
 🍽️ **Cuisine:** Vietnamese
 
-💰 **Price level:** ...
 
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k
 

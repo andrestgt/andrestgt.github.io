@@ -43,4 +43,4 @@ Food and drinks are 4 stars but the view, oh the view, it's just breathtaking. W
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fallabella+River+Front+ICONSIAM+Bangkok)
 🍽️ **Cuisine:** International
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

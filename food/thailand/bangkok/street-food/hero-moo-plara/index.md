@@ -32,4 +32,4 @@ This place is just great. Cheap platters of charcoal grilled meats and sausages 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hero+Moo+Plara+Khaosan+Rd+Bangkok)
 🍽️ **Cuisine:** Thai, Grilled Meats
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

@@ -32,4 +32,4 @@ Hong Bao is an excellent dim sum restaurant with a very extensive menu and consi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hong+Bao+Central+Embassy+Bangkok)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** ฿500+ per person
+💰 **Price level:** ฿500+

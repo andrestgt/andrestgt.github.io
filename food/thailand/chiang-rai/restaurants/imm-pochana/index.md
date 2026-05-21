@@ -43,4 +43,4 @@ Imm Pochana serves excellent Yunnan-influenced food with generous portions and f
 
 🍽️ **Cuisine:** Yunnanese, Thai
 
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

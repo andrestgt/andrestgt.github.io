@@ -34,4 +34,4 @@ I also tried several other dishes, and everything fell into the same category: s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lookbua+Thai+Food+Samlan+Soi+7+Chiang+Mai)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

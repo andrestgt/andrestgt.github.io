@@ -29,4 +29,4 @@ But for a Nimman location it's a reasonable option to satisfy your chicken cravi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cherng+Doi+Roast+Chicken+Suk+Kasame+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Chicken
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

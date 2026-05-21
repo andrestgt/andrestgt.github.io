@@ -38,4 +38,4 @@ Baan Glang Soi is an inexpensive little restaurant with guest rooms tucked away 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Baan+Glang+Soi+Charoen+Krung+Si+Lom+Bangkok)
 🍽️ **Cuisine:** Thai, Noodles
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

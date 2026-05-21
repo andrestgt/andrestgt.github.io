@@ -40,4 +40,4 @@ Edited update: on my second visit the food was still good, but the seafood wasn'
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Krua+Porn+La+Mai+Charoen+Krung+Rd+Bangkok)
 🍽️ **Cuisine:** Thai, Seafood
-💰 **Price level:** ฿125–150 per person
+💰 **Price level:** ฿125–150

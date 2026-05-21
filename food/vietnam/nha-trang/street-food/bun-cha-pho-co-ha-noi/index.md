@@ -26,5 +26,4 @@ The bun cha here is very good, not to sweet, balanced flavours, plenty of fresh 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=14+Tô+Hiến+Thành+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

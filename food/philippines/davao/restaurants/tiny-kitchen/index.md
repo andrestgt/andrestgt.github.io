@@ -38,4 +38,4 @@ Frankly, this is a terrible restaurant physically — cramped and designed like 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tiny+Kitchen+Dulce+Vida+F.+Torres+St+Davao+City)
 🍽️ **Cuisine:** Spanish, Filipino
-💰 **Price level:** Under ₱300 per person
+💰 **Price level:** Under ₱300

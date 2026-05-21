@@ -35,7 +35,6 @@ Nicest coffee shop in town by far. Vietnamese coffees only but excellent quality
 
 🍽️ **Cuisine:** Vietnamese
 
-💰 **Price level:** ...
 
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k
 

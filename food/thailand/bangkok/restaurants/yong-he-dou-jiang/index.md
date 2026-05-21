@@ -38,4 +38,4 @@ Excellent little Taiwanese dumpling place serving huge portions at surprisingly 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Yong+He+Dou+Jiang+Nang+Linchi+Rd+Bangkok)
 🍽️ **Cuisine:** Taiwanese, Dumplings
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

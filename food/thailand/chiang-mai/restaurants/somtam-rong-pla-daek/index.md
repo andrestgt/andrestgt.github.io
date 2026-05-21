@@ -36,4 +36,4 @@ Service was good, with friendly English speaking staff.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Somtam+Rong+Pla+Daek+Santitham+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Isaan
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

@@ -20,5 +20,4 @@ Only one dish available here, not even coffee. Delicious coconut ice cream, serv
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coconut+ice+cream+stall)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

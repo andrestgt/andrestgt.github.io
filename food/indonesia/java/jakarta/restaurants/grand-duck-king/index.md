@@ -38,4 +38,4 @@ Elegant Chinese restaurant specialising in duck dishes, and the signature duck i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Grand+Duck+King+Grand+Indonesia+Jakarta)
 🍽️ **Cuisine:** Chinese, Duck
-💰 **Price level:** expensive
+💰 **Price level:** —

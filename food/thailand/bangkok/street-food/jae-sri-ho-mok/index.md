@@ -22,4 +22,4 @@ Very delicious charcoal grilled Ho Mok (Amok). Only 25 Bt each. No English spoke
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jae+Sri+Ho+Mok+Sampheng+Bangkok)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿25–50 per person
+💰 **Price level:** ฿25–50

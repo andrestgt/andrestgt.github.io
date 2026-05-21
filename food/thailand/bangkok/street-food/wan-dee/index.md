@@ -22,4 +22,4 @@ Wan Dee serves very good beef noodle soup with tender meat and rich flavourful b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wan+Dee+Charoen+Krung+Rd+Sathon+Bangkok)
 🍽️ **Cuisine:** Noodles
-💰 **Price level:** ฿50–80 per person
+💰 **Price level:** ฿50–80

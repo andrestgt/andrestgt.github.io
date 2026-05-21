@@ -42,5 +42,4 @@ Located in Saigon's most upscale area, this sushi spot comes with a hefty price 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=40-42+Đông+Du+Bến+Nghé+Quận+1+Thành+phố+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Japanese · Sushi
-💰 **Price level:** ...
 💰 **Price level:** ₫600–700k

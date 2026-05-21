@@ -27,4 +27,4 @@ Very friendly family-run taverna with excellent food at genuinely fair prices, m
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kalamaki+Crete+Greece)
 📍 Kalamaki, Crete, Greece
-💰 **Price level:** budget
+💰 **Price level:** —

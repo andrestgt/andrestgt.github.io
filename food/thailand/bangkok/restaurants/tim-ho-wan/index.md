@@ -27,4 +27,4 @@ Tim Ho Wan still serves excellent dim sum and remains well worth visiting despit
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tim+Ho+Wan+Bangkok)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400

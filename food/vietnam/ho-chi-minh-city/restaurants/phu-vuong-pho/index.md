@@ -31,5 +31,4 @@ The pho here is very good and the location is convenient. The eatery is very cle
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=120+Đ.+Nguyễn+Thái+Bình+Phường+Nguyễn+Thái+Bình+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

@@ -29,4 +29,4 @@ This used to be the best farang breakfast place in town a decade ago, and is sti
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Blue+Diamond+Breakfast+Club+Moon+Muang+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Western, Breakfast
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

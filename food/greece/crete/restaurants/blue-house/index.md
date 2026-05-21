@@ -34,4 +34,4 @@ Blue House is a highly recommended restaurant in a wonderful setting with genuin
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Blue+House+Loutro+Crete+Greece)
 📍 Loutro 730 11, Greece
-💰 **Price level:** moderate
+💰 **Price level:** —

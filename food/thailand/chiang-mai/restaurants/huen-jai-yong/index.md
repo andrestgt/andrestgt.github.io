@@ -45,4 +45,4 @@ The sausages in particular stood out. Prices are reasonable, and if you happen t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Huen+Jai+Yong+San+Kamphaeng+Chiang+Mai)
 🍽️ **Cuisine:** Lanna, Northern Thai
-💰 **Price level:** ฿200–400 per person
+💰 **Price level:** ฿200–400

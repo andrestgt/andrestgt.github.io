@@ -43,4 +43,4 @@ Nice, inexpensive AC café in the old town, great for a coffee break. It's not c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Thaan+Aoan+Prapokklao+Road+Chiang+Mai)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

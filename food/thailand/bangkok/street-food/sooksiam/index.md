@@ -74,4 +74,4 @@ This place is absolutely stunning, and you get pretty much all your favourite st
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=SOOKSIAM+ICONSIAM+Bangkok)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

@@ -32,4 +32,4 @@ Time Out Market is a great concept and basically a paradise for foodies. The dow
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mercado+da+Ribeira+Av.+24+de+Julho+1200-479+Lisboa+Portugal)
 📍 Mercado da Ribeira, Av. 24 de Julho, 1200-479 Lisboa, Portugal
-💰 **Price level:** expensive
+💰 **Price level:** —

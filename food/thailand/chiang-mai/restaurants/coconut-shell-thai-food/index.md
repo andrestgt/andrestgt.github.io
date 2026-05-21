@@ -40,4 +40,4 @@ Quality-wise, it's right up there with your typical local Thai spot, and the pri
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coconut+Shell+Thai+Food+Ratchamanka+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿60–100 per person
+💰 **Price level:** ฿60–100

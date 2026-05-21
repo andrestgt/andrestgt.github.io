@@ -66,5 +66,4 @@ Highly recommended
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phan+Chu+Trinh+khu+2+island+Bà+Rịa+-+Vũng+Tàu+790000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

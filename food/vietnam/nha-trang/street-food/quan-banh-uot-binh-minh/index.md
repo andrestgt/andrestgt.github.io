@@ -32,5 +32,4 @@ Small little eatery on Ngo Gia Tu that specializes in Banh Cuon and Banh Uot. 35
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=75+Vân+Đồn+Phước+Hoà+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

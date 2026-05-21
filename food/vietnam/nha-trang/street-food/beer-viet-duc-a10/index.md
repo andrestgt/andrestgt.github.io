@@ -34,5 +34,4 @@ There are better value bia hoi places outside of the city centre, but this place
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=26+Đ.+Hai+Bà+Trưng+Xương+Huân+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

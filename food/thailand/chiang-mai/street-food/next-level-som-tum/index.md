@@ -31,4 +31,4 @@ Quick, cheap and unadulterated Thai food. If that's what you're after, this is t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Next+Level+Som+Tum+Santitham+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

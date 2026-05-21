@@ -27,5 +27,4 @@ Decent local spot for a bowl of bún bò Huế in Đà Lạt. Portions are gener
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=94+Đường+Bùi+Thị+Xuân+Phường+2+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

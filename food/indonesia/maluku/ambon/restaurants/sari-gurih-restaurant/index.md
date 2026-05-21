@@ -31,4 +31,4 @@ The seafood capcay was very good, cooked with plenty of crunchy vegetables. Pric
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sari+Gurih+Restaurant+Honipopu+Ambon)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 150,000–175,000 per person
+💰 **Price level:** Rp 150,000–175,000

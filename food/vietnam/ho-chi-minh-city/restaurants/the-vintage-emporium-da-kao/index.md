@@ -21,5 +21,4 @@ I'll have to agree with some reviewers here who find this place nice but really 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=95+Đ.+Nguyễn+Văn+Thủ+Đa+Kao+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

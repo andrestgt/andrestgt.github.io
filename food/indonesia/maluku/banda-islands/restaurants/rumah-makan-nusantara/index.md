@@ -38,4 +38,4 @@ Overall, Nusantara is a decent option when other places are closed, but the cook
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rumah+Makan+Nusantara+Banda+Neira)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Rp 75,000–100,000 per person
+💰 **Price level:** Rp 75,000–100,000

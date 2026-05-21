@@ -22,4 +22,4 @@ The ribs and spicy sambal here are genuinely very good, but the portions are sur
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Warung+Leko+Penjaringan+Jakarta)
 🍽️ **Cuisine:** Indonesian, Grilled
-💰 **Price level:** moderate to expensive
+💰 **Price level:** —

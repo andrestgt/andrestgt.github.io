@@ -38,4 +38,4 @@ Eating Bear serves excellent wine and petiscos with a slight Asian twist. The st
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+da+Madalena+64+1100-321+Lisboa+Portugal)
 📍 R. da Madalena 64, 1100-321 Lisboa, Portugal
-💰 **Price level:** moderate
+💰 **Price level:** —

@@ -36,4 +36,4 @@ If you're in the area and in the mood for a few cold beers with izakaya vibes, D
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Daruma+Izakaya+Chotana+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Japanese, Izakaya
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

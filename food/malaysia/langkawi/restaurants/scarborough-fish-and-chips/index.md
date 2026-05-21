@@ -32,4 +32,4 @@ Excellent fish and chips served directly by the beach with beautiful sea views. 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Scarborough+Fish+Chips+Tanjung+Rhu+Langkawi+Malaysia)
 🍽️ **Cuisine:** British, Fish & Chips
-💰 **Price level:** moderate
+💰 **Price level:** —

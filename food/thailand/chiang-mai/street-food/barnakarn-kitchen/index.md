@@ -43,4 +43,4 @@ Basic Thai eatery in the Old Town offering a large menu of wok fried one plate d
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Barnakarn+Kitchen+Mun+Mueang+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

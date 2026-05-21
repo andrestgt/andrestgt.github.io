@@ -32,4 +32,4 @@ Very good (as the name implies) Northeastern food cooked in a busy open sidewalk
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Northeast+Restaurant+Rama+IV+Rd+Silom+Bangkok)
 🍽️ **Cuisine:** Isaan
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

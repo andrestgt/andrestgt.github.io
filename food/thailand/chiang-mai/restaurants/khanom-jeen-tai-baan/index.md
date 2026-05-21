@@ -29,4 +29,4 @@ It's just a nice experience overall. 35 Bt a plate.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khanom+Jeen+Tai+Baan+Wat+Phuak+Hong+Chiang+Mai)
 🍽️ **Cuisine:** Northern Thai
-💰 **Price level:** ฿35–100 per person
+💰 **Price level:** ฿35–100

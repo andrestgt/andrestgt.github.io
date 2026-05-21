@@ -40,5 +40,5 @@ One of my favourite dishes in the world is grilled chicken with papaya salad and
 
 🍽️ **Cuisine:** Thai, Grilled Chicken
 
-💰 **Price level:** ฿200–400 per person
+💰 **Price level:** ฿200–400
 

@@ -44,5 +44,4 @@ Mind, you might sit on tiny plastic chairs on the street and get your food serve
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=79H7+84R+Nguyễn+Trãi+Đồng+Văn+Hà+Giang+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

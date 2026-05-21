@@ -53,5 +53,4 @@ I've been coming here for almost two decades. Not only does Quán An Ngon have a
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=18+P.+Phan+Bội+Châu+Cửa+Nam+Hoàn+Kiếm+Hà+Nội+111103+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

@@ -31,4 +31,4 @@ If you just want to try Imperial Kitchen and don't mind where to go, the Pakuwon
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Imperial+Kitchen+Dimsum+Tunjungan+Plaza+Surabaya)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** Rp 125,000–150,000 per person
+💰 **Price level:** Rp 125,000–150,000

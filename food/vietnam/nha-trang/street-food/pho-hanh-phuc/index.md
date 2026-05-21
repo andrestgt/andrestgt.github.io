@@ -51,7 +51,6 @@ One of the best bowls of Pho in Nha Trang for several reasons. The main one is t
 
 🍽️ **Cuisine:** Vietnamese · Phở
 
-💰 **Price level:** ...
 
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k
 

@@ -31,4 +31,4 @@ Definitely worth checking out if you're staying in Santitham or nearby.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Taiwanese+Food+Jinjiao+Dumplings+Hussadhisawee+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Taiwanese, Dumplings
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

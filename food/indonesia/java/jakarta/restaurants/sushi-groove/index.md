@@ -22,4 +22,4 @@ Definitely not a place for sushi purists, but many of the playful fusion rolls w
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Groove+Grand+Indonesia+Jakarta)
 🍽️ **Cuisine:** Japanese, Fusion Sushi
-💰 **Price level:** moderate
+💰 **Price level:** —

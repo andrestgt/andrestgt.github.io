@@ -32,4 +32,4 @@ It’s Din Tai Fung, so naturally the dumplings are very good. Prices here feel 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Din+Tai+Fung+Central+Embassy+Bangkok)
 🍽️ **Cuisine:** Taiwanese, Dumplings
-💰 **Price level:** ฿500+ per person
+💰 **Price level:** ฿500+

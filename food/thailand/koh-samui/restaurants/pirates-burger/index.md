@@ -27,4 +27,4 @@ Welcoming little tourist/expat restaurant with burgers and Thai food. I tried th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pirates+Burger+Mae+Nam+Koh+Samui)
 🍽️ **Cuisine:** International, Thai
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

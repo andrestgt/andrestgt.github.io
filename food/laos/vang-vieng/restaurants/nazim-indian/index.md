@@ -27,4 +27,4 @@ Before coming back, I'd read all the bad reviews but still wanted to give it ano
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nazim+Indian+Restaurant+Vang+Vieng+Laos)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** moderate
+💰 **Price level:** —

@@ -38,4 +38,4 @@ Zabb One serves Isaan food adapted slightly for Bangkok tastes, meaning less chi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Zabb+One+Ratchada+Ratchadaphisek+Rd+Bangkok)
 🍽️ **Cuisine:** Isaan
-💰 **Price level:** ฿100–150 per person
+💰 **Price level:** ฿100–150

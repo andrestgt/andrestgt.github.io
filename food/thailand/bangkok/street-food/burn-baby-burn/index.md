@@ -27,4 +27,4 @@ Cool place in Rot Fai weekend market, good craft beer. Their burgers are okay, v
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Burn+Baby+Burn+Rot+Fai+Market+Bangkok)
 🍽️ **Cuisine:** Burgers, Craft Beer
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400

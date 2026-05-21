@@ -20,5 +20,4 @@ Clean and spacious Bun Bo place, conveniently located on Ngo Gia Thu. The broth 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=188+Ngô+Gia+Tự+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bún Bò
-💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

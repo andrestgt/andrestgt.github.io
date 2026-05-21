@@ -26,5 +26,4 @@ Just like Bong crazy next door, Nemo is an old school traveller eatery that does
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=42/10+Hùng+Vương+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

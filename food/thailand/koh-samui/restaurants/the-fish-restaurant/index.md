@@ -38,4 +38,4 @@ Don't be deceived by the modest ring road location and simple decor. The Thai fo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Fish+Restaurant+Mae+Nam+Koh+Samui)
 🍽️ **Cuisine:** Thai, Seafood
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

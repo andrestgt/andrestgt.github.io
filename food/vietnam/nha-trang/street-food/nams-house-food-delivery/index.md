@@ -20,5 +20,4 @@ Delivery only, but this is the best value pizza in town. I only order from them.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2/7+Gò+bầu+Vĩnh+Thạnh+Nha+Trang+Khánh+Hòa+651710+Vietnam)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** ...
-💰 **Price level:** ₫50–100k per person
+💰 **Price level:** ₫50–100k

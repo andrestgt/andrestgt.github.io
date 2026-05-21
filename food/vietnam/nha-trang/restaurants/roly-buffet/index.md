@@ -46,5 +46,4 @@ The freshly prepared banh xeo are quite nice, but the precooked dishes are not b
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hẻm+86B+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+58000+Vietnam)
 🍽️ **Cuisine:** Seafood
-💰 **Price level:** ...
-💰 **Price level:** ₫100–200k per person
+💰 **Price level:** ₫100–200k

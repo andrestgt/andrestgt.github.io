@@ -26,5 +26,4 @@ The pho here is special because it comes in separate bowls with dry noodles in o
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=22-24+Nguyễn+Văn+Trỗi+P.+Hội+Thương+Pleiku+Gia+Lai+600000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

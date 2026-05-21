@@ -32,4 +32,4 @@ Simple, tasty Hungarian comfort food at surprisingly good prices considering the
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fő+u.+8+1011+Budapest+Hungary)
 📍 Fő u. 8, 1011 Budapest, Hungary
-💰 **Price level:** budget
+💰 **Price level:** —

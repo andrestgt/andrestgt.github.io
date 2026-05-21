@@ -22,4 +22,4 @@ Very high-quality dim sum inside the impressive Helix complex at EmQuartier. Pri
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Man+Fu+Yuan+EmQuartier+Bangkok)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

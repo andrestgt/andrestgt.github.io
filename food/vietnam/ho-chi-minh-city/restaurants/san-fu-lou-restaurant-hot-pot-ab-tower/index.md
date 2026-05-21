@@ -45,5 +45,4 @@ I will definitely keep coming back here, although they charge 10% VAT on top of 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tòa+nhà+AB+Tower+76A+Lê+Lai+Phường+Phạm+Ngũ+Lão+Quận+1+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

@@ -36,4 +36,4 @@ The khao soi itself is on the lighter side, but full of flavour and very enjoyab
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khao+Soi+Maesai+Ratchaphuek+Alley+Chiang+Mai)
 🍽️ **Cuisine:** Northern Thai, Khao Soi
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

@@ -42,4 +42,4 @@ Because of its popularity, prices are a few baht higher than at very local neigh
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chiang+Rai+Night+Bazaar)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

@@ -60,4 +60,4 @@ With most of the seaview restaurants in Fisherman Village charging pretty outrag
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Red+Moon+Fisherman+Village+Bo+Put+Koh+Samui)
 🍽️ **Cuisine:** Thai, International
-💰 **Price level:** ฿300–400 per person
+💰 **Price level:** ฿300–400

@@ -38,4 +38,4 @@ Little Paradise feels like a throwback to a different era, set on an almost absu
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Little+Paradise+Mae+Nam+Koh+Samui)
 🍽️ **Cuisine:** Thai, Seafood
-💰 **Price level:** ฿150–250 per person
+💰 **Price level:** ฿150–250

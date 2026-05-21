@@ -43,4 +43,4 @@ One of the better and more stylish restaurants around Merdeka Walk, making it id
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Batiks+Merdeka+Walk+Medan)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** moderate
+💰 **Price level:** —

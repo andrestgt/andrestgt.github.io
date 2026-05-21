@@ -22,4 +22,4 @@ This place seems fallen out of time. A big simple shack by the beach serving a h
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Siriphoca+Mr+Adul+Mae+Nam+Koh+Samui)
 🍽️ **Cuisine:** Thai, Seafood
-💰 **Price level:** ฿150–200 per person
+💰 **Price level:** ฿150–200

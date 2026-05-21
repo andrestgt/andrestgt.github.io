@@ -45,5 +45,4 @@ Most dim sum dishes are around 50k.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=132+Bạch+Đằng+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Chinese · Dim Sum
-💰 **Price level:** ...
 💰 **Price level:** ₫100–200k

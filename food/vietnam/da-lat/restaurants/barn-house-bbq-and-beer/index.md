@@ -27,5 +27,4 @@ Best place for beers in Dalat. A Hoegaarden on tap goes for a mere 40k. They als
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=198+Nguyễn+Công+Trứ+Phường+8+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

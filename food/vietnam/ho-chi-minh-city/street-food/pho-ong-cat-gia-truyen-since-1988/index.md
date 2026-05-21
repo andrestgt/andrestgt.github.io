@@ -23,5 +23,4 @@ It's not bad but there's better options around.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=201+Phạm+Ngũ+Lão+Phường+Phạm+Ngũ+Lão+Quận+1+Thành+phố+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
 💰 **Price level:** ₫1–100,000

@@ -21,4 +21,4 @@ Pleasant food court that somehow never feels overcrowded, making it one of the m
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pan+Kham+Hom+The+Street+Ratchada+Bangkok)
 🍽️ **Cuisine:** Thai, Food Court
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

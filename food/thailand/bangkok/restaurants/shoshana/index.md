@@ -22,4 +22,4 @@ Shoshana has been serving large portions of reliable Middle Eastern comfort food
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Shoshana+Restaurant+Chakrabongse+Rd+Bangkok)
 🍽️ **Cuisine:** Middle Eastern
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

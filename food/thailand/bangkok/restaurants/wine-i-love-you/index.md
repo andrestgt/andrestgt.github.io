@@ -49,4 +49,4 @@ The food here is fairly generic Bangkok bistro fare, although by global standard
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wine+I+Love+You+Sukhumvit+Rd+Bangkok)
 🍽️ **Cuisine:** Wine, International
-💰 **Price level:** ฿500–800 per person
+💰 **Price level:** ฿500–800

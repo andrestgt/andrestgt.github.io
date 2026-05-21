@@ -43,4 +43,4 @@ Elegant Cantonese restaurant with excellent dim sum in far more refined surround
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Taste+Paradise+Plaza+Indonesia+Jakarta)
 🍽️ **Cuisine:** Chinese, Cantonese
-💰 **Price level:** expensive
+💰 **Price level:** —

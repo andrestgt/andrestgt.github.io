@@ -54,4 +54,4 @@ I'll go with the majority opinion here and say this is a great place with friend
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mango+Tree+Restaurant+Hampi+Karnataka+India)
 🍽️ **Cuisine:** Indian, International
-💰 **Price level:** 120–200 Rs per person
+💰 **Price level:** 120–200 Rs

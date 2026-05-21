@@ -60,5 +60,4 @@ This is the place to come when a proper bowl of phở is what you are after in C
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=263+Nguyễn+Văn+Thoại+Châu+Phú+A+Châu+Đốc+An+Giang+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

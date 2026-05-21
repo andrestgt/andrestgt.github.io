@@ -32,4 +32,4 @@ It's definitely not the friendliest place in the Philippines, but the location i
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carinderia+by+the+Bay+El+Nido+Palawan)
 🍽️ **Cuisine:** Filipino, Seafood
-💰 **Price level:** ₱200–400 per person
+💰 **Price level:** ₱200–400

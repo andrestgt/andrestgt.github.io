@@ -32,4 +32,4 @@ The pierogi are genuinely delicious, and the prices are great. It's a cute littl
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bonerowska+14+31-030+Kraków+Poland)
 📍 Bonerowska 14, 31-030 Kraków, Poland
-💰 **Price level:** budget
+💰 **Price level:** —

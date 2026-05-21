@@ -20,4 +20,4 @@ Got a delivery with Food Panda. Veg samosas, garlic naan and palak paneer. It's 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Grill+of+Punjab+Ratchamanka+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

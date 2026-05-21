@@ -36,4 +36,4 @@ I found the staff here very friendly and the free jugs of water were quickly ref
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Auf+der+Au+Garden+German+Buffet+Chiang+Mai)
 🍽️ **Cuisine:** German, Buffet
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

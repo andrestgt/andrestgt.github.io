@@ -51,4 +51,4 @@ Prices are reasonable and other dishes such as larb moo and nam tok neua are tas
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=SP+Chicken+Samlan+Rd+Phra+Sing+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Grilled Chicken
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

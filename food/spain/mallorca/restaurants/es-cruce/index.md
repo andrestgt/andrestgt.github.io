@@ -38,4 +38,4 @@ Es Cruce serves simple, honest food in huge portions at low prices, and the plac
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Es+Cruce+Vilafranca+de+Bonany+Mallorca+Spain)
 📍 Ctra. de Palma, 07250 Vilafranca de Bonany, Mallorca, Spain
-💰 **Price level:** budget
+💰 **Price level:** —

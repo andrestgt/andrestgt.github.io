@@ -86,5 +86,4 @@ I deduct one star from my previous review. This used to be my favourite place in
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1+Nguyễn+Phúc+Chu+Street+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Bia Hơi
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

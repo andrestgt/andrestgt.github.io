@@ -32,4 +32,4 @@ Publika lacks some of the better Japanese chains found elsewhere in KL, so Ichib
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ichiban+Boshi+Publika+Kuala+Lumpur+Malaysia)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** moderate
+💰 **Price level:** —

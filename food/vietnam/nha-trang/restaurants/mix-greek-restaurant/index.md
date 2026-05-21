@@ -45,5 +45,4 @@ When they first opened, it instantly became one of my favourite restaurants in t
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=181+Nguyễn+Thiện+Thuật+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Greek
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

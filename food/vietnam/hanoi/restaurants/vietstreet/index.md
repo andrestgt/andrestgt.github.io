@@ -31,5 +31,4 @@ Can you find better food hunting the streets of Hanoi? Yes, for sure. But this f
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=72A+Đ.+Nguyễn+Trãi+Thượng+Đình+Thanh+Xuân+Hà+Nội+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

@@ -26,5 +26,4 @@ If the big boys Phuong and Madam Khanh are too busy, or if you simply want a gre
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=88+Thái+Phiên+Phường+Minh+An+Hội+An+Quảng+Nam+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bánh Mì
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

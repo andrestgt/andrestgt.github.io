@@ -54,4 +54,4 @@ Wine Connection remains probably the best place for wine lovers in Thailand when
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wine+Connection+Rain+Hill+Sukhumvit+47+Bangkok)
 🍽️ **Cuisine:** Wine, Deli
-💰 **Price level:** ฿500–800 per person
+💰 **Price level:** ฿500–800

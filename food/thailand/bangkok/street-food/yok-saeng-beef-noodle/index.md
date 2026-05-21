@@ -22,4 +22,4 @@ Old-school beef noodle shop serving tender marinated meat in a clear broth. A bo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Yok+Saeng+Beef+Noodle+Bangkok)
 🍽️ **Cuisine:** Noodles
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

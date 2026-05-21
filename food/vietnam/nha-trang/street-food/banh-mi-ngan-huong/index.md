@@ -26,5 +26,4 @@ This basic hole in the wall bakery has hands down the best Banh Mi in Nha Trang.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=8+Đ.+Hồng+Bàng+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Bánh Mì
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

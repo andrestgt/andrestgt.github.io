@@ -44,5 +44,4 @@ Super fresh squid, frogs were still twitching on the plate, beef tender and gene
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=6+đường+Lương+Định+Của+Vĩnh+Ngọc+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫50–100k per person
+💰 **Price level:** ₫50–100k

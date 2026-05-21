@@ -56,4 +56,4 @@ It's not high-end sushi, but for the price, it's hard to beat.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Tei+Tunjungan+Plaza+Surabaya)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** Rp 150,000–300,000 per person
+💰 **Price level:** Rp 150,000–300,000

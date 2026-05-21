@@ -38,4 +38,4 @@ Don't get me wrong — the food here is very tasty, but it's best enjoyed as a h
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pong%27s+Pares+El+Nido+Palawan)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** ₱200–400 per person
+💰 **Price level:** ₱200–400

@@ -36,4 +36,4 @@ There's a good selection of classic Thai salads on offer, including chicken feet
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Krua+Rim+Khlong+Kamphaeng+Din+Alley+Chiang+Mai)
 🍽️ **Cuisine:** Thai, Street Food
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

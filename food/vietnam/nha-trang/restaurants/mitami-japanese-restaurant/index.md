@@ -64,5 +64,4 @@ Mitami is a good friendly Japanese restaurant in the tourist area that has only 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=72+Nguyễn+Thị+Minh+Khai+Tân+Tiến+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** ...
 💰 **Price level:** ₫200–300k

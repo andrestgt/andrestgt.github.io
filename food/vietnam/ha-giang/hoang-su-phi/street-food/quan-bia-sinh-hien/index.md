@@ -27,5 +27,4 @@ Good place to eat and drink. They have a pretty fancy and intricate Korean style
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=PMQH+XCF+ĐT178+TT.+Vinh+Quang+Hoàng+Su+Phì+Hà+Giang+Vietnam)
 🍽️ **Cuisine:** Korean
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

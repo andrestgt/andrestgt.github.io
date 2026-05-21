@@ -37,5 +37,4 @@ This neat, modern eatery serves very good bowl of Northern style Pho (both beef 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R36W+XWF+Phường+5+Đông+Hà+Quảng+Trị+Vietnam)
 🍽️ **Cuisine:** Vietnamese · Phở
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

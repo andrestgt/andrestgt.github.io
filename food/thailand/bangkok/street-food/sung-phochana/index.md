@@ -38,4 +38,4 @@ Excellent beef noodle soup served in a lovely setting beside the canal. A genero
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sung+Phochana+Phraya+Si+Bangkok)
 🍽️ **Cuisine:** Thai, Noodles
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100

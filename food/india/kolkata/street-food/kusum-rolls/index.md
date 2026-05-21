@@ -22,4 +22,4 @@ This is the Kolkata version of a doner kebab — you know you want it, and it's 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kusum+Roll%27s+Park+Street+Kolkata+India)
 🍽️ **Cuisine:** Indian, Kathi Rolls
-💰 **Price level:** Very inexpensive
+💰 **Price level:** —

@@ -26,5 +26,4 @@ Small sausage eatery with rather mediocre homemade sausages, mostly German style
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=290/b7/5T4+Duong+Ba+Trac+Phường+Rạch+Ông+Quận+8+Thành+phố+Hồ+Chí+Minh+Vietnam)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

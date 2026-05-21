@@ -41,4 +41,4 @@ Jiraporn Shop serves delicious local food in a beautiful non-touristy riverside 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jiraporn+Shop+Chiang+Rai+riverside)
 🍽️ **Cuisine:** Thai
-💰 **Price level:** ฿100–200 per person
+💰 **Price level:** ฿100–200

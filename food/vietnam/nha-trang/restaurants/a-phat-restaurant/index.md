@@ -52,5 +52,4 @@ The Vinh Diem Trung / Phu Nong area of Nha Trang has seen recent openings of som
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=68+Đường+P2+Vĩnh+Ngọc+Nha+Trang+Khánh+Hòa+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫100–200k per person
+💰 **Price level:** ₫100–200k

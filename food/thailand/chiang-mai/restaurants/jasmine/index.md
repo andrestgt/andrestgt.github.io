@@ -32,4 +32,4 @@ Dim sum places are surprisingly scarce in Chiang Mai, so this fading old fashion
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Jasmine+Restaurant+Changklan+Rd+Chiang+Mai)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300

@@ -26,5 +26,4 @@ Cheap as chips and really good food. Anyone travelling the Ho Chi Minh trail and
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=76CM+X4R+A+Lưới+Thừa+Thiên+Huế+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

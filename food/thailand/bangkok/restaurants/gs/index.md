@@ -43,4 +43,4 @@ Despite the none too salubrious location this super friendly German Kneipe is a 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=G%27s+Silom+4+Alley+Bang+Rak+Bangkok)
 🍽️ **Cuisine:** German, Thai
-💰 **Price level:** ฿400–600 per person
+💰 **Price level:** ฿400–600

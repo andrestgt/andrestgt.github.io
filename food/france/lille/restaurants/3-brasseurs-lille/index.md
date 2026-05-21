@@ -27,4 +27,4 @@ The area around Lille Flandres station is not the most pleasant part of the city
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=22+Pl.+de+la+Gare+59800+Lille+France)
 📍 22 Pl. de la Gare, 59800 Lille, France
-💰 **Price level:** moderate
+💰 **Price level:** —

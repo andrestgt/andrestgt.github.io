@@ -37,5 +37,5 @@ I went for lunch on a Wednesday and the place was almost empty. A grumpy old lad
 
 🍽️ **Cuisine:** Northern Thai, Khao Soi
 
-💰 **Price level:** ฿50–100 per person
+💰 **Price level:** ฿50–100
 

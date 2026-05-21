@@ -21,4 +21,4 @@ Convenient modern noodle and dim sum place on Phra Sumen Road. Unfortunately, pr
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=HongKong+Dimsum+Noodle+Phra+Sumen+Rd+Bangkok)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** ฿200–300 per person
+💰 **Price level:** ฿200–300
