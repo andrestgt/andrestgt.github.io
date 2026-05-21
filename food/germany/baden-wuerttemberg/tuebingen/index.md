@@ -4,7 +4,7 @@ section: food
 city: tuebingen
 slug: tuebingen
 title: Tübingen
-subtitle: Essen & Trinken in Tübingen
+subtitle: Food & Drink in Tübingen
 ---
 
 # Tübingen
