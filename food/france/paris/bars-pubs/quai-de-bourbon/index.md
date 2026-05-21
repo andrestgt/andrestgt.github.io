@@ -17,10 +17,10 @@ Nice place on Île Saint-Louis for a glass of wine and some homemade dips. Consi
 
 | Category        | Score |
 | ---             | ---   |
-| Drinks          | 8/10  |
+| Food and Drinks | 7.5/10  |
 | Service         | 7/10  |
 | Value for money | 7/10  |
-| Atmosphere      | 9/10  |
+| Atmosphere      | 8/10  |
 | Overall         | 8/10  |
 
 ### Practical
