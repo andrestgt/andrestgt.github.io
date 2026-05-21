@@ -22,4 +22,4 @@ A decent place in Salzburg's Old Town with reasonable prices and good Flammkuche
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Max+Salzburg+Austria)
-💰 **Price level:** €40–60
+💰 **Price level:** €30–40
