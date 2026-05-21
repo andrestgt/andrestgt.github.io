@@ -32,4 +32,4 @@ Fantastic ikan pepes. A must try. This place has survived for years despite the 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bollero+Resto+Bar+Jl+Dewisita+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** —
+💰 **Price level:** Rp 150,000–250,000

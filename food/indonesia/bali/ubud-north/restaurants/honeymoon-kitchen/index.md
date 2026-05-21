@@ -22,4 +22,4 @@ Beautifully designed place, ideal for a small meal. Net prices. Nasi campur is l
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Honeymoon+Kitchen+Jl+Bisma+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** —
+💰 **Price level:** Rp 150,000–250,000

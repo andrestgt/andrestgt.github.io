@@ -43,4 +43,4 @@ The same dependable quality found at Sushi Zanmai branches in Kuala Lumpur. Pric
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Zanmai+Vivacity+Megamall+Kuching+Malaysia)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** —
+💰 **Price level:** RM 60–90

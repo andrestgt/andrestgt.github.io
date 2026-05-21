@@ -60,4 +60,4 @@ Atmospheric and popular restaurant inside the old town walls serving very good l
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kukučínova+2+054+01+Levoča+Slovakia)
 📍 Kukučínova 2, 054 01 Levoča, Slovakia
-💰 **Price level:** —
+💰 **Price level:** €8–15

@@ -32,4 +32,4 @@ We ordered two starters here and the portions were so huge they could practicall
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+da+Junqueira+472+1300-341+Lisboa+Portugal)
 📍 R. da Junqueira 472, 1300-341 Lisboa, Portugal
-💰 **Price level:** —
+💰 **Price level:** €25–40

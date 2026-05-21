@@ -27,4 +27,4 @@ Delicious lassis made from pure buffalo milk, lots of choices, very atmospheric 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Balu+Natural+Lassi+Shop+Bangali+Tola+Varanasi+India)
 🍽️ **Cuisine:** Indian, Lassi
-💰 **Price level:** —
+💰 **Price level:** Rs 50–100

@@ -23,4 +23,4 @@ Excellent location and a very pleasant place either for a full meal or simply so
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kagiampi+9+Iraklio+712+01+Greece)
 📍 Kagiampi 9, Iraklio 712 01, Greece
-💰 **Price level:** —
+💰 **Price level:** €25–40

@@ -49,4 +49,4 @@ The food here is traditional and good without being especially refined. The real
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Es+Fossar+3+07510+Sineu+Mallorca+Spain)
 📍 Es Fossar, 3, 07510 Sineu, Mallorca, Spain
-💰 **Price level:** —
+💰 **Price level:** €25–40

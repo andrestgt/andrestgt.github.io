@@ -56,4 +56,4 @@ Despite the prime tourist location, Vasiliki Kouzina serves honest Mediterranean
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Κεφαλογιάννηδων+27+Rethymno+741+31+Greece)
 📍 Κεφαλογιάννηδων 27, Rethymno 741 31, Greece
-💰 **Price level:** —
+💰 **Price level:** €25–40

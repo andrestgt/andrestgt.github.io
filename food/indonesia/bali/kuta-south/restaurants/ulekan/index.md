@@ -32,4 +32,4 @@ Pleasant countryside dining, great concept with the small dishes, so it's possib
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ulekan+Jl+Tegal+Sari+Pantai+Berawa+Tibubeneng+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** —
+💰 **Price level:** Rp 250,000–400,000

@@ -65,4 +65,4 @@ The most famous roast duck place in Ubud has magical rice paddy views from its b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bebek+Bengil+Jl+Hanoman+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian, Duck
-💰 **Price level:** —
+💰 **Price level:** Rp 350,000–500,000

@@ -43,4 +43,4 @@ Tascardoso is a small local eatery serving huge portions of simple, tasty food a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rua+de+O+Século+242+1250-095+Lisboa+Portugal)
 📍 Rua de O Século 242, 1250-095 Lisboa, Portugal
-💰 **Price level:** —
+💰 **Price level:** €12–20

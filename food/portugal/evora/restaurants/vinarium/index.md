@@ -38,4 +38,4 @@ Vinarium is a lovely little wine bar, small and intimate, with a good selection 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Praça+1+de+Maio+27+7000-650+Évora+Portugal)
 📍 Praça 1º de Maio 27, 7000-650 Évora, Portugal
-💰 **Price level:** —
+💰 **Price level:** €25–40

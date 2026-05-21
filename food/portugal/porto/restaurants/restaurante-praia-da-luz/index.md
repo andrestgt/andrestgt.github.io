@@ -23,4 +23,4 @@ Rather fancy restaurant by the beach with excellent sea views and very comfortab
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+Cel.+Raúl+Peres+4150-155+Porto+Portugal)
 📍 R. Cel. Raúl Peres, 4150-155 Porto, Portugal
-💰 **Price level:** —
+💰 **Price level:** €35–55

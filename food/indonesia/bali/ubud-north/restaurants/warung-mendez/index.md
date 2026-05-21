@@ -60,4 +60,4 @@ Very good choice in Penestanan, especially for their gorgeous BBQ goat leg with 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Warung+Mendez+Sayan+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** —
+💰 **Price level:** Rp 100,000–150,000

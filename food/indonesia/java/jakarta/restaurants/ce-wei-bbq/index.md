@@ -38,4 +38,4 @@ The 50% dim sum discount between 10 am and noon makes this arguably one of the b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ce+Wei+BBQ+Restaurant+Kelapa+Gading+Jakarta)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** Rp 100,000–150,000

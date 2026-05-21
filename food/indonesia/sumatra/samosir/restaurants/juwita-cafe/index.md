@@ -22,4 +22,4 @@ With its attractive garden and pleasant terrace overlooking the lake, this is on
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Juwita+Cafe+Tuktuk+Samosir+Lake+Toba)
 🍽️ **Cuisine:** Indonesian, Batak
-💰 **Price level:** —
+💰 **Price level:** Rp 50,000–100,000

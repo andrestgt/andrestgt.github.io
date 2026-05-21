@@ -32,4 +32,4 @@ This beautiful, reed-thatched old farmhouse seems to be the only restaurant in t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kossuth+Lajos+u.+65+8649+Balatonberény+Hungary)
 📍 Kossuth Lajos u. 65, 8649 Balatonberény, Hungary
-💰 **Price level:** —
+💰 **Price level:** Ft 5,000–8,000

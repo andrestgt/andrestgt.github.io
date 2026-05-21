@@ -38,4 +38,4 @@ What I like about Alsace is that you can just turn up in some nondescript villag
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=9+Rue+du+Premier+Décembre+67230+Sermersheim+France)
 📍 9 Rue du Premier Décembre, 67230 Sermersheim, France
-💰 **Price level:** —
+💰 **Price level:** €30–50

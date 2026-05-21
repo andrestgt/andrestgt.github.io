@@ -49,4 +49,4 @@ This is a tiny Georgian restaurant with just a few tables, and it's quite hard t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=32+Rue+de+Puebla+59800+Lille+France)
 📍 32 Rue de Puebla, 59800 Lille, France
-💰 **Price level:** —
+💰 **Price level:** €40–60

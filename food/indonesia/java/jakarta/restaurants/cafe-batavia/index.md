@@ -32,4 +32,4 @@ This is one of those places where you simply have to accept the prices and come 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Batavia+Kota+Jakarta)
 🍽️ **Cuisine:** Indonesian, International
-💰 **Price level:** —
+💰 **Price level:** Rp 300,000–500,000

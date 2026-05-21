@@ -38,4 +38,4 @@ La Fonda is unapologetically aimed at tourists, but the prices remain surprising
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+dels+Escudellers+10+Ciutat+Vella+08002+Barcelona+Spain)
 📍 Carrer dels Escudellers, 10, Ciutat Vella, 08002 Barcelona, Spain
-💰 **Price level:** —
+💰 **Price level:** €20–30

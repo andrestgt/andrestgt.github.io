@@ -27,4 +27,4 @@ Cute little bistro serving good tibornas and other small dishes. The cocktails a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+do+Cais+de+Santarém+30+1100-603+Lisboa+Portugal)
 📍 R. do Cais de Santarém 30, 1100-603 Lisboa, Portugal
-💰 **Price level:** —
+💰 **Price level:** €20–35

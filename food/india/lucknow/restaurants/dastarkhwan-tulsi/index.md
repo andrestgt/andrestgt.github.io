@@ -38,4 +38,4 @@ This rather basic place is so popular that you might have to wait for a table ev
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dastarkhwan+Tulsi+Theatre+Lucknow+India)
 🍽️ **Cuisine:** Awadhi, Indian
-💰 **Price level:** —
+💰 **Price level:** Rs 500–900

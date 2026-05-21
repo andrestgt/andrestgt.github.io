@@ -38,4 +38,4 @@ Attractive little tapas and wine bar overlooking the Douro, with vintage trams p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=R.+do+Passeio+Alegre+294+4150-571+Porto+Portugal)
 📍 R. do Passeio Alegre 294, 4150-571 Porto, Portugal
-💰 **Price level:** —
+💰 **Price level:** €45–65

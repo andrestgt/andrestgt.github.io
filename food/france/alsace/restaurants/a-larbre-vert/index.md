@@ -39,4 +39,4 @@ It's genuinely difficult to find even mediocre food in Alsace, and this place is
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2+Rue+Principale+57230+Baerenthal+France)
 📍 2 Rue Principale, 57230 Baerenthal, France
-💰 **Price level:** —
+💰 **Price level:** €30–50

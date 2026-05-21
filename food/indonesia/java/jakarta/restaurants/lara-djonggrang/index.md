@@ -76,4 +76,4 @@ Quite possibly Jakarta’s most atmospheric restaurant. The extraordinary interi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lara+Djonggrang+Menteng+Jakarta)
 🍽️ **Cuisine:** Indonesian, Fine Dining
-💰 **Price level:** —
+💰 **Price level:** Rp 400,000–600,000

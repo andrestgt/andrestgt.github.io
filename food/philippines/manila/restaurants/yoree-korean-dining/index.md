@@ -38,4 +38,4 @@ The food and service at Yoree are both perfectly good, but I'm not entirely conv
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Yoree+Korean+Dining+7th+Avenue+BGC+Taguig+Manila)
 🍽️ **Cuisine:** Korean BBQ
-💰 **Price level:** —
+💰 **Price level:** ₱800–1,200

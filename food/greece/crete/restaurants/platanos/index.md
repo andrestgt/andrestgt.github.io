@@ -37,4 +37,4 @@ During the evenings this place seems to cater heavily to organised tour groups, 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Platanos+taverna+Crete+Greece)
-💰 **Price level:** —
+💰 **Price level:** €25–40

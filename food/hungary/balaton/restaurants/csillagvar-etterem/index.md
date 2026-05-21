@@ -49,4 +49,4 @@ This is the place to go in the area if you're looking for huge portions at rock-
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Berzsenyi+Dániel+utca+50+8710+Balatonszentgyörgy+Hungary)
 📍 Berzsenyi Dániel utca 50-58, 8710 Balatonszentgyörgy, Hungary
-💰 **Price level:** —
+💰 **Price level:** Ft 3,000–5,000

@@ -38,4 +38,4 @@ The Thai duck appetiser is particularly good here, and while the dim sum may not
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Max+Cafe+Penang+Malaysia)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** RM 25–40

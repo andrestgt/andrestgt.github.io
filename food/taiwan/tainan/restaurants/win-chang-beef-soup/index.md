@@ -27,4 +27,4 @@ Bone broth with fresh beef. Most famous in town and tasty for sure. Some carbs o
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Win+Chang+Beef+Soup+Anping+Tainan+Taiwan)
 🍽️ **Cuisine:** Taiwanese, Beef Soup
-💰 **Price level:** —
+💰 **Price level:** NT$200–280
