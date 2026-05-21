@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Max
 subtitle: Salzburg · Restaurant
 ---
