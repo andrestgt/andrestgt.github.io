@@ -4,7 +4,7 @@ section: food
 city: schwarzwald
 slug: schwarzwald
 title: Schwarzwald
-subtitle: Essen & Trinken in Schwarzwald
+subtitle: Food & Drink in the Black Forest
 ---
 
 # Schwarzwald
