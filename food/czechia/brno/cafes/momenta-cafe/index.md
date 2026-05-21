@@ -7,7 +7,7 @@ subtitle: Brno · Café
 ---
 
 <figure>
-  <img src="/photos/czechia/brno/momenta-cafe-1.jpg" alt="Momenta Cafe">
+  <img src="/photos/czechia/brno/momenta-cafe-3.jpg" alt="Momenta Cafe">
   <figcaption>Momenta Cafe</figcaption>
 </figure>
 
@@ -18,8 +18,8 @@ Probably the nicest café in Brno. Thankfully, it avoids the usual hipster style
   <img src="/photos/czechia/brno/momenta-cafe-2.jpg" alt="Momenta Cafe">
   <figcaption>Momenta Cafe</figcaption>
 </figure>
-<figure>
-  <img src="/photos/czechia/brno/momenta-cafe-3.jpg" alt="Momenta Cafe">
+  <figure>
+  <img src="/photos/czechia/brno/momenta-cafe-1.jpg" alt="Momenta Cafe">
   <figcaption>Momenta Cafe</figcaption>
 </figure>
 </div>
