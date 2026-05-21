@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Footprint Cafes
 subtitle: Wat Bo, Siem Reap · Café
 ---

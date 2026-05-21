@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Eric Kayser Quayside
 subtitle: Sisowath Quay, Phnom Penh · Bakery, Café
 ---

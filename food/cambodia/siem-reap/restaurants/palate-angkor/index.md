@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Palate Angkor Restaurant & Bar
 subtitle: Acha Sva Rd, Siem Reap · Khmer Fusion
 ---

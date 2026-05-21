@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Nimol
 subtitle: Preah Ang Yukanthor St, Phnom Penh · Khmer
 ---

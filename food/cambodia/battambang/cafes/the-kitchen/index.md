@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Kitchen
 subtitle: Old Town, Battambang · Café, Restaurant
 ---

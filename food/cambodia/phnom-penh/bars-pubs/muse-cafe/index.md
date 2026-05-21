@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Muse Café & Lounge
 subtitle: Street 178, Phnom Penh · Bar
 ---

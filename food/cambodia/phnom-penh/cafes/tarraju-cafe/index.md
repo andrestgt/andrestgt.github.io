@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Tarraju Café
 subtitle: Street 370, Phnom Penh · Café
 ---

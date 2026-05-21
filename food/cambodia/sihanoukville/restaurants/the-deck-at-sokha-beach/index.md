@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Deck at Sokha Beach
 subtitle: Sihanoukville · Seafood, International
 ---

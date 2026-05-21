@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Comme à la Maison
 subtitle: Street 57, Phnom Penh · French
 ---

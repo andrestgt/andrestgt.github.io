@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Pink Elephant Happy Pizza
 subtitle: Sisowath Quay, Phnom Penh · Pizza, Khmer
 ---

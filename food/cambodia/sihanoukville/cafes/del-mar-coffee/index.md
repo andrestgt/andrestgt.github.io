@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Del Mar Pastry & Coffee
 subtitle: Ekareach St, Sihanoukville · Café
 ---

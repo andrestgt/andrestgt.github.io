@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Common Grounds Café
 subtitle: Street 14, Siem Reap · Café
 ---

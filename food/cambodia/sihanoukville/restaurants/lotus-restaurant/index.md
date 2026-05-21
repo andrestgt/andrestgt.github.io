@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: LOTUS Restaurant
 subtitle: Independence Beach, Sihanoukville · Chinese, Dim Sum
 ---

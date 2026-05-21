@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Kinyei Cafe
 subtitle: Street 1.5, Battambang · Café
 ---

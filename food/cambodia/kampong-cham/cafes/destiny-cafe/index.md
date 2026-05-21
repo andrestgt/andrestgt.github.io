@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Destiny Café
 subtitle: Rue Pasteur, Kampong Cham · Café
 ---

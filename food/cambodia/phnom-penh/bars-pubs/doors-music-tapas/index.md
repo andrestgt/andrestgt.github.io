@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Doors Music + Tapas
 subtitle: Street 47, Phnom Penh · Bar, Tapas
 ---

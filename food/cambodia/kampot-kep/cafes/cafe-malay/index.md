@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Café Malay – The Garden Café
 subtitle: Kampot · Café
 ---

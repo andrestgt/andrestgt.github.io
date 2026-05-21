@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Da Roberto L'Oasi Italiana
 subtitle: Riverside, Siem Reap · Italian
 ---

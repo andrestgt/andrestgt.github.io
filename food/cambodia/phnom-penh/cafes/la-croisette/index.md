@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: La Croisette Phnom Penh
 subtitle: Riverside · Café
 ---

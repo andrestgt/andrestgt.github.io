@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Digby's
 subtitle: Preah Trasak Paem St, Phnom Penh · Café
 ---

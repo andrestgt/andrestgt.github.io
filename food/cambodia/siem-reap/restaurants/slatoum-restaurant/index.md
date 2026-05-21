@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Rohatt Café
 subtitle: Wat Bo · Khmer
 ---

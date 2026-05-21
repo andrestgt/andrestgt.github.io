@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Friends the Restaurant
 subtitle: Street 13, Phnom Penh · International
 ---

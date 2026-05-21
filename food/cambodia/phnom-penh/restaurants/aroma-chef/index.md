@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Aroma Chef Restaurant and Bar
 subtitle: Street 172, Phnom Penh · Bar, Khmer
 ---

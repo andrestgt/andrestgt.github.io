@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Divino Italian Restaurant
 subtitle: Fish Island Rd, Kampot · Italian
 ---

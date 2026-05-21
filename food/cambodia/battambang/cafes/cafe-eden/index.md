@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Cafe Eden
 subtitle: Riverside Rd, Battambang · Café
 ---

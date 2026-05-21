@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Feel Good Café
 subtitle: Street 136, Phnom Penh · Café
 ---

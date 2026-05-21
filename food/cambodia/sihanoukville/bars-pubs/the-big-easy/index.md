@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Big Easy
 subtitle: Mittapheap St, Sihanoukville · Bar
 ---

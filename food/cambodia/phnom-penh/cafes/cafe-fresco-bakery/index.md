@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Cafe Fresco Bakery
 subtitle: Sisowath Quay, Phnom Penh · Café
 ---

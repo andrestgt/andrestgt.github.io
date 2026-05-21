@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Vanakkam India
 subtitle: 2 Thnou St, Siem Reap · Indian
 ---

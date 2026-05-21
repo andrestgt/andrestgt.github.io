@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Touich Restaurant
 subtitle: Angkor Tree St, Siem Reap · Khmer
 ---

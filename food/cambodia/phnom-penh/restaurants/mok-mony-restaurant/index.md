@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Mok Mony Restaurant
 subtitle: Street 294, Phnom Penh · Khmer
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Jaan Bai Restaurant
 subtitle: Street 2, Battambang · Pan-Asian
 ---

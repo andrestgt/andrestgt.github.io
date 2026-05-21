@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Dim Sum Emperors
 subtitle: Central Market, Phnom Penh · Chinese
 ---

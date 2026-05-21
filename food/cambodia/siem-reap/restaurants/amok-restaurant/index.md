@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Amok Restaurant
 subtitle: Street 08, Siem Reap · Khmer
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Otres Steak House
 subtitle: Otres Village, Sihanoukville · Khmer, International
 ---

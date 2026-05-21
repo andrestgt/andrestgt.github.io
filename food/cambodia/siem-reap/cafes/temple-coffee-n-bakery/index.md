@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Temple Coffee n Bakery
 subtitle: Street 25, Siem Reap · Café
 ---

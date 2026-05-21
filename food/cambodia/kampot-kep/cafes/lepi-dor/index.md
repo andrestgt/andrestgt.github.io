@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: L'Epi d'Or
 subtitle: Kampot · Bakery, Café
 ---

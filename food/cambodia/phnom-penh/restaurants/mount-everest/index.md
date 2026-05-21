@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Mount Everest
 subtitle: Street 294, Phnom Penh · Indian
 ---

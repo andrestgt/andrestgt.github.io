@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Chanrey Tree
 subtitle: Pokambor Ave, Siem Reap · Khmer
 ---

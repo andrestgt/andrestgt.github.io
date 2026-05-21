@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Olive Cuisine de Saison
 subtitle: Old Town, Siem Reap · Mediterranean, French
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Otres Sailing Club
 subtitle: Marina Rd, Sihanoukville · Bar
 ---

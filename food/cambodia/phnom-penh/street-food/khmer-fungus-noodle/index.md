@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Khmer Fungus Noodle
 subtitle: Sisowath area, Phnom Penh · Khmer
 ---

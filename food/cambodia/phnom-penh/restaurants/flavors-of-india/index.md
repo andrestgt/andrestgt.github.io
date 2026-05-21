@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Flavors of India
 subtitle: Street 63, Phnom Penh · Indian
 ---

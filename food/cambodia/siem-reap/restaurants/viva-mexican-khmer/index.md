@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: ¡Viva! Fine Mexican and Khmer Cuisine
 subtitle: Old Market · Mexican, Khmer
 ---

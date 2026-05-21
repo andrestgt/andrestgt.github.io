@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Rikitikitavi
 subtitle: Riverside Rd, Kampot · Khmer Fusion
 ---

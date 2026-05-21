@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Eleven One Kitchen
 subtitle: Toul Tom Poung, Phnom Penh · Khmer
 ---

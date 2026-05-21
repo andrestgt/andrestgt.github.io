@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Khin's Shack
 subtitle: Otres Beach, Sihanoukville · Seafood
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Mamma Shop Italian Restaurant
 subtitle: Hap Guan St, Siem Reap · Italian
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Taj Mahal
 subtitle: Street 2, Siem Reap · Indian
 ---
