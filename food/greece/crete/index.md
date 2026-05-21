@@ -2,8 +2,10 @@
 layout: default
 section: food
 city: crete
+slug: crete
 title: Crete
-subtitle: Food & drink in Crete
+subtitle: Food & Drink in Crete
+hero: /photos/background/cretehero.jpg
 ---
 
 # Crete
