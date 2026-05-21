@@ -15,7 +15,7 @@ Coffee Island serves decent coffee at very fair prices, with cappuccino costing 
 | ---             | ---    |
 | Coffee          | 6/10   |
 | Service         | 6/10   |
-| Value for money | 9/10   |
+| Value for money | 8/10   |
 | Atmosphere      | 5/10   |
 | Overall         | 6.5/10 |
 
