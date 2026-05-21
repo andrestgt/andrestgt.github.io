@@ -15,10 +15,6 @@ Small village taverna with gorgeous mountain views and very friendly service. Th
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/greece/crete/panorama-cafe-taverna-2.jpg" alt="Panorama Cafe – Taverna">
-  <figcaption>Panorama Cafe – Taverna</figcaption>
-</figure>
-<figure>
   <img src="/photos/greece/crete/panorama-cafe-taverna-3.jpg" alt="Panorama Cafe – Taverna">
   <figcaption>Panorama Cafe – Taverna</figcaption>
 </figure>
@@ -34,10 +30,10 @@ Small village taverna with gorgeous mountain views and very friendly service. Th
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10 |
-| Service         | 8/10   |
+| Service         | 9/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 9.5/10 |
-| Overall         | 9/10   |
+| Atmosphere      | 9/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
