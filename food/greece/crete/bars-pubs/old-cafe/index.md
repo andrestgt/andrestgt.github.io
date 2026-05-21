@@ -6,7 +6,7 @@ title: Old Cafe
 subtitle: Iraklion · Wine Bar
 ---
 <figure>
-  <img src="/photos/greece/crete/Crete17-0615.jpeg" alt="Old Café">
+  <img src="/photos/greece/crete/Crete17-0615.jpg" alt="Old Café">
   <figcaption>Old Café</figcaption>
 </figure>
 
