@@ -15,10 +15,6 @@ Blue House is a highly recommended restaurant in a wonderful setting with genuin
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/greece/crete/blue-house-2.jpg" alt="Blue House Hotel and Restaurant">
-  <figcaption>Blue House Hotel and Restaurant</figcaption>
-</figure>
-<figure>
   <img src="/photos/greece/crete/blue-house-3.jpg" alt="Blue House Hotel and Restaurant">
   <figcaption>Blue House Hotel and Restaurant</figcaption>
 </figure>
@@ -29,9 +25,9 @@ Blue House is a highly recommended restaurant in a wonderful setting with genuin
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10 |
-| Service         | 9/10   |
+| Service         | 8.5/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 9.5/10 |
+| Atmosphere      | 9/10 |
 | Overall         | 9/10   |
 
 ### Practical
