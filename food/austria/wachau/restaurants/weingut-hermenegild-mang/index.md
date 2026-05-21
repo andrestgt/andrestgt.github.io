@@ -32,4 +32,4 @@ A beautiful winery and Gasthof in a picturesque village in the Wachau. It's a la
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Landstraße+38+3610+Weißenkirchen+Wachau+Austria)
 📍 Landstraße 38, 3610 Weißenkirchen in der Wachau, Austria
-💰 **Price level:** 10-20 €
+💰 **Price level:** 20-30 €
