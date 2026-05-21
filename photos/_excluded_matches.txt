@@ -1,0 +1,13 @@
+# apply_all_photos.py denylist — one entry per line:
+#   slug | caption-or-keyword
+# Entries here are treated as EXPLICIT_SKIP at startup.
+# Add a line here instead of editing the Python script when a false-positive
+# match must be permanently blocked. The slug is the venue directory name;
+# the caption is the Takeout venue string (case-insensitive, diacritics stripped).
+
+# ── Cambodia false positives ──────────────────────────────────────────────────
+lucky-corner-restaurant | Lucky
+dim-sum-emperors-tk | Dim Sum Emperors
+dim-sum-emperors-tk | Dim Sum Emperors @ TK Avenue
+khmer-delight-restaurant | Khmer House
+khmer-delight-restaurant | Khmer Delight

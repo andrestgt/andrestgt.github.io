@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Khmer Delight Restaurant
 subtitle: Street 119, Battambang · Khmer
 ---

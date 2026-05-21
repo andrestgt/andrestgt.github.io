@@ -2,14 +2,10 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Lucky Corner Restaurant
 subtitle: Sisowath Quay, Phnom Penh · Bar
 ---
-
-<figure>
-  <img src="/photos/cambodia/phnom-penh/lucky-corner-restaurant-1.jpg" alt="Lucky Corner Restaurant">
-  <figcaption>Lucky Corner Restaurant</figcaption>
-</figure>
 
 Lucky Corner has a prime corner location right on Sisowath Quay and is an easy place to stop for a drink along the riverside. Drinks are cheap all day, the wifi is free, and the cushioned wicker chairs are surprisingly comfortable.
 
