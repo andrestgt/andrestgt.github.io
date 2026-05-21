@@ -1,9 +1,9 @@
----
-layout: default
-section: food
-review: true
-title: Quan Bui - Original
-subtitle: Bến Nghé · Vietnamese
+---
+layout: default
+section: food
+review: true
+title: Quan Bui - Original
+subtitle: Bến Nghé · Vietnamese
 ---
 
 <figure>
@@ -11,31 +11,31 @@ subtitle: Bến Nghé · Vietnamese
   <figcaption>Quan Bui - Original</figcaption>
 </figure>
 
-
-
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-original-1.jpg" alt="Quan Bui - Original">
-  <figcaption>Quan Bui - Original</figcaption>
-</figure>
-
-This restaurant is popular with both locals and tourists. It offers a good variety of classic Vietnamese dishes, all well-prepared, at moderate prices. The appetizer platter is a little inconsistent, but the main dishes are generally very good. The atmosphere is nice, making it a solid choice for first-time visitors looking to try local food. They have an even nicer garden restaurant in Thao Dien.
-
-<figure>
-  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-original-2.jpg" alt="Quan Bui - Original">
-  <figcaption>Quan Bui - Original</figcaption>
-</figure>
-
-## Ratings
-
-| Category | Score |
-|---|---|
-| Food | 8/10 |
-| Service | 10/10 |
-| Value for money | 8/10 |
-| Atmosphere | 10/10 |
-| Overall | 8/10 |
-
-### Practical
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=19+Ngô+Văn+Năm+Bến+Nghé+Quận+1+Thành+phố+Hồ+Chí+Minh+700000+Vietnam)
-🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
+
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-original-1.jpg" alt="Quan Bui - Original">
+  <figcaption>Quan Bui - Original</figcaption>
+</figure>
+
+This restaurant is popular with both locals and tourists. It offers a good variety of classic Vietnamese dishes, all well-prepared, at moderate prices. The appetizer platter is a little inconsistent, but the main dishes are generally very good. The atmosphere is nice, making it a solid choice for first-time visitors looking to try local food. They have an even nicer garden restaurant in Thao Dien.
+
+<figure>
+  <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-original-2.jpg" alt="Quan Bui - Original">
+  <figcaption>Quan Bui - Original</figcaption>
+</figure>
+
+## Ratings
+
+| Category | Score |
+|---|---|
+| Food | 8/10 |
+| Service | 10/10 |
+| Value for money | 8/10 |
+| Atmosphere | 10/10 |
+| Overall | 8/10 |
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=19+Ngô+Văn+Năm+Bến+Nghé+Quận+1+Thành+phố+Hồ+Chí+Minh+700000+Vietnam)
+🍽️ **Cuisine:** Vietnamese
+💰 **Price level:** ...
