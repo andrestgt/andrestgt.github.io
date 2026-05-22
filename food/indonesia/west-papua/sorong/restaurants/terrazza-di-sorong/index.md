@@ -39,4 +39,4 @@ By Italian standards, decent. By Papua standards, very good.
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Restaurant+Terrazza+di+Sorong)
 🍽️ **Cuisine:** Italian, Pizza, Pasta
 💰 **Price level:** Rp 200,000–250,000
-0
+
