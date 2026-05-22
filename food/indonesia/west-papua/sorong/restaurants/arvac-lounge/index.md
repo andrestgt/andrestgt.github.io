@@ -36,4 +36,4 @@ There's a minimum spend of around 80K, so it's not really worth coming just for 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Arvac+Lounge+Cafe+Sorong+Airport)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Rp 75,000–100,000
+💰 **Price level:** Rp 150,000–200,000
