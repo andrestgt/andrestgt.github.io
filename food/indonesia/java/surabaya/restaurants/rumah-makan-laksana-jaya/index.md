@@ -31,4 +31,4 @@ It's not the cheapest place for this kind of food in town, but still reasonably 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rumah+Makan+Laksana+Jaya+II+Surabaya)
 🍽️ **Cuisine:** East Javanese, Indonesian
-💰 **Price level:** Rp 75,000–100,000
+💰 **Price level:** Rp 125,000–200,000
