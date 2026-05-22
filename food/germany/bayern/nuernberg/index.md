@@ -10,5 +10,4 @@ subtitle: Essen & Trinken in Nuremberg
 # Nuremberg
 
 - [Cafés](/food/germany/bayern/nuernberg/cafes/)
-- [Cafés](/food/germany/bayern/nuernberg/cafes/)
 - [Restaurants](/food/germany/bayern/nuernberg/restaurants/)
