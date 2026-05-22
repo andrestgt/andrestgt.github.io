@@ -24,8 +24,8 @@ This is one of those places where you simply have to accept the prices and come 
 | ---             | ---    |
 | Food            | 7/10   |
 | Service         | 7.5/10 |
-| Value for money | 5.5/10 |
-| Atmosphere      | 9.5/10 |
+| Value for money | 6.5/10 |
+| Atmosphere      | 9/10 |
 | Overall         | 7.5/10 |
 
 ### Practical

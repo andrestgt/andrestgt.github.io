@@ -11,17 +11,17 @@ subtitle: Grand Indonesia · Café
   <figcaption>The People’s Cafe</figcaption>
 </figure>
 
-Very popular café with comfortable seating, good snacks and surprisingly well-prepared cappuccino at reasonable prices. Easy place to spend some time during a shopping break.
+Very popular café with comfortable seating, good snacks and surprisingly well-prepared cappuccino at reasonable prices. Good place to spend some time during a shopping break.
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
+| Food and Coffee | 8/10   |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
