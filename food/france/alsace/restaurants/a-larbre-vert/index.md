@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: A l'Arbre Vert
 subtitle: Baerenthal · Restaurant
 ---

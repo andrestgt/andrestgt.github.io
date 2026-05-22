@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Chez Georges
 subtitle: Paris · Wine Bar
 ---

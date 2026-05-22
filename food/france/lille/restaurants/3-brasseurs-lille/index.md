@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: 3 Brasseurs Lille
 subtitle: Lille · Brewpub
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Hôtel Restaurant Faller Emmebuckel
 subtitle: Itterswiller · Restaurant
 ---

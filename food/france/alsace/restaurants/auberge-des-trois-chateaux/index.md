@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Auberge des Trois Châteaux
 subtitle: Eguisheim · Alsatian Restaurant
 ---

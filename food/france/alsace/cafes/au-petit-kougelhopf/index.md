@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Patisserie Au Petit Kougelhopf
 subtitle: Wissembourg · Café & Pâtisserie
 ---
