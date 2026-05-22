@@ -22,14 +22,14 @@ Serves reliable Western and Indonesian bistro dishes in comfortable surroundings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
+| Food            | 7.5/10   |
 | Service         | 7.5/10 |
-| Value for money | 6.5/10 |
+| Value for money | 7/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 7/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ninety+Nine+Grand+Indonesia+Jakarta)
 🍽️ **Cuisine:** International, Indonesian
-💰 **Price level:** Rp 200,000–350,000
+💰 **Price level:** Rp 250,000–350,000
