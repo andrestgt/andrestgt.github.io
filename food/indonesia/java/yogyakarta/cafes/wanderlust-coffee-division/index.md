@@ -6,6 +6,11 @@ title: Wanderlust Coffee Division
 subtitle: Sosrowijayan · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/yogyakarta/wanderlust-coffee-division-1.jpg" alt="Wanderlust Coffee Division">
+  <figcaption>Wanderlust Coffee Division</figcaption>
+</figure>
+
 Friendly little coffee shop tucked away in one of Sosrowijayan’s narrow alleys. The espresso drinks are very well prepared, prices fair and the relaxed outdoor armchair seating makes it an especially pleasant place to spend an hour or two.
 
 ## Ratings
