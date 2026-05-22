@@ -7,7 +7,7 @@ subtitle: Menteng · Indonesian, Fine Dining
 ---
 
 <figure>
-  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-1.jpg" alt="Lara Djonggrang">
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-2.jpg" alt="Lara Djonggrang">
   <figcaption>Lara Djonggrang</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ Quite possibly Jakarta’s most atmospheric restaurant. The extraordinary interi
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-2.jpg" alt="Lara Djonggrang">
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-1.jpg" alt="Lara Djonggrang">
   <figcaption>Lara Djonggrang</figcaption>
 </figure>
 <figure>
@@ -25,10 +25,6 @@ Quite possibly Jakarta’s most atmospheric restaurant. The extraordinary interi
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-4.jpg" alt="Lara Djonggrang">
-  <figcaption>Lara Djonggrang</figcaption>
-</figure>
 <figure>
   <img src="/photos/indonesia/java/jakarta/lara-djonggrang-5.jpg" alt="Lara Djonggrang">
   <figcaption>Lara Djonggrang</figcaption>
@@ -67,13 +63,13 @@ Quite possibly Jakarta’s most atmospheric restaurant. The extraordinary interi
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10 |
-| Service         | 8/10   |
+| Service         | 8.5/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 10/10  |
+| Atmosphere      | 9.5/10  |
 | Overall         | 9/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lara+Djonggrang+Menteng+Jakarta)
 🍽️ **Cuisine:** Indonesian, Fine Dining
-💰 **Price level:** Rp 400,000–600,000
+💰 **Price level:** Rp 300,000–500,000
