@@ -12,11 +12,6 @@ hero_overlay: false
 
 # Rheinland-Pfalz
 
-- [Bad Dürkheim](/food/germany/rheinland-pfalz/bad-duerkheim/)
-- [Deidesheim](/food/germany/rheinland-pfalz/deidesheim/)
-- [Edenkoben](/food/germany/rheinland-pfalz/edenkoben/)
-- [Heuchelheim-Klingen](/food/germany/rheinland-pfalz/heuchelheim-klingen/)
-- [Neustadt an der Weinstraße](/food/germany/rheinland-pfalz/neustadt-weinstrasse/)
-- [Rhodt unter Rietburg](/food/germany/rheinland-pfalz/rhodt-unter-rietburg/)
-- [Trittenheim (Mosel)](/food/germany/rheinland-pfalz/trittenheim/)
+- [Weinstraße](/food/germany/rheinland-pfalz/weinstrasse/)
+- [Moseltal](/food/germany/rheinland-pfalz/moseltal/)
 - [Zweibrücken](/food/germany/rheinland-pfalz/zweibruecken/)
