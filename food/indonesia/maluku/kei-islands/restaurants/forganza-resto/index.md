@@ -58,4 +58,4 @@ They do add a 10% tax on top of the bill, but they charge 65K for a whole grille
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Forganza+Resto+Cafe+Kei+Kecil)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 125,000–150,000
+💰 **Price level:** Rp 150,000–250,000
