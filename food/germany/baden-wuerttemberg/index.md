@@ -17,7 +17,6 @@ hero_overlay: false
 - [Karlsruhe](/food/germany/baden-wuerttemberg/karlsruhe/)
 - [Lauffen am Neckar](/food/germany/baden-wuerttemberg/lauffen-am-neckar/)
 - [Leutkirch im Allgäu](/food/germany/baden-wuerttemberg/leutkirch/)
-- [Leutkirch im Allgäu](/food/germany/baden-wuerttemberg/leutkirch/)
 - [Schwarzwald](/food/germany/baden-wuerttemberg/schwarzwald/)
 - [Stuttgart](/food/germany/baden-wuerttemberg/stuttgart/)
 - [Tübingen](/food/germany/baden-wuerttemberg/tuebingen/)
