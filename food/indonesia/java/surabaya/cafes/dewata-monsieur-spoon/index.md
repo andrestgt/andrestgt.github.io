@@ -11,6 +11,11 @@ subtitle: Comunale West Market · Café & Patisserie
   <figcaption>Dewata & Monsieur Spoon</figcaption>
 </figure>
 
+<figure>
+  <img src="/photos/indonesia/java/surabaya/dewata-monsieur-spoon-2.jpg" alt="Dewata & Monsieur Spoon">
+  <figcaption>Dewata & Monsieur Spoon</figcaption>
+</figure>
+
 A slightly surreal place for coffee and cake, right opposite Pakuwon Mall. The whole setup is very over-the-top Parisian, with a rococo-style interior and French chansons playing in the background. It feels a bit ridiculous, but quite fun.
 
 The cheesecakes are particularly good, and overall the quality of both the coffee and the cakes is very decent.

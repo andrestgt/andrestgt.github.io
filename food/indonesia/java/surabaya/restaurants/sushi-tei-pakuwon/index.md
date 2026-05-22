@@ -7,13 +7,6 @@ subtitle: Pakuwon Mall · Japanese
 ---
 
 <figure>
-  <img src="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-main.jpg" alt="Sushi Tei Pakuwon Mall">
-  <figcaption>Sushi Tei Pakuwon Mall</figcaption>
-</figure>
-
-
-
-<figure>
   <img src="/photos/indonesia/java/surabaya/sushi-tei-pakuwon-1.jpg" alt="Sushi Tei Pakuwon Mall">
   <figcaption>Sushi Tei Pakuwon Mall</figcaption>
 </figure>
