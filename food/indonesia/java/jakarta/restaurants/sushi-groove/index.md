@@ -6,6 +6,22 @@ title: Sushi Groove – Grand Indonesia
 subtitle: Grand Indonesia · Japanese, Fusion Sushi
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/jakarta/sushi-groove-1.jpg" alt="Sushi Groove – Grand Indonesia">
+  <figcaption>Sushi Groove – Grand Indonesia</figcaption>
+</figure>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/sushi-groove-2.jpg" alt="Sushi Groove – Grand Indonesia">
+  <figcaption>Sushi Groove – Grand Indonesia</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/sushi-groove-3.jpg" alt="Sushi Groove – Grand Indonesia">
+  <figcaption>Sushi Groove – Grand Indonesia</figcaption>
+</figure>
+</div>
+
 Definitely not a place for sushi purists, but many of the playful fusion rolls work surprisingly well. Affordable, enjoyable and easy to recommend for casual dining.
 
 ## Ratings
