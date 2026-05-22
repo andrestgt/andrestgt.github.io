@@ -16,5 +16,4 @@ Food & drink across Java.
 
 - [Jakarta](/food/indonesia/java/jakarta/)
 - [Yogyakarta](/food/indonesia/java/yogyakarta/)
-- [Bandung](/food/indonesia/java/bandung/)
 - [Surabaya](/food/indonesia/java/surabaya/)
