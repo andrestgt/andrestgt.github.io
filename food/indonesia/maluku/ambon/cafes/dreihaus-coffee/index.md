@@ -6,6 +6,18 @@ title: Dreihaus Coffee
 subtitle: Rumah Tiga, University Area · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/dreihaus-coffee-1.jpg" alt="Dreihaus Coffee Ambon">
+  <figcaption>Dreihaus Coffee Ambon</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/dreihaus-coffee-2.jpg" alt="Dreihaus Coffee Ambon">
+  <figcaption>Dreihaus Coffee Ambon</figcaption>
+</figure>
+
+
+
 Dreihaus is the best place for coffee in Ambon. It is a stylish modern café in the university area across the bridge and clearly takes coffee seriously.
 
 I ordered a cappuccino for 35K. What arrived was technically closer to a flat white, but the coffee itself was excellent. The beans have deep flavour and a pronounced acidity, and the espresso drinks are properly prepared. You would not get better coffee in many hipster cafés in Melbourne or Berlin.

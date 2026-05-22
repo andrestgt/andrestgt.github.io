@@ -6,6 +6,13 @@ title: Fifteenth Coffee Kota Lama
 subtitle: Krembangan · Café
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/surabaya/fifteenth-coffee-1.jpg" alt="Fifteenth Coffee Kota Lama">
+  <figcaption>Fifteenth Coffee Kota Lama</figcaption>
+</figure>
+
+
+
 A nicely designed café with a rooftop terrace and good place to sit for a while. Service is very slow and it's quite annoying that they only open at 3 pm, which makes it useless for most of the day.
 
 Coffee is well made, though, with cappuccinos under 30K, which is in line with prices in the Old Town.

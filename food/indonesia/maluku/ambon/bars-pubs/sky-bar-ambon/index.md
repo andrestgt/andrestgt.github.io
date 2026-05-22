@@ -2,9 +2,17 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Sky Bar – Swiss-Belhotel
 subtitle: Sirimau · Rooftop Bar
 ---
+
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/sky-bar-ambon-1.jpg" alt="Sky Bar – Swiss-Belhotel Ambon">
+  <figcaption>Sky Bar – Swiss-Belhotel Ambon</figcaption>
+</figure>
+
+
 
 The biggest attraction within the city proper, downtown Kota Ambon, might well be the Sky Bar at the Swiss-Belhotel, if only because the traffic chaos stays far below you. The views over town are genuinely good, and it's also the only place on the island where I actually saw Western tourists.
 

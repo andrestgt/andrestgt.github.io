@@ -6,6 +6,16 @@ title: Canard Taproom & Cafe
 subtitle: Rungkut · Craft Beer Bar
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/surabaya/canard-taproom-1.jpg" alt="Canard Taproom & Cafe">
+  <figcaption>Canard Taproom & Cafe</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/java/surabaya/canard-taproom-2.jpg" alt="Canard Taproom & Cafe">
+  <figcaption>Canard Taproom & Cafe</figcaption>
+</figure>
+
 A small, fairly basic taproom in the south of Surabaya. The setting is nothing special, just a compact indoor space that can get quite smoky, with no outdoor seating, but that's not really why you come here.
 
 The beers were surprisingly good. I particularly liked the session IPA and the porter. They also offer an all-you-can-drink tasting option for 200K, which is very good value if you want to try a bit of everything.

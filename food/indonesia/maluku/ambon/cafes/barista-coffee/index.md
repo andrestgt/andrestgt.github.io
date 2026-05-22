@@ -2,9 +2,15 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: BARISTA Coffee Shop
 subtitle: Near Harbour · Café
 ---
+
+<figure>
+  <img src="/photos/indonesia/maluku/ambon/barista-coffee-1.jpg" alt="BARISTA Coffee Shop Ambon">
+  <figcaption>BARISTA Coffee Shop Ambon</figcaption>
+</figure>
 
 We stopped at Barista Coffee near Ambon harbour shortly after arriving on the Pelni ferry. The place is conveniently located close to the port and served what were probably the prettiest cappuccinos I saw in town, nicely presented and clearly made with some attention to appearance.
 

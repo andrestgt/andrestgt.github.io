@@ -6,6 +6,13 @@ title: Zerøgram Kota Lama
 subtitle: Krembangan · Café
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/surabaya/zerogam-kota-lama-1.jpg" alt="Zerogam Kota Lama">
+  <figcaption>Zerogam Kota Lama</figcaption>
+</figure>
+
+
+
 One of only a couple of proper coffee spots in Kota Lama, which already makes it worth visiting.
 
 Cappuccino is under 30K, which is standard for the Old Town, but noticeably cheaper than in West Surabaya or the malls. More importantly, it's actually well made.
