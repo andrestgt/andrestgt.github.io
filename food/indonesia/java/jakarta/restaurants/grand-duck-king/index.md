@@ -30,7 +30,7 @@ Elegant Chinese restaurant specialising in duck dishes, and the signature duck i
 | ---             | ---    |
 | Food            | 8.5/10 |
 | Service         | 8/10   |
-| Value for money | 6.5/10 |
+| Value for money | 7/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 8/10   |
 
