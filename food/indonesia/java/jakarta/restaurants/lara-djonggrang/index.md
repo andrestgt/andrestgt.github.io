@@ -7,7 +7,7 @@ subtitle: Menteng · Indonesian, Fine Dining
 ---
 
 <figure>
-  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-1.jpg" alt="Lara Djonggrang">
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-2.jpg" alt="Lara Djonggrang">
   <figcaption>Lara Djonggrang</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ Quite possibly Jakarta’s most atmospheric restaurant. The extraordinary interi
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-2.jpg" alt="Lara Djonggrang">
+  <img src="/photos/indonesia/java/jakarta/lara-djonggrang-1.jpg" alt="Lara Djonggrang">
   <figcaption>Lara Djonggrang</figcaption>
 </figure>
 <figure>
