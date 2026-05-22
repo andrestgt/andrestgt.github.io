@@ -18,6 +18,17 @@ This is one of those places where you simply have to accept the prices and come 
   <figcaption>Café Batavia</figcaption>
 </figure>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/cafe-batavia-3.jpg" alt="Café Batavia">
+  <figcaption>Café Batavia</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/cafe-batavia-4.jpg" alt="Café Batavia">
+  <figcaption>Café Batavia</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
