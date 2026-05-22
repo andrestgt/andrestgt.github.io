@@ -11,6 +11,17 @@ subtitle: Krembangan · Café
   <figcaption>Fifteenth Coffee Kota Lama</figcaption>
 </figure>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/surabaya/fifteenth-coffee-2.jpg" alt="Fifteenth Coffee Kota Lama">
+  <figcaption>Fifteenth Coffee Kota Lama</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/surabaya/fifteenth-coffee-3.jpg" alt="Fifteenth Coffee Kota Lama">
+  <figcaption>Fifteenth Coffee Kota Lama</figcaption>
+</figure>
+</div>
+
 
 
 A nicely designed café with a rooftop terrace and good place to sit for a while. Service is very slow and it's quite annoying that they only open at 3 pm, which makes it useless for most of the day.

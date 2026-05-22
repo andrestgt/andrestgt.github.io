@@ -44,6 +44,17 @@ They do add a 10% tax on top of the bill, but they charge 65K for a whole grille
   <figcaption>Forganza Resto & Cafe</figcaption>
 </figure>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/maluku/kei-islands/forganza-7.jpg" alt="Forganza Resto & Cafe">
+  <figcaption>Forganza Resto & Cafe</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/maluku/kei-islands/forganza-8.jpg" alt="Forganza Resto & Cafe">
+  <figcaption>Forganza Resto & Cafe</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
