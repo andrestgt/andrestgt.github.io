@@ -13,7 +13,7 @@ Fantastic upscale brasserie managing to serve foie gras and pempek equally well,
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 9/10   |
-| Service         | 8.5/10 |
+| Service         | 9/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
