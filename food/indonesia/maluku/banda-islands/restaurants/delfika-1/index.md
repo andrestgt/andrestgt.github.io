@@ -56,4 +56,4 @@ The food itself is good, but the courtyard makes it one of the best places in Ba
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Delfika+1+Guesthouse+Banda+Neira)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Rp 75,000–100,000
+💰 **Price level:** Rp 125,000–200,000

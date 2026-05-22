@@ -43,4 +43,4 @@ Most mains were around 80K, which is very reasonable for a seaside restaurant. A
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Teluk+Ambon+Beach+Caffe+Resto+Rumah+Tiga)
 🍽️ **Cuisine:** Seafood, Indonesian
-💰 **Price level:** Rp 125,000–150,000
+💰 **Price level:** Rp 175,000–250,000

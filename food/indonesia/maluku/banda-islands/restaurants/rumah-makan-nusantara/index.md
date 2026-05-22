@@ -28,7 +28,7 @@ Overall, Nusantara is a decent option when other places are closed, but the cook
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6/10   |
+| Food            | 6.5/10   |
 | Service         | 7.5/10 |
 | Value for money | 7/10   |
 | Atmosphere      | 6/10   |
@@ -38,4 +38,4 @@ Overall, Nusantara is a decent option when other places are closed, but the cook
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rumah+Makan+Nusantara+Banda+Neira)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Rp 75,000–100,000
+💰 **Price level:** Rp 100,000–150,000
