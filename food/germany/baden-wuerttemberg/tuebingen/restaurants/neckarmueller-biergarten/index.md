@@ -6,6 +6,11 @@ title: Neckarmüller - Biergarten
 subtitle: Tübingen · Beer Garden
 ---
 
+<figure>
+  <img src="/photos/germany/tuebingen/neckarmueller-biergarten-1.jpg" alt="Neckarmüller - Biergarten">
+  <figcaption>Neckarmüller - Biergarten</figcaption>
+</figure>
+
 
 The beer garden’s location by the river is its biggest draw, offering a fantastic setting for a relaxed outing. Unfortunately, the home-brewed beer is just average and doesn’t live up to the setting. The food options are limited and unappealing, so I didn’t try any. Come for the view, but don’t expect much from the menu.
 
