@@ -11,9 +11,3 @@ subtitle: Food & Drink in the Black Forest
 
 - [Cafés](/food/germany/baden-wuerttemberg/schwarzwald/cafes/)
 - [Restaurants](/food/germany/baden-wuerttemberg/schwarzwald/restaurants/)
-o
-
-# Schwarzwald
-
-- [Cafés](/food/germany/baden-wuerttemberg/schwarzwald/cafes/)
-- [Restaurants](/food/germany/baden-wuerttemberg/schwarzwald/restaurants/)
