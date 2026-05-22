@@ -6,6 +6,11 @@ title: Christine’s Garden
 subtitle: Prawirotaman · Café-Bakery
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/yogyakarta/christines-garden-1.jpg" alt="Christine’s Garden">
+  <figcaption>Christine’s Garden</figcaption>
+</figure>
+
 Friendly café-bakery with a large variety of Indonesian coffees prepared in several different styles. A good place both for serious coffee drinking and for a quick inexpensive meal. The nasi campur is authentic, filling and excellent value at only 27k. Wifi and air conditioning available as well.
 
 ## Ratings
