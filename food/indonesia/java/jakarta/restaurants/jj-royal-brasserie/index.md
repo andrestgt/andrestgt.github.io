@@ -6,6 +6,44 @@ title: JJ Royal Brasserie
 subtitle: Kuningan · Brasserie, Indonesian
 ---
 
+<figure>
+  <img src="/photos/indonesia/java/jakarta/jj-royal-brasserie-1.jpg" alt="JJ Royal Brasserie">
+  <figcaption>JJ Royal Brasserie</figcaption>
+</figure>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/jj-royal-brasserie-2.jpg" alt="JJ Royal Brasserie">
+  <figcaption>JJ Royal Brasserie</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/jj-royal-brasserie-3.jpg" alt="JJ Royal Brasserie">
+  <figcaption>JJ Royal Brasserie</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/jj-royal-brasserie-4.jpg" alt="JJ Royal Brasserie">
+  <figcaption>JJ Royal Brasserie</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/jj-royal-brasserie-5.jpg" alt="JJ Royal Brasserie">
+  <figcaption>JJ Royal Brasserie</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/indonesia/java/jakarta/jj-royal-brasserie-6.jpg" alt="JJ Royal Brasserie">
+  <figcaption>JJ Royal Brasserie</figcaption>
+</figure>
+<figure>
+  <img src="/photos/indonesia/java/jakarta/jj-royal-brasserie-7.jpg" alt="JJ Royal Brasserie">
+  <figcaption>JJ Royal Brasserie</figcaption>
+</figure>
+</div>
+
 Fantastic upscale brasserie managing to serve foie gras and pempek equally well, which is no small achievement. The cappuccino is among the best I have had anywhere in Jakarta and prices remain remarkably fair considering the quality. One of the city’s best restaurants in my opinion.
 
 ## Ratings
