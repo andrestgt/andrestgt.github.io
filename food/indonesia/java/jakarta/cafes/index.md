@@ -12,13 +12,6 @@ subtitle: Coffee shops in Jakarta
 
 ---
 
-## Excelso
-*Plaza Indonesia · Café*
-Toraja coffee nice and smooth as ever, but at 53k for a cappuccino the prices have become increasingly hard to justify.
-→ [Read the full review](/food/indonesia/java/jakarta/cafes/excelso/)
-
----
-
 ## Häagen-Dazs
 *Tanah Abang · Café, Ice Cream*
 Skip the ice cream and come for the surprisingly affordable Illy cappuccino — under 30k in central Jakarta is genuinely good value.
