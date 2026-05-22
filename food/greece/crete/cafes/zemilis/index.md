@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: Ζεμπίλης
+title: Zemilis
 subtitle: Rethymno · Café
 ---
 

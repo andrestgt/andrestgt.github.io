@@ -2,13 +2,13 @@
 layout: default
 section: food
 review: true
-title: Αθιβολες του Καρα
+title: Athivoles tou Kara
 subtitle: Kalamaki · Taverna
 ---
 
 <figure>
-  <img src="/photos/greece/crete/ativoles-tou-kara-1.jpg" alt="Αθιβολες του Καρα">
-  <figcaption>Αθιβολες του Καρα</figcaption>
+  <img src="/photos/greece/crete/ativoles-tou-kara-1.jpg" alt="Athivoles tou Kara">
+  <figcaption>Athivoles tou Kara</figcaption>
 </figure>
 
 Very friendly family-run taverna with excellent food at genuinely fair prices, most dishes costing around 5–7€. The escargots and spicy baked feta are particularly good.

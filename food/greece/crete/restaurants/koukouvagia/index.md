@@ -2,10 +2,31 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Koukouvagia – Cretan Cuisine
 subtitle: Iraklion · Restaurant
 ---
 
+<figure>
+  <img src="/photos/greece/crete/koukouvagia-1.jpg" alt="Koukouvagia – Cretan Cuisine">
+  <figcaption>Koukouvagia – Cretan Cuisine</figcaption>
+</figure>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/greece/crete/koukouvagia-2.jpg" alt="Koukouvagia – Cretan Cuisine">
+  <figcaption>Koukouvagia – Cretan Cuisine</figcaption>
+</figure>
+<figure>
+  <img src="/photos/greece/crete/koukouvagia-3.jpg" alt="Koukouvagia – Cretan Cuisine">
+  <figcaption>Koukouvagia – Cretan Cuisine</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/greece/crete/koukouvagia-4.jpg" alt="Koukouvagia – Cretan Cuisine">
+  <figcaption>Koukouvagia – Cretan Cuisine</figcaption>
+</figure>
 
 Koukouvagia may look slightly touristy because of the location, but in reality it felt very local when we visited. The food is proper hearty Cretan cooking, the wine is cheap, and overall it delivers exactly the kind of traditional experience many visitors are probably looking for.
 

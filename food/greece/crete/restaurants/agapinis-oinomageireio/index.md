@@ -2,10 +2,20 @@
 layout: default
 section: food
 review: true
-title: Αγαπήνης Οινομαγειρείο
+photos_locked: true
+title: Agapinis Oinomageireio
 subtitle: Chania · Restaurant
 ---
 
+<figure>
+  <img src="/photos/greece/crete/agapinis-oinomageireio-1.jpg" alt="Agapinis Oinomageireio">
+  <figcaption>Agapinis Oinomageireio</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/greece/crete/agapinis-oinomageireio-2.jpg" alt="Agapinis Oinomageireio">
+  <figcaption>Agapinis Oinomageireio</figcaption>
+</figure>
 
 Tiny working-class eatery inside the market serving wonderfully traditional Cretan food in huge portions. The lamb tripe soup for breakfast is probably more for adventurous eaters, although there are plenty of more approachable dishes as well. Excellent value overall.
 

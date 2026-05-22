@@ -2,10 +2,20 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Xatiri
 subtitle: Iraklion · Restaurant
 ---
 
+<figure>
+  <img src="/photos/greece/crete/xatiri-1.jpg" alt="Xatiri">
+  <figcaption>Xatiri</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/greece/crete/xatiri-2.jpg" alt="Xatiri">
+  <figcaption>Xatiri</figcaption>
+</figure>
 
 Excellent location and a very pleasant place either for a full meal or simply some wine with small snacks alongside.
 
