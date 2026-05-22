@@ -34,4 +34,4 @@ If I had to choose between the branches in Surabaya, though, I would still go to
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Tei+Pakuwon+Mall+Surabaya)
 🍽️ **Cuisine:** Japanese, Sushi
-💰 **Price level:** Rp 150,000–300,000
+💰 **Price level:** Rp 200,000–300,000

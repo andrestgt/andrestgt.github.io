@@ -47,4 +47,4 @@ Prices are very reasonable for what you get. It's one of those places where you 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Imperial+Kitchen+Dimsum+Pakuwon+Mall+Surabaya)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** Rp 125,000–150,000
+💰 **Price level:** Rp 175,000–250,000
