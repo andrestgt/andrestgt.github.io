@@ -7,7 +7,7 @@ subtitle: Chandor, South Goa · Goan
 ---
 
 <figure>
-  <img src="/photos/india/south-goa/o-cuzinero-1.jpg" alt="O' Cuzinero">
+  <img src="/photos/india/south-goa/o-cuzinero-3.jpg" alt="O' Cuzinero">
   <figcaption>O' Cuzinero</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ Large, slightly upmarket countryside restaurant in Goa's heartland. Possibly bec
   <figcaption>O' Cuzinero</figcaption>
 </figure>
 <figure>
-  <img src="/photos/india/south-goa/o-cuzinero-3.jpg" alt="O' Cuzinero">
+  <img src="/photos/india/south-goa/o-cuzinero-1.jpg" alt="O' Cuzinero">
   <figcaption>O' Cuzinero</figcaption>
 </figure>
 </div>
@@ -28,14 +28,14 @@ Large, slightly upmarket countryside restaurant in Goa's heartland. Possibly bec
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 8.5/10 |
-| Value for money | 6/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=O%27+Cuzinero+Chandor+Kavorin+Goa+India)
 🍽️ **Cuisine:** Goan
-💰 **Price level:** 270–300 Rs per dish
+💰 **Price level:** Rs 500-700
