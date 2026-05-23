@@ -22,14 +22,14 @@ Roadside resort restaurant. For the lack of location they try to make up with a 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Value for money | 7/10 |
+| Atmosphere      | 7/10 |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Seaview+Resort+Restaurant+Patnem+Beach+Palolem+Goa+India)
 🍽️ **Cuisine:** Goan, Indian
-💰 **Price level:** 450 Rs per dish
+💰 **Price level:** Rs 600-1000
