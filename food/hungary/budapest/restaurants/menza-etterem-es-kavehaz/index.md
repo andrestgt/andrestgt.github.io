@@ -22,14 +22,14 @@ In an area packed with good restaurants around the lovely Liszt Ferenc tér, Men
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
+| Food            | 9/10 |
 | Service         | 9/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Liszt+Ferenc+tér+2+1061+Budapest+Hungary)
 📍 Liszt Ferenc tér 2, 1061 Budapest, Hungary
-💰 **Price level:** Ft 10,000–15,000
+💰 **Price level:** Ft 6,000–10,000
