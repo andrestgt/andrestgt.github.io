@@ -18,21 +18,18 @@ They make the best coffees in town — go for a double-shot cappuccino (110 Rs) 
   <img src="/photos/india/varanasi/open-hand-cafe-2.jpg" alt="Open Hand Café & Shop Varanasi">
   <figcaption>Open Hand Café & Shop Varanasi</figcaption>
 </figure>
-<figure>
-  <img src="/photos/india/varanasi/open-hand-cafe-3.jpg" alt="Open Hand Café & Shop Varanasi">
-  <figcaption>Open Hand Café & Shop Varanasi</figcaption>
-</figure>
+
 </div>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 7/10   |
+| Coffee          | 8/10   |
+| Service         | 6.5/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
