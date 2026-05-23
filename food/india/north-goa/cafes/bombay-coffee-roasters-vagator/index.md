@@ -19,9 +19,9 @@ All three Bombay Coffee Roasters branches offer AC, reasonable WiFi and Italian-
 | ---             | ---    |
 | Coffee          | 7/10   |
 | Service         | 7/10   |
-| Value for money | 9/10   |
+| Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
