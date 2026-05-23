@@ -22,14 +22,14 @@ Basic roadside eatery popular with backpackers but actually not as cheap as it l
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
+| Food            | 7/10  |
 | Service         | 6/10  |
-| Value for money | 7/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 6.5/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Little+Ganesha+Patnem+Canacona+Goa+India)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** 120–160 Rs per dish
+💰 **Price level:** Rs 300–500
