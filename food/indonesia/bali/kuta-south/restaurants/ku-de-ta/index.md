@@ -22,4 +22,4 @@ It's all getting a bit scene-y as the day turns into night, but as far as beach 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=KU+DE+TA+Jl+Kayu+Aya+Seminyak+Bali)
 🍽️ **Cuisine:** International, Japanese
-💰 **Price level:** Rp 400,000–600,000
+💰 **Price level:** Rp 400,000–800,000
