@@ -15,10 +15,6 @@ Varanasi's most famous traveller café should be thought of as a bakery rather t
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/india/varanasi/brown-bread-bakery-2.jpg" alt="Brown Bread Bakery Varanasi">
-  <figcaption>Brown Bread Bakery Varanasi</figcaption>
-</figure>
-<figure>
   <img src="/photos/india/varanasi/brown-bread-bakery-3.jpg" alt="Brown Bread Bakery Varanasi">
   <figcaption>Brown Bread Bakery Varanasi</figcaption>
 </figure>
@@ -39,14 +35,14 @@ Varanasi's most famous traveller café should be thought of as a bakery rather t
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 7.5/10 |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Food and Coffee | 6.5/10 |
+| Service         | 7/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Brown+Bread+Bakery+Bangali+Tola+Road+Pandey+Ghat+Varanasi+India)
 ☕ **Type:** Bakery, Café
-💰 **Price level:** —
+💰 **Price level:** moderate
