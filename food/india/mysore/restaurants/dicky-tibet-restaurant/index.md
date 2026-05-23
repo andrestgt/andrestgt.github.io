@@ -38,4 +38,4 @@ This little first-floor backroom place is a great find, if you actually manage t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dicky+Tibet+Restaurant+Devaraja+Mohalla+Mysuru+India)
 🍽️ **Cuisine:** Tibetan
-💰 **Price level:** Under 80 Rs per dish
+💰 **Price level:** Rs 150-250
