@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Betyár Csárda
 subtitle: Lake Balaton · Hungarian Restaurant
 ---
@@ -15,6 +16,11 @@ This beautiful, reed-thatched old farmhouse seems to be the only restaurant in t
 
 <figure>
   <img src="/photos/hungary/balaton/betyar-csarda-2.jpg" alt="Betyár Csárda">
+  <figcaption>Betyár Csárda</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/hungary/balaton/betyar-csarda-3.jpg" alt="Betyár Csárda">
   <figcaption>Betyár Csárda</figcaption>
 </figure>
 
