@@ -28,11 +28,11 @@ This beautiful, reed-thatched old farmhouse seems to be the only restaurant in t
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8/10   |
 | Service         | 9/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 9.5/10 |
-| Overall         | 9.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 
