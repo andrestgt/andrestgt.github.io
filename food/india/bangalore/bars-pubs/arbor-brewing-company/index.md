@@ -18,10 +18,6 @@ For casual visitors to Bangalore, this is the most conveniently located of the c
   <img src="/photos/india/bangalore/arbor-brewing-company-2.jpg" alt="Arbor Brewing Company">
   <figcaption>Arbor Brewing Company</figcaption>
 </figure>
-<figure>
-  <img src="/photos/india/bangalore/arbor-brewing-company-3.jpg" alt="Arbor Brewing Company">
-  <figcaption>Arbor Brewing Company</figcaption>
-</figure>
 </div>
 
 <figure>
@@ -33,14 +29,14 @@ For casual visitors to Bangalore, this is the most conveniently located of the c
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 7/10   |
+| Beer and Food   | 7.5/10   |
 | Service         | 8.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Arbor+Brewing+Company+Magrath+Road+Ashok+Nagar+Bangalore+India)
 🍺 **Type:** Craft Beer Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
