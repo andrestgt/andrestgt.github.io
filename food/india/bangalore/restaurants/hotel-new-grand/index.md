@@ -38,4 +38,4 @@ Staying in the Majestic area, there's not a whole lot of options for family-frie
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hotel+New+Grand+Cottonpet+Main+Road+Bangalore+India)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** Under 150 Rs per dish
+💰 **Price level:** Rs 250-350
