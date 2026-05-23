@@ -24,7 +24,7 @@ In Panaji's prettiest neighbourhood, this beautifully air-conditioned little caf
 | ---             | ---    |
 | Coffee          | 8/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
+| Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 8/10   |
 
