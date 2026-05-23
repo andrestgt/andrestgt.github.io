@@ -17,14 +17,14 @@ Located inside a large and very fancy Samsung shop, this small café prepares on
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Coffee          | 9/10 |
+| Service         | 7.5/10 |
+| Value for money | 8/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Flying+Squirrel+Brigade+Road+Residency+Road+Ashok+Nagar+Bangalore+India)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** moderate
+💰 **Price level:** expensive
