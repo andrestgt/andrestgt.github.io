@@ -28,11 +28,11 @@ I actually prefer the laid-back, casual atmosphere of the German Bakery to the h
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
+| Food and Coffee | 8.5/10   |
 | Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Value for money | 8/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
