@@ -22,14 +22,14 @@ I had amazing Italian at Piccola Roma in North Goa, so I wanted to see if there'
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=La+Dolce+Vita+Italian+Restaurant+Agonda+Goa+India)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** 380–410 Rs per dish
+💰 **Price level:** Rs 600-1000
