@@ -22,4 +22,4 @@ CCD really is a terrible franchise. It seems their classic cold coffee is never 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Coffee+Day+Forum+Central+City+Mall+Hyderali+Road+Mysuru+India)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate
