@@ -15,10 +15,6 @@ Dark and atmospheric pub — all wood and cushions. It seems fancy but they actu
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/india/kolkata/the-lords-and-barons-2.jpg" alt="The Lords and Barons">
-  <figcaption>The Lords and Barons</figcaption>
-</figure>
-<figure>
   <img src="/photos/india/kolkata/the-lords-and-barons-3.jpg" alt="The Lords and Barons">
   <figcaption>The Lords and Barons</figcaption>
 </figure>
@@ -28,14 +24,15 @@ Dark and atmospheric pub — all wood and cushions. It seems fancy but they actu
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 9/10   |
+| Bar food        | 8/10   |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Lords+and+Barons+Park+Street+Kolkata+India)
 🍺 **Type:** Bar
-💰 **Price level:** 169 Rs on happy hour
+💰 **Price level:** moderate
+
