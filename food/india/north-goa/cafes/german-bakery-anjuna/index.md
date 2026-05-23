@@ -33,14 +33,14 @@ This place has to be seen to be believed. It's a huge garden space with lots of 
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Value for money | 8/10 |
+| Atmosphere      | 9/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=German+Bakery+Anjuna+Goa+India)
 ☕ **Type:** Café, Bakery
-💰 **Price level:** —
+💰 **Price level:** moderate
