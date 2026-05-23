@@ -40,24 +40,20 @@ A great place to visit — the bike ride from the southern beaches is very beaut
   <img src="/photos/india/south-goa/tanshikar-spice-farm-6.jpg" alt="Tanshikar Spice Farm">
   <figcaption>Tanshikar Spice Farm</figcaption>
 </figure>
-<figure>
-  <img src="/photos/india/south-goa/tanshikar-spice-farm-7.jpg" alt="Tanshikar Spice Farm">
-  <figcaption>Tanshikar Spice Farm</figcaption>
-</figure>
 </div>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
-| Service         | 7/10   |
+| Food            | 6.5/10   |
+| Service         | 8/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tanshikar+Spice+Farm+Netravli+Sanguem+Goa+India)
 🍽️ **Cuisine:** Goan
-💰 **Price level:** 550 Rs including tour
+💰 **Price level:** 550 Rs per person including tour
