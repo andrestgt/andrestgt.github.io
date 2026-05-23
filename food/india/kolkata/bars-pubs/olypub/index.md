@@ -22,4 +22,4 @@ This old-school boozer seems fallen out of time — it looks like a cheap cafete
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Olypub+Park+Street+Kolkata+India)
 🍺 **Type:** Bar
-💰 **Price level:** Rs 450-650
+💰 **Price level:** moderate
