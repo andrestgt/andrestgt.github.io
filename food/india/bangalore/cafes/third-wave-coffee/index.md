@@ -22,11 +22,11 @@ This is the kind of café that everyone would love to have in their neighbourhoo
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8.5/10 |
+| Coffee          | 8/10   |
+| Service         | 8/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
