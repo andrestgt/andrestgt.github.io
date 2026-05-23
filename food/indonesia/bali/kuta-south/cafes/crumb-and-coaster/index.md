@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Crumb & Coaster
 subtitle: Kuta · Café
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Taco Casa Fresh Mexican Grill & Bar
 subtitle: Mas · Mexican
 ---

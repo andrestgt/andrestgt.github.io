@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Delfika 1 Guesthouse / Cafe
 subtitle: Banda Neira · Indonesian
 ---

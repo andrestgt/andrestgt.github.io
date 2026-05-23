@@ -5,6 +5,7 @@ layout: default
 section: food
 
 review: true
+photos_locked: true
 
 title: Serenade Food & Beverage
 

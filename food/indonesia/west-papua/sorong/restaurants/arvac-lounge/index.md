@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Arvac Lounge & Cafe
 subtitle: Sorong Airport · Indonesian
 ---

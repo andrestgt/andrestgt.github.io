@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Wabi Sabi Coffee
 subtitle: Kampung Baru, Sorong · Specialty Coffee
 ---

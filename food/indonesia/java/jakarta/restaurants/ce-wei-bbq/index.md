@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Ce Wei BBQ Restaurant
 subtitle: Kelapa Gading · Chinese, Dim Sum
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Christine’s Garden
 subtitle: Prawirotaman · Café-Bakery
 ---

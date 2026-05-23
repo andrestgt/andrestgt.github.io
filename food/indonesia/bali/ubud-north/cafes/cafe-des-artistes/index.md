@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Café Des Artistes
 subtitle: Ubud · Café & Bistro
 ---

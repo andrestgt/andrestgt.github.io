@@ -5,6 +5,7 @@ layout: default
 section: food
 
 review: true
+photos_locked: true
 
 title: The Gade Coffee & Gold
 

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Rumah Makan Laksana Jaya II
 subtitle: Kota Lama · East Javanese
 ---

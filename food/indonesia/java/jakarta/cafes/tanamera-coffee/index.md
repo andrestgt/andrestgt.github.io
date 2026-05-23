@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Tanamera Coffee
 subtitle: Tanah Abang · Specialty Coffee
 ---

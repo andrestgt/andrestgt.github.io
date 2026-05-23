@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Wailela Cafe and Resto
 subtitle: Rumah Tiga, Teluk Ambon · Seafood, Indonesian
 ---

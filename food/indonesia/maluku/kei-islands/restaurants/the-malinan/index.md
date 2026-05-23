@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Malinan Kei Islands Resto and Cafe
 subtitle: Ohoijang Watdek, Langgur · Seafood, Indonesian
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Sushi Tei Pakuwon Mall
 subtitle: Pakuwon Mall · Japanese
 ---

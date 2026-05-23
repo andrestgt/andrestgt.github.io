@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Forganza Resto & Cafe
 subtitle: Kelanit, Kei Kecil · Seafood, Indonesian
 ---

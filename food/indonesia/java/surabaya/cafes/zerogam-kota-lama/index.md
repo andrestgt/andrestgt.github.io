@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Zerøgram Kota Lama
 subtitle: Krembangan · Café
 ---

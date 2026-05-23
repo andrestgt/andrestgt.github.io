@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Usha Cafe & Bakery
 subtitle: Mas · Café & Bakery
 ---

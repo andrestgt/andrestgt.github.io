@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Cafe Terapung
 subtitle: Kampung Baru, Banda Neira · Seafood, Indonesian
 ---

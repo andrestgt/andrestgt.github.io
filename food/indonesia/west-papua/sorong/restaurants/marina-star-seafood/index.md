@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Marina Star Restaurant Seafood
 subtitle: Pelabuhan Perikanan, Sorong · Seafood
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Häagen-Dazs
 subtitle: Tanah Abang · Café, Ice Cream
 ---

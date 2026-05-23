@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Coffee Toffee Apsari Grahadi
 subtitle: Genteng · Café
 ---

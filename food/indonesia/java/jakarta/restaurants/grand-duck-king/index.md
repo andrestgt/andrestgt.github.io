@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Grand Duck King
 subtitle: Grand Indonesia · Chinese, Duck
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Redback Specialty Coffee
 subtitle: Dukuhpakis · Café
 ---

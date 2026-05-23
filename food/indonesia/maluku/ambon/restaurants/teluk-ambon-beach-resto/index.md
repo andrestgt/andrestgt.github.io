@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Teluk Ambon Beach Caffe & Resto
 subtitle: Rumah Tiga, Teluk Ambon · Seafood, Indonesian
 ---

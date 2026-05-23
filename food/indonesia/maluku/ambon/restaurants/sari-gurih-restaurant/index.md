@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Sari Gurih Restaurant
 subtitle: Honipopu, City Centre · Seafood, Indonesian
 ---

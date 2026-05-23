@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Imperial Kitchen & Dimsum – Pakuwon Mall
 subtitle: Pakuwon Mall · Chinese, Dim Sum
 ---

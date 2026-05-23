@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Sushi Groove – Grand Indonesia
 subtitle: Grand Indonesia · Japanese, Fusion Sushi
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Dewata & Monsieur Spoon Préféré
 subtitle: Comunale West Market · Café & Patisserie
 ---

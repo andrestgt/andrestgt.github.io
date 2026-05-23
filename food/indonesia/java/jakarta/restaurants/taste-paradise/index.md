@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Taste Paradise
 subtitle: Plaza Indonesia · Cantonese, Dim Sum
 ---

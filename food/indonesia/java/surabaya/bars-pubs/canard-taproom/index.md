@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Canard Taproom & Cafe
 subtitle: Rungkut · Craft Beer Bar
 ---

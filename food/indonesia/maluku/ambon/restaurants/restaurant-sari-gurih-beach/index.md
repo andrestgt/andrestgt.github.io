@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Restaurant Sari Gurih Beach
 subtitle: Lateri, Baguala · Seafood, Indonesian
 ---

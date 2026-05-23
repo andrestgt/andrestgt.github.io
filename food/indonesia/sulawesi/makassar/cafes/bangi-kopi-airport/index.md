@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Bangi Kopi – Hasanuddin Airport
 subtitle: Makassar Airport · Café-Bistro
 ---

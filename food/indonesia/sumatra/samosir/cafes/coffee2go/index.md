@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Coffee2Go
 subtitle: Tuktuk Siadong · Café
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Imperial Kitchen & Dimsum – Tunjungan Plaza
 subtitle: Tunjungan Plaza 4 · Chinese, Dim Sum
 ---
