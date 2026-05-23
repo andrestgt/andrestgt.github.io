@@ -19,6 +19,11 @@ subtitle: Tuktuk Siadong · Grilled Fish, Indonesian
 
 Probably the most famous restaurant on Samosir and deservedly popular for its superb BBQ fish. The setting itself is fairly basic and lacks the views and comfort of some competitors, but the marinated grilled fish is absolutely worth coming for. Excellent satay as well.
 
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/jennys-restaurant-3.jpg" alt="Jenny's Restaurant">
+  <figcaption>Jenny's Restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

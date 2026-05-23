@@ -19,6 +19,11 @@ subtitle: Tuktuk Siadong · Indonesian, Batak
 
 With its attractive garden and pleasant terrace overlooking the lake, this is one of the most charming eateries in Tuktuk. The menu focuses mainly on local dishes, which are authentic, inexpensive and well prepared.
 
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/juwita-cafe-3.jpg" alt="Juwita Cafe">
+  <figcaption>Juwita Cafe</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

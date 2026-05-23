@@ -19,6 +19,26 @@ subtitle: Tuktuk Siadong · Café, Indonesian
 
 One of the nicer places in Tuktuk for relaxing with lake views and comfortable cushions. The local food is tasty and reasonably priced, though some dishes could use a bit more punch in the seasoning. Still a very solid option.
 
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/bamboos-cafe-3.jpg" alt="Bamboo's Cafe">
+  <figcaption>Bamboo's Cafe</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/bamboos-cafe-4.jpg" alt="Bamboo's Cafe">
+  <figcaption>Bamboo's Cafe</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/bamboos-cafe-5.jpg" alt="Bamboo's Cafe">
+  <figcaption>Bamboo's Cafe</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/bamboos-cafe-6.jpg" alt="Bamboo's Cafe">
+  <figcaption>Bamboo's Cafe</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

@@ -19,6 +19,26 @@ subtitle: Tuktuk Siadong · Indonesian, Batak
 
 Very simple restaurant with beautiful lake views and genuinely tasty home-style cooking. The pork saksang and chapati with guacamole are particularly good, and the homemade chips excellent as well. For grilled fish, however, Jenny’s still has the edge.
 
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/horas-restaurant-3.jpg" alt="Horas Restaurant">
+  <figcaption>Horas Restaurant</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/horas-restaurant-4.jpg" alt="Horas Restaurant">
+  <figcaption>Horas Restaurant</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/horas-restaurant-5.jpg" alt="Horas Restaurant">
+  <figcaption>Horas Restaurant</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/horas-restaurant-6.jpg" alt="Horas Restaurant">
+  <figcaption>Horas Restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
