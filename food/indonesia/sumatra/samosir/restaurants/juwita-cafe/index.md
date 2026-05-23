@@ -2,9 +2,20 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Juwita Cafe
 subtitle: Tuktuk Siadong · Indonesian, Batak
 ---
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/juwita-cafe-1.jpg" alt="Juwita Cafe">
+  <figcaption>Juwita Cafe</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/sumatra/samosir/juwita-cafe-2.jpg" alt="Juwita Cafe">
+  <figcaption>Juwita Cafe</figcaption>
+</figure>
 
 With its attractive garden and pleasant terrace overlooking the lake, this is one of the most charming eateries in Tuktuk. The menu focuses mainly on local dishes, which are authentic, inexpensive and well prepared.
 
