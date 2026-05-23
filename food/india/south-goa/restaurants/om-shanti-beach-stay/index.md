@@ -22,14 +22,14 @@ Good beach shack in Patnem. They have Bira White and inexpensive cocktails along
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
+| Food            | 7.5/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Om+Shanti+Beach+Stay+Patnem+Beach+Palolem+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** Under 300 Rs per dish
+💰 **Price level:** Rs 500-700
