@@ -27,4 +27,4 @@ Worst Wow Momo branch. Hardly any seats, sizzlers not available and they cheat b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wow+Momo+Ashok+Nagar+Bangalore+India)
 🍽️ **Cuisine:** Momos
-💰 **Price level:** —
+💰 **Price level:** Rs 300-500
