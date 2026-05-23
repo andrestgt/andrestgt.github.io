@@ -22,9 +22,9 @@ I doubt you will find better food than this in Margao — indeed it's one of the
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
+| Food            | 9/10 |
 | Service         | 8.5/10 |
-| Value for money | 9/10   |
+| Value for money | 8.5/10   |
 | Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
 
@@ -32,4 +32,4 @@ I doubt you will find better food than this in Margao — indeed it's one of the
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pepper%27s+Restaurant+Gold+Road+Pajifond+Madgaon+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** 1000 Rs for two
+💰 **Price level:** Rs 600-1000
