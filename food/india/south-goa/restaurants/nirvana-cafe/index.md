@@ -17,14 +17,14 @@ Nice beach shack restaurant with tables right on the beach. The food is good, bu
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 6/10  |
-| Value for money | 5/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 7.5/10  |
+| Service         | 7/10  |
+| Value for money | 4/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 7/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nirvana+Cafe+Restaurant+Bar+Patnem+Beach+Palolem+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** Around 610 Rs for seafood sizzler
+💰 **Price level:** Rs 800-1000
