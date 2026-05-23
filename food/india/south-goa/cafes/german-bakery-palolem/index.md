@@ -24,17 +24,13 @@ This German Bakery is a lot less grand than its namesake in Anjuna, but neverthe
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/india/south-goa/german-bakery-palolem-4.jpg" alt="German Bakery – Palolem">
-  <figcaption>German Bakery – Palolem</figcaption>
-</figure>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 8/10   |
+| Food            | 8/10   |
+| Service         | 7.5/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
@@ -43,4 +39,4 @@ This German Bakery is a lot less grand than its namesake in Anjuna, but neverthe
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=German+Bakery+Palolem+Ourem+Road+Canacona+Goa+India)
 ☕ **Type:** Café, Bakery
-💰 **Price level:** —
+💰 **Price level:** inexpensive
