@@ -12,14 +12,14 @@ What is meant to be a stylish, chic lounge already looks a bit tired and worn, b
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7.5/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Atmosphere      | 7/10 |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Curry+Culture+Restaurant+Mandir+Marg+Mahanagar+Lucknow+India)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** Around 250 Rs per main
+💰 **Price level:** Rs 400-600
