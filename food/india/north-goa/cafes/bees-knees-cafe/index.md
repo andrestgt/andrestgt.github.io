@@ -17,10 +17,10 @@ Typical cheap and cheerful traveller café in backpacker central. Obviously they
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10 |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
