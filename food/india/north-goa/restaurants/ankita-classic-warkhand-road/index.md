@@ -24,12 +24,12 @@ In a remote location in Goa's far north inland region, this large place neverthe
 | ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ankita+Classic+Warkhand+Road+Amberem+Goa+India)
 🍽️ **Cuisine:** Goan, Seafood
-💰 **Price level:** Around 250 Rs per dish
+💰 **Price level:** Rs 500-800
