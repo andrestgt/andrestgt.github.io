@@ -25,11 +25,6 @@ One of the nicer places in Tuktuk for relaxing with lake views and comfortable c
 </figure>
 
 <figure>
-  <img src="/photos/indonesia/sumatra/samosir/bamboos-cafe-4.jpg" alt="Bamboo's Cafe">
-  <figcaption>Bamboo's Cafe</figcaption>
-</figure>
-
-<figure>
   <img src="/photos/indonesia/sumatra/samosir/bamboos-cafe-5.jpg" alt="Bamboo's Cafe">
   <figcaption>Bamboo's Cafe</figcaption>
 </figure>
