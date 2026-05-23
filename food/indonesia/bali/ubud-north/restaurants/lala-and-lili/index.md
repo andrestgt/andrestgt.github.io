@@ -38,4 +38,4 @@ Blissfully quiet place above town, away from the busy roads. Perfect for a short
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lala+Lili+Warung+Jl+Raya+Campuhan+Ubud+Bali)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Rp 100,000–150,000
+💰 **Price level:** Rp 150,000–250,000
