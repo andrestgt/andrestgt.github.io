@@ -12,14 +12,14 @@ A lovely garden café in a converted old bungalow in the leafy suburbs. It's a g
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
+| Food and Coffee | 8.5/10   |
 | Service         | 8.5/10 |
-| Value for money | 9/10   |
+| Value for money | 8.5/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Roastery+Coffee+House+Road+No+14+Banjara+Hills+Hyderabad+India)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** inexpensive
+💰 **Price level:** moderate
