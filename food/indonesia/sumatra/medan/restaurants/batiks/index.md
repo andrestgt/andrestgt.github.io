@@ -37,10 +37,10 @@ One of the better and more stylish restaurants around Merdeka Walk, making it id
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Batiks+Merdeka+Walk+Medan)
 🍽️ **Cuisine:** Indonesian
-💰 **Price level:** Rp 100,000–150,000
+💰 **Price level:** Rp 150,000–200,000
