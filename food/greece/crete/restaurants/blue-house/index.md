@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Blue House Hotel and Restaurant
 subtitle: Loutro · Restaurant
 ---

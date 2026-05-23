@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Kosta Kosta Cafe
 subtitle: Malia · Café
 ---
