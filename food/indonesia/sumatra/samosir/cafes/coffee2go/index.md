@@ -6,7 +6,7 @@ title: Coffee2Go
 subtitle: Tuktuk Siadong · Café
 ---
 
-Seemed to be the only place in town capable of preparing a proper cappuccino. Prices are inexpensive and the friendly owner also runs a travel agency. Easy recommendation for coffee lovers visiting Samosir.
+This seemed to be the only place in town capable of preparing a proper cappuccino. Prices are inexpensive and the friendly owner also runs a travel agency. For anyone appreciating a well made cup of coffee, this is the place in Samosir. 
 
 ## Ratings
 
