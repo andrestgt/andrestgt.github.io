@@ -17,14 +17,14 @@ Very basic, blokey place that serves incredibly popular Mutton Nihari — a brea
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Atmosphere      | 6.5/10 |
+| Overall         | 7/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mubeen%27s+Nihari+Opposite+Ek+Minara+Masjid+Akbari+Gate+Chowk+Lucknow+India)
 🍽️ **Cuisine:** Awadhi
-💰 **Price level:** —
+💰 **Price level:** Rs 200-300
