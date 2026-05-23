@@ -8,11 +8,6 @@ subtitle: Seminyak · Beach Club
 ---
 
 <figure>
-  <img src="/photos/indonesia/bali/ku-de-ta-1.jpg" alt="KU DE TA">
-  <figcaption>KU DE TA</figcaption>
-</figure>
-
-<figure>
   <img src="/photos/indonesia/bali/ku-de-ta-2.jpg" alt="KU DE TA">
   <figcaption>KU DE TA</figcaption>
 </figure>
