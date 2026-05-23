@@ -38,4 +38,4 @@ For me this is the best Tex-Mex food I've had anywhere in South East Asia. Consi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Taco+Casa+Fresh+Mexican+Grill+Jl+Raya+Pengosekan+Ubud+Bali)
 🍽️ **Cuisine:** Mexican
-💰 **Price level:** Rp 100,000–150,000
+💰 **Price level:** Rp 200,000–350,000
