@@ -37,4 +37,4 @@ Come early to get a table here — it's packed to the rafters despite large seat
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tunday+Kababi+Old+Nazirabad+Road+Mohan+Market+Aminabad+Lucknow+India)
 🍽️ **Cuisine:** Awadhi
-💰 **Price level:** 400-600
+💰 **Price level:** Rs 400-600
