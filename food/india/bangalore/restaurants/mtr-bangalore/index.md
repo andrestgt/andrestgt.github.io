@@ -32,4 +32,4 @@ During lunch hours it's almost impossible to get a table in this super popular B
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=MTR+Mavalli+Tiffin+Rooms+Sampige+Road+Malleshwaram+Bangalore+India)
 🍽️ **Cuisine:** South Indian
-💰 **Price level:** 150–300 Rs per thali
+💰 **Price level:** Rs 300–500
