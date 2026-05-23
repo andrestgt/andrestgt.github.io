@@ -12,6 +12,9 @@ subtitle: Iraklion · Restaurant
   <figcaption>Koukouvagia – Cretan Cuisine</figcaption>
 </figure>
 
+Koukouvagia may look slightly touristy because of the location, but in reality it felt very local when we visited. The food is proper hearty Cretan cooking, the wine is cheap, and overall it delivers exactly the kind of traditional experience many visitors are probably looking for.
+
+
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/greece/crete/koukouvagia-2.jpg" alt="Koukouvagia – Cretan Cuisine">
@@ -28,7 +31,6 @@ subtitle: Iraklion · Restaurant
   <figcaption>Koukouvagia – Cretan Cuisine</figcaption>
 </figure>
 
-Koukouvagia may look slightly touristy because of the location, but in reality it felt very local when we visited. The food is proper hearty Cretan cooking, the wine is cheap, and overall it delivers exactly the kind of traditional experience many visitors are probably looking for.
 
 ## Ratings
 
