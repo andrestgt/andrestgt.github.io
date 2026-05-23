@@ -6,11 +6,11 @@ photos_locked: true
 title: Betyár Csárda
 subtitle: Lake Balaton · Hungarian Restaurant
 ---
-
 <figure>
-  <img src="/photos/hungary/balaton/betyar-csarda-1.jpg" alt="Betyár Csárda">
+  <img src="/photos/hungary/balaton/betyar-csarda-3.jpg" alt="Betyár Csárda">
   <figcaption>Betyár Csárda</figcaption>
 </figure>
+
 
 This beautiful, reed-thatched old farmhouse seems to be the only restaurant in the village open year-round. Luckily, it's a good one. The people running the place are very friendly, and the hearty Hungarian food is quite delicious. Prices are a bit higher than at some other places in the region, but the quality is top-notch. The dining room is also very cosy. Highly recommended.
 
@@ -18,11 +18,11 @@ This beautiful, reed-thatched old farmhouse seems to be the only restaurant in t
   <img src="/photos/hungary/balaton/betyar-csarda-2.jpg" alt="Betyár Csárda">
   <figcaption>Betyár Csárda</figcaption>
 </figure>
-
 <figure>
-  <img src="/photos/hungary/balaton/betyar-csarda-3.jpg" alt="Betyár Csárda">
+  <img src="/photos/hungary/balaton/betyar-csarda-1.jpg" alt="Betyár Csárda">
   <figcaption>Betyár Csárda</figcaption>
 </figure>
+
 
 ## Ratings
 
