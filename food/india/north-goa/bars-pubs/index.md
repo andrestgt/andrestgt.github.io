@@ -11,10 +11,10 @@ subtitle: Bars and pubs in North Goa
 
 ---
 
-## Susegado x Frida Cantina
+## Baga Beer Garden
 *Calangute · Microbrewery*
-One of a kind in Goa — a large elegant beer garden with six Goan craft beers on tap at 180 Rs; try the tropical Wit and vanilla stout.
-→ [Read the full review](/food/india/north-goa/bars-pubs/susegado-x-frida-cantina/)
+Elegant beer garden and microbrewery with six Goan craft beers on tap — try the tropical Wit and vanilla stout.
+→ [Read the full review](/food/india/north-goa/bars-pubs/baga-beer-garden/)
 
 ---
 

@@ -52,10 +52,3 @@ Reliable AC and fair prices at 90 Rs for a cappuccino — same caveats as the Pa
 → [Read the full review](/food/india/north-goa/cafes/bombay-coffee-roasters-vagator/)
 
 ---
-
-## Bee's Knees Cafe
-*Arambol · Café*
-Typical cheerful backpacker café done just right — chicken thali and shakshouka both tasty and filling at around 200 Rs.
-→ [Read the full review](/food/india/north-goa/cafes/bees-knees-cafe/)
-
----

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Bombay Coffee Roasters – Panaji
 subtitle: Fontainhas, Panaji · Café
 ---

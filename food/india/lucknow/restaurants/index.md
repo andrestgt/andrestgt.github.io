@@ -25,10 +25,10 @@ So popular you might wait for a table even off-peak — creamy Awadhi chicken ma
 
 ---
 
-## Curry Culture
+## Coffee Culture
 *Mahanagar · Indian*
 Nice refuge from the noisy street with generous portions — tasty sizzling butter chicken though the baristas don't know their craft.
-→ [Read the full review](/food/india/lucknow/restaurants/curry-culture/)
+→ [Read the full review](/food/india/lucknow/restaurants/coffee-culture/)
 
 ---
 

@@ -24,24 +24,3 @@ Best value espresso in Goa at 90 Rs a cappuccino — preparation quality varies,
 → [Read the full review](/food/india/south-goa/cafes/bombay-coffee-roasters-palolem/)
 
 ---
-
-## Cafe Inn
-*Patnem · Café*
-Serves the same very good cappuccino as its sister establishment for a hefty 150 Rs.
-→ [Read the full review](/food/india/south-goa/cafes/cafe-inn/)
-
----
-
-## 17th Avenue
-*Vaneli · Café*
-Small, modern coffee shop — nothing special but useful for chai, AC and a clean toilet.
-→ [Read the full review](/food/india/south-goa/cafes/17th-avenue/)
-
----
-
-## Café Coffee Day – Margao
-*Madgaon · Café*
-Very unattractive branch inside a petrol station with no comfy seating — not worth the prices charged.
-→ [Read the full review](/food/india/south-goa/cafes/cafe-coffee-day-margao/)
-
----

@@ -2,14 +2,10 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Bombay Coffee Roasters – Palolem
 subtitle: Palolem, South Goa · Café
 ---
-
-<figure>
-  <img src="/photos/india/south-goa/bombay-coffee-roasters-palolem-1.jpg" alt="Bombay Coffee Roasters – Palolem">
-  <figcaption>Bombay Coffee Roasters – Palolem</figcaption>
-</figure>
 
 All three Bombay Coffee Roasters branches offer AC, reasonable WiFi and Italian-style espresso drinks at very fair prices (90 Rs for a cappuccino). The quality of the coffee itself is good at all three branches, however, only the Anjuna branch has staff who actually know how to prepare a decent cappuccino — the Palolem branch tends to come without or with very bubbly froth. Nevertheless, they're the best value espresso places in Goa.
 

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Dreams of Palolem Beach Resort
 subtitle: Palolem, South Goa · Goan, International
 ---

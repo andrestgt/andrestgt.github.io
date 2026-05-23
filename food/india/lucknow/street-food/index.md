@@ -25,10 +25,10 @@ The mutton nihari is not for everyone but the kulcha here is the best — crunch
 
 ---
 
-## Ram Kewal Tea Stall
+## Cafe Plus
 *Hazratganj · Indian*
 Basic tea shop with excellent samosas — perfect quick snack if you're in the area.
-→ [Read the full review](/food/india/lucknow/street-food/ram-kewal-tea-stall/)
+→ [Read the full review](/food/india/lucknow/street-food/cafe-plus/)
 
 ---
 

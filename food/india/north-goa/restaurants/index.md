@@ -53,10 +53,10 @@ Remote inland restaurant with fresh and inexpensive seafood — 50–100 Rs chea
 
 ---
 
-## Idā – Boutique Bar & Kitchen
+## Comida Caseira
 *Vagator · Goan*
-Good option for upscale Goan food with a twist in friendly, atmospheric surroundings without the fancy beach club prices.
-→ [Read the full review](/food/india/north-goa/restaurants/ida-boutique-bar/)
+Friendly restaurant in Vagator serving Goan food with a twist — relaxed atmosphere and reasonable prices.
+→ [Read the full review](/food/india/north-goa/restaurants/comida-caseira/)
 
 ---
 
@@ -64,6 +64,14 @@ Good option for upscale Goan food with a twist in friendly, atmospheric surround
 *Panaji · Goan*
 Nice restaurant with good Goan specialties and pleasant ambiance — let down by poor customer service on reservation.
 → [Read the full review](/food/india/north-goa/restaurants/kokni-kanteen-goa/)
+---
+
+## Bee's Knees Cafe
+*Arambol · Restaurant*
+Typical cheerful backpacker café done just right — chicken thali and shakshouka both tasty and filling at around 200 Rs.
+→ [Read the full review](/food/india/north-goa/restaurants/bees-knees-cafe/)
+
+---
 
 ---
 
