@@ -17,14 +17,13 @@ Decent rock bar with good music and relatively inexpensive beers. Sadly not very
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 7/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
+| Value for money | 7/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pecos+Hideout+Koramangala+Jyoti+Nivas+College+Road+Bangalore+India)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
