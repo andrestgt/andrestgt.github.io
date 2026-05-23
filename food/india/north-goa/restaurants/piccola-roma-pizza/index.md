@@ -28,7 +28,7 @@ One of the very rare places in Asia where you can get not only truly authentic p
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 9.5/10   |
 | Service         | 8.5/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 8.5/10 |
@@ -38,4 +38,4 @@ One of the very rare places in Asia where you can get not only truly authentic p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Piccola+Roma+Pizza+Chapora+Road+Vagator+Goa+India)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** 380–500 Rs per dish
+💰 **Price level:** Rs 580–800
