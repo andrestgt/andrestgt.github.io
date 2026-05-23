@@ -19,12 +19,12 @@ Their chic Steps restaurant is the perfect place to wait for a train or have one
 | ---             | ---    |
 | Food            | 9/10   |
 | Service         | 8.5/10 |
-| Value for money | 6/10   |
-| Atmosphere      | 9.5/10 |
+| Value for money | 8.5/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Hampi+International+Station+Road+Hosapete+Karnataka+India)
 🍽️ **Cuisine:** Indian, Chinese
-💰 **Price level:** —
+💰 **Price level:** Rs 400-600
