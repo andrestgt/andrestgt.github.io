@@ -34,13 +34,13 @@ For a fast food chain the food here is surprisingly delicious. The prawn dumplin
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
+| Service         | 8/10 |
+| Value for money | 9/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 9/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wow+Momo+Park+Street+Kolkata+India)
 🍽️ **Cuisine:** Momos, Dumplings
-💰 **Price level:** 350 Rs for sizzler for two
+💰 **Price level:** Rs 350-500
