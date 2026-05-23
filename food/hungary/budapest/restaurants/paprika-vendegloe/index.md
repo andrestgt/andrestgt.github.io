@@ -15,10 +15,6 @@ Can't go wrong here. Yes, it's touristy, but it tastes and looks like a traditio
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/hungary/budapest/paprika-vendegloe-2.jpg" alt="Paprika Vendéglő">
-  <figcaption>Paprika Vendéglő</figcaption>
-</figure>
-<figure>
   <img src="/photos/hungary/budapest/paprika-vendegloe-3.jpg" alt="Paprika Vendéglő">
   <figcaption>Paprika Vendéglő</figcaption>
 </figure>
