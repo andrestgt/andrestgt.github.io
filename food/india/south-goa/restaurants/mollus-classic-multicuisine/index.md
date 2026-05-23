@@ -21,10 +21,10 @@ Away from the beach on the coastal highway, this unassuming looking restaurant i
 | Service         | 8/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mollu%27s+Classic+Multicuisine+Restaurant+Palolem+Canacona+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** 250–300 Rs per dish
+💰 **Price level:** Rs 500-800
