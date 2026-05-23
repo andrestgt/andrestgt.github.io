@@ -28,14 +28,14 @@ In beautiful, peaceful Assagao, next to a rice paddy, this busy popular family r
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
+| Food            | 7.5/10   |
+| Service         | 7.5/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Vinayak+Family+Restaurant+Socol+Vaddo+Assagao+Goa+India)
 🍽️ **Cuisine:** Goan, Seafood
-💰 **Price level:** Around 300 Rs per dish
+💰 **Price level:** Rs 600-800
