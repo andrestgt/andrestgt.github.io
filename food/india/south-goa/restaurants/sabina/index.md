@@ -20,11 +20,11 @@ Good simple choice for a meal away from the beach shacks in Palolem. Family-run 
 | Food            | 8/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sabina+Restaurant+Ourem+Road+Palolem+Canacona+Goa+India)
 🍽️ **Cuisine:** Goan, Indian
-💰 **Price level:** 300–400 Rs per dish
+💰 **Price level:** Rs 600-800
