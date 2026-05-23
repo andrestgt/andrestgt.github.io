@@ -22,8 +22,8 @@ This place caters mainly to rich kids and hipsters wanting to let their hair dow
 
 | Category        | Score |
 | ---             | ---   |
-| Bar food        | 4/10  |
-| Service         | 4/10  |
+| Bar food        | 7/10  |
+| Service         | 2/10  |
 | Value for money | 4/10  |
 | Atmosphere      | 4/10  |
 | Overall         | 4/10  |
@@ -32,4 +32,4 @@ This place caters mainly to rich kids and hipsters wanting to let their hair dow
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Barf+Soda+Paani+Bar+Kolkata+India)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
