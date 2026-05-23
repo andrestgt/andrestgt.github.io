@@ -18,6 +18,31 @@ Fantastic ikan pepes. A must try. This place has survived for years despite the 
   <figcaption>Bollero Resto & Bar</figcaption>
 </figure>
 
+<figure>
+  <img src="/photos/indonesia/bali/bollero-resto-3.jpg" alt="Bollero Resto & Bar">
+  <figcaption>Bollero Resto & Bar</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/bali/bollero-resto-4.jpg" alt="Bollero Resto & Bar">
+  <figcaption>Bollero Resto & Bar</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/bali/bollero-resto-5.jpg" alt="Bollero Resto & Bar">
+  <figcaption>Bollero Resto & Bar</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/bali/bollero-resto-6.jpg" alt="Bollero Resto & Bar">
+  <figcaption>Bollero Resto & Bar</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/indonesia/bali/bollero-resto-7.jpg" alt="Bollero Resto & Bar">
+  <figcaption>Bollero Resto & Bar</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

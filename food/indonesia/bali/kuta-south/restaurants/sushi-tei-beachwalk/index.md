@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Sushi Tei Beachwalk
 subtitle: Kuta · Japanese
 ---
@@ -12,35 +13,6 @@ subtitle: Kuta · Japanese
 </figure>
 
 Sushi Tei used to be my favourite sushi chain, but recently I have been disappointed more than once. Same in this branch. The salmon sashimi were below standard — slightly chewy instead of melt-in-mouth.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/indonesia/bali/sushi-tei-beachwalk-2.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
-</figure>
-<figure>
-  <img src="/photos/indonesia/bali/sushi-tei-beachwalk-3.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/indonesia/bali/sushi-tei-beachwalk-5.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/indonesia/bali/sushi-tei-beachwalk-6.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
-</figure>
-<figure>
-  <img src="/photos/indonesia/bali/sushi-tei-beachwalk-7.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
-</figure>
-</div>
 
 ## Ratings
 

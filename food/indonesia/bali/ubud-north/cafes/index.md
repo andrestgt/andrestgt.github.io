@@ -49,10 +49,10 @@ A chic café-patisserie with tasty croissants, decent baguettes, and good coffee
 
 ---
 
-## MOTHER
+## Wamm
 *Mas · Café*
 Well-prepared coffees in a pleasant setting south of Monkey Forest..
-→ [Read the full review](/food/indonesia/bali/ubud-north/cafes/mother/)
+→ [Read the full review](/food/indonesia/bali/ubud-north/cafes/wamm/)
 
 ---
 

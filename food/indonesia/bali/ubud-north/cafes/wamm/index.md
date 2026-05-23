@@ -2,9 +2,17 @@
 layout: default
 section: food
 review: true
-title: MOTHER
+photos_locked: true
+title: Wamm
 subtitle: Mas · Café
 ---
+
+<figure>
+  <img src="/photos/indonesia/bali/wamm-1.jpg" alt="Wamm">
+  <figcaption>Wamm</figcaption>
+</figure>
+
+
 
 Nice place for a coffee — an expertly prepared, pleasant flat white at 28K++. Didn't try the food.
 
@@ -20,6 +28,6 @@ Nice place for a coffee — an expertly prepared, pleasant flat white at 28K++. 
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=MOTHER+Cafe+Jl+Nyuh+Bojog+Mas+Ubud+Bali)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wamm+Cafe+Jl+Nyuh+Bojog+Mas+Ubud+Bali)
 ☕ **Type:** Café
 💰 **Price level:** moderate
