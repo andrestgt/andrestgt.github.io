@@ -17,7 +17,7 @@ One of the friendliest and most attractive beach hut operators in Palolem. Reaso
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8/10   |
 | Service         | 8.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 9.5/10 |
@@ -27,4 +27,4 @@ One of the friendliest and most attractive beach hut operators in Palolem. Reaso
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dreams+of+Palolem+Beach+Resort+Ourem+Road+Palolem+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** 200–300 Rs per dish
+💰 **Price level:** Rs 500-700
