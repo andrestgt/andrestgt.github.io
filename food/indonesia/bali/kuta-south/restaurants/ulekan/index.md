@@ -22,7 +22,7 @@ Pleasant countryside dining, great concept with the small dishes, so it's possib
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.6/10   |
+| Food            | 7.5/10   |
 | Service         | 7/10   |
 | Value for money | 6/10   |
 | Atmosphere      | 8/10   |
