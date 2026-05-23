@@ -22,14 +22,14 @@ As a basic eatery away from the beach, there's one or two things you have to do 
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
+| Food            | 7/10  |
 | Service         | 6/10  |
 | Value for money | 7/10  |
 | Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Overall         | 6.5/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Agonda+Beach+Cafe+Agonda+Beach+Road+Canacona+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** 250–300 Rs per dish
+💰 **Price level:** Rs 500-700
