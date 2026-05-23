@@ -44,14 +44,14 @@ A most attractive restaurant in Panaji's colonial district, this place is perfec
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8/10   |
 | Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 9.5/10 |
-| Overall         | 9/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 9/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Viva+Panjim+Rua+31+de+Janeiro+Fontainhas+Panaji+Goa+India)
 🍽️ **Cuisine:** Goan
-💰 **Price level:** 200–350 Rs per dish
+💰 **Price level:** Rs 500–750
