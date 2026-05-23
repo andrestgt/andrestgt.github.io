@@ -34,10 +34,6 @@ Very simple restaurant with beautiful lake views and genuinely tasty home-style 
   <figcaption>Horas Restaurant</figcaption>
 </figure>
 
-<figure>
-  <img src="/photos/indonesia/sumatra/samosir/horas-restaurant-6.jpg" alt="Horas Restaurant">
-  <figcaption>Horas Restaurant</figcaption>
-</figure>
 
 ## Ratings
 
