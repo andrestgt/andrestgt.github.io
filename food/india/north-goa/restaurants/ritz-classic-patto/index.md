@@ -25,11 +25,11 @@ Large mid-range family restaurant absolutely packed during lunch time. Everyone 
 | Food            | 9/10   |
 | Service         | 8.5/10 |
 | Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ritz+Classic+Patto+Plaza+Panaji+Goa+India)
 🍽️ **Cuisine:** Goan
-💰 **Price level:** Around 200 Rs for fish thali
+💰 **Price level:** Rs 300-500
