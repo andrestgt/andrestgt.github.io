@@ -19,12 +19,12 @@ Away from the beach in a converted old Portuguese villa, this is possibly the mo
 | ---             | ---    |
 | Food            | 9/10   |
 | Service         | 9/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 9.5/10 |
+| Value for money | 7.5/10   |
+| Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sussegado+Restaurant+Calangute+Anjuna+Road+Goa+India)
 🍽️ **Cuisine:** Goan
-💰 **Price level:** 300–600 Rs per dish
+💰 **Price level:** Rs 600–800
