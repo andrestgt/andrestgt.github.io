@@ -14,7 +14,7 @@ Despite the Italian name, the coffee here is anything but. Cappuccino comes with
 | Category        | Score |
 | ---             | ---   |
 | Coffee          | 3/10  |
-| Service         | 7/10  |
+| Service         | 7.5/10  |
 | Value for money | 5/10  |
 | Atmosphere      | 5/10  |
 | Overall         | 4/10  |
