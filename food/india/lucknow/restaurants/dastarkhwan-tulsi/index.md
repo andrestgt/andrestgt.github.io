@@ -7,7 +7,7 @@ subtitle: Kaiserbagh · Awadhi
 ---
 
 <figure>
-  <img src="/photos/india/lucknow/dastarkhwan-tulsi-1.jpg" alt="Dastarkhwan Tulsi Theatre">
+  <img src="/photos/india/lucknow/dastarkhwan-tulsi-3.jpg" alt="Dastarkhwan Tulsi Theatre">
   <figcaption>Dastarkhwan Tulsi Theatre</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ This rather basic place is so popular that you might have to wait for a table ev
   <figcaption>Dastarkhwan Tulsi Theatre</figcaption>
 </figure>
 <figure>
-  <img src="/photos/india/lucknow/dastarkhwan-tulsi-3.jpg" alt="Dastarkhwan Tulsi Theatre">
+  <img src="/photos/india/lucknow/dastarkhwan-tulsi-1.jpg" alt="Dastarkhwan Tulsi Theatre">
   <figcaption>Dastarkhwan Tulsi Theatre</figcaption>
 </figure>
 </div>
@@ -28,7 +28,7 @@ This rather basic place is so popular that you might have to wait for a table ev
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 7/10   |
@@ -38,4 +38,4 @@ This rather basic place is so popular that you might have to wait for a table ev
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dastarkhwan+Tulsi+Theatre+Lucknow+India)
 🍽️ **Cuisine:** Awadhi, Indian
-💰 **Price level:** Rs 500–900
+💰 **Price level:** Rs 300–500
