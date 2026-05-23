@@ -24,7 +24,7 @@ Friendly little family restaurant in a small, clean air-conditioned environment.
 | ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
+| Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -32,4 +32,4 @@ Friendly little family restaurant in a small, clean air-conditioned environment.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Eatery+Restaurant+Shivala+Road+Varanasi+India)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** 200–350 Rs
+💰 **Price level:** Rs 400–600
