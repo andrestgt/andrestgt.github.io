@@ -14,12 +14,12 @@ This old-school boozer seems fallen out of time — it looks like a cheap cafete
 | ---             | ---    |
 | Bar food        | 8/10   |
 | Service         | 5/10   |
-| Value for money | 8.5/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Olypub+Park+Street+Kolkata+India)
 🍺 **Type:** Bar
-💰 **Price level:** 250 Rs beef steak
+💰 **Price level:** Rs 450-650
