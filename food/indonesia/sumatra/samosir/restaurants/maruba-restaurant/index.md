@@ -12,9 +12,9 @@ Another family-run restaurant serving homemade food typical of Tuktuk. Many plac
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7.5/10 |
-| Value for money | 7.5/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 7.5/10 |
 
@@ -22,4 +22,4 @@ Another family-run restaurant serving homemade food typical of Tuktuk. Many plac
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Maruba+Restaurant+Tuktuk+Samosir+Lake+Toba)
 🍽️ **Cuisine:** Indonesian, Batak
-💰 **Price level:** Rp 50,000–100,000
+💰 **Price level:** Rp 100,000–200,000
