@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Menza Étterem és Kávéház
 subtitle: Budapest · Hungarian Restaurant
 ---

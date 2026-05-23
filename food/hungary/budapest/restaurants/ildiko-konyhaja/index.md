@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Ildikó Konyhája
 subtitle: Budapest · Hungarian Restaurant
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Tamp & Pull Espresso Bar
 subtitle: Budapest · Espresso Bar
 ---
