@@ -21,7 +21,7 @@ More roastery than café, this is not a place to chill out comfortably. It is, h
 | Service         | 7.5/10 |
 | Value for money | 7/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
