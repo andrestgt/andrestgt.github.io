@@ -26,10 +26,6 @@ Sushi Tei used to be my favourite sushi chain, but recently I have been disappoi
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/indonesia/bali/sushi-tei-beachwalk-4.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
-</figure>
-<figure>
   <img src="/photos/indonesia/bali/sushi-tei-beachwalk-5.jpg" alt="Sushi Tei Beachwalk">
   <figcaption>Sushi Tei Beachwalk</figcaption>
 </figure>
@@ -50,7 +46,7 @@ Sushi Tei used to be my favourite sushi chain, but recently I have been disappoi
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 6/10   |
+| Food            | 6.5/10   |
 | Service         | 7/10   |
 | Value for money | 6.5/10 |
 | Atmosphere      | 7/10   |
