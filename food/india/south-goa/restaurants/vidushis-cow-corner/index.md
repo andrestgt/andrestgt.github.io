@@ -7,7 +7,7 @@ subtitle: Patnem, South Goa · Goan, International
 ---
 
 <figure>
-  <img src="/photos/india/south-goa/vidushis-cow-corner-1.jpg" alt="Vidushi's Cow Corner">
+  <img src="/photos/india/south-goa/vidushis-cow-corner-4.jpg" alt="Vidushi's Cow Corner">
   <figcaption>Vidushi's Cow Corner</figcaption>
 </figure>
 
@@ -24,23 +24,20 @@ My favourite in Patnem with a lovely garden setting (beware of mosquitoes though
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/india/south-goa/vidushis-cow-corner-4.jpg" alt="Vidushi's Cow Corner">
-  <figcaption>Vidushi's Cow Corner</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
+| Food            | 9/10   |
 | Service         | 8.5/10 |
-| Value for money | 8/10   |
+| Value for money | 8.5/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Vidushi%27s+Cow+Corner+Patnem+Canacona+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** 140–350 Rs per dish
+💰 **Price level:** Rs 300–600
