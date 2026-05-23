@@ -7,7 +7,7 @@ subtitle: Vinoba Road, Mysore · Bar
 ---
 
 <figure>
-  <img src="/photos/india/mysore/pelican-pub-1.jpg" alt="Pelican Pub & Grub House Restaurant">
+  <img src="/photos/india/mysore/pelican-pub-4.jpg" alt="Pelican Pub & Grub House Restaurant">
   <figcaption>Pelican Pub & Grub House Restaurant</figcaption>
 </figure>
 
@@ -24,23 +24,20 @@ Part pub, part family-friendly garden restaurant. This large place serves only K
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/india/mysore/pelican-pub-4.jpg" alt="Pelican Pub & Grub House Restaurant">
-  <figcaption>Pelican Pub & Grub House Restaurant</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 8/10   |
+| Bar food        | 7.5/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pelican+Pub+Grub+House+Restaurant+Vinoba+Road+Opp+KSOU+Mysuru+India)
 🍺 **Type:** Bar, Restaurant
-💰 **Price level:** —
+💰 **Price level:** moderate
