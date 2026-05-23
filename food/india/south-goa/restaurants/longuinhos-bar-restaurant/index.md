@@ -29,13 +29,13 @@ Margao's most atmospheric place to eat is straight out of a long-gone era — it
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8/10   |
-| Service         | 7/10   |
+| Service         | 8/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Longuinhos+Bar+Restaurant+Confectioners+Madgaon+Goa+India)
 🍽️ **Cuisine:** Goan
-💰 **Price level:** 200–300 Rs per dish
+💰 **Price level:** Rs 400-600
