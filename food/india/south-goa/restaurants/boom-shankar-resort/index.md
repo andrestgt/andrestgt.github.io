@@ -22,14 +22,14 @@ Quiet resort with a pleasant seaview terrace. It's more basic than most resorts 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7.5/10   |
 | Service         | 7/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Boom+Shankar+Resort+Palolem+Canacona+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** —
+💰 **Price level:** moderate
