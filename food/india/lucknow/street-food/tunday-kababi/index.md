@@ -5,9 +5,8 @@ review: true
 title: Tunday Kababi
 subtitle: Aminabad, Lucknow · Awadhi
 ---
-
 <figure>
-  <img src="/photos/india/lucknow/tunday-kababi-1.jpg" alt="Tunday Kababi">
+  <img src="/photos/india/lucknow/tunday-kababi-3.jpg" alt="Tunday Kababi">
   <figcaption>Tunday Kababi</figcaption>
 </figure>
 
@@ -19,7 +18,7 @@ Come early to get a table here — it's packed to the rafters despite large seat
   <figcaption>Tunday Kababi</figcaption>
 </figure>
 <figure>
-  <img src="/photos/india/lucknow/tunday-kababi-3.jpg" alt="Tunday Kababi">
+  <img src="/photos/india/lucknow/tunday-kababi-1.jpg" alt="Tunday Kababi">
   <figcaption>Tunday Kababi</figcaption>
 </figure>
 </div>
@@ -28,7 +27,7 @@ Come early to get a table here — it's packed to the rafters despite large seat
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8/10   |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
@@ -38,4 +37,4 @@ Come early to get a table here — it's packed to the rafters despite large seat
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tunday+Kababi+Old+Nazirabad+Road+Mohan+Market+Aminabad+Lucknow+India)
 🍽️ **Cuisine:** Awadhi
-💰 **Price level:** —
+💰 **Price level:** 400-600
