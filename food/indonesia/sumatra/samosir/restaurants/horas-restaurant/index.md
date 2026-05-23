@@ -12,14 +12,14 @@ Very simple restaurant with beautiful lake views and genuinely tasty home-style 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Horas+Restaurant+Tuktuk+Samosir+Lake+Toba)
 🍽️ **Cuisine:** Indonesian, Batak
-💰 **Price level:** Rp 50,000–100,000
+💰 **Price level:** Rp 100,000–200,000
