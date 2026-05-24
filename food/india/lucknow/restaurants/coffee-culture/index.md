@@ -8,11 +8,6 @@ subtitle: Mahanagar, Lucknow · Indian
 ---
 
 <figure>
-  <img src="/photos/india/lucknow/coffee-culture-1.jpg" alt="Coffee Culture">
-  <figcaption>Coffee Culture</figcaption>
-</figure>
-
-<figure>
   <img src="/photos/india/lucknow/coffee-culture-2.jpg" alt="Coffee Culture">
   <figcaption>Coffee Culture</figcaption>
 </figure>
