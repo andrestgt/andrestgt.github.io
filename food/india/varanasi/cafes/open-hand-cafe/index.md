@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Open Hand Café & Shop Varanasi
 subtitle: Assi Ghat, Varanasi · Café
 ---

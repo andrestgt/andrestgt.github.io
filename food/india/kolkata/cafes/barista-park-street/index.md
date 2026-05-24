@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Barista – Park Street
 subtitle: Park Street, Kolkata · Café
 ---

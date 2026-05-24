@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: G-Shot Coffee Roastery & Cafe
 subtitle: Assagao, North Goa · Specialty Coffee
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Biergarten Brewery & Kitchen
 subtitle: Koramangala, Bangalore · Craft Beer Bar
 ---

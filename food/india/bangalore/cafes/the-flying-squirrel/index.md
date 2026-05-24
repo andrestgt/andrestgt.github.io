@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Flying Squirrel
 subtitle: Ashok Nagar, Bangalore · Specialty Coffee
 ---

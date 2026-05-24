@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Pelican Pub & Grub House Restaurant
 subtitle: Vinoba Road, Mysore · Bar
 ---

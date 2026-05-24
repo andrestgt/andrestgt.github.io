@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Wow! Momo – Kolkata
 subtitle: Park Street, Kolkata · Momos
 ---

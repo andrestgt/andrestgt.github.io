@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Tantra Cafe Restaurant
 subtitle: Patnem Beach, South Goa · Goan, International
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Balu Natural Lassi Shop
 subtitle: Bangali Tola, Varanasi · Indian
 ---

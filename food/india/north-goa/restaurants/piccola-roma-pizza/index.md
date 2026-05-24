@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Piccola Roma Pizza
 subtitle: Vagator, North Goa · Italian
 ---

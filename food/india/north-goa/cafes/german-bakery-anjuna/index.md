@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: German Bakery Anjuna
 subtitle: Anjuna, North Goa · Café
 ---

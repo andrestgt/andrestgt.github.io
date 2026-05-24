@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Holiday Inn Cafe
 subtitle: Palolem, South Goa · Goan, International
 ---

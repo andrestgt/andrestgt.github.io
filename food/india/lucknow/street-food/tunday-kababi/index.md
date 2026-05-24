@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Tunday Kababi
 subtitle: Aminabad, Lucknow · Awadhi
 ---

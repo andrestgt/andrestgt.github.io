@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Arbor Brewing Company
 subtitle: Ashok Nagar, Bangalore · Craft Beer Bar
 ---

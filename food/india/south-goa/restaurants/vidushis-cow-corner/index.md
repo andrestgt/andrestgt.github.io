@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Vidushi's Cow Corner
 subtitle: Patnem, South Goa · Goan, International
 ---

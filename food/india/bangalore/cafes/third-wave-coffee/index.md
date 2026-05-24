@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Third Wave Coffee
 subtitle: Sadashiva Nagar, Bangalore · Specialty Coffee
 ---

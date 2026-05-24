@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Patnem Chai Shop
 subtitle: Patnem, South Goa · Indian
 ---

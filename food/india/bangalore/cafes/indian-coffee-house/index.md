@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Indian Coffee House
 subtitle: Church Street, Bangalore · Café
 ---

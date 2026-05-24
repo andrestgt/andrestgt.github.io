@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Brown Bread Bakery Varanasi
 subtitle: Bangali Tola, Varanasi · Bakery, Café
 ---

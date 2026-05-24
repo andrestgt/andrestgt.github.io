@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: La Dolce Vita
 subtitle: Agonda, South Goa · Italian
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Tanshikar Spice Farm
 subtitle: Netravli, South Goa · Goan
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Om Shanti Beach Stay
 subtitle: Patnem Beach, South Goa · Goan, International
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: German Bakery – Palolem
 subtitle: Palolem, South Goa · Café
 ---

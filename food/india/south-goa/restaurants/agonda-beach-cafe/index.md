@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Agonda Beach Cafe
 subtitle: Agonda, South Goa · Goan, International
 ---

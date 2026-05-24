@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Lords and Barons
 subtitle: Park Street, Kolkata · Bar
 ---

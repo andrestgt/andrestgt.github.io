@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Bombay Coffee Roasters – Vagator
 subtitle: Vagator, North Goa · Café
 ---

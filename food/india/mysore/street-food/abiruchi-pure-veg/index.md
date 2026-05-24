@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Abiruchi Pure Veg Restaurant
 subtitle: Shivarampet, Mysore · South Indian
 ---

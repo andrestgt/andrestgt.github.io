@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Afraa Lounge
 subtitle: City Centre Mall, Kolkata · International
 ---

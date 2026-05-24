@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Limelight Restaurant & Bar
 subtitle: BBD Bagh, Kolkata · Indian
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: The Bhoj Company
 subtitle: Lal Bazar, Kolkata · Bengali
 ---

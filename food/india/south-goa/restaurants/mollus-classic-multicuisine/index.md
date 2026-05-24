@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Mollu's Classic Multicuisine Restaurant
 subtitle: Palolem, South Goa · Goan, International
 ---
