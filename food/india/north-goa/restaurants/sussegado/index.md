@@ -25,10 +25,7 @@ Away from the beach in a converted old Portuguese villa, this is possibly the mo
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/india/north-goa/sussegado-4.jpg" alt="Sussegado">
-  <figcaption>Sussegado</figcaption>
-</figure>
+
 
 ## Ratings
 
