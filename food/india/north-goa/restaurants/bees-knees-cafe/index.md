@@ -15,11 +15,6 @@ subtitle: Arambol, North Goa · Café
 Typical cheap and cheerful traveller café in backpacker central. Obviously they won't win any awards for their food, but here it's done just right. Both the chicken thali and the shakshouka were really tasty and filled us up for the whole day at around 200 Rs. Why not.
 
 <figure>
-  <img src="/photos/india/north-goa/bees-knees-cafe-2.jpg" alt="Bee's Knees Cafe">
-  <figcaption>Bee's Knees Cafe</figcaption>
-</figure>
-
-<figure>
   <img src="/photos/india/north-goa/bees-knees-cafe-3.jpg" alt="Bee's Knees Cafe">
   <figcaption>Bee's Knees Cafe</figcaption>
 </figure>
