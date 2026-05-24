@@ -8,9 +8,11 @@ subtitle: Banjara Hills, Hyderabad · Specialty Coffee
 ---
 
 <figure>
-  <img src="/photos/india/hyderabad/roastery-coffee-house-1.jpg" alt="Roastery Coffee House">
+  <img src="/photos/india/hyderabad/roastery-coffee-house-4.jpg" alt="Roastery Coffee House">
   <figcaption>Roastery Coffee House</figcaption>
 </figure>
+
+A lovely garden café in a converted old bungalow in the leafy suburbs. It's a great place to chill out after spending time in the city's more interesting but nerve-racking neighbourhoods. They serve very good coffees here at very reasonable prices, as well as tasty fusion bistro food in large portions. A hearty lunch for two with coffees will cost under 800 Rs.
 
 <figure>
   <img src="/photos/india/hyderabad/roastery-coffee-house-2.jpg" alt="Roastery Coffee House">
@@ -22,14 +24,10 @@ subtitle: Banjara Hills, Hyderabad · Specialty Coffee
   <figcaption>Roastery Coffee House</figcaption>
 </figure>
 
-<figure>
-  <img src="/photos/india/hyderabad/roastery-coffee-house-4.jpg" alt="Roastery Coffee House">
-  <figcaption>Roastery Coffee House</figcaption>
-</figure>
 
 
 
-A lovely garden café in a converted old bungalow in the leafy suburbs. It's a great place to chill out after spending time in the city's more interesting but nerve-racking neighbourhoods. They serve very good coffees here at very reasonable prices, as well as tasty fusion bistro food in large portions. A hearty lunch for two with coffees will cost under 800 Rs.
+
 
 ## Ratings
 
