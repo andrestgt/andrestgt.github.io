@@ -8,7 +8,7 @@ subtitle: Calangute, North Goa · Goan
 ---
 
 <figure>
-  <img src="/photos/india/north-goa/sussegado-1.jpg" alt="Sussegado">
+  <img src="/photos/india/north-goa/sussegado-2.jpg" alt="Sussegado">
   <figcaption>Sussegado</figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ Away from the beach in a converted old Portuguese villa, this is possibly the mo
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/india/north-goa/sussegado-2.jpg" alt="Sussegado">
+  <img src="/photos/india/north-goa/sussegado-1.jpg" alt="Sussegado">
   <figcaption>Sussegado</figcaption>
 </figure>
 <figure>
