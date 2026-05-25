@@ -12,7 +12,7 @@ Sabaidee probably serves the cheapest beer in town at around 9k, although it cou
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 7.5/10 |
@@ -22,4 +22,4 @@ Sabaidee probably serves the cheapest beer in town at around 9k, although it cou
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sabaidee+Restaurant+Luang+Prabang)
 🍽️ **Cuisine:** Lao
-💰 **Price level:** LAK 30.000-40.000
+💰 **Price level:** LAK 40.000-60.000
