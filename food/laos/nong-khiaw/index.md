@@ -16,6 +16,3 @@ Reviews grouped by category.
 
 ## Cafés
 - [Cafés](/food/laos/nong-khiaw/cafes/)
-
-## Bars & pubs
-- [Bars & pubs](/food/laos/nong-khiaw/bars-pubs/)
