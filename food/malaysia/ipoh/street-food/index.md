@@ -12,13 +12,6 @@ subtitle: Street food and kopitiams in Ipoh
 
 ---
 
-## Foh San Restaurant
-*Kampung Jawa, Ipoh · Chinese, Dim Sum*
-Fantastic old-school dim sum place — popular and busy but less chaotic than some, with lovely quality dumplings at around RM40 for two.
-→ [Read the full review](/food/malaysia/ipoh/street-food/foh-san-restaurant/)
-
----
-
 ## Restoran Thean Chun
 *Old Town, Ipoh · Chinese*
 Packed all day with locals — excellent satay at RM1 per piece and the famous Ipoh sar hor fun noodle soup.
