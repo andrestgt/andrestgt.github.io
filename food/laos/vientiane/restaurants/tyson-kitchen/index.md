@@ -27,4 +27,4 @@ Fantastic gastro bar with pizza from the wood-fired oven. Choose a classic, crea
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tyson+Kitchen+Vientiane+Laos)
 🍽️ **Cuisine:** Pizza, Lao Fusion
-💰 **Price level:** —
+💰 **Price level:** LAK 200k
