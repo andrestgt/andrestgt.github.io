@@ -18,13 +18,6 @@ Quality pub grub and good cocktails on happy hour nights (Wednesday and Friday) 
 
 ---
 
-## Tum Jork
-*Vientiane · Beer Garden*
-Upmarket local beer garden by the river with good atmosphere and cheap Beer Lao at 13k.
-→ [Read the full review](/food/laos/vientiane/bars-pubs/tum-jork/)
-
----
-
 ## Kong View
 *Souphanouvong Rd · Bar*
 Expensive but worthwhile for the nice views — best done by bicycle for a short trip out of the Old Town.
