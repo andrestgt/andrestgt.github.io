@@ -64,7 +64,7 @@ Attractive upmarket Khmer fusion by the river — reasonable prices, decent wine
 ## Rohatt Café
 *Wat Bo Village · Khmer*
 The beef lok lak here is outstanding — perfectly peppery and exactly the kind of flavour the dish should have.
-→ [Read the full review](/food/cambodia/siem-reap/restaurants/slatoum-restaurant/)
+→ [Read the full review](/food/cambodia/siem-reap/restaurants/rohatt-cafe/)
 
 ---
 

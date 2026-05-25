@@ -28,7 +28,7 @@ Probably the best bar around High Street for happy hour — ice-cold beers, good
 ## RUE Forbes Town
 *Forbespark, BGC · Bar*
 Loud and chaotic but good-natured — drinks are expensive but the nachos supreme are particularly good.
-→ [Read the full review](/food/philippines/manila/bars-pubs/rue-bgc/)
+→ [Read the full review](/food/philippines/manila/bars-pubs/rue-forbes-town/)
 
 ---
 

@@ -40,10 +40,10 @@ One of Jakarta’s best restaurants — foie gras and pempek done equally well, 
 
 ---
 
-## Imperial Lamian
+## Lamian Palace – Grand Indonesia
 *Grand Indonesia · Chinese, Noodles*
 Budget-friendly noodle and dumpling restaurant inside one of Jakarta’s fanciest malls — consistently good with excellent value.
-→ [Read the full review](/food/indonesia/java/jakarta/restaurants/imperial-lamian/)
+→ [Read the full review](/food/indonesia/java/jakarta/restaurants/lamian-palace-grand-indonesia/)
 
 ---
 

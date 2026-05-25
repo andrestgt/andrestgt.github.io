@@ -14,7 +14,7 @@ subtitle: Cafés in Metro Manila
 ## Wildflour – Legazpi Village
 *Legazpi Village, Makati · Café, Bistro*
 More spacious than the other branches — European-level quality at European-level prices, with the best bread and pastries in the country.
-→ [Read the full review](/food/philippines/manila/cafes/wildflour-rada/)
+→ [Read the full review](/food/philippines/manila/cafes/wildflour-legazpi-village/)
 
 ---
 

@@ -21,7 +21,7 @@ Porto · Café
 Very friendly traditional café with genuinely good service. The famous francesinha sandwich was only so-so, though I'm not entirely convinced I like the dish in general.
 → [Read the full review](./cafe-aviz/)
 
-## TRAVELLER FOOD & DRINK
+## Traveller – Passos Manuel
 Porto · Café
 Nice little café where the coffee is reasonably priced. The food feels slightly expensive for what you get, although the sandwiches are perfectly decent.
-→ [Read the full review](./traveller-food-and-drink/)
+→ [Read the full review](./traveller-passos-manuel/)

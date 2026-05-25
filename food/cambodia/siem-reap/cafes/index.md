@@ -43,7 +43,7 @@ Fair prices and good ingredients, but my cappuccino was served so excessively ho
 ## Café Central
 *Street 08 · Café, Bar*
 Used to be a favourite but standards have slipped — the cappuccino was watery and served scalding hot.
-→ [Read the full review](/food/cambodia/siem-reap/cafes/central-bar-grill/)
+→ [Read the full review](/food/cambodia/siem-reap/cafes/cafe-central/)
 
 ---
 
