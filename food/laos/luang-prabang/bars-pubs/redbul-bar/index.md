@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Redbul Sport Bar
 subtitle: Kingkitsarath Rd, Luang Prabang · Bar
 ---

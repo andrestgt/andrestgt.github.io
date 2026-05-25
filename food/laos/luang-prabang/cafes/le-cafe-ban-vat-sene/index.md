@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Le Café Ban Vat Sene
 subtitle: Sakkaline Rd, Luang Prabang · Café
 ---

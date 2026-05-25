@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Kong View
 subtitle: Souphanouvong Rd, Vientiane · Bar
 ---

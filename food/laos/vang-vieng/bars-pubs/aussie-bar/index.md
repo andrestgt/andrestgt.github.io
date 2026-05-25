@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Aussie Bar
 subtitle: Vang Vieng · Bar
 ---

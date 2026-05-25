@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Keochampar Restaurant
 subtitle: Nong Khiaw · Lao
 ---

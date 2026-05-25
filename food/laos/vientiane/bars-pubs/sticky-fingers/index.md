@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Sticky Fingers
 subtitle: François Nginn St, Vientiane · Pub
 ---

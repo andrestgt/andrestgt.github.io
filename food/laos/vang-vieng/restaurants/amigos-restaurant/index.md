@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Amigo's Restaurant
 subtitle: Vang Vieng · Mexican
 ---

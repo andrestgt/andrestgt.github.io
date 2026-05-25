@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Ma Ma Alex Restaurant
 subtitle: Nong Khiaw · Lao
 ---

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Le Banneton Café & French Bakery
 subtitle: Sakkaline Rd, Luang Prabang · Bakery, Café
 ---

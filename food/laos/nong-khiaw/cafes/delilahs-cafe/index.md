@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Delilah's Café and Hostel
 subtitle: Nong Khiaw · Café
 ---

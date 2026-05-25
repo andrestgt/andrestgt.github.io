@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Coco Home Bar & Restaurant
 subtitle: Nong Khiaw · Lao
 ---

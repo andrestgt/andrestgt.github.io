@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Luang Prabang Bakery & Restaurant
 subtitle: Vang Vieng · Bakery, Café
 ---

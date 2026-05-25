@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Tamarind
 subtitle: Kingkitsarath Rd, Luang Prabang · Lao
 ---

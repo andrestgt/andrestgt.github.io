@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Pizza Phan Luang
 subtitle: Kingkitsarath Rd, Luang Prabang · Italian
 ---

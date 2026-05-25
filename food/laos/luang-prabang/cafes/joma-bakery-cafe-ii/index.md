@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Joma Bakery Café – Quiet Branch
 subtitle: Luang Prabang · Café
 ---

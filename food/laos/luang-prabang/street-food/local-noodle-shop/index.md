@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Local Noodle Shop
 subtitle: Chao Fa Ngum Rd, Luang Prabang · Lao
 ---

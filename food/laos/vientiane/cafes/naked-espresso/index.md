@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Naked Espresso
 subtitle: Dongpalan Rd, Vientiane · Specialty Coffee
 ---
