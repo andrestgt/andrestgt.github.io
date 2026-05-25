@@ -6,6 +6,10 @@ title: Sabaidee Restaurant
 subtitle: Luang Prabang · Lao
 ---
 
+<figure>
+  <img src="/photos/laos/luang-prabang/sabaidee-restaurant-1.jpg" alt="Sabaidee Restaurant">
+</figure>
+
 Sabaidee probably serves the cheapest beer in town at around 9k, although it could definitely be colder. The watercress salad was generous, fresh, and very good value for only 30k.
 
 ## Ratings
