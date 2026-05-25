@@ -28,4 +28,4 @@ The coconut milk Lao Lao cocktails here are both very good and absurdly cheap. T
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lao+Lao+Garden+Restaurant+Kingkitsarath+Rd+Luang+Prabang)
 🍽️ **Cuisine:** Lao
-💰 **Price level: LAK 40.000 - 60.000 
+💰 **Price level: LAK 60k-80k 
