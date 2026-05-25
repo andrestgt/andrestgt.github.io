@@ -15,10 +15,6 @@ The cappuccino here is probably the best in town — nice and smooth. Friendly p
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/laos/vientiane/naked-espresso-2.jpg" alt="Naked Espresso">
-  <figcaption>Naked Espresso</figcaption>
-</figure>
-<figure>
   <img src="/photos/laos/vientiane/naked-espresso-3.jpg" alt="Naked Espresso">
   <figcaption>Naked Espresso</figcaption>
 </figure>
