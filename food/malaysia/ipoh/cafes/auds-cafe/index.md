@@ -19,6 +19,17 @@ subtitle: Old Town, Ipoh · Café
 
 This popular Old Town café is a bit cramped, but they offer quality food and very good coffees. The menu is Western-Asian fusion with some interesting dishes such as the 'spaghetti pork buddies', pasta with roasted pork and crackling (RM20) which was as tasty as it sounds.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/malaysia/ipoh/auds-cafe-2.jpg" alt="Aud's Cafe">
+  <figcaption>Aud's Cafe</figcaption>
+</figure>
+<figure>
+  <img src="/photos/malaysia/ipoh/auds-cafe-3.jpg" alt="Aud's Cafe">
+  <figcaption>Aud's Cafe</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
