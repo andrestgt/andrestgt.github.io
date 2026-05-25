@@ -17,7 +17,7 @@ The coconut milk Lao Lao cocktails here are both very good and absurdly cheap. T
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 7.5/10 |
@@ -27,4 +27,4 @@ The coconut milk Lao Lao cocktails here are both very good and absurdly cheap. T
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lao+Lao+Garden+Restaurant+Kingkitsarath+Rd+Luang+Prabang)
 🍽️ **Cuisine:** Lao
-💰 **Price level:** —
+💰 **Price level:** 
