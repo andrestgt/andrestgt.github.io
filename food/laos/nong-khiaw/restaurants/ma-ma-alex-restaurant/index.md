@@ -24,7 +24,7 @@ You need patience here because service moves very slowly, but the home-cooked fo
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7.5/10   |
 | Service         | 6.5/10   |
 | Value for money | 8/10 |
 | Atmosphere      | 7.5/10 |
