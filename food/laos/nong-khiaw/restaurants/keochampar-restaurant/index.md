@@ -22,14 +22,14 @@ Keochampar serves tasty home-style Lao food at lower prices than most nearby com
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
+| Food            | 7.5/10   |
+| Service         | 7.5/10   |
+| Value for money | 8/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Keochampar+Restaurant+Nong+Khiaw+Laos)
 🍽️ **Cuisine:** Lao
-💰 **Price level:** —
+💰 **Price level:** LAK 80k-100k
