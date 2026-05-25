@@ -18,13 +18,13 @@ Le Banneton is a lovely little French-style café with very decent croissants, b
 | Category        | Score |
 | ---             | ---   |
 | Coffee          | 5/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Service         | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 6.5/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Le+Banneton+Cafe+Sakkaline+Rd+Luang+Prabang)
 ☕ **Type:** Bakery, Café
-💰 **Price level:** —
+💰 **Price level:** moderate
