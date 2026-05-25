@@ -13,9 +13,6 @@ subtitle: Kingkitsarath Rd, Luang Prabang · Lao
 
 The coconut milk Lao Lao cocktails here are both very good and absurdly cheap. The buffalo glass noodle salad was tasty as well, although I would have preferred it considerably spicier.
 
-<figure>
-  <img src="/photos/laos/luang-prabang/lao-lao-garden-2.jpg" alt="Lao Lao Garden Restaurant">
-</figure>
 
 ## Ratings
 
