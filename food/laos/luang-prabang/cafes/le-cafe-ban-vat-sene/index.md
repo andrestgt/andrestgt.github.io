@@ -11,7 +11,7 @@ subtitle: Sakkaline Rd, Luang Prabang · Café
   <figcaption>Le Café Ban Vat Sene</figcaption>
 </figure>
 
-Le Café serves the best cappuccino I managed to find in Luang Prabang, which admittedly says as much about the local competition as about the café itself. At 25k it's also the most expensive. The café is very attractive in a distinctly French colonial style, and the tartines are excellent and good value.
+Le Café serves the best cappuccino I managed to find in Luang Prabang, which admittedly says more about the local competition than about the quality of the coffee itself. At 25k it's also the most expensive. The café is very attractive in a distinctly French colonial style, and the tartines are excellent and good value.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -28,10 +28,10 @@ Le Café serves the best cappuccino I managed to find in Luang Prabang, which ad
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
+| Coffee          | 7/10   |
+| Service         | 8/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8.5/10 |
 | Overall         | 8/10   |
 
 ### Practical
