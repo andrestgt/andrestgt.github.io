@@ -21,10 +21,6 @@ This popular Old Town café is a bit cramped, but they offer quality food and ve
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/malaysia/ipoh/auds-cafe-2.jpg" alt="Aud's Cafe">
-  <figcaption>Aud's Cafe</figcaption>
-</figure>
-<figure>
   <img src="/photos/malaysia/ipoh/auds-cafe-3.jpg" alt="Aud's Cafe">
   <figcaption>Aud's Cafe</figcaption>
 </figure>
@@ -34,11 +30,11 @@ This popular Old Town café is a bit cramped, but they offer quality food and ve
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
+| Food and Coffee | 8.5/10   |
 | Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Value for money | 8/10 |
+| Atmosphere      | 7/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
@@ -46,5 +42,5 @@ This popular Old Town café is a bit cramped, but they offer quality food and ve
 
 ☕ **Type:** Café
 
-💰 **Price level:** —
+💰 **Price level:** moderate
 
