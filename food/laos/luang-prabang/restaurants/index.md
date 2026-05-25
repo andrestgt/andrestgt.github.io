@@ -47,12 +47,5 @@ Absurdly cheap coconut milk Lao Lao cocktails and a tasty buffalo glass noodle s
 
 ---
 
-## Chennai Restaurant
-*Khem Khong · Indian, Malaysian*
-Decent curries and samosas at low prices — the mango lassi is very good, but no beer is served.
-→ [Read the full review](/food/laos/luang-prabang/restaurants/chennai-restaurant/)
-
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
