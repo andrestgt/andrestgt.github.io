@@ -15,11 +15,11 @@ Paying almost 25k for a bitter, watery Boncafé cappuccino feels excessive even 
 | Coffee          | 4/10  |
 | Service         | 4/10  |
 | Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Atmosphere      | 6/10  |
+| Overall         | 4.5/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Luang+Prabang+Bakery+Restaurant+Vang+Vieng+Laos)
 ☕ **Type:** Bakery, Café
-💰 **Price level:** —
+💰 **Price level:** expensive
