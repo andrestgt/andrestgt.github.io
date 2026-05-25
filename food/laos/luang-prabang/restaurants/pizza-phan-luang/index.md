@@ -38,4 +38,4 @@ Pizza Phan Luang serves proper wood-fired pizzas at fair prices. The anchovy ver
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pizza+Phan+Luang+Kingkitsarath+Rd+Luang+Prabang)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** LAK 100.000
+💰 **Price level:** LAK 200.000
