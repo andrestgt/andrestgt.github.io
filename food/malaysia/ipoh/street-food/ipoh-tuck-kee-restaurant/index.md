@@ -13,6 +13,11 @@ subtitle: Taman Jubilee, Ipoh · Chinese
 
 This super popular eatery is famous for their big plates of heart attack noodle dishes, most notably Yu Keng Hor — a gooey plate full of noodles with wonderful pork lard, crispy skin, heavy sauce and a raw egg on top. Of course you want this. How could you not?
 
+<figure>
+  <img src="/photos/malaysia/ipoh/ipoh-tuck-kee-restaurant-2.jpg" alt="Ipoh Tuck Kee Restaurant">
+  <figcaption>Ipoh Tuck Kee Restaurant</figcaption>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |
