@@ -25,6 +25,6 @@ Ipoh's Old Town is full of hipster coffee shops in heritage buildings — perfec
 
 ### Practical
 
-🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Captain+Fish+Jalan+Medan+Ipoh+1B+Ipoh+Perak+Malaysia)
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bareeseta+Cafe+Jalan+Medan+Ipoh+1B+Ipoh+Perak+Malaysia)
 ☕ **Type:** Café
 💰 **Price level:** —
