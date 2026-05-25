@@ -6,10 +6,6 @@ title: Opera Bar Luang Prabang
 subtitle: Sisavangvong Road · Wine Bar
 ---
 
-<figure>
-  <img src="/photos/laos/luang-prabang/opera-bar-1.jpg" alt="Opera Bar Luang Prabang">
-  <figcaption>Opera Bar Luang Prabang</figcaption>
-</figure>
 
 Opera Bar has probably the best people-watching location in town. It's a small, stylish wine bar and definitely expensive by Lao standards, although the happy hour deals make it much more reasonable.
 
@@ -17,11 +13,11 @@ Opera Bar has probably the best people-watching location in town. It's a small, 
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 7.5/10 |
+| Drinks          | 8/10 |
 | Service         | 8/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
