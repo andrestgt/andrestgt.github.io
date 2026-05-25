@@ -31,6 +31,6 @@ The quirkiest and most attractive of the Old Town cafés — the best flat white
 ## Bareeseta Café
 *Medan Ipoh Bestari, Ipoh · Café*
 Excellent piccolo coffee and, without hyperbole, the best salmon croissant sandwich ever — generous salmon, poached egg, almond flakes, capers.
-→ [Read the full review](/food/malaysia/ipoh/cafes/captain-fish/)
+→ [Read the full review](/food/malaysia/ipoh/cafes/bareeseta-cafe/)
 
 ---
