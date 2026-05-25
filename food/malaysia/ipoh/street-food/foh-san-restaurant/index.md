@@ -24,16 +24,11 @@ Fantastic old school dim sum place — a lot less frightening and confusing than
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/malaysia/ipoh/foh-san-restaurant-4.jpg" alt="Foh San Restaurant">
-  <figcaption>Foh San Restaurant</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 8.5/10 |
@@ -43,4 +38,4 @@ Fantastic old school dim sum place — a lot less frightening and confusing than
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Foh+San+Restaurant+Jalan+Leong+Sin+Nam+Ipoh+Perak+Malaysia)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** Around RM40 for two
+💰 **Price level:** RM 40-50
