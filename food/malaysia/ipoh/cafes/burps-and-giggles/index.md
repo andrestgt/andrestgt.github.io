@@ -20,11 +20,11 @@ The quirkiest and most attractive of the several Old Town cafés — this one al
 | Coffee          | 9/10   |
 | Service         | 8.5/10 |
 | Value for money | 8.5/10 |
-| Atmosphere      | 9.5/10 |
-| Overall         | 9/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Burps+and+Giggles+Jalan+Sultan+Yussof+Old+Town+Ipoh+Perak)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate
