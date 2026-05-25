@@ -33,14 +33,14 @@ If you only eat at one Lao restaurant in Luang Prabang, Tamarind is probably the
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
+| Food            | 9/10 |
 | Service         | 8.5/10 |
-| Value for money | 9/10   |
+| Value for money | 8.5/10   |
 | Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tamarind+Restaurant+Kingkitsarath+Rd+Luang+Prabang)
 🍽️ **Cuisine:** Lao
-💰 **Price level:** —
+💰 **Price level:** LAK 150k-250k
