@@ -17,14 +17,14 @@ This quieter Joma branch turned out much better than the main one, with the best
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 7/10   |
+| Coffee          | 7.5/10   |
+| Service         | 7.5/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Joma+Bakery+Cafe+Luang+Prabang)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate
