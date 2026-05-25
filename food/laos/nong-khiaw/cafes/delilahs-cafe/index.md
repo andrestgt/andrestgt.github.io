@@ -22,14 +22,14 @@ Very comfortable place to spend a lazy afternoon. It gets busy at breakfast time
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 7/10   |
+| Coffee          | 7.5/10   |
+| Service         | 5/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Atmosphere      | 8/10 |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Delilah%27s+Cafe+Hostel+Nong+Khiaw+Laos)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** inexpensive
