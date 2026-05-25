@@ -12,7 +12,7 @@ The free drinks between 8 and 9 pm are indeed real, although the cheap Lao alcoh
 
 | Category        | Score |
 | ---             | ---   |
-| Bar food        | 6/10  |
+
 | Service         | 6/10  |
 | Value for money | 7/10  |
 | Atmosphere      | 6/10  |
@@ -22,4 +22,4 @@ The free drinks between 8 and 9 pm are indeed real, although the cheap Lao alcoh
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sakura+Bar+Vang+Vieng+Laos)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** inexpensive
