@@ -2,9 +2,14 @@
 layout: default
 section: food
 review: true
-title: Captain Fish
+title: Bareeseta Café
 subtitle: Medan Ipoh Bestari, Ipoh · Café
 ---
+
+<figure>
+  <img src="/photos/malaysia/ipoh/captain-fish-1.jpg" alt="Bareeseta Café">
+  <figcaption>Bareeseta Café</figcaption>
+</figure>
 
 Ipoh's Old Town is full of hipster coffee shops in heritage buildings — perfect for a quick caffeine boost, a bite and some AC. This one doesn't have WiFi, but the friendly table service is rare in Ipoh. The espresso drinks are excellent and the salmon croissant sandwich — generous salmon, crunchy leaves, poached egg, almond flakes, capers — is without hyperbole the best of its kind I've ever had.
 
