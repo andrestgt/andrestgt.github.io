@@ -28,14 +28,14 @@ Utopia is probably the definitive traveller hangout in Luang Prabang. The open-a
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 9/10   |
+| Bar food        | 8/10   |
 | Service         | 8.5/10 |
-| Value for money | 6/10   |
+| Value for money | 7.5/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Utopia+Bar+Restaurant+Kingkitsarath+Rd+Luang+Prabang)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** expensive
