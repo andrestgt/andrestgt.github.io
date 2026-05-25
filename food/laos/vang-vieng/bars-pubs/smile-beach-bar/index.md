@@ -6,6 +6,11 @@ title: Smile Beach Bar
 subtitle: Vang Vieng · Bar
 ---
 
+<figure>
+  <img src="/photos/laos/vang-vieng/smile-beach-bar-1.jpg" alt="Smile Beach Bar">
+  <figcaption>Smile Beach Bar</figcaption>
+</figure>
+
 Excellent riverside hangout with hammocks and tubes floating directly in the water for maximum relaxation. Prices are standard and the atmosphere is among the best in town.
 
 ## Ratings
