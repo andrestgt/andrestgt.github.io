@@ -35,7 +35,7 @@ Old school Old Town eatery packed all day with locals and day trippers. Little E
 | ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -43,4 +43,4 @@ Old school Old Town eatery packed all day with locals and day trippers. Little E
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Restoran+Thean+Chun+Jalan+Bandar+Timah+Ipoh+Perak+Malaysia)
 🍽️ **Cuisine:** Chinese, Noodles
-💰 **Price level:** Under RM10 per dish
+💰 **Price level:** RM2ß-30
