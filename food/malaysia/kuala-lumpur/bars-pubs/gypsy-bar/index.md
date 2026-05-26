@@ -27,4 +27,4 @@ Probably one of the cheapest places to drink along Changkat Bukit Bintang. Even 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gypsy+Bar+Changkat+Bukit+Bintang+Kuala+Lumpur)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
