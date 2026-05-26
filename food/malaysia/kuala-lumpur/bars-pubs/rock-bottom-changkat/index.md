@@ -12,14 +12,14 @@ My favourite happy hour spot around Changkat. Three pints including Paulaner or 
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 8/10   |
-| Service         | 7/10   |
+| Bar food        | 7.5/10   |
+| Service         | 7.5/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rock+Bottom+Changkat+Bukit+Bintang+Kuala+Lumpur)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** moderate 
