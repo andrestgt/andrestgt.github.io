@@ -6,6 +6,11 @@ title: Gypsy Bar
 subtitle: Changkat Bukit Bintang, KL · Bar
 ---
 
+<figure>
+  <img src="/photos/malaysia/kuala-lumpur/gypsy-bar-1.jpg" alt="Gypsy Bar">
+  <figcaption>Gypsy Bar</figcaption>
+</figure>
+
 Probably one of the cheapest places to drink along Changkat Bukit Bintang. Even the wine list remains relatively affordable. As always in Kuala Lumpur, happy hour is essential if you want to avoid frightening alcohol prices.
 
 ## Ratings
