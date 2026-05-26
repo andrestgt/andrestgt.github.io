@@ -39,11 +39,11 @@ Perfect location on Cathedral square. Very cute little bistro with good Vietname
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 7/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 7/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 9/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=6+P.+Ấu+Triệu+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)

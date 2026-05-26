@@ -17,11 +17,11 @@ Their motto is, drink Western beer, eat Vietnamese food, pay Vietnamese prices. 
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 9/10 |
-| Value for money | 7/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 7/10  |
+| Service | 6.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=M5)

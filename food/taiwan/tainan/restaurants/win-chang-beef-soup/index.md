@@ -17,11 +17,11 @@ Bone broth with fresh beef. Most famous in town and tasty for sure. Some carbs o
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 6.5/10 |
-| Overall         | 7.5/10 |
+| Food            | 7.5/10  |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 7.5/10  |
 
 ### Practical
 

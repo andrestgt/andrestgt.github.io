@@ -21,11 +21,11 @@ I also recommend ordering some of their Vietnamese dishes as sides, the anchovy 
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 9/10 |
-| Overall | 8/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 9/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

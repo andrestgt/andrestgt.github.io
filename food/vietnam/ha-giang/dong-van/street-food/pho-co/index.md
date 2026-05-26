@@ -35,11 +35,11 @@ Mind, you might sit on tiny plastic chairs on the street and get your food serve
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10     |
+| Service         | 8/10   |
+| Value for money | 8.5/10     |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10     |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=79H7+84R+Nguyễn+Trãi+Đồng+Văn+Hà+Giang+Vietnam)

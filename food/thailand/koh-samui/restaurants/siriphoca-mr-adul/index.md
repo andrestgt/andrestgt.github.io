@@ -12,11 +12,11 @@ This place seems fallen out of time. A big simple shack by the beach serving a h
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
-| Service         | 7/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 8.5/10   |
+| Food            | 7.5/10  |
+| Service         | 7/10  |
+| Value for money | 8.5/10    |
+| Atmosphere      | 8.5/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

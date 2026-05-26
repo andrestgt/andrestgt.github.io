@@ -34,11 +34,11 @@ Come to this basic, authentic place for delicious Hen Tron (35k) with Banh Trang
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Food            | 9/10   |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 

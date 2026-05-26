@@ -22,11 +22,11 @@ This splendidly decorated wine bar and restaurant is the to go place in Nha Tran
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 7/10  |
+| Service | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=176/3+Hùng+Vương+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)

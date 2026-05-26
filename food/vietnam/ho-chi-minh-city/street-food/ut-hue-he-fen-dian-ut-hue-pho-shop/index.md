@@ -17,11 +17,11 @@ For such a short road, little Đỗ Quang Đẩu in the heart of Saigon's backpa
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 8.5/10  |
+| Service | 7.5/10  |
+| Value for money | 8.5/10   |
+| Atmosphere | 6.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=37+Đỗ+Quang+Đẩu+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+Vietnam)

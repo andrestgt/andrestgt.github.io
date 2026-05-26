@@ -17,11 +17,11 @@ This simple rooftop bar offers million-dollar views in a relaxed, local atmosphe
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 9.5/10 |
-| Overall         | 9/10   |
+| Drinks          | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8/10    |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=7+Đường+số+54+Thảo+Điền+Thủ+Đức+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)

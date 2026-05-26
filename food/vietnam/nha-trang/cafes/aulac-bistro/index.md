@@ -11,11 +11,11 @@ Beautiful café, nicely decorated with sofas and cushions, making it a very comf
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Coffee          | 8.5/10     |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8.5/10     |
+| Overall         | 8.5/10     |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=75a+Nguyễn+Thị+Minh+Khai+Phước+Hoà+Nha+Trang+Khánh+Hòa+650000+Vietnam)

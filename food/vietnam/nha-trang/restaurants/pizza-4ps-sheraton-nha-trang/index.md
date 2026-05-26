@@ -52,11 +52,11 @@ They serve craft beers from the tap for less than you'd pay in most local bars (
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 9/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sheraton+Hotel+28+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+57000+Vietnam)

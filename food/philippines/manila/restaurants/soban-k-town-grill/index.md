@@ -17,11 +17,11 @@ Solid Korean barbecue restaurant with fair mid-range pricing and a generous spre
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 

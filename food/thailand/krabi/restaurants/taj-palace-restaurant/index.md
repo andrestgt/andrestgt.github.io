@@ -12,11 +12,11 @@ The Indian food here is good and tasty. The real deal, not amazing, but great fo
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
-| Service         | 7/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Food            | 8.5/10    |
+| Service         | 7/10    |
+| Value for money | 6/10    |
+| Atmosphere      | 6/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

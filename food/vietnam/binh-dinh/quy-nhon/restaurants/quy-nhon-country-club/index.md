@@ -11,11 +11,11 @@ To call this place quirky would probably be an understatement. It operates on di
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 9/10   |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=P6P5+W5R+QL1D+Ghềnh+Ráng+Quy+Nhơn+Bình+Định+Vietnam)

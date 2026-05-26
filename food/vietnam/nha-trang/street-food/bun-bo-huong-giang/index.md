@@ -22,11 +22,11 @@ In my opinion this is probably the best bowl of Bun Bo that you can find in Nha 
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 8/10 |
-| Value for money | 10/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 9/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=133+Nguyễn+Thị+Minh+Khai+Phước+Hoà+Nha+Trang+Khánh+Hòa+650000+Vietnam)

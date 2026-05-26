@@ -17,11 +17,11 @@ Funky retro-style diner next to Lantaw with fair prices and a relaxed atmosphere
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Coffee          | 5.5/10   |
+| Service         | 5.5/10   |
+| Value for money | 5.5/10   |
+| Atmosphere      | 5.5/10   |
+| Overall         | 5.5/10   |
 
 ### Practical
 

@@ -13,11 +13,11 @@ To be avoided
 
 | Category | Score |
 |---|---|
-| Coffee | 2/10 |
-| Service | 2/10 |
-| Value for money | 3/10 |
-| Atmosphere | 2/10 |
-| Overall | 2/10 |
+| Coffee | 7.5/10  |
+| Service | 2/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 2/10  |
+| Overall | 7.5/10  |
 
 
 ### Practical

@@ -17,11 +17,11 @@ Decent local spot for a bowl of bún bò Huế in Đà Lạt. Portions are gener
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Food | 6/10  |
+| Service | 6/10  |
+| Value for money | 5/10  |
+| Atmosphere | 6/10  |
+| Overall | 6/10  |
 
 
 ### Practical

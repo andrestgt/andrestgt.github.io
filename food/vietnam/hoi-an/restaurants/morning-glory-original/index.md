@@ -30,11 +30,11 @@ The specialties here are pricier but really delicious. Try the clam curry and th
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10     |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10    |
+| Atmosphere      | 6.5/10  |
+| Overall         | 8.5/10     |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=106+Nguyễn+Thái+Học+Phường+Minh+An+Hội+An+Quảng+Nam+Vietnam)

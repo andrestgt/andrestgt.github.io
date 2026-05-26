@@ -22,11 +22,11 @@ This basic hole in the wall eatery serves nothing but Northern style banh cuon w
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 7.5/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=PMRH+GM4+TT.+Vinh+Quang+Hoàng+Su+Phì+Hà+Giang+Vietnam)

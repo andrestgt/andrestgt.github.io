@@ -12,11 +12,11 @@ Probably the best of the Thai-Indian bunch in Ao Nang. Anyone who's wandered abo
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 10/10  |
+| Food            | 9/10   |
+| Service         | 7.5/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 

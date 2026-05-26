@@ -31,11 +31,11 @@ Imm Pochana serves excellent Yunnan-influenced food with generous portions and f
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8/10   |
-| Service         | 6/10   |
-| Value for money | 8.5/10   |
-| Atmosphere      | 7.5/10   |
-| Overall         | 8/10 |
+| Food            | 8.5/10    |
+| Service         | 6/10    |
+| Value for money | 8.5/10    |
+| Atmosphere      | 7.5/10    |
+| Overall         | 8.5/10  |
 
 ### Practical
 

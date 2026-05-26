@@ -11,11 +11,11 @@ Friendly, spacious coffee shop with ac and very fast WiFi, BUT I ordered a cappu
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Coffee          | 7.5/10   |
+| Service         | 7.5/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=86+Đ.+Đề+Thám+Phường+Cầu+Ông+Lãnh+Quận+1+Hồ+Chí+Minh+Vietnam)

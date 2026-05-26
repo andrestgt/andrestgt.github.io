@@ -12,11 +12,11 @@ Despite the name, this is very much Thai food adjusted for Filipino tastes. The 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 5/10   |
-| Service         | 7/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 5.5/10 |
+| Food            | 5/10    |
+| Service         | 7/10    |
+| Value for money | 6/10    |
+| Atmosphere      | 6/10    |
+| Overall         | 5.5/10  |
 
 ### Practical
 

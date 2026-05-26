@@ -17,11 +17,11 @@ The location is not exactly inspiring by Hoi An standards, but the 40k flat whit
 
 | Category | Score |
 |---|---|
-| Coffee | 8/10 |
-| Service | 9/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Coffee | 8/10  |
+| Service | 6.5/10  |
+| Value for money | 8/10  |
+| Atmosphere | 8/10  |
+| Overall | 8/10  |
 
 
 ### Practical

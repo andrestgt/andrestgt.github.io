@@ -28,11 +28,11 @@ Frankly, this is a terrible restaurant physically — cramped and designed like 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8.5/10  |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

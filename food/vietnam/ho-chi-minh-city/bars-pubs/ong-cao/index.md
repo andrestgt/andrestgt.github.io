@@ -11,11 +11,11 @@ Good little spot for exploring Vietnam's local craft beer scene, with a nice sel
 
 | Category | Score |
 |---|---|
-| Drinks | 8/10 |
-| Service | 9/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Drinks | 8/10  |
+| Service | 6.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8/10  |
 
 
 ### Practical

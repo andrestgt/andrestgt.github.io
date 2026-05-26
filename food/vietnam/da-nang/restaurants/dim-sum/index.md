@@ -21,11 +21,11 @@ These are up there with some of the best (and often much more expensive) dim sum
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=45a+Ng.+Gia+Tự+Hải+Châu+Đà+Nẵng+550000+Vietnam)

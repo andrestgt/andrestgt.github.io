@@ -22,11 +22,11 @@ Soft opening experience, so things will hopefully still get better. A huge three
 
 | Category | Score |
 |---|---|
-| Drinks | 6/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Drinks | 6/10  |
+| Service | 6/10  |
+| Value for money | 5/10  |
+| Atmosphere | 6/10  |
+| Overall | 6/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Brewhaha)

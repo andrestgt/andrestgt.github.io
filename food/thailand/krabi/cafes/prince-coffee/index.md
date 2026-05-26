@@ -12,10 +12,10 @@ Nicest looking café in town, very comfortable. But the cappuccino is average at
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 6/10   |
-| Value for money | 5/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 6/10   |
+| Coffee          | 9/10    |
+| Value for money | 5/10    |
+| Atmosphere      | 7.5/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

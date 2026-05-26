@@ -28,11 +28,11 @@ Pretty good Pho Bo for only 25k. And the only place in town serving it at lunch 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phở+Lý+Quốc+Sư)

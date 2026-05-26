@@ -22,11 +22,11 @@ The coffee here is a sad joke. Don't they train their baristas? Second worse Sta
 
 | Category | Score |
 |---|---|
-| Coffee | 2/10 |
-| Service | 2/10 |
-| Value for money | 1/10 |
-| Atmosphere | 2/10 |
-| Overall | 2/10 |
+| Coffee | 2/10  |
+| Service | 2/10  |
+| Value for money | 1/10  |
+| Atmosphere | 2/10  |
+| Overall | 2/10  |
 
 
 ### Practical

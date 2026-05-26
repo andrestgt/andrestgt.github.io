@@ -22,11 +22,11 @@ Everything here is reasonably decent, from the pizza to the cakes and coffee, bu
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 7.5/10   |
+| Service         | 6/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 

@@ -19,11 +19,11 @@ Unfortunately it all doesn't add up, especially taking into consideration the sk
 
 | Category | Score |
 |---|---|
-| Drinks | 6/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Drinks | 9/10  |
+| Service | 6/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

@@ -12,11 +12,11 @@ Abaca charges Manila-level prices, with a flat white costing around 140 Php, but
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 7/10   |
+| Service         | 6.5/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 7/10    |
 
 ### Practical
 

@@ -28,11 +28,11 @@ One of the more comfortable airport cafés around and a good place to wait for a
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 7/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 7.5/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 

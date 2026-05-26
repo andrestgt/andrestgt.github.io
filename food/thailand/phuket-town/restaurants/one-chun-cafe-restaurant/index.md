@@ -23,11 +23,11 @@ The chicken curry was very good. The fish balls were tasty as well, but felt a l
 
 | Category        | Score |
 |-----------------|-------|
-| Food            | 7.5/10  |
-| Service         | 8/10  |
-| Value for money | 7/10  |
-| Atmosphere      | 9/10  |
-| Overall         | 7.5/10 |
+| Food            | 7.5/10   |
+| Service         | 6.5/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 8.5/10   |
+| Overall         | 7.5/10  |
 
 ### Practical
 

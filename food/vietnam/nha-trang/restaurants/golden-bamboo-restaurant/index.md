@@ -32,11 +32,11 @@ The quality of the food is nothing special, but perfectly adequate for the price
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 4/10 |
-| Value for money | 9/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 7/10  |
+| Service | 4/10  |
+| Value for money | 8.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=17+Biệt+Thự+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)

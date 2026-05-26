@@ -11,11 +11,11 @@ There's nothing better for breakfast on a cool Sapa morning than a hot bowl of n
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=436+Đường+Điện+Biên+Phủ+TT.+Sa+Pa+Sa+Pa+Lào+Cai+31000+Vietnam)

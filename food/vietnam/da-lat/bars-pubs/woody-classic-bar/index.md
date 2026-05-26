@@ -17,11 +17,11 @@ This is a nice boozer, dark and cozy. Mellow rock and pop tunes, mostly from the
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Drinks          | 8/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 8/10    |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=49a+Đường+Trương+Công+Định+Phường+1+Đà+Lạt+Lâm+Đồng+Vietnam)

@@ -39,11 +39,11 @@ I first visited this restaurant almost two decades ago. Fast forward to 2025, an
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 9/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Food            | 9/10    |
+| Service         | 6.5/10    |
+| Value for money | 9/10    |
+| Atmosphere      | 9/10    |
+| Overall         | 8.5/10   |
 
 ### Practical
 

@@ -12,11 +12,11 @@ This tiny bakery serves what is probably the best cappuccino on the island, usin
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Coffee          | 9/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 

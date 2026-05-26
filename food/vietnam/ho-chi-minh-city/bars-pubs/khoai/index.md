@@ -50,11 +50,11 @@ It's very much an expat place and, strangely given the great prices and good vib
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Drinks          | 9/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=85+Đ.+Quốc+Hương+Thảo+Điền+Quận+2+Hồ+Chí+Minh+70000+Vietnam)

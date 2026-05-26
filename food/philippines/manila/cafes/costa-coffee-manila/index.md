@@ -17,11 +17,11 @@ Very spacious and comfortable branch, but with flat whites costing around 160 Ph
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Coffee          | 7.5/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 

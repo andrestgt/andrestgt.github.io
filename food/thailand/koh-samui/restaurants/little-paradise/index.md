@@ -29,10 +29,10 @@ Little Paradise feels like a throwback to a different era, set on an almost absu
 
 | Category        | Score  |
 |-----------------|--------|
-| Service         | 8/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 9.5/10   |
-| Overall         | 8.5/10   |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8.5/10      |
+| Overall         | 8.5/10    |
 
 ### Practical
 

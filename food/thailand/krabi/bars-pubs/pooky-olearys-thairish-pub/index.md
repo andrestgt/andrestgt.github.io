@@ -12,12 +12,12 @@ Pooky's is basically just a nice quiet resto-pub with air con and a few tables. 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Drinks          | 6/10   |
-| Service         | 8/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8.5/10    |
+| Drinks          | 7.5/10    |
+| Service         | 7.5/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 

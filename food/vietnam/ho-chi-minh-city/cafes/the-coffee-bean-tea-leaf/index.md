@@ -17,11 +17,11 @@ Spacious, comfortable branch in an excellent central location. Like most CBTL ou
 
 | Category | Score |
 |---|---|
-| Coffee | 6/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Coffee | 8.5/10  |
+| Service | 6/10  |
+| Value for money | 5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

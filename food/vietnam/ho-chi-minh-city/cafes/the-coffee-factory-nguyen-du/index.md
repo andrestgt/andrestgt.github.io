@@ -17,11 +17,11 @@ Cute, fashionably run-down and agreeably urban in style. The coffee here is very
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 5/10   |
-| Overall         | 8/10   |
+| Coffee          | 8.5/10  |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=53H+Đ.+Nguyễn+Du+Bến+Nghé+Quận+1+Hồ+Chí+Minh+Vietnam)

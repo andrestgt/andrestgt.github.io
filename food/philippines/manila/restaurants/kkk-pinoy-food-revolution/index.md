@@ -17,11 +17,11 @@ Despite the dramatic name, there is nothing particularly revolutionary here. The
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 5/10  |
-| Service         | 6/10  |
-| Value for money | 5/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 5/10   |
+| Service         | 6/10   |
+| Value for money | 5/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 

@@ -30,11 +30,11 @@ Go to Kiwami instead, a bit more expensive, but light years ahead in terms of qu
 
 | Category | Score |
 |---|---|
-| Food | 4/10 |
-| Service | 3/10 |
-| Value for money | 3/10 |
-| Atmosphere | 4/10 |
-| Overall | 4/10 |
+| Food | 4/10  |
+| Service | 3/10  |
+| Value for money | 5.5/10  |
+| Atmosphere | 5.5/10  |
+| Overall | 4/10  |
 
 
 ### Practical

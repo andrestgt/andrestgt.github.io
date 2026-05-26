@@ -12,8 +12,8 @@ Less busy than Starbucks but the cappuccino is horrible. Avoid.
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 2/10  |
-| Overall         | 2/10  |
+| Coffee          | 2/10   |
+| Overall         | 2/10   |
 
 ### Practical
 

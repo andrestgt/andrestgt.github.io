@@ -17,11 +17,11 @@ This might be the fanciest café I've ever been to. The decor and service is str
 
 | Category | Score |
 |---|---|
-| Coffee | 10/10 |
-| Service | 10/10 |
-| Value for money | 10/10 |
-| Atmosphere | 9/10 |
-| Overall | 10/10 |
+| Coffee | 9/10  |
+| Service | 6.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 9/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=8+Quang+Trung+P.Tây+Sơn+Pleiku+Gia+Lai+600000+Vietnam)

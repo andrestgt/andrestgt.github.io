@@ -44,11 +44,11 @@ Inviting restaurant in DMall, unfortunately, while the international menu sounds
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 4/10  |
-| Service         | 4/10  |
-| Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Food            | 4/10   |
+| Service         | 4/10   |
+| Value for money | 4/10   |
+| Atmosphere      | 4/10   |
+| Overall         | 4/10   |
 
 ### Practical
 

@@ -28,11 +28,11 @@ The food and service at Yoree are both perfectly good, but I'm not entirely conv
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
-| Service         | 7.5/10 |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7/10   |
-| Overall         | 6.5/10 |
+| Food            | 7.5/10    |
+| Service         | 6.5/10  |
+| Value for money | 5.5/10  |
+| Atmosphere      | 7/10    |
+| Overall         | 7.5/10  |
 
 ### Practical
 

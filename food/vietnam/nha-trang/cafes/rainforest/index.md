@@ -22,11 +22,11 @@ Eye-catching café with a very well executed jungle theme. The cappuccino is per
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 6/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 6/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 7/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=146+Võ+Trứ+Tân+Lập+Nha+Trang+Khánh+Hòa+650000+Vietnam)

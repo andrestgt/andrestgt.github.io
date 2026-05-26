@@ -42,11 +42,11 @@ It’s just a 10-minute walk from the metro station, and the ride from District 
 
 | Category | Score |
 |---|---|
-| Drinks | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Drinks | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 9/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 

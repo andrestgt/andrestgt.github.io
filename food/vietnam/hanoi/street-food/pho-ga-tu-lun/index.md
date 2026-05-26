@@ -22,11 +22,11 @@ Of all the soups i tried in Hanoi, the Bun Thang here was my least favourite. It
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 9/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2RJX+CPP+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)

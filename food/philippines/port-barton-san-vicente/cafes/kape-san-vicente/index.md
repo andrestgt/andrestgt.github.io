@@ -12,11 +12,11 @@ Great to find something resembling a modern coffee shop with an espresso machine
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Coffee          | 6.5/10    |
+| Service         | 6.5/10    |
+| Value for money | 6.5/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 6.5/10  |
 
 ### Practical
 

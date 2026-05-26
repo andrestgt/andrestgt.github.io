@@ -12,11 +12,11 @@ Air conditioned oasis in the bustle of Maha Chai Market. It's a thoroughly moder
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 7.5/10 |
-| Service         | 8/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Coffee          | 6.5/10  |
+| Service         | 6.5/10    |
+| Value for money | 6.5/10    |
+| Atmosphere      | 6.5/10    |
+| Overall         | 6.5/10    |
 
 ### Practical
 

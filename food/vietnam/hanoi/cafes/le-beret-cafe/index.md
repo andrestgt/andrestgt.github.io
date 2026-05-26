@@ -17,11 +17,11 @@ Friendly modern café with strong air conditioning, reliable wifi and properly p
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 8/10    |
+| Service         | 7.5/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1A+P.+Phan+Bội+Châu+Cửa+Nam+Hoàn+Kiếm+Hà+Nội+Vietnam)

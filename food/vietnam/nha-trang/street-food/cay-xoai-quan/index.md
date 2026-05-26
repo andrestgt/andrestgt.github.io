@@ -19,11 +19,11 @@ Probably not worth taking a trip to the outskirts just to eat here, but if you'r
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 6.5/10  |
+| Service | 6.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 6.5/10  |
+| Overall | 6.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=630+Đ.+Lương+Định+Của+Vĩnh+Thạnh+Nha+Trang+Khánh+Hòa+Vietnam)

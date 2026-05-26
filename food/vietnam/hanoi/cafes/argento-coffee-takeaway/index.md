@@ -11,11 +11,11 @@ Very good cappuccino here for 35k. Inexpensive. Just a pity that the café is no
 
 | Category | Score |
 |---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 7/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Coffee | 8/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8/10  |
 
 
 ### Practical

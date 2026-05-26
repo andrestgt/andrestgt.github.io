@@ -17,11 +17,11 @@ Fanciest and comfiest café in town, really nice, and surprisingly inexpensive p
 
 | Category | Score |
 |---|---|
-| Coffee | 6/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Coffee | 7.5/10  |
+| Service | 6/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 6/10  |
+| Overall | 7.5/10  |
 
 
 ### Practical

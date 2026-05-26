@@ -12,11 +12,11 @@ Very authentic cà phê phin — the đen đá is as black as the night and stro
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 8/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 

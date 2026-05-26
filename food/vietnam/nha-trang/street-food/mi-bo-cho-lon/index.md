@@ -68,11 +68,11 @@ Edit : they just moved to bigger premises with a slightly more expansive menu an
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Food            | 9/10    |
+| Service         | 7.5/10  |
+| Value for money | 9/10   |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=8B+Đ.+Ngô+Thời+Nhiệm+Ward+Nha+Trang+Khánh+Hòa+650000+Vietnam)

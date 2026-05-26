@@ -33,11 +33,11 @@ Standard drinking place in Vinh Diem Trung. They have fresh Saigon beer for 15k 
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 5/10 |
-| Overall | 6/10 |
+| Food | 5.5/10  |
+| Service | 5.5/10  |
+| Value for money | 5/10  |
+| Atmosphere | 5/10  |
+| Overall | 5.5/10  |
 
 
 ### Practical

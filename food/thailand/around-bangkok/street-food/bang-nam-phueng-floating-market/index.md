@@ -12,10 +12,10 @@ Despite the name, this is not really a floating market, but more of a typical Th
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Value for money | 9/10   |
-| Atmosphere      | 9.5/10 |
-| Overall         | 10/10  |
+| Food            | 8/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 

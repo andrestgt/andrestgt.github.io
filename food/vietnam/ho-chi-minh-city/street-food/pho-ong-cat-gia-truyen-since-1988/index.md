@@ -14,11 +14,11 @@ It's not bad but there's better options around.
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 6/10 |
-| Value for money | 6/10 |
-| Atmosphere | 5/10 |
-| Overall | 6/10 |
+| Food | 5.5/10  |
+| Service | 5.5/10  |
+| Value for money | 5.5/10  |
+| Atmosphere | 5/10  |
+| Overall | 5.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=201+Phạm+Ngũ+Lão+Phường+Phạm+Ngũ+Lão+Quận+1+Thành+phố+Hồ+Chí+Minh+Vietnam)

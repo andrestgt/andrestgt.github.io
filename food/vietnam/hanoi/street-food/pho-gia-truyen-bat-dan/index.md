@@ -30,11 +30,11 @@ The food? There's Pho Bo Tai Nam, it's 60k a bowl and it's delicious. I wouldn't
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Food            | 7/10    |
+| Service         | 6.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 7/10   |
 
 ### Practical
 

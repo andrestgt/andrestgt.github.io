@@ -54,11 +54,11 @@ The food here is very good though. A perfectly prepared piece of foie gras goes 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 6.5/10    |
+| Service         | 6.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 6.5/10    |
 
 ### Practical
 

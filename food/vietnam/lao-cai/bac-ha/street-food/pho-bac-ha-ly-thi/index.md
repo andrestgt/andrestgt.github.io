@@ -35,11 +35,11 @@ Eating at this place is quite a special experience. With many places in Bac Ha c
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8/10    |
+| Service         | 7/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pạc+Kha+TT.+Bắc+Hà+Bắc+Hà+Lào+Cai+Vietnam)

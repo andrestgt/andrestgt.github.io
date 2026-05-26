@@ -39,11 +39,11 @@ Prices have gone up, predictably, but it's still affordable
 
 | Category | Score |
 |---|---|
-| Food | 8.5/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 9/10 |
-| Overall | 8.5/10 |
+| Food | 9/10   |
+| Service | 7.5/10  |
+| Value for money | 9/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Trần+Phú+Vĩnh+Nguyên+Nha+Trang+Khánh+Hòa+Vietnam)

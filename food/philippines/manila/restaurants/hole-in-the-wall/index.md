@@ -22,11 +22,11 @@ Hole In The Wall is one of the most attractive food courts I've come across anyw
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Food            | 8/10    |
+| Service         | 7/10    |
+| Value for money | 5.5/10  |
+| Atmosphere      | 7.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 

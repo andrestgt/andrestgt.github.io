@@ -19,11 +19,11 @@ It’s just about walking distance from Pham Ngu Lao, making it a great option i
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=031+Lô+J+CC+Đ.+Nguyễn+Thiện+Thuật+Phường+1+Quận+3+Thành+phố+Hồ+Chí+Minh+Vietnam)

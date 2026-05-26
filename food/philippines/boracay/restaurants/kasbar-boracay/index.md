@@ -12,11 +12,11 @@ Kasbah is one of those pleasant surprises that are completely unexpected. The la
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 7/10   |
+| Food            | 8.5/10    |
+| Service         | 7/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 9/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

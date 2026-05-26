@@ -47,11 +47,11 @@ My personal favourite place for bún chả in Hanoi since long before they got M
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 9/10    |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 9/10    |
 
 ### Practical
 

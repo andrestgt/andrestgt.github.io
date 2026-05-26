@@ -22,11 +22,11 @@ The coffee at this Bo's branch is noticeably worse than at some of their other l
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 4/10  |
-| Service         | 4/10  |
-| Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Coffee          | 4/10   |
+| Service         | 4/10   |
+| Value for money | 4/10   |
+| Atmosphere      | 4/10   |
+| Overall         | 4/10   |
 
 ### Practical
 

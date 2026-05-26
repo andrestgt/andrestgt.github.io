@@ -33,11 +33,11 @@ The Cholon Khang Dim Sum Bar is a good choice for a filling dumpling feast if yo
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Food            | 8.5/10    |
+| Service         | 6.5/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=200+Đ.+Nguyễn+Tri+Phương+Phường+4+Quận+10+Hồ+Chí+Minh+Vietnam)

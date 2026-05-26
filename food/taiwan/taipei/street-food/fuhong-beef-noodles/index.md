@@ -22,11 +22,11 @@ Insanely good beef noodles. The broth, the meat, the noodles — it's all just d
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 9/10   |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

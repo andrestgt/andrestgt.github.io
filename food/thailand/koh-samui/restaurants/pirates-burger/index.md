@@ -17,11 +17,11 @@ Welcoming little tourist/expat restaurant with burgers and Thai food. I tried th
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7/10   |
-| Service         | 8.5/10 |
-| Value for money | 6.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 7/10   |
+| Food            | 7/10    |
+| Service         | 8/10   |
+| Value for money | 6.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 7/10    |
 
 ### Practical
 

@@ -13,11 +13,11 @@ However, stick to the beers, the cocktails are not very good. It's cheaper than 
 
 | Category | Score |
 |---|---|
-| Drinks | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 7/10 |
-| Overall | 8/10 |
+| Drinks | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

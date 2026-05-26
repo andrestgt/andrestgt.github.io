@@ -35,11 +35,11 @@ Beautiful little café with a few sofas and pavement seating. Prices are rather 
 
 | Category | Score |
 |---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 7/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Coffee | 6.5/10  |
+| Service | 6.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 6.5/10  |
+| Overall | 6.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=02+Ngũ+Chỉ+Sơn+St+Sa+Pa+Lào+Cai+330000+Vietnam)

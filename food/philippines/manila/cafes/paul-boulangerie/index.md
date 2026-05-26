@@ -12,11 +12,11 @@ The bread at PAUL is extremely expensive by Manila standards, but the quality is
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 8.5/10    |
+| Service         | 7/10    |
+| Value for money | 5.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

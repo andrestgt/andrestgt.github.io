@@ -17,11 +17,11 @@ There's lots of overpriced tourist bun bo joints in Hue, this is definitely not 
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 9/10  |
+| Service | 8.5/10   |
+| Value for money | 9/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5+Nguyễn+Du+Phú+Cát+Huế+Thừa+Thiên+Huế+Vietnam)

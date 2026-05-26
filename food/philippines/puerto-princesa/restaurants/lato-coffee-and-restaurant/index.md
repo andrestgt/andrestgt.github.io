@@ -17,11 +17,11 @@ Upmarket carinderia with sea views on Puerto's rather forlorn Baywalk. They offe
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8/10   |
-| Service         | 10/10  |
-| Value for money | 8/10   |
-| Atmosphere      | 10/10  |
-| Overall         | 8/10   |
+| Food            | 8.5/10    |
+| Service         | 6.5/10   |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8.5/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

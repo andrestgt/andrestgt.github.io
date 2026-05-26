@@ -28,11 +28,11 @@ Most famous Pho place in the Old Town so you can imagine it's packed with locals
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10    |
+| Service         | 6.5/10  |
+| Value for money | 8/10    |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=10+P.+Lý+Quốc+Sư+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)

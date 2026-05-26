@@ -41,11 +41,11 @@ Still good, but the beef was sweeter and chewier than last time. Squid was excel
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 4/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 9/10  |
+| Service | 4/10  |
+| Value for money | 8/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=77+Đ.+Nguyễn+Bỉnh+Khiêm+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+650000+Vietnam)

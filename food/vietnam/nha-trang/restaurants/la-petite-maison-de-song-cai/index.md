@@ -68,11 +68,11 @@ Wonderful French restaurant overlooking the city. The 470k brunch is fantastic v
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 9/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=La+Petite+Maison+de+Song+Cai)

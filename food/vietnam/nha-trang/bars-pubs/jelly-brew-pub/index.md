@@ -23,11 +23,11 @@ Now, in 2025, the beer cocktails are still 90k, and I still enjoy them. The food
 
 | Category | Score |
 |---|---|
-| Drinks | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 6/10 |
-| Overall | 8/10 |
+| Drinks | 7/10  |
+| Service | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7/10  |
 
 
 ### Practical

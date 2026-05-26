@@ -22,11 +22,11 @@ This hole-in-the-wall dim sum spot in Cho Lon is a hidden gem. They offer a grea
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Food            | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10    |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=38B+Đ.+Học+Lạc+Phường+14+Quận+5+Thành+phố+Hồ+Chí+Minh+Vietnam)

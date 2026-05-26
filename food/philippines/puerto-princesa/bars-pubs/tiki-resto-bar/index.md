@@ -12,11 +12,11 @@ I know I would have loved this place twenty years ago. The live band is actually
 
 | Category        | Score |
 | ---             | ---   |
-| Bar food        | 6/10  |
-| Service         | 6/10  |
-| Value for money | 7/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Bar food        | 8.5/10   |
+| Service         | 6/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 

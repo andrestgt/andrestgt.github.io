@@ -17,11 +17,11 @@ New location, still a cute café, but standards have slipped noticeably. What th
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 4/10  |
-| Service         | 4/10  |
-| Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Coffee          | 4/10   |
+| Service         | 4/10   |
+| Value for money | 4/10   |
+| Atmosphere      | 4/10   |
+| Overall         | 4/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=10/1B+Nguyễn+Thiện+Thuật+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)

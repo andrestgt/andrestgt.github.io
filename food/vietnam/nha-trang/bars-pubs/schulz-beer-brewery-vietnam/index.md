@@ -19,11 +19,11 @@ I remember when they first opened a couple of years ago, they had some very tast
 
 | Category | Score |
 |---|---|
-| Drinks | 8/10 |
-| Service | 8/10 |
-| Value for money | 7/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Drinks | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=36+Đặng+Tất+Vĩnh+Hải+Nha+Trang+Khánh+Hòa+650000+Vietnam)

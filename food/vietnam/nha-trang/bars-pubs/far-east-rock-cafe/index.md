@@ -46,11 +46,11 @@ Used to have the cheapest drinks in the tourist area, and even though prices hav
 
 | Category | Score |
 |---|---|
-| Drinks | 6/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Drinks | 9/10  |
+| Service | 6/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 6/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 

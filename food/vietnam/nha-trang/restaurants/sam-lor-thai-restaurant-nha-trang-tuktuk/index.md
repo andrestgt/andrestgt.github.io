@@ -22,11 +22,11 @@ This newly opened Thai restaurant should be so much better. It's friendly, nicel
 
 | Category | Score |
 |---|---|
-| Food | 4/10 |
-| Service | 2/10 |
-| Value for money | 3/10 |
-| Atmosphere | 4/10 |
-| Overall | 4/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 4/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

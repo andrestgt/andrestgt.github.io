@@ -17,11 +17,11 @@ Really good grilled chicken and bo la lot. A bit more expensive maybe than you'd
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 7/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 8.5/10  |
+| Service | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

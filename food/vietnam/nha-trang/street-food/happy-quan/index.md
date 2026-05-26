@@ -11,11 +11,11 @@ This basic coffee shop has some of the best views over Nha Trang without having 
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 9/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

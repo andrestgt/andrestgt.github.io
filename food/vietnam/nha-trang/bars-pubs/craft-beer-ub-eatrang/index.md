@@ -32,11 +32,11 @@ Food is on the pricey side, and portions are small, but it’s decent. A place y
 
 | Category | Score |
 |---|---|
-| Drinks | 6/10 |
-| Service | 8/10 |
-| Value for money | 5/10 |
-| Atmosphere | 8/10 |
-| Overall | 6/10 |
+| Drinks | 5.5/10  |
+| Service | 6.5/10  |
+| Value for money | 5/10  |
+| Atmosphere | 6.5/10  |
+| Overall | 5.5/10  |
 
 
 ### Practical

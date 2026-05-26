@@ -28,11 +28,11 @@ They seem to have better baristas these days. Coffee drinks are very good now, t
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 7/10   |
+| Service         | 7/10    |
+| Value for money | 5.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 7/10    |
 
 ### Practical
 

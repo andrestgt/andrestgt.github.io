@@ -12,11 +12,11 @@ Over the top uber chic café in one of the beautiful wooden buildings along the 
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
-| Service         | 8/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 8/10   |
+| Coffee          | 8/10    |
+| Service         | 7.5/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 

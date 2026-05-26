@@ -28,11 +28,11 @@ If you want to drink some cold beers with your grill and fry platters, they're v
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 7/10  |
+| Service | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 6.5/10  |
+| Overall | 7/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2+Hoàng+Diệu+Vĩnh+Hoà+Nha+Trang+Khánh+Hòa+Vietnam)

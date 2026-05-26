@@ -36,11 +36,11 @@ On a positive note, the service here is good and friendly and the menu is still 
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 4/10 |
-| Value for money | 7/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Food | 5.5/10  |
+| Service | 4/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 5.5/10  |
+| Overall | 5.5/10  |
 
 
 ### Practical

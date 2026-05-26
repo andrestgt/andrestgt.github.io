@@ -33,11 +33,11 @@ Nice boulevard location and the cakes are perfectly acceptable, but almost every
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 4/10  |
-| Service         | 4/10  |
-| Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Coffee          | 9/10   |
+| Service         | 4/10   |
+| Value for money | 4/10   |
+| Atmosphere      | 4/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 

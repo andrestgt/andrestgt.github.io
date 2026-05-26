@@ -40,11 +40,11 @@ Fantastic rooftop bar with stunning views and great drink specials such as G&T f
 
 | Category | Score |
 |---|---|
-| Drinks | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Drinks | 8.5/10   |
+| Service | 7.5/10  |
+| Value for money | 8.5/10   |
+| Atmosphere | 9/10  |
+| Overall | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phong+NHA+Bố+Trạch+District+Quảng+Bình+Vietnam)

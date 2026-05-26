@@ -12,11 +12,11 @@ Aning is one of the fanciest restaurants in Ao Nang, with real napkins, nice cut
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 5.5/10 |
-| Service         | 9/10   |
-| Value for money | 4/10   |
-| Atmosphere      | 8/10   |
-| Overall         | 6/10   |
+| Food            | 9/10   |
+| Service         | 6.5/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 7.5/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

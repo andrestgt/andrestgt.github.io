@@ -22,11 +22,11 @@ Small little eatery on Ngo Gia Tu that specializes in Banh Cuon and Banh Uot. 35
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere | 6/10 |
-| Overall | 8/10 |
+| Food | 8/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 6/10  |
+| Overall | 8/10  |
 
 
 ### Practical

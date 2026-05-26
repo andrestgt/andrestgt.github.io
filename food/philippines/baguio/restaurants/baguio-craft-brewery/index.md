@@ -12,11 +12,11 @@ Baguio Craft Brewery serves very good beer, good food, and usually has excellent
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 6/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10     |
+| Service         | 7.5/10  |
+| Value for money | 6/10    |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10     |
 
 ### Practical
 

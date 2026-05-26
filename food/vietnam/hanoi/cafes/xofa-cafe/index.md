@@ -29,11 +29,11 @@ But for Xofa I'll make an excellent exception since they offered us a love mango
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 9/10   |
-| Overall         | 9/10   |
+| Coffee          | 8.5/10     |
+| Service         | 6.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 8.5/10     |
+| Overall         | 8.5/10     |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=14+P.+Tống+Duy+Tân+Hàng+Bông+Hoàn+Kiếm+Hà+Nội+Vietnam)

@@ -58,11 +58,11 @@ Friendly and competent service, reasonable prices and a fun atmosphere make this
 
 | Category | Score |
 |---|---|
-| Drinks | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Drinks | 9/10  |
+| Service | 6.5/10  |
+| Value for money | 9/10  |
+| Atmosphere | 9/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 

@@ -22,11 +22,11 @@ Yozakura left me with mixed feelings. The sashimi portions were small, fairly ex
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10 |
-| Service         | 6/10   |
-| Value for money | 5/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Food            | 8.5/10  |
+| Service         | 6/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 6/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

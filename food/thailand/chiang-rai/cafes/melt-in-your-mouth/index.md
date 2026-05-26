@@ -23,11 +23,11 @@ Melt In Your Mouth is a very attractive riverside café with a good range of foo
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 8/10   |
-| Service         | 8/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 7/10    |
+| Service         | 7.5/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8/10   |
+| Overall         | 7/10    |
 
 ### Practical
 

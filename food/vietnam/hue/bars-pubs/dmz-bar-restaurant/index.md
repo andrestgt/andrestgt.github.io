@@ -11,11 +11,11 @@ This long established backpacker bar is trying to reinvent itself now that there
 
 | Category | Score |
 |---|---|
-| Drinks | 6/10 |
-| Service | 6/10 |
-| Value for money | 6/10 |
-| Atmosphere | 4/10 |
-| Overall | 6/10 |
+| Drinks | 6/10  |
+| Service | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 6/10  |
 
 
 ### Practical

@@ -17,11 +17,11 @@ They're serious about their Shishas here, very good quality, accordingly priced,
 
 | Category | Score |
 |---|---|
-| Drinks | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Drinks | 8/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8/10  |
 
 
 ### Practical

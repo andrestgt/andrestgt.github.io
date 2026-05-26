@@ -17,11 +17,11 @@ Their Banh Mi Dac Biet for 22k is one of the best traditional Vietnamese baguett
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 9/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phương+Sài+tp.+Nha+Trang+63+Đ.+Lê+Thành+Phương+Vạn+Thạnh+Nha+Trang+Khánh+Hòa+Vietnam)

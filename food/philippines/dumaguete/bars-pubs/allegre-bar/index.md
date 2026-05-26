@@ -33,11 +33,11 @@ This tiny, yet elegant hole-in-the-wall is elevating the gastronomic options of 
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 6/10   |
-| Atmosphere      | 9.5/10 |
-| Overall         | 9/10   |
+| Bar food        | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

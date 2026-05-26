@@ -19,11 +19,11 @@ That's why it's such a pity that they don't seem to have a capable management to
 
 | Category | Score |
 |---|---|
-| Drinks | 6/10 |
-| Service | 6/10 |
-| Value for money | 6/10 |
-| Atmosphere | 5/10 |
-| Overall | 6/10 |
+| Drinks | 9/10  |
+| Service | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere | 5/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

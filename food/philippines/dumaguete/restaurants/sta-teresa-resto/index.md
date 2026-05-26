@@ -12,11 +12,11 @@ An upmarket carinderia serving some of the most authentically Filipino food in t
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 6/10   |
 
 ### Practical
 

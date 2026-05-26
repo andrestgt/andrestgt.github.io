@@ -12,11 +12,11 @@ Maybe I'm wrong, but it feels like this place is struggling. Craft beer doesn't 
 
 | Category        | Score |
 | ---             | ---   |
-| Bar food        | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Bar food        | 7.5/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 

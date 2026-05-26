@@ -17,11 +17,11 @@ Very popular local hole in the wall place. Pho Sot Vang is 50k a bowl with lots 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Food            | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1+P.+Lê+Văn+Hưu+Phan+Chu+Trinh+Hai+Bà+Trưng+Hà+Nội+Vietnam)

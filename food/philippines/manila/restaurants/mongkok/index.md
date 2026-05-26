@@ -28,11 +28,11 @@ For a cheap franchise, Mongkok serves surprisingly decent dim sum. It's obviousl
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 6/10  |
-| Value for money | 7/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 7.5/10   |
+| Service         | 6/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 

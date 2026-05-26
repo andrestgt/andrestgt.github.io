@@ -11,11 +11,11 @@ The cakes and pies here are really delicious and surprisingly inexpensive. The c
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 5.5/10 |
-| Service         | 7.5/10 |
-| Value for money | 7.5/10 |
-| Atmosphere      | 8/10   |
-| Overall         | 7/10   |
+| Coffee          | 5.5/10  |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10    |
+| Overall         | 7/10    |
 
 ### Practical
 

@@ -11,11 +11,11 @@ Surprisingly fancy café right on Highway 1, though prices are far less expensiv
 
 | Category | Score |
 |---|---|
-| Coffee | 8/10 |
-| Service | 8/10 |
-| Value for money | 7/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Coffee | 7/10  |
+| Service | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7/10  |
 
 
 ### Practical

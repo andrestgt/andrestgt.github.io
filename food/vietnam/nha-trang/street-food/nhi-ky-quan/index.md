@@ -37,11 +37,11 @@ That said, I’d totally recommend it for their meat platters, which I doubt you
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 8/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 6.5/10  |
+| Overall | 8/10  |
 
 
 ### Practical

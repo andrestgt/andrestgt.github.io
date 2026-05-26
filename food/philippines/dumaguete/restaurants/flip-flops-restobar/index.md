@@ -50,11 +50,11 @@ Simple but excellent little restobar attracting a pleasant mix of locals and exp
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Food            | 9/10   |
+| Service         | 7/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 

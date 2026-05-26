@@ -17,11 +17,11 @@ Very good Italian coffee in a modern, fan-cooled setting. The cappuccino is well
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Coffee          | 9/10   |
+| Service         | 7/10    |
+| Value for money | 5.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

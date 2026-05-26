@@ -15,11 +15,11 @@ At least it was cheap
 
 | Category | Score |
 |---|---|
-| Food | 4/10 |
-| Service | 4/10 |
-| Value for money | 5/10 |
-| Atmosphere | 4/10 |
-| Overall | 4/10 |
+| Food | 4/10  |
+| Service | 4/10  |
+| Value for money | 5.5/10  |
+| Atmosphere | 4/10  |
+| Overall | 4/10  |
 
 
 ### Practical

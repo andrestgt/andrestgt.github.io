@@ -37,11 +37,11 @@ Prices are very reasonable for such a popular and attractively designed restaura
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 9/10   |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=04+Bạch+Đằng+Hải+Châu+Đà+Nẵng+550000+Vietnam)

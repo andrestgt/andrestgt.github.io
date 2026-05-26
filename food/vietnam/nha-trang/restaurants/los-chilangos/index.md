@@ -68,11 +68,11 @@ Update: they now have a more extensive menu including burritos and rice meals wh
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Food            | 7/10    |
+| Service         | 7.5/10  |
+| Value for money | 8/10   |
+| Atmosphere      | 6.5/10  |
+| Overall         | 7/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=K98+Trần+Nhật+Duật+nối+dài+Nha+Trang+Khánh+Hòa+650000+Vietnam)

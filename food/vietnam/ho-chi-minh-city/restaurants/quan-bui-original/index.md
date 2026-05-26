@@ -29,11 +29,11 @@ This restaurant is popular with both locals and tourists. It offers a good varie
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 10/10 |
-| Value for money | 8/10 |
-| Atmosphere | 10/10 |
-| Overall | 8/10 |
+| Food | 8/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 8.5/10  |
+| Overall | 8/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=19+Ngô+Văn+Năm+Bến+Nghé+Quận+1+Thành+phố+Hồ+Chí+Minh+700000+Vietnam)

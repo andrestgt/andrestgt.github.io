@@ -28,11 +28,11 @@ Easily the nicest pub in the city, or possibly the country. They have a most gen
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Drinks          | 8.5/10     |
+| Service         | 7.5/10  |
+| Value for money | 8/10    |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10     |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5b+Ng.+Báo+Khánh+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+111000+Vietnam)

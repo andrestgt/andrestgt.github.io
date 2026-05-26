@@ -17,11 +17,11 @@ This is your quintessential Vietnamese seafood restaurant—a massive place with
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10    |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=15+Trần+Phú+Vĩnh+Nguyên+Nha+Trang+Khánh+Hòa+57000+Vietnam)

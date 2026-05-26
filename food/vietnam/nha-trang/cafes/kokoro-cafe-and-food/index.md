@@ -12,11 +12,11 @@ A throwback to Nha Trang's better days as a backpacker haven, Kokoro offers cold
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Coffee          | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10    |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=21+Đặng+Tất+Vĩnh+Hải+Nha+Trang+Khánh+Hòa+650000+Vietnam)

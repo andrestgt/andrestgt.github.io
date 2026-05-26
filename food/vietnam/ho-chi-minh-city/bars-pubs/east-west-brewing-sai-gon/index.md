@@ -25,11 +25,11 @@ choice for regular visits. They offer a convenient happy hour in the afternoon, 
 
 | Category | Score |
 |---|---|
-| Drinks | 8/10 |
-| Service | 9/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Drinks | 8.5/10  |
+| Service | 6.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 8/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 

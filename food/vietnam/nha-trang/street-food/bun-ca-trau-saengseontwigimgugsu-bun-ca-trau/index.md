@@ -22,11 +22,11 @@ The best Northern style Bun Ca I've had in Nha Trang. Now, it's not quite as ama
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 9/10    |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=91+Đ.+Hoàng+Hoa+Thám+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)

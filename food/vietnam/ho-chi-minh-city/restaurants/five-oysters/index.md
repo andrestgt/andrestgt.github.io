@@ -23,11 +23,11 @@ After adding copious amount of fish sauce and chilies, all the food that came ou
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 7/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 8.5/10   |
+| Service         | 6.5/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=234+Đ.+Bùi+Viện+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+Vietnam)

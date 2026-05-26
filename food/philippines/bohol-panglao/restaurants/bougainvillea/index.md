@@ -61,11 +61,11 @@ Outside of fancy tapas bars in the big cities you will not find better Spanish f
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10    |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

@@ -11,11 +11,11 @@ Delivery only, but this is the best value pizza in town. I only order from them.
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 9.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Food            | 9/10   |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2/7+Gò+bầu+Vĩnh+Thạnh+Nha+Trang+Khánh+Hòa+651710+Vietnam)

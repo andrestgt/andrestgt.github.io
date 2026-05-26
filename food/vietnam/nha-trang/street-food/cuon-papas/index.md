@@ -33,11 +33,11 @@ Not the most atmospheric place, but good choice for all kinds of rolls, wraps an
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 4/10 |
-| Value for money | 6/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Food | 5.5/10  |
+| Service | 4/10  |
+| Value for money | 5.5/10  |
+| Atmosphere | 5.5/10  |
+| Overall | 5.5/10  |
 
 
 ### Practical

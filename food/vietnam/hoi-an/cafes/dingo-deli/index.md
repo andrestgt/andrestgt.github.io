@@ -17,11 +17,11 @@ Superb sandwiches and very good cakes in what can only be described as expat hea
 
 | Category | Score |
 |---|---|
-| Coffee | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Coffee | 9/10  |
+| Service | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=463+Cửa+Đại+Cẩm+Châu+Hội+An+Quảng+Nam+560000+Vietnam)

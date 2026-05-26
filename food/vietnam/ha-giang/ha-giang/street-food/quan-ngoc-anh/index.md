@@ -17,11 +17,11 @@ Come to this friendly noodle joint for a large bowl of tasty Sot Vang (beef nood
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8/10    |
+| Service         | 7.5/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=RX9P+G4V+P.+Minh+Khai+Tp.+Hà+Giang+Hà+Giang+Vietnam)

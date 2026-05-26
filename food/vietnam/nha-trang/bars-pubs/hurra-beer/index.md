@@ -25,11 +25,11 @@ Count on spending 200k per pax for a good meal with a few beers.
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Drinks          | 7/10    |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 8/10   |
+| Overall         | 7/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=225+Thống+Nhất+Phương+Sài+Nha+Trang+Khánh+Hòa+650000+Vietnam)

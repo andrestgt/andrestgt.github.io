@@ -22,11 +22,11 @@ It's definitely not the friendliest place in the Philippines, but the location i
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8/10   |
-| Service         | 6/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 10/10  |
-| Overall         | 8/10   |
+| Food            | 8.5/10    |
+| Service         | 6/10    |
+| Value for money | 8/10    |
+| Atmosphere      | 8.5/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

@@ -17,11 +17,11 @@ One of several basic harbour view sidewalk bia hoi joints in this area. Cool mug
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 7/10 |
-| Value for money | 8/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 7/10  |
+| Service | 6.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Diều+Tô+Quán)

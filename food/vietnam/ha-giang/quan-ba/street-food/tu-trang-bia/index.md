@@ -22,11 +22,11 @@ This is the only bia hoi joint I saw in the centre of Tam Son. It's a friendly, 
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 9/10 |
-| Atmosphere | 8/10 |
-| Overall | 8/10 |
+| Food | 8/10  |
+| Service | 8/10  |
+| Value for money | 8.5/10  |
+| Atmosphere | 6.5/10  |
+| Overall | 8/10  |
 
 
 ### Practical

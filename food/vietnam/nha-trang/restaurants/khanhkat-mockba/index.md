@@ -17,11 +17,11 @@ This place has existed for a long time and is clearly geared towards Russian tou
 
 | Category | Score |
 |---|---|
-| Food | 4/10 |
-| Service | 6/10 |
-| Value for money | 5/10 |
-| Atmosphere | 8/10 |
-| Overall | 6/10 |
+| Food | 4/10  |
+| Service | 6/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 6/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=24+Trần+Quang+Khải+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)

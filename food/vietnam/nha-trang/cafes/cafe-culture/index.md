@@ -104,11 +104,11 @@ Edit 2022: they moved to a better and bigger location, the whole place is nicer 
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Coffee          | 9/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

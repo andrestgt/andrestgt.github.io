@@ -22,11 +22,11 @@ Sumo Sam does perfectly decent sushi and Japanese comfort food. The sashimi was 
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 6/10  |
-| Value for money | 5/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 5.5/10   |
+| Service         | 5.5/10   |
+| Value for money | 5/10   |
+| Atmosphere      | 5.5/10   |
+| Overall         | 5.5/10   |
 
 ### Practical
 

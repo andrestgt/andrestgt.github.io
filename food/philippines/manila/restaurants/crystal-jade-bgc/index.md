@@ -39,11 +39,11 @@ The main reason to visit any Crystal Jade branch is usually the dim sum, and thi
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 9/10   |
+| Service         | 7/10    |
+| Value for money | 5.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 

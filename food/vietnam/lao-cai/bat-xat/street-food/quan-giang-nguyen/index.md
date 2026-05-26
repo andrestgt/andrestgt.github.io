@@ -17,11 +17,11 @@ The small town of Muang Hum is surrounded by absolutely gorgeous scenery, but th
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 6/10 |
-| Value for money | 6/10 |
-| Atmosphere | 7/10 |
-| Overall | 6/10 |
+| Food | 6/10  |
+| Service | 6/10  |
+| Value for money | 6/10  |
+| Atmosphere | 7/10  |
+| Overall | 6/10  |
 
 
 ### Practical

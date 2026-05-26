@@ -22,11 +22,11 @@ Now, this is my kind of place. A microbrewery that actually manages to brew some
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Drinks          | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8/10    |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=225+Cửa+Đại+Cẩm+Châu+Hội+An+Quảng+Nam+563824+Vietnam)

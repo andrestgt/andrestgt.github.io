@@ -33,11 +33,11 @@ There's a good reason why Yummy is the most popular traveller café in Cat Ba. I
 
 | Category | Score |
 |---|---|
-| Food | 10/10 |
-| Service | 10/10 |
-| Value for money | 9/10 |
-| Atmosphere | 10/10 |
-| Overall | 10/10 |
+| Food | 8.5/10  |
+| Service | 8.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=102+Núi+Ngọc+TT.+Cát+Bà+Cát+Hải+Hải+Phòng+Vietnam)

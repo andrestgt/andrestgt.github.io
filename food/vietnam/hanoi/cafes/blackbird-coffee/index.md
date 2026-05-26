@@ -17,11 +17,11 @@ Hipster coffee shop where bespectacled baristas prepare some of the best brews i
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Coffee          | 9/10   |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5+P.+Chân+Cầm+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+Vietnam)

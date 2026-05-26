@@ -22,11 +22,11 @@ Surprisingly stylish café by Fields Avenue standards, with a touch of class and
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 5/10   |
-| Service         | 7/10   |
-| Value for money | 6.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 6.5/10 |
+| Coffee          | 5/10    |
+| Service         | 7/10    |
+| Value for money | 6.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 6.5/10  |
 
 ### Practical
 

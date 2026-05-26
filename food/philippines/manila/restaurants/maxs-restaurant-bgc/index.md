@@ -12,11 +12,11 @@ Whenever I end up at Max's, it's usually for two things: the chicken sisig and t
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Food            | 9/10   |
+| Service         | 7/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 9/10   |
 
 ### Practical
 

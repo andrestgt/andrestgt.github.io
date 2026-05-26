@@ -12,11 +12,11 @@ Kuppa uses good espresso beans and the coffee preparation itself is perfectly co
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 7.5/10 |
-| Service         | 6/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Coffee          | 8.5/10  |
+| Service         | 6/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 6/10    |
+| Overall         | 8.5/10    |
 
 ### Practical
 

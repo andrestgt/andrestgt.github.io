@@ -17,11 +17,11 @@ I stayed here back in 2009 when Port Barton was still a quiet, off-the-beaten-pa
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 7/10    |
+| Service         | 7/10    |
+| Value for money | 5.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 7/10    |
 
 ### Practical
 

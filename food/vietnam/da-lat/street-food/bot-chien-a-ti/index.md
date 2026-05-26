@@ -11,11 +11,11 @@ This is the place to go for a filling vegetarian meal for very little money, an 
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 6/10 |
-| Value for money | 7/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Food | 6/10  |
+| Service | 6/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 6/10  |
+| Overall | 6/10  |
 
 
 ### Practical

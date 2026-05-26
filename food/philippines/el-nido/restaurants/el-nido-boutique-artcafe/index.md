@@ -22,11 +22,11 @@ When I first visited El Nido in the late 00s, the Art Café had some unique sell
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8/10   |
-| Service         | 8/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 10/10  |
-| Overall         | 8/10   |
+| Food            | 9/10    |
+| Service         | 7.5/10    |
+| Value for money | 7.5/10    |
+| Atmosphere      | 9/10   |
+| Overall         | 8.5/10    |
 
 ### Practical
 

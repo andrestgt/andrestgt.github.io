@@ -33,11 +33,11 @@ We had originally planned to go to the more modern looking and well reviewed B52
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 6/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Food            | 8.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 7.5/10    |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=FJ75+75F+Đường+Phạm+Văn+Đồng+Nam+Sách+Đồng+Hới+Quảng+Bình+Vietnam)

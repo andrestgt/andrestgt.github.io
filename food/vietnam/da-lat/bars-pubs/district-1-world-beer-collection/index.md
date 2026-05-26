@@ -15,11 +15,11 @@ That's acceptable in a dance club but not a beer pub with food.
 
 | Category | Score |
 |---|---|
-| Drinks | 6/10 |
-| Service | 7/10 |
-| Value for money | 6/10 |
-| Atmosphere | 6/10 |
-| Overall | 6/10 |
+| Drinks | 8.5/10  |
+| Service | 6.5/10  |
+| Value for money | 6/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 8.5/10  |
 
 
 ### Practical

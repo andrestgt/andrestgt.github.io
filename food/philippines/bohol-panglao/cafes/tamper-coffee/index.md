@@ -28,11 +28,11 @@ By local standards this should be the ideal café: comfortable seating, quiet at
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Coffee          | 6/10   |
+| Service         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 6/10   |
 
 ### Practical
 

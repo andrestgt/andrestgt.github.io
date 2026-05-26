@@ -33,11 +33,11 @@ Cafe Cubana is an absolute rip-off. Prices are high even by Makati standards, ye
 
 | Category        | Score |
 | ---             | ---   |
-| Bar food        | 2/10  |
-| Service         | 2/10  |
-| Value for money | 2/10  |
-| Atmosphere      | 2/10  |
-| Overall         | 2/10  |
+| Bar food        | 2/10   |
+| Service         | 2/10   |
+| Value for money | 2/10   |
+| Atmosphere      | 2/10   |
+| Overall         | 2/10   |
 
 ### Practical
 

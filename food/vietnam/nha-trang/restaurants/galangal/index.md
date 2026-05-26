@@ -21,11 +21,11 @@ To be fair, the freshly prepared food looks delicious, but I doubt I’ll be com
 
 | Category | Score |
 |---|---|
-| Food | 6/10 |
-| Service | 10/10 |
-| Value for money | 6/10 |
-| Atmosphere | 10/10 |
-| Overall | 6/10 |
+| Food | 7.5/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7.5/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=1-A+Biệt+Thự+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)

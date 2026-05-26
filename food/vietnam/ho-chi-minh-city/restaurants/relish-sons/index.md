@@ -17,11 +17,11 @@ Great concept, very good burgers and fries, craft beers on tap. One of my favour
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8.5/10 |
+| Food            | 9/10   |
+| Service         | 7/10    |
+| Value for money | 8/10   |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=2+Đ.+Đặng+Hữu+Phổ+Thảo+Điền+Quận+2+Hồ+Chí+Minh+700000+Vietnam)

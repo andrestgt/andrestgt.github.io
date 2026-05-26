@@ -17,11 +17,11 @@ One of the lesser known craft beer breweries in Vietnam, but they have an impres
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 9.5/10 |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9.5/10 |
+| Drinks          | 9/10   |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=105+P.+Quảng+Khánh+Quảng+An+Tây+Hồ+Hà+Nội+Vietnam)

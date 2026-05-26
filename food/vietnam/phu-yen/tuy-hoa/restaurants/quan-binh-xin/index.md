@@ -22,11 +22,11 @@ We stopped here because the place was super busy full of locals even past lunch 
 
 | Category | Score |
 |---|---|
-| Food | 8/10 |
-| Service | 8/10 |
-| Value for money | 7/10 |
-| Atmosphere | 9/10 |
-| Overall | 8/10 |
+| Food | 7/10  |
+| Service | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere | 7.5/10  |
+| Overall | 7/10  |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Quan+Binh+Xin)

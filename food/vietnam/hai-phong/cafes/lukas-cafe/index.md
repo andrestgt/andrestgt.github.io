@@ -11,11 +11,11 @@ Very nice little café in the Old Town. It seems brand new and as such less busy
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8.5/10 |
-| Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Coffee          | 9/10    |
+| Service         | 6.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=25/52+Đ.+Chùa+Vẽ+Đông+Hải+1+Hải+An+Hải+Phòng+Vietnam)

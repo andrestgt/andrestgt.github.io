@@ -12,11 +12,11 @@ Very few comfortable seats, no WiFi and poorly prepared coffee. Easily one of th
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 4/10  |
-| Service         | 4/10  |
-| Value for money | 4/10  |
-| Atmosphere      | 4/10  |
-| Overall         | 4/10  |
+| Coffee          | 7.5/10   |
+| Service         | 4/10   |
+| Value for money | 4/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
