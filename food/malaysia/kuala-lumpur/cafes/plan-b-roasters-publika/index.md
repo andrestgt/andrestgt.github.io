@@ -13,13 +13,13 @@ Excellent coffee at fair prices and one of the better café options in Publika. 
 | Category        | Score  |
 | ---             | ---    |
 | Coffee          | 9/10   |
-| Service         | 8.5/10 |
+| Service         | 8/10 |
 | Value for money | 8/10   |
-| Atmosphere      | 8.5/10 |
-| Overall         | 9/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Plan+B+Roasters+Publika+Solaris+Dutamas+Kuala+Lumpur)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** —
+💰 **Price level:** moderate
