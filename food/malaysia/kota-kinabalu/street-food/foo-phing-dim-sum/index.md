@@ -28,9 +28,9 @@ Cantonese dim sum, traditional with dim sum trolley and all. Good quality, reaso
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 8.5/10   |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
+| Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8.5/10 |
 
@@ -38,4 +38,4 @@ Cantonese dim sum, traditional with dim sum trolley and all. Good quality, reaso
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Foo+Phing+Dim+Sum+Kolam+Centre+Jalan+Lintas+Kota+Kinabalu+Sabah)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** RM15
+💰 **Price level:** RM25-40
