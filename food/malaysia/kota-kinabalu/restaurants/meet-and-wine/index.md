@@ -60,4 +60,4 @@ Fantastic little bistro and wine bar. Small menu of delicious Mediterranean dish
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Meet%2BWine+Bistro+Jalan+Signal+Hill+Park+Kota+Kinabalu+Sabah)
 🍽️ **Cuisine:** Mediterranean, International
-💰 **Price level:** —
+💰 **Price level:** RM 100-150
