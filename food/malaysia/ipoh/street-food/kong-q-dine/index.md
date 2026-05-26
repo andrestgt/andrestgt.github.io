@@ -23,13 +23,13 @@ This uber friendly place may not have the history or popularity of some other ea
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
+| Service         | 8/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kong+Q+Dine+Jalan+Market+Old+Town+Ipoh+Perak+Malaysia)
 🍽️ **Cuisine:** Malaysian, Chinese
-💰 **Price level:** —
+💰 **Price level:** RM 20-30
