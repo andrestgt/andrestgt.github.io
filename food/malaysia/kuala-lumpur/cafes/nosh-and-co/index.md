@@ -13,9 +13,9 @@ I only came here initially to escape the rain, but it turned out to be a very pl
 | Category        | Score  |
 | ---             | ---    |
 | Coffee          | 8/10   |
-| Service         | 7/10   |
+| Service         | 7.5/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
