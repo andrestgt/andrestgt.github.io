@@ -33,4 +33,4 @@ The chicken keema curry, garlic naan, and samosas were decent enough, although t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chennai+Restaurant+Nong+Khiaw+Laos)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** LAK 80k
+💰 **Price level:** ₭80k

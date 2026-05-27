@@ -47,4 +47,4 @@ Probably the most inviting restaurant in Nong Khiaw, with pleasant views and rel
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coco+Home+Bar+Restaurant+Nong+Khiaw+Laos)
 🍽️ **Cuisine:** Lao
-💰 **Price level:** LAK 100k-120k
+💰 **Price level:** ₭100k-120k

@@ -33,4 +33,4 @@ For a backpacker-oriented Mexican restaurant in Southeast Asia, Amigo's serves s
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Amigo%27s+Mexican+Restaurant+Vang+Vieng+Laos)
 🍽️ **Cuisine:** Mexican
-💰 **Price level:** LAK 100k-150k
+💰 **Price level:** ₭100k-150k

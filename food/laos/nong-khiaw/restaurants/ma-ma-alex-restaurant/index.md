@@ -35,4 +35,4 @@ You need patience here because service moves very slowly, but the home-cooked fo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ma+Ma+Alex+Restaurant+Nong+Khiaw+Laos)
 🍽️ **Cuisine:** Lao
-💰 **Price level:** LAK 80k-100k
+💰 **Price level:** ₭80k-100k

@@ -28,4 +28,4 @@ Almost two decades ago, on my first trips to Laos, Nazim always delivered a big,
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nazim+Indian+Restaurant+Vang+Vieng+Laos)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** LAK 100k-120k
+💰 **Price level:** ₭100k-120k

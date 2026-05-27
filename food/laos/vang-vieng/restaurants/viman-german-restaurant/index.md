@@ -28,4 +28,4 @@ Unusual little restaurant serving both Thai and German home-style food, and surp
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Viman+Vang+Vieng+German+Restaurant+Vang+Vieng+Laos)
 🍽️ **Cuisine:** German, Thai
-💰 **Price level:** LAK 100k-120k
+💰 **Price level:** ₭100k-120k

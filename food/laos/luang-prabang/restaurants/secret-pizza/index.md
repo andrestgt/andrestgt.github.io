@@ -39,4 +39,4 @@ Secret Pizza is only open twice a week, but it's absolutely worth planning aroun
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Secret+Pizza+Ban+Nasamphanh+Luang+Prabang)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** LAK 200k-250k
+💰 **Price level:** ₭200k-250k
