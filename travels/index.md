@@ -57,6 +57,10 @@ Italy &middot; Slovenia &middot; Croatia &middot; Bosnia &middot; Serbia &middot
 Italy &middot; Sardinia
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-sardinia-2005/)
 
+## Cycling the Baltic (2004)
+Finland &middot; Estonia &middot; Latvia &middot; Lithuania
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-baltic-2004/)
+
 ## Cycling Corsica (2004)
 South of France &middot; Corsica
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-corse-2004/)
