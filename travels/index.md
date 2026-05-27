@@ -86,6 +86,10 @@ Hungary &middot; Romania &middot; Bulgaria &middot; Greece &middot; Croatia &mid
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/eastern-europe-2002/)
 cat > travels/usa-2000/index.md << 'YAML'
 
+## Laos & Thailand (2002)
+Laos &middot; Thailand
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/laos-thailand-2002/)
+
 ## Pakistan & India (2001)
 Pakistan &middot; India
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/pakistan-india-2001/)
