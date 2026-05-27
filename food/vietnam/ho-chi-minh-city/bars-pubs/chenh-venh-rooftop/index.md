@@ -26,4 +26,4 @@ This simple rooftop bar offers million-dollar views in a relaxed, local atmosphe
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=7+Đường+số+54+Thảo+Điền+Thủ+Đức+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫100–200k
+💰 **Price level:** moderate

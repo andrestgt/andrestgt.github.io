@@ -31,4 +31,4 @@ I loved this place when they were in soft opening, but sadly since they had thei
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=96+Trần+Phú+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** moderate

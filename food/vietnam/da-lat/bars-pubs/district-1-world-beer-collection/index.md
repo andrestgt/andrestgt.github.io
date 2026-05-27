@@ -25,4 +25,4 @@ That's acceptable in a dance club but not a beer pub with food.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34+Đ.+Nguyễn+Chí+Thanh+Phường+1+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫200–300k
+💰 **Price level:** moderate

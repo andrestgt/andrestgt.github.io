@@ -29,4 +29,4 @@ The place is elegant, expensive and dedicated to making actual quality cocktails
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=110+Đ.+Trịnh+Phong+P+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** expensive

@@ -26,4 +26,4 @@ This is a nice boozer, dark and cozy. Mellow rock and pop tunes, mostly from the
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=49a+Đường+Trương+Công+Định+Phường+1+Đà+Lạt+Lâm+Đồng+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** inexpensive

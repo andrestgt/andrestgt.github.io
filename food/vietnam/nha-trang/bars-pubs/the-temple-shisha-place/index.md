@@ -27,4 +27,4 @@ They're serious about their Shishas here, very good quality, accordingly priced,
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=97+Nguyễn+Thiện+Thuật+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** moderate

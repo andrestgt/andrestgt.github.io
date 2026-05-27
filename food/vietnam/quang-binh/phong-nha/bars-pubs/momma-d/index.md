@@ -49,4 +49,4 @@ Fantastic rooftop bar with stunning views and great drink specials such as G&T f
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Phong+NHA+Bố+Trạch+District+Quảng+Bình+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** inexpensive

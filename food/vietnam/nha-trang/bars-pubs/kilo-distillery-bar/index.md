@@ -55,4 +55,4 @@ Lovely off the beaten track bar and distillery only open on the weekends and for
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kilo+Distillery+&+Bar)
 🍺 **Type:** Bar & Distillery
-💰 **Price level:** ₫200–300k
+💰 **Price level:** inexpensive

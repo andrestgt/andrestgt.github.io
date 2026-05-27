@@ -54,5 +54,5 @@ It’s just a 10-minute walk from the metro station, and the ride from District 
 
 🍺 **Type:** Craft Beer
 
-💰 **Price level:** ₫100–200k
+💰 **Price level:** moderate
 

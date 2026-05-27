@@ -81,5 +81,5 @@ Well hidden, down by the river, this basic place is the most scenic bar in Nha T
 
 🍺 **Type:** Bar & Pub
 
-💰 **Price level:** ₫300–400k
+💰 **Price level:** moderate
 

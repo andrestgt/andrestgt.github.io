@@ -22,4 +22,4 @@ I came across this place near the pier after seeing a sign for craft beer and Ne
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Junction+Bang+Kachao+Phra+Pradaeng+Samut+Prakan+Thailand)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ฿200–400
+💰 **Price level:** inexpensive

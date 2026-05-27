@@ -37,4 +37,4 @@ Easily the nicest pub in the city, or possibly the country. They have a most gen
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5b+Ng.+Báo+Khánh+Hàng+Trống+Hoàn+Kiếm+Hà+Nội+111000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** inexpensive

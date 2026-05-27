@@ -37,4 +37,4 @@ Location, location. It's a beautiful beach bar with reasonable prices, but stick
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Surf+Bar)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** inexpensive

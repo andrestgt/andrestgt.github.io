@@ -22,4 +22,4 @@ Over the top uber chic café in one of the beautiful wooden buildings along the 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Devaree+Boutique+Amphawa+Samut+Songkhram+Thailand)
 ☕ **Type:** Café
-💰 **Price level:** ฿80+
+💰 **Price level:** moderate

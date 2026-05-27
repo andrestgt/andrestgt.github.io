@@ -33,4 +33,4 @@ This is an attractive expat hangout, but I wasn't entirely convinced mainly beca
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=An+Thượng+30+Bắc+Mỹ+Phú+Ngũ+Hành+Sơn+Đà+Nẵng+550000+Vietnam)
 🍺 **Type:** Craft Beer
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** moderate

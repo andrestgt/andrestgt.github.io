@@ -26,4 +26,4 @@ One of the lesser known craft beer breweries in Vietnam, but they have an impres
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=105+P.+Quảng+Khánh+Quảng+An+Tây+Hồ+Hà+Nội+Vietnam)
 🍺 **Type:** Craft Beer
-💰 **Price level:** ₫100–200k
+💰 **Price level:** moderate

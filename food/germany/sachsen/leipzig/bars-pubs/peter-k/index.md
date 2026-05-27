@@ -23,4 +23,4 @@ Peter K. is pretty much exactly how I think a bar should be: indie, cheap and ch
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ludwigstraße+81+04315+Leipzig+Germany)
 📍 Ludwigstraße 81, 04315 Leipzig, Germany
-💰 **Price level:** €1–10
+💰 **Price level:** inexpensive

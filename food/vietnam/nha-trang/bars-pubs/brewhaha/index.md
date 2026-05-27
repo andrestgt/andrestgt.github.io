@@ -31,4 +31,4 @@ Soft opening experience, so things will hopefully still get better. A huge three
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Brewhaha)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** inexpensive

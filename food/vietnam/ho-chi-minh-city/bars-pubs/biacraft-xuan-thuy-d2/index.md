@@ -26,4 +26,4 @@ One of the smaller BiaCraft places in town, they only seem to offer a slightly d
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=90+Xuân+Thủy+Thảo+Điền+Thủ+Đức+Thành+phố+Hồ+Chí+Minh+70000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫300–400k
+💰 **Price level:** expensive

@@ -33,4 +33,4 @@ Now, in 2025, the beer cocktails are still 90k, and I still enjoy them. The food
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=46.4+Hùng+Vương+Lộc+Thọ+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫200–300k
+💰 **Price level:** inexpensive

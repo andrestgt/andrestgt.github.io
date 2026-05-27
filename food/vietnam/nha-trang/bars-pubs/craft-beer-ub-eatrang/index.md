@@ -42,4 +42,4 @@ Food is on the pricey side, and portions are small, but it’s decent. A place y
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=47+Nguyễn+Đức+Cảnh+Phước+Trung+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍺 **Type:** Craft Beer
-💰 **Price level:** ₫100–200k
+💰 **Price level:** moderate

@@ -26,4 +26,4 @@ Not strictly a beach bar, as it's not right on the beach, but it does have the v
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=99+Nguyễn+Phan+Vinh+Cẩm+An+Hội+An+Quảng+Nam+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** inexpensive

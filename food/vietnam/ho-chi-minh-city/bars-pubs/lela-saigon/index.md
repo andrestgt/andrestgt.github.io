@@ -29,4 +29,4 @@ Unfortunately it all doesn't add up, especially taking into consideration the sk
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=138+Lê+Lai+Phường+Phạm+Ngũ+Lão+Quận+1+Hồ+Chí+Minh+700000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫100–200k
+💰 **Price level:** expensive

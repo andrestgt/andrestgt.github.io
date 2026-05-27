@@ -34,4 +34,4 @@ Count on spending 200k per pax for a good meal with a few beers.
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=225+Thống+Nhất+Phương+Sài+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫100–200k
+💰 **Price level:** inexpensive

@@ -51,4 +51,4 @@ Furbrew is not exactly my favourite craft beer in Vietnam, I prefer Turtle Lake 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=41+ngõ+2/238+Đ.+Âu+Cơ+Quảng+An+Tây+Hồ+Hà+Nội+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫50–100k
+💰 **Price level:** inexpensive

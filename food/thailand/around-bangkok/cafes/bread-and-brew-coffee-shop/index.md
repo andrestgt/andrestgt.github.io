@@ -22,4 +22,4 @@ Air conditioned oasis in the bustle of Maha Chai Market. It's a thoroughly moder
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bread+and+Brew+Coffee+Shop+Mahachai+Samut+Sakhon+Thailand)
 ☕ **Type:** Café
-💰 **Price level:** ฿50–100
+💰 **Price level:** inexpensive

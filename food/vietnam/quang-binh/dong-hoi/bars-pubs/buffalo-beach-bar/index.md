@@ -26,4 +26,4 @@ That fifth star is largely for the superb beachfront location. Even without that
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=GJ2C+X6X+Trương+Pháp+Đồng+Hới+Quảng+Bình+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** inexpensive
