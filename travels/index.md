@@ -41,6 +41,10 @@ Tehran &middot; Yazd &middot; Shiraz &middot; Isfahan
 Thailand &middot; Malaysia &middot; Singapore
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-malay-peninsula-2007/)
 
+## Cycling Germany to Britain (2007)
+Germany &middot; England &middot; Scotland
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-d-gb-2007/)
+
 ## Cycling Indochina (2006)
 Thailand &middot; Laos &middot; Cambodia &middot; Vietnam
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-indochina-2006/)
