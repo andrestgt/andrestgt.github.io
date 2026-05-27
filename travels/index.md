@@ -86,6 +86,10 @@ Hungary &middot; Romania &middot; Bulgaria &middot; Greece &middot; Croatia &mid
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/eastern-europe-2002/)
 cat > travels/usa-2000/index.md << 'YAML'
 
+## Burma / Myanmar (2003)
+Rangoon &middot; Mandalay &middot; Hsipaw &middot; Bagan &middot; Ngapali Beach
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/burma-2003/)
+
 ## Laos & Thailand (2002)
 Laos &middot; Thailand
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/laos-thailand-2002/)
