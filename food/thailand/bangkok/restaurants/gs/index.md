@@ -24,10 +24,6 @@ Despite the none too salubrious location this super friendly German Kneipe is a 
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/thailand/bangkok/gs-4.jpg" alt="G's">
-  <figcaption>G's</figcaption>
-</figure>
 
 ## Ratings
 
