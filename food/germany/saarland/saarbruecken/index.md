@@ -10,4 +10,4 @@ subtitle: Essen & Trinken in Saarbrücken
 # Saarbrücken
 
 - [Bars & pubs](/food/germany/saarland/saarbruecken/bars-pubs/)
-- [Restaurants](/food/germany/saarland/saarbruecken/restaurants/)
+- [Cafés](/food/germany/saarland/saarbruecken/cafes/)
