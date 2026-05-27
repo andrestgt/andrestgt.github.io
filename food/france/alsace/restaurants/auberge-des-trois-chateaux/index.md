@@ -50,4 +50,4 @@ The restaurant attached to the hotel serves hearty and genuinely excellent Alsat
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=26+Grand-Rue+68420+Eguisheim+France)
 📍 26 Grand-Rue, 68420 Eguisheim, France
-💰 **Price level:** €30–50
+💰 **Price level:** €40–60
