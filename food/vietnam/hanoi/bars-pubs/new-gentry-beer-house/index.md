@@ -26,4 +26,4 @@ Extensive beer selection at pretty standard Hanoi prices, most bottles between 7
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=7+P.+Hàng+Mành+Hàng+Gai+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

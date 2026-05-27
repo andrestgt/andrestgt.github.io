@@ -38,4 +38,4 @@ Reliable dim sum franchise serving genuinely tasty dumplings at sensible mid-ran
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dolly+Dim+Sum+NU+Sentral+Kuala+Lumpur+Malaysia)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** RM 40–70
+💰 **Price level:** RM 40-70

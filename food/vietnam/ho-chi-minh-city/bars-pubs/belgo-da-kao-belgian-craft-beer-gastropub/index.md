@@ -26,4 +26,4 @@ Very impressive beer hall on two floors, with a fancier atmosphere than most oth
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=159A+Đ.+Nguyễn+Văn+Thủ+Đa+Kao+Quận+1+Hồ+Chí+Minh+Vietnam)
 🍺 **Type:** Craft Beer
-💰 **Price level:** ₫100–200k per person
+💰 **Price level:** ₫100–200k

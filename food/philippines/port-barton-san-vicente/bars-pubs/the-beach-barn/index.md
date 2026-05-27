@@ -27,4 +27,4 @@ This place is anything but stylish — the décor is pretty awful. But if you ca
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Beach+Barn+Summer+Homes+San+Vicente+Palawan)
 🍺 **Type:** Bar
-💰 **Price level:** ₱200–400 per person
+💰 **Price level:** ₱200–400

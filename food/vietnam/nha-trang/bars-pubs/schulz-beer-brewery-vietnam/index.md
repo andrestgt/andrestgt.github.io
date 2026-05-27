@@ -28,4 +28,4 @@ I remember when they first opened a couple of years ago, they had some very tast
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=36+Đặng+Tất+Vĩnh+Hải+Nha+Trang+Khánh+Hòa+650000+Vietnam)
 🍺 **Type:** Craft Beer
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

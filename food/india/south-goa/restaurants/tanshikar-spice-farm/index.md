@@ -57,4 +57,4 @@ A great place to visit — the bike ride from the southern beaches is very beaut
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tanshikar+Spice+Farm+Netravli+Sanguem+Goa+India)
 🍽️ **Cuisine:** Goan
-💰 **Price level:** 550 Rs per person including tour
+💰 **Price level:** 550 Rs

@@ -38,4 +38,4 @@ I had a very enjoyable meal at the original MTR in Bangalore. Since I was stayin
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=MTR+Restaurant+Brickfields+Jalan+Thambipillay+Kuala+Lumpur)
 🍽️ **Cuisine:** South Indian
-💰 **Price level:** RM 20–40
+💰 **Price level:** RM 20-40

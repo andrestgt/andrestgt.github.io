@@ -32,7 +32,5 @@ Basic tea shop with excellent samosas — perfect quick snack if you're in the a
 
 ---
 
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

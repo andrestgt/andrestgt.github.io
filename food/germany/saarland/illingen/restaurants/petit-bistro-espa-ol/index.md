@@ -26,19 +26,8 @@ The patatas alioli, croquetas de bacalao, and tortilla were all solid. The large
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/illingen/petit-bistro-espanol-4.jpg" alt="Petit Bistro Español">
-  <figcaption>Petit Bistro Español</figcaption>
-</figure>
-<figure>
-  <img src="/photos/germany/illingen/petit-bistro-espanol-5.jpg" alt="Petit Bistro Español">
-  <figcaption>Petit Bistro Español</figcaption>
-</figure>
-</div>
-
-<figure>
-  <img src="/photos/germany/illingen/petit-bistro-espanol-6.jpg" alt="Petit Bistro Español">
   <figcaption>Petit Bistro Español</figcaption>
 </figure>
 

@@ -18,7 +18,5 @@ Self-service breakfast institution — beautiful open butter masala dosa at 55 R
 
 ---
 
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

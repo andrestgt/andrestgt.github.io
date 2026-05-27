@@ -16,3 +16,6 @@ subtitle: Street food around Bangkok
 *Bang Kachao, Samut Prakan · Weekend Market*
 A weekend canal market in the green lung of Bangkok — better by bicycle, with low prices and good food.
 → [Read the full review](/food/thailand/around-bangkok/street-food/bang-nam-phueng-floating-market/)
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

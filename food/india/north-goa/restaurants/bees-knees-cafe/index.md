@@ -33,4 +33,4 @@ Typical cheap and cheerful traveller café in backpacker central. Obviously they
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bee%27s+Knees+Cafe+Socoillo+Vado+Arambol+Goa+India)
 ☕ **Type:** Café
-💰 **Price level:** inexpensive
+💰 **Price level:** —

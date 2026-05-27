@@ -38,4 +38,4 @@ One of the few remnants of old Malate, this cozy little pub still has its charm,
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oarhouse+Pub+Bocobo+St+Malate+Manila)
 🍺 **Type:** Pub
-💰 **Price level:** ₱400–600 per person
+💰 **Price level:** ₱400–600

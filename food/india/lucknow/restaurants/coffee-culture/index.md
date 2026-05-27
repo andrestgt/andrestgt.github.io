@@ -28,4 +28,4 @@ What is meant to be a stylish, chic lounge already looks a bit tired and worn, b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Coffee+Culture+Mandir+Marg+Mahanagar+Lucknow+India)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** Around 250 Rs per main
+💰 **Price level:** Around 250 Rs

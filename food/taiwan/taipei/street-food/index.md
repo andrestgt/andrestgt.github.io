@@ -19,7 +19,5 @@ Insanely good beef noodles at 90 NT$ — possibly the best meal in Taiwan. Amazi
 
 ---
 
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

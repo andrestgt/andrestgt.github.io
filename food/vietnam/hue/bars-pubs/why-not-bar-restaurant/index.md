@@ -42,5 +42,5 @@ Yeah, why not?
 
 🍺 **Type:** Bar & Pub
 
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k
 

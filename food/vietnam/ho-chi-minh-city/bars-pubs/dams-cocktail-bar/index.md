@@ -21,4 +21,4 @@ The D is a pretty standard Saigon bar which stands out for its loooong happy hou
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=113+Tôn+Thất+Đạm+Bến+Nghé+Quận+1+Hồ+Chí+Minh+70010+Vietnam)
 🍺 **Type:** Cocktail Bar
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

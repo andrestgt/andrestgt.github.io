@@ -33,4 +33,4 @@ The only place we found open in the deserted streets of BBD Bagh on a Sunday aft
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Limelight+Restaurant+Bar+Hemanta+Basu+Sarani+BBD+Bagh+Kolkata+India)
 🍽️ **Cuisine:** Indian, Bengali
-💰 **Price level:** 450 Rs per main
+💰 **Price level:** 450 Rs

@@ -33,4 +33,4 @@ Simple, friendly eatery on the promontory between Patnem and Palolem. Standard m
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Holiday+Inn+Cafe+Palolem+Canacona+Goa+India)
 🍽️ **Cuisine:** Goan, International
-💰 **Price level:** inexpensive
+💰 **Price level:** —

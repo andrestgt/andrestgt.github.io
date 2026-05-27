@@ -19,7 +19,5 @@ A surviving relic of old Luang Prabang — simple, cheap noodle soup eaten in fr
 
 ---
 
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

@@ -32,3 +32,6 @@ Good, tasty Indian food — the real deal, not amazing, but a little overpriced 
 *Ao Nang, Krabi · International*
 The fanciest restaurant in Ao Nang with attentive service and live music, but bland food that doesn't justify the premium price.
 → [Read the full review](/food/thailand/krabi/restaurants/aning-restaurant/)
+
+**Price level note:**
+Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

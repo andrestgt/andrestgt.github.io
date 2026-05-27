@@ -51,4 +51,4 @@ Still, the real reason to come here is the veranda. The views are the main attra
 
 🍽️ **Type:** Vietnamese
 
-💰 **Price level:** 250–350k VND
+💰 **Price level:** ₫250-350k

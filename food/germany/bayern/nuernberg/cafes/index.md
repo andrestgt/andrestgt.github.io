@@ -15,5 +15,3 @@ subtitle: Cafés in Nuremberg
 Neuendettelsau · Bakery Café
 → [Read the full review](./hammons-brot-und-kaffeegenuss/)
 
-**Price level note:**
-Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

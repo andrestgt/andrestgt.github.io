@@ -73,7 +73,5 @@ Typical cheerful backpacker café done just right — chicken thali and shakshou
 
 ---
 
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

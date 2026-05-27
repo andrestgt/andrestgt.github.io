@@ -25,7 +25,5 @@ Popular backpacker roadside eatery that's actually not as cheap as it looks — 
 
 ---
 
----
-
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

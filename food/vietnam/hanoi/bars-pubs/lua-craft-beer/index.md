@@ -26,4 +26,4 @@ This is a fantastic place for craft beers with balcony seating overlooking the n
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=City+20+P.+Hàng+Ngang+Street+Hoàn+Kiếm+Hà+Nội+Vietnam)
 🍺 **Type:** Craft Beer
-💰 **Price level:** ₫ Under 50k per person
+💰 **Price level:** ₫ Under 50k

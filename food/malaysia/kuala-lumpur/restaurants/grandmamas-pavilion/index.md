@@ -71,4 +71,4 @@ Very good Malay food that genuinely tastes close to proper street versions, just
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Grandmamas+Pavilion+Kuala+Lumpur+Malaysia)
 🍽️ **Cuisine:** Malay
-💰 **Price level:** RM 60–90
+💰 **Price level:** RM 60-90
