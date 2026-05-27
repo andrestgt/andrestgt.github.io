@@ -73,6 +73,10 @@ Finland &middot; Estonia &middot; Latvia &middot; Lithuania
 South of France &middot; Corsica
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-corse-2004/)
 
+## Slovenia & Croatia (2004)
+Slovenia &middot; Croatia
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/slovenia-croatia-2004/)
+
 ## Cycling Southern Italy (2004)
 Italy
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-southern-italy-2004/)
