@@ -65,6 +65,10 @@ Finland &middot; Estonia &middot; Latvia &middot; Lithuania
 South of France &middot; Corsica
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-corse-2004/)
 
+## Cycling Southern Italy (2004)
+Italy
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-southern-italy-2004/)
+
 ## South Africa (2002)
 Johannesburg &middot; Kruger &middot; Drakensberg &middot; Garden Route &middot; Cape Town
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/south-africa-2002/)
