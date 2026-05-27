@@ -90,6 +90,10 @@ cat > travels/usa-2000/index.md << 'YAML'
 Laos &middot; Thailand
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/laos-thailand-2002/)
 
+## Venezuela & Colombia (2001)
+Venezuela &middot; Colombia
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/venezuela-colombia-2001/)
+
 ## Pakistan & India (2001)
 Pakistan &middot; India
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/pakistan-india-2001/)
