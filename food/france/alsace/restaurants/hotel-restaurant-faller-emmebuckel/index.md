@@ -55,4 +55,4 @@ Quite simply a wonderful place and well worth a stop on any Alsace trip. The res
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=26+Rte+des+Vins+67140+Itterswiller+France)
 📍 26 Rte des Vins, 67140 Itterswiller, France
-💰 **Price level:** €30–50
+💰 **Price level:** €50–80
