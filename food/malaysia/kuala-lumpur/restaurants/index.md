@@ -61,17 +61,17 @@ Very useful in Bukit Bintang for inexpensive Indian-Malay food — consistently 
 
 ---
 
-## Grandmama's
-*Pavilion KL, Bukit Bintang · Malay*
+## Grandmama's – Pavilion Kuala Lumpur
+*Bukit Bintang · Malay*
 Very good Malay food that genuinely tastes close to proper street versions, served in air-conditioned mall comfort.
-→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/grandmamas/)
+→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/grandmamas-pavilion/)
 
 ---
 
-## Dolly Dim Sum
-*NU Sentral, KL · Chinese, Dim Sum*
+## Dolly Dim Sum – NU Sentral
+*NU Sentral · Chinese, Dim Sum*
 Reliable dim sum franchise serving genuinely tasty dumplings at sensible mid-range prices — a solid choice around NU Sentral.
-→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/dolly-dim-sum/)
+→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/dolly-dim-sum-nu-sentral/)
 
 ---
 
@@ -117,10 +117,10 @@ Very solid dim sum around The Curve area — steamed dumplings noticeably strong
 
 ---
 
-## Canton-i Restaurant
-*The Gardens Mall, Mid Valley · Chinese, Dim Sum*
+## Canton-i Restaurant – The Gardens
+*Mid Valley · Cantonese, Dim Sum*
 Decent Cantonese dim sum when stuck in Mid Valley — quality is acceptable though prices are slightly higher than they should be.
-→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/canton-i-restaurant/)
+→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/canton-i-the-gardens/)
 
 ---
 
@@ -145,17 +145,17 @@ Authentic South Indian food at average prices and quality — perfectly alright 
 
 ---
 
-## Ichiban Boshi
-*Publika · Japanese*
+## Ichiban Boshi – Publika
+*Solaris Dutamas · Japanese*
 Works well enough as a reasonably priced fallback in Publika — quality slightly below Sushi Tei or Zanmai but still decent.
-→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/ichiban-boshi/)
+→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/ichiban-boshi-publika/)
 
 ---
 
-## Fuel Shack Signature
-*Low Yat Plaza · Burgers, Malaysian*
+## Fuel Shack Signature – Low Yat Plaza
+*Bukit Bintang · Burgers, Malaysian*
 Disappointing overall — soggy bun and flavourless nasi lemak in a city with so much outstanding food.
-→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/fuel-shack-signature/)
+→ [Read the full review](/food/malaysia/kuala-lumpur/restaurants/fuel-shack-low-yat/)
 
 ---
 

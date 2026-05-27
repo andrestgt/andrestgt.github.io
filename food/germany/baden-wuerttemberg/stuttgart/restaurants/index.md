@@ -106,11 +106,6 @@ Stuttgart · Lunch Bistro
 For Stuttgart, this is well worth a visit, both in terms of price and quality. Worth knowi...
 → [Read the full review](./tagesbistro-herr-kaechele/)
 
-## TANTE BLANKA - HÖHENGASTSTÄTTE NECKARBLICK
-Stuttgart · Swabian, Views
-Nice views and surprisingly good local food at affordable prices. The Zwiebelrostbraten an...
-→ [Read the full review](./tante-blanka-hoehengaststaette-neckarblick/)
-
 ## TAVERNA BEI KOSTA
 Stuttgart · Greek
 A pretty taverna in greenery on the outskirts — a pleasant find. Solid Greek food at fair...

@@ -33,10 +33,10 @@ Respectable hotel dim sum at fair prices — around RM60 for two with tea; the s
 
 ---
 
-## Sushi Zanmai
-*Vivacity Megamall · Japanese*
+## Sushi Zanmai – Vivacity Megamall
+*Vivacity · Japanese, Sushi*
 The same dependable Sushi Zanmai quality as the KL branches — very reasonable prices overall, service could be more attentive.
-→ [Read the full review](/food/malaysia/kuching/restaurants/sushi-zanmai/)
+→ [Read the full review](/food/malaysia/kuching/restaurants/sushi-zanmai-vivacity/)
 
 ---
 

@@ -44,12 +44,3 @@ Very decent café stop inside Times Square with fast WiFi, power sockets and a s
 *NU Sentral, KL · Café*
 Comfortable little café with actually quite decent coffee — let down by utterly chaotic and painfully slow service.
 → [Read the full review](/food/malaysia/kuala-lumpur/cafes/cafe-coffee-day/)
-
----
-
-## L'esprezzo
-*The Curve, Petaling Jaya · Café*
-Good coffee but for the prices there are simply better cafés elsewhere in The Curve area.
-→ [Read the full review](/food/malaysia/kuala-lumpur/cafes/lesprezzo/)
-
----
