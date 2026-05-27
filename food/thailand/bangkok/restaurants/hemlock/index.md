@@ -7,17 +7,14 @@ subtitle: Phra Nakhon · Thai
 ---
 
 <figure>
-  <img src="/photos/thailand/bangkok/hemlock-1.jpg" alt="Hemlock">
+  <img src="/photos/thailand/bangkok/hemlock-2.jpg" alt="Hemlock">
   <figcaption>Hemlock</figcaption>
 </figure>
 
 The Khao San area is not the backpacker food desert it used to be with lots of good eateries having opened in the past few years, but Hemlock is still worth a visit. It's one of the best places for traditional Thai food and has been for many years. Very reasonable prices for such an atmospheric place.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/thailand/bangkok/hemlock-2.jpg" alt="Hemlock">
-  <figcaption>Hemlock</figcaption>
-</figure>
+
 <figure>
   <img src="/photos/thailand/bangkok/hemlock-3.jpg" alt="Hemlock">
   <figcaption>Hemlock</figcaption>
