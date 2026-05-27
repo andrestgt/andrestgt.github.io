@@ -65,6 +65,18 @@ Italy &middot; Slovenia &middot; Croatia &middot; Bosnia &middot; Serbia &middot
 Italy &middot; Sardinia
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-sardinia-2005/)
 
+## Thailand & Cambodia (2005)
+Thailand &middot; Cambodia
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/thailand-cambodia-2005/)
+
+## Melbourne, Tasmania & the Great Ocean Road (2005)
+Australia
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/melbourne-tasmania-gor-2005/)
+
+## Fiji (2004)
+Fiji
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/fiji-2004/)
+
 ## Cycling the Baltic (2004)
 Finland &middot; Estonia &middot; Latvia &middot; Lithuania
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-baltic-2004/)
