@@ -6,6 +6,11 @@ title: Bread & Brew Coffee Shop
 subtitle: Maha Chai Market, Samut Sakhon · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/around-bangkok/bread-and-brew-coffee-shop-1.jpg" alt="Bread & Brew Coffee Shop">
+  <figcaption>Bread & Brew Coffee Shop</figcaption>
+</figure>
+
 Air conditioned oasis in the bustle of Maha Chai Market. It's a thoroughly modern coffee shop with sofas and fast WiFi. Coffees are inexpensive, but well prepared. Avoid the cappuccino, it comes with cinnamon, but the 50 Bt 'latte' is essentially a cappuccino.
 
 ## Ratings
