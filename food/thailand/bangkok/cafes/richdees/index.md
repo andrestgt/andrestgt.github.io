@@ -6,6 +6,11 @@ title: Richdee's Eatery and Cafe
 subtitle: Phra Nakhon · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/richdees-1.jpg" alt="Richdee's Eatery and Cafe">
+  <figcaption>Richdee's Eatery and Cafe</figcaption>
+</figure>
+
 A nicely located café right by the canal in Banglamphu, a good place to stop if you're walking through the area. Coffee was good, with a latte at 60 baht, which is very reasonable for the location. Nothing particularly out of the ordinary, but the setting by the water makes it a pleasant place to take a break.
 
 ## Ratings

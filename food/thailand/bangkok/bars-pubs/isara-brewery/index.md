@@ -6,6 +6,11 @@ title: Isara Local Bar & Brewery
 subtitle: Khlong San · Microbrewery
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/isara-brewery-1.jpg" alt="Isara Local Bar & Brewery">
+  <figcaption>Isara Local Bar & Brewery</figcaption>
+</figure>
+
 A small microbrewery set in one of those old wooden houses just behind the Hilton, opposite IconSiam. Easy to find if you follow the signs.
 
 The beers were surprisingly good, and the food was excellent as well. I had the larb moo tord, which were very tasty.
