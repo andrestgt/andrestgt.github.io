@@ -86,6 +86,10 @@ Hungary &middot; Romania &middot; Bulgaria &middot; Greece &middot; Croatia &mid
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/eastern-europe-2002/)
 cat > travels/usa-2000/index.md << 'YAML'
 
+## Pakistan & India (2001)
+Pakistan &middot; India
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/pakistan-india-2001/)
+
 ## USA Road Trip (2000)
 California &middot; Arizona &middot; Utah &middot; Nevada &middot; Hawaii
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/usa-2000/)
