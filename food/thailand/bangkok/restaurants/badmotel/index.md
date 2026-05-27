@@ -7,7 +7,7 @@ subtitle: Thong Lo, Watthana · Thai, Bar
 ---
 
 <figure>
-  <img src="/photos/thailand/bangkok/badmotel-1.jpg" alt="BADMOTEL">
+  <img src="/photos/thailand/bangkok/badmotel-2.jpg" alt="BADMOTEL">
   <figcaption>BADMOTEL</figcaption>
 </figure>
 
@@ -15,9 +15,10 @@ BADMOTEL attracts the usual Thonglor crowd, so naturally it isn’t cheap. Still
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/thailand/bangkok/badmotel-2.jpg" alt="BADMOTEL">
+  <img src="/photos/thailand/bangkok/badmotel-1.jpg" alt="BADMOTEL">
   <figcaption>BADMOTEL</figcaption>
 </figure>
+
 <figure>
   <img src="/photos/thailand/bangkok/badmotel-3.jpg" alt="BADMOTEL">
   <figcaption>BADMOTEL</figcaption>
