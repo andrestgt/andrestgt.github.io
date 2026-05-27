@@ -49,6 +49,10 @@ Thailand &middot; Laos &middot; Cambodia &middot; Vietnam
 Thailand &middot; Cambodia &middot; Vietnam
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-cambodia-vietnam-2006/)
 
+## Cycling Sardinia (2005)
+Italy &middot; Sardinia
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-sardinia-2005/)
+
 ## Cycling Corsica (2004)
 South of France &middot; Corsica
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-corse-2004/)
