@@ -84,3 +84,9 @@ Johannesburg &middot; Kruger &middot; Drakensberg &middot; Garden Route &middot;
 ## Eastern Europe (2002)
 Hungary &middot; Romania &middot; Bulgaria &middot; Greece &middot; Croatia &middot; Venice
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/eastern-europe-2002/)
+cat > travels/usa-2000/index.md << 'YAML'
+
+## USA Road Trip (2000)
+California &middot; Arizona &middot; Utah &middot; Nevada &middot; Hawaii
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/usa-2000/)
+
