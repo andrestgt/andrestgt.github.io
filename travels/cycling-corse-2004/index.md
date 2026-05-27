@@ -7,6 +7,21 @@ date: 2004-06-16
 ---
 
 
+# Cycling Corsica
+**16 June – 6 July 2004**
+
+A cycling journey from Bilbao through the South of France, then across Corsica.
+
+---
+
+## Day 1 — 16 June
+...# Cycling Corsica
+**16 June – 6 July 2004**
+
+A cycling journey from Bilbao through the South of France, then across Corsica.
+
+---
+
 16 June–6 July 2004
 
 ## Day 1 — 16 June
