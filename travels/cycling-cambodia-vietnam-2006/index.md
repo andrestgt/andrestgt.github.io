@@ -4,6 +4,7 @@ section: travels
 title: "Cycling Cambodia & Vietnam"
 subtitle: "Bangkok · Phnom Penh · Mekong Delta · Coastal Vietnam · Hanoi"
 date: 2006-03-03
+photos_locked: true
 ---
 
 # Cycling Cambodia & Vietnam
