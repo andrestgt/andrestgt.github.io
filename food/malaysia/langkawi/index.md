@@ -19,3 +19,6 @@ Reviews grouped by category.
 
 ## Bars & pubs
 - [Bars & pubs](/food/malaysia/langkawi/bars-pubs/)
+
+## Street food
+- [Street food](/food/malaysia/langkawi/street-food/)

@@ -12,4 +12,5 @@ subtitle: Restaurants, cafés, bars and street food in Côn Đảo
 Reviews grouped by category.
 
 - 🍽️ [Restaurants](/food/vietnam/con-dao/restaurants/)
+- ☕ [Cafés](/food/vietnam/con-dao/cafes/)
 - 🥢 [Street Food](/food/vietnam/con-dao/street-food/)
