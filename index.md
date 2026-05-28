@@ -4,8 +4,6 @@ title: Home
 ---
 
 
-# André Mohr
-
 Travel writing, restaurant reviews, and notes from the road.
 
 ## Food
