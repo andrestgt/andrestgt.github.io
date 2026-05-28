@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Phở Bắc Hà Lý Thi
 subtitle: Bắc Hà · Vietnamese
 ---
@@ -14,7 +15,7 @@ subtitle: Bắc Hà · Vietnamese
 
 
 <figure>
-  <img src="/photos/vietnam/bac-ha/pho-bac-ha-ly-thi-1.jpg" alt="Phở Bắc Hà Lý Thi">
+  <img src="/photos/vietnam/lao-cai/pho-bac-ha-ly-thi-1.jpg" alt="Phở Bắc Hà Lý Thi">
   <figcaption>Phở Bắc Hà Lý Thi</figcaption>
 </figure>
 
@@ -22,11 +23,11 @@ Eating at this place is quite a special experience. With many places in Bac Ha c
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/bac-ha/pho-bac-ha-ly-thi-2.jpg" alt="Phở Bắc Hà Lý Thi">
+  <img src="/photos/vietnam/lao-cai/pho-bac-ha-ly-thi-2.jpg" alt="Phở Bắc Hà Lý Thi">
   <figcaption>Phở Bắc Hà Lý Thi</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/bac-ha/pho-bac-ha-ly-thi-3.jpg" alt="Phở Bắc Hà Lý Thi">
+  <img src="/photos/vietnam/lao-cai/pho-bac-ha-ly-thi-3.jpg" alt="Phở Bắc Hà Lý Thi">
   <figcaption>Phở Bắc Hà Lý Thi</figcaption>
 </figure>
 </div>
