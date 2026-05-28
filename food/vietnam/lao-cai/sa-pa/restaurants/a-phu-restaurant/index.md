@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: A Phủ Restaurant
 subtitle: Sa Pa · Vietnamese
 ---
@@ -14,7 +15,7 @@ subtitle: Sa Pa · Vietnamese
 
 
 <figure>
-  <img src="/photos/vietnam/bac-ha/a-phu-restaurant-1.jpg" alt="A Phủ Restaurant">
+  <img src="/photos/vietnam/lao-cai/a-phu-restaurant-1.jpg" alt="A Phủ Restaurant">
   <figcaption>A Phủ Restaurant</figcaption>
 </figure>
 
@@ -23,11 +24,11 @@ Attractive restaurant with a hill tribe theme that caters to both tourists and l
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/vietnam/bac-ha/a-phu-restaurant-2.jpg" alt="A Phủ Restaurant">
+  <img src="/photos/vietnam/lao-cai/a-phu-restaurant-2.jpg" alt="A Phủ Restaurant">
   <figcaption>A Phủ Restaurant</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/bac-ha/a-phu-restaurant-3.jpg" alt="A Phủ Restaurant">
+  <img src="/photos/vietnam/lao-cai/a-phu-restaurant-3.jpg" alt="A Phủ Restaurant">
   <figcaption>A Phủ Restaurant</figcaption>
 </figure>
 </div>

@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Le Gecko Café
 subtitle: Sa Pa · Coffee
 ---
@@ -14,7 +15,7 @@ subtitle: Sa Pa · Coffee
 
 
 <figure>
-  <img src="/photos/vietnam/bac-ha/le-gecko-cafe-1.jpg" alt="Le Gecko Café">
+  <img src="/photos/vietnam/lao-cai/le-gecko-cafe-1.jpg" alt="Le Gecko Café">
   <figcaption>Le Gecko Café</figcaption>
 </figure>
 

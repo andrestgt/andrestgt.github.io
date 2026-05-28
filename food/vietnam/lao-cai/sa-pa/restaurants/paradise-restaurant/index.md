@@ -2,6 +2,7 @@
 layout: default
 section: food
 review: true
+photos_locked: true
 title: Paradise Restaurant
 subtitle: Sa Pa · Vietnamese
 ---
@@ -14,7 +15,7 @@ subtitle: Sa Pa · Vietnamese
 
 
 <figure>
-  <img src="/photos/vietnam/bac-ha/paradise-restaurant-1.jpg" alt="Paradise Restaurant">
+  <img src="/photos/vietnam/lao-cai/paradise-restaurant-1.jpg" alt="Paradise Restaurant">
   <figcaption>Paradise Restaurant</figcaption>
 </figure>
 
