@@ -1,6 +1,7 @@
 ---
 layout: default
 title: One Chun Cafe & Restaurant
+subtitle: Phuket Old Town · Southern Thai Restaurant
 section: food thailand phuket-town
 review: true
 ---
