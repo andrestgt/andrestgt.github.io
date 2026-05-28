@@ -71,9 +71,39 @@ The day continued with two-for-one cocktails (US$4.50) on the terrace of the atm
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0005.jpg" alt="Phnom Penh">
+    <em>Phnom Penh</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0016.jpg" alt="Phnom Penh">
+    <em>Phnom Penh</em>
+  </figure>
+
+</div>
+
 ## Day 3 – March 5 (48 km)
 
 Today we were properly riding for the first time and headed out to the Killing Fields of Choeung Ek, well out in the countryside beyond the city. Phnom Penh's main roads are now in very good shape, but the final stretch to the memorial is a rough, dusty back road. Since I'd already visited the far less touristy Killing Field near Battambang six years ago, the sight of the Khmer Rouge's bones and rags was nothing new to me — and yet you still can't really grasp what must have happened here, not so very long ago. What was shocking too, unfortunately, was the number of package tourists and the thoughtless idiocy with which they handed out money and sweets to the begging children. On the way back into town we took a slightly different route and approached from the south along the river, then recovered with a refreshing pomelo-and-mint juice in the wonderfully shady garden of Boddhi Tree opposite S-21. After yesterday's Dolce Vita, today was more sobering — because that, too, is Cambodia. The former Khmer Rouge prison and interrogation centre is a disturbing place, full of images that stay with you, both on the walls and in your head as you walk through the cells. As a counterbalance we then cycled quietly through Phnom Penh's pretty, calm villa district south of Independence Monument and went for lunch at Malis, which, although new, already seems to be one of the most talked-about restaurants in the city. It's easy to see why. Even though it's not on the promenade but on the unremarkable Norodom Boulevard, Malis is the most stylish place in town: a blend of Asian tradition and big-city chic, with superbly comfortable sofa lounges, individual air-con at the tables, and excellent service, all set in a garden that is beautifully designed both architecturally and aesthetically. And the food? Outstanding — refined Khmer cooking with a few fresh touches, perfectly prepared, beautifully presented, generous portions, and all at surprisingly fair, genuinely reasonable prices. The scallops (US$4.90) and prawn cakes (US$4.90) were excellent; the aubergine-and-crab salad (US$6.60) was a revelation, as was the steamed goby in ginger sauce (US$4.10). Only the duck curry fell slightly short — very good, but ultimately a traditional Khmer-style curry and rather light on the meat (US$5.10). Malis is certainly one of Phnom Penh's culinary highlights — if not the highlight. We spent the hottest hours of the day napping in the air-conditioned hotel room, and only went back out in the evening. Dinner was excellent. Kabab Shop is a tiny hole-in-the-wall place with an oven out front producing authentically Pakistani food: chicken tikka masala and lamb koftas for us, plus fresh garlic naan and mango lassi. With prices between US$3 and US$4 it isn't exactly dirt-cheap, but it was a fine change for the palate.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0035.jpg" alt="Phnom Penh">
+    <em>Phnom Penh</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0037.jpg" alt="Phnom Penh">
+    <em>Phnom Penh</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -124,6 +154,21 @@ Today we were properly riding for the first time and headed out to the Killing F
 ### Phnom Penh – Kampong Cham
 
 Today the tour finally began in earnest — and immediately with a long ride of over 130 kilometres. We left Phnom Penh via Friendship Bridge, and after only ten kilometres the traffic thinned noticeably. The "highway" — even Cambodia's main routes are little more than country roads — ran through classic countryside: green rice fields and coconut palms; and the further we got from Phnom Penh, the fewer solid houses we saw, with wooden huts lining the road instead. Supplies are never a problem: every few hundred metres you can stock up on water, fruit, or delicious sugarcane juice. The tropical heat didn't bother me either. We stopped for lunch in the small market town of Skuon and, since the place is famous for its fried spiders, that was of course what I ate. It was perfectly fine — nice and crisp — but not exactly filling. After Skuon the riding became a little more tiring because of roadworks and a few small climbs, but overall cycling in Cambodia seems straightforward and unproblematic. As a foreigner on a bicycle, though, you are a major attraction and instantly the centre of attention wherever you happen to be. Our stage finish, Kampong Cham, is a friendly, relaxed provincial town on the Mekong, with a few crumbling French colonial buildings and Chinese shophouses. People here still seem genuinely nice and curious — a clear sign that not many tourists pass through. There was a good hotel too: Mekong on the riverside road, a relatively new building in a striking bright-yellow faux-colonial style. The US$10 rooms were simply furnished but new and clean, with air-con and a fine river view. Kampong Cham isn't blessed on the culinary front — there are very few restaurants — but the meal at Hoa An, apparently popular with the few tourists who do make it here, was perfectly fine. The shrimp beignets (8,500 riel) were good, as was the beef (8,500 riel). The steamed fish tasted slightly of river (15,000 riel), but it came with a delicious ginger sauce.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0071.jpg" alt="Along Hwy 6">
+    <em>Along Hwy 6</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0081.jpg" alt="Along Hwy 6">
+    <em>Along Hwy 6</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -235,12 +280,38 @@ We left Kampong Cham via the huge new Mekong bridge and followed Highway 7 for a
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0105.jpg" alt="Kompong Cham Province">
+    <em>Kompong Cham Province</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0106.jpg" alt="Kompong Cham Province">
+    <em>Kompong Cham Province</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0113.jpg" alt="Tay Ninh Province">
+    <em>Tay Ninh Province</em>
+  </figure>
+
+</div>
+
 ## Day 6 – March 8 (102 km)
 ### Tay Ninh – Cu Chi – Saigon
 
 Today we followed Highway 22 a hundred kilometres into Saigon. A virtually flat stage and very easy riding. For the first forty kilometres the road was quite narrow and there were some roadworks with gravel. From Go Dau onwards, though, it became a multi-lane superhighway with a broad shoulder and, until about ten kilometres before Saigon, little traffic — we made rapid progress. Scenically, the route offered little, but shortly before Go Dau there was a beautiful garden café with Asian pavilions surrounded by lotus ponds. Riding into central Saigon was an adventure: an adrenaline-charged rollercoaster in the middle of hundreds of thousands of two-wheelers apparently streaming in all directions without any plan. I've rarely had that much fun. Cycling here is an experience; even crossing the street as a pedestrian is always a small adventure.
 
 We checked into the same hotel as six years ago, Giant Dragon in the Phạm Ngũ Lão tourist quarter. As so often with cheap hotels in Asia, rooms age quickly, and Giant Dragon could really do with a fresh coat of paint — especially since the price is still US$25. But the rooms are very comfortable for a budget hotel: spacious, tasteful, and worth the money. In the afternoon we had lunch at Bao around the corner from the hotel, on recommendation. A typical, simple street place with a first-floor veranda from which you could watch — and hear — the chaos down on the street. The food was excellent, and despite the tourist-area location the clientele was exclusively Vietnamese. We only had a few small things: spring rolls (30,000 d), snails (25,000 d), and two excellent chicken dishes — steamed (40,000 d) and wings (25,000 d). The food alone is worth a trip to Vietnam. We had dinner at the small, pleasant Restaurant 13 right in the business and first-class hotel quarter. Most of the guests were Westerners, but prices were still moderate and the food was standard Vietnamese — and very tasty. We only had a few small things: shrimp spring rolls (26,000 dong), gỏi cuốn, the fresh version (8,000 dong), and sizzling garlic squid (40,000 dong). All good, all cheap.
+
+
+<figure>
+  <img src="photos/CyclingVietnam06-0125.jpg" alt="Hwy 22 to Saigon">
+  <em>Hwy 22 to Saigon</em>
+</figure>
 
 
 <figure>
@@ -284,10 +355,31 @@ Saigon is a special city: not beautiful, but far from unpleasant; not a place yo
   <em>Saigon</em>
 </figure>
 
+
+<figure>
+  <img src="photos/CyclingVietnam06-0215.jpg" alt="Saigon">
+  <em>Saigon</em>
+</figure>
+
 ## Day 8 — 10 March (104 km)
 ### Saigon – Mỹ Tho – Bến Tre – Mỹ Tho
 
 Getting out of Saigon was far less frantic than yesterday's ride in. Highway 1 itself isn't particularly pretty, but it's fast: a broad shoulder, excellent surface, and steady progress, so we rolled into Mỹ Tho — gateway to the Delta — by lunchtime. We took a room at the Rang Dong Hotel, a typical, slightly timeworn mini-hotel. The room showed its age, but it was spacious, clean, and had the usual comforts (air-con, fridge, TV) for a bargain 130,000 dong. With plenty of day left, we grabbed a quick bite at Chi Tanh, a simple little hole-in-the-wall place by the park. Delta staples at Delta prices: crab cooked two ways — grilled and in a lovely tamarind sauce (60,000 dong each) — and, unexpectedly, very tender beef in black-bean sauce (20,000 dong). Afterwards we took the ferry across into Bến Tre Province and did a short loop into the town of Bến Tre itself. Back in Mỹ Tho we explored the town itself. Guidebooks often dismiss it as dull — a place to stop briefly before jumping straight on a boat — but I didn't find it unattractive at all. The locals were friendly, a few crumbling colonial buildings still stand here and there, the river promenade is looked after, and the ramshackle huts on the bank and the boats on the river make for wonderfully photogenic scenes. It seems day-trippers really don't spend time in town, because I didn't see another Westerner all evening. Dinner was at Song Tien, a big open-air place with pavilion seating and a slightly 'hotel' feel, but the food was very good and cheap. We had spring rolls (20,000 dong), grilled squid (25,000 dong), and a Mekong speciality: elephant-ear fish served whole, with the sweet flesh wrapped in rice paper with herbs and vegetables (50,000 dong). Only the beef with mushrooms (20,000 dong) was a touch chewy — hardly a tragedy in a feast that, drinks included, came in at under €8.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0256.jpg" alt="Mekong Delta">
+    <em>Mekong Delta</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0267.jpg" alt="Mekong Delta - Ben Tre">
+    <em>Mekong Delta - Ben Tre</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -386,12 +478,42 @@ In Sa Đéc we checked into the Hong Bong Hotel — probably the best address in
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0285.jpg" alt="Mekong Delta">
+    <em>Mekong Delta</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0306.jpg" alt="Mekong Delta">
+    <em>Mekong Delta</em>
+  </figure>
+
+</div>
+
 ## Day 10 — 12 March (105 km)
 ### Sa Đéc – Chợ Mới – Châu Đốc
 
 The first 50 kilometres, out past Chợ Mới, were a scenic run along the quiet, narrow Route 848 beside the Tieu River, through an area that — by Delta standards — felt almost sparsely populated. We stopped for lunch in the small market town of Chợ Mới at the friendly roadside Restaurant 999. They pulled eel straight from a tank and served it along with prawns (with rice paper and herbs for wrapping) and squid. Eating outside the tourist towns always comes with an element of surprise: menus are rarely translated, so we tend to order by educated guesswork. Here the 'standard range' was 20,000–50,000 dong. Beyond Chợ Mới we ferried over to Phu My and followed the left bank towards Châu Đốc. This little tarmac lane was the most picturesque stretch of the whole trip so far: cliché-perfect tropical scenery — rice fields, wooden huts, waving locals — and almost no traffic.
 
 In Châu Đốc we took a room in what must be the most central hotel in town, the nearly new Trung Nguyen. Our room had a small balcony overlooking the market and was modern and comfortable, if a little compact — still perfectly good value at 15 dollars. Châu Đốc is one of the Delta's main tourist hubs and, despite sitting right on the Cambodian border, feels surprisingly prosperous. It's an attractive place, with a smart new river promenade looking out over floating houses on the Bassac. A particular joy here is the fruit-shake stalls: I have no idea what their secret is, but they were among the best I've ever had — mango, pineapple, jackfruit — delicious and cheap (6,000 dong). Dinner was a hit too. In a courtyard surrounded by splendid colonial ambience opposite the upmarket Victoria Resort, we found the Restaurant Mekong — essentially a big, simple street kitchen with basic seating and almost entirely local customers. We had spring rolls (25,000 dong), prawns with rice paper (40,000 dong), eel salad (35,000 dong) and an astonishingly generous fish hotpot for a laughably low 45,000 dong.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0335.jpg" alt="Mekong Delta">
+    <em>Mekong Delta</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0361.jpg" alt="Mekong Delta - Cho Moi - Quan 999">
+    <em>Mekong Delta - Cho Moi - Quan 999</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -490,12 +612,42 @@ The most atmospheric, and perhaps the most enjoyable, stretch of the whole trip 
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0394.jpg" alt="Mekong Delta - Sam Mountain">
+    <em>Mekong Delta - Sam Mountain</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0398.jpg" alt="Mekong Delta">
+    <em>Mekong Delta</em>
+  </figure>
+
+</div>
+
 ## Day 12 — 14 March (34 km)
 ### Phú Quốc
 
 At eight we took the Sea Bird to Phú Quốc, after an iced coffee at the beautiful Café Garden on the road to the pier. About two and a half hours later we arrived in An Thới, at Phú Quốc's southern tip, and cycled straight towards Dương Đông, the island's main town and tourist centre. The first six kilometres were tarmacked but hilly. Then we turned onto a gorgeous dirt track that runs right along a kilometre-long sandy beach lined with coconut palms. There was virtually no traffic; this part of the island is still completely undeveloped — no resorts, just a few fishermen's huts and boats on the sand, and more cows on the road than cars.
 
 At the only beach restaurant around, the wonderful and very simple Cam Loan, 12 kilometres south of Dương Đông, we ate an excellent seafood hotpot with a view of the beach and fishing boats rocking offshore. A generous pot with prawns, octopus, and fish in a tasty broth cost 100,000 dong. Around three kilometres south of Dương Đông, where the road leaves the coast and runs a little inland through low hills, we took a bungalow at Lam Ha Resort. At 12 dollars it was a steal: new, spacious, with a big bathroom, a veranda, air-con, and a small garden outside. The beach really is superb. The southern stretches are quiet and unspoilt. Whatever the island's future, Phú Quốc is absolutely worth the detour now, not least for the dreamy sunset we watched through the palms from the Seastar Resort veranda. For dinner, the best restaurant on the island sits, inconveniently, on the road south of Dương Đông. The French owner of Carole has made the most of the location: candlelight on sand under bamboo umbrellas, and a level of Franco-Vietnamese cooking that's genuinely refined — at very fair prices. The Vietnamese seafood salad (40,000 dong) was delicious, as were the oyster brochettes (50,000 dong) and a whole grilled 'Sapa' fish (100,000 dong). Highly recommended.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0481.jpg" alt="Phu Quoc">
+    <em>Phu Quoc</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0482.jpg" alt="Phu Quoc">
+    <em>Phu Quoc</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -594,10 +746,40 @@ I slept through almost the entire ferry ride back to Rạch Giá. When we arrive
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0518.jpg" alt="Phu Quoc">
+    <em>Phu Quoc</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0520.jpg" alt="Phu Quoc">
+    <em>Phu Quoc</em>
+  </figure>
+
+</div>
+
 ## Day 14 — 16 March (87 km)
 ### Tan Hiep – Cần Thơ
 
 Today's ride — thirty-odd kilometres north on Highway 80 followed by fifty kilometres into the wind on Highway 91 to Cần Thơ — was uneventful. Despite heavy traffic, the road is decent and perfectly rideable. I reached Cần Thơ by midday and found us a simple but clean room with the usual comforts for 180,000 dong at the little Hotel So 10, tucked down a side lane off the riverfront road. For lunch we went to Nam Bo, the most popular tourist place in town, set in a restored colonial building with a first-floor balcony overlooking the river and promenade. The menu mixes Vietnamese and Western dishes; we stayed Vietnamese: a snake set menu with spring rolls and snake curry (69,000 dong), plus fish baked in a clay pot (40,000 dong). For dinner we ate on the enormous floating restaurant Du Thuyen moored in front of the promenade. Apart from us, everyone was Vietnamese (always a good sign), though the service was terrible. The food, however, was excellent — especially the thick grilled lobsters (four for 175,000 dong). Also very good was a salad of green mango with dried snakehead fish (55,000 dong).
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0561.jpg" alt="Mekong Delta - Cantho">
+    <em>Mekong Delta - Cantho</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0569.jpg" alt="Mekong Delta - Cantho">
+    <em>Mekong Delta - Cantho</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -695,6 +877,21 @@ Back in Hồ Chí Minh City we stayed again in Phạm Ngũ Lão, but for this on
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0580.jpg" alt="Mekong Delta - Cantho">
+    <em>Mekong Delta - Cantho</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0606.jpg" alt="Mekong Delta - Cai Rong Floating Market">
+    <em>Mekong Delta - Cai Rong Floating Market</em>
+  </figure>
+
+</div>
+
 ## Day 16 — 18 March (85 km)
 ### Saigon – Vũng Tàu – Bình Châu
 
@@ -720,10 +917,22 @@ By the time I could finally continue cycling it was half past one. A lightly tra
   <em>Vung Tau</em>
 </figure>
 
+
+<figure>
+  <img src="photos/CyclingVietnam06-0652.jpg" alt="Vung Tau">
+  <em>Vung Tau</em>
+</figure>
+
 ## Day 17 — 19 March (110 km)
 ### Bình Châu – La Gi – Phan Thiết
 
 We made full use of our wellness vouchers from six to nine. The eggs cooked in the hot spring were genuinely fun — and oddly 'reverse-cooked': the yolk sets before the white. In any case, fully relaxed, we rode back to Route 55, which was quiet, gently hilly, and — thanks to the wind — harder than it should have been. This is another region where you see almost no Western tourists, which makes café stops 'interesting': half the village's teenagers gather around you as if you've landed from space. Route 55 eventually fed into Highway 1, which we followed for almost 50 kilometres to Phan Thiết. According to Lonely Planet, Phan Thiết isn't necessarily worth a visit. I liked it a lot. The evening atmosphere is terrific: a photogenic fishing fleet on the river, improvised street kitchens, a surprising number of stylish cafés and seafood restaurants by the pleasant town beach. European tourists rarely overnight here, and the locals are extremely friendly. There was no English menu, so I simply chose our meat from the fridge. We ended up with a whole grilled squid (50,000 dong) and a goat stew (40,000 dong) that was delicious — very like a Thai tom yum soup.
+
+
+<figure>
+  <img src="photos/CyclingVietnam06-0668.jpg" alt="Around La Gi">
+  <em>Around La Gi</em>
+</figure>
 
 
 <figure>
@@ -810,12 +1019,38 @@ In the afternoon we cycled to Mũi Né's main attraction, the large orange sand 
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0706.jpg" alt="Mui Ne">
+    <em>Mui Ne</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0709.jpg" alt="Mui Ne">
+    <em>Mui Ne</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0710.jpg" alt="Mui Ne">
+    <em>Mui Ne</em>
+  </figure>
+
+</div>
+
 ## Day 19 — 21 March (130 km)
 ### Mũi Né – Phan Thiết – Cà Ná – Phan Rang
 
 I still felt a bit weak, and today was the toughest day of the trip so far — not because of distance or terrain, but because of the stormy wind that blew straight into our faces from the north-east for most of the day. After 130 kilometres of grinding along at about 10 km/h into the gale, I'd had enough and didn't want to risk ending up riding in the dark. So I flagged down a minibus for the final stretch to Phan Rang, which worked just fine. The old van already had about ten bicycles strapped to the roof and a record-breaking 26 passengers inside. I thought this kind of thing only still existed in Cambodia. It was a memorable experience: even the poorest of the poor — people who still have to travel like this in Vietnam — offered me cigarettes.
 
 Achim had arrived long before me and had already found us accommodation — this time in a proper 'noble' establishment, the three-star Ho Phong Hotel just behind the bridge. The value for money was unbeatable: a spacious room with two large beds, a seating area, all the comforts, and a great bathroom with walk-in shower for 14 dollars. And that's exactly where you have the best unexpected experiences — like tonight's dinner at Phuong Nam, a big garden restaurant. No English menu, so we ordered by meat type and hope. Soon a live venomous snake was brought to our table, its head cut off in front of us, and the blood mixed with rice liquor. The still-beating heart was stirred in as well. This potent cocktail is said to boost virility; either way, it didn't taste bad — sweetish — and so strong that a few sips made you drunk. The snake meat itself was served two ways: delicious minced 'meatballs', and cigar-shaped rolls wrapped in seaweed. It was expensive (700,000 dong for the whole snake), but unforgettable. Everything else we'd ordered was excellent and very cheap: grilled squid (40,000 dong), a whole grilled saba fish (50,000), and grouper in a delicate Vietnamese fish soup (40,000).
+
+
+<figure>
+  <img src="photos/CyclingVietnam06-0717.jpg" alt="Along Hwy 1 - Around Phan Thiet">
+  <em>Along Hwy 1 - Around Phan Thiet</em>
+</figure>
 
 
 <figure>
@@ -885,11 +1120,41 @@ Today on Highway 1 was much more comfortable than yesterday. The wind had eased 
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0737.jpg" alt="Along Hwy 1 - Around Phan Rang">
+    <em>Along Hwy 1 - Around Phan Rang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0740.jpg" alt="Along Hwy 1 - Around Phan Rang">
+    <em>Along Hwy 1 - Around Phan Rang</em>
+  </figure>
+
+</div>
+
 ## Day 21 — 23 March (31 km)
 
 We used today's rest day for practicalities: buying train tickets for Huế–Hà Nội, getting the bikes cleaned and scrubbed (10,000 dong per bicycle), and doing laundry. Of course we also explored a bit of the area around Nha Trang by bike. The beautiful lagoon with Cham ruins in the background is ridiculously photogenic. To the north, a new four-lane corniche runs about ten kilometres along the sea — almost empty of traffic — past more attractive, still uncommercialised beaches and with fine views back over the city and bay.
 
 Just before the dead end is a lovely excursion spot, Bien Ngoc, where we had breakfast. Our 'breakfast' was really more of a snack: tuna sashimi (50,000 dong) and grilled abalone (40,000) — both very good. Back in town it was time for something more substantial, so we went for a barbecue lunch at Lac Canh, a very simple place famous for grilled dishes and one we'd already visited six years ago. Prices are still rock-bottom and the marinated beef and squid you grill yourself at the table are excellent: 28,000 and 32,000 dong. In the evening, lured by the street aromas, we started at a street grill for four thick grilled lobsters (120,000 dong) and various grilled shellfish. And to be fair, this stall — on the corner of Tran Phu and Biet Thu — served sauces with the seafood that would satisfy serious gourmet standards. No problem: the Sailing Club turns out wood-fired pizza of near-Neapolitan quality (80,000 dong for a marinara), and we added ayam percik, Malaysian chicken in coconut milk with sambal (85,000), which was also excellent.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0770.jpg" alt="Nha Trang">
+    <em>Nha Trang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0796.jpg" alt="Nha Trang">
+    <em>Nha Trang</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -988,12 +1253,42 @@ Tuy Hòa is a small, unremarkable provincial city, but it feels relatively prosp
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0841.jpg" alt="Along Hwy 1 - Around Dai Lanh">
+    <em>Along Hwy 1 - Around Dai Lanh</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0852.jpg" alt="Dai Lanh Pass">
+    <em>Dai Lanh Pass</em>
+  </figure>
+
+</div>
+
 ## Day 23 — 25 March (113 km)
 ### Tuy Hòa – Quy Nhơn
 
 For the first time the day was almost continuously hilly. Again and again we climbed short but fairly steep ridges running across the coast. Twenty kilometres beyond Song Cau, Highway 1 swings inland. We turned right instead onto the coastal road 1D into Quy Nhơn, finished only two years ago and therefore a joy to ride. After about ten undulating kilometres through dunes, the road becomes a 20-kilometre mountainous run through coastal hills with occasional spectacular views. The scenery is beautiful: small and large bays with white sandy beaches fringed by coconut palms.
 
 Quy Nhơn — the area's largest city — is a sleepy, pleasant place, well away from Highway 1 and the usual tourist trail. You could call it a smaller, less commercialised version of Nha Trang. It has a lovely golden sand beach stretching for kilometres along the bay. A few kilometres south of the centre on the beach boulevard we found the friendly Au Co Hotel, which was excellent. A huge 'suite' with three large beds, seating area, balcony sea view, and lovingly, gloriously kitsch décor cost an unbelievable 180,000 dong. Across the road from our hotel was a simple but pleasant beach restaurant, Binh Dan. The fresh grilled grouper was superb — some of the best grilled fish I've ever had: crisp skin, firm flesh, perfect sauce — though not exactly cheap at 250,000 dong per kilo.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0864.jpg" alt="Along Hwy 1 - Around Tuy Hoa">
+    <em>Along Hwy 1 - Around Tuy Hoa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0871.jpg" alt="Along Hwy 1 - Around Tuy Hoa">
+    <em>Along Hwy 1 - Around Tuy Hoa</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -1090,10 +1385,40 @@ A fairly unspectacular day on Highway 1. The first 50 kilometres were flat; the 
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0910.jpg" alt="Along Hwy 1 - Around Phu My">
+    <em>Along Hwy 1 - Around Phu My</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0917.jpg" alt="Along Hwy 1 - Around Sa Huynh">
+    <em>Along Hwy 1 - Around Sa Huynh</em>
+  </figure>
+
+</div>
+
 ## Day 25 — 27 March (132 km)
 ### Sa Huỳnh – Quảng Ngãi – Tam Kỳ
 
 The last long 'transfer' day on Highway 1 for now. The first 20 kilometres were still slightly hilly, but from Duc Pho onward it was almost completely flat through rice fields away from the coast all the way to Tam Kỳ. The town isn't far from Hội An, yet it sees hardly any tourists — and certainly not many Westerners. We caused quite a stir even just walking through the old riverside market. The highlight of the day was dinner at Quan Gio: an utterly simple place with tiny plastic tables and chairs, but hugely popular and wonderfully located on a wooden platform over the river, with views across rice fields. The food was excellent — top-tier provincial standard — and very cheap, and the atmosphere could hardly be bettered. We ate a whole grilled fish, a whole steamed chicken, fried squid, a delicious warm prawn salad, and drank six beers, all for 200,000 dong. Fantastic dipping sauces and attentive service too.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0930.jpg" alt="Along Hwy 1 - Around Sa Huynh">
+    <em>Along Hwy 1 - Around Sa Huynh</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0934.jpg" alt="Along Hwy 1 - Around Quang Ngai">
+    <em>Along Hwy 1 - Around Quang Ngai</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -1192,11 +1517,41 @@ Hội An's small historic centre — one of the prettiest in Southeast Asia — 
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0951.jpg" alt="Around Hoi An">
+    <em>Around Hoi An</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-0992.jpg" alt="Hoi An">
+    <em>Hoi An</em>
+  </figure>
+
+</div>
+
 ## Day 27 — 29 March (40 km)
 
 We had breakfast in the pretty courtyard of Hai Scout Café in the old town. It's comfortable, the fruit shakes are good and — by Hội An standards — reasonably priced (12,000 dong), and the food is solid. The countryside around Hội An is perfect for cycling: the quietest province begins the moment you leave town. Narrow lanes run past small villages through green rice fields and usually end at a river or canal. The endless, broad Cao Dai Beach is only five kilometres from Hội An. But it has changed dramatically. Six years ago there were a handful of simple, ridiculously cheap seafood places with sun loungers on the sand, and I don't remember a single large resort. Now there are probably a dozen four-star resorts.
 
 The nicest and cosiest restaurant on the main road was Son Café, roughly halfway between the old town and the beach. It's pure Indochina cliché in the best sense: built on stilts over a canal, furnished stylishly with white bamboo chairs, sofas and cushions, overlooking an idyllic landscape of rice fields, coconut palms and water, with traditional music playing softly in the background. And yet it's almost absurdly cheap. For dinner we returned to Mango Rooms, having only tried starters last time. The mains passed the test: seared tuna, raw in the middle, with mango salsa (125,000), and prawns wrapped in tender grilled beef were both excellent. Mango Rooms is probably the best restaurant in town right now, and its creative cooking is worth every dong.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-1014.jpg" alt="Hoi An">
+    <em>Hoi An</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-1028.jpg" alt="Hoi An">
+    <em>Hoi An</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -1268,12 +1623,33 @@ The culinary highlight of the day, and one of the best and most expensive meals 
   <em>Danang</em>
 </figure>
 
+
+<figure>
+  <img src="photos/CyclingVietnam06-1067.jpg" alt="Danang">
+  <em>Danang</em>
+</figure>
+
 ## Day 29 — 31 March (112 km)
 ### Đà Nẵng – Huế
 
 Leaving Đà Nẵng was pleasantly easy, riding along the bay until after about 15 kilometres the road rejoined Highway 1. What followed was less relaxed. First a motorcyclist crashed into my rear pannier and went down, causing general panic because his child (luckily only lightly) was injured. Through no fault of my own I ended up at a police station where nobody spoke English. Surprisingly, after I described what happened to an English teacher at a nearby school, I was released without hassle or bribes and could continue. After that whole performance, the climb up to the Hải Vân Pass began immediately — the most mountainous section of the entire north–south route, rising to about 500 metres above sea level. The pass is often shrouded in mist and forms a climatic divide between Vietnam's tropical south and its subtropical north. The coastal scenery here is stunning: powerful mountains dropping to lonely sandy coves. Beyond the pass lies Lăng Cô, a picturesque sandy spit with fishing boats on the beach — pure postcard.
 
 Huế, the old imperial capital, is one of the country's main tourist magnets. Last time, though, it left me oddly cold. The once-grand citadel was badly destroyed in the war and only a handful of buildings remain. We stayed at the friendly Hai Dang Hotel, very central on the main road to the river. At 160,000 dong it was outstanding value. Huế is considered Vietnam's culinary capital, but our first meal — an afternoon stop at the recommended Tropical Garden — was only middling. In the evening we played it safe and returned to a place we already trusted. We'd eaten very well at Paradise Garden six years ago, and it was excellent again. The fish-filled spring rolls (40,000) are among the best in Vietnam, and portions are generous. Also very good were Huế-style beef salad (40,000) and ram Huế (30,000), a local speciality resembling small meat-filled samosas served with peanut sauce.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-1108.jpg" alt="Along Hwy 1 - Hai Van Pass">
+    <em>Along Hwy 1 - Hai Van Pass</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-1114.jpg" alt="Along Hwy 1 - Around Hue">
+    <em>Along Hwy 1 - Around Hue</em>
+  </figure>
+
+</div>
 
 
 <div class="photo-row">
@@ -1372,6 +1748,21 @@ In pouring rain we cycled to the station in the afternoon and learned that our e
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingVietnam06-1139.jpg" alt="Hue">
+    <em>Hue</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingVietnam06-1172.jpg" alt="Around Hue">
+    <em>Around Hue</em>
+  </figure>
+
+</div>
+
 ## Days 31–33 — 2–4 April (72 km)
 
 After roughly twelve hours on the train, and a delay of just over an hour, we arrived in Hà Nội early in the morning. As we didn't yet have the bikes and many hotels weren't open at that hour, our options were limited, so we took a taxi straight to the Viet Anh in the Old Quarter. The Old Quarter still offers authentic street scenes and wonderfully photogenic moments, but the harassment from cyclo drivers, xe ôm riders, and street sellers has become barely tolerable. And beyond the chaotic Old Quarter there is another Hà Nội: elegant and dignified, with stately colonial villas, quiet temples, many lakes, and broad avenues. It's precisely these two completely different faces that make Hà Nội so attractive.
@@ -1394,6 +1785,12 @@ We spent our last two days in Bangkok shopping and eating, as you do in Bangkok.
   <em>Bangkok</em>
 </figure>
 
+
+
+<figure>
+  <img src="photos/CyclingVietnam06-1285.jpg" alt="Bangkok">
+  <em>Bangkok</em>
+</figure>
 
 
 <figure>
