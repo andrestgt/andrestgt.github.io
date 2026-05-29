@@ -23,4 +23,4 @@ Bar Manchester gets the basics right: good music at sensible volume levels and c
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+de+Milans+5+Ciutat+Vella+08002+Barcelona+Spain)
 📍 Carrer de Milans, 5, Ciutat Vella, 08002 Barcelona, Spain
-💰 **Price level:** budget
+💰 **Price level:** inexpensive

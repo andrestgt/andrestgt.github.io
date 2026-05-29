@@ -21,4 +21,4 @@ Friendly little Old Town craft beer bar with lots of international bottled varie
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kiki+Lalat+Jalan+Bijeh+Timah+Old+Town+Ipoh+Perak+Malaysia)
 🍺 **Type:** Craft Beer Bar
-💰 **Price level:** moderate to expensive
+💰 **Price level:** expensive

@@ -33,4 +33,4 @@ Super popular boozer completely fallen out of time — it's worth just coming to
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Broadway+Bar+Restaurant+Ganesh+Chandra+Avenue+Bowbazar+Kolkata+India)
 🍺 **Type:** Bar
-💰 **Price level:** moderate to expensive
+💰 **Price level:** expensive

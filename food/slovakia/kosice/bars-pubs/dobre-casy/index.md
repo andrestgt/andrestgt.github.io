@@ -38,4 +38,4 @@ Brilliant pub with lots of beers on tap, mostly craft beers, at surprisingly goo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Čajkovského+4+040+01+Košice+Slovakia)
 📍 Čajkovského 860/4, 040 01 Košice, Slovakia
-💰 **Price level:** budget
+💰 **Price level:** inexpensive

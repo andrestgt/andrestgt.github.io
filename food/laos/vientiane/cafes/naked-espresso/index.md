@@ -46,4 +46,4 @@ The cappuccino here is probably the best in town — nice and smooth. Friendly p
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Naked+Espresso+Dongpalan+Road+Vientiane+Laos)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** inexpensive to moderate
+💰 **Price level:** inexpensive

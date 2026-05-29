@@ -33,4 +33,4 @@ One of Ubud's nicest cafés, offering rather expensive but good Western bistro f
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Des+Artistes+Jl+Bisma+Ubud+Bali)
 ☕ **Type:** Café & Bistro
-💰 **Price level:** moderate to expensive
+💰 **Price level:** expensive

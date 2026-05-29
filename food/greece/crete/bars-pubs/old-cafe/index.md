@@ -27,4 +27,4 @@ Lovely little place tucked away in a shaded pedestrian alley. The 2,50€ carafe
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kagiampi+19+Iraklio+712+01+Greece)
 📍 Kagiampi 19, Iraklio 712 01, Greece
-💰 **Price level:** budget
+💰 **Price level:** inexpensive
