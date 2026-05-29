@@ -6,6 +6,11 @@ title: Black Canyon – Robinson Bang Rak
 subtitle: Bang Rak · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/black-canyon-bang-rak-1.jpg" alt="Black Canyon – Robinson Bang Rak">
+  <figcaption>Black Canyon – Robinson Bang Rak</figcaption>
+</figure>
+
 Not the nicest Black Canyon branch in terms of atmosphere, and they may put cinnamon on your cappuccino if you don’t specifically ask otherwise. The rather expensive pad thai is still very good, though.
 
 ## Ratings

@@ -6,6 +6,11 @@ title: The Oyster Bar at Rimping Supermarket
 subtitle: Tha Sala · Oysters, Wine
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/oyster-bar-rimping-1.jpg" alt="The Oyster Bar at Rimping Supermarket">
+  <figcaption>The Oyster Bar at Rimping Supermarket</figcaption>
+</figure>
+
 Wine at retail prices and delicious fresh oysters. Their Thai food menu is extensive and cheap but could be better. Best to go for affordable wine and oysters.
 
 ## Ratings

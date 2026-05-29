@@ -6,6 +6,11 @@ title: Gia Minh Hand-made Noodle Bistro
 subtitle: Côn Đảo · Vietnamese, Noodles
 ---
 
+<figure>
+  <img src="/photos/vietnam/con-dao/gia-minh-hand-made-noodle-bistro-1.jpg" alt="Gia Minh Hand-made Noodle Bistro">
+  <figcaption>Gia Minh Hand-made Noodle Bistro</figcaption>
+</figure>
+
 This is a very basic-looking eatery, albeit in a pleasant garden setting. But appearances can be deceptive. The food here is outstanding, especially anything featuring their handmade noodles. The wonton noodle soup is delicious, and the grilled squid served on a bed of noodles is equally good.
 
 They also do very good spring rolls and salads, so this is an absolute must for anyone visiting the islands. Prices are reasonable as well.

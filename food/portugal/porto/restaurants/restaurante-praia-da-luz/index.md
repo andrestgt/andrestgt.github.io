@@ -6,6 +6,10 @@ title: Restaurante Praia da Luz
 subtitle: Porto · Restaurant
 ---
 
+<figure>
+  <img src="/photos/portugal/porto/restaurante-praia-da-luz-1.jpg" alt="Restaurante Praia da Luz">
+  <figcaption>Restaurante Praia da Luz</figcaption>
+</figure>
 
 Rather fancy restaurant by the beach with excellent sea views and very comfortable surroundings. The downside is that prices are extremely high by local standards.
 
