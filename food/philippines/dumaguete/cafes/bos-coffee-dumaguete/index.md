@@ -6,6 +6,11 @@ title: Bo's Coffee – Rizal Boulevard
 subtitle: Rizal Boulevard, Dumaguete · Café
 ---
 
+<figure>
+  <img src="/photos/philippines/dumaguete/bos-coffee-dumaguete-1.jpg" alt="Bo's Coffee – Rizal Boulevard">
+  <figcaption>Bo's Coffee – Rizal Boulevard</figcaption>
+</figure>
+
 The cappuccino quality here varies wildly from day to day, but at least it can occasionally be decent. Make sure to request no cinnamon and insist on a proper mug instead of paper cups. Mediocre as it is, this still remains one of the very few tolerable coffee options in town.
 
 ## Ratings

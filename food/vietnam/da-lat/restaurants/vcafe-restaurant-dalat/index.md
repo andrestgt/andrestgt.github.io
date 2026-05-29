@@ -5,6 +5,12 @@ review: true
 title: Vcafe Restaurant Dalat
 subtitle: Đà Lạt · Vietnamese
 ---
+
+<figure>
+  <img src="/photos/vietnam/da-lat/vcafe-restaurant-dalat-1.jpg" alt="Vcafe Restaurant Dalat">
+  <figcaption>Vcafe Restaurant Dalat</figcaption>
+</figure>
+
 Cosy bar/bistro hybrid that's been around for a long time. It's a great place for some comfy quiet afternoon drinks. Happy hour is from 4-6 and it's a steal for cocktails. Their frozen strawberry margaritas are especially tasty. There's a huge menu of mostly Western dishes at reasonable prices. I wouldn't go there for the food necessarily, but their lasagne is decent
 
 ## Ratings

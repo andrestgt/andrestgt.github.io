@@ -6,6 +6,11 @@ title: HongKong Dimsum and Noodle
 subtitle: Phra Nakhon · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/hongkong-dimsum-1.jpg" alt="HongKong Dimsum and Noodle">
+  <figcaption>HongKong Dimsum and Noodle</figcaption>
+</figure>
+
 Convenient modern noodle and dim sum place on Phra Sumen Road. Unfortunately, prices are fairly high for what you get and the overall quality is only average.
 ## Ratings
 

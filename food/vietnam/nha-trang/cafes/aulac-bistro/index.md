@@ -5,6 +5,12 @@ review: true
 title: Aulac Bistro
 subtitle: Nha Trang · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/nha-trang/aulac-bistro-1.jpg" alt="Aulac Bistro">
+  <figcaption>Aulac Bistro</figcaption>
+</figure>
+
 Beautiful café, nicely decorated with sofas and cushions, making it a very comfortable place to escape the Nha Trang heat for a while. Strong air conditioning, reliable wifi, very good coffees and fresh juices all add to the appeal. Prices are surprisingly moderate, with a cappuccino at just 45k. An excellent place.
 
 ## Ratings
