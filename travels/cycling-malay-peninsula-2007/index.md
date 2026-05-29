@@ -38,8 +38,8 @@ Beyond that, Ayutthaya is a typical Thai provincial town: largely rather faceles
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0016.jpg" alt="Day 4">
-  <em>Day 4</em>
+  <img src="photos/CyclingPenMalay07-0016.jpg" alt="Ayutthaya">
+  <em>Ayutthaya</em>
 </figure>
 
 ## Day 5 - 18 February - 153 km
@@ -52,8 +52,8 @@ We spent the night at Pong Pehn GH in the tourist quarter on the Kwai. A huge, b
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0019.jpg" alt="Day 5">
-  <em>Day 5</em>
+  <img src="photos/CyclingPenMalay07-0019.jpg" alt="Ayutthaya">
+  <em>Ayutthaya</em>
 </figure>
 
 ## Day 6 - 19 February - 110 km
@@ -68,8 +68,8 @@ I liked Ratchaburi a lot. Not because the town is beautiful—architecturally, m
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0029.jpg" alt="Day 6">
-  <em>Day 6</em>
+  <img src="photos/CyclingPenMalay07-0029.jpg" alt="Ratchaburi">
+  <em>Ratchaburi</em>
 </figure>
 
 ## Day 7 - 20 February - 137 km
@@ -86,8 +86,8 @@ In Hua Hin it was still high season, and there seemed to be more farangs—espec
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0042.jpg" alt="Day 7">
-  <em>Day 7</em>
+  <img src="photos/CyclingPenMalay07-0042.jpg" alt="Hua Hin">
+  <em>Hua Hin</em>
 </figure>
 
 ## Day 8 - 21 February - 122 km
@@ -104,8 +104,8 @@ Most of them stay, as we did, at the large two-star Had Thong on the promenade�
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0046.jpg" alt="Day 8">
-  <em>Day 8</em>
+  <img src="photos/CyclingPenMalay07-0046.jpg" alt="Khao Sam Roi Yod NP">
+  <em>Khao Sam Roi Yod NP</em>
 </figure>
 
 ## Day 9 - 22 February - 104 km
@@ -120,8 +120,8 @@ From Bang Saphan we rode about five kilometres south on Road 3374 and stopped at
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0069.jpg" alt="Day 9">
-  <em>Day 9</em>
+  <img src="photos/CyclingPenMalay07-0069.jpg" alt="Ban Krut">
+  <em>Ban Krut</em>
 </figure>
 
 ## Day 10 - 23 February - 140 km
@@ -136,14 +136,14 @@ Freshly showered and rested, we decided to take the midnight ferry to Ko Tao (20
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0075.jpg" alt="Day 10">
-  <em>Day 10</em>
+  <img src="photos/CyclingPenMalay07-0075.jpg" alt="Ban Bird">
+  <em>Ban Bird</em>
 </figure>
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0084.jpg" alt="Day 11">
-  <em>Day 11</em>
+  <img src="photos/CyclingPenMalay07-0084.jpg" alt="Koh Tao">
+  <em>Koh Tao</em>
 </figure>
 
 ## Days 11-12 - 24-25 February - 109 km
@@ -162,8 +162,8 @@ In the evening we had a seafood barbecue in wonderful surroundings, with tables 
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0131.jpg" alt="Day 12">
-  <em>Day 12</em>
+  <img src="photos/CyclingPenMalay07-0131.jpg" alt="Ko Samui - Lamai">
+  <em>Ko Samui - Lamai</em>
 </figure>
 
 ## Day 13 - 26 February - 137 km
@@ -178,8 +178,8 @@ I’d planned to stay overnight in Tha Sala, but there didn’t seem to be a hot
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0142.jpg" alt="Day 13">
-  <em>Day 13</em>
+  <img src="photos/CyclingPenMalay07-0142.jpg" alt="Around Khanom">
+  <em>Around Khanom</em>
 </figure>
 
 ## Day 14 - 27 February - 143 km
@@ -198,23 +198,23 @@ The resort has an excellent seafood restaurant attached, with a lovely veranda o
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0152.jpg" alt="Day 14">
-    <em>Day 14</em>
+    <img src="photos/CyclingPenMalay07-0152.jpg" alt="Phattalung">
+    <em>Phattalung</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0153.jpg" alt="Day 14">
-    <em>Day 14</em>
+    <img src="photos/CyclingPenMalay07-0153.jpg" alt="Phattalung">
+    <em>Phattalung</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0154.jpg" alt="Day 14">
-    <em>Day 14</em>
+    <img src="photos/CyclingPenMalay07-0154.jpg" alt="Phattalung - Lake Resort">
+    <em>Phattalung - Lake Resort</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0155.jpg" alt="Day 14">
-    <em>Day 14</em>
+    <img src="photos/CyclingPenMalay07-0155.jpg" alt="Phattalung - Lake Resort">
+    <em>Phattalung - Lake Resort</em>
   </figure>
 
 </div>
@@ -231,28 +231,28 @@ After a short ferry crossing I reached Songkhla, one of the more attractive prov
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0158.jpg" alt="Day 15">
-    <em>Day 15</em>
+    <img src="photos/CyclingPenMalay07-0158.jpg" alt="Songkhla - Amsterdam GH">
+    <em>Songkhla - Amsterdam GH</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0159.jpg" alt="Day 15">
-    <em>Day 15</em>
+    <img src="photos/CyclingPenMalay07-0159.jpg" alt="Songkhla">
+    <em>Songkhla</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0160.jpg" alt="Day 15">
-    <em>Day 15</em>
+    <img src="photos/CyclingPenMalay07-0160.jpg" alt="Songkhla">
+    <em>Songkhla</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0161.jpg" alt="Day 15">
-    <em>Day 15</em>
+    <img src="photos/CyclingPenMalay07-0161.jpg" alt="Songkhla">
+    <em>Songkhla</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0163.jpg" alt="Day 15">
-    <em>Day 15</em>
+    <img src="photos/CyclingPenMalay07-0163.jpg" alt="Songkhla">
+    <em>Songkhla</em>
   </figure>
 
 </div>
@@ -277,38 +277,38 @@ I stayed at the Palace Hotel in a rather grim room with bathroom for a bargain 1
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0164.jpg" alt="Day 16">
-    <em>Day 16</em>
+    <img src="photos/CyclingPenMalay07-0164.jpg" alt="Songkhla">
+    <em>Songkhla</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0165.jpg" alt="Day 16">
-    <em>Day 16</em>
+    <img src="photos/CyclingPenMalay07-0165.jpg" alt="Around Songkhla">
+    <em>Around Songkhla</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0166.jpg" alt="Day 16">
-    <em>Day 16</em>
+    <img src="photos/CyclingPenMalay07-0166.jpg" alt="Around Songkhla">
+    <em>Around Songkhla</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0167.jpg" alt="Day 16">
-    <em>Day 16</em>
+    <img src="photos/CyclingPenMalay07-0167.jpg" alt="Around Songkhla">
+    <em>Around Songkhla</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0168.jpg" alt="Day 16">
-    <em>Day 16</em>
+    <img src="photos/CyclingPenMalay07-0168.jpg" alt="Around Pattani">
+    <em>Around Pattani</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0169.jpg" alt="Day 16">
-    <em>Day 16</em>
+    <img src="photos/CyclingPenMalay07-0169.jpg" alt="Pattani">
+    <em>Pattani</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0170.jpg" alt="Day 16">
-    <em>Day 16</em>
+    <img src="photos/CyclingPenMalay07-0170.jpg" alt="Pattani Night Market">
+    <em>Pattani Night Market</em>
   </figure>
 
 </div>
@@ -333,63 +333,63 @@ For dinner I went to the recommended Kasoh Garden Restaurant, a large, attractiv
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0171.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0171.jpg" alt="Around Pattani - Talo Gapo Beach">
+    <em>Around Pattani - Talo Gapo Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0172.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0172.jpg" alt="Around Saiburi">
+    <em>Around Saiburi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0173.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0173.jpg" alt="Around Saiburi">
+    <em>Around Saiburi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0174.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0174.jpg" alt="Around Saiburi - Khae Khae Beach">
+    <em>Around Saiburi - Khae Khae Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0176.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0176.jpg" alt="Around Saiburi - Khae Khae Beach">
+    <em>Around Saiburi - Khae Khae Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0177.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0177.jpg" alt="Around Saiburi">
+    <em>Around Saiburi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0178.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0178.jpg" alt="Around Saiburi">
+    <em>Around Saiburi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0179.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0179.jpg" alt="Narathiwat">
+    <em>Narathiwat</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0180.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0180.jpg" alt="Narathiwat">
+    <em>Narathiwat</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0181.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0181.jpg" alt="Narathiwat">
+    <em>Narathiwat</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0182.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0182.jpg" alt="Narathiwat">
+    <em>Narathiwat</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0183.jpg" alt="Day 17">
-    <em>Day 17</em>
+    <img src="photos/CyclingPenMalay07-0183.jpg" alt="Narathiwat - Kasoh Garden Restaurant">
+    <em>Narathiwat - Kasoh Garden Restaurant</em>
   </figure>
 
 </div>
@@ -410,28 +410,28 @@ I ended up at Ideal Guesthouse for exactly two reasons: it was extremely cheap, 
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0184.jpg" alt="Day 18">
-    <em>Day 18</em>
+    <img src="photos/CyclingPenMalay07-0184.jpg" alt="Around Kota Bahru">
+    <em>Around Kota Bahru</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0185.jpg" alt="Day 18">
-    <em>Day 18</em>
+    <img src="photos/CyclingPenMalay07-0185.jpg" alt="Kota Bahru">
+    <em>Kota Bahru</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0187.jpg" alt="Day 18">
-    <em>Day 18</em>
+    <img src="photos/CyclingPenMalay07-0187.jpg" alt="Kota Bahru">
+    <em>Kota Bahru</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0188.jpg" alt="Day 18">
-    <em>Day 18</em>
+    <img src="photos/CyclingPenMalay07-0188.jpg" alt="Kota Bahru">
+    <em>Kota Bahru</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0189.jpg" alt="Day 18">
-    <em>Day 18</em>
+    <img src="photos/CyclingPenMalay07-0189.jpg" alt="Kota Bahru">
+    <em>Kota Bahru</em>
   </figure>
 
 </div>
@@ -456,8 +456,8 @@ Dinner at my resort was excellent. For 15 ringgit they offered a tandoori BBQ: t
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0204.jpg" alt="Day 19">
-  <em>Day 19</em>
+  <img src="photos/CyclingPenMalay07-0204.jpg" alt="Perhentian Kecil">
+  <em>Perhentian Kecil</em>
 </figure>
 
 ## Day 20 - 5 March - 123 km
@@ -478,8 +478,8 @@ I took the cheapest hut at the first resort I came across, KBC, which is run by 
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0217.jpg" alt="Day 20">
-  <em>Day 20</em>
+  <img src="photos/CyclingPenMalay07-0217.jpg" alt="Pulau Kapas">
+  <em>Pulau Kapas</em>
 </figure>
 
 ## Day 21 - 6 March - 147 km
@@ -502,8 +502,8 @@ Even so, I had an excellent dinner at Matahari: two fat slipper lobsters and a s
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0229.jpg" alt="Day 21">
-  <em>Day 21</em>
+  <img src="photos/CyclingPenMalay07-0229.jpg" alt="Around Dungun">
+  <em>Around Dungun</em>
 </figure>
 
 ## Day 22 - 7 March - 113 km
@@ -522,8 +522,8 @@ The best reason to stop in Pekan, though, is the Chief’s Rest House, in an old
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0251.jpg" alt="Day 22">
-  <em>Day 22</em>
+  <img src="photos/CyclingPenMalay07-0251.jpg" alt="Pekan Resthouse">
+  <em>Pekan Resthouse</em>
 </figure>
 
 ## Day 23 - 8 March - 162 km
@@ -560,13 +560,13 @@ Another, more practical reason to stay in JB was that for the price of a dorm be
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0258.jpg" alt="Day 24">
-    <em>Day 24</em>
+    <img src="photos/CyclingPenMalay07-0258.jpg" alt="Johor Bahru">
+    <em>Johor Bahru</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0292.jpg" alt="Day 24">
-    <em>Day 24</em>
+    <img src="photos/CyclingPenMalay07-0292.jpg" alt="Singapore">
+    <em>Singapore</em>
   </figure>
 
 </div>
@@ -613,8 +613,8 @@ In the evening I’d planned to eat at Lau Pa Sat, but I simply couldn’t force
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0337.jpg" alt="Day 25">
-  <em>Day 25</em>
+  <img src="photos/CyclingPenMalay07-0337.jpg" alt="Singapore - Botanical Garden">
+  <em>Singapore - Botanical Garden</em>
 </figure>
 
 ## Day 26 - 12 March - 186 km
@@ -645,8 +645,8 @@ For dinner—because other options were shut—I went to Harper’s, one of the 
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0371.jpg" alt="Day 27">
-  <em>Day 27</em>
+  <img src="photos/CyclingPenMalay07-0371.jpg" alt="Melaka">
+  <em>Melaka</em>
 </figure>
 
 ## Day 28 - 14 March - 145 km
@@ -663,8 +663,8 @@ KL is one of those places where you could spend the entire day just eating—and
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0379.jpg" alt="Day 28">
-  <em>Day 28</em>
+  <img src="photos/CyclingPenMalay07-0379.jpg" alt="KL - Jalan Alor">
+  <em>KL - Jalan Alor</em>
 </figure>
 
 ## Day 29 - 15 March
@@ -687,8 +687,8 @@ For dinner I stayed in the Golden Triangle too, going traditionally Malay in a m
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0391.jpg" alt="Day 29">
-  <em>Day 29</em>
+  <img src="photos/CyclingPenMalay07-0391.jpg" alt="KL">
+  <em>KL</em>
 </figure>
 
 ## Day 30 - 16 March - 107 km
@@ -705,8 +705,8 @@ In the small town of Kuala Selangor, at the mouth of the mighty Selangor River, 
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0433.jpg" alt="Day 30">
-  <em>Day 30</em>
+  <img src="photos/CyclingPenMalay07-0433.jpg" alt="KL">
+  <em>KL</em>
 </figure>
 
 ## Day 31 - 17 March - 150 km
@@ -739,14 +739,14 @@ Taiping even has a stylish café. The Piano Café offered international bistro f
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0451.jpg" alt="Day 32">
-  <em>Day 32</em>
+  <img src="photos/CyclingPenMalay07-0451.jpg" alt="Taiping">
+  <em>Taiping</em>
 </figure>
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0473.jpg" alt="Day 33">
-  <em>Day 33</em>
+  <img src="photos/CyclingPenMalay07-0473.jpg" alt="Georgetown">
+  <em>Georgetown</em>
 </figure>
 
 ## Days 33-34 - 19-20 March - 158 km
@@ -781,8 +781,8 @@ And yes—Georgetown even does proper Italian cappuccino: 8 RM at Segafredo on t
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0492.jpg" alt="Day 34">
-  <em>Day 34</em>
+  <img src="photos/CyclingPenMalay07-0492.jpg" alt="Penang Hill">
+  <em>Penang Hill</em>
 </figure>
 
 ## Day 35 - 21 March - 131 km
@@ -809,8 +809,8 @@ Food options in Cenang are, unsurprisingly, plentiful, but the “best” restau
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0529.jpg" alt="Day 35">
-  <em>Day 35</em>
+  <img src="photos/CyclingPenMalay07-0529.jpg" alt="Langkawi - Cenang Beach">
+  <em>Langkawi - Cenang Beach</em>
 </figure>
 
 ## Day 36 - 22 March - 98 km
@@ -839,193 +839,193 @@ From the pier it was another 10 km in pouring rain to Satun, where I found a sim
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0536.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0536.jpg" alt="Around Langkawi">
+    <em>Around Langkawi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0537.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0537.jpg" alt="Around Langkawi">
+    <em>Around Langkawi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0538.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0538.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0539.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0539.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0540.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0540.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0541.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0541.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0542.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0542.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0543.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0543.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0544.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0544.jpg" alt="Langkawi - Telaga Tujuh">
+    <em>Langkawi - Telaga Tujuh</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0545.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0545.jpg" alt="Langkawi - Telaga Tujuh">
+    <em>Langkawi - Telaga Tujuh</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0546.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0546.jpg" alt="Langkawi - Telaga Tujuh">
+    <em>Langkawi - Telaga Tujuh</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0547.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0547.jpg" alt="Langkawi - Telaga Tujuh">
+    <em>Langkawi - Telaga Tujuh</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0548.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0548.jpg" alt="Langkawi - Telaga Tujuh">
+    <em>Langkawi - Telaga Tujuh</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0549.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0549.jpg" alt="Langkawi - Telaga Tujuh">
+    <em>Langkawi - Telaga Tujuh</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0550.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0550.jpg" alt="Langkawi - Telaga Tujuh">
+    <em>Langkawi - Telaga Tujuh</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0551.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0551.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0553.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0553.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0554.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0554.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0555.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0555.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0556.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0556.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0557.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0557.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0558.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0558.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0560.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0560.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0561.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0561.jpg" alt="Langkawi - Burau Bay">
+    <em>Langkawi - Burau Bay</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0562.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0562.jpg" alt="Langkawi - Pantai Kok">
+    <em>Langkawi - Pantai Kok</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0563.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0563.jpg" alt="Langkawi - Pantai Kok">
+    <em>Langkawi - Pantai Kok</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0564.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0564.jpg" alt="Langkawi - Pantai Kok">
+    <em>Langkawi - Pantai Kok</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0565.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0565.jpg" alt="Langkawi - Burau Bay Marina">
+    <em>Langkawi - Burau Bay Marina</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0566.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0566.jpg" alt="Around Langkawi">
+    <em>Around Langkawi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0567.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0567.jpg" alt="Around Langkawi">
+    <em>Around Langkawi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0568.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0568.jpg" alt="Around Langkawi">
+    <em>Around Langkawi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0569.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0569.jpg" alt="Around Langkawi">
+    <em>Around Langkawi</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0570.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0570.jpg" alt="Langkawi - Tanjung Rhu">
+    <em>Langkawi - Tanjung Rhu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0571.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0571.jpg" alt="Langkawi - Tanjung Rhu">
+    <em>Langkawi - Tanjung Rhu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0572.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0572.jpg" alt="Langkawi - Tanjung Rhu">
+    <em>Langkawi - Tanjung Rhu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0573.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0573.jpg" alt="Langkawi - Tanjung Rhu">
+    <em>Langkawi - Tanjung Rhu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0574.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0574.jpg" alt="Langkawi - Tanjung Rhu">
+    <em>Langkawi - Tanjung Rhu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0575.jpg" alt="Day 36">
-    <em>Day 36</em>
+    <img src="photos/CyclingPenMalay07-0575.jpg" alt="Langkawi - Tanjung Rhu">
+    <em>Langkawi - Tanjung Rhu</em>
   </figure>
 
 </div>
@@ -1046,68 +1046,68 @@ Even if Bulon Le can’t compete with the dramatic beauty of some other Thai isl
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0576.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0576.jpg" alt="Pakbara">
+    <em>Pakbara</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0577.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0577.jpg" alt="Pakbara">
+    <em>Pakbara</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0578.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0578.jpg" alt="Pakbara">
+    <em>Pakbara</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0579.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0579.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0580.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0580.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0581.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0581.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0582.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0582.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0583.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0583.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0584.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0584.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0585.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0585.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0586.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0586.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0587.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0587.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0588.jpg" alt="Day 37">
-    <em>Day 37</em>
+    <img src="photos/CyclingPenMalay07-0588.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
 </div>
@@ -1126,28 +1126,28 @@ Trang is very tidy but not particularly pretty. Still, quite a lot of tourists s
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0589.jpg" alt="Day 38">
-    <em>Day 38</em>
+    <img src="photos/CyclingPenMalay07-0589.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0590.jpg" alt="Day 38">
-    <em>Day 38</em>
+    <img src="photos/CyclingPenMalay07-0590.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0591.jpg" alt="Day 38">
-    <em>Day 38</em>
+    <img src="photos/CyclingPenMalay07-0591.jpg" alt="Koh Bulon Lae">
+    <em>Koh Bulon Lae</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0592.jpg" alt="Day 38">
-    <em>Day 38</em>
+    <img src="photos/CyclingPenMalay07-0592.jpg" alt="Around Trang">
+    <em>Around Trang</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0593.jpg" alt="Day 38">
-    <em>Day 38</em>
+    <img src="photos/CyclingPenMalay07-0593.jpg" alt="Around Trang">
+    <em>Around Trang</em>
   </figure>
 
 </div>
@@ -1170,13 +1170,13 @@ I stayed at the Laughing Gecko in a very simple but wonderfully rustic bamboo bu
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0594.jpg" alt="Day 39">
-    <em>Day 39</em>
+    <img src="photos/CyclingPenMalay07-0594.jpg" alt="Around Trang">
+    <em>Around Trang</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0595.jpg" alt="Day 39">
-    <em>Day 39</em>
+    <img src="photos/CyclingPenMalay07-0595.jpg" alt="Around Trang">
+    <em>Around Trang</em>
   </figure>
 
 </div>
@@ -1203,8 +1203,8 @@ For dinner I treated myself, for once, to something smarter again: Thai Indigo, 
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0605.jpg" alt="Day 40">
-  <em>Day 40</em>
+  <img src="photos/CyclingPenMalay07-0605.jpg" alt="Around Krabi">
+  <em>Around Krabi</em>
 </figure>
 
 ## Day 41 - 27 March - 123 km
@@ -1235,8 +1235,8 @@ Dinner was excellent again. I went to Dibuk, in a restored Sino-Portuguese old-t
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0629.jpg" alt="Day 41">
-  <em>Day 41</em>
+  <img src="photos/CyclingPenMalay07-0629.jpg" alt="Phuket - West Coast">
+  <em>Phuket - West Coast</em>
 </figure>
 
 ## Day 42 - 28 March
@@ -1261,8 +1261,8 @@ Khana Sutra isn’t a standard Indian place but a chic, stylish lounge where you
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0666.jpg" alt="Day 42">
-  <em>Day 42</em>
+  <img src="photos/CyclingPenMalay07-0666.jpg" alt="Koh Phi Phi">
+  <em>Koh Phi Phi</em>
 </figure>
 
 ## Day 43 - 29 March - 113 km
@@ -1289,8 +1289,8 @@ Dinner was at Khao Lak Seafood Restaurant, also on the highway. There was a thic
 
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0713.jpg" alt="Day 43">
-  <em>Day 43</em>
+  <img src="photos/CyclingPenMalay07-0713.jpg" alt="Khao Lak">
+  <em>Khao Lak</em>
 </figure>
 
 ## Day 44 - 30 March - 197 km
@@ -1308,8 +1308,8 @@ I spent the evening in Surat, where there isn’t much to do besides eat. The ri
 Exchange rate: 1 euro = 1.30 US$ = 43 baht = 4.5 ringgit
 
 <figure>
-  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0726.jpg" alt="Day 44">
-  <em>Day 44</em>
+  <img src="photos/CyclingPenMalay07-0726.jpg" alt="Around Khao Sok NP">
+  <em>Around Khao Sok NP</em>
 </figure>
 
 
