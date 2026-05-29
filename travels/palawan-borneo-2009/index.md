@@ -4,6 +4,7 @@ section: travels
 title: "Palawan and Borneo"
 subtitle: "Palawan | Malaysian Borneo"
 date: 2009-02-22
+photos_locked: true
 ---
 
 # Palawan and Borneo
@@ -46,6 +47,21 @@ On the way back to Puerto I made a short stop at the hot springs of San Isidro (
 
 If northern Palawan is even half as spectacular as people say, there’s an obvious reason why the south is so rarely visited: while this area certainly has its charms, the natural sights are rather second-rate. Waterfalls, caves and Robinson islets are found in the north as well, and for a solo traveller they’re far easier and cheaper to reach. Still, it was genuinely interesting to explore a region where very few people speak English and the occasional Western tourist rarely strays this way – and time, after all, is something I have plenty of.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0055.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0057.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+</div>
+
 ## 25 February 2009
 My first stop north of Puerto was Sabang, which also happens to boast one of the country’s most famous and popular tourist attractions: Subterranean River National Park, with the world’s longest (or second-longest) navigable underground river.
 
@@ -73,6 +89,41 @@ Even if the Underground River didn’t exist, the idyllic bay with its white san
 
 The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highlight. In places the river is surprisingly wide and the cave ceiling rises to 65 m. Plenty of bats and rock formations keep things interesting. The only pity is that you’re not allowed to swim either in the cave or in the lagoon – that would have been the perfect finale.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0081.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0085.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0103.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0104.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0105.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0117.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+</div>
+
 ## 2 March 2009
 From Sabang I took a jeepney back to the highway (2 h, PHP 75), where I quickly found a connection to Roxas. I got off an hour before town at the junction to Port Barton (1 h, PHP 50), where I had to wait a good half-hour for the Roxas–Port Barton jeepney. For the last 22 km to Port Barton the jeepney took more than an hour and a half. Even in the dry season the road is in a terrible state – but it also stops sleepy Port Barton from turning into a tourist centre, because the potential is definitely there.
 
@@ -85,6 +136,121 @@ The bungalows right on the beach in Port Barton unfortunately aren’t great val
 Most of the time, though, I ate at Judy’s Restaurant, where the food was very cheap and, by Philippine standards, not bad at all. They also had the cheapest drinks.
 
 The rustic Jimbalaya sat in a great spot on the beach, a café where they sold home-baked European-style bread. Unfortunately the prices there – for both food and coffee – were wildly overpriced.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0127.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0132.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0139.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0141.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0155.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0167.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0172.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0175.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0177.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0195.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0207.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0209.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0231.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0248.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0251.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0252.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0253.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0267.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0271.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0276.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0280.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0291.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+</div>
 
 ## 9 March 2009
 The jeepney from Port Barton to Roxas charges tourists for 150 pesos for the 20-odd kilometres, which is a complete rip-off even given the dreadful road. Just as on the way in, I paid only 100 pesos, a fare I considered fair, and got away with it without any drama.
@@ -109,6 +275,26 @@ But the mainland around El Nido has plenty to offer too, and is still barely dev
 
 Only a few kilometres south of El Nido, not far from the highway, lies Corong-Corong, another dream beach. There are a few resorts here and, because it’s easy to reach, it attracts more tourists. The beach is narrow and not very long, but incredibly picturesque, clean and perfect for a lazy afternoon by the sea.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0308.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0314.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0319.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+</div>
+
 ## 11 March 2009
 Since by far the cheapest way back from Palawan to Manila was a Zest Air flight from Coron/Busuanga (PHP 388), I spent another two days in the Calamian Archipelago, the northernmost tip of Palawan province.
 
@@ -126,6 +312,26 @@ For non-divers, Coron offers the option of a day trip to Coron Island opposite, 
 
 29.06 – 03.08.2009
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0002.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0003.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0011.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+</div>
+
 ## 4 July 2009
 I arrived in the evening on a flight from Clark to Kota Kinabalu airport and, for lack of a better option, took a taxi (20 RM with coupon) into the city centre, where I stayed right on Jalan Gaya, at North Borneo Cabin. A dorm bed cost 20 RM, breakfast included, and there was free Wi-Fi throughout the building.
 
@@ -134,6 +340,66 @@ I spent the next few days in Sabah’s capital before my onward flight to Tawau.
 What surprised me, though, was the large number of backpacker hostels and tourists in the city. Now that AirAsia has been flying cheaply to Borneo for several years, despite its remoteness, this corner of Asia is no longer a hidden gem. Borneo is also extremely popular with Asian tour groups, which unfortunately means that most attractions — especially in Sabah, but also in Sarawak — cater to well-heeled tour groups on short holidays, so prices are steep. Climbing Mt. Kinabalu now costs 1,000 RM, and boat trips and wildlife safaris along Borneo’s rivers can be serious budget-busters for long-term travellers.
 
 Oddly enough, diving courses in Semporna are among the cheapest in the world — which is why it was my next destination.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0038.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0039.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0040.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0041.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0042.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0043.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0045.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0046.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0047.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0048.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0049.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+</div>
 
 ## 12 July 2009
 For travellers in Malaysia, Semporna is “the end of the road”: the easternmost tip of Borneo, just a stone’s throw from the Philippine Sulu Islands. Sooner or later, any route takes you back to Kota Kinabalu — a bus journey of more than ten hours. So I was glad I could fly one leg very cheaply. Even though I booked only a few days in advance, the MAS flight from KK to Tawau cost just 79 RM, not much more than the bus.
@@ -151,6 +417,12 @@ My dive shop, Scuba Junkie, is the main hub for budget travellers. It’s large 
 I did my Open Water (800 RM) and Advanced (750 RM) courses on the islands of Sibuan, Mantabuan and Mabul — all dream islands with great dive sites, where turtles and barracudas abound, along with most of the big-name reef fish. Sibuan also has a wonderful coral reef that’s still largely intact.
 
 The most famous island in the area, however, is Sipadan, which regularly features in top-ten lists of the world’s best dive sites. For several years now, diving around Sipadan has unfortunately been heavily regulated and very expensive due to mass tourism; waiting lists are long (weeks with some operators), and a day trip costs 500 RM — twice as much as on the other islands. So I had to skip Sipadan — with a heavy heart — but the diving on the other islands was also excellent.
+
+
+<figure>
+  <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0070.jpg" alt="Photo">
+  <em>Photo</em>
+</figure>
 
 ## 15 July 2009
 The six-hour bus journey from Semporna to Sandakan (40 RM) offers little to see. It mostly passes through seemingly endless oil-palm plantations that have replaced the jungle across vast swathes of Borneo.
@@ -173,3 +445,49 @@ The six-hour bus ride (35 RM) from Sandakan to KK is a genuinely scenic ride, wi
 KK’s long-distance bus terminal is inconveniently located 10 km outside the city centre. You can take a minibus from there to the local bus station, but even from there it’s still a 20-minute walk into the city centre.
 
 This time I stayed at Kinabalu Backpacker — not because I didn’t like North Borneo Cabin, but simply to try something new. This small guesthouse is extremely clean and well-maintained, with modern bathrooms and an air-conditioned dorm (25 RM), but it’s quiet rather than sociable.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0072.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0075.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0077.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0079.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0080.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0081.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0083.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0084.jpg" alt="Photo">
+    <em>Photo</em>
+  </figure>
+
+</div>
+
+
