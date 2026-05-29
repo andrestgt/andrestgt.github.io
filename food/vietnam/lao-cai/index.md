@@ -9,6 +9,7 @@ subtitle: Food and drink across Lào Cai
 
 # Lào Cai
 
+<<<<<<< HEAD
 - [Mường Hum](/food/vietnam/lao-cai/muong-hum/)
 - [Bảo Thắng](/food/vietnam/lao-cai/bao-thang/)
 - [Bắc Hà](/food/vietnam/lao-cai/bac-ha/)

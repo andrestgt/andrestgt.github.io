@@ -4,7 +4,7 @@ section: food
 city: muong-hum
 slug: muong-hum
 title: Mường Hum – Food & Drink
-subtitle: Restaurants, cafés, bars and street food in Bát Xát
+subtitle: Restaurants, cafés, bars and street food in Mường Hum
 ---
 
 # Mường Hum
