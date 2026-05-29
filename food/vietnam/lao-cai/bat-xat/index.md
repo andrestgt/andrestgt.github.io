@@ -7,7 +7,7 @@ title: Mường Hum – Food & Drink
 subtitle: Restaurants, cafés, bars and street food in Bát Xát
 ---
 
-# Bát Xát
+# Mường Hum
 
 Reviews grouped by category.
 
