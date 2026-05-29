@@ -33,13 +33,6 @@ Danzai noodles (50 NT$) and century egg (15 NT$) — a tasty combination for a n
 
 ---
 
-## Shi Jing Jiu Oyster Omelette
-*West Central District · Taiwanese*
-Danzai noodles and century egg at rock-bottom prices — another good noodle soup breakfast spot.
-→ [Read the full review](/food/taiwan/tainan/street-food/shi-jing-jiu-oyster-omelette/)
-
----
-
 ## Win Chang Beef Soup
 *Anping · Taiwanese*
 Most famous beef soup in town — tasty bone broth with fresh beef and minced beef rice at 120 NT$.
