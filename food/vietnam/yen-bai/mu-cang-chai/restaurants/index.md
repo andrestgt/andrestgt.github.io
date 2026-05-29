@@ -1,0 +1,1 @@
+- [Trâm Pa Pỉnh Tộp](/food/vietnam/yen-bai/mu-cang-chai/restaurants/tram-pa-pinh-top/)
