@@ -10,5 +10,4 @@ subtitle: Cafés & street food in Tainan
 
 ## Categories
 - [Cafés](/food/taiwan/tainan/cafes/)
-- [Restaurants](/food/taiwan/tainan/restaurants/)
 - [Street Food](/food/taiwan/tainan/street-food/)
