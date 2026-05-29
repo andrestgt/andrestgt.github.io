@@ -26,4 +26,4 @@ The bánh đa cua here is good without being particularly memorable, but the ver
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=140+P.+Trần+Phú+Cầu+Đất+Ngô+Quyền+Hải+Phòng+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ₫ Under 50k per bowl
+💰 **Price level:** ₫50–100k

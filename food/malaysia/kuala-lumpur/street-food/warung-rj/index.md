@@ -32,4 +32,4 @@ Jalan Alor is dominated by tourist-oriented seafood restaurants, but if you cont
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Warung+R+J+Jalan+Alor+Bukit+Bintang+Kuala+Lumpur)
 🍽️ **Cuisine:** Malay
-💰 **Price level:** Under RM10 per dish
+💰 **Price level:** RM 10-20

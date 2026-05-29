@@ -26,4 +26,4 @@ The food is absolutely fine. It’s nothing particularly outstanding, but that�
 
 🗺️ **Google Maps:** https://www.google.com/maps/search/?api=1&query=Nha+hang+DAC+San+Pu+Luong+Ban+Don+Pu+Luong+Thanh+Hoa+Vietnam  
 📍 Bản Đôn, Pù Luông, Thanh Hóa 40000, Vietnam  
-💰 **Price level:** ₫200,000–300,000 per person
+💰 **Price level:** ₫400–600k

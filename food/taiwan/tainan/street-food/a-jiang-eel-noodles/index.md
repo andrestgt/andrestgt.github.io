@@ -32,4 +32,4 @@ Eel noodles, very tasty. 120 NT$ for a pretty big portion. Must try when in Tain
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=A-Jiang+Eel+Noodles+Minzu+Road+Section+3+West+Central+District+Tainan+Taiwan)
 🍽️ **Cuisine:** Taiwanese, Noodles
-💰 **Price level:** 120 NT$ per bowl
+💰 **Price level:** 240 NT$

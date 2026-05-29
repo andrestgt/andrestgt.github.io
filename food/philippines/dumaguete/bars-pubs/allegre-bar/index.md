@@ -43,4 +43,4 @@ This tiny, yet elegant hole-in-the-wall is elevating the gastronomic options of 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Allegre+Bar+Rizal+Boulevard+Dumaguete+City)
 🍺 **Type:** Tapas Bar
-💰 **Price level:** Under ₱200 per dish
+💰 **Price level:** inexpensive

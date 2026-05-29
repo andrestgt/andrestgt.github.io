@@ -32,4 +32,4 @@ Insanely good beef noodles. The broth, the meat, the noodles — it's all just d
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Fuhong+Beef+Noodles+Luoyang+Street+Wanhua+District+Taipei+Taiwan)
 🍽️ **Cuisine:** Taiwanese, Beef Noodles
-💰 **Price level:** 90 NT$ per bowl
+💰 **Price level:** 180 NT$
