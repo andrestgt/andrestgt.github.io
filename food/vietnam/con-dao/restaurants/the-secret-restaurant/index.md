@@ -31,4 +31,4 @@ It's also one of the very few places in Vietnam where we were treated to an amus
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Secret+Restaurant+Con+Dao+Vietnam)
 🍽️ **Cuisine:** International
-💰 **Price level:** TODO
+💰 **Price level:** ₫300–400k

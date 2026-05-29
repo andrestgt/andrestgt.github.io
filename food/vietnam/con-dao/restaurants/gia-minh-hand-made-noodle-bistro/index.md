@@ -29,4 +29,4 @@ They also do very good spring rolls and salads, so this is an absolute must for 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Gia+Minh+Hand+Made+Noodle+Bistro+Con+Dao+Vietnam)
 🍽️ **Cuisine:** Vietnamese, Noodles
-💰 **Price level:** TODO
+💰 **Price level:** ₫100–200k

@@ -26,4 +26,4 @@ One of the most beautiful country restaurants I know on the Swabian Alb, and an 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wimsen+1+72534+Hayingen+Germany)
 🍽️ **Cuisine:** Swabian
-💰 **Price level:** TODO
+💰 **Price level:** €40–50

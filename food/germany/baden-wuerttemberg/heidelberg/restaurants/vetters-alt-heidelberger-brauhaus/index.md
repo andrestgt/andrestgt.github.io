@@ -31,4 +31,4 @@ Highly recommended.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Steingasse+9+69117+Heidelberg+Germany)
 🍽️ **Cuisine:** German, Swabian
-💰 **Price level:** TODO
+💰 **Price level:** €20–30

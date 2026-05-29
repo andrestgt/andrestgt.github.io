@@ -29,4 +29,4 @@ The food itself is absolutely fine by local standards, and prices are fair consi
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Chill+N+Sea+Bucana+El+Nido+Palawan+Philippines)
 🍽️ **Cuisine:** Filipino, Seafood
-💰 **Price level:** TODO
+💰 **Price level:** ₱400–600
