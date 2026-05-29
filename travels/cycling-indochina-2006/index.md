@@ -1553,17 +1553,16 @@ For lunch, we went to Khmer Borane. They offer upscale, very tasty local special
 
 In the evening, we ate on Sisowath Quay again, this time in the northern part, at the Riverhouse. This is probably the most elegant establishment in the area, a stylishly decorated restaurant with a menu of selected French, Mediterranean, and Asian dishes. The Riverhouse is one of the more expensive places in the city, but the quality of the cuisine was compelling, with excellent ingredients prepared flawlessly. As hors d'oeuvres, we ordered a fine Vegetarian Mezze Marocain ($8) and Artichoke Mousse with Smoked Salmon ($6.90). The main courses were chicken breast stuffed with spinach and pine nuts ($10.90) and, as a highlight, homemade Terrine de Foie Gras ($10.90). The fact that we stayed under €40 despite numerous alcoholic drinks was due to the generous Happy Hour, which lasts from 3 PM to 9 PM here. The cocktails ($3.50–$4.00 for two) tasted decent and were strong. We had a nightcap at the Riverside Bistro, still the nicest and most comfortable of the "same same but different wicker-chair corner cafés" along the riverfront. However, you should definitely skip the German Potato Salad—with mayo and apples—that's simply unacceptable.
 
-</div>
-
-## Vietnam
-
-<div class="country vietnam" markdown="1">
 
 
 <figure>
   <img src="photos/CyclingIndochine06-1497.jpg" alt="Phnom Penh">
   <em>Phnom Penh</em>
 </figure>
+</div>
+
+## Vietnam
+
 
 ### Day 44 | 25.8. | 95 km  
 **Phnom Penh – Neak Luong – Chau Doc**
@@ -1573,7 +1572,7 @@ Since the rip-off ferry that travels directly from Phnom Penh to Chau Doc actual
 In Chau Doc, we stayed again at the Trung Nguyen Hotel for $15 in the same room as we had in the spring. For dinner, we also relied on the tried-and-tested. The rustic Mekong Restaurant, more of a street stall in a courtyard surrounded by beautiful colonial buildings, once again served up excellent Delta cuisine. Besides the wonderful spring rolls (25,000d), the Bo Nuong La Cach (grilled beef wrapped in cigar shapes, 30,000d) and the sautéed mussels (25,000d) were particularly good.
 
 ---
-
+<div class="country vietnam" markdown="1">
 
 <div class="photo-row">
 
