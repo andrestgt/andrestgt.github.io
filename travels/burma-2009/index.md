@@ -4,6 +4,7 @@ section: travels
 title: "Burma 2009 - Along the Upper Irrawaddy"
 subtitle: "Rangoon | Toungoo | Mandalay | Myitkyina | Bhamo | Katha"
 date: 2009-01-14
+photos_locked: true
 ---
 
 # Burma 2009 - Along the Upper Irrawaddy
@@ -12,6 +13,131 @@ date: 2009-01-14
 A journey through northern Burma / Myanmar along the Upper Irrawaddy, from Rangoon and Mandalay to Myitkyina, Bhamo and Katha.
 
 ---
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/Burma2009-0001.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0002.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0010.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0014.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0020.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0022.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0023.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0025.jpg" alt="Rangoon">
+    <em>Rangoon</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0032.jpg" alt="Rangoon - The Strand Bar">
+    <em>Rangoon - The Strand Bar</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0038.jpg" alt="Train to Taungoo">
+    <em>Train to Taungoo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0039.jpg" alt="Taungoo">
+    <em>Taungoo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0040.jpg" alt="Taungoo">
+    <em>Taungoo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0048.jpg" alt="Taungoo - Myanmar Beauty">
+    <em>Taungoo - Myanmar Beauty</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0051.jpg" alt="Taungoo">
+    <em>Taungoo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0071.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0072.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0076.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0077.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0087.jpg" alt="Myitkyina - River View">
+    <em>Myitkyina - River View</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0090.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0092.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0094.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0104.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0112.jpg" alt="Myitkyina">
+    <em>Myitkyina</em>
+  </figure>
+
+</div>
 
 ## Getting to Myitkyina
 
@@ -24,6 +150,111 @@ At midday the next day we continued to Mandalay, again in Upper Class on the exp
 We did not reach Mandalay until very late in the evening and, since the popular Royal Guesthouse was full, took a room around the corner at E.T. Hotel — not a bad choice. It is not particularly atmospheric and a little worn, but the rooms (US$12) are clean and have private bathrooms and hot water, which is very welcome in the cool season (while the air-conditioning is currently utterly unnecessary). Breakfast is served on request, and the large plate of delicious mohinga was infinitely better than the usual toast with jam and a fried egg.
 
 We had already booked our Air Bagan flight to Myitkyina (US$86) back in Rangoon, at the very friendly and helpful Good News Travel agency on the fourth floor of the FMI Centre. Mandalay, however, is far from an ideal place to fly out of. For reasons nobody can quite explain, the airport lies more than 40 kilometres from the city centre and there is no public transport. That leaves you at the mercy of taxi drivers, who demand made-up prices of up to 20,000 kyat from tourists. Even the so-called official fare of 11,000 kyat at the large taxi stand on 79th Street feels steep and hard to justify given today’s low fuel prices. But in recent years some Burmese — at least in the more touristy areas — seem to have developed a surprisingly brazen rip-off mentality, and it has become harder for foreigners to get fair prices for goods and services — which, in truth, is not very surprising when the government itself officially runs a two-tier pricing system where foreigners are expected to pay several times the local rate. Why wouldn’t private businesses try their luck as well?
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/Burma2009-0117.jpg" alt="Bus to Bhamo">
+    <em>Bus to Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0119.jpg" alt="Bhamo">
+    <em>Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0122.jpg" alt="Bhamo">
+    <em>Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0124.jpg" alt="Bhamo">
+    <em>Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0141.jpg" alt="Bhamo">
+    <em>Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0146.jpg" alt="Bhamo">
+    <em>Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0161.jpg" alt="Bhamo">
+    <em>Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0165.jpg" alt="Bhamo">
+    <em>Bhamo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0182.jpg" alt="Bhamo-Katha Irrawaddy River Boat">
+    <em>Bhamo-Katha Irrawaddy River Boat</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0185.jpg" alt="Bhamo-Katha Irrawaddy River Boat">
+    <em>Bhamo-Katha Irrawaddy River Boat</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0186.jpg" alt="Bhamo-Katha Irrawaddy River Boat">
+    <em>Bhamo-Katha Irrawaddy River Boat</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0204.jpg" alt="Bhamo-Katha Irrawaddy River Boat">
+    <em>Bhamo-Katha Irrawaddy River Boat</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0213.jpg" alt="Bhamo-Katha Irrawaddy River Boat">
+    <em>Bhamo-Katha Irrawaddy River Boat</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0216.jpg" alt="Bhamo-Katha Irrawaddy River Boat">
+    <em>Bhamo-Katha Irrawaddy River Boat</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0230.jpg" alt="Katha">
+    <em>Katha</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0234.jpg" alt="Katha">
+    <em>Katha</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0240.jpg" alt="Katha">
+    <em>Katha</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0245.jpg" alt="Katha">
+    <em>Katha</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0252.jpg" alt="Katha">
+    <em>Katha</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0254.jpg" alt="Katha">
+    <em>Katha</em>
+  </figure>
+
+</div>
 
 ## By bus, boat and train back to Mandalay
 
@@ -61,6 +292,46 @@ Since you cannot reserve train tickets in Katha and we definitely wanted to trav
 
 We spent the five hours in Naba — as so often in Burma — waiting and drinking tea on the dusty station forecourt. Naba is one of those places the government would dearly like to keep off-limits to foreigners; if it didn’t have an important railway station, it almost certainly would be. The village is shockingly poor, wretched and run-down. Begging children with scabies hope for handouts from travellers. It’s a kind of poverty you, as a tourist in Burma, very rarely get to see.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/Burma2009-0272.jpg" alt="Mandalay">
+    <em>Mandalay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0281.jpg" alt="Mandalay">
+    <em>Mandalay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0283.jpg" alt="Mandalay">
+    <em>Mandalay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0286.jpg" alt="Mandalay">
+    <em>Mandalay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0290.jpg" alt="Mandalay">
+    <em>Mandalay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0307.jpg" alt="Mandalay">
+    <em>Mandalay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0310.jpg" alt="Mandalay">
+    <em>Mandalay</em>
+  </figure>
+
+</div>
+
 ## Mandalay and its surroundings
 
 After a bumpy overnight train ride we arrived in Mandalay early in the morning and checked into E.T. Hotel again. After a good, cheap breakfast at the famous chapati stand (corner of 82nd/27th), we rented bicycles and set off to explore the city. We went down to the Irrawaddy waterfront first. There are plenty of basic teashops with no view, but further south there are also a few pleasant beer gardens with verandas. After that we visited Shwe In Bin Monastery, which lies in one of the prettiest neighbourhoods of an otherwise rather faceless city that seems to go on forever — one of the few areas where a short walk is genuinely worthwhile. From there we went a few kilometres south of the centre to Mahamuni Pagoda, then had lunch at Café Brolly, a fairly upmarket café-restaurant in a quiet area not far from the eastern palace walls. It served perfectly decent Thai and Western dishes at civilised prices (3,000–5,000 kyat), fresh fruit shakes, and had a shady courtyard — the ideal place for a midday break before visiting the pagodas around Mandalay Hill.
@@ -80,3 +351,124 @@ In the afternoon we crossed back to the east bank via the old Ava Bridge and vis
 Back in Mandalay we enjoyed something that would have been unthinkable on my last visit six years ago: an air-conditioned shopping centre with escalators and a well-stocked supermarket where you could buy almost anything from Australian wine to French cheese. In the foreseeable future, however, this 78 Shopping Centre will likely play second fiddle — a gigantic new shopping mall is currently being built on the same street, on a scale you don’t even find in Rangoon. In Mandalay the Chinese influence is stronger, and modernisation is moving much faster.
 
 Right next to 78 Shopping Centre there is an excellent lounge restaurant called JJ, with international food, a well-equipped bar, wonderful avocado shakes, and real espresso. Even if a place like this doesn’t exactly fit the tourist cliché of an underdeveloped, backward Burma, it was a welcome change after a week in the traditional north: large portions, moderate prices (2,000–5,000 kyat), and good cooking. Highly recommended: the king prawns — although among the local high society, the burgers seemed to be the clear favourite.
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/Burma2009-0325.jpg" alt="Sagaing">
+    <em>Sagaing</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0328.jpg" alt="Sagaing">
+    <em>Sagaing</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0329.jpg" alt="Sagaing">
+    <em>Sagaing</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0338.jpg" alt="Sagaing">
+    <em>Sagaing</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0341.jpg" alt="Sagaing">
+    <em>Sagaing</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0344.jpg" alt="Sagaing">
+    <em>Sagaing</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0350.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0353.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0356.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0357.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0359.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0367.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0371.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0374.jpg" alt="Inwa">
+    <em>Inwa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0376.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0381.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0384.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0392.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0395.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0398.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0399.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0400.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Burma2009-0403.jpg" alt="Pyin Oo Lwyn">
+    <em>Pyin Oo Lwyn</em>
+  </figure>
+
+</div>
+
+
