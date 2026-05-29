@@ -6,6 +6,8 @@ title: Lin Family Shantou Yi Mian
 subtitle: West Central District, Tainan · Taiwanese
 ---
 
+![Lin Family Shantou Yi Mian](/photos/taiwan/tainan/lin-family-shantou-noodles-1.jpg)
+
 Simple hole-in-the-wall noodle place. The bowl with dumplings and soup is very tasty and affordable at 65 NT$.
 
 ## Ratings
