@@ -11,4 +11,4 @@ subtitle: Restaurants, cafés, bars and street food in Ninh Thuận
 
 Reviews grouped by category.
 
-- ☕ [Cafés](/food/vietnam/ninh-thuan/ninh-thuan/cafes/)
+- ☕ [Cafés](/food/vietnam/ninh-thuan/phan-rang/cafes/)

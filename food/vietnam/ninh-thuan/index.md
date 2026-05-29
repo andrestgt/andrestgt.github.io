@@ -9,4 +9,4 @@ subtitle: Food and drink across Ninh Thuận
 
 # Ninh Thuận
 
-- [Ninh Thuận](/food/vietnam/ninh-thuan/ninh-thuan/)
+- [Ninh Thuận](/food/vietnam/ninh-thuan/phan-rang/)
