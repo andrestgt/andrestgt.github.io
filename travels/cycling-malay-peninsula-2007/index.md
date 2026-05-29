@@ -4,6 +4,7 @@ section: travels
 title: "Cycling Malay Peninsula"
 subtitle: "Thailand | Malaysia | Singapore"
 date: 2007-02-14
+photos_locked: true
 ---
 
 # Cycling Malay Peninsula
@@ -35,6 +36,12 @@ At centrally located Ayodthaya Hotel, opposite the market, we took a room in the
 
 Beyond that, Ayutthaya is a typical Thai provincial town: largely rather faceless, but with two tempting night markets, and a few traditional wooden houses have even survived in the centre.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0016.jpg" alt="Day 4">
+  <em>Day 4</em>
+</figure>
+
 ## Day 5 - 18 February - 153 km
 
 ### Ayutthaya – Sena – U Thong – Kanchanaburi
@@ -42,6 +49,12 @@ Beyond that, Ayutthaya is a typical Thai provincial town: largely rather faceles
 We left Ayutthaya heading west on the initially four-lane and not particularly interesting Highway 3263. After about 40 kilometres we reached Highway 340, which we followed for ten kilometres towards Suphanburi before continuing west on the pleasant, lightly trafficked rural roads 3351 and 3318—our first proper stretch through fairly attractive scenery with plenty of rice fields. After a total of about 70 kilometres we hit a main road again, which took us via U-Thong and Phanom Thuan to Kanchanaburi.
 
 We spent the night at Pong Pehn GH in the tourist quarter on the Kwai. A huge, brand-new and spotless air-con room with an excellent hot shower and a veranda cost 900 baht—not cheap, but worth it. My memories of my last visit to Kanchanaburi are vague, because then—as now—we only used the place as an overnight stop, but I’m pretty sure the riverside area wasn’t yet such a “backpacker convenience centre”, with odd bars like Ugly Sisters or the No Name Bar with its unmissable motto: “Get Shitfaced On A Shoestring”. That said, there are also genuinely nice beer gardens and even a shisha café, plus the lovely riverside setting and—at least for now—a very relaxed atmosphere. You could absolutely settle in here for a while, and the countryside west of Kanchanaburi is beautiful anyway.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0019.jpg" alt="Day 5">
+  <em>Day 5</em>
+</figure>
 
 ## Day 6 - 19 February - 110 km
 
@@ -52,6 +65,12 @@ At sunrise we crossed the Mae Klang a few kilometres south of Kanburi and at fir
 In Ratchaburi we checked straight into Namsi Hotel right in the centre: a large, typical provincial hotel with simple, slightly worn but clean rooms with air-con—and such pathetic water pressure that I had to resort to the bucket-shower method. Still, fine for 480 baht.
 
 I liked Ratchaburi a lot. Not because the town is beautiful—architecturally, most Thai provincial towns are an insult to the eye—but with its riverside setting, very friendly locals, a magnificent food market, and the absence of Western tourists, Ratchaburi is an excellent stopover. On top of that, today was the final day of Chinese New Year, and half the town was out celebrating in Chinatown, which had been turned into a pedestrian zone, complete with countless food stalls and stage entertainment. All the lanterns, the delicious-smelling smoke from the grills, and the hand-pulled rickshaws weaving through the crowds made for a wonderfully atmospheric scene.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0029.jpg" alt="Day 6">
+  <em>Day 6</em>
+</figure>
 
 ## Day 7 - 20 February - 137 km
 
@@ -65,6 +84,12 @@ For the final 25 km on the four-lane coastal highway to Hua Hin, the motto was: 
 
 In Hua Hin it was still high season, and there seemed to be more farangs—especially pensioners and families—than Thais. On both the beautiful beach and the high-quality night market you can barely move for tourists; the many pubs and restaurants are all packed, and room rates reflect that. Even so, we found a room for a reasonable 750 baht at Subhamitra Hotel. Aesthetically it did nothing for me—very institutional, populated by the same clientele as the standard hotels on Bulgaria’s Golden Sands—but the functional room was perfectly fine for the price, and there was even a pool. More important, though, was the location: just a five-minute walk from the night market, Hua Hin’s highlight. Yes, it’s very touristy and pricier than night markets elsewhere in the country, but the range of high-quality seafood is unique: huge spiny lobsters, slipper lobsters, scallops—everything your heart could desire, all fresh from the grill.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0042.jpg" alt="Day 7">
+  <em>Day 7</em>
+</figure>
+
 ## Day 8 - 21 February - 122 km
 
 ### Hua Hin – Khao Sam Roi Yod NP – Prachuap Khiri Khan
@@ -77,6 +102,12 @@ Back on Highway 4 it was another 40 km or so to the provincial capital, Prachuap
 
 Most of them stay, as we did, at the large two-star Had Thong on the promenade—the prime spot in town—with very decent, simple mid-range rooms at sensible prices. The cheapest room without a sea view cost us 675 baht and was genuinely good value. Along the waterfront road there are a handful of seafood restaurants with lovely views and English menus. We had a good, inexpensive dinner at Krithong: three grilled squids, prawn sashimi, and a mussel salad for 380 baht. The dipping sauces were tasty, too.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0046.jpg" alt="Day 8">
+  <em>Day 8</em>
+</figure>
+
 ## Day 9 - 22 February - 104 km
 
 ### Prachuap – Ban Krut – Bang Saphan
@@ -87,6 +118,12 @@ A laterite lane lined with coconut palms ran for several kilometres along the st
 
 From Bang Saphan we rode about five kilometres south on Road 3374 and stopped at Suan Luang Resort on the spur road to the beach of the same name. A very pretty, friendly place, with small but spotless, well-equipped bungalows with air-con, satellite TV, fridge and hot shower. At 600 baht it was a very good choice—especially because the resort’s Franco-Thai restaurant had an excellent menu, with properly hot Thai dishes at fair prices. The seafood curry (90 baht) was superb, and the fish carpaccio “Tahiti Style” (120 baht) was just as good.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0069.jpg" alt="Day 9">
+  <em>Day 9</em>
+</figure>
+
 ## Day 10 - 23 February - 140 km
 
 ### Bang Saphan – Ban Bird – Pathiu – Chumphon
@@ -96,6 +133,18 @@ A fairly hilly day, entirely on back roads near the coast, heading south. Signpo
 Further south towards Chumphon, the roads mostly ran quite a long way inland through gently rolling countryside. The stretch between Amarit and Pathiu was very enjoyable and led through shaded woodland. We didn’t take a room in Chumphon town centre, but at Tanyung Pier about ten kilometres to the east, where the ferries to Ko Tao depart. There’s a simple hotel here with very cheap but perfectly adequate air-con rooms for 350 baht. A few hundred metres upriver there’s a wonderful seafood restaurant where you can eat lying down in private Thai pavilions on the riverbank. For that ambience, the prices were quite moderate: a whole medium-sized fish of excellent quality cost 250 baht; cashew nuts with seafood 90 baht.
 
 Freshly showered and rested, we decided to take the midnight ferry to Ko Tao (200 baht) and from there continue to Ko Samui the following morning. After my positive experience with the Surat–Phangan night ferry—very spacious, with mattresses laid out—I was surprised that on this night ferry there were only woven mats and barely enough space to lie down, as an unexpectedly large number of farang travellers had to share the limited deck space. Even so, I slept reasonably well under the circumstances, and when we arrived on Ko Tao at six in the morning I felt pretty fit.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0075.jpg" alt="Day 10">
+  <em>Day 10</em>
+</figure>
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0084.jpg" alt="Day 11">
+  <em>Day 11</em>
+</figure>
 
 ## Days 11-12 - 24-25 February - 109 km
 
@@ -111,6 +160,12 @@ The northern beaches, Bophut and Mae Nam, are also very picturesque, and develop
 
 In the evening we had a seafood barbecue in wonderful surroundings, with tables on the sand at the restaurant by the pier just round the corner from us. Four enormous tiger prawns cost a whopping 675 baht (salad and baked potatoes were included), but they tasted fantastic. Grilled shark steak and octopus, by contrast, were much cheaper.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0131.jpg" alt="Day 12">
+  <em>Day 12</em>
+</figure>
+
 ## Day 13 - 26 February - 137 km
 
 ### Ko Samui – Donsak – Khanom – Tha Sala
@@ -120,6 +175,12 @@ In the morning I cycled the short 13 km to Nathon and took the big 8 a.m. car fe
 Cutting through the interior, I reached Highway 401 after about 15 km, the road linking Surat Thani with Nakhon Si Thammarat. It’s a very pleasant road to ride: well built, mostly flat, not too much traffic, and a wide hard shoulder.
 
 I’d planned to stay overnight in Tha Sala, but there didn’t seem to be a hotel in town. So I continued a few kilometres south. Here Highway 401 meets the coast for the first time and runs almost right along the beach. Just under 10 km beyond Tha Sala, after the 401 had moved a few hundred metres inland again, there were a few simple bungalow places on a very unappealing, muddy beach—though judging by the countless picnic pavilions it must be hugely popular at weekends. For 200 baht I got a solid, very spacious bungalow with a squat toilet and cockroaches in the bathroom; otherwise it was fairly clean. For one night, something like that does the job.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0142.jpg" alt="Day 13">
+  <em>Day 13</em>
+</figure>
 
 ## Day 14 - 27 February - 143 km
 
@@ -133,6 +194,31 @@ I spent the night 8 km east of the small, laid-back provincial capital of Phatth
 
 The resort has an excellent seafood restaurant attached, with a lovely veranda over the river. The above-average prices for the province suddenly made sense once you saw the portion sizes. I only just managed the delicious banana-flower salad with sea bass (120 baht); when the prawn and veg tempura arrived (80 baht), I had to admit defeat.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0152.jpg" alt="Day 14">
+    <em>Day 14</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0153.jpg" alt="Day 14">
+    <em>Day 14</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0154.jpg" alt="Day 14">
+    <em>Day 14</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0155.jpg" alt="Day 14">
+    <em>Day 14</em>
+  </figure>
+
+</div>
+
 ## Day 15 - 28 February - 135 km
 
 ### Phatthalung – Ranot – Songkhla
@@ -140,6 +226,36 @@ The resort has an excellent seafood restaurant attached, with a lovely veranda o
 On quiet but mostly very well-built country roads I rode through lonely rural countryside along the north side of Thale Luang to Ranot, the first larger settlement after 50 km. A few kilometres later I reached the coastal Highway 408, which I followed south. While the scenery around the lake was quite attractive in parts, there wasn’t much uplifting to see from the highway, and the 70 km dragged on despite the flat terrain.
 
 After a short ferry crossing I reached Songkhla, one of the more attractive provincial capitals, with a long, well-kept white-sand beach east of the centre; its promenade is lined with outdoor bars and seafood restaurants. Songkhla also has a monkey-inhabited temple hill right in the middle of town, which would no doubt have offered great views. Today, though, I was too wiped out by a cold to motivate myself to climb up there. In Songkhla—hardly a tourist town, Malays and Thais aside—there’s even a proper traveller guesthouse, the Amsterdam. It wasn’t exactly buzzing, though. I got a decent, spacious room with a big bed and a balcony for 200 baht. The bathroom was along the corridor, but clean.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0158.jpg" alt="Day 15">
+    <em>Day 15</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0159.jpg" alt="Day 15">
+    <em>Day 15</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0160.jpg" alt="Day 15">
+    <em>Day 15</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0161.jpg" alt="Day 15">
+    <em>Day 15</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0163.jpg" alt="Day 15">
+    <em>Day 15</em>
+  </figure>
+
+</div>
 
 ## Day 16 - 1 March - 110 km
 
@@ -157,6 +273,46 @@ Even in the provincial capital itself I seemed to be the only Western tourist, a
 
 I stayed at the Palace Hotel in a rather grim room with bathroom for a bargain 180 baht. For that, the location of this old Chinese hotel was perfect—only a two-minute walk from the night market.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0164.jpg" alt="Day 16">
+    <em>Day 16</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0165.jpg" alt="Day 16">
+    <em>Day 16</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0166.jpg" alt="Day 16">
+    <em>Day 16</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0167.jpg" alt="Day 16">
+    <em>Day 16</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0168.jpg" alt="Day 16">
+    <em>Day 16</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0169.jpg" alt="Day 16">
+    <em>Day 16</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0170.jpg" alt="Day 16">
+    <em>Day 16</em>
+  </figure>
+
+</div>
+
 ## Day 17 - 2 March - 123 km
 
 ### Pattani – Saiburi – Narathiwat
@@ -173,6 +329,71 @@ Be that as it may, there is at least a nice guesthouse in one of those pretty ri
 
 For dinner I went to the recommended Kasoh Garden Restaurant, a large, attractive open-air place on park-like grounds with fountains and ponds—a refuge for the urban middle class, about 3 km outside town. The ride out was worth it, because the food was excellent. A whole steamed sea bass in a spicy tamarind broth (on the menu: ‘Tamarind Curry with Seabass’) cost 230 baht.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0171.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0172.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0173.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0174.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0176.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0177.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0178.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0179.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0180.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0181.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0182.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0183.jpg" alt="Day 17">
+    <em>Day 17</em>
+  </figure>
+
+</div>
+
 ## Day 18 - 3 March - 74 km
 
 ### Narathiwat – Kota Baru
@@ -184,6 +405,36 @@ Funnily enough, this supposedly very traditionally Muslim area looks more Thai t
 Kota Baru is the first place since Samui where you also run into a few Western tourists again, and there are plenty of guesthouses. The pleasantly unhurried city doesn’t have a huge amount to offer for an extended stay, but there’s authentic Malay urban life to watch, good food at the night market, and in places even some fairly attractive architecture amid countless eyesores—and even more building sites.
 
 I ended up at Ideal Guesthouse for exactly two reasons: it was extremely cheap, and it was quiet yet still fairly central. The rooms and facilities were basic and a bit grim, but at least not visibly dirty. For 15 ringgit I got a bed, a stool and a fan; that really is all you need.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0184.jpg" alt="Day 18">
+    <em>Day 18</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0185.jpg" alt="Day 18">
+    <em>Day 18</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0187.jpg" alt="Day 18">
+    <em>Day 18</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0188.jpg" alt="Day 18">
+    <em>Day 18</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0189.jpg" alt="Day 18">
+    <em>Day 18</em>
+  </figure>
+
+</div>
 
 ## Day 19 - 4 March - 59 km
 
@@ -203,6 +454,12 @@ Even quieter was the other side of the island, the picturesque Coral Bay, which 
 
 Dinner at my resort was excellent. For 15 ringgit they offered a tandoori BBQ: three thick, meaty slipper lobsters marinated in tandoori masala and grilled, plus fresh, homemade roti and a great sauce. Delicious.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0204.jpg" alt="Day 19">
+  <em>Day 19</em>
+</figure>
+
 ## Day 20 - 5 March - 123 km
 
 ### Perhentian – Kuala Terengganu – Pulau Kapas
@@ -218,6 +475,12 @@ Kapas is a small island only about 15 minutes by speedboat (30 RM return) from t
 In the shoulder season Pulau Kapas is one of the most relaxed places in South-East Asia. A handful of backpackers, a few families—there were no more tourists than that, and even those were spread out across several bays. Electricity comes from a generator, and only after sunset. Otherwise there’s nothing but beach, sea and coconut palms. And it doesn’t matter that the beaches are pretty rather than spectacular.
 
 I took the cheapest hut at the first resort I came across, KBC, which is run by a Dutchman. The chalet was simple and decent, almost right on the beach, with carpet and its own bathroom. But because there was no mosquito net and no towels, it was a touch too expensive at 40 ringgit. Still, I didn’t feel like trekking around with my panniers in search of something else.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0217.jpg" alt="Day 20">
+  <em>Day 20</em>
+</figure>
 
 ## Day 21 - 6 March - 147 km
 
@@ -237,6 +500,12 @@ Because I still hadn’t found decent accommodation by then—and because, for t
 
 Even so, I had an excellent dinner at Matahari: two fat slipper lobsters and a squid, wonderfully and fiercely marinated, grilled and served in a banana leaf with a fine dip, for 22 ringgit.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0229.jpg" alt="Day 21">
+  <em>Day 21</em>
+</figure>
+
 ## Day 22 - 7 March - 113 km
 
 ### Cherating – Kuantan – Pekan
@@ -250,6 +519,12 @@ In Kuantan itself there isn’t much remarkable to see apart from a pretty river
 To get to Pekan I didn’t take the main road, Highway 3, but the quiet coastal road, which was easy riding and after just under forty scenically pleasant kilometres rejoined the highway. From there it wasn’t far to Pekan, an old-fashioned, quietly genteel, sleepy small town in otherwise so forward-looking Malaysia. In the neat kampung villages around it there are rows of pretty, photogenic wooden villas; there’s a polo club, palm-lined avenues, and old shophouses in the centre. It’s the sort of place that would make ageing colonialists go properly nostalgic.
 
 The best reason to stop in Pekan, though, is the Chief’s Rest House, in an old wooden villa from 1929. A wonderfully old-school colonial hotel with spacious, atmospheric rooms. The only concessions to modern times are a TV and an electric kettle. For a good €10 (55 ringgit), there can’t be many places left in the world where you can stay this stylishly.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0251.jpg" alt="Day 22">
+  <em>Day 22</em>
+</figure>
 
 ## Day 23 - 8 March - 162 km
 
@@ -280,6 +555,21 @@ JB isn’t Georgetown, but there are still surprisingly many well-preserved rows
 And after a week on Malaysia’s still fairly rural east coast, I enjoyed big-city comforts too—air-conditioned shopping malls that can easily hold their own against bigger metropolises. JB also has a magnificent night market that sprawls over half the centre, selling what feels like everything from grilled chicken feet to ostrich burgers, at prices that naturally draw Singaporeans in droves.
 
 Another, more practical reason to stay in JB was that for the price of a dorm bed in Singapore I got my own room here—complete with air-con and TV—in a prime central location at the Meldrum Hotel in the pedestrian zone. The room (62 ringgit) was only marginally bigger than the cells in Hong Kong’s Mansions, but relatively well kept. I could stash my bike easily in the hotel, and to top it off they welcomed me with a family-sized pack of lemon wafers.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0258.jpg" alt="Day 24">
+    <em>Day 24</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0292.jpg" alt="Day 24">
+    <em>Day 24</em>
+  </figure>
+
+</div>
 
 ## Days 24-25 - 10-11 March - 130 km
 
@@ -321,6 +611,12 @@ Before sunset I took the cable car up to Mount Faber to enjoy the views of Sento
 
 In the evening I’d planned to eat at Lau Pa Sat, but I simply couldn’t force anything down. It felt as if I’d eaten more in two days in Singapore than in the entire previous week.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0337.jpg" alt="Day 25">
+  <em>Day 25</em>
+</figure>
+
 ## Day 26 - 12 March - 186 km
 
 ### Singapore – JB – Batu Pahat
@@ -347,6 +643,12 @@ When it started to drizzle for the first time this afternoon, I sat for a while 
 
 For dinner—because other options were shut—I went to Harper’s, one of the smarter restaurants in town, where you dine in a lovely colonial setting right by the river. The menu had a good selection of traditional Nyonya dishes and international food, and the quality was spot-on: both the Mediterranean salad with tender beef (18 RM) and the chicken-and-coconut curry with coriander (17 RM). Not cheap, but here it was worth paying extra for the cooking and the ambience.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0371.jpg" alt="Day 27">
+  <em>Day 27</em>
+</figure>
+
 ## Day 28 - 14 March - 145 km
 
 ### Melaka – Selangor – Kuala Lumpur
@@ -358,6 +660,12 @@ Riding into KL was a nightmare. The six-lane motorway had endless construction s
 I reached KL absolutely soaked, and since the rain didn’t let up I didn’t care that my chosen place, No 8 Guesthouse, only had dorm beds left. I couldn’t be bothered with a long room hunt. And despite its unpretentious name, it was a good pick: a proper boutique hostel—stylish and clean. In the dorm, each comfortable bed had a big locker and a reading light right by your pillow; the room was air-conditioned and spacious. Accordingly, a bed cost 30 ringgit, which may be a bit much given that the showers were one floor down and blankets and towels cost extra. Still, the showers and toilets were also of a high standard, so there wasn’t much to complain about. Another big plus is the perfect location on a fairly quiet street in the Golden Triangle, KL’s nightlife and shopping district. Architecturally it might not be the city’s most attractive part, but within a few hundred metres you have dozens of nice restaurants covering almost every cuisine on earth, plus pubs, cafés, shopping malls, and the open-air street stalls on Jalan Alor, where you can get anything from dim sum to satay to grilled seafood. That’s where I ate dinner too: good, cheap dim sum (3.50 RM per basket) at One Plus One.
 
 KL is one of those places where you could spend the entire day just eating—and then get annoyed when you’re already full again after a few small things.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0379.jpg" alt="Day 28">
+  <em>Day 28</em>
+</figure>
 
 ## Day 29 - 15 March
 
@@ -377,6 +685,12 @@ Food-wise, as mentioned, the city is world-class. For lunch I had Hokkien mee an
 
 For dinner I stayed in the Golden Triangle too, going traditionally Malay in a more upscale setting at the gorgeous Bijan, by candlelight and with embroidered cloth napkins. It’s certainly one of the city’s most atmospheric restaurants, but—as so often in South-East Asia—you’re mostly paying for the ambience. The traditional dishes taste just as good at the street stalls, but sometimes it’s nice to be pampered in a polished setting. The starters and vegetarian dishes were also fairly priced. I had a mixed starter platter with satay, shrimp cake and spring rolls (10 RM), otak-otak (fish-and-coconut paste steamed in a banana leaf, similar to Cambodian amok, 10 RM), and gulai sayur campur, a vegetarian coconut soup, for 12 ringgit.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0391.jpg" alt="Day 29">
+  <em>Day 29</em>
+</figure>
+
 ## Day 30 - 16 March - 107 km
 
 ### KL – Kuala Selangor
@@ -388,6 +702,12 @@ The restaurant I’d picked for lunch was conveniently located in Asian Heritage
 Getting out of KL was easy to navigate thanks to good signposting: first north on Jalan Kuching towards Ipoh, then west towards Kuala Selangor. But the traffic and suburbs dragged on for 25 km. The rest of the route—initially gently hilly, then the last 25 km flat—on the fairly well-built Highway 54 was quite comfortable riding.
 
 In the small town of Kuala Selangor, at the mouth of the mighty Selangor River, there’s a little nature park with various types of chalets. Since only the cheapest A-frame huts were still available (25 RM), I had to do without my own bathroom again, and the sanitary facilities were very basic. Inside, the huts offered little more than two mattresses and a fan, but they were clean and beautifully set in nature. Monkeys bounced around the park, and at night you heard nothing but jungle sounds (and the fan).
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0433.jpg" alt="Day 30">
+  <em>Day 30</em>
+</figure>
 
 ## Day 31 - 17 March - 150 km
 
@@ -416,6 +736,18 @@ Taiping lies a few kilometres off the main road at the foot of a forested mounta
 My hotel, the Peking, was in a beautifully restored old villa near the market. The rooms were simple but quite spacious, with en-suite bathroom and even air-con (40 RM): good value.
 
 Taiping even has a stylish café. The Piano Café offered international bistro food, fruit shakes and proper espresso at moderate prices. Their speciality—Japanese-style fried noodles (10.90 RM)—was tasty, and the mango shake (3.90 RM) was fantastic.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0451.jpg" alt="Day 32">
+  <em>Day 32</em>
+</figure>
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0473.jpg" alt="Day 33">
+  <em>Day 33</em>
+</figure>
 
 ## Days 33-34 - 19-20 March - 158 km
 
@@ -447,6 +779,12 @@ Since Jaipur Court (where we’d eaten brilliantly a few years ago) no longer se
 
 And yes—Georgetown even does proper Italian cappuccino: 8 RM at Segafredo on the gorgeous pedestrian strip in front of the E&O Hotel.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0492.jpg" alt="Day 34">
+  <em>Day 34</em>
+</figure>
+
 ## Day 35 - 21 March - 131 km
 
 ### Georgetown – Butterworth – Kuala Kedah – Langkawi
@@ -468,6 +806,12 @@ Cenang is the island’s tourist hub, with accommodation in every price category
 I stayed at the cheapest place I could find, Shirin Guesthouse, run by a friendly Iranian man and his Japanese wife. For 30 ringgit I got a large, simple triple room with shared bathroom all to myself—and a free welcome beer.
 
 Food options in Cenang are, unsurprisingly, plentiful, but the “best” restaurant—praised in every guidebook—is Champor Champor, right next to my guesthouse. A very pretty, stylish garden restaurant, perfect for a romantic candlelit dinner… alone. With starters between 7–9 RM and mains around 25 RM it isn’t exactly cheap, and the portions aren’t huge, but the quality is good and they even cook with a bit of creativity. I had the ubiquitous roti—only here it was filled with cheese and olives. With the slightly small but wonderfully curried grilled prawns came with roti and sour cream.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0529.jpg" alt="Day 35">
+  <em>Day 35</em>
+</figure>
 
 ## Day 36 - 22 March - 98 km
 
@@ -491,6 +835,201 @@ Back on the main road it was another 20 gently rolling kilometres through the in
 
 From the pier it was another 10 km in pouring rain to Satun, where I found a simple Chinese hotel in a quiet side street. No-frills rooms with a very basic en-suite cost just 140 baht, but they were fairly spacious and not dirty.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0536.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0537.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0538.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0539.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0540.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0541.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0542.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0543.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0544.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0545.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0546.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0547.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0548.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0549.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0550.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0551.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0553.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0554.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0555.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0556.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0557.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0558.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0560.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0561.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0562.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0563.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0564.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0565.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0566.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0567.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0568.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0569.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0570.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0571.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0572.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0573.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0574.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0575.jpg" alt="Day 36">
+    <em>Day 36</em>
+  </figure>
+
+</div>
+
 ## Day 37 - 23 March - 62 km
 
 ### Satun – Pakbara – Ko Bulon Le
@@ -503,6 +1042,76 @@ My bungalow at Bulone Resort stood on stilts in the front row, right by the nice
 
 Even if Bulon Le can’t compete with the dramatic beauty of some other Thai islands, it’s still an idyllic small patch of earth with a wonderful feeling of remoteness. You can stroll along the coast a bit or simply do nothing at all. In the evenings you can sit on the veranda in a cool breeze and watch the lights of the fishing fleet out at sea. No noise, no videos blaring to spoil the idyll.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0576.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0577.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0578.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0579.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0580.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0581.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0582.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0583.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0584.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0585.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0586.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0587.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0588.jpg" alt="Day 37">
+    <em>Day 37</em>
+  </figure>
+
+</div>
+
 ## Day 38 - 24 March - 111 km
 
 ### Pakbara – La Ngu – Trang
@@ -512,6 +1121,36 @@ I took the 9 o’clock ferry back to the mainland and rode again to La Ngu on Hi
 The remaining stretch into Trang on Highway 404 was less interesting and only gently rolling, but it was absolutely hammering down anyway, so I just wanted to reach the provincial capital as quickly as possible.
 
 Trang is very tidy but not particularly pretty. Still, quite a lot of tourists spend the night here because the surrounding area—with its many offshore islands—has plenty to offer. Most of them, for good reason, stay at the Koh Teng, an old, simple Chinese hotel that calls itself “Five Star Backpackers” and has been renting rooms since 1948. And even if the building and corridors still look very 1948, the rooms offer excellent value: spacious, clean, with a relatively newly tiled bathroom and a proper toilet—180 baht is a bargain.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0589.jpg" alt="Day 38">
+    <em>Day 38</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0590.jpg" alt="Day 38">
+    <em>Day 38</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0591.jpg" alt="Day 38">
+    <em>Day 38</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0592.jpg" alt="Day 38">
+    <em>Day 38</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0593.jpg" alt="Day 38">
+    <em>Day 38</em>
+  </figure>
+
+</div>
 
 ## Day 39 - 25 March - 160 km
 
@@ -526,6 +1165,21 @@ Since I arrived in Krabi as early as 2 pm, I could theoretically have caught the
 I’d hoped high season might already be winding down here, and that maybe the after-effects of the tsunami would be reflected in smaller crowds—but not a chance: it was absolute bedlam. In the rainy season (when I’ve always had good weather here, oddly enough) this area is genuinely magnificent—dreamily beautiful and relaxed—but today I was simply glad to get out quickly, especially since they charge double for the exact same rooms. Hat Noppharat Thara, just around the corner, is currently being developed heavily to absorb Ao Nang’s overflow. The beach isn’t particularly beautiful, but there are still a few cheaper bungalow places set back from the shore alongside the mid-range resorts. Strangely, almost nobody was around, and there was a ridiculous oversupply of restaurants and bars—nearly all of them empty.
 
 I stayed at the Laughing Gecko in a very simple but wonderfully rustic bamboo bungalow for 300 baht—no flush, no washbasin, no Western toilet. The atmosphere was very family-like, and there was a nice open-air “lounge” with Thai cushions and hammocks: exactly how you want a guesthouse in Thailand to be.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0594.jpg" alt="Day 39">
+    <em>Day 39</em>
+  </figure>
+
+  <figure>
+    <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0595.jpg" alt="Day 39">
+    <em>Day 39</em>
+  </figure>
+
+</div>
 
 ## Day 40 - 26 March - 174 km
 
@@ -546,6 +1200,12 @@ I took a decent room at “Room For Rent” next to Somboon Restaurant on Thanon
 I ate very well twice today. First at “Dine in the Jungle”, which—despite the name—sits right by the island’s multi-lane highway 26 km before Phuket Town. Even so, it was a pleasant place to sit; the menu offered a big selection of Thai classics and the green prawn curry for 80 baht was excellent.
 
 For dinner I treated myself, for once, to something smarter again: Thai Indigo, in a restored old-town house—beautifully, simply done, with candlelight and lounge music. The food (a small selection of international tapas, traditional Thai dishes, and grilled meats) obviously wasn’t cheap, but they even served chicken liver pâté with cheese straws as a little compliment from the kitchen. The goong sarong (prawns wrapped in vermicelli, deep-fried, with dip; 165 baht) and the panaeng curry with tender pork (154 baht) were both excellent.
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0605.jpg" alt="Day 40">
+  <em>Day 40</em>
+</figure>
 
 ## Day 41 - 27 March - 123 km
 
@@ -573,6 +1233,12 @@ Conclusion: there can’t be many more spectacular coastal roads in the world th
 
 Dinner was excellent again. I went to Dibuk, in a restored Sino-Portuguese old-town house on the street of the same name that had caught my eye yesterday. It’s an upmarket but by no means pretentious Franco-Thai restaurant where you can dine in a wonderful atmosphere—wicker chairs, candlelight. Prices are fairly moderate for Phuket, and both the moules sautées à l’ail with French baguette (95 baht) and the Thai yam nǔa (100 baht) were outstanding. I’d almost say it was the best yam nǔa I’ve ever had: spicy, with generous coriander, and wonderfully tender strips of pink beef.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0629.jpg" alt="Day 41">
+  <em>Day 41</em>
+</figure>
+
 ## Day 42 - 28 March
 
 I’d sworn never to visit Phi Phi again in high season, but my curiosity about what the island looks like after the tsunami was simply too strong. So I bought an open return ticket (750 baht) and took the big ferry at 8:30, which needed about 90 minutes. I wanted to keep my options open—either stay overnight or return to Phuket in the afternoon—but given the room prices the decision was easy.
@@ -592,6 +1258,12 @@ I took the afternoon ferry back to Phuket and, thanks to an engine problem, didn
 The On On, with its majestic but crumbling colonial façade, is one of the most famous budget hotels in the world since it was used as a filming location for The Beach. A real old-school hotel, with dark corridors and rooms (250 baht) that are little more than wooden cubicles—though not small, and not grubby either, even if the bathroom has clearly seen better days. I love the vibe of places like this. You’re meant to lie naked under the fan with a cold bottle of beer and read Dostoevsky (or something similar). And that’s exactly what I did until dinner, where I treated myself to something a bit finer again.
 
 Khana Sutra isn’t a standard Indian place but a chic, stylish lounge where you can lounge on cushions and eat at low tables. Exactly my thing. Since the quality was more than convincing, I didn’t mind that the bill was a bit higher—the value still felt right. I had three chunky samosas (88 baht) as a starter, exactly as they should be: crisp outside, juicy inside, served with a fine dip. For the main, a fiercely hot vindaloo with a generous number of slipper lobsters (240 baht), plus crisp garlic naan (66 baht). They also did a good mango lassi (100 baht).
+
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0666.jpg" alt="Day 42">
+  <em>Day 42</em>
+</figure>
 
 ## Day 43 - 29 March - 113 km
 
@@ -615,6 +1287,12 @@ In the afternoon I cycled around the nearby area a bit. Khao Lak—where the tsu
 
 Dinner was at Khao Lak Seafood Restaurant, also on the highway. There was a thick menu of the usual suspects at fair prices, but also a few dishes you don’t see quite so often—like the delicious barracuda fillet steamed in a banana leaf (100 baht), a real hit. The “Yam Three Musketeers” with prawns, fish and octopus (80 baht) wasn’t bad either, but it had been toned down too much for tourist palates.
 
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0713.jpg" alt="Day 43">
+  <em>Day 43</em>
+</figure>
+
 ## Day 44 - 30 March - 197 km
 
 ### Khao Lak – Khao Sok – Surat Thani
@@ -628,3 +1306,10 @@ From here the route becomes the most scenic section of the entire ride: a quiet 
 I spent the evening in Surat, where there isn’t much to do besides eat. The riverside night market near the night-ferry pier is quite nice. At 11 pm I took the night ferry (300 baht + 100 baht for the bicycle) to Ko Phangan—well-earned hammock time.
 
 Exchange rate: 1 euro = 1.30 US$ = 43 baht = 4.5 ringgit
+
+<figure>
+  <img src="photos/_tmp_malay_photos/Cycling Malay peninsula 2007/CyclingPenMalay07-0726.jpg" alt="Day 44">
+  <em>Day 44</em>
+</figure>
+
+
