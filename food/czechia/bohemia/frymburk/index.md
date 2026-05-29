@@ -9,4 +9,4 @@ subtitle: Food & drink in Frymburk
 # Frymburk
 
 ## Categories
-- [Cafés](/food/czechia/frymburk/cafes/)
+- [Cafés](/food/czechia/bohemia/frymburk/cafes/)

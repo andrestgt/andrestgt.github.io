@@ -9,4 +9,4 @@ subtitle: Food & drink in Vodňany
 # Vodňany
 
 ## Categories
-- [Cafés](/food/czechia/vodnany/cafes/)
+- [Cafés](/food/czechia/bohemia/vodnany/cafes/)

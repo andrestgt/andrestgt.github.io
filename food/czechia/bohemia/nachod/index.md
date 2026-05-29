@@ -9,4 +9,4 @@ subtitle: Food & drink in Náchod
 # Náchod
 
 ## Categories
-- [Cafés](/food/czechia/nachod/cafes/)
+- [Cafés](/food/czechia/bohemia/nachod/cafes/)

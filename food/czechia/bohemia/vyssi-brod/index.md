@@ -9,4 +9,4 @@ subtitle: Food & drink in Vyšší Brod
 # Vyšší Brod
 
 ## Categories
-- [Restaurants](/food/czechia/vyssi-brod/restaurants/)
+- [Restaurants](/food/czechia/bohemia/vyssi-brod/restaurants/)

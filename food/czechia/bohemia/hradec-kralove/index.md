@@ -9,4 +9,4 @@ subtitle: Food & drink in Hradec Králové
 # Hradec Králové
 
 ## Categories
-- [Cafés](/food/czechia/hradec-kralove/cafes/)
+- [Cafés](/food/czechia/bohemia/hradec-kralove/cafes/)

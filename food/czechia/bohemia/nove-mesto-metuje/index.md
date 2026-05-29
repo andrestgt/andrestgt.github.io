@@ -9,4 +9,4 @@ subtitle: Restaurants in Nové Město nad Metují
 # Nové Město nad Metují
 
 ## Categories
-- [Restaurants](/food/czechia/nove-mesto-metuje/restaurants/)
+- [Restaurants](/food/czechia/bohemia/nove-mesto-metuje/restaurants/)
