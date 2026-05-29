@@ -343,10 +343,6 @@ We had planned to eat at one of the riverside restaurants, but the night market 
 We had already been to the most stylish café in town (well, the only stylish one) in the afternoon. The nicely decorated CoCoNa served decent cappuccino (35B) and surprisingly good bistro food like salmon sashimi (120B) and Som Tam with squid (70B).
 
 </div>
-
-
-## Laos
-
 <div class="country laos" markdown="1">
   
 
@@ -368,6 +364,10 @@ We had already been to the most stylish café in town (well, the only stylish on
   </figure>
 
 </div>
+
+## Laos
+
+
 
 ### Day 14 | 26.7 | 38 km  
 **Nong Khai – Vientiane**
