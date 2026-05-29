@@ -1045,9 +1045,6 @@ As everywhere, there was delicious Mekong fish, prepared in various ways as Laab
 But the spring rolls (10,000k) also tasted excellent, as did the pork with basil (15,000k).
 
 </div>
-
-## Cambodia
-
 <div class="country cambodia" markdown="1">
 
 
@@ -1068,7 +1065,17 @@ But the spring rolls (10,000k) also tasted excellent, as did the pork with basil
     <em>Don Khon</em>
   </figure>
 
+   <figure>
+    <img src="photos/CyclingIndochine06-0912.jpg" alt="Don Det">
+    <em>Don Det</em>
+  </figure>
+
+
 </div>
+
+## Cambodia
+
+
 
 ### Day 29 | 10.8. | 89 km  
 **Don Khone – Stung Treng (Cambodia)**
@@ -1084,11 +1091,7 @@ We took a rather nicely furnished room with air-con, TV, and some art on the wal
 
 <div class="photo-row">
 
-  <figure>
-    <img src="photos/CyclingIndochine06-0912.jpg" alt="Don Det">
-    <em>Don Det</em>
-  </figure>
-
+ 
   <figure>
     <img src="photos/CyclingIndochine06-0914.jpg" alt="Lao-Cambodian Border Road">
     <em>Lao-Cambodian Border Road</em>
