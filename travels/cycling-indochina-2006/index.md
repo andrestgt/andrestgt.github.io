@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Cycling Indochina
+body_class: travelogue
+photos_locked: true
+---
+
 ---
 
 <div id="top"></div>
@@ -81,6 +85,12 @@ For dinner, we went to Cabbages & Condoms on Soi 12, one of Bangkok’s most fam
 
 <div class="country thailand" markdown="1">
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-0053.jpg" alt="Dhaka">
+  <em>Dhaka</em>
+</figure>
+
 ### Day 4 | 16.7 | 90 km  
 **Bangkok – Samut Prakan – Chonburi**
 
@@ -89,6 +99,21 @@ Normally, it's not a brilliant idea to start a tour immediately after such a fly
 After nearly 40 kilometres, just past Samut Prakan, the six-lane road narrowed to two lanes and ran parallel to a canal. The hard shoulder here was wide and made for easy riding. Along the canal, there were shacks with benches set up, perfect for resting. And we desperately needed it, because, just as I'd suspected, the jet lag was taking its toll. I can’t remember ever having such heavy legs on a 90 km flat stage.
 
 By the time we reached Chonburi, I was so knackered I didn't even have the energy to shower, let alone go out to eat. Luckily, we had a delicious Fried Rice from a street vendor by the canal at lunchtime, and Chonburi seemed like a rather characterless provincial town at first glance, so I don't think we missed much. We stayed at the Hotel Likith, a typical Thai town hotel with no charm but decent, if slightly neglected, rooms with air-con and a hot water shower for 550B.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0065.jpg" alt="Bangkok">
+    <em>Bangkok</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0069.jpg" alt="Along Hwy 3 - Around Samut Prakan">
+    <em>Along Hwy 3 - Around Samut Prakan</em>
+  </figure>
+
+</div>
 
 ### Day 5 | 17.7 | 58 km  
 **Chonburi – Pattaya**
@@ -101,6 +126,21 @@ At least we had a very nice room at the AA Pattaya Residence on Soi 13, 100 metr
 
 We also ate very well in the evening—the selection in Pattaya is enormous, of course. The Lobster Pot is a seafood restaurant with a terrace overlooking the sea, a beautiful spot to eat fish. We ordered sautéed mussels (195B), salad with shrimp sashimi (195B), grilled squid (195B), and a whole grilled Red Snapper (295B). The food was delicious, naturally, but perhaps a touch too expensive by Thai standards.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0082.jpg" alt="Pattaya">
+    <em>Pattaya</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0089.jpg" alt="Pattaya">
+    <em>Pattaya</em>
+  </figure>
+
+</div>
+
 ### Day 6 | 18.7 | 145 km  
 **Pattaya – Phanom Sarakham**
 
@@ -111,6 +151,12 @@ For about 80 kilometres up to Ploeng Yao, the route was a continuous up and down
 The original plan was to stop at Ploeng Yao. Since there was no hotel there, we had to carry on to the next larger town, Phanom Sarakham. These last 30 kilometres led flat through rice fields and were quickly done, although the traffic on the four-lane Highway 304 was incredibly heavy.
 
 We stayed at the only hotel in the village, the Phanom City, a slightly run-down provincial hotel with the usual functional rooms for 450B. For dinner, we ate at one of the street food stalls lining the highway. They served Laab with sticky rice and a very generous, delicious meat hotpot for €3.
+
+
+<figure>
+  <img src="photos/CyclingIndochine06-0096.jpg" alt="Phanom Sarakham">
+  <em>Phanom Sarakham</em>
+</figure>
 
 ### Day 7 | 19.7 | 150 km  
 **Phanom Sarakham – Aranya Prathet**
@@ -123,6 +169,12 @@ The scenery along the entire route so far, however, was utterly unremarkable—e
 
 Our room at the Market Motel behind the market was simple but spacious and clean, with air-con, a fridge, and a hot water shower. There was even a pool. Very decent for 400B. The motel also has a very popular restaurant that serves only one dish: table-top Hotpot Barbecue (literally). Chicken, pork, and liver—very tasty and extremely cheap (150B for two people with mineral water).
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-0101.jpg" alt="Along Hwy 359">
+  <em>Along Hwy 359</em>
+</figure>
+
 ### Day 8 | 20.7 | 132 km  
 **Aranya Prathet – Nang Rong**
 
@@ -134,6 +186,31 @@ This small town would be completely insignificant were it not for the several be
 
 In the evening, we and the four other guests were served a delicious and generous meal for 100 Baht, which included a whole fried fish and a chicken and coconut curry.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0108.jpg" alt="Along Hwy 348">
+    <em>Along Hwy 348</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0109.jpg" alt="Along Hwy 348">
+    <em>Along Hwy 348</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0111.jpg" alt="Along Hwy 348">
+    <em>Along Hwy 348</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0113.jpg" alt="Along Hwy 348">
+    <em>Along Hwy 348</em>
+  </figure>
+
+</div>
+
 ### Day 9 | 21.7 | 102 km  
 **Nang Rong – Prasat – Surin**
 
@@ -142,6 +219,26 @@ Today’s relatively short stage into the provincial capital of Surin was flat a
 Surin is famous for its annual Elephant Festival, but even without that, this unspectacular, unhurried town is a nice place to stop. We took a room at the Sangthong Hotel for 400B. The rooms in this very large, basic town hotel are a little dated, with mid-century air conditioning and an even older telephone, but they made up for it with their spaciousness and the hotel's central location.
 
 Late in the afternoon, we treated ourselves to a half-hour ride (50B) on a rickshaw through the streets of this pleasant little town, then headed to the night market for dinner, where we sampled various delicious snacks: Isaan sausages, mussel salad, meat skewers, red chicken curry... and even delicious Cambodian Amok was on offer. A gourmet’s delight, and all for next to nothing.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0122.jpg" alt="Along Hwy 24">
+    <em>Along Hwy 24</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0126.jpg" alt="Surin Province">
+    <em>Surin Province</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0128.jpg" alt="Surin">
+    <em>Surin</em>
+  </figure>
+
+</div>
 
 ### Day 10 | 22.7 | 31 km  
 **Surin – Roi Et**
@@ -156,6 +253,21 @@ I spent most of the day in the room, as the pain had hardly subsided. However, s
 
 I honestly couldn't face going out in the evening, but Achim picked up various tasty treats from the night market, which we then ate in the room.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0148.jpg" alt="Around Surin">
+    <em>Around Surin</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0154.jpg" alt="Roi Et">
+    <em>Roi Et</em>
+  </figure>
+
+</div>
+
 ### Day 11 | 23.7  
 **Roi Et – Khon Kaen**
 
@@ -168,6 +280,12 @@ By midday, I felt well enough to cycle a little again and rode to the lovely Kae
 Otherwise, Khon Kaen is a well-kept, modern city of typical Thai character, with shopping malls and business hotels, but also wooden houses and street food stalls.
 
 When Achim arrived, we went for a quick dinner at Sorrento. The restaurant's name is misleading, as it doesn't serve Italian cuisine, but the menu is huge, and they have live music and a sushi bar. We ordered Thai food, though: duck in garlic sauce (199B for a whole duck), grilled squid (99B with a fine sauce), and Yam Nüa, authentically spicy enough to bring tears to your eyes.
+
+
+<figure>
+  <img src="photos/CyclingIndochine06-0164.jpg" alt="Khon Kaen">
+  <em>Khon Kaen</em>
+</figure>
 
 ### Day 12 | 24.7 | 121 km  
 **Khon Kaen – Udon Thani**
@@ -183,6 +301,36 @@ We ordered a hors d'oeuvre platter (250B, including spring rolls, prawns on a sk
 Along the eastern shore road of the lake, there are numerous small food stalls and eateries, plus loads of open-air massage parlours. The atmosphere here in the evening is truly lovely, and we treated ourselves to a relaxing, hour-long foot massage with a lake view for 100 Baht.
 
 Our hotel was one block from Nong Prajak. The Charoensri Palace was anything but a palace, more of a tired, old provincial town hotel, but our room was cheap (380B) and adequate. It was windowless, admittedly, but clean and spacious with air-con, a bath, and satellite TV—perfectly fine for the night—and the staff even spoke decent English, a rarity in this area.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0179.jpg" alt="Udon Thani">
+    <em>Udon Thani</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0181.jpg" alt="Udon Thani">
+    <em>Udon Thani</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0183.jpg" alt="Udon Thani">
+    <em>Udon Thani</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0187.jpg" alt="Udon Thani">
+    <em>Udon Thani</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0188.jpg" alt="Udon Thani">
+    <em>Udon Thani</em>
+  </figure>
+
+</div>
 
 ### Day 13 | 25.7 | 112 km  
 **Udon Thani – Tha Bo – Nong Khai**
@@ -208,6 +356,26 @@ We had already been to the most stylish café in town (well, the only stylish on
 
 <div class="country laos" markdown="1">
   
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0196.jpg" alt="Tha Bo">
+    <em>Tha Bo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0199.jpg" alt="Nong Khai">
+    <em>Nong Khai</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0207.jpg" alt="Nong Khai">
+    <em>Nong Khai</em>
+  </figure>
+
+</div>
+
 ### Day 14 | 26.7 | 38 km  
 **Nong Khai – Vientiane**
 
@@ -235,6 +403,21 @@ In the evening, we ate Laotian again at Soukvimarn, a very nice, simple place in
 
 I must say, though, that Laotian cuisine did not particularly impress me on my first visit to the country either. Very decent cappuccino (15,000k) and good fruit shakes were available at La Fontaine Café in a side street by Nam Phou.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0215.jpg" alt="Nong Khai - Pantawee Hotel">
+    <em>Nong Khai - Pantawee Hotel</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0257.jpg" alt="Vientiane">
+    <em>Vientiane</em>
+  </figure>
+
+</div>
+
 ### Day 15 | 27.7 | 103 km  
 **Vientiane – Hin Heup**
 
@@ -259,6 +442,21 @@ For dinner, we went to the simple eatery on the highway about 100 metres from ou
 The unspectacular meal actually turned into a cultural experience. Shortly after we arrived at the restaurant, a host of locals from Hin Heup gradually rolled in and threw a small party. Naturally, we were invited and immediately plied with Lao beer until we couldn't drink any more, purely out of hospitality, without any ulterior motive.
 
 This is the second evening I've been invited for beer and food, and it’s only our second day in Laos. This is the kind of thing you only experience when, by chance (like yesterday) or because you're travelling by bike, you arrive in utterly untouristed places where you’re treated as an honoured guest, not a walking wallet.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0265.jpg" alt="Vientiane">
+    <em>Vientiane</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0287.jpg" alt="Along Hwy 13 - Around Hin Heub">
+    <em>Along Hwy 13 - Around Hin Heub</em>
+  </figure>
+
+</div>
 
 ### Day 16 | 28.7 | 83 km  
 **Hin Heup – Vang Vieng**
@@ -288,6 +486,46 @@ After that, we had our bikes thoroughly washed on the main road for 2,000k.
 Unfortunately, there was no sign of the famous Vang Vieng sunset on this overcast day, but we still went for dinner at the Sunset Restaurant at our resort, supposedly one of the most popular in town. The view is definitely hard to beat, and the food—although unadventurous tourist fare—was surprisingly tasty and affordable.
 
 We had Chicken with Cashew Nuts (20,000k), Pork Laab (18,000k), and Steamed Fish with fresh Mushrooms in Ginger Sauce (25,000k). And frankly, when I think about what ends up on the table in the simple, local Laotian pubs (fat with bones, offal), I’m happy to be served slightly less authentic, but high-quality Farang cuisine in a beautiful setting.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0296.jpg" alt="Along Hwy 13 - Around Hin Heub">
+    <em>Along Hwy 13 - Around Hin Heub</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0301.jpg" alt="Along Hwy 13 - Around Hin Heub">
+    <em>Along Hwy 13 - Around Hin Heub</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0310.jpg" alt="Along Hwy 13 - Around Vang Vieng">
+    <em>Along Hwy 13 - Around Vang Vieng</em>
+  </figure>
+
+</div>
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0400.jpg" alt="Along Hwy 13 between Vang Vieng and Luang Prabang">
+    <em>Along Hwy 13 between Vang Vieng and Luang Prabang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0449.jpg" alt="Luang Prabang">
+    <em>Luang Prabang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0457.jpg" alt="Luang Prabang">
+    <em>Luang Prabang</em>
+  </figure>
+
+</div>
 
 ### Day 17–18 | 29.–30.7. | 30 km  
 **Luang Prabang**
@@ -367,6 +605,26 @@ Refined cuisine and excellent ingredients; the whole roasted fish for two was ou
 
 We stayed at the Sayo River Guesthouse on the Mekong riverside road. Our very spacious, flawless room was nicely furnished, with two beds, air-con, a fridge, satellite TV, a seating area, and even some artwork. The bathroom with a hot water shower was also massive. Top guesthouse standard for an extremely fair price of $20. Highly recommended.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0487.jpg" alt="Luang Prabang">
+    <em>Luang Prabang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0489.jpg" alt="Luang Prabang">
+    <em>Luang Prabang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0520.jpg" alt="Luang Prabang">
+    <em>Luang Prabang</em>
+  </figure>
+
+</div>
+
 ### Day 19 | 31.7. | 19 km  
 **Luang Prabang – Vientiane**
 
@@ -379,6 +637,21 @@ Numerous simple, but very atmospheric, eateries still line the riverbank west of
 We also had a quick bite at the Mekong Balcony, and what they served was surprisingly good: squid salad and seafood with vegetables for 25,000k each, the view was free, and a bottle of beer only cost 7,000k.
 
 For dinner, we ate at the small, beautifully decorated Saovaly in the old town near the riverside road. This intimate, stylish restaurant attempts creative, international cuisine, and the small menu offers exotic items for this area, like crocodile steak, as well as traditional Laotian fare. We ordered a Laotian chicken breast salad with julienne vegetables (20,000k), Mekong fish fillet with couscous (35,000k), and ostrich fillet with spinach (60,000k). While this didn't meet the highest gourmet standards, it tasted quite good and was nicely presented. The service was friendly and discreet, and the prices were reasonable. A nice find, although we were the only guests there; I hope this little gem manages to survive.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0528.jpg" alt="Luang Prabang">
+    <em>Luang Prabang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0536.jpg" alt="Vientiane">
+    <em>Vientiane</em>
+  </figure>
+
+</div>
 
 ### Day 20 | 1.8. | 150 km  
 **Vientiane – Paksan**
@@ -401,6 +674,21 @@ The main courses cost between 20,000k and 30,000k, which isn’t cheap for the L
 
 By the way, turtle tastes like a mix of eel and game—very unusual, but not bad.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0559.jpg" alt="Along Hwy 13 - East of Vientiane">
+    <em>Along Hwy 13 - East of Vientiane</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0567.jpg" alt="Paksane - Sainamxay Restaurant">
+    <em>Paksane - Sainamxay Restaurant</em>
+  </figure>
+
+</div>
+
 ### Day 21 | 2.8. | 122 km  
 **Paksan – Km 255 (–Thakek)**
 
@@ -421,6 +709,21 @@ The Travel Lodge seems very popular, even though it's awkwardly far from the cen
 On the other hand, the guesthouse has a very nice atmosphere, and the restaurant serves tasty, inexpensive Lao-traveller food of good quality and pleasantly unauthentic (i.e., with proper pieces of meat without fat, bones, or offal). Perfect for solo backpackers and for hanging out with other travellers.
 
 Nevertheless, the higher-quality provincial hotels seem to offer better value for money than this traveller guesthouse. Our room cost 110,000k, not much less than our suite in Paksan.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0572.jpg" alt="Along Hwy 13 - Around Paksane">
+    <em>Along Hwy 13 - Around Paksane</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0595.jpg" alt="Along Hwy 13 - Around Namthone">
+    <em>Along Hwy 13 - Around Namthone</em>
+  </figure>
+
+</div>
 
 ### Day 22 | 3.8. | 101 km  
 **Thakek – Km 257 (–Thakek)**
@@ -455,6 +758,21 @@ Dinner at our hotel restaurant, with a view of the illuminated skyline of Nakhon
 
 Absolutely fantastic Hotpot/Korean BBQ with tender veal (30,000k) and seafood (40,000k). Not exactly cheap, but the quality was truly high and worth the money.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0607.jpg" alt="Along Hwy 13 - Around Thakek">
+    <em>Along Hwy 13 - Around Thakek</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0631.jpg" alt="Thakek">
+    <em>Thakek</em>
+  </figure>
+
+</div>
+
 ### Day 23 | 4.8. | 135 km  
 **Thakek – Savannakhet**
 
@@ -480,6 +798,21 @@ For dinner, we ate at one of the numerous simple eateries on the Mekong bank, sl
 
 Very popular with locals, Beer Lao flows freely here, and the atmosphere is wonderfully authentic. The food is dirt cheap and delicious. A large, grilled fish, which is qualitatively comparable to any high-quality saltwater fish, only cost 18,000k. Som Tam and grilled chicken were 8,000k.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0661.jpg" alt="Along Hwy 13 - Around Seno">
+    <em>Along Hwy 13 - Around Seno</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0674.jpg" alt="Savannakhet">
+    <em>Savannakhet</em>
+  </figure>
+
+</div>
+
 ### Day 24 | 5.8. | 145 km  
 **Savannakhet – Km 565 (–Pakse)**
 
@@ -504,6 +837,21 @@ Since it was so late, we ate Indian at Nazim, which was just a few doors down. N
 The atmosphere is very simple, but the prices are right: Pakoras, two lamb dishes, Palak Paneer, Garlic and Cheese Nan, plus Lao Beer and two Lassis for €7.
 
 As with my previous visits in Vang Vieng and Luang Prabang, the food wasn't exactly gourmet, but it was solid, tasty, and plentiful. A nice change for the palate.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0689.jpg" alt="Along Hwy 13 - Around Savannakhet">
+    <em>Along Hwy 13 - Around Savannakhet</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0696.jpg" alt="Along Hwy 13 - Around Savannakhet">
+    <em>Along Hwy 13 - Around Savannakhet</em>
+  </figure>
+
+</div>
 
 ### Day 25 | 6.8. | 111 km  
 **Pakse – Km 565 (–Pakse)**
@@ -533,6 +881,21 @@ Apart from the conveniences of a big city (by Laotian standards), the beautiful 
 However, we ate at one of the "better" restaurants on the opposite side of the road, the only one with a Latin script sign. They even had a selection of Australian wines, but the food prices were very moderate.
 
 Two Korean BBQs (Flying Tiger—not recommended, as the name hides undefinable bits of gristle—and Fish, which was very tasty), a fine Turkey Laab, and half a kilo of grilled, fat crayfish cost us €11, including beer and water.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0711.jpg" alt="Pakse">
+    <em>Pakse</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0713.jpg" alt="Along Hwy 13 - Around Pakse">
+    <em>Along Hwy 13 - Around Pakse</em>
+  </figure>
+
+</div>
 
 ### Day 26 | 7.8. | 62 km  
 **Pakse – Champasak**
@@ -566,6 +929,26 @@ The other dishes—papaya salad (6,000k), fried vegetables (20,000k), and Duck L
 The portions were a bit small and the prices slightly high, but the culinary choice in Champasak is very limited; I didn't even spot any street food stalls.
 
 To celebrate the occasion (2,000 km cycled), we drank a bottle of Laotian wine, "Jewel of the Mekong" (80,000k). I had no idea Laos produced wine and couldn't understand why this alleged Cabernet Sauvignon tasted like port, but never mind—it was quite drinkable with ice.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0735.jpg" alt="Pakse">
+    <em>Pakse</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0746.jpg" alt="Champasak Ferry">
+    <em>Champasak Ferry</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0780.jpg" alt="Wat Phu Champasak">
+    <em>Wat Phu Champasak</em>
+  </figure>
+
+</div>
 
 ### Day 27 | 8.8. | 110 km  
 **Champasak – Don Khong**
@@ -607,6 +990,21 @@ We had spring rolls (10,000k), papaya salad (10,000k), fish laab (30,000k), and 
 The dining was a notch more upscale in terms of quality and ambience at our auberge, where, for some inexplicable reason, we were the only guests.
 
 Pre-ordering had paid off. The steamed fish in banana leaf (35,000k) literally melted in the mouth, and the coconut fish curry (25,000k) was also delicious.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0809.jpg" alt="Along Hwy 13 - Around Champasak">
+    <em>Along Hwy 13 - Around Champasak</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0835.jpg" alt="Don Khong">
+    <em>Don Khong</em>
+  </figure>
+
+</div>
 
 ### Day 28 | 9.8. | 109 km  
 **Don Khong – Don Khone**
@@ -659,6 +1057,26 @@ But the spring rolls (10,000k) also tasted excellent, as did the pork with basil
 
 <div class="country cambodia" markdown="1">
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0871.jpg" alt="Don Det">
+    <em>Don Det</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0876.jpg" alt="Don Det">
+    <em>Don Det</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0896.jpg" alt="Don Khon">
+    <em>Don Khon</em>
+  </figure>
+
+</div>
+
 ### Day 29 | 10.8. | 89 km  
 **Don Khone – Stung Treng (Cambodia)**
 
@@ -669,6 +1087,21 @@ The first 30 kilometres on the Cambodian side of the highway were newly develope
 Stung Treng is an unspectacular, dirty, but quite pleasant provincial town, beautifully situated in the solitude of Cambodia's Northeast. The town's smart houses and power lines looked almost like a mirage, as there was barely more than a handful of the simplest wooden huts off the road on the route from the border. Just a few years ago, Stung Treng was a remote outpost only reachable by boat or hellish pick-up rides from the rest of the country. However, since the border with Laos officially opened and Highway 7 from Kratie is apparently quite good to ride, relatively many travellers spend the night here on their way to Rattanakiri or Laos. Accordingly, there are numerous accommodation options in Stung Treng, and even traveller cafés and internet.
 
 We took a rather nicely furnished room with air-con, TV, and some art on the walls at the Sok Sambath Hotel, the best place in town. The bathroom was a bit simple, without a hot water shower, but overall, the room was fine for $13. The Riverside Guesthouse has a rooftop restaurant where you can enjoy the sunset and the beautiful views. They also have good fruit shakes, but the food—traveller fare—was very average and not cheap. It tasted much better at the simple, small Sophakmukul, a local eatery one block east of the market. Here, we had fried fish in tomato chutney on rice and an interesting, very tasty variation of Amok for 4,000r each.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0912.jpg" alt="Don Det">
+    <em>Don Det</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0914.jpg" alt="Lao-Cambodian Border Road">
+    <em>Lao-Cambodian Border Road</em>
+  </figure>
+
+</div>
 
 ### Day 30 | 11.8. | 40 km  
 **Stung Treng – (Kratie)**
@@ -685,6 +1118,36 @@ However, the route on the small, bumpy riverside road (Highway 7) is well worth 
 
 Culinary-wise, things are still a little meagre in Kratie. The city's two backpacker guesthouses offer traveller food at slightly inflated prices—very good at Star GH, very bad at You Hong GH—and you sit most comfortably on cushioned wicker chairs. The selection of local eateries isn't very large, so we tried the Pencheth Restaurant for dinner, attached to the city's most popular hotel, the Santepheap, on the riverside road. The decision proved an excellent one. Although the ambience was far from appealing, the cuisine met the highest standards. Both the salad of raw, marinated fish and the raw marinated beef were absolutely delicious (8,000r each), and the local interpretation of Amok (of which there seem to be countless ways of preparation) was extremely tasty, with beautifully firm fish in a coconut-peanut sauce. The food here was more than worth the price—a shame about the atmosphere, or rather, the lack thereof.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0955.jpg" alt="Around Kratie">
+    <em>Around Kratie</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0958.jpg" alt="Around Kratie">
+    <em>Around Kratie</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0963.jpg" alt="Around Kratie">
+    <em>Around Kratie</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0975.jpg" alt="Around Kratie">
+    <em>Around Kratie</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-0976.jpg" alt="Around Kratie">
+    <em>Around Kratie</em>
+  </figure>
+
+</div>
+
 ### Day 31 | 12.8. | 131 km  
 **Kratie – Memot**
 
@@ -700,6 +1163,12 @@ Food was easily found. At the market, there were delicious baguettes and fruit s
 
 In Memot, I finally managed to track down two SIM cards today ($26 with $14 credit)—no easy feat in Cambodia, as, theoretically, you can only get a card with a Cambodian ID, which foreigners don't have. After countless unsuccessful attempts at the many available phone shops, both in Kratie and here, one finally took pity and was content with a copy of my passport and two signatures. That's just how it is in Cambodia: with patience, persistence, and perhaps a little baksheesh, you can generally get what you want, regulations notwithstanding.
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-1005.jpg" alt="Along Hwy 7 - Around Snuol">
+  <em>Along Hwy 7 - Around Snuol</em>
+</figure>
+
 ### Day 32 | 13.8. | 103 km  
 **Memot – Kompong Cham**
 
@@ -712,6 +1181,12 @@ Kompong Cham is excellent for cycling—a very pleasant town on the Mekong, clea
 Since we had a decent meal last time at Hoa An, one of the very few centrally located restaurants in the city, we didn't want to take any risks—however, we had a bad experience this time. The fried vegetables were quite good, but the grilled fish (15,000r) was burnt, and the third dish we ordered never arrived—the service is still an absolute disaster.
 
 In contrast, our hotel restaurant was far better in terms of cuisine and service. I'm not a big fan of hotel restaurants, as the atmosphere is usually not great, but lately, despite the less-than-charming ambience, we've always eaten excellently at hotels. The same was true here: salads of raw marinated fish and beef (8,000r) and fresh mushrooms stir-fried (6,000r). Absolutely delicious, and the portions were absolutely gigantic, so the prices were extremely cheap. A total hit!
+
+
+<figure>
+  <img src="photos/CyclingIndochine06-1021.jpg" alt="Along Hwy 7 - Around Krek">
+  <em>Along Hwy 7 - Around Krek</em>
+</figure>
 
 ### Day 33 | 14.8. | 140 km  
 **Kompong Cham – Skoun – Kompong Thom**
@@ -726,6 +1201,12 @@ We stayed at the Mitthepheap Hotel, right behind the bridge, about 500 metres fr
 
 The food we ate was less good: the restaurant belonging to the Arunras Hotel next to the market seems to be the most popular eatery in town, but the food was below average, and most dishes on the very extensive menu weren't even available. The Fried Mushrooms with Beef used canned mushrooms, and we'd had better versions of the Fried Fish with Ginger. At around 6,000r per dish, at least it wasn't expensive.
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-1065.jpg" alt="Along Hwy 7 - Around Skuon">
+  <em>Along Hwy 7 - Around Skuon</em>
+</figure>
+
 ### Day 34 | 15.8. | 151 km  
 **Kompong Thom – Siem Reap**
 
@@ -736,6 +1217,21 @@ Fortunately, the route was completely flat, and the road surface was in good con
 The room ($20) was well-equipped with three beds, a seating area with a sofa, TV, air-con, and even carpeted floor. The brick wall also gave the room a flair that you don't find in standard hotels. The only things to complain about were the very small bathroom and the lack of a window.
 
 What there is to say about Siem Reap I will report in detail tomorrow, as I'll spend the day in the city and won't be visiting Angkor again. My priority, in any case, is getting my bike repaired first.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1090.jpg" alt="Along Hwy 6 - Around Kompong Thom">
+    <em>Along Hwy 6 - Around Kompong Thom</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1092.jpg" alt="Along Hwy 6 - Around Kompong Thom">
+    <em>Along Hwy 6 - Around Kompong Thom</em>
+  </figure>
+
+</div>
 
 ### Day 35 | 16.8. | 23 km  
 **Siem Reap**
@@ -808,6 +1304,41 @@ Interior is stylish, food quality clearly above average, and prices fully justif
 
 </div>
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1118.jpg" alt="Angkor">
+    <em>Angkor</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1119.jpg" alt="Angkor">
+    <em>Angkor</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1143.jpg" alt="Angkor">
+    <em>Angkor</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1159.jpg" alt="Angkor">
+    <em>Angkor</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1176.jpg" alt="Siem Reap">
+    <em>Siem Reap</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1192.jpg" alt="Angkor">
+    <em>Angkor</em>
+  </figure>
+
+</div>
+
 ### Day 36 | 17.8. | 25 km  
 **Siem Reap – Battambang**
 
@@ -827,6 +1358,41 @@ I tried the White Rose for the first time today; the city’s most famous eatery
 
 The food is slightly better, however, at the Smoking Pot diagonally across, which is my favourite restaurant in Battambang. Just three years ago, we were the only customers during two visits to this simple "hole-in-the-wall" spot, which also offers cooking classes. Now, you often have to wait for a free table, even during the rainy season—a testament to enduring quality. Positively, the low prices have remained unchanged. The Special Volcano BBQ is still delicious, featuring finely marinated beef (10,000r).
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1210.jpg" alt="TonlÃ© Sap">
+    <em>TonlÃ© Sap</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1216.jpg" alt="TonlÃ© Sap">
+    <em>TonlÃ© Sap</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1217.jpg" alt="TonlÃ© Sap">
+    <em>TonlÃ© Sap</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1230.jpg" alt="TonlÃ© Sap">
+    <em>TonlÃ© Sap</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1244.jpg" alt="TonlÃ© Sap">
+    <em>TonlÃ© Sap</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1268.jpg" alt="Stung Sangker">
+    <em>Stung Sangker</em>
+  </figure>
+
+</div>
+
 ### Day 37 | 18.8. | 112 km  
 **Battambang – Pursat**
 
@@ -839,6 +1405,12 @@ It also has good accommodation and numerous restaurants. We stayed in a room at 
 Next door, in a charming traditional wooden villa, they served simple, authentic Khmer cuisine for 5,000r per main course. It belongs to an NGO, and part of the profit goes to the community, hence the name Community Villa. The sour dip with the fried fish was especially delicious, not to mention the green papaya salad for only 1,000r—a steal.
 
 We also had a decent dinner at the Reaksmey Angkor Restaurant. This eatery is part of the popular Phnom Pech Hotel, whose rooms are too expensive for what they offer (which is why we skipped staying there). However, the food prices are fair. They serve the usual standards like fried fish (7,000r) and Beef Luc Lac with fries (5,000r), and they are quite good.
+
+
+<figure>
+  <img src="photos/CyclingIndochine06-1303.jpg" alt="Along Hwy 5 - Around Battambang">
+  <em>Along Hwy 5 - Around Battambang</em>
+</figure>
 
 ### Day 38 | 19.8. | 110 km  
 **Pursat – Kompong Chhnang**
@@ -853,6 +1425,21 @@ The actual city centre is a few kilometres west on Highway 5 and felt almost ele
 
 The Mekong Restaurant, where we had dinner, was on the highway and seemed to cater primarily to buses and trucks stopping for lunch. It had a very limited (but at least English) menu with Khmer standards, and the food (we had Fried Fish for 10,000r and Beef Luc Lac for 8,000r) was okay, but too expensive.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1326.jpg" alt="Along Hwy 5 - Around Pursat">
+    <em>Along Hwy 5 - Around Pursat</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1333.jpg" alt="Along Hwy 5 - Around Pursat">
+    <em>Along Hwy 5 - Around Pursat</em>
+  </figure>
+
+</div>
+
 ### Day 39 | 20.8. | 101 km  
 **Kompong Chhnang – Phnom Penh**
 
@@ -864,6 +1451,21 @@ We had lunch at Bopha Phnom Penh, an elegant restaurant right on the river next 
 
 Afterward, it was time for Happy Hour at FCC; the cocktails are still good, and the atmosphere is wonderful, but I was a little disappointed by the much-praised wood-fired pizza. It tasted quite good, but for $7.50, I would have expected at least Italian quality. Only the topping provided that (Parma ham, mushrooms, capers, olives, and rocket); the dough, unfortunately, wasn't great. Dinner, in contrast, was excellent again at Malis, probably still Phnom Penh's best restaurant. This time, we ordered the roasted beef in bamboo ($8.80), Fish Amok ($4.90), Prawn-Papaya Salad ($6), and once again the exquisite scallops from Sihanoukville ($4.90).
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1362.jpg" alt="Kompong Chhnang">
+    <em>Kompong Chhnang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1381.jpg" alt="Phnom Penh - Paragon Hotel">
+    <em>Phnom Penh - Paragon Hotel</em>
+  </figure>
+
+</div>
+
 ### Day 40 | 21.8. | 94 km  
 **Phnom Penh – Takeo**
 
@@ -874,6 +1476,12 @@ Since our destination, Takeo, was only about 80 kilometres away, I spent the ent
 The ride to Takeo on Highway 2 wasn't entirely easy. The route, which had several turns, was poorly signposted, and the road, though paved, was in poor condition with numerous potholes. However, the area is pancake-flat, and the route mostly took us right through the rice fields. Despite its proximity to the capital, Takeo is truly deep in the provinces—a quiet, sleepy little place with absolutely nothing to do. But like most Cambodian provincial towns, Takeo is a pleasant, charming spot where old French colonial buildings crumble under coconut palms and things shut down around 8 PM. Thanks to its cosy atmosphere and picturesque setting surrounded by flooded fields, Takeo is a good place to spend a few hours and the night. The not-very-inviting-looking but decent Mittepheap Hotel by the Independence Monument had simple $10 provincial standard rooms with air-con and a TV but no hot shower. We even found a good restaurant right on the lakefront. Built on stilts over the water, the Stung Takeo is not only idyllic but also offered an English menu and decent provincial food at low prices. A large grilled fish with lovely firm meat was 8,000r, the same price as the deliciously marinated grilled pork, which tasted excellent.
 
 ---
+
+
+<figure>
+  <img src="photos/CyclingIndochine06-1400.jpg" alt="Phnom Penh">
+  <em>Phnom Penh</em>
+</figure>
 
 ### Day 41 | 22.8. | 97 km  
 **Takeo – Kampot**
@@ -888,6 +1496,12 @@ We had dinner at Ta Euv, north of the bridge on the river. I had good food here 
 
 ---
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-1453.jpg" alt="Kampot">
+  <em>Kampot</em>
+</figure>
+
 ### Day 42 | 23.8. | 73 km  
 **Kampot – Kep – Kampot**
 
@@ -898,6 +1512,41 @@ After breakfast, I set off to meet Achim in Kep; I was only there last year, and
 Back in Kampot, we went for a drink at the Rusty Keyhole, a nice pub on the promenade, and then to the Bokor Mountain Lodge for the sunset. This guesthouse in a beautifully renovated colonial villa by the river not only has the most atmospheric (though unfortunately slightly too expensive) rooms in the city but also the chicest restaurant—though in a traditional town like Kampot, this just means a beautiful setting and cloth napkins. The food was quite good and not overly expensive. Large, crispy spring rolls were $2; the crisp, fresh salad with high-quality beef strips cost $3—it only came under a misleading name (I imagine something different under "spicy beef salad"), but it tasted good nonetheless. Just like the Chicken Tro (mild Khmer coconut curry with pineapple and fried chicken, $3.50). Cheap drinks completed the positive overall impression ($1.50 for a Gin & Tonic). We had a nightcap again at Say Sa Bok, where, incidentally, you also eat very decently (grilled squid, prawns with cashews, both $3) and they mix inexpensive, and generously strong, cocktails (the Kampot River with Jackie, Kahlua, and milk for $2 was very tasty).
 
 ---
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1464.jpg" alt="Kampot Province">
+    <em>Kampot Province</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1467.jpg" alt="Kampot Province">
+    <em>Kampot Province</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1476.jpg" alt="Around Kep sur Mer">
+    <em>Around Kep sur Mer</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1480.jpg" alt="Around Kep sur Mer">
+    <em>Around Kep sur Mer</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1485.jpg" alt="Around Kep sur Mer">
+    <em>Around Kep sur Mer</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1494.jpg" alt="Kampot">
+    <em>Kampot</em>
+  </figure>
+
+</div>
 
 ### Day 43 | 24.8. | 20 km  
 **Kampot – Phnom Penh**
@@ -914,6 +1563,12 @@ In the evening, we ate on Sisowath Quay again, this time in the northern part, a
 
 <div class="country vietnam" markdown="1">
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-1497.jpg" alt="Phnom Penh">
+  <em>Phnom Penh</em>
+</figure>
+
 ### Day 44 | 25.8. | 95 km  
 **Phnom Penh – Neak Luong – Chau Doc**
 
@@ -922,6 +1577,21 @@ Since the rip-off ferry that travels directly from Phnom Penh to Chau Doc actual
 In Chau Doc, we stayed again at the Trung Nguyen Hotel for $15 in the same room as we had in the spring. For dinner, we also relied on the tried-and-tested. The rustic Mekong Restaurant, more of a street stall in a courtyard surrounded by beautiful colonial buildings, once again served up excellent Delta cuisine. Besides the wonderful spring rolls (25,000d), the Bo Nuong La Cach (grilled beef wrapped in cigar shapes, 30,000d) and the sautéed mussels (25,000d) were particularly good.
 
 ---
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1515.jpg" alt="On the speed boat to the Vietnamese Border">
+    <em>On the speed boat to the Vietnamese Border</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1521.jpg" alt="Mekong Delta - Around Chau Doc">
+    <em>Mekong Delta - Around Chau Doc</em>
+  </figure>
+
+</div>
 
 ### Day 45 | 26.8. | 125 km  
 **Chau Doc – Long Xuyen – Sa Dec – Vinh Long**
@@ -932,6 +1602,26 @@ Unfortunately, the ride continued in exactly the same way behind the city toward
 
 ---
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1533.jpg" alt="Mekong Delta - Long Xuyen">
+    <em>Mekong Delta - Long Xuyen</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1538.jpg" alt="Mekong Delta - Around Long Xuyen">
+    <em>Mekong Delta - Around Long Xuyen</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1540.jpg" alt="Mekong Delta - Vinh Long">
+    <em>Mekong Delta - Vinh Long</em>
+  </figure>
+
+</div>
+
 ### Day 46 | 27.8. | 88 km  
 **Vinh Long – Ben Tre – Mytho (– Saigon)**
 
@@ -940,6 +1630,21 @@ In the morning, we took the ferry from the pier located about 3 kilometres east 
 We had a good lunch here at the hotel restaurant Dong Khoi by the small lake in the centre. They had a very brief, ordinary English menu and a much better Vietnamese one, from which we ordered. The good thing about Vietnam is that, thanks to the Roman script, you can decode a menu even without knowing the language. The food here was good as expected: squid with lemongrass, grilled mussels, and beef with spinach in a light curry sauce. Standard prices between 30,000–40,000d for quite generous portions. After another ferry crossing, we reached Mytho, from where we boarded the bus to Saigon. That was very simple, quick, and cheap (18,000d + 5,000d for the bike), and it saved us having to cycle the boring, traffic-heavy stretch of Highway 1 again. From the bus station in Cholon, we cycled into the centre and checked back into the same room as in March, at the Huynh Anh Hotel for $15. For dinner, we again chose the tried-and-tested, and the Bo Tung Xeo certainly did not disappoint. A meal here is always an event, and the popularity of the place is still strong. The house speciality was superb again, and the fresh oysters (12,000d each) were huge. The beef salad (45,000d) was also delicious, and the marinated goat breast for self-grilling (45,000d) was great. After dinner, we got two plane tickets to Hué for tomorrow afternoon and drank the cheapest beer in the world, Bia Hoi, on the street in front of our hotel—3,500d per litre.
 
 ---
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1554.jpg" alt="Mekong Delta - Ben Tre Province">
+    <em>Mekong Delta - Ben Tre Province</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1555.jpg" alt="Mekong Delta - Ben Tre Province">
+    <em>Mekong Delta - Ben Tre Province</em>
+  </figure>
+
+</div>
 
 ### Day 47 | 28.8. | 42 km  
 **Saigon – Hué**
@@ -950,6 +1655,12 @@ The flight with Vietnam Airlines went perfectly; the bicycles were checked in wi
 
 ---
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-1573.jpg" alt="Hue - Nha Hang Van Canh">
+  <em>Hue - Nha Hang Van Canh</em>
+</figure>
+
 ### Day 48 | 29.8. | 166 km  
 **Hué – Dong Hoi**
 
@@ -958,6 +1669,21 @@ A very long but mostly flat and unremarkable day on Highway 1. We passed the dem
 An exception to this is the area around Dong Hoi, which is quite pretty, with dunes on the coast and the impressive mountain range toward Laos. The city itself is also beautifully situated at the mouth of the Nhat Le River with an endless dune beach right on its doorstep. Dong Hoi seems to be developing into a popular holiday resort for domestic tourists. The waterfront road is currently being expanded, and there are dozens of hotels and guesthouses, both on the river and on the beach. However, foreign tourists rarely stray here; the entire tourist infrastructure, with karaoke bars, countless simple beach restaurants, and rather unsightly hotel blocks, is clearly aimed at a Vietnamese audience. Given the huge offering, we naturally got a good, inexpensive room without difficulty. The only thing to complain about was the somewhat weak air conditioning; otherwise, our room at the fairly new "Ke Bang" right on the river offered the usual comfort and wide beds for a cheap €10. Since it was raining and we didn't want to look for a restaurant for long, we ate around the corner at the simple Nhu Y in the evening. It was well-attended and very cheap. A large pot of fine Vietnamese fish soup with pineapple cost just 20,000d. The grilled beef and the grilled squid (30,000d each) were also good, though not of outstanding quality.
 
 ---
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1580.jpg" alt="Along Hwy 1 - Around Dong Ha">
+    <em>Along Hwy 1 - Around Dong Ha</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1586.jpg" alt="Dong Hoi">
+    <em>Dong Hoi</em>
+  </figure>
+
+</div>
 
 ### Day 49 | 30.8. | 162 km  
 **Dong Hoi – Ha Tinh**
@@ -968,12 +1694,57 @@ Since there was no restaurant in the immediate vicinity, we ate in our hotel's d
 
 ---
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1587.jpg" alt="Dong Hoi">
+    <em>Dong Hoi</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1588.jpg" alt="Dong Hoi">
+    <em>Dong Hoi</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1604.jpg" alt="Along Hwy 1 - Around Ha Tinh">
+    <em>Along Hwy 1 - Around Ha Tinh</em>
+  </figure>
+
+</div>
+
 ### Day 50 | 31.8. | 132 km  
 **Ha Tinh – Vinh – Quynh Beach**
 
 A rather unremarkable flat stage on a sometimes poor road surface, with a coffee break in Vinh, the largest city between Hué and Hanoi. It's a prime example of Soviet-style town planning with wide avenues and unappealing architecture. However, they have a handful of really chic, comfortable cafés here with excellent service and delicious fruit shakes. In the modest café culture of the north, such things are highly appreciated.
 
 After almost 130 kilometres, a sign pointed to the "Quynh Beach Tourist Resort," which sounded quite promising. So, we turned off and rode about 5 kilometres on a paved but bumpy side road to the coast. Western tourists are almost certainly rare here; this area seems very poor and traditional. Ox carts drove up and down the dirty but picturesque beach, and there are a few very simple beach stalls and a slightly worn-out hotel, the Phuong Trung, which has seen better days. Nobody here speaks a word of English, and I had to look at three rooms until I found one where everything still worked reasonably well. The rooms weren't bad—simple but very clean with air-con—and for 150,000d you can't expect more. Dinner at the hotel was excellent in any event. The lightly breaded, butter-fried squid (35,000d) tasted superb, but the absolute highlight was the whole grilled fish we chose—a true specimen, at least five pounds heavy and with delicious, firm meat. In Europe, a nearly priceless feast, the cost here was just 100,000d.
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1607.jpg" alt="Vinh">
+    <em>Vinh</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1611.jpg" alt="Along Hwy 1 - Around Vinh">
+    <em>Along Hwy 1 - Around Vinh</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1613.jpg" alt="Along Hwy 1 - Around Vinh">
+    <em>Along Hwy 1 - Around Vinh</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1614.jpg" alt="Quynh Beach">
+    <em>Quynh Beach</em>
+  </figure>
+
+</div>
 
 ### Day 51 | 1.9. | 161 km  
 **Quynh Beach – Ninh Binh**
@@ -985,6 +1756,12 @@ Behind Tanh Hoa, I then turned onto Highway 10, while Achim drove directly to Ni
 Ninh Binh, due to its proximity to tourist attractions like Tam Coc, is the first place since Hué that also attracts some Western tourists. However, the quality of accommodation seemed poor; most hotels looked quite worn out. Accordingly, we did not object to being steered into the Than Tuy GH by one of the numerous touts. In the brand-new hotel building in the courtyard behind the simple guesthouse, there were good, modern rooms with air-con and a bathtub for a fair $15. What is more, the restaurant offered surprisingly good and authentic food; even goat meat and grilled liver were on the menu—hardly typical for a traveller spot. The prices were like a local Quan, but here they had a German menu.
 
 ---
+
+
+<figure>
+  <img src="photos/CyclingIndochine06-1625.jpg" alt="Red River Delta - Along Hwy 10">
+  <em>Red River Delta - Along Hwy 10</em>
+</figure>
 
 ### Day 52 | 2.9. | 93 km  
 **Ninh Binh – Hanoi**
@@ -998,6 +1775,12 @@ In the afternoon, we had a snack at the Cyclo Bar, perhaps the most uniquely dec
 Dinner at Quan An Ngon was an event again. In addition to the already excellent appetizers, we ordered an extremely delicious mango-seafood salad (42,000d) and wonderfully marinated sautéed beef (45,000d).
 
 ---
+
+
+<figure>
+  <img src="photos/CyclingIndochine06-1641.jpg" alt="Hanoi">
+  <em>Hanoi</em>
+</figure>
 
 ### Day 53 | 3.9. | 133 km  
 **Hanoi – Hung Yen – Thai Binh**
@@ -1023,6 +1806,21 @@ We stayed at the same hotel as last time, the 4-star Huu Nghi, in a rather ugly 
 
 The Maxim's diagonally opposite the hotel, a quite chic, comfortable live music club with a restaurant, proved two things: 1. that you sometimes eat rather badly in Vietnam, and 2. that good ingredients don't make good food. Fast food cuisine in a Vietnamese style, served almost flavourlessly—a shame about the scallops, the squid, and the crisp vegetables. Much too expensive for what was offered, too. The Dai Thung Restaurant proved it can be done differently. Located in a narrow Old Town alley, it looked like a simple Quan from the outside but turned out to be a very chic, popular seafood restaurant on several levels with attractively designed interior and excellent, reasonably priced cuisine for the quality. I actually wasn't hungry anymore, but the raw beef salad (45,000d) and the fried elephant ear fish with ginger (70,000d) were so delicious that I couldn't resist.
 
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1657.jpg" alt="Red River Delta - Around Haiphong">
+    <em>Red River Delta - Around Haiphong</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1658.jpg" alt="Red River Delta - Around Haiphong">
+    <em>Red River Delta - Around Haiphong</em>
+  </figure>
+
+</div>
+
 ### Day 55 | 5.9. | 43 km  
 **Haiphong – Cat Ba**
 
@@ -1038,6 +1836,12 @@ We stayed at the Van Anh Hotel, in the most central promenade location in the fi
 
 ---
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-1701.jpg" alt="Cat Ba Island">
+  <em>Cat Ba Island</em>
+</figure>
+
 ### Day 56 | 6.9. | 61 km  
 **Cat Ba – Halong City – Haiphong**
 
@@ -1052,6 +1856,76 @@ Both Highway 18 toward Hanoi and Highway 10 into Haiphong were very good for cyc
 We had dinner again around the corner at Dai Thung, where the beef salad tasted absolutely delicious once more.
 
 ---
+
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1707.jpg" alt="Cat Ba Island">
+    <em>Cat Ba Island</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1708.jpg" alt="Cat Ba Island">
+    <em>Cat Ba Island</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1711.jpg" alt="Cat Ba Island">
+    <em>Cat Ba Island</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1714.jpg" alt="Cat Ba Island">
+    <em>Cat Ba Island</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1715.jpg" alt="Cat Ba Island">
+    <em>Cat Ba Island</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1719.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1721.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1727.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1736.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1737.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1738.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1744.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1755.jpg" alt="Halong Bay">
+    <em>Halong Bay</em>
+  </figure>
+
+</div>
 
 ### Day 57 | 7.9. | 104 km  
 **Haiphong – Hanoi**
@@ -1069,8 +1943,27 @@ We had a set menu and a cheese plate at Café des Arts and a light dinner at La 
 <div class="country epilogue" markdown="1">
 
 
+
+<figure>
+  <img src="photos/CyclingIndochine06-1763.jpg" alt="Hanoi">
+  <em>Hanoi</em>
+</figure>
+
 ### Days 58 & 59 | 8.–9.9. | 24 + 30 km  
 **Hanoi**
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1770.jpg" alt="Hanoi">
+    <em>Hanoi</em>
+  </figure>
+
+  <figure>
+    <img src="photos/CyclingIndochine06-1785.jpg" alt="Hanoi - Pane e Vino">
+    <em>Hanoi - Pane e Vino</em>
+  </figure>
+
+</div>
 
 ---
 
