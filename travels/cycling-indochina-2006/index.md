@@ -83,13 +83,6 @@ For dinner, we went to Cabbages & Condoms on Soi 12, one of Bangkok’s most fam
 
 ## Thailand
 
-<div class="country thailand" markdown="1">
-
-
-<figure>
-  <img src="photos/CyclingIndochine06-0053.jpg" alt="Dhaka">
-  <em>Dhaka</em>
-</figure>
 
 ### Day 4 | 16.7 | 90 km  
 **Bangkok – Samut Prakan – Chonburi**
