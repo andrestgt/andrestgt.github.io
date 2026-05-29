@@ -6,9 +6,19 @@ title: Trâm Pa Pỉnh Tộp
 subtitle: Mù Cang Chải · Restaurant & Homestay
 ---
 
+<figure>
+  <img src="/photos/vietnam/yen-bai/tram-pa-pinh-top-1.jpg" alt="Trâm Pa Pỉnh Tộp">
+  <figcaption>Trâm Pa Pỉnh Tộp</figcaption>
+</figure>
+
 This is an attractive homestay and eatery in a village of few choices. They don't have many dishes, but it's a friendly place and we got a nice big plate of grilled river fish, enough for two to share, and a bottle of surprisingly smooth and drinkable rice wine for 120k.
 
 Possibly the best option in the area.
+
+<figure>
+  <img src="/photos/vietnam/yen-bai/tram-pa-pinh-top-2.jpg" alt="Grilled river fish">
+  <figcaption>Grilled river fish</figcaption>
+</figure>
 
 ## Ratings
 
