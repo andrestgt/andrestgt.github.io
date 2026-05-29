@@ -53,5 +53,12 @@ Not the friendliest place in the Philippines, but the location is fantastic and 
 
 ---
 
+## Chill'N-Sea Restaurant
+*Bucana Beach, El Nido · Filipino, Seafood*
+Hard to beat for pure beach restaurant atmosphere — cheap cocktails, seafood sizzlers, and gorgeous sunsets on the sand at Bucana Beach.
+→ [Read the full review](/food/philippines/el-nido/restaurants/chilln-sea-restaurant/)
+
+---
+
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

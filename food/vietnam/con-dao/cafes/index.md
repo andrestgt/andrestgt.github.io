@@ -10,13 +10,7 @@ subtitle: Cafés in Con Dao
 
 # Cafés in Con Dao
 
-A selection of cafés in Con Dao.
-
-<!-- Add your reviews here following this format:
-
-## Restaurant Name
-Location · Type
-Brief one-sentence description.
-→ [Read the full review](/food/vietnam/con-dao/cafes/review-slug.html)
-
--->
+## Infiniti Cafe & Restaurant
+*Côn Đảo · Café*
+The island's best café by a clear margin — chic, air-conditioned, with excellent Vietnamese coffees including cà phê dừa.
+→ [Read the full review](/food/vietnam/con-dao/cafes/infiniti-cafe-restaurant/)
