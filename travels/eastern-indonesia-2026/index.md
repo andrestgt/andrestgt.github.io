@@ -192,7 +192,7 @@ The bungalows vary considerably in size and quality, although they all cost the 
 
 There is one drawback, however, which is the house reef. It is fairly degraded. There are still a few smaller patches where the coral looks decent, but overall it is not in good condition. The beach itself is beautiful and good for swimming at high tide, but for snorkelling it is clearly not among the better spots.
 
-That said, on my first snorkel after arriving, I saw a dugong, a whitetip reef shark, and a lionfish within half an hour. By most global standards, that would still count as a very good day of snorkelling.
+That said, on my first little swim with goggles after arriving, I saw a dugong, a whitetip reef shark, and a lionfish, all within half an hour. By most global standards, that would still count as a very good day of snorkelling.
 With the disadvantage of not having top-quality snorkelling directly in front of the bungalow, Kordiris Dive Homestay makes up for it by being a very sociable place. The crowd is mixed rather than exclusively divers. There are snorkellers and divers, and it is usually easy to find people willing to share boat costs, which are of course high in Raja Ampat. That makes trips to the more distant sites, for snorkelling as well as diving, considerably more affordable.
 
 On our second day here, we joined a snorkelling trip to <a href="https://maps.google.com/?q=Friwen+Wall+Raja+Ampat" target="_blank" rel="noopener">Friwen Wall</a> and Koi Island. I was not particularly impressed with Friwen Wall, despite its reputation. There wasn’t the same abundance of fish I had become used to around Kri Jetty and Yenbuba Jetty. The coral garden at the end of the wall, however, was very attractive and in good condition.
