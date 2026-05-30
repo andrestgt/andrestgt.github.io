@@ -5,6 +5,8 @@ region: hai-phong
 slug: hai-phong
 title: Hải Phòng – Food & Drink
 subtitle: Food and drink across Hải Phòng
+hero: /photos/background/haiphongprovincehero.jpg
+hero_overlay: false
 ---
 
 # Hải Phòng

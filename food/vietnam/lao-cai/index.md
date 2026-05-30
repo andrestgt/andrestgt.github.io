@@ -5,6 +5,8 @@ region: lao-cai
 slug: lao-cai
 title: Lào Cai – Food & Drink
 subtitle: Food and drink across Lào Cai
+hero: /photos/background/laocaihero.jpg
+hero_overlay: false
 ---
 
 # Lào Cai

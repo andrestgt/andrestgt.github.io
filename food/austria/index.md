@@ -4,7 +4,7 @@ section: food
 country: austria
 title: Austria
 subtitle: Food & drink in Austria
-hero: /photos/background/austria.jpg
+hero: /photos/background/austriahero.jpg
 ---
 # Austria
 

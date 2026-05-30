@@ -4,7 +4,7 @@ section: food
 country: portugal
 title: Portugal
 subtitle: Food & drink in Portugal
-hero: /photos/background/portugal.jpg
+hero: /photos/background/portugalhero.jpg
 ---
 # Portugal
 

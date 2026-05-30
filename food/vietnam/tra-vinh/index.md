@@ -5,6 +5,8 @@ region: tra-vinh
 slug: tra-vinh
 title: Trà Vinh – Food & Drink
 subtitle: Food and drink across Trà Vinh
+hero: /photos/background/travinhprovincehero.jpg
+hero_overlay: false
 ---
 
 # Trà Vinh

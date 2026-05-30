@@ -5,6 +5,8 @@ region: quang-binh
 slug: quang-binh
 title: Quảng Bình – Food & Drink
 subtitle: Food and drink across Quảng Bình
+hero: /photos/background/quangbinhhero.jpg
+hero_overlay: false
 ---
 
 # Quảng Bình

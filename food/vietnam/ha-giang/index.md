@@ -1,7 +1,7 @@
 ---
 layout: default
-hero: /photos/background/hagianghero.jpg
-background: hagianghero.jpg
+hero: /photos/background/hagiangcityhero.jpg
+background: hagiangcityhero.jpg
 section: food
 city: ha-giang
 slug: ha-giang

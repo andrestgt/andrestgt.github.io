@@ -5,6 +5,8 @@ region: thanh-hoa
 slug: thanh-hoa
 title: Thanh Hóa – Food & Drink
 subtitle: Food and drink across Thanh Hóa
+hero: /photos/background/thanhhoaprovincehero.jpg
+hero_overlay: false
 ---
 
 # Thanh Hóa

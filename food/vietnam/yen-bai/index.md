@@ -5,6 +5,8 @@ region: yen-bai
 slug: yen-bai
 title: Yên Bái – Food & Drink
 subtitle: Food and drink across Yên Bái
+hero: /photos/background/yenbaihero.jpg
+hero_overlay: false
 ---
 
 # Yên Bái
