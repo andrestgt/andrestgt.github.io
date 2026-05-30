@@ -894,11 +894,6 @@ From the pier it was another 10 km in pouring rain to Satun, where I found a sim
   </figure>
 
   <figure>
-    <img src="photos/CyclingPenMalay07-0547.jpg" alt="Langkawi - Telaga Tujuh">
-    <em>Langkawi - Telaga Tujuh</em>
-  </figure>
-
-  <figure>
     <img src="photos/CyclingPenMalay07-0548.jpg" alt="Langkawi - Telaga Tujuh">
     <em>Langkawi - Telaga Tujuh</em>
   </figure>
