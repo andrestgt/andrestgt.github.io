@@ -2,6 +2,7 @@
 layout: default
 section: food
 country: portugal
+slug: portugal
 title: Portugal
 subtitle: Food & drink in Portugal
 hero: /photos/background/portugalhero.jpg

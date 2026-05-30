@@ -2,6 +2,7 @@
 layout: default
 section: food
 country: austria
+slug: austria
 title: Austria
 subtitle: Food & drink in Austria
 hero: /photos/background/austriahero.jpg
