@@ -294,7 +294,7 @@ I’m really wondering whether that makes a visible difference — not only in t
 So today, after what else but wonderful coffees at Wabi Sabi, we went to the airport to catch a Lion Air flight to Ambon, basically just a short hop of less than an hour. Departure and arrival were both on time, no issues at all.
 
 Before leaving Sorong, however, we stopped at [Arvac Lounge & Cafe](/food/indonesia/west-papua/sorong/restaurants/arvac-lounge/) inside DEO Airport for very good single-origin Papua coffee and a delicious sop buntut (oxtail soup, 155k) that was enough for two. Incidentally, it also had the most comfortable seating and fastest Wi-Fi in the airport.
-It’s not really worth going just for a coffee, as the minimum spend is over 80K rupiah. But if you’re having proper food as well, the quality of both was genuinely good and, by global airport-lounge standards, not overpriced.
+It’s not really worth going just for a coffee, as the minimum spend is over 80K rupiah. But if you’re having proper food as well, the quality of both was very good and, by global airport-lounge standards, not overpriced.
 
 Ambon has a very pleasant little airport. We received our bags in no time and immediately encountered the usual ride-hailing “mafia” situation: the Grab counter right at the airport was charging 200K for a ride into town, and Maxim cars were not allowed anywhere near the terminal.
 So we chose a third option. We simply walked about 50 metres out of the airport gate and found a very friendly bemo driver who agreed to take us, luggage and all, for 25K per person straight to our hotel in the city. An excellent deal.
