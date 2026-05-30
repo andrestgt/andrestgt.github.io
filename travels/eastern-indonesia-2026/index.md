@@ -130,7 +130,7 @@ The food is pretty good as well. There’s usually quite juicy Spanish mackerel 
 
 Ransiwor Island is wedged between two prime snorkelling spots: the jetty in front of Soul Divers on Kri Island and <a href="https://maps.google.com/?q=Yenbuba+Jetty+Raja+Ampat" target="_blank" rel="noopener">Yenbuba Jetty</a> on Mansuar Island, a very popular dive site..
 
-The Yenbuba jetty is, depending on the current, an easy swim from our homestay, but regardless of conditions it’s important to time your visit. I first went there quite early in the morning and there were no boats, nobody around — it was absolutely perfect. There was an abundance of large fish, including Napoleon wrasse and turtles underneath the jetty.
+Yenbuba jetty is, depending on the current, an easy swim from our homestay, but regardless of conditions it’s important to time your visit. I first went there quite early in the morning and there were no boats, nobody around — it was absolutely perfect. There was an abundance of large fish, including Napoleon wrasse and turtles underneath the jetty.
 
 <div class="photo-row">
 
