@@ -659,7 +659,7 @@ There was no mobile internet reception in the hut, but they offered a Wi-Fi rout
 More problematic was the motorbike rental. They initially quoted 100K per day, but then tried to charge 125K for an old, rather battered scooter. That felt a bit off, especially compared to Noel Cottage, where I got a brand new, larger bike for 100K, which seems to be the standard price.
 
 Noel Cottage was, overall, the nicest place we stayed at on Kei Kecil. It was also the most expensive, with their cute rooms going for 480K, but you are paying for the prime location right on the beach, the small private pool in front of the cottage, which is filled for you every day, and some creature comforts such as hot water and air conditioning.
-The owner is very friendly and genuinely keen to make things work for you. You get a good motorbike, can choose your preferred breakfast, and the staff are consistently welcoming. The whole place gives the impression that they actually value their guests, which is quite different from most other places we stayed at, where lethargic indifference was the norm.
+The owner is very friendly and really keen to make things work for you. You get a good motorbike, can choose your preferred breakfast, and the staff are consistently welcoming. The whole place gives the impression that they actually value their guests, which is quite different from most other places we stayed at, where lethargic indifference was the norm.
 
 <div class="photo-row">
 
