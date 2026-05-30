@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-region: ninh-thuan
+city: ninh-thuan
 slug: ninh-thuan
 title: Ninh Thuận – Food & Drink
 subtitle: Food and drink across Ninh Thuận

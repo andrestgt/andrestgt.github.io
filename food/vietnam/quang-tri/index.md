@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-region: quang-tri
+city: quang-tri
 slug: quang-tri
 title: Quảng Trị – Food & Drink
 subtitle: Food and drink across Quảng Trị

@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-region: tra-vinh
+city: tra-vinh
 slug: tra-vinh
 title: Trà Vinh – Food & Drink
 subtitle: Food and drink across Trà Vinh

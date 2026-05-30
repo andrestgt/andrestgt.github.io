@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-region: dak-lak
+city: dak-lak
 slug: dak-lak
 title: Đắk Lắk – Food & Drink
 subtitle: Food and drink across Đắk Lắk

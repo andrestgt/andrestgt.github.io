@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-region: soc-trang
+city: soc-trang
 slug: soc-trang
 title: Sóc Trăng – Food & Drink
 subtitle: Food and drink across Sóc Trăng
