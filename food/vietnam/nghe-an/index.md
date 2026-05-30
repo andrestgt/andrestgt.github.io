@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: nghe-an
+region: nghe-an
 slug: nghe-an
 title: Nghệ An – Food & Drink
 subtitle: Food and drink across Nghệ An

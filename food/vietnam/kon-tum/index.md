@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: kon-tum
+region: kon-tum
 slug: kon-tum
 title: Kon Tum – Food & Drink
 subtitle: Food and drink across Kon Tum

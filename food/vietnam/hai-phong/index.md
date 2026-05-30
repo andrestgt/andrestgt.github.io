@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: hai-phong
+region: hai-phong
 slug: hai-phong
 title: Hải Phòng – Food & Drink
 subtitle: Food and drink across Hải Phòng

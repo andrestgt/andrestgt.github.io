@@ -662,14 +662,14 @@ body.zwiefalten .site-hero { background-image: url("/photos/background/zwiefalte
     .site-hero nav { border: none !important; background: transparent !important; box-shadow: none !important; }
     .site-hero figure, .site-hero figcaption { border: none !important; box-shadow: none !important; background: transparent !important; color: inherit; }
 
-    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) .site-hero { display: none; }
-    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) nav.site-nav {
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-region):not(.food.food-category):not(.travels.index) .site-hero { display: none; }
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-region):not(.food.food-category):not(.travels.index) nav.site-nav {
       position: relative;
       top: auto;
       right: auto;
       border-bottom: 1px solid var(--rule);
     }
-    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-category):not(.travels.index) nav.site-nav a { color: #333; }
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-region):not(.food.food-category):not(.travels.index) nav.site-nav a { color: #333; }
 
     /* ---------------------------
        DESKTOP
@@ -918,7 +918,9 @@ body.zwiefalten .site-hero { background-image: url("/photos/background/zwiefalte
   {% if page.index %} index{% endif %}
   {% if page.country %} food-country{% endif %}
   {% if page.city %} food-city{% endif %}
+  {% if page.region %} food-region{% endif %}
   {% if page.city %} {{ page.city }}{% endif %}
+  {% if page.region %} {{ page.region }}{% endif %}
   {% if page.category %} food-category{% endif %}
   {% if page.category %} {{ page.category }}{% endif %}
   {% if page.review %} food-review{% endif %}

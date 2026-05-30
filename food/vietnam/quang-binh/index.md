@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: quang-binh
+region: quang-binh
 slug: quang-binh
 title: Quảng Bình – Food & Drink
 subtitle: Food and drink across Quảng Bình

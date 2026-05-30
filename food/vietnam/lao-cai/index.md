@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: lao-cai
+region: lao-cai
 slug: lao-cai
 title: Lào Cai – Food & Drink
 subtitle: Food and drink across Lào Cai

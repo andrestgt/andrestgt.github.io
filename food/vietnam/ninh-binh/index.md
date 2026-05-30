@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: ninh-binh
+region: ninh-binh
 slug: ninh-binh
 title: Ninh Bình – Food & Drink
 subtitle: Food and drink across Ninh Bình

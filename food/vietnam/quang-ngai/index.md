@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: quang-ngai
+region: quang-ngai
 slug: quang-ngai
 title: Quảng Ngãi – Food & Drink
 subtitle: Food and drink across Quảng Ngãi

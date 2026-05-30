@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: yen-bai
+region: yen-bai
 slug: yen-bai
 title: Yên Bái – Food & Drink
 subtitle: Food and drink across Yên Bái

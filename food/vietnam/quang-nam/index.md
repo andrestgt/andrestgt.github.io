@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: quang-nam
+region: quang-nam
 slug: quang-nam
 title: Quảng Nam – Food & Drink
 subtitle: Food and drink across Quảng Nam

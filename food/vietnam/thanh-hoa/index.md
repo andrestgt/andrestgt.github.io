@@ -1,7 +1,7 @@
 ---
 layout: default
 section: food
-city: thanh-hoa
+region: thanh-hoa
 slug: thanh-hoa
 title: Thanh Hóa – Food & Drink
 subtitle: Food and drink across Thanh Hóa
