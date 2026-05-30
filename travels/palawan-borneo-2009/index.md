@@ -51,13 +51,13 @@ If northern Palawan is even half as spectacular as people say, there’s an obvi
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0055.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0055.jpg" alt="Sabang - Blue Bamboo">
+    <em>Sabang - Blue Bamboo</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0057.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0057.jpg" alt="Sabang - Blue Bamboo">
+    <em>Sabang - Blue Bamboo</em>
   </figure>
 
 </div>
@@ -93,33 +93,33 @@ The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highl
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0081.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0081.jpg" alt="Sabang - Underground River">
+    <em>Sabang - Underground River</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0085.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0085.jpg" alt="Sabang - Underground River">
+    <em>Sabang - Underground River</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0103.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0103.jpg" alt="Sabang">
+    <em>Sabang</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0104.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0104.jpg" alt="Sabang">
+    <em>Sabang</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0105.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0105.jpg" alt="Sabang - Tribal">
+    <em>Sabang - Tribal</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0117.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0117.jpg" alt="Port Barton">
+    <em>Port Barton</em>
   </figure>
 
 </div>
@@ -141,113 +141,113 @@ The rustic Jimbalaya sat in a great spot on the beach, a café where they sold h
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0127.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0127.jpg" alt="Bus Ride to El Nido">
+    <em>Bus Ride to El Nido</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0132.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0132.jpg" alt="Bus Ride to El Nido">
+    <em>Bus Ride to El Nido</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0139.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0139.jpg" alt="El Nido">
+    <em>El Nido</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0141.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0141.jpg" alt="El Nido">
+    <em>El Nido</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0155.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0155.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0167.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0167.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0172.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0172.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0175.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0175.jpg" alt="El Nido">
+    <em>El Nido</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0177.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0177.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0195.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0195.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0207.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0207.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0209.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0209.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0231.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0231.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0248.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0248.jpg" alt="Nacpan Beach">
+    <em>Nacpan Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0251.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0251.jpg" alt="Nacpan Beach">
+    <em>Nacpan Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0252.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0252.jpg" alt="Nacpan Beach">
+    <em>Nacpan Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0253.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0253.jpg" alt="Nacpan Beach">
+    <em>Nacpan Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0267.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0267.jpg" alt="Nacpan Beach">
+    <em>Nacpan Beach</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0271.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0271.jpg" alt="Corong Corong">
+    <em>Corong Corong</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0276.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0276.jpg" alt="Corong Corong">
+    <em>Corong Corong</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0280.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0280.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0291.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0291.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
   </figure>
 
 </div>
@@ -279,18 +279,18 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0308.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0308.jpg" alt="Coron Town">
+    <em>Coron Town</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0314.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0314.jpg" alt="Coron Town">
+    <em>Coron Town</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Palawan2009-0319.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Palawan2009-0319.jpg" alt="Coron Island">
+    <em>Coron Island</em>
   </figure>
 
 </div>
@@ -316,18 +316,18 @@ For non-divers, Coron offers the option of a day trip to Coron Island opposite, 
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0002.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0002.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0003.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0003.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0011.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0011.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
 </div>
@@ -345,58 +345,58 @@ Oddly enough, diving courses in Semporna are among the cheapest in the world —
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0038.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0038.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0039.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0039.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0040.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0040.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0041.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0041.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0042.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0042.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0043.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0043.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0045.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0045.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0046.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0046.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0047.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0047.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0048.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0048.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0049.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0049.jpg" alt="Mabul">
+    <em>Mabul</em>
   </figure>
 
 </div>
@@ -420,8 +420,8 @@ The most famous island in the area, however, is Sipadan, which regularly feature
 
 
 <figure>
-  <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0070.jpg" alt="Photo">
-  <em>Photo</em>
+  <img src="photos/Borneo2009-0070.jpg" alt="Sandakan">
+  <em>Sandakan</em>
 </figure>
 
 ## 15 July 2009
@@ -449,43 +449,43 @@ This time I stayed at Kinabalu Backpacker — not because I didn’t like North 
 <div class="photo-row">
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0072.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0072.jpg" alt="Sandakan">
+    <em>Sandakan</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0075.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0075.jpg" alt="Sandakan - English Tea House">
+    <em>Sandakan - English Tea House</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0077.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0077.jpg" alt="Sandakan - English Tea House">
+    <em>Sandakan - English Tea House</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0079.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0079.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0080.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0080.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0081.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0081.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0083.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0083.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
   <figure>
-    <img src="photos/_tmp_palawan_photos/Palawan and Borneo 2009/Borneo2009-0084.jpg" alt="Photo">
-    <em>Photo</em>
+    <img src="photos/Borneo2009-0084.jpg" alt="Kota Kinabalu">
+    <em>Kota Kinabalu</em>
   </figure>
 
 </div>
