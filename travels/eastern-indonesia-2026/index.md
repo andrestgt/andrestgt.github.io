@@ -348,7 +348,7 @@ After that we continued across the island towards the north coast, visited <a hr
 
 On our last day we explored the southern peninsula. We took quite an adventurous, incredibly steep road over the mountains to the picturesque fishing village of Hukurila, and then drove back along the coast in a loop towards Ambon Bay and the city.
 
-So as I mentioned before, there are some really good coffee shops in Ambon, places that genuinely take coffee seriously. The problem is that some of them do not even open before noon, so getting a proper coffee in the morning is not as easy as one might imagine. It is simply a different culture here.
+So as I mentioned before, there are some really good coffee shops in Ambon, places that take coffee seriously. The problem is that some of them do not even open before noon, so getting a proper coffee in the morning is not as easy as one might imagine. It is simply a different culture here.
 
 The only place that was open at 8 a.m. was [The Gade Coffee & Gold](/food/indonesia/maluku/ambon/cafes/gade-coffee/), which became our go-to for morning coffee. A nice, strong roast for 31 K. There was never anyone there apart from us in the morning. I do not quite know how that works for them, but in any case it worked perfectly for us
 .
