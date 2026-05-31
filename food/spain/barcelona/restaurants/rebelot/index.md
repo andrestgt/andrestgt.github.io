@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: La Violeta, Natural Wine Bar
+title: Rebelot
 subtitle: Barcelona · Natural Wine Bar
 ---
 
