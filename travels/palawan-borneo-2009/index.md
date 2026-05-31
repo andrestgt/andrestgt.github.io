@@ -178,27 +178,7 @@ The jeepney from Port Barton to Roxas charges tourists for 150 pesos for the 20-
 
 The bus ride up to El Nido is notorious among travellers, and for good reason. Because we only boarded in Roxas, there was no space left in the rickety old bus for the people from Port Barton, so we spent the five-hour journey along dusty tracks in the blazing sun on the roof. We were lucky: the bus was carrying mattresses we could lie on. The ride is interesting in places, because the landscape here sometimes looks more like the African savannah than tropical Southeast Asia. A few kilometres before El Nido the famous karst landscape begins, and from the roof we had wonderful views.
 
-Accommodation in El Nido is mercilessly overpriced by Palawan standards; on the beach you can hardly find anything under 800 pesos, even though the standard isn’t any better than elsewhere. I didn’t give up and eventually found a sea-view room in a prime spot for 400 pesos at Ralfs Bar. The room itself was extremely basic, and in the ground-floor bathroom the shower water was pumped from a well, but the views were fantastic.
-
-El Nido itself is a typically Filipino small town in a dream setting, framed by high limestone cliffs with views out to the islands of the Bacuit Archipelago. Thanks to tourism there are a few pleasant cafés and beach restaurants, though prices are fairly high. Here a San Miguel costs from 50 pesos upwards, and a meal is about twice as expensive as in Puerto.
-
-Alternative is absolutely worth visiting for the view and the cosy open-air cubicles with seat cushions, by far the prettiest place in El Nido, with a creative menu. The views and the atmosphere are better than the food, though.
-
-El Nido Boutique Café is an institution, a large, modern establishment a row back from the beach. The food is average and overpriced, but thanks to free WiFi and beer happy hour, Boutique Café is still – unsurprisingly – the place that draws the most travellers. You can also book archipelago tours here. They’re 50 pesos more expensive than elsewhere, but the boats are the most comfortable and the lunch is the most generous.
-
-El Nido also has a very nice bar with live music: Balay Tubay, by far the best place for a night out in El Nido. When it’s full, the atmosphere is excellent. Unfortunately it’s often empty, even in high season, because El Nido attracts nowhere near as many tourists as you’d expect for such a famous destination. Last year all scheduled flights to El Nido were cancelled; charter flights are very expensive, and the overland-and-sea route is long and arduous.
-
-Of course, that has its advantages too. Compared with Halong Bay and especially Krabi–Phang Nga – landscapes the Bacuit Archipelago is often compared with – you don’t have to share the beauty of the islands with countless other tourists. Only the occasional Korean tour group, the Philippines’ one real tourist nuisance, can briefly disturb the idyll. Luckily they only visit a handful of the most popular sights.
-
-Day trips into the archipelago cost 500–700 pesos depending on the area visited, including lunch with grilled fish, and while my personal favourite was Tour A, it’s absolutely worth doing all four standard regions. The archipelago is simply stunning: hidden lagoons, white beaches, imposing cliffs and caves, and crystal-clear water.
-
-But the mainland around El Nido has plenty to offer too, and is still barely developed for tourism. Hiring a motorbike is expensive (PHP 700) and the roads are very poor, but a trip to the beach at Nacpan to the north is a highlight of any Philippines journey. This vast sweep of white sand stretching for kilometres is perhaps the most beautiful in the entire country. Wide, untouched and perfect for swimming, with only one authentic, friendly fishing village at the southern end, Nacpan Beach embodies the perfect tropical beach: a Boracay without tourists. Although Nacpan is just under 20 km from El Nido, the trip there isn’t straightforward because of the dreadful road, but it’s absolutely worth it.
-
-Only a few kilometres south of El Nido, not far from the highway, lies Corong-Corong, another dream beach. There are a few resorts here and, because it’s easy to reach, it attracts more tourists. The beach is narrow and not very long, but incredibly picturesque, clean and perfect for a lazy afternoon by the sea.
-
-<div class="photo-row">
-
-  <figure>
+ <figure>
     <img src="photos/Palawan2009-0127.jpg" alt="Bus Ride to El Nido">
     <em>Bus Ride to El Nido</em>
   </figure>
@@ -208,7 +188,13 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
     <em>Bus Ride to El Nido</em>
   </figure>
 
-  <figure>
+Accommodation in El Nido is mercilessly overpriced by Palawan standards; on the beach you can hardly find anything under 800 pesos, even though the standard isn’t any better than elsewhere. I didn’t give up and eventually found a sea-view room in a prime spot for 400 pesos at Ralfs Bar. The room itself was extremely basic, and in the ground-floor bathroom the shower water was pumped from a well, but the views were fantastic.
+
+El Nido itself is a typically Filipino small town in a dream setting, framed by high limestone cliffs with views out to the islands of the Bacuit Archipelago. Thanks to tourism there are a few pleasant cafés and beach restaurants, though prices are fairly high. Here a San Miguel costs from 50 pesos upwards, and a meal is about twice as expensive as in Puerto.
+
+Alternative is absolutely worth visiting for the view and the cosy open-air cubicles with seat cushions, by far the prettiest place in El Nido, with a creative menu. The views and the atmosphere are better than the food, though.
+
+<figure>
     <img src="photos/Palawan2009-0139.jpg" alt="El Nido">
     <em>El Nido</em>
   </figure>
@@ -218,7 +204,13 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
     <em>El Nido</em>
   </figure>
 
-  <figure>
+El Nido Boutique Café is an institution, a large, modern establishment a row back from the beach. The food is average and overpriced, but thanks to free WiFi and beer happy hour, Boutique Café is still – unsurprisingly – the place that draws the most travellers. You can also book archipelago tours here. They’re 50 pesos more expensive than elsewhere, but the boats are the most comfortable and the lunch is the most generous.
+
+El Nido also has a very nice bar with live music: Balay Tubay, by far the best place for a night out in El Nido. When it’s full, the atmosphere is excellent. Unfortunately it’s often empty, even in high season, because El Nido attracts nowhere near as many tourists as you’d expect for such a famous destination. Last year all scheduled flights to El Nido were cancelled; charter flights are very expensive, and the overland-and-sea route is long and arduous.
+
+Of course, that has its advantages too. Compared with Halong Bay and especially Krabi–Phang Nga – landscapes the Bacuit Archipelago is often compared with – you don’t have to share the beauty of the islands with countless other tourists. Only the occasional Korean tour group, the Philippines’ one real tourist nuisance, can briefly disturb the idyll. Luckily they only visit a handful of the most popular sights.
+
+ <figure>
     <img src="photos/Palawan2009-0155.jpg" alt="Bacuit Archipelago">
     <em>Bacuit Archipelago</em>
   </figure>
@@ -232,16 +224,15 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
     <img src="photos/Palawan2009-0172.jpg" alt="Bacuit Archipelago">
     <em>Bacuit Archipelago</em>
   </figure>
-
-  <figure>
-    <img src="photos/Palawan2009-0175.jpg" alt="El Nido">
-    <em>El Nido</em>
-  </figure>
-
-  <figure>
+<figure>
     <img src="photos/Palawan2009-0177.jpg" alt="Bacuit Archipelago">
     <em>Bacuit Archipelago</em>
   </figure>
+  
+
+Day trips into the archipelago cost 500–700 pesos depending on the area visited, including lunch with grilled fish, and while my personal favourite was Tour A, it’s absolutely worth doing all four standard regions. The archipelago is simply stunning: hidden lagoons, white beaches, imposing cliffs and caves, and crystal-clear water.
+
+
 
   <figure>
     <img src="photos/Palawan2009-0195.jpg" alt="Bacuit Archipelago">
@@ -263,7 +254,21 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
     <em>Bacuit Archipelago</em>
   </figure>
 
+ 
+
   <figure>
+    <img src="photos/Palawan2009-0280.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Palawan2009-0291.jpg" alt="Bacuit Archipelago">
+    <em>Bacuit Archipelago</em>
+  </figure>
+
+But the mainland around El Nido has plenty to offer too, and is still barely developed for tourism. Hiring a motorbike is expensive (PHP 700) and the roads are very poor, but a trip to the beach at Nacpan to the north is a highlight of any Philippines journey. This vast sweep of white sand stretching for kilometres is perhaps the most beautiful in the entire country. Wide, untouched and perfect for swimming, with only one authentic, friendly fishing village at the southern end, Nacpan Beach embodies the perfect tropical beach: a Boracay without tourists. Although Nacpan is just under 20 km from El Nido, the trip there isn’t straightforward because of the dreadful road, but it’s absolutely worth it.
+
+ <figure>
     <img src="photos/Palawan2009-0248.jpg" alt="Nacpan Beach">
     <em>Nacpan Beach</em>
   </figure>
@@ -288,7 +293,13 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
     <em>Nacpan Beach</em>
   </figure>
 
-  <figure>
+ 
+
+
+
+Only a few kilometres south of El Nido, not far from the highway, lies Corong-Corong, another dream beach. There are a few resorts here and, because it’s easy to reach, it attracts more tourists. The beach is narrow and not very long, but incredibly picturesque, clean and perfect for a lazy afternoon by the sea.
+
+ <figure>
     <img src="photos/Palawan2009-0271.jpg" alt="Corong Corong">
     <em>Corong Corong</em>
   </figure>
@@ -298,15 +309,19 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
     <em>Corong Corong</em>
   </figure>
 
-  <figure>
-    <img src="photos/Palawan2009-0280.jpg" alt="Bacuit Archipelago">
-    <em>Bacuit Archipelago</em>
-  </figure>
+
+ 
+
+  
+
+ 
 
   <figure>
-    <img src="photos/Palawan2009-0291.jpg" alt="Bacuit Archipelago">
-    <em>Bacuit Archipelago</em>
+    <img src="photos/Palawan2009-0175.jpg" alt="El Nido">
+    <em>El Nido</em>
   </figure>
+
+  
 
 </div>
 
