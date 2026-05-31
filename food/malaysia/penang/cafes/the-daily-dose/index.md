@@ -7,11 +7,16 @@ subtitle: Old Town, George Town · Café
 ---
 
 <figure>
-  <img src="/photos/malaysia/penang/the-daily-dose-2.jpg" alt="The Daily Dose">
+  <img src="/photos/malaysia/penang/Malaysia15-0312.jpg" alt="The Daily Dose">
   <figcaption>The Daily Dose</figcaption>
 </figure>
 
 Another excellent Old Town café with good air conditioning, very decent cappuccino and even a sofa tucked away at the back. Their homemade dumplings are delicious as well. Definitely recommended.
+
+<figure>
+  <img src="/photos/malaysia/penang/the-daily-dose-2.jpg" alt="The Daily Dose">
+  <figcaption>The Daily Dose</figcaption>
+</figure>
 
 <figure>
   <img src="/photos/malaysia/penang/the-daily-dose-3.jpg" alt="The Daily Dose">
