@@ -6,6 +6,10 @@ title: Cafe Uhl Schneeballen
 subtitle: Rothenburg · Café, Konditorei
 ---
 
+<figure>
+  <img src="/photos/germany/bayern/rothenburg/RTCE17-0134.jpg" alt="Cafe Uhl Schneeballen">
+  <figcaption>Cafe Uhl Schneeballen</figcaption>
+</figure>
 
 Pleasant café with a small veranda at the back. Prices are reasonable for such a touristy location. Unfortunately, the cappuccino is pretty bad.
 
@@ -23,4 +27,4 @@ Pleasant café with a small veranda at the back. Prices are reasonable for such 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Plönlein+8+91541+Rothenburg+ob+der+Tauber+Germany)
 📍 Plönlein 8, 91541 Rothenburg ob der Tauber, Germany
-💰 **Price level:** —
+💰 **Price level:**     moderate
