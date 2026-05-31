@@ -6,6 +6,11 @@ title: Yee Heong Restaurant
 subtitle: Lebuh Kimberley, George Town · Chinese, Dim Sum
 ---
 
+<figure>
+  <img src="/photos/malaysia/penang/Malaysia15-0381.jpg" alt="Yee Heong Restaurant">
+  <figcaption>Yee Heong Restaurant</figcaption>
+</figure>
+
 Simple old-school eatery serving a good variety of steamed dim sum. Cheap, tasty and an excellent breakfast option.
 
 ## Ratings
@@ -22,4 +27,4 @@ Simple old-school eatery serving a good variety of steamed dim sum. Cheap, tasty
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Yee+Heong+Restaurant+Lebuh+Kimberley+George+Town+Penang)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** —RM 30
