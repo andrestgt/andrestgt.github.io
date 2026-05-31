@@ -8,6 +8,7 @@ photos_locked: true
 ---
 
 # Palawan and Borneo
+
 **February-August 2009**
 
 A journey through Palawan in the Philippines and Malaysian Borneo, from Puerto Princesa and El Nido to Kota Kinabalu, Semporna and Sandakan.
@@ -15,6 +16,7 @@ A journey through Palawan in the Philippines and Malaysian Borneo, from Puerto P
 ---
 
 ## 22 February 2009
+
 My Philippine Airlines flight from Cebu (PHP 1,105) was almost two hours late, so I didn’t reach the small airport in Puerto Princesa, Palawan’s provincial capital, until late afternoon. The airport isn’t far from the centre – it’s less than a ten-minute tricycle ride (PHP 10) to my guesthouse at the other end of town near the harbour.
 
 Banwa Art House had an atmosphere that felt very unusual for the Philippines. Set in a wooden house in one of the quieter, poorer residential neighbourhoods, Banwa is a genuinely pleasant guesthouse clearly aimed at the (on Palawan more pronounced than in the rest of the country) backpacker market, with simple rooms (PHP 350) and dorms (PHP 250) which, true to its name, have been designed and spruced up with an artistic touch. Spotless bathrooms and, especially, a brilliant, sociable veranda full of plants, carvings, wall hangings and paintings, plus excellent music (Velvet Underground, Jack Johnson) and WiFi, will make any backpacker’s make most backpackers happy. The only real gripe is the steep prices for drinks and especially the simple dishes they serve.
@@ -47,22 +49,27 @@ On the way back to Puerto I made a short stop at the hot springs of San Isidro (
 
 If northern Palawan is even half as spectacular as people say, there’s an obvious reason why the south is so rarely visited: while this area certainly has its charms, the natural sights are rather second-rate. Waterfalls, caves and Robinson islets are found in the north as well, and for a solo traveller they’re far easier and cheaper to reach. Still, it was genuinely interesting to explore a region where very few people speak English and the occasional Western tourist rarely strays this way – and time, after all, is something I have plenty of.
 
-
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Palawan2009-0055.jpg" alt="Sabang - Blue Bamboo">
-    <em>Sabang - Blue Bamboo</em>
+    <img src="photos/Palawan2009-0017.jpg" alt="Puerto Princesa">
+    <em>Puerto Princesa</em>
   </figure>
 
   <figure>
-    <img src="photos/Palawan2009-0057.jpg" alt="Sabang - Blue Bamboo">
-    <em>Sabang - Blue Bamboo</em>
+    <img src="photos/Palawan2009-0023.jpg" alt="Puerto Princesa">
+    <em>Puerto Princesa</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Palawan2009-0044.jpg" alt="Southern Palawan">
+    <em>Southern Palawan</em>
   </figure>
 
 </div>
 
 ## 25 February 2009
+
 My first stop north of Puerto was Sabang, which also happens to boast one of the country’s most famous and popular tourist attractions: Subterranean River National Park, with the world’s longest (or second-longest) navigable underground river.
 
 Getting to Sabang, on Palawan’s west coast, is slow and laborious once you leave the well-built highway. The 80 km journey took almost three hours on a narrow road that’s only about two-thirds concrete and winds through dense jungle. The approach is spectacular: a tropical karst landscape with rice fields like you only find in a handful of places in Asia. Sabang itself is a friendly, simple fishing village on a beautiful bay framed by high mountains. To the east begins the national park, with deserted sandy beaches along a rugged, green coastline. Sabang’s own beach is picturesque, but very shallow and, because of algae, only partly suitable for longer swims, even though there’s heavy building work going on to make Sabang attractive for beach holidaymakers as well. A mid-range resort already exists and a second, which will take up almost half the beach, is under construction.
@@ -89,8 +96,17 @@ Even if the Underground River didn’t exist, the idyllic bay with its white san
 
 The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highlight. In places the river is surprisingly wide and the cave ceiling rises to 65 m. Plenty of bats and rock formations keep things interesting. The only pity is that you’re not allowed to swim either in the cave or in the lagoon – that would have been the perfect finale.
 
-
 <div class="photo-row">
+
+  <figure>
+    <img src="photos/Palawan2009-0055.jpg" alt="Sabang - Blue Bamboo">
+    <em>Sabang - Blue Bamboo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Palawan2009-0057.jpg" alt="Sabang - Blue Bamboo">
+    <em>Sabang - Blue Bamboo</em>
+  </figure>
 
   <figure>
     <img src="photos/Palawan2009-0081.jpg" alt="Sabang - Underground River">
@@ -117,14 +133,10 @@ The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highl
     <em>Sabang - Tribal</em>
   </figure>
 
-  <figure>
-    <img src="photos/Palawan2009-0117.jpg" alt="Port Barton">
-    <em>Port Barton</em>
-  </figure>
-
 </div>
 
 ## 2 March 2009
+
 From Sabang I took a jeepney back to the highway (2 h, PHP 75), where I quickly found a connection to Roxas. I got off an hour before town at the junction to Port Barton (1 h, PHP 50), where I had to wait a good half-hour for the Roxas–Port Barton jeepney. For the last 22 km to Port Barton the jeepney took more than an hour and a half. Even in the dry season the road is in a terrible state – but it also stops sleepy Port Barton from turning into a tourist centre, because the potential is definitely there.
 
 The beach, in a crescent-shaped bay, is picturesque and good for swimming. Dozens of islands lie offshore and are said to be excellent for island hopping – something I couldn’t verify because there weren’t enough tourists in town to share a boat with (PHP 1,500 is a bit much for a solo traveller for one day on the islands).
@@ -137,6 +149,38 @@ Most of the time, though, I ate at Judy’s Restaurant, where the food was very 
 
 The rustic Jimbalaya sat in a great spot on the beach, a café where they sold home-baked European-style bread. Unfortunately the prices there – for both food and coffee – were wildly overpriced.
 
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/Palawan2009-0117.jpg" alt="Port Barton">
+    <em>Port Barton</em>
+  </figure>
+
+</div>
+
+## 9 March 2009
+
+The jeepney from Port Barton to Roxas charges tourists for 150 pesos for the 20-odd kilometres, which is a complete rip-off even given the dreadful road. Just as on the way in, I paid only 100 pesos, a fare I considered fair, and got away with it without any drama.
+
+The bus ride up to El Nido is notorious among travellers, and for good reason. Because we only boarded in Roxas, there was no space left in the rickety old bus for the people from Port Barton, so we spent the five-hour journey along dusty tracks in the blazing sun on the roof. We were lucky: the bus was carrying mattresses we could lie on. The ride is interesting in places, because the landscape here sometimes looks more like the African savannah than tropical Southeast Asia. A few kilometres before El Nido the famous karst landscape begins, and from the roof we had wonderful views.
+
+Accommodation in El Nido is mercilessly overpriced by Palawan standards; on the beach you can hardly find anything under 800 pesos, even though the standard isn’t any better than elsewhere. I didn’t give up and eventually found a sea-view room in a prime spot for 400 pesos at Ralfs Bar. The room itself was extremely basic, and in the ground-floor bathroom the shower water was pumped from a well, but the views were fantastic.
+
+El Nido itself is a typically Filipino small town in a dream setting, framed by high limestone cliffs with views out to the islands of the Bacuit Archipelago. Thanks to tourism there are a few pleasant cafés and beach restaurants, though prices are fairly high. Here a San Miguel costs from 50 pesos upwards, and a meal is about twice as expensive as in Puerto.
+
+Alternative is absolutely worth visiting for the view and the cosy open-air cubicles with seat cushions, by far the prettiest place in El Nido, with a creative menu. The views and the atmosphere are better than the food, though.
+
+El Nido Boutique Café is an institution, a large, modern establishment a row back from the beach. The food is average and overpriced, but thanks to free WiFi and beer happy hour, Boutique Café is still – unsurprisingly – the place that draws the most travellers. You can also book archipelago tours here. They’re 50 pesos more expensive than elsewhere, but the boats are the most comfortable and the lunch is the most generous.
+
+El Nido also has a very nice bar with live music: Balay Tubay, by far the best place for a night out in El Nido. When it’s full, the atmosphere is excellent. Unfortunately it’s often empty, even in high season, because El Nido attracts nowhere near as many tourists as you’d expect for such a famous destination. Last year all scheduled flights to El Nido were cancelled; charter flights are very expensive, and the overland-and-sea route is long and arduous.
+
+Of course, that has its advantages too. Compared with Halong Bay and especially Krabi–Phang Nga – landscapes the Bacuit Archipelago is often compared with – you don’t have to share the beauty of the islands with countless other tourists. Only the occasional Korean tour group, the Philippines’ one real tourist nuisance, can briefly disturb the idyll. Luckily they only visit a handful of the most popular sights.
+
+Day trips into the archipelago cost 500–700 pesos depending on the area visited, including lunch with grilled fish, and while my personal favourite was Tour A, it’s absolutely worth doing all four standard regions. The archipelago is simply stunning: hidden lagoons, white beaches, imposing cliffs and caves, and crystal-clear water.
+
+But the mainland around El Nido has plenty to offer too, and is still barely developed for tourism. Hiring a motorbike is expensive (PHP 700) and the roads are very poor, but a trip to the beach at Nacpan to the north is a highlight of any Philippines journey. This vast sweep of white sand stretching for kilometres is perhaps the most beautiful in the entire country. Wide, untouched and perfect for swimming, with only one authentic, friendly fishing village at the southern end, Nacpan Beach embodies the perfect tropical beach: a Boracay without tourists. Although Nacpan is just under 20 km from El Nido, the trip there isn’t straightforward because of the dreadful road, but it’s absolutely worth it.
+
+Only a few kilometres south of El Nido, not far from the highway, lies Corong-Corong, another dream beach. There are a few resorts here and, because it’s easy to reach, it attracts more tourists. The beach is narrow and not very long, but incredibly picturesque, clean and perfect for a lazy afternoon by the sea.
 
 <div class="photo-row">
 
@@ -252,29 +296,19 @@ The rustic Jimbalaya sat in a great spot on the beach, a café where they sold h
 
 </div>
 
-## 9 March 2009
-The jeepney from Port Barton to Roxas charges tourists for 150 pesos for the 20-odd kilometres, which is a complete rip-off even given the dreadful road. Just as on the way in, I paid only 100 pesos, a fare I considered fair, and got away with it without any drama.
+## 11 March 2009
 
-The bus ride up to El Nido is notorious among travellers, and for good reason. Because we only boarded in Roxas, there was no space left in the rickety old bus for the people from Port Barton, so we spent the five-hour journey along dusty tracks in the blazing sun on the roof. We were lucky: the bus was carrying mattresses we could lie on. The ride is interesting in places, because the landscape here sometimes looks more like the African savannah than tropical Southeast Asia. A few kilometres before El Nido the famous karst landscape begins, and from the roof we had wonderful views.
+Since by far the cheapest way back from Palawan to Manila was a Zest Air flight from Coron/Busuanga (PHP 388), I spent another two days in the Calamian Archipelago, the northernmost tip of Palawan province.
 
-Accommodation in El Nido is mercilessly overpriced by Palawan standards; on the beach you can hardly find anything under 800 pesos, even though the standard isn’t any better than elsewhere. I didn’t give up and eventually found a sea-view room in a prime spot for 400 pesos at Ralfs Bar. The room itself was extremely basic, and in the ground-floor bathroom the shower water was pumped from a well, but the views were fantastic.
+The boat trip from El Nido to Coron took seven hours and was very expensive (PHP 2,200), because it was a medium-sized bangka carrying tourists only. That said, it was a very pleasant crossing: there were only five of us on the boat, the sea was calm in perfect sunshine, and all the way you had views of the many islands of the archipelago – some little more than sparsely vegetated rocks, others genuinely beautiful with palm-lined beaches.
 
-El Nido itself is a typically Filipino small town in a dream setting, framed by high limestone cliffs with views out to the islands of the Bacuit Archipelago. Thanks to tourism there are a few pleasant cafés and beach restaurants, though prices are fairly high. Here a San Miguel costs from 50 pesos upwards, and a meal is about twice as expensive as in Puerto.
+Coron town itself, despite the flight connection to Manila, has the wonderful atmosphere of a place at the end of the world and is one of the more attractive little towns in the country, with very friendly locals and an authentic feel. Prices here are also very low. Coron would be well off most tourists’ radar if there weren’t numerous shipwrecks off the coast drawing a steadily growing community of divers. That’s also why this unspoilt, remote place has two surprisingly good expat-run restaurants: La Sirenetta, an Italian with perfectly decent pizzas, and Bistro Coron, which serves delicacies such as sashimi and mousse au chocolat.
 
-Alternative is absolutely worth visiting for the view and the cosy open-air cubicles with seat cushions, by far the prettiest place in El Nido, with a creative menu. The views and the atmosphere are better than the food, though.
+There are also a few pleasant, cheap travellers’ bars in town.
 
-El Nido Boutique Café is an institution, a large, modern establishment a row back from the beach. The food is average and overpriced, but thanks to free WiFi and beer happy hour, Boutique Café is still – unsurprisingly – the place that draws the most travellers. You can also book archipelago tours here. They’re 50 pesos more expensive than elsewhere, but the boats are the most comfortable and the lunch is the most generous.
+My room at Seabreeze – built on stilts over the water – cost me just 200 pesos. It didn’t have an en-suite, but did include countless mosquitoes in the room rate.
 
-El Nido also has a very nice bar with live music: Balay Tubay, by far the best place for a night out in El Nido. When it’s full, the atmosphere is excellent. Unfortunately it’s often empty, even in high season, because El Nido attracts nowhere near as many tourists as you’d expect for such a famous destination. Last year all scheduled flights to El Nido were cancelled; charter flights are very expensive, and the overland-and-sea route is long and arduous.
-
-Of course, that has its advantages too. Compared with Halong Bay and especially Krabi–Phang Nga – landscapes the Bacuit Archipelago is often compared with – you don’t have to share the beauty of the islands with countless other tourists. Only the occasional Korean tour group, the Philippines’ one real tourist nuisance, can briefly disturb the idyll. Luckily they only visit a handful of the most popular sights.
-
-Day trips into the archipelago cost 500–700 pesos depending on the area visited, including lunch with grilled fish, and while my personal favourite was Tour A, it’s absolutely worth doing all four standard regions. The archipelago is simply stunning: hidden lagoons, white beaches, imposing cliffs and caves, and crystal-clear water.
-
-But the mainland around El Nido has plenty to offer too, and is still barely developed for tourism. Hiring a motorbike is expensive (PHP 700) and the roads are very poor, but a trip to the beach at Nacpan to the north is a highlight of any Philippines journey. This vast sweep of white sand stretching for kilometres is perhaps the most beautiful in the entire country. Wide, untouched and perfect for swimming, with only one authentic, friendly fishing village at the southern end, Nacpan Beach embodies the perfect tropical beach: a Boracay without tourists. Although Nacpan is just under 20 km from El Nido, the trip there isn’t straightforward because of the dreadful road, but it’s absolutely worth it.
-
-Only a few kilometres south of El Nido, not far from the highway, lies Corong-Corong, another dream beach. There are a few resorts here and, because it’s easy to reach, it attracts more tourists. The beach is narrow and not very long, but incredibly picturesque, clean and perfect for a lazy afternoon by the sea.
-
+For non-divers, Coron offers the option of a day trip to Coron Island opposite, whose interior holds several crystal-clear freshwater lakes that are wonderful for swimming. The island also has magnificent lagoons, a picturesque rugged coastline and a few lovely white-sand beaches. Scenically, this tour is hardly less spectacular than the trips in the much better-known Bacuit Archipelago. The snorkelling, though, was considerably better, because between Coron Town and the island lies the Siete Pecados nature reserve, one of the better snorkelling areas in the country.
 
 <div class="photo-row">
 
@@ -295,23 +329,19 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
 
 </div>
 
-## 11 March 2009
-Since by far the cheapest way back from Palawan to Manila was a Zest Air flight from Coron/Busuanga (PHP 388), I spent another two days in the Calamian Archipelago, the northernmost tip of Palawan province.
-
-The boat trip from El Nido to Coron took seven hours and was very expensive (PHP 2,200), because it was a medium-sized bangka carrying tourists only. That said, it was a very pleasant crossing: there were only five of us on the boat, the sea was calm in perfect sunshine, and all the way you had views of the many islands of the archipelago – some little more than sparsely vegetated rocks, others genuinely beautiful with palm-lined beaches.
-
-Coron town itself, despite the flight connection to Manila, has the wonderful atmosphere of a place at the end of the world and is one of the more attractive little towns in the country, with very friendly locals and an authentic feel. Prices here are also very low. Coron would be well off most tourists’ radar if there weren’t numerous shipwrecks off the coast drawing a steadily growing community of divers. That’s also why this unspoilt, remote place has two surprisingly good expat-run restaurants: La Sirenetta, an Italian with perfectly decent pizzas, and Bistro Coron, which serves delicacies such as sashimi and mousse au chocolat.
-
-There are also a few pleasant, cheap travellers’ bars in town.
-
-My room at Seabreeze – built on stilts over the water – cost me just 200 pesos. It didn’t have an en-suite, but did include countless mosquitoes in the room rate.
-
-For non-divers, Coron offers the option of a day trip to Coron Island opposite, whose interior holds several crystal-clear freshwater lakes that are wonderful for swimming. The island also has magnificent lagoons, a picturesque rugged coastline and a few lovely white-sand beaches. Scenically, this tour is hardly less spectacular than the trips in the much better-known Bacuit Archipelago. The snorkelling, though, was considerably better, because between Coron Town and the island lies the Siete Pecados nature reserve, one of the better snorkelling areas in the country.
-
 ---
 
 29.06 – 03.08.2009
 
+## 4 July 2009
+
+I arrived in the evening on a flight from Clark to Kota Kinabalu airport and, for lack of a better option, took a taxi (20 RM with coupon) into the city centre, where I stayed right on Jalan Gaya, at North Borneo Cabin. A dorm bed cost 20 RM, breakfast included, and there was free Wi-Fi throughout the building.
+
+I spent the next few days in Sabah’s capital before my onward flight to Tawau. After Manila, KK was almost a culture shock: the city is clean, modern, unhurried, almost a little too sterile. KK has little in the way of interesting architecture, but the centre is pleasantly compact and easy to explore on foot. KK’s main attraction is its location, with the green chain of hills rising directly above the centre and the offshore islands of the Tunku Abdul Rahman National Park. It also has a large air-conditioned mall, a good selection of restaurants and a wonderful night market by the sea, where you can eat excellent Malay food for just a few ringgit — a blessing after the rather limited culinary options in the Philippines.
+
+What surprised me, though, was the large number of backpacker hostels and tourists in the city. Now that AirAsia has been flying cheaply to Borneo for several years, despite its remoteness, this corner of Asia is no longer a hidden gem. Borneo is also extremely popular with Asian tour groups, which unfortunately means that most attractions — especially in Sabah, but also in Sarawak — cater to well-heeled tour groups on short holidays, so prices are steep. Climbing Mt. Kinabalu now costs 1,000 RM, and boat trips and wildlife safaris along Borneo’s rivers can be serious budget-busters for long-term travellers.
+
+Oddly enough, diving courses in Semporna are among the cheapest in the world — which is why it was my next destination.
 
 <div class="photo-row">
 
@@ -332,15 +362,23 @@ For non-divers, Coron offers the option of a day trip to Coron Island opposite, 
 
 </div>
 
-## 4 July 2009
-I arrived in the evening on a flight from Clark to Kota Kinabalu airport and, for lack of a better option, took a taxi (20 RM with coupon) into the city centre, where I stayed right on Jalan Gaya, at North Borneo Cabin. A dorm bed cost 20 RM, breakfast included, and there was free Wi-Fi throughout the building.
+## 12 July 2009
 
-I spent the next few days in Sabah’s capital before my onward flight to Tawau. After Manila, KK was almost a culture shock: the city is clean, modern, unhurried, almost a little too sterile. KK has little in the way of interesting architecture, but the centre is pleasantly compact and easy to explore on foot. KK’s main attraction is its location, with the green chain of hills rising directly above the centre and the offshore islands of the Tunku Abdul Rahman National Park. It also has a large air-conditioned mall, a good selection of restaurants and a wonderful night market by the sea, where you can eat excellent Malay food for just a few ringgit — a blessing after the rather limited culinary options in the Philippines.
+For travellers in Malaysia, Semporna is “the end of the road”: the easternmost tip of Borneo, just a stone’s throw from the Philippine Sulu Islands. Sooner or later, any route takes you back to Kota Kinabalu — a bus journey of more than ten hours. So I was glad I could fly one leg very cheaply. Even though I booked only a few days in advance, the MAS flight from KK to Tawau cost just 79 RM, not much more than the bus.
 
-What surprised me, though, was the large number of backpacker hostels and tourists in the city. Now that AirAsia has been flying cheaply to Borneo for several years, despite its remoteness, this corner of Asia is no longer a hidden gem. Borneo is also extremely popular with Asian tour groups, which unfortunately means that most attractions — especially in Sabah, but also in Sarawak — cater to well-heeled tour groups on short holidays, so prices are steep. Climbing Mt. Kinabalu now costs 1,000 RM, and boat trips and wildlife safaris along Borneo’s rivers can be serious budget-busters for long-term travellers.
+At Tawau airport, I took the airport bus into town, where I then changed to the local minibus (20 RM) to Semporna, another two hours east of Tawau.
 
-Oddly enough, diving courses in Semporna are among the cheapest in the world — which is why it was my next destination.
+Semporna itself is not an attractive town. While much of the predominantly Muslim settlement is still characterised by traditional water villages, the rather grimy centre consists of run-down concrete blocks without any charm. The tourist centre on the waterfront is also just a collection of two-storey concrete blocks — though brightly painted and less dilapidated. Despite years of heavy tourist traffic and cultural differences, the locals in Semporna are very friendly, which genuinely surprised me, given the half-naked divers wandering the streets with beer cans in hand.
 
+The only reason to come to Semporna is the offshore islands, which not only offer some of the best diving and snorkelling sites in the world, but are also visually stunning above the waterline: a dream of coconut palms, white sandy beaches and crystal-clear water. Some of the islands are home to impoverished but picturesque settlements of sea nomads who still follow their traditional way of life despite tourism. You can stay overnight on only two islands: an expensive resort built on stilts over the water on Kapalai, and a handful of simpler dive resorts on Mabul, where you can get fairly cheap all-inclusive packages — but only if you dive. So, even with South Seas dream islands like Sibuan and Mantabuan, the area is effectively an exclusive destination for divers.
+
+If you spend the whole day out on the boat and on the islands, it’s no problem to stay cheaply in Semporna, since you only spend the nights there anyway, and there are some very decent, inexpensive restaurants and even something resembling nightlife.
+
+My dive shop, Scuba Junkie, is the main hub for budget travellers. It’s large and busy, but very well organised, and offers a cheap hostel opposite, with beds in an air-conditioned dorm for 20 RM including breakfast. In the same building is Ground Zero, Semporna’s nightlife hub, where at least twice a week there’s a wild party with a live band and drinks that are still reasonably priced by Malaysian standards.
+
+I did my Open Water (800 RM) and Advanced (750 RM) courses on the islands of Sibuan, Mantabuan and Mabul — all dream islands with great dive sites, where turtles and barracudas abound, along with most of the big-name reef fish. Sibuan also has a wonderful coral reef that’s still largely intact.
+
+The most famous island in the area, however, is Sipadan, which regularly features in top-ten lists of the world’s best dive sites. For several years now, diving around Sipadan has unfortunately been heavily regulated and very expensive due to mass tourism; waiting lists are long (weeks with some operators), and a day trip costs 500 RM — twice as much as on the other islands. So I had to skip Sipadan — with a heavy heart — but the diving on the other islands was also excellent.
 
 <div class="photo-row">
 
@@ -401,30 +439,8 @@ Oddly enough, diving courses in Semporna are among the cheapest in the world —
 
 </div>
 
-## 12 July 2009
-For travellers in Malaysia, Semporna is “the end of the road”: the easternmost tip of Borneo, just a stone’s throw from the Philippine Sulu Islands. Sooner or later, any route takes you back to Kota Kinabalu — a bus journey of more than ten hours. So I was glad I could fly one leg very cheaply. Even though I booked only a few days in advance, the MAS flight from KK to Tawau cost just 79 RM, not much more than the bus.
-
-At Tawau airport, I took the airport bus into town, where I then changed to the local minibus (20 RM) to Semporna, another two hours east of Tawau.
-
-Semporna itself is not an attractive town. While much of the predominantly Muslim settlement is still characterised by traditional water villages, the rather grimy centre consists of run-down concrete blocks without any charm. The tourist centre on the waterfront is also just a collection of two-storey concrete blocks — though brightly painted and less dilapidated. Despite years of heavy tourist traffic and cultural differences, the locals in Semporna are very friendly, which genuinely surprised me, given the half-naked divers wandering the streets with beer cans in hand.
-
-The only reason to come to Semporna is the offshore islands, which not only offer some of the best diving and snorkelling sites in the world, but are also visually stunning above the waterline: a dream of coconut palms, white sandy beaches and crystal-clear water. Some of the islands are home to impoverished but picturesque settlements of sea nomads who still follow their traditional way of life despite tourism. You can stay overnight on only two islands: an expensive resort built on stilts over the water on Kapalai, and a handful of simpler dive resorts on Mabul, where you can get fairly cheap all-inclusive packages — but only if you dive. So, even with South Seas dream islands like Sibuan and Mantabuan, the area is effectively an exclusive destination for divers.
-
-If you spend the whole day out on the boat and on the islands, it’s no problem to stay cheaply in Semporna, since you only spend the nights there anyway, and there are some very decent, inexpensive restaurants and even something resembling nightlife.
-
-My dive shop, Scuba Junkie, is the main hub for budget travellers. It’s large and busy, but very well organised, and offers a cheap hostel opposite, with beds in an air-conditioned dorm for 20 RM including breakfast. In the same building is Ground Zero, Semporna’s nightlife hub, where at least twice a week there’s a wild party with a live band and drinks that are still reasonably priced by Malaysian standards.
-
-I did my Open Water (800 RM) and Advanced (750 RM) courses on the islands of Sibuan, Mantabuan and Mabul — all dream islands with great dive sites, where turtles and barracudas abound, along with most of the big-name reef fish. Sibuan also has a wonderful coral reef that’s still largely intact.
-
-The most famous island in the area, however, is Sipadan, which regularly features in top-ten lists of the world’s best dive sites. For several years now, diving around Sipadan has unfortunately been heavily regulated and very expensive due to mass tourism; waiting lists are long (weeks with some operators), and a day trip costs 500 RM — twice as much as on the other islands. So I had to skip Sipadan — with a heavy heart — but the diving on the other islands was also excellent.
-
-
-<figure>
-  <img src="photos/Borneo2009-0070.jpg" alt="Sandakan">
-  <em>Sandakan</em>
-</figure>
-
 ## 15 July 2009
+
 The six-hour bus journey from Semporna to Sandakan (40 RM) offers little to see. It mostly passes through seemingly endless oil-palm plantations that have replaced the jungle across vast swathes of Borneo.
 
 Sandakan’s bus terminal is a little way out of town, but the centre is easy to reach by city bus.
@@ -439,14 +455,12 @@ The most beautiful area of Sandakan is in the hills, barely a 20-minute walk fro
 
 I skipped Sandakan’s most famous attraction, the Sepilok Orangutan Centre, after hearing mostly negative reports from other travellers: crowds of tourists, and scarcely an ape appearing at feeding time — not really worth the 40 RM.
 
-## 19 July 2009
-The six-hour bus ride (35 RM) from Sandakan to KK is a genuinely scenic ride, with occasional fantastic views of the imposing Mt. Kinabalu and the surrounding wild mountain landscape of the national park.
-
-KK’s long-distance bus terminal is inconveniently located 10 km outside the city centre. You can take a minibus from there to the local bus station, but even from there it’s still a 20-minute walk into the city centre.
-
-This time I stayed at Kinabalu Backpacker — not because I didn’t like North Borneo Cabin, but simply to try something new. This small guesthouse is extremely clean and well-maintained, with modern bathrooms and an air-conditioned dorm (25 RM), but it’s quiet rather than sociable.
-
 <div class="photo-row">
+
+  <figure>
+    <img src="photos/Borneo2009-0070.jpg" alt="Sandakan">
+    <em>Sandakan</em>
+  </figure>
 
   <figure>
     <img src="photos/Borneo2009-0072.jpg" alt="Sandakan">
@@ -462,6 +476,18 @@ This time I stayed at Kinabalu Backpacker — not because I didn’t like North 
     <img src="photos/Borneo2009-0077.jpg" alt="Sandakan - English Tea House">
     <em>Sandakan - English Tea House</em>
   </figure>
+
+</div>
+
+## 19 July 2009
+
+The six-hour bus ride (35 RM) from Sandakan to KK is a genuinely scenic ride, with occasional fantastic views of the imposing Mt. Kinabalu and the surrounding wild mountain landscape of the national park.
+
+KK’s long-distance bus terminal is inconveniently located 10 km outside the city centre. You can take a minibus from there to the local bus station, but even from there it’s still a 20-minute walk into the city centre.
+
+This time I stayed at Kinabalu Backpacker — not because I didn’t like North Borneo Cabin, but simply to try something new. This small guesthouse is extremely clean and well-maintained, with modern bathrooms and an air-conditioned dorm (25 RM), but it’s quiet rather than sociable.
+
+<div class="photo-row">
 
   <figure>
     <img src="photos/Borneo2009-0079.jpg" alt="Kota Kinabalu">
@@ -489,5 +515,3 @@ This time I stayed at Kinabalu Backpacker — not because I didn’t like North 
   </figure>
 
 </div>
-
-
