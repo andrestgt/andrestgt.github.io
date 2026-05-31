@@ -6,6 +6,11 @@ title: Ombra Caffe
 subtitle: Chang Phueak · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/ombra-caffe.png" alt="Ombra Caffe">
+  <figcaption>Ombra Caffe</figcaption>
+</figure>
+
 Excellent flat white for 75 Bt. This feels more like a co-working space than a café though, where people spend the hottest hours of the day behind a laptop. I'd probably feel a bit uncomfortable if I actually went there for a full meal.
 
 ## Ratings
@@ -16,7 +21,7 @@ Excellent flat white for 75 Bt. This feels more like a co-working space than a c
 | Service         | 7.5/10 |
 | Value for money | 7/10   |
 | Atmosphere      | 6.5/10 |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
