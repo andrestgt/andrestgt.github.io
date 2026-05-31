@@ -6,6 +6,11 @@ title: Eden Caffee Mae Rim
 subtitle: Mae Rim · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/Thai17-0214.jpg" alt="Eden Caffee Mae Rim">
+  <figcaption>Eden Caffee Mae Rim</figcaption>
+</figure>
+
 Surprisingly good coffees here for 50 Bt. Nice veranda with a view.
 
 ## Ratings
