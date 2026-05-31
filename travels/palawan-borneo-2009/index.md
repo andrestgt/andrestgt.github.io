@@ -488,13 +488,7 @@ I skipped Sandakan’s most famous attraction, the Sepilok Orangutan Centre, aft
 
 The six-hour bus ride (35 RM) from Sandakan to KK is a very scenic ride, with occasional fantastic views of the imposing Mt. Kinabalu and the surrounding wild mountain landscape of the national park.
 
-KK’s long-distance bus terminal is inconveniently located 10 km outside the city centre. You can take a minibus from there to the local bus station, but even from there it’s still a 20-minute walk into the city centre.
-
-This time I stayed at Kinabalu Backpacker — not because I didn’t like North Borneo Cabin, but simply to try something new. This small guesthouse is extremely clean and well-maintained, with modern bathrooms and an air-conditioned dorm (25 RM), but it’s quiet rather than sociable.
-
-<div class="photo-row">
-
-  <figure>
+<figure>
     <img src="photos/Borneo2009-0079.jpg" alt="Kota Kinabalu">
     <em>Kota Kinabalu</em>
   </figure>
@@ -504,12 +498,9 @@ This time I stayed at Kinabalu Backpacker — not because I didn’t like North 
     <em>Kota Kinabalu</em>
   </figure>
 
-  <figure>
-    <img src="photos/Borneo2009-0081.jpg" alt="Kota Kinabalu">
-    <em>Kota Kinabalu</em>
-  </figure>
+KK’s long-distance bus terminal is inconveniently located 10 km outside the city centre. You can take a minibus from there to the local bus station, but even from there it’s still a 20-minute walk into the city centre.
 
-  <figure>
+<figure>
     <img src="photos/Borneo2009-0083.jpg" alt="Kota Kinabalu">
     <em>Kota Kinabalu</em>
   </figure>
@@ -518,5 +509,15 @@ This time I stayed at Kinabalu Backpacker — not because I didn’t like North 
     <img src="photos/Borneo2009-0084.jpg" alt="Kota Kinabalu">
     <em>Kota Kinabalu</em>
   </figure>
+  
+This time I stayed at Kinabalu Backpacker — not because I didn’t like North Borneo Cabin, but simply to try something new. This small guesthouse is extremely clean and well-maintained, with modern bathrooms and an air-conditioned dorm (25 RM), but it’s quiet rather than sociable.
+
+
+
+  
+
+  
+
+  
 
 </div>
