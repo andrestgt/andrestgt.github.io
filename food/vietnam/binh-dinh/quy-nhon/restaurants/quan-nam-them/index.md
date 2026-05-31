@@ -33,13 +33,13 @@ Large and busy drinking place in the new part of town. It's nothing out of the o
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 7/10    |
-| Value for money | 7.5/10  |
+| Food            | 8/10   |
+| Service         | 7.5/10    |
+| Value for money | 8/10  |
 | Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Q657+5PG+Bùi+Hữu+Nghĩa+Nguyễn+Văn+Cừ+Quy+Nhơn+Bình+Định+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** ₫ 300-400k
