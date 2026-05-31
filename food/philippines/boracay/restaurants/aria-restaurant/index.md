@@ -19,12 +19,32 @@ Looks like a tourist trap but looks can be deceiving. This is one of the best pl
   <img src="/photos/philippines/boracay/aria-restaurant-1.jpg" alt="Aria Restaurant">
   <figcaption>Aria Restaurant</figcaption>
 </figure>
-<figure>
-  <img src="/photos/philippines/boracay/aria-restaurant-4.jpg" alt="Aria Restaurant">
-  <figcaption>Aria Restaurant</figcaption>
-</figure>
-
-<div
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/boracay/Visayas2011-0127.jpg" alt="Aria Restaurant" style="width: 100%;">
+      <figcaption>Aria Restaurant</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/boracay/Visayas2011-0101.jpg" alt="Aria Restaurant" style="width: 100%;">
+      <figcaption>Aria Restaurant</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/boracay/Visayas09-0694.jpg" alt="Aria Restaurant" style="width: 100%;">
+      <figcaption>Aria Restaurant</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/boracay/Visayas09-0731.jpg" alt="Aria Restaurant" style="width: 100%;">
+      <figcaption>Aria Restaurant</figcaption>
+    </figure>
+  </div>
+</div>
 
 ## Ratings
 
@@ -33,11 +53,12 @@ Looks like a tourist trap but looks can be deceiving. This is one of the best pl
 | Food            | 9/10   |
 | Service         | 8/10  |
 | Value for money | 7.5/10    |
-| Atmosphere      | 8/10  |
+| Atmosphere      | 8.5/10  |
 | Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Aria+Restaurant+DMall+Boracay)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** ₱ 800-1200
+💰 **Price level:** —₱ 800-1200
+
