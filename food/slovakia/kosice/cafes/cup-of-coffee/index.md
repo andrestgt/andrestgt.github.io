@@ -6,6 +6,10 @@ title: Cup of Coffee
 subtitle: Košice · Café
 ---
 
+<figure>
+  <img src="/photos/slovakia/kosice/RTCE17-0930.jpg" alt="Cup of Coffee">
+  <figcaption>Cup of Coffee</figcaption>
+</figure>
 
 Super nice little café with a slightly quirky atmosphere and excellent cappuccino for only 1,60€ a cup. Pretty much perfect.
 
@@ -13,10 +17,10 @@ Super nice little café with a slightly quirky atmosphere and excellent cappucci
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9.5/10 |
+| Coffee          | 9/10 |
 | Service         | 8.5/10 |
-| Value for money | 9.5/10 |
-| Atmosphere      | 9/10   |
+| Value for money | 9/10 |
+| Atmosphere      | 8.5/10   |
 | Overall         | 9/10   |
 
 ### Practical
