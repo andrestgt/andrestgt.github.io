@@ -6,20 +6,25 @@ title: Blugre Coffee
 subtitle: Abreeza Mall, Davao City · Café
 ---
 
+<figure>
+  <img src="/photos/philippines/davao/PH13-0233.jpg" alt="Blugre Coffee">
+  <figcaption>Blugre Coffee</figcaption>
+</figure>
+
 Blugre is a pleasant enough café, but putting cinnamon on a cappuccino remains an unforgivable offence in my book. The more interesting reason to come here is probably the novelty durian coffee, which is at least something a bit different.
 
 ## Ratings
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 7.5/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 7.5/10   |
+| Coffee          | 6.5/10   |
+| Service         | 7/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 6.5/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Blugre+Coffee+Abreeza+Mall+Davao+City)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** — moderate
