@@ -31,13 +31,6 @@ This most unremarkable eatery on one of Quy Nhon's least pleasant roads is not a
 
 ---
 
-## Quán Năm Thêm
-*Quy Nhơn*
-Large and busy drinking place in the new part of town.
-→ [Read the full review](/food/vietnam/binh-dinh/quy-nhon/street-food/quan-nam-them/)
-
----
-
 ## Quan Nhau 97
 *Quy Nhơn*
 In the mostly rather upmarket area around the lake this simple and always packed drinking place stands out for being sup
