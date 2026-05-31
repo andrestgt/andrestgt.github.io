@@ -6,6 +6,10 @@ title: Café Bachbeck Konditorei
 subtitle: Schiltach · Café, Konditorei
 ---
 
+<figure>
+  <img src="/photos/germany/baden-wuerttemberg/schwarzwald/Deu17-0316.jpg" alt="Café Bachbeck Konditorei">
+  <figcaption>Café Bachbeck Konditorei</figcaption>
+</figure>
 
 The nicest café in town, and quite inexpensive. But the coffees and cakes are rather mediocre
 
@@ -15,8 +19,8 @@ The nicest café in town, and quite inexpensive. But the coffees and cakes are r
 |-----------------|--------|
 | Coffee          | 5.5/10 |
 | Service         | 7/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 7/10   |
+| Value for money | 6.5/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 6.5/10 |
 
 ### Practical
