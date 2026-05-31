@@ -38,13 +38,6 @@ Wonderful hidden oasis in the hills of Dalat.
 
 ---
 
-## An CaFe Global
-*Đà Lạt*
-I would never support a café that doesn't give their customers actual mugs instead of disposable paper cups.
-→ [Read the full review](/food/vietnam/da-lat/cafes/an-cafe-global/)
-
----
-
 ## Homuda ホームだ
 *Đà Lạt*
 This Japanese-themed café is a bit of a tourist attraction in itself.
