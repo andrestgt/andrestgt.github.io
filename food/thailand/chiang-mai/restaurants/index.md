@@ -14,14 +14,6 @@ A wide selection of restaurants in Chiang Mai, from Michelin-recommended khao so
 
 ---
 
-## Ai Din Klin Krok
-*Fa Ham · Isaan*
-Authentic Isaan street food in comfortable surroundings...
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/ai-din-klin-krok/)
-
----
-
-
 ## Auf der Au Garden German Buffet
 *Wat Ket · German Buffet*
 An absolute nightmare for anyone trying to be on a diet...
