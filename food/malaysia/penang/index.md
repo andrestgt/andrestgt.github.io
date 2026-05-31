@@ -14,5 +14,8 @@ Reviews grouped by category.
 ## Restaurants
 - [Restaurants](/food/malaysia/penang/restaurants/)
 
+## Street Food
+- [Street Food](/food/malaysia/penang/street-food/)
+
 ## Cafés
 - [Cafés](/food/malaysia/penang/cafes/)
