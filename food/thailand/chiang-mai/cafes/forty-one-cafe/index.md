@@ -6,6 +6,11 @@ title: Forty One Cafe
 subtitle: Haiya · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/forty-one-cafe.png" alt="Forty One Cafe">
+  <figcaption>Forty One Cafe</figcaption>
+</figure>
+
 Forty One makes for a great pitstop with comfy seating, strong AC, WiFi, and inexpensive yet well-prepared espresso-based drinks. You won't find high-end blends here, but at 45 Bt for a latte, the quality is solid, good value and it is a nice place overall. Service is very friendly, too.
 
 ## Ratings
