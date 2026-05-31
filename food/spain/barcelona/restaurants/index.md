@@ -26,7 +26,7 @@ Barcelona · Restaurant
 Unapologetically aimed at tourists, but prices remain surprisingly reasonable, especially for wine. You can still get a decent bottle for under 10€.
 → [Read the full review](./la-fonda/)
 
-## LA VIOLETA
+## Rebelot 
 Barcelona · Natural Wine Bar
 Great little place in Barceloneta with good tapas, friendly service, and fair prices. The mussels are especially good.
 → [Read the full review](./la-violeta/)
