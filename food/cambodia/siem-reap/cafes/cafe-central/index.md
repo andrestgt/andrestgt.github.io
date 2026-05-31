@@ -7,6 +7,11 @@ title: Café Central
 subtitle: Street 08, Siem Reap · Café, Bar
 ---
 
+<figure>
+  <img src="/photos/cambodia/siem-reap/CamboThai09-0202.jpg" alt="Cafe Central">
+  <figcaption>Cafe Central</figcaption>
+</figure>
+
 Central used to be one of my favourite cafés in Siem Reap, but standards seem to have slipped noticeably. The 2.75$ cappuccino I ordered was watery and served absurdly hot, hot enough to burn my tongue. At those prices, basic barista training should really not be too much to ask.
 
 ## Ratings
