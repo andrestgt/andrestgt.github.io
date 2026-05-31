@@ -6,6 +6,11 @@ title: Wan Dee
 subtitle: Yan Nawa, Sathon · Noodles
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/Thai19-0364.jpg" alt="Wan Dee">
+  <figcaption>Wan Dee</figcaption>
+</figure>
+
 Wan Dee serves very good beef noodle soup with tender meat and rich flavourful broth. There’s a good choice of noodles available, prices are low, and although there’s no English menu, some English is spoken.
 
 ## Ratings
@@ -22,4 +27,4 @@ Wan Dee serves very good beef noodle soup with tender meat and rich flavourful b
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wan+Dee+Charoen+Krung+Rd+Sathon+Bangkok)
 🍽️ **Cuisine:** Noodles
-💰 **Price level:** ฿50–80
+💰 **Price level:** ฿100-150
