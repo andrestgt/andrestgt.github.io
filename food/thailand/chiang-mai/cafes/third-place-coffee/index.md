@@ -6,6 +6,12 @@ title: Third Place Coffee
 subtitle: Nimman · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/TH24-0226.jpg" alt="Third Place Coffee">
+  <figcaption>Third Place Coffee</figcaption>
+</figure>
+
+
 Great little coffee shop in the quiet part of Nimman. The flat white here is really excellent, possibly the best I had in Chiang Mai. The price is more Old Town than Nimman, only 75 Bt. Highly recommended.
 
 ## Ratings
@@ -16,7 +22,7 @@ Great little coffee shop in the quiet part of Nimman. The flat white here is rea
 | Service         | 7.5/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7/10   |
-| Overall         | 8/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
