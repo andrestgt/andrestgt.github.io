@@ -360,20 +360,14 @@ For non-divers, Coron offers the option of a day trip to Coron Island opposite, 
 
 I arrived in the evening on a flight from Clark to Kota Kinabalu airport and, for lack of a better option, took a taxi (20 RM with coupon) into the city centre, where I stayed right on Jalan Gaya, at North Borneo Cabin. A dorm bed cost 20 RM, breakfast included, and there was free Wi-Fi throughout the building.
 
-I spent the next few days in Sabah’s capital before my onward flight to Tawau. After Manila, KK was almost a culture shock: the city is clean, modern, unhurried, almost a little too sterile. KK has little in the way of interesting architecture, but the centre is pleasantly compact and easy to explore on foot. KK’s main attraction is its location, with the green chain of hills rising directly above the centre and the offshore islands of the Tunku Abdul Rahman National Park. It also has a large air-conditioned mall, a good selection of restaurants and a wonderful night market by the sea, where you can eat excellent Malay food for just a few ringgit — a blessing after the rather limited culinary options in the Philippines.
-
-What surprised me, though, was the large number of backpacker hostels and tourists in the city. Now that AirAsia has been flying cheaply to Borneo for several years, despite its remoteness, this corner of Asia is no longer a hidden gem. Borneo is also extremely popular with Asian tour groups, which unfortunately means that most attractions — especially in Sabah, but also in Sarawak — cater to well-heeled tour groups on short holidays, so prices are steep. Climbing Mt. Kinabalu now costs 1,000 RM, and boat trips and wildlife safaris along Borneo’s rivers can be serious budget-busters for long-term travellers.
-
-Oddly enough, diving courses in Semporna are among the cheapest in the world — which is why it was my next destination.
-
-<div class="photo-row">
-
-  <figure>
+<figure>
     <img src="photos/Borneo2009-0002.jpg" alt="Kota Kinabalu">
     <em>Kota Kinabalu</em>
   </figure>
+  
+I spent the next few days in Sabah’s capital before my onward flight to Tawau. After Manila, KK was almost a culture shock: the city is clean, modern, unhurried, almost a little too sterile. KK has little in the way of interesting architecture, but the centre is pleasantly compact and easy to explore on foot. KK’s main attraction is its location, with the green chain of hills rising directly above the centre and the offshore islands of the Tunku Abdul Rahman National Park. It also has a large air-conditioned mall, a good selection of restaurants and a wonderful night market by the sea, where you can eat excellent Malay food for just a few ringgit — a blessing after the rather limited culinary options in the Philippines.
 
-  <figure>
+ <figure>
     <img src="photos/Borneo2009-0003.jpg" alt="Kota Kinabalu">
     <em>Kota Kinabalu</em>
   </figure>
@@ -383,7 +377,13 @@ Oddly enough, diving courses in Semporna are among the cheapest in the world —
     <em>Kota Kinabalu</em>
   </figure>
 
-</div>
+What surprised me, though, was the large number of backpacker hostels and tourists in the city. Now that AirAsia has been flying cheaply to Borneo for several years, despite its remoteness, this corner of Asia is no longer a hidden gem. Borneo is also extremely popular with Asian tour groups, which unfortunately means that most attractions — especially in Sabah, but also in Sarawak — cater to well-heeled tour groups on short holidays, so prices are steep. Climbing Mt. Kinabalu now costs 1,000 RM, and boat trips and wildlife safaris along Borneo’s rivers can be serious budget-busters for long-term travellers.
+
+Oddly enough, diving courses in Semporna are among the cheapest in the world — which is why it was my next destination.
+
+
+
+ 
 
 ## 12 July 2009
 
