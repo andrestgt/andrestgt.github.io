@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: haus89 Samyan
+title: Day One
 subtitle: Bang Rak · Specialty Coffee
 ---
 
@@ -13,7 +13,7 @@ This chic, modern coffee shop gets a lot of things right. Well prepared tasty ca
 | Category        | Score  |
 | ---             | ---    |
 | Coffee          | 8/10   |
-| Service         | 7.5/10 |
+| Service         | 6.5/10 |
 | Value for money | 8/10   |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |

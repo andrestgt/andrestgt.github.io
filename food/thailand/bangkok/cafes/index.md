@@ -147,10 +147,10 @@ Not especially comfortable, but the air conditioning is fierce, the wifi fast, a
 
 ---
 
-## haus89 Samyan
+## Day One
 *Bang Rak · Specialty Coffee*
 A chic, modern coffee shop with well-prepared cappuccinos and good prices — slightly let down by the default plastic-cup service, though proper mugs are available on request.
-→ [Read the full review](/food/thailand/bangkok/cafes/haus89/)
+→ [Read the full review](/food/thailand/bangkok/cafes/day-one/)
 
 ---
 
