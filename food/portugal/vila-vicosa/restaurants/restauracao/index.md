@@ -6,18 +6,22 @@ title: Restauração
 subtitle: Vila Viçosa · Restaurant
 ---
 
+<figure>
+  <img src="/photos/portugal/vila-vicosa/Portugal17-0161.jpg" alt="Restauração">
+  <figcaption>Restauração</figcaption>
+</figure>
 
-Friendly place in a prime location. The house wine is good, which is hardly surprising in a wine-producing region like this.
+Friendly place in a prime location. We did not eat there, but the house wine is good, which is hardly surprising in a wine-producing region like this.
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6.5/10 |
-| Service         | 7/10   |
-| Value for money | 6.5/10 |
-| Atmosphere      | 7/10   |
-| Overall         | 7/10   |
+| Wine            | 7.5/10 |
+| Service         | 8/10   |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
