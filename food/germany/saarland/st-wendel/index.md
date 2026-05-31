@@ -9,4 +9,4 @@ subtitle: Essen & Trinken in St. Wendel
 
 # St. Wendel
 
-- [Cafés](/food/germany/saarland/st-wendel/cafes/)
+- [Bars & Pubs](/food/germany/saarland/st-wendel/bars-pubs/)
