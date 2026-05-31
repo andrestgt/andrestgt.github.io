@@ -6,6 +6,10 @@ title: Luftgarten
 subtitle: Tempelhof · Beer Garden
 ---
 
+<figure>
+  <img src="/photos/germany/berlin/berlin/RTCE17-0604.jpg" alt="Luftgarten">
+  <figcaption>Luftgarten</figcaption>
+</figure>
 
 Great beer garden on the old airfield, complete with loungers. It's expensive, though.
 
@@ -13,14 +17,13 @@ Great beer garden on the old airfield, complete with loungers. It's expensive, t
 
 | Category        | Score  |
 |-----------------|--------|
-| Drinks          | 7/10   |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
+| Service         | 6/10   |
+| Value for money | 7/10 |
 | Atmosphere      | 9/10   |
-| Overall         | 7.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tempelhofer+Park+Columbiadamm+12049+Berlin+Germany)
 📍 Tempelhofer Park, Columbiadamm, 12049 Berlin, Germany
-💰 **Price level:** —
+💰 **Price level:** —expensive
