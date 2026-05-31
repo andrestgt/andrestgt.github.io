@@ -311,11 +311,6 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
 
 
  
-
-  
-
- 
-
   <figure>
     <img src="photos/Palawan2009-0175.jpg" alt="El Nido">
     <em>El Nido</em>
@@ -333,15 +328,7 @@ The boat trip from El Nido to Coron took seven hours and was very expensive (PHP
 
 Coron town itself, despite the flight connection to Manila, has the wonderful atmosphere of a place at the end of the world and is one of the more attractive little towns in the country, with very friendly locals and an authentic feel. Prices here are also very low. Coron would be well off most tourists’ radar if there weren’t numerous shipwrecks off the coast drawing a steadily growing community of divers. That’s also why this unspoilt, remote place has two surprisingly good expat-run restaurants: La Sirenetta, an Italian with perfectly decent pizzas, and Bistro Coron, which serves delicacies such as sashimi and mousse au chocolat.
 
-There are also a few pleasant, cheap travellers’ bars in town.
-
-My room at Seabreeze – built on stilts over the water – cost me just 200 pesos. It didn’t have an en-suite, but did include countless mosquitoes in the room rate.
-
-For non-divers, Coron offers the option of a day trip to Coron Island opposite, whose interior holds several crystal-clear freshwater lakes that are wonderful for swimming. The island also has magnificent lagoons, a picturesque rugged coastline and a few lovely white-sand beaches. Scenically, this tour is hardly less spectacular than the trips in the much better-known Bacuit Archipelago. The snorkelling, though, was considerably better, because between Coron Town and the island lies the Siete Pecados nature reserve, one of the better snorkelling areas in the country.
-
-<div class="photo-row">
-
-  <figure>
+<figure>
     <img src="photos/Palawan2009-0308.jpg" alt="Coron Town">
     <em>Coron Town</em>
   </figure>
@@ -350,13 +337,20 @@ For non-divers, Coron offers the option of a day trip to Coron Island opposite, 
     <img src="photos/Palawan2009-0314.jpg" alt="Coron Town">
     <em>Coron Town</em>
   </figure>
+  
+There are also a few pleasant, cheap travellers’ bars in town.
+
+My room at Seabreeze – built on stilts over the water – cost me just 200 pesos. It didn’t have an en-suite, but did include countless mosquitoes in the room rate.
+
+For non-divers, Coron offers the option of a day trip to Coron Island opposite, whose interior holds several crystal-clear freshwater lakes that are wonderful for swimming. The island also has magnificent lagoons, a picturesque rugged coastline and a few lovely white-sand beaches. Scenically, this tour is hardly less spectacular than the trips in the much better-known Bacuit Archipelago. The snorkelling, though, was considerably better, because between Coron Town and the island lies the Siete Pecados nature reserve, one of the better snorkelling areas in the country.
+
+  
 
   <figure>
     <img src="photos/Palawan2009-0319.jpg" alt="Coron Island">
     <em>Coron Island</em>
   </figure>
 
-</div>
 
 ---
 
