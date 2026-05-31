@@ -217,13 +217,6 @@ Fresh sushi at 40–80 Bt per plate of two nigiri — outstanding value, fully a
 
 ---
 
-## The Junction
-*Bang Kachao / Phra Pradaeng · Italian, Pizza, Craft Beer*
-A great little pit stop near Bang Nam Phueng with excellent wood-fired Neapolitan pizza, sensible prices, and craft beer when available.
-→ [Read the full review](/food/thailand/bangkok/restaurants/the-junction/)
-
----
-
 ## Thipsamai Padthai Pratoopee
 *Phra Nakhon · Thai, Pad Thai*
 Bangkok's most famous pad thai — worth trying once, but not worth queuing more than two minutes. Nice, slightly sweet, with a couple of fresh king prawns.
