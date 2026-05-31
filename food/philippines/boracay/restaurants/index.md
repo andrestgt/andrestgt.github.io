@@ -18,10 +18,10 @@ One of the best places for Italian food in the Philippines — the pizzas are si
 
 ---
 
-## Kasbar Boracay
+## Kasbah Boracay
 *Station 1, White Beach · Moroccan*
 A pleasant surprise on White Beach — simple Moroccan food with proper tajines and a priceless view.
-→ [Read the full review](/food/philippines/boracay/restaurants/kasbar-boracay/)
+→ [Read the full review](/food/philippines/boracay/restaurants/kasbah-boracay/)
 
 ---
 
