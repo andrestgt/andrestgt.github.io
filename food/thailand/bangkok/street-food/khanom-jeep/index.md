@@ -6,6 +6,11 @@ title: Khanom Jeep Tom Hia Sek
 subtitle: Bangkok Yai · Street Food, Dumplings
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/Thai22-0077.jpg" alt="Khanom Jeep">
+  <figcaption>Khanom Jeep</figcaption>
+</figure>
+
 We bought these dumplings from a stall in Terminal 21 and they turned out to be genuinely excellent. Thin wrappers, tasty filling, and 100 Bt for ten pieces felt fair.
 ## Ratings
 
@@ -19,4 +24,4 @@ We bought these dumplings from a stall in Terminal 21 and they turned out to be 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Khanom+Jeep+Tom+Hia+Sek+Bangkok)
 🍽️ **Cuisine:** Street Food, Dumplings
-💰 **Price level:** ฿50–100
+💰 **Price level:** ฿100
