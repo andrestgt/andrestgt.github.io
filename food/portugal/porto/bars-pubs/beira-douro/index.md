@@ -6,6 +6,10 @@ title: Beira Douro
 subtitle: Vila Nova de Gaia · Bar
 ---
 
+<figure>
+  <img src="/photos/portugal/porto/Portugal17-0392.jpg" alt="Beira Douro">
+  <figcaption>Beira Douro</figcaption>
+</figure>
 
 Touristy bar-restaurant with excellent views over Porto. A litre jug of sangria costs 7€, and while it's not the best sangria you'll ever have, the combination of price and location makes it a perfectly acceptable stop.
 
@@ -15,8 +19,8 @@ Touristy bar-restaurant with excellent views over Porto. A litre jug of sangria 
 | ---             | ---    |
 | Drinks          | 7/10   |
 | Service         | 7/10   |
-| Value for money | 7/10   |
-| Atmosphere      | 9/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 8.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
