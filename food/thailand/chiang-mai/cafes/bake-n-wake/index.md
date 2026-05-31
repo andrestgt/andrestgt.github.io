@@ -6,6 +6,11 @@ title: Bake n Wake
 subtitle: Chang Khlan · Café
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/Screenshot%202026-05-31%20231425.png" alt="Bake n Wake">
+  <figcaption>Bake n Wake</figcaption>
+</figure>
+
 Bright air conditioned café with very good lattes for 65 Bt.
 
 ## Ratings
