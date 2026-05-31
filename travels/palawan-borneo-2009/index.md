@@ -19,7 +19,12 @@ A journey through Palawan in the Philippines and Malaysian Borneo, from Puerto P
 
 My Philippine Airlines flight from Cebu (PHP 1,105) was almost two hours late, so I didn’t reach the small airport in Puerto Princesa, Palawan’s provincial capital, until late afternoon. The airport isn’t far from the centre – it’s less than a ten-minute tricycle ride (PHP 10) to my guesthouse at the other end of town near the harbour.
 
-Banwa Art House had an atmosphere that felt very unusual for the Philippines. Set in a wooden house in one of the quieter, poorer residential neighbourhoods, Banwa is a genuinely pleasant guesthouse clearly aimed at the (on Palawan more pronounced than in the rest of the country) backpacker market, with simple rooms (PHP 350) and dorms (PHP 250) which, true to its name, have been designed and spruced up with an artistic touch. Spotless bathrooms and, especially, a brilliant, sociable veranda full of plants, carvings, wall hangings and paintings, plus excellent music (Velvet Underground, Jack Johnson) and WiFi, will make any backpacker’s make most backpackers happy. The only real gripe is the steep prices for drinks and especially the simple dishes they serve.
+Banwa Art House had an atmosphere that felt very unusual for the Philippines. Set in a wooden house in one of the quieter, poorer residential neighbourhoods, Banwa is a really pleasant guesthouse clearly aimed at the (on Palawan more pronounced than in the rest of the country) backpacker market, with simple rooms (PHP 350) and dorms (PHP 250) which, true to its name, have been designed and spruced up with an artistic touch. Spotless bathrooms and, especially, a brilliant, sociable veranda full of plants, carvings, wall hangings and paintings, plus excellent music (Velvet Underground, Jack Johnson) and WiFi, will make any backpacker’s make most backpackers happy. The only real gripe is the steep prices for drinks and especially the simple dishes they serve.
+
+ <figure>
+    <img src="photos/Palawan2009-0017.jpg" alt="Puerto Princesa">
+    <em>Puerto Princesa</em>
+  </figure>
 
 Puerto, as the locals call the town, is one of the coziest small provincial towns in the Philippines. Most of the tricycle traffic and the shops are confined to the area along the main boulevard; there are hardly any buildings taller than three storeys; and despite the lack of sights – and a few desperately poor slums which, from the plane, look like picturesque stilt villages on the water – the town has a certain charm of remoteness and simplicity that’s hard to resist. On top of that a pleasant seaside setting (a waterfront promenade is under construction) and, arguably, the best food scene of any provincial town in the Philippines, which I really hadn’t expected from this remote small town on what is supposedly the wildest, least developed of the country’s major islands. Apart from an obligatory café-bar, Itoy’s, with free WiFi, tasty carrot cake and an espresso machine, Puerto has several restaurants that are good, but – surprisingly – also very tastefully furnished, and hugely popular with better-off locals as well as expats and tourists.
 
@@ -35,6 +40,11 @@ Rather than heading straight for the main tourist spots in northern Palawan like
 
 The highway heading south is in reasonably passable condition for the first 60 km and sees little traffic. It passes through sparsely populated country; every so often you pass a simple fishing village on the coast. Between Aborlan (68 km) and Narra (92 km) – the only larger settlements in the region – the first attraction lies off the road at the foot of the central mountain range: Estrella Waterfall. To get there you have to pick your way along a 6 km rocky track from the highway. All the more surprising, then, was that the falls seem to be a very popular outing for locals, even for day trippers from Puerto Princesa. The place is well developed (entrance PHP 20), with stone huts, wooden benches and barbecue spots. When I arrived at midday, though, nothing was happening yet, and I had the main pool to myself – a welcome cooling-off. Estrella Falls aren’t particularly big, but they’re nicely set, and the water is pleasantly cool and very clear. Because some locals invited me for a coffee, I stayed longer than planned and only just made it to Quezon, my destination for the day, before dark. Narra to Quezon is only 54 km, but the road is partly dreadful, full of potholes and roadworks, and after the turn-off – where it heads over the hills towards Palawan’s west coast – mostly unpaved.
 
+ <figure>
+    <img src="photos/Palawan2009-0023.jpg" alt="Estrella Falls">
+    <em>Estrella Falls</em>
+  </figure>
+
 Quezon is a pleasant, quiet little town with the feel of a large fishing village. It sits on an attractive natural harbour dotted with offshore islands, and many of the town’s houses stand on stilts over the water. As the ‘tourist’ hub of southern Palawan, Quezon has a whole range of basic accommodation, though that evening I was probably the only Westerner in town.
 
 I spent the night just north of the centre at Villa Esperanza, which sounds far more luxurious than it was. The resort looks well kept and has a wonderful seafront location with lovely views over Quezon Bay, but the huts were very basic and run-down, and neither the shower nor the toilet flush worked; at 350 pesos it wasn’t expensive, though.
@@ -43,30 +53,19 @@ Unfortunately I couldn’t visit the area’s two main attractions – the archa
 
 After 8 km you can leave the motorbike at Tamerbong Bridge and take a pleasant half-hour walk along a jungle trail to the waterfalls of the same name, beautifully untouched in the middle of the forest. These falls are larger than Estrella Falls and spill into a very large turquoise pool that’s perfect for swimming. Opposite the falls stands a solitary hut currently being repaired; the plan is to rent out two simple rooms for people who value absolute peace and seclusion. From the balcony here I had another very fine view of the waterfall.
 
+ <figure>
+    <img src="photos/Palawan2009-0044.jpg" alt="Around Quezon - Tamerbong Falls">
+    <em>Around Quezon - Tamerbong Falls
+    </em>
+  </figure>
+
 Back at the bridge I followed the road for a few more kilometres until a turn-off led to Lasyap Beach – a stunning, lonely bay, its grey sand fringed by coconut palms. This is definitely one of the least developed regions of the Philippines, and as a tourist you’re still stare at you in disbelief.
 
 On the way back to Puerto I made a short stop at the hot springs of San Isidro (KM 112). The place is dusty and poorly maintained, but I had the pool, warm as bathwater, entirely to myself, and a quick dip felt great after the long, bumpy motorbike ride.
 
-If northern Palawan is even half as spectacular as people say, there’s an obvious reason why the south is so rarely visited: while this area certainly has its charms, the natural sights are rather second-rate. Waterfalls, caves and Robinson islets are found in the north as well, and for a solo traveller they’re far easier and cheaper to reach. Still, it was genuinely interesting to explore a region where very few people speak English and the occasional Western tourist rarely strays this way – and time, after all, is something I have plenty of.
+If northern Palawan is even half as spectacular as people say, there’s an obvious reason why the south is so rarely visited: while this area certainly has its charms, the natural sights are rather second-rate. Waterfalls, caves and Robinson islets are found in the north as well, and for a solo traveller they’re far easier and cheaper to reach. Still, it was genuinely interesting to explore a region where very few people speak English and the occasional Western tourist rarely strays this way – and time, after all, is something I have plenty o
 
-<div class="photo-row">
 
-  <figure>
-    <img src="photos/Palawan2009-0017.jpg" alt="Puerto Princesa">
-    <em>Puerto Princesa</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Palawan2009-0023.jpg" alt="Puerto Princesa">
-    <em>Puerto Princesa</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Palawan2009-0044.jpg" alt="Southern Palawan">
-    <em>Southern Palawan</em>
-  </figure>
-
-</div>
 
 ## 25 February 2009
 
@@ -74,11 +73,46 @@ My first stop north of Puerto was Sabang, which also happens to boast one of the
 
 Getting to Sabang, on Palawan’s west coast, is slow and laborious once you leave the well-built highway. The 80 km journey took almost three hours on a narrow road that’s only about two-thirds concrete and winds through dense jungle. The approach is spectacular: a tropical karst landscape with rice fields like you only find in a handful of places in Asia. Sabang itself is a friendly, simple fishing village on a beautiful bay framed by high mountains. To the east begins the national park, with deserted sandy beaches along a rugged, green coastline. Sabang’s own beach is picturesque, but very shallow and, because of algae, only partly suitable for longer swims, even though there’s heavy building work going on to make Sabang attractive for beach holidaymakers as well. A mid-range resort already exists and a second, which will take up almost half the beach, is under construction.
 
+<div class="photo-row">
+
+<figure>
+    <img src="photos/Palawan2009-0103.jpg" alt="Sabang">
+    <em>Sabang</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Palawan2009-0104.jpg" alt="Sabang">
+    <em>Sabang</em>
+  </figure>
+
+  <div class="photo-row">
+
 On arrival in Sabang I was immediately confronted with the less charming side of the backpacker trail. In other parts of the Philippines it’s almost unheard of for foreigners to be charged more for public transport, but in Palawan (as the guidebooks confirm) it seems to be standard practice. Instead of the local fare of 100 pesos, they genuinely wanted double, on the grounds that I was a foreigner with a backpack. Since they’d helped with the bag, I didn’t want to be petty and gave them 120 pesos, which seemed acceptable to everyone. It’s still annoying, because one reason the Philippines are such a pleasant place to travel is precisely that tourist rip-offs tend to be rarer here than on the Southeast Asian mainland.
 
 I took a bungalow in the cheapest resort in town, Blue Bamboo, at the ‘wrong’, rocky end of the beach, west of the centre. Here a simple, very rustic hut with a veranda and bathroom (bucket shower) cost a very reasonable 300 pesos. The owner was kind and the food was perfectly decent (especially the pasta). Electricity came from the generator from 17:00 to 22:00.
 
+<div class="photo-row">
+  
+  <figure>
+    <img src="photos/Palawan2009-0055.jpg" alt="Sabang - Blue Bamboo">
+    <em>Sabang - Blue Bamboo</em>
+  </figure>
+
+  <figure>
+    <img src="photos/Palawan2009-0057.jpg" alt="Sabang - Blue Bamboo">
+    <em>Sabang - Blue Bamboo</em>
+  </figure>
+  
+<div class="photo-row">
+
+  
 When it comes to food, Sabang isn’t exactly paradise, but luckily there’s fresh fish everywhere – grilled, raw or from the hot plate – and even Filipinos can’t go too far wrong with that. Oddly, the restaurants here, at least Blue Bamboo and the town’s only real beach place, the pleasant Tribal, serve mains only for two – in enormous portions; as a solo traveller you end up paying around 150 pesos for a dish, so it helps to arrive hungry. Still, the value for money is quite good.
+
+<figure>
+    <img src="photos/Palawan2009-0105.jpg" alt="Sabang - Tribal">
+    <em>Sabang - Tribal</em>
+  </figure>
+
 
 I spent the day in the national park. First you need a permit from the tourist office (PHP 200), which is more than worth it: it covers park entry, nicely laid-out walking trails, and the paddle-boat ride into the cave.
 
@@ -92,23 +126,15 @@ First, though, you have to walk about two kilometres along the beach and over a 
 
 From there it’s a steep flight of steps down to the cave entrance, through an impressive karst forest.
 
+
+
 Even if the Underground River didn’t exist, the idyllic bay with its white sand beach and turquoise lagoon would be a spectacular sight, and there would probably be far fewer tourists – so the place does lose a little atmosphere. Dozens of loud Filipinos in bright life jackets taking photos with abandon are an amusing sight, but they don’t quite fit the scene. On the other hand, despite the long waits, almost all of them stick to the jetty area, and on the beach you have peace and quiet. I like the idea that only a few paddle boats go into the cave at any one time, so you can enjoy the underground river in peace. It does mean long waits, but the area is so beautiful that you can happily spend a few hours here, and I wasn’t in a hurry. Although I’d arrived very early – early enough to explore the place before the big rush – I waited until midday, when things had quietened down again, before taking a boat into the cave.
 
 The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highlight. In places the river is surprisingly wide and the cave ceiling rises to 65 m. Plenty of bats and rock formations keep things interesting. The only pity is that you’re not allowed to swim either in the cave or in the lagoon – that would have been the perfect finale.
 
 <div class="photo-row">
 
-  <figure>
-    <img src="photos/Palawan2009-0055.jpg" alt="Sabang - Blue Bamboo">
-    <em>Sabang - Blue Bamboo</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Palawan2009-0057.jpg" alt="Sabang - Blue Bamboo">
-    <em>Sabang - Blue Bamboo</em>
-  </figure>
-
-  <figure>
+<figure>
     <img src="photos/Palawan2009-0081.jpg" alt="Sabang - Underground River">
     <em>Sabang - Underground River</em>
   </figure>
@@ -118,22 +144,10 @@ The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highl
     <em>Sabang - Underground River</em>
   </figure>
 
-  <figure>
-    <img src="photos/Palawan2009-0103.jpg" alt="Sabang">
-    <em>Sabang</em>
-  </figure>
+  <div class="photo-row">
 
-  <figure>
-    <img src="photos/Palawan2009-0104.jpg" alt="Sabang">
-    <em>Sabang</em>
-  </figure>
 
-  <figure>
-    <img src="photos/Palawan2009-0105.jpg" alt="Sabang - Tribal">
-    <em>Sabang - Tribal</em>
-  </figure>
 
-</div>
 
 ## 2 March 2009
 
@@ -481,7 +495,7 @@ I skipped Sandakan’s most famous attraction, the Sepilok Orangutan Centre, aft
 
 ## 19 July 2009
 
-The six-hour bus ride (35 RM) from Sandakan to KK is a genuinely scenic ride, with occasional fantastic views of the imposing Mt. Kinabalu and the surrounding wild mountain landscape of the national park.
+The six-hour bus ride (35 RM) from Sandakan to KK is a very scenic ride, with occasional fantastic views of the imposing Mt. Kinabalu and the surrounding wild mountain landscape of the national park.
 
 KK’s long-distance bus terminal is inconveniently located 10 km outside the city centre. You can take a minibus from there to the local bus station, but even from there it’s still a 20-minute walk into the city centre.
 
