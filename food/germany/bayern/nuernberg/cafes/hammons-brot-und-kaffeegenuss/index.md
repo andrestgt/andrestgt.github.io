@@ -6,6 +6,10 @@ title: Hammons Brot-und Kaffeegenuß
 subtitle: Neuendettelsau · Bakery Café
 ---
 
+<figure>
+  <img src="/photos/germany/bayern/nuernberg/RTCE17-0185.jpg" alt="Hammons Brot und Kaffeegenuss">
+  <figcaption>Hammons Brot und Kaffeegenuss</figcaption>
+</figure>
 
 Excellent bakery café with a spacious, genuinely comfortable interior that makes it easy to linger longer than planned. The cappuccino is very good, and the Frankenstolz breakfast is extraordinarily generous, easily enough to feed two or even three hungry people.
 
@@ -13,10 +17,10 @@ Excellent bakery café with a spacious, genuinely comfortable interior that make
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 8.5/10 |
+| Food and Coffee | 8.5/10 |
 | Service         | 8/10   |
 | Value for money | 8.5/10 |
-| Atmosphere      | 8.5/10 |
+| Atmosphere      | 7.5/10 |
 | Overall         | 8.5/10 |
 
 ### Practical
