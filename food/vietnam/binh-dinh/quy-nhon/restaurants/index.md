@@ -10,10 +10,10 @@ subtitle: Restaurants in Quy Nhơn
 
 # Restaurants
 
-## Quy nhơn Country club
+## Quán Năm Thêm
 *Quy Nhơn*
-To call this place quirky would probably be an understatement.
-→ [Read the full review](/food/vietnam/binh-dinh/quy-nhon/restaurants/quy-nhon-country-club/)
+Large and busy drinking place in the new part of town.
+→ [Read the full review](/food/vietnam/binh-dinh/quy-nhon/restaurants/quan-nam-them/)
 
 ---
 
