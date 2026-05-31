@@ -19,4 +19,4 @@ Less busy than Starbucks but the cappuccino is horrible. Avoid.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=BlueCup+Coffee+Suvarnabhumi+Airport+Bangkok+Thailand)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
