@@ -395,37 +395,12 @@ Semporna itself is not an attractive town. While much of the predominantly Musli
 
 The only reason to come to Semporna is the offshore islands, which not only offer some of the best diving and snorkelling sites in the world, but are also visually stunning above the waterline: a dream of coconut palms, white sandy beaches and crystal-clear water. Some of the islands are home to impoverished but picturesque settlements of sea nomads who still follow their traditional way of life despite tourism. You can stay overnight on only two islands: an expensive resort built on stilts over the water on Kapalai, and a handful of simpler dive resorts on Mabul, where you can get fairly cheap all-inclusive packages — but only if you dive. So, even with South Seas dream islands like Sibuan and Mantabuan, the area is effectively an exclusive destination for divers.
 
-If you spend the whole day out on the boat and on the islands, it’s no problem to stay cheaply in Semporna, since you only spend the nights there anyway, and there are some very decent, inexpensive restaurants and even something resembling nightlife.
-
-My dive shop, Scuba Junkie, is the main hub for budget travellers. It’s large and busy, but very well organised, and offers a cheap hostel opposite, with beds in an air-conditioned dorm for 20 RM including breakfast. In the same building is Ground Zero, Semporna’s nightlife hub, where at least twice a week there’s a wild party with a live band and drinks that are still reasonably priced by Malaysian standards.
-
-I did my Open Water (800 RM) and Advanced (750 RM) courses on the islands of Sibuan, Mantabuan and Mabul — all dream islands with great dive sites, where turtles and barracudas abound, along with most of the big-name reef fish. Sibuan also has a wonderful coral reef that’s still largely intact.
-
-The most famous island in the area, however, is Sipadan, which regularly features in top-ten lists of the world’s best dive sites. For several years now, diving around Sipadan has unfortunately been heavily regulated and very expensive due to mass tourism; waiting lists are long (weeks with some operators), and a day trip costs 500 RM — twice as much as on the other islands. So I had to skip Sipadan — with a heavy heart — but the diving on the other islands was also excellent.
-
-<div class="photo-row">
-
   <figure>
-    <img src="photos/Borneo2009-0038.jpg" alt="Mabul">
+    <img src="photos/Borneo2009-0049.jpg" alt="Mabul">
     <em>Mabul</em>
   </figure>
 
-  <figure>
-    <img src="photos/Borneo2009-0039.jpg" alt="Mabul">
-    <em>Mabul</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Borneo2009-0040.jpg" alt="Mabul">
-    <em>Mabul</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Borneo2009-0041.jpg" alt="Mabul">
-    <em>Mabul</em>
-  </figure>
-
-  <figure>
+ <figure>
     <img src="photos/Borneo2009-0042.jpg" alt="Mabul">
     <em>Mabul</em>
   </figure>
@@ -455,10 +430,18 @@ The most famous island in the area, however, is Sipadan, which regularly feature
     <em>Mabul</em>
   </figure>
 
-  <figure>
-    <img src="photos/Borneo2009-0049.jpg" alt="Mabul">
-    <em>Mabul</em>
-  </figure>
+If you spend the whole day out on the boat and on the islands, it’s no problem to stay cheaply in Semporna, since you only spend the nights there anyway, and there are some very decent, inexpensive restaurants and even something resembling nightlife.
+
+My dive shop, Scuba Junkie, is the main hub for budget travellers. It’s large and busy, but very well organised, and offers a cheap hostel opposite, with beds in an air-conditioned dorm for 20 RM including breakfast. In the same building is Ground Zero, Semporna’s nightlife hub, where at least twice a week there’s a wild party with a live band and drinks that are still reasonably priced by Malaysian standards.
+
+I did my Open Water (800 RM) and Advanced (750 RM) courses on the islands of Sibuan, Mantabuan and Mabul — all dream islands with great dive sites, where turtles and barracudas abound, along with most of the big-name reef fish. Sibuan also has a wonderful coral reef that’s still largely intact.
+
+The most famous island in the area, however, is Sipadan, which regularly features in top-ten lists of the world’s best dive sites. For several years now, diving around Sipadan has unfortunately been heavily regulated and very expensive due to mass tourism; waiting lists are long (weeks with some operators), and a day trip costs 500 RM — twice as much as on the other islands. So I had to skip Sipadan — with a heavy heart — but the diving on the other islands was also excellent.
+
+
+ 
+
+
 
 </div>
 
@@ -470,17 +453,7 @@ Sandakan’s bus terminal is a little way out of town, but the centre is easy to
 
 Sandakan is feels like a smaller Kota Kinabalu: green hills in the background, the South China Sea with offshore islands in the foreground, and a compact city centre of block-like concrete buildings in between. There isn’t much here that’s particularly exciting right now, but it’s not unattractive for a short stopover.
 
-A large, modern shopping and entertainment complex is currently being built on the waterfront and should improve the cityscape in the future. This “Harbour Complex” already has a few nice veranda restaurants and two fairly new hostels.
-
-I stayed at Sandakan Backpackers for 25 RM in a well-kept, air-conditioned dorm. The hostel’s common lounge is pleasantly furnished, and the bathrooms are clean.
-
-The most beautiful area of Sandakan is in the hills, barely a 20-minute walk from the centre. It’s an exclusive residential district with a few colonial-era bungalows and fine views over the city. Up here there’s a lovely English tea house with a large garden — a delightful place for a small afternoon snack. As one might expect in an English tea shop, the cappuccino isn’t particularly good — but the cheesecake is generous and tasty.
-
-I skipped Sandakan’s most famous attraction, the Sepilok Orangutan Centre, after hearing mostly negative reports from other travellers: crowds of tourists, and scarcely an ape appearing at feeding time — not really worth the 40 RM.
-
-<div class="photo-row">
-
-  <figure>
+ <figure>
     <img src="photos/Borneo2009-0070.jpg" alt="Sandakan">
     <em>Sandakan</em>
   </figure>
@@ -489,6 +462,12 @@ I skipped Sandakan’s most famous attraction, the Sepilok Orangutan Centre, aft
     <img src="photos/Borneo2009-0072.jpg" alt="Sandakan">
     <em>Sandakan</em>
   </figure>
+
+A large, modern shopping and entertainment complex is currently being built on the waterfront and should improve the cityscape in the future. This “Harbour Complex” already has a few nice veranda restaurants and two fairly new hostels.
+
+I stayed at Sandakan Backpackers for 25 RM in a well-kept, air-conditioned dorm. The hostel’s common lounge is pleasantly furnished, and the bathrooms are clean.
+
+The most beautiful area of Sandakan is in the hills, barely a 20-minute walk from the centre. It’s an exclusive residential district with a few colonial-era bungalows and fine views over the city. Up here there’s a lovely English tea house with a large garden — a delightful place for a small afternoon snack. As one might expect in an English tea shop, the cappuccino isn’t particularly good — but the cheesecake is generous and tasty.
 
   <figure>
     <img src="photos/Borneo2009-0075.jpg" alt="Sandakan - English Tea House">
@@ -499,8 +478,11 @@ I skipped Sandakan’s most famous attraction, the Sepilok Orangutan Centre, aft
     <img src="photos/Borneo2009-0077.jpg" alt="Sandakan - English Tea House">
     <em>Sandakan - English Tea House</em>
   </figure>
+  
+I skipped Sandakan’s most famous attraction, the Sepilok Orangutan Centre, after hearing mostly negative reports from other travellers: crowds of tourists, and scarcely an ape appearing at feeding time — not really worth the 40 RM.
 
-</div>
+
+
 
 ## 19 July 2009
 
