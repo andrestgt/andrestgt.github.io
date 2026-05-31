@@ -59,10 +59,10 @@ This simple rooftop bar offers million-dollar views in a relaxed, local atmosphe
 
 ---
 
-## DAM's Cocktail Bar
+## The D
 *Ho Chi Minh City*
 The D is a pretty standard Saigon bar which stands out for its loooong happy hours until 8.30 pm where glasses of craft 
-→ [Read the full review](/food/vietnam/ho-chi-minh-city/bars-pubs/dams-cocktail-bar/)
+→ [Read the full review](/food/vietnam/ho-chi-minh-city/bars-pubs/the-d/)
 
 ---
 

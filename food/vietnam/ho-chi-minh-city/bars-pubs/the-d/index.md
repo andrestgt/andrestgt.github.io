@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: DAM's Cocktail Bar
+title: The D
 subtitle: Bến Nghé · Cocktail Bar
 ---
 The D is a pretty standard Saigon bar which stands out for its loooong happy hours until 8.30 pm where glasses of craft beers start at 59k only. They have quite a good selection of craft beers on tap including a Belgo Cherry which was not even available at the Belgo brewery itself. Friendly service and as central as it gets
