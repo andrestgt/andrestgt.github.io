@@ -6,6 +6,11 @@ title: Gravity Café & Bistro
 subtitle: Si Phum, Old Town · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/gravity-cafe.png" alt="Gravity Cafe">
+  <figcaption>Gravity Cafe</figcaption>
+</figure>
+
 If Stories at Tapae Gate is too crowded, Gravity is a quieter alternative with the same menu and the same excellent coffee quality at very reasonable prices. They serve the best flat white in Chiang Mai in its price range (65 Bt).
 
 ## Ratings
