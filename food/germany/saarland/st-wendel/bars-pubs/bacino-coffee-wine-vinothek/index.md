@@ -6,6 +6,10 @@ title: Bacino Coffee Wine Vinothek
 subtitle: St. Wendel · Wine Bar, Café
 ---
 
+<figure>
+  <img src="/photos/germany/saarland/st-wendel/CT26-0027.jpg" alt="Bacino Coffee Wine Vinothek">
+  <figcaption>Bacino Coffee Wine Vinothek</figcaption>
+</figure>
 
 A pleasant wine bar in the old town of St. Wendel with very friendly and attentive service. The atmosphere is agreeable and relaxed, well suited for an evening in a quiet setting. The unusually large selection of wines by the glass particularly stands out. Overall a solid spot, definitely worth recommending if you're around the old town and feel like a glass of wine or a draught beer.
 
@@ -13,8 +17,7 @@ A pleasant wine bar in the old town of St. Wendel with very friendly and attenti
 
 | Category        | Score  |
 |-----------------|--------|
-| Coffee          | 7/10   |
-| Service         | 9/10   |
+| Service         | 85/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
