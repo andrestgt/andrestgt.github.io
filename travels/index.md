@@ -29,9 +29,9 @@ Manila &middot; North Luzon &middot; Bicol &middot; Visayas &middot; Negros &mid
 Rangoon &middot; Golden Rock &middot; Moulmein &middot; Naypyidaw &middot; Inle Lake &middot; Bagan
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/burma-2008/)
 
-## Cycling Southeast Asia (2008)
-Thailand &middot; Laos &middot; China &middot; Vietnam
-&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-southeast-asia-2008/)
+## Cycling Indochina & Yunnan (2008)
+Thailand &middot; Laos &middot; Yunnan &middot; Vietnam
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cycling-indochina-yunnan-2008/)
 
 ## Indonesia (2008)
 Sumatra &middot; Java &middot; Bali
