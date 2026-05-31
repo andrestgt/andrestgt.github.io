@@ -6,6 +6,11 @@ title: Roti Pa Dae
 subtitle: Chang Moi · Street Food
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-mai/TH24-0133.jpg" alt="Roti Pa Dae">
+  <figcaption>Roti Pa Dae</figcaption>
+</figure>
+
 Anyone familiar with roti or banana pancakes knows that in most cases they're very unhealthy and seriously delicious. I don't eat them often but I don't think I've ever had a bad one. And Pa Day's rotis are indeed very good, with perfect texture and the right balance in the filling.
 
 I do think it makes a difference that they're fried in coconut oil, but the difference is not so great that I'd wait more than 10 minutes to get a pancake there.
@@ -13,6 +18,11 @@ I do think it makes a difference that they're fried in coconut oil, but the diff
 Luckily I chanced upon the place when it wasn't super busy and I can't write anything bad about it.
 
 It's cheap (cheaper than in Bangkok and similar to most in Chiang Mai) and tasty.
+
+<figure>
+  <img src="/photos/thailand/chiang-mai/TH24-0134.jpg" alt="Roti Pa Dae">
+  <figcaption>Roti Pa Dae</figcaption>
+</figure>
 
 ## Ratings
 
