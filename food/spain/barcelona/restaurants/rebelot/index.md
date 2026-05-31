@@ -6,8 +6,27 @@ title: Rebelot
 subtitle: Barcelona · Natural Wine Bar
 ---
 
+<figure>
+  <img src="/photos/spain/barcelona/Barcelona17-0087.jpg" alt="Rebelot">
+  <figcaption>Rebelot</figcaption>
+</figure>
 
 Great little place in Barceloneta with good tapas, friendly service, and fair prices. The mussels are especially good. Sangria is tasty as well, although around 5€ a glass.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/spain/barcelona/Barcelona17-0089.jpg" alt="Rebelot" style="width: 100%;">
+      <figcaption>Rebelot</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/spain/barcelona/Barcelona17-0091.jpg" alt="Rebelot" style="width: 100%;">
+      <figcaption>Rebelot</figcaption>
+    </figure>
+  </div>
+</div>
 
 ## Ratings
 
