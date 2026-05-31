@@ -1,4 +1,3 @@
----
 layout: default
 section: food
 review: true
@@ -7,22 +6,16 @@ subtitle: Sungai Dua, Penang · Chinese, Dim Sum
 ---
 
 <figure>
-  <img src="/photos/malaysia/penang/max-cafe-1.jpg" alt="Max Cafe">
+  <img src="/photos/malaysia/penang/Malaysia15-0323.jpg" alt="Max Cafe">
   <figcaption>Max Cafe</figcaption>
 </figure>
 
 The Thai duck appetiser is particularly good here, and while the dim sum may not look especially refined, they taste excellent and remain very reasonably priced.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/malaysia/penang/max-cafe-2.jpg" alt="Max Cafe">
+  <img src="/photos/malaysia/penang/Malaysia15-0324.jpg" alt="Max Cafe">
   <figcaption>Max Cafe</figcaption>
 </figure>
-<figure>
-  <img src="/photos/malaysia/penang/max-cafe-3.jpg" alt="Max Cafe">
-  <figcaption>Max Cafe</figcaption>
-</figure>
-</div>
 
 ## Ratings
 
@@ -38,4 +31,4 @@ The Thai duck appetiser is particularly good here, and while the dim sum may not
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Max+Cafe+Penang+Malaysia)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** RM 25-40
+💰 **Price level:** RM  35-50
