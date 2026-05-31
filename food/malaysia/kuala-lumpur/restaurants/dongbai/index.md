@@ -54,4 +54,4 @@ Cute little family-run restaurant specialising in handmade noodles, dumplings an
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dongbai+Chinese+Restaurant+Kuala+Lumpur+Malaysia)
 🍽️ **Cuisine:** Chinese, Northeastern
-💰 **Price level:** —
+💰 **Price level:** —RM 40-50
