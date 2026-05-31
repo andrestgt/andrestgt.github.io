@@ -6,6 +6,11 @@ title: Day One
 subtitle: Bang Rak · Specialty Coffee
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/Thai22-0029.jpg" alt="Day One">
+  <figcaption>Day One</figcaption>
+</figure>
+
 This chic, modern coffee shop gets a lot of things right. Well prepared tasty cappuccinos, incredibly efficient AC, good prices (90 Bt) but they also have the horrible tendency of so many coffee shops in Bangkok to use plastic or paper cups even for in-house consumption. At least they will use proper mugs upon request.
 
 ## Ratings
