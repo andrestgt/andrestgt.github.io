@@ -17,14 +17,15 @@ A long-running Malate institution. This open-air bar never closes, the kitchen o
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 7/10    |
+| Bar food        | 7.5/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10    |
-| Atmosphere      | 7.5/10  |
+| Value for money | 9/10    |
+| Atmosphere      | 8.5/10  |
 | Overall         | 8.5/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Erras+Bar+Adriatico+St+Malate+Manila)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** inexpensive
+
