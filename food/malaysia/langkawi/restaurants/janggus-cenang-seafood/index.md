@@ -12,9 +12,9 @@ A very inviting place jam-packed with Malaysians. I chose a grouper that had jus
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 8.5/10   |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -22,4 +22,4 @@ A very inviting place jam-packed with Malaysians. I chose a grouper that had jus
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Janggus+Cenang+Seafood+Kampung+Lubok+Buaya+Langkawi+Malaysia)
 🍽️ **Cuisine:** Seafood, Malaysian
-💰 **Price level:** —
+💰 **Price level:** RM 60
