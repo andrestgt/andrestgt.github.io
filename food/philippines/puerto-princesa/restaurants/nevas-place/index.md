@@ -13,6 +13,21 @@ subtitle: Taft St, Puerto Princesa · Filipino, Pizza
 
 Anyone familiar with Neva's in Dumaguete will recognise the concept. The pizza here is really good and very competitively priced. One of the reasons for this is their "Kuripot" pizza, which uses synthetic Filipino cheese instead of real mozzarella — while this might sound strange, it's actually very tasty. Neva's in Puerto Princesa is even nicer than the one in Dumaguete, with a beautiful and peaceful garden setting.
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/puerto-princesa/SEA25-0181.jpg" alt="Neva's Place" style="width: 100%;">
+      <figcaption>Neva's Place</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/puerto-princesa/SEA25-0182.jpg" alt="Neva's Place" style="width: 100%;">
+      <figcaption>Neva's Place</figcaption>
+    </figure>
+  </div>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
