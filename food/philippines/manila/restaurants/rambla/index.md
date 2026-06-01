@@ -56,8 +56,8 @@ Stylish and rather upscale Rockwell restaurant serving creative food, affordable
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10    |
-| Service         | 7.5/10  |
-| Value for money | 7.5/10    |
+| Service         | 8.5/10  |
+| Value for money | 8/10    |
 | Atmosphere      | 8.5/10  |
 | Overall         | 8.5/10    |
 
@@ -65,4 +65,4 @@ Stylish and rather upscale Rockwell restaurant serving creative food, affordable
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rambla+Joya+Tower+Plaza+Dr+Rockwell+Makati)
 🍽️ **Cuisine:** Spanish
-💰 **Price level:** —
+💰 **Price level:**  ₱1000-1500
