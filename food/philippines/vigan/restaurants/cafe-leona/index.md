@@ -40,13 +40,13 @@ There is good food in the Philippines and Cafe Leona, which has been around for 
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10    |
-| Service         | 7.5/10  |
+| Service         | 8.5/10  |
 | Value for money | 8.5/10    |
-| Atmosphere      | 8.5/10  |
+| Atmosphere      | 9/10  |
 | Overall         | 8.5/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cafe+Leona+Crisologo+St+Vigan+City+Ilocos+Sur)
 🍽️ **Cuisine:** Filipino, International
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
