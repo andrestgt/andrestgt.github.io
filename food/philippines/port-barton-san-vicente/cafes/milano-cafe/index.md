@@ -17,14 +17,14 @@ Very good Italian coffee in a modern, fan-cooled setting. The cappuccino is well
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
+| Coffee          | 8/10   |
 | Service         | 7/10    |
-| Value for money | 5.5/10  |
+| Value for money | 7.5/10  |
 | Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Milano+Cafe+San+Vicente+Palawan)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
