@@ -19,7 +19,7 @@ Finally a place on Siquijor serving proper pizza. Good ingredients, fair prices 
 | ---             | ---    |
 | Food            | 8/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
+| Value for money | 8/10  |
 | Atmosphere      | 7.5/10  |
 | Overall         | 8/10    |
 
@@ -27,4 +27,4 @@ Finally a place on Siquijor serving proper pizza. Good ingredients, fair prices 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Little+Molmol+Pizza+Larena+Siquijor)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** —
+💰 **Price level:** ₱500
