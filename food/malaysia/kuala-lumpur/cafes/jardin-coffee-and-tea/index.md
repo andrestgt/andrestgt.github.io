@@ -6,7 +6,7 @@ title: Jardin Coffee & Tea
 subtitle: Berjaya Times Square, KL · Café
 ---
 
-A very decent café stop inside Times Square with fast WiFi, power sockets and surprisingly good cappuccino for under 12 RM.
+A very decent café inside Times Square with fast WiFi, power sockets and surprisingly good cappuccino for under 12 RM.
 
 ## Ratings
 
