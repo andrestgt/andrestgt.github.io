@@ -11,7 +11,7 @@ subtitle: Malate, Manila · Korean
   <figcaption>Myung Ga</figcaption>
 </figure>
 
-Very popular traditional Korean restaurant with a simple, no-frills atmosphere and very fair prices. The variety of complimentary side dishes is impressive and the food is consistently solid. Hard to go wrong here.
+Very popular traditional Korean restaurant with a simple, no-frills atmosphere and very fair prices. The variety of complimentary side dishes is impressive and the food is tasty. Hard to go wrong here.
 
 ## Ratings
 
@@ -27,4 +27,4 @@ Very popular traditional Korean restaurant with a simple, no-frills atmosphere a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Myung+Ga+Korean+Restaurant+Malate+Manila)
 🍽️ **Cuisine:** Korean
-💰 **Price level:** —
+💰 **Price level:**  ₱700-900
