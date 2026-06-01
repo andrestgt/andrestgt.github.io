@@ -6,7 +6,7 @@ title: Nosh&Co
 subtitle: Jalan Ampang, KL · Café
 ---
 
-I only came here initially to escape the rain, but it turned out to be a very pleasant surprise. The place is huge, stylish and much more affordable than it looks. Flat whites are only around 9 RM and happy hour runs for an impressively long time.
+I stumbled upon this place just seeking shelter from the rain and a clean toilet. But what a pleasant surprise. It's a massive, fancy looking bar-café-lounge with uncharacteristically moderate prices. A flat white is 9RM. Long happy hours from 3-9
 
 ## Ratings
 
