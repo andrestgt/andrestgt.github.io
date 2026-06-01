@@ -9,7 +9,10 @@ subtitle: Hawker stalls and basic eateries in George Town
 
 # Street Food in Penang
 
-- [Yee Heong Restaurant](./yee-heong-restaurant/)
+## Yee Heong Restaurant
+*Lebuh Kimberley, George Town · Chinese, Dim Sum*
+Simple old-school eatery serving a good variety of steamed dim sum — cheap, tasty and an excellent breakfast option.
+→ [Read the full review](/food/malaysia/penang/restaurants/yee-heong-restaurant/)
 
 ---
 
