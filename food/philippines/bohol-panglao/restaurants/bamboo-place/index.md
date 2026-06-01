@@ -32,4 +32,4 @@ Bamboo Place feels like a quiet little oasis away from the beach crowds. The men
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bamboo+Place+Tawala+Panglao+Bohol)
 🍽️ **Cuisine:** International, Filipino
-💰 **Price level:** ₱500-700
+💰 **Price level:** ₱1000-1500
