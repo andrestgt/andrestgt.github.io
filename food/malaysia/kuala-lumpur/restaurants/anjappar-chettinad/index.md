@@ -6,7 +6,7 @@ title: ANJAPPAR Chettinad Indian Restaurant
 subtitle: Brickfields, KL · Indian
 ---
 
-Authentic South Indian food at fairly average prices and fairly average quality. It's perfectly alright, but Kuala Lumpur has enough excellent Indian restaurants that this one never really stands out.
+Authentic South Indian food at fairly average prices and fairly average quality. It's perfectly alright, but Kuala Lumpur has enough excellent Indian restaurants that this one does not really stand out.
 
 ## Ratings
 
