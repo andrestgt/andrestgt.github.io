@@ -17,14 +17,14 @@ Nonki is probably the most popular Japanese restaurant in Davao, but I found the
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 5/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Food            | 6.5/10   |
+| Service         | 7/10   |
+| Value for money | 5/10   |
+| Atmosphere      | 7/10   |
 | Overall         | 6/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nonki+Japanese+Restaurant+Davao+City)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** —
+💰 **Price level:** ₱1000-1200
