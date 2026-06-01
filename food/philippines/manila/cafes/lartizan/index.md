@@ -22,14 +22,14 @@ Lartizan goes heavily for the rococo aesthetic, all ornate crockery, silver cutl
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10    |
+| Food and Coffee | 8.5/10    |
 | Service         | 6.5/10    |
-| Value for money | 5.5/10  |
-| Atmosphere      | 7.5/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 8/10  |
 | Overall         | 8.5/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lartizan+Serendra+BGC+Taguig+Manila)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate to expensive
