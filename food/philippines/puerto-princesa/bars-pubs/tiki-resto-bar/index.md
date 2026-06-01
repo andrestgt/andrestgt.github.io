@@ -17,13 +17,13 @@ I know I would have loved this place twenty years ago. The live band is actually
 
 | Category        | Score |
 | ---             | ---   |
-| Service         | 6/10   |
+| Service         | 7/10   |
 | Value for money | 7.5/10   |
 | Atmosphere      | 8/10   |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tiki+Resto+Bar+Puerto+Princesa+City+Palawan)
 🍺 **Type:** Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
