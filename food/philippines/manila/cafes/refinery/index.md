@@ -28,14 +28,14 @@ Refinery is probably the best place in the area for a proper cappuccino. The caf
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10    |
-| Service         | 7/10    |
-| Value for money | 5.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Food and Coffee | 8/10    |
+| Service         | 7.5/10    |
+| Value for money | 7/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Refinery+Rockwell+Center+Makati)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
