@@ -12,14 +12,14 @@ This place should be great, but my experience here was really bad. First, they h
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 4/10   |
+| Coffee          | 5/10   |
 | Service         | 4/10   |
 | Value for money | 4/10   |
-| Atmosphere      | 4/10   |
+| Atmosphere      | 5/10   |
 | Overall         | 4/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=La+Bella+Pizza+Bistro+Lapu-Lapu+City+Cebu)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** —
+💰 **Price level:** ₱800-1000
