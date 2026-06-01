@@ -28,14 +28,14 @@ Convenient little café in central Cenang serving standard Malay and Thai dishes
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 6/10  |
-| Service         | 6/10  |
-| Value for money | 5/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 7/10  |
+| Service         | 7/10  |
+| Value for money | 8/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 7/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=D%27Lima+Cafe+Jalan+Pantai+Cenang+Langkawi+Malaysia)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** RM 30-40
