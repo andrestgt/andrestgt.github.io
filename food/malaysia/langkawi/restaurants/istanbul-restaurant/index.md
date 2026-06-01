@@ -12,14 +12,14 @@ This is not a cheap kebab shop but rather a proper upscale Turkish restaurant. P
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 8.5/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Istanbul+Restaurant+Jalan+Pantai+Cenang+Langkawi+Malaysia)
 🍽️ **Cuisine:** Turkish
-💰 **Price level:** —
+💰 **Price level:** RM 80
