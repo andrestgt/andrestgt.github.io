@@ -6,16 +6,12 @@ title: Ben's Independent Grocer
 subtitle: Publika, KL · Specialty Food & Coffee
 ---
 
-
-One of the best supermarkets anywhere in the region. The selection is enormous and there is very little you cannot find here, including a fantastic variety of imported products, wines. There is even a proper espresso bar, and most importantly Shucked, an oyster bar with an excellent selection.
-
-
-
-
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/Malaysia16-0002.jpg" alt="Ben's Independent Grocer">
   <figcaption>Ben's Independent Grocer</figcaption>
 </figure>
+
+One of the best supermarkets anywhere in the region. The selection is enormous and there is very little you cannot find here, including a fantastic variety of imported products, wines. There is even a proper espresso bar, and most importantly Shucked, an oyster bar with an excellent selection.
 
 
 
@@ -38,6 +34,5 @@ One of the best supermarkets anywhere in the region. The selection is enormous a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ben%27s+Independent+Grocer+Publika+Jalan+Dutamas+Kuala+Lumpur)
 🍽️ **Cuisine:** Specialty Foods, Deli
-<<<<<<< HEAD
 💰 **Price level:** expensive
 
