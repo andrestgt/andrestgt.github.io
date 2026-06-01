@@ -27,13 +27,6 @@ Looks like a greasy spoon but oddly serves some of the best espresso drinks arou
 
 ---
 
-## The Buzzz Café – Island City Mall
-*Tagbilaran City · Café, Filipino*
-Surprisingly good bistro food for Tagbilaran, with prices in the 200–300 Php range that the quality largely justifies.
-→ [Read the full review](/food/philippines/bohol-panglao/cafes/the-buzzz-cafe-island-city-mall/)
-
----
-
 ## Estrella Bakery
 *Tagbilaran City · Bakery, Café*
 Tiny bakery serving probably the best cappuccino on the island using proper Illy beans for just 80 Php — no wifi though.
