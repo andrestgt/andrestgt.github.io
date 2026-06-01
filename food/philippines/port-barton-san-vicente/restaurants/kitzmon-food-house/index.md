@@ -39,14 +39,14 @@ This place is much neater and cleaner than your average provincial Foodhaus, off
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
-| Service         | 6.5/10  |
-| Value for money | 9/10    |
+| Food            | 7.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8.5/10    |
 | Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kitzmon+Food+House+Port+Barton+San+Vicente+Palawan)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** Under ₱200
+💰 **Price level:** ₱200-300
