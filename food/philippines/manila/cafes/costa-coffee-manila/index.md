@@ -17,14 +17,14 @@ Very spacious and comfortable branch, but with flat whites costing around 160 Ph
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 7.5/10   |
+| Coffee          | 6.5/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 5/10   |
 | Atmosphere      | 7.5/10   |
-| Overall         | 7.5/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Costa+Coffee+Robinsons+Place+Manila+Malate)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
