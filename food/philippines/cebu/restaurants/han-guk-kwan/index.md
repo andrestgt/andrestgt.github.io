@@ -28,9 +28,9 @@ The service at Han Guk Kwan can be pretty dreadful, but the food more than makes
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
-| Service         | 6.5/10    |
-| Value for money | 7.5/10  |
+| Food            | 8.5/10    |
+| Service         | 6/10    |
+| Value for money | 8/10  |
 | Atmosphere      | 7.5/10  |
 | Overall         | 8.5/10    |
 
@@ -38,4 +38,4 @@ The service at Han Guk Kwan can be pretty dreadful, but the food more than makes
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Han+Guk+Kwan+Cebu+City)
 🍽️ **Cuisine:** Korean
-💰 **Price level:** —
+💰 **Price level:** ₱800-1000
