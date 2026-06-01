@@ -66,4 +66,4 @@ Great food at the end of the world — Thai, Filipino and Western. Worth going t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Driftwood+Village+Resort+Sugar+Beach+Sipalay+Negros+Occidental)
 🍽️ **Cuisine:** Filipino, International, Thai
-💰 **Price level:** —₱ 400-600
+💰 **Price level:** —₱ 600-800
