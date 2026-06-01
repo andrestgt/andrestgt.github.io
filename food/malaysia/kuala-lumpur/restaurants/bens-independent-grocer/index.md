@@ -7,7 +7,7 @@ subtitle: Publika, KL · Specialty Food & Coffee
 ---
 
 
-One of the best supermarkets anywhere in the region. The selection is enormous and there is very little you cannot find here, including excellent imported products, wines, an oyster bar, and even a proper espresso bar.
+One of the best supermarkets anywhere in the region. The selection is enormous and there is very little you cannot find here, including a fantastic variety of imported products, wines. There is even a proper espresso bar, and most importantly Shucked, an oyster bar with an excellent selection.
 
 
 
