@@ -6,20 +6,20 @@ title: Sumosam Legacy
 subtitle: SM North EDSA, Quezon City · Japanese
 ---
 
-The salmon sashimi here was genuinely dreadful, limp, watery and tasting as though it had only just been thawed. For a sizeable sushi franchise, the lack of quality control is astonishing. One of the rare places that fully deserved a one-star rating.
+My second Sumo Sam experience after Cebu Ayala, which I rather enjoyed. The salmon sashimi here was genuinely dreadful, limp, watery and tasting as though it had only just been thawed. If they served this limp thawed mess to Japanese customers, they'd have every right to go into the kitchen and beat up the chef. Sumo Sam is a sizeable franchise, how can they have such poor quality control?
 
 ## Ratings
 
 | Category        | Score |
 | ---             | ---   |
 | Food            | 2/10   |
-| Service         | 2/10   |
+| Service         | 6/10   |
 | Value for money | 2/10   |
-| Atmosphere      | 2/10   |
-| Overall         | 2/10   |
+| Atmosphere      | 6/10   |
+| Overall         | 2.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sumosam+Legacy+SM+North+EDSA+Quezon+City)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** —
+💰 **Price level:**  ₱1000
