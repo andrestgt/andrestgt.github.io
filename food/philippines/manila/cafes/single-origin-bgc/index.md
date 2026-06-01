@@ -13,16 +13,13 @@ subtitle: BGC, Taguig · Specialty Coffee
 ---
 
 <figure>
-  <img src="/photos/philippines/manila/single-origin-bgc-1.jpg" alt="Single Origin – Bonifacio High Street">
+  <img src="/photos/philippines/manila/single-origin-bgc-2.jpg" alt="Single Origin – Bonifacio High Street">
   <figcaption>Single Origin – Bonifacio High Street</figcaption>
 </figure>
 
 They seem to have better baristas these days. Coffee drinks are very good now, though expensive at 160 Php for a flat white. A reliable specialty coffee destination in BGC.
 
-<figure>
-  <img src="/photos/philippines/manila/single-origin-bgc-2.jpg" alt="Single Origin – Bonifacio High Street">
-  <figcaption>Single Origin – Bonifacio High Street</figcaption>
-</figure>
+
 
 ## Ratings
 
