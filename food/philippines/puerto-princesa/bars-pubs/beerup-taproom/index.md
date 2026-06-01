@@ -12,14 +12,13 @@ Maybe I'm wrong, but it feels like this place is struggling. Craft beer doesn't 
 
 | Category        | Score |
 | ---             | ---   |
-| Bar food        | 7.5/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 7.5/10   |
-| Overall         | 7.5/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 7/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=BeerUp+TapRoom+Manalo+Extension+Puerto+Princesa+Palawan)
 🍺 **Type:** Craft Beer Bar
-💰 **Price level:** —
+💰 **Price level:** moderate
