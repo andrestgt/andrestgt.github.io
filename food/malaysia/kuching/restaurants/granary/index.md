@@ -22,14 +22,14 @@ This place looks like it should be excellent, but then they serve pizza topped w
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 6/10  |
-| Service         | 6/10  |
-| Value for money | 6/10  |
-| Atmosphere      | 6/10  |
-| Overall         | 6/10  |
+| Food            | 6.5/10  |
+| Service         | 7/10  |
+| Value for money | 7/10  |
+| Atmosphere      | 8.5/10  |
+| Overall         | 7/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Granary+Wayang+Street+Kuching+Sarawak+Malaysia)
 🍽️ **Cuisine:** International, Pizza
-💰 **Price level:** —
+💰 **Price level:** RM 40-60
