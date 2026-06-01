@@ -26,7 +26,3 @@ Lisbon · Café
 Strong coffee, generously filled bagels, and fast wifi, all at suburban prices far away from the tourist crowds.
 → [Read the full review](./nyc/)
 
-## DOCE PIMENTA CAFÉ
-Lisbon · Café
-Serves cheap beer and coffee, has reliable wifi, and works well as a quick pit stop while exploring the city.
-→ [Read the full review](./doce-pimenta-cafe/)
