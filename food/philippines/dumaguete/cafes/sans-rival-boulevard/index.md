@@ -5,9 +5,8 @@ review: true
 title: Sans Rival – Boulevard
 subtitle: Rizal Boulevard, Dumaguete · Bakery, Café
 ---
-
 <figure>
-  <img src="/photos/philippines/dumaguete/sans-rival-boulevard-1.jpg" alt="Sans Rival – Boulevard">
+  <img src="/photos/philippines/dumaguete/sans-rival-boulevard-4.jpg" alt="Sans Rival – Boulevard">
   <figcaption>Sans Rival – Boulevard</figcaption>
 </figure>
 
@@ -24,23 +23,20 @@ Nice boulevard location and the cakes are perfectly acceptable, but almost every
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/dumaguete/sans-rival-boulevard-4.jpg" alt="Sans Rival – Boulevard">
-  <figcaption>Sans Rival – Boulevard</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 9/10   |
-| Service         | 4/10   |
-| Value for money | 4/10   |
-| Atmosphere      | 4/10   |
-| Overall         | 8.5/10   |
+| Food and Coffee | 5/10   |
+| Service         | 7/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sans+Rival+Cakes+Pastries+Rizal+Boulevard+Dumaguete)
 ☕ **Type:** Bakery, Café
-💰 **Price level:** —
+💰 **Price level:** moderate
