@@ -20,7 +20,7 @@ The food at the White House is interesting and creative, Japanese-Mediterranean 
 I really enjoyed the salmon sashimi, the glazed pork belly and the japanese cheesecake. The biggest disappointment was the aforementioned foie gras which i'd really been looking forward to, but which simply didn't work for me.
 Prices for food and wine are reasonable for such a fancy restaurant and the quality of the ingredients, however, service and consistency of the food could and should be improved.
 
-<  div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/the-white-house-2.jpg" alt="The White House">
   <figcaption>The White House</figcaption>
