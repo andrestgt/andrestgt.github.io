@@ -36,11 +36,11 @@ The food at L'entrecôte is good and the wine list is thoughtfully put together,
 | Food            | 7.5/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=L%27entrecote+Forbestown+Rd+BGC+Taguig)
 🍽️ **Cuisine:** French
-💰 **Price level:** —
+💰 **Price level:** 
