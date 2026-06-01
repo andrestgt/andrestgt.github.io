@@ -40,7 +40,7 @@ Very respectable dim sum selection considering this is inside a Pullman hotel. P
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8/10   |
-| Service         | 7/10   |
+| Service         | 8/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
@@ -49,4 +49,4 @@ Very respectable dim sum selection considering this is inside a Pullman hotel. P
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nu+Er+Hong+Restaurant+Pullman+Kuching+Jalan+Mathies+Sarawak)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** Around RM60 for two
+💰 **Price level:** RM 60-80
