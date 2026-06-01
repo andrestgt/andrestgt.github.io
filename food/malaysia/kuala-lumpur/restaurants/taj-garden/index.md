@@ -24,12 +24,12 @@ Clean and slightly sterile mid-range Indian restaurant in Little India with an o
 | ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
+| Value for money | 8/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Taj+Garden+Indian+Restaurant+Jalan+Tun+Sambanthan+Brickfields+Kuala+Lumpur)
 🍽️ **Cuisine:** Indian
-💰 **Price level:** —
+💰 **Price level:** RM 50-70
