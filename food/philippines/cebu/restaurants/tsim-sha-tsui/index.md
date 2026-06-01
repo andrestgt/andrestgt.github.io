@@ -22,14 +22,14 @@ Some of the dim sum here were slightly oversteamed and fell apart too easily, bu
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 7.5/10   |
+| Food            | 7/10   |
 | Service         | 6/10   |
 | Value for money | 7.5/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 7.5/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tsim+Sha+Tsui+Dimsum+Tea+Bar+Ayala+Center+Cebu)
 🍽️ **Cuisine:** Chinese
-💰 **Price level:** —
+💰 **Price level:** ₱600
