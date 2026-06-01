@@ -6,17 +6,7 @@ title: Bo's Coffee – Island City Mall
 subtitle: Tagbilaran City · Café
 ---
 
-<figure>
-  <img src="/photos/philippines/bohol-panglao/bos-coffee-island-city-mall-1.jpg" alt="Bo's Coffee – Island City Mall">
-  <figcaption>Bo's Coffee – Island City Mall</figcaption>
-</figure>
-
 The coffee at this Bo's branch is noticeably worse than at some of their other locations. The cappuccino came out overly hot, far too milky, and very average considering the rather high prices. At least the wifi worked properly.
-
-<figure>
-  <img src="/photos/philippines/bohol-panglao/bos-coffee-island-city-mall-2.jpg" alt="Bo's Coffee – Island City Mall">
-  <figcaption>Bo's Coffee – Island City Mall</figcaption>
-</figure>
 
 ## Ratings
 
@@ -32,4 +22,4 @@ The coffee at this Bo's branch is noticeably worse than at some of their other l
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bo%27s+Coffee+Island+City+Mall+Tagbilaran+Bohol)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
