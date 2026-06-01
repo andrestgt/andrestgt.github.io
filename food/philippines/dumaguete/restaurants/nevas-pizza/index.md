@@ -11,13 +11,13 @@ subtitle: Hibbard Ave, Dumaguete · Italian
   <figcaption>Neva's Pizza</figcaption>
 </figure>
 
-I already loved Neva's back in my backpacker days, when their wood-fired kuripot pizzas were probably among the cheapest on earth and still genuinely tasty. These days it remains excellent value and an easy recommendation for anyone travelling on a budget.
+I already loved Neva's back in my backpacker days, when their wood-fired kuripot pizzas were probably among the cheapest on earth and still really tasty. Nowadays it remains excellent value and a recommendation for anyone travelling on a budget.
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10    |
+| Food            | 8/10    |
 | Service         | 7/10    |
 | Value for money | 9/10    |
 | Atmosphere      | 7.5/10  |
@@ -27,4 +27,4 @@ I already loved Neva's back in my backpacker days, when their wood-fired kuripot
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Neva%27s+Pizza+Hibbard+Ave+Dumaguete+City)
 🍽️ **Cuisine:** Italian, Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱500
