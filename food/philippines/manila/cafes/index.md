@@ -53,13 +53,6 @@ Theatrical rococo aesthetic with very good chicken foie gras pâté, good coffee
 
 ---
 
-## PAUL Boulangerie et Patisserie
-*BGC, Taguig · Bakery, Café*
-Extremely expensive by Manila standards but the quality genuinely matches France — the Flûte Charlemagne is excellent.
-→ [Read the full review](/food/philippines/manila/cafes/paul-boulangerie/)
-
----
-
 ## Café Mary Grace – NAIA Terminal 3
 *NAIA Terminal 3, Pasay · Café*
 One of the more comfortable airport cafés — surprisingly decent food, acceptable cappuccino, and reasonable airport prices.
