@@ -22,14 +22,14 @@ Sumo Sam does perfectly decent sushi and Japanese comfort food. The sashimi was 
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 5.5/10   |
-| Service         | 5.5/10   |
-| Value for money | 5/10   |
-| Atmosphere      | 5.5/10   |
-| Overall         | 5.5/10   |
+| Food            | 6.5/10   |
+| Service         | 7.5/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sumo+Sam+Ayala+Center+Cebu+City)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** —
+💰 **Price level:** ₱1000
