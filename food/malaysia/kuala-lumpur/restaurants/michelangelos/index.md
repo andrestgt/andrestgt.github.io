@@ -28,14 +28,14 @@ A pleasant place for people watching with surprisingly decent house wines during
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7/10   |
-| Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
+| Food            | 7.5/10   |
+| Service         | 8/10   |
+| Value for money | 7/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Michelangelo%27s+Ristorante+Italiano+Pavilion+Kuala+Lumpur+Bukit+Bintang)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** —
+💰 **Price level:** RM 80-120
