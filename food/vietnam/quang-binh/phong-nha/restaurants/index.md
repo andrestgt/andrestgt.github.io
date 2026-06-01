@@ -24,14 +24,6 @@ Very nice and welcoming air conditioned restaurant with good international food 
 
 ---
 
-## Tiên Caves
-*Phong Nha*
-I took a 1 day trip with Oxalis and was generally very happy with everything.
-→ [Read the full review](/food/vietnam/quang-binh/phong-nha/restaurants/tien-caves/)
-
----
-
-
 
 **Price level note:**  
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  
