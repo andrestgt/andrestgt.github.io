@@ -15,10 +15,6 @@ Stepping into this German Kneipe from busy Mabini St is like stepping into a dif
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/philippines/manila/munchen-grill-bar-2.jpg" alt="Munchen Grill-Bar">
-  <figcaption>Munchen Grill-Bar</figcaption>
-</figure>
-<figure>
   <img src="/photos/philippines/manila/munchen-grill-bar-3.jpg" alt="Munchen Grill-Bar">
   <figcaption>Munchen Grill-Bar</figcaption>
 </figure>
