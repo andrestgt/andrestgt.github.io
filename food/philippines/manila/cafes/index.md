@@ -88,13 +88,6 @@ Very good kare-kare with proper oxtail, but the coffee is disappointing — slop
 
 ---
 
-## Eric Kayser Boulangerie – Rockwell
-*Rockwell, Makati · Bakery, Café*
-Good bread and pastries but heavily overpriced compared to other Eric Kayser branches around the region.
-→ [Read the full review](/food/philippines/manila/cafes/eric-kayser/)
-
----
-
 ## Costa Coffee – Robinsons Place
 *Malate, Manila · Café*
 Very spacious and comfortable but the coffee quality at 160 Php a flat white is rather hit and miss.
