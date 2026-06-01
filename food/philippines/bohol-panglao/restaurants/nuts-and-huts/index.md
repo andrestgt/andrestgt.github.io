@@ -32,13 +32,6 @@ Nuts & Huts is a beautiful, peaceful place in a lush riverside setting. Consider
 </figure>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-
-<figure>
-  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-7.jpg" alt="Nuts & Huts">
-  <figcaption>Nuts & Huts</figcaption>
-</figure>
-</div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -57,14 +50,14 @@ Nuts & Huts is a beautiful, peaceful place in a lush riverside setting. Consider
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10    |
+| Food            | 8/10    |
 | Service         | 7.5/10  |
-| Value for money | 7.5/10    |
-| Atmosphere      | 8.5/10    |
+| Value for money | 8/10    |
+| Atmosphere      | 9/10    |
 | Overall         | 8.5/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nuts+and+Huts+Loboc+Bohol)
 🍽️ **Cuisine:** Filipino, International
-💰 **Price level:** —
+💰 **Price level:** ₱500-700
