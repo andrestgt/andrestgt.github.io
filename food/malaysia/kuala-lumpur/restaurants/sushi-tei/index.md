@@ -48,4 +48,4 @@ This used to be one of my favourite Japanese chains and I have eaten here many t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Tei+Pavilion+Kuala+Lumpur+Bukit+Bintang)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** —
+💰 **Price level:** RM 80-120
