@@ -34,13 +34,13 @@ Village Tavern is a surprisingly good option on Bonifacio High Street. It's a cl
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8/10    |
-| Service         | 6.5/10    |
-| Value for money | 8.5/10  |
-| Atmosphere      | 7.5/10  |
+| Service         | 8.5/10    |
+| Value for money | 8/10  |
+| Atmosphere      | 8/10  |
 | Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Village+Tavern+Bonifacio+High+Street+BGC+Taguig)
 🍽️ **Cuisine:** American, International
-💰 **Price level:** —
+💰 **Price level:** ₱1000-1500
