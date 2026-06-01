@@ -12,9 +12,9 @@ The same reliable Wildflour quality and pricing as elsewhere, but this branch is
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10  |
+| Food and Coffee | 9/10  |
 | Service         | 7.5/10  |
-| Value for money | 7/10    |
+| Value for money | 8/10    |
 | Atmosphere      | 8.5/10  |
 | Overall         | 8.5/10  |
 
@@ -22,4 +22,4 @@ The same reliable Wildflour quality and pricing as elsewhere, but this branch is
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wildflour%20Restaurant%2C%20Greenhills%20Shopping%20Center%2C%20San%20Juan%2C%201502%20Metro%20Manila%2C%20Philippines)
 🍽️ **Cuisine:** Bakery, Bistro
-💰 **Price level:** —
+💰 **Price level:** expensive
