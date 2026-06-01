@@ -47,6 +47,13 @@ Jam-packed with Malaysians and for good reason — the fresh grilled grouper wit
 
 ---
 
+## Sun Cafe
+*Pantai Tengah · Café, International*
+One of Langkawi's classiest spots with decent Asian dishes — good value and tastefully decorated inside despite the strip mall exterior.
+→ [Read the full review](/food/malaysia/langkawi/cafes/sun-cafe/)
+
+---
+
 ## Yasmin Syrian Restaurant
 *Pantai Cenang · Syrian*
 Very authentic Syrian and Middle Eastern food with excellent appetisers and particularly good hummus.
