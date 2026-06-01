@@ -7,17 +7,14 @@ subtitle: Loboc, Bohol · Filipino
 ---
 
 <figure>
-  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-1.jpg" alt="Nuts & Huts">
+  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-6.jpg" alt="Nuts & Huts">
   <figcaption>Nuts & Huts</figcaption>
 </figure>
 
 Nuts & Huts is a beautiful, peaceful place in a lush riverside setting. Considering how secluded it is, the food is surprisingly good and very reasonably priced. There are plenty of vegetarian options, proper Belgian fries, and an atmosphere that makes it very easy to stay much longer than planned.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-2.jpg" alt="Nuts & Huts">
-  <figcaption>Nuts & Huts</figcaption>
-</figure>
+
 <figure>
   <img src="/photos/philippines/bohol-panglao/nuts-and-huts-3.jpg" alt="Nuts & Huts">
   <figcaption>Nuts & Huts</figcaption>
@@ -36,10 +33,7 @@ Nuts & Huts is a beautiful, peaceful place in a lush riverside setting. Consider
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-6.jpg" alt="Nuts & Huts">
-  <figcaption>Nuts & Huts</figcaption>
-</figure>
+
 <figure>
   <img src="/photos/philippines/bohol-panglao/nuts-and-huts-7.jpg" alt="Nuts & Huts">
   <figcaption>Nuts & Huts</figcaption>
@@ -52,15 +46,12 @@ Nuts & Huts is a beautiful, peaceful place in a lush riverside setting. Consider
   <figcaption>Nuts & Huts</figcaption>
 </figure>
 <figure>
-  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-9.jpg" alt="Nuts & Huts">
+  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-10.jpg" alt="Nuts & Huts">
   <figcaption>Nuts & Huts</figcaption>
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/bohol-panglao/nuts-and-huts-10.jpg" alt="Nuts & Huts">
-  <figcaption>Nuts & Huts</figcaption>
-</figure>
+
 
 ## Ratings
 
