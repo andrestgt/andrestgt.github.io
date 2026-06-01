@@ -17,14 +17,14 @@ Good Taste is extremely popular, mostly because the portions are huge and the pr
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10    |
+| Food            | 7.5/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 7.5/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Good+Taste+Cafe+Restaurant+Lapu+Lapu+St+Baguio)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱200–300
