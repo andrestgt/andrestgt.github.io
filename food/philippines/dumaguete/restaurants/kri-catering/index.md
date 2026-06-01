@@ -7,7 +7,7 @@ subtitle: Silliman Ave, Dumaguete · International
 ---
 
 <figure>
-  <img src="/photos/philippines/dumaguete/kri-catering-1.jpg" alt="KRI Catering">
+  <img src="/photos/philippines/dumaguete/kri-catering-10.jpg" alt="KRI Catering">
   <figcaption>KRI Catering</figcaption>
 </figure>
 
@@ -57,23 +57,20 @@ KRI is Dumaguete's most ambitious restaurant. With an open kitchen and a stylish
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/dumaguete/kri-catering-10.jpg" alt="KRI Catering">
-  <figcaption>KRI Catering</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
+| Food            | 8/10    |
 | Service         | 6.5/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=KRI+Catering+Silliman+Ave+Dumaguete+City)
 🍽️ **Cuisine:** International, Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱1000
