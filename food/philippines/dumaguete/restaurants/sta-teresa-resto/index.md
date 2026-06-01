@@ -14,12 +14,12 @@ An upmarket carinderia serving some of the most authentically Filipino food in t
 | ---             | ---   |
 | Food            | 6/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 6.5/10   |
 | Overall         | 6/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sta.+Teresa+Resto+San+Juan+Dumaguete+City)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱300-400
