@@ -33,14 +33,14 @@ This outlet in SM Aura's Skypark looks very inviting with its chandeliers and sh
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 5.5/10   |
-| Service         | 5.5/10   |
-| Value for money | 5.5/10   |
-| Atmosphere      | 5.5/10   |
-| Overall         | 5.5/10   |
+| Food            | 8/10   |
+| Service         | 5/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lugang+Cafe+SM+Aura+Premier+BGC+Taguig)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** ₱800-1000
