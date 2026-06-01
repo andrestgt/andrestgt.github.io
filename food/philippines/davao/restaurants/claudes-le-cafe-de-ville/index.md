@@ -44,14 +44,14 @@ Claude's Café de Ville is a magnificent restaurant housed in an old mansion rig
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6.5/10    |
-| Service         | 6.5/10  |
-| Value for money | 5.5/10    |
-| Atmosphere      | 6.5/10  |
-| Overall         | 6.5/10    |
+| Food            | 9/10    |
+| Service         | 9/10  |
+| Value for money | 8.5/10    |
+| Atmosphere      | 9/10  |
+| Overall         | 9/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Claude%27s+Le+Cafe+de+Ville+Rizal+St+Davao+City)
 🍽️ **Cuisine:** French
-💰 **Price level:** —
+💰 **Price level:** ₱1200-2000
