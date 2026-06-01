@@ -18,10 +18,10 @@ Comfortable little café inside NU Sentral with reasonably priced coffee that is
 | Category        | Score |
 | ---             | ---   |
 | Coffee          | 7/10  |
-| Service         | 5/10  |
+| Service         | 3/10  |
 | Value for money | 7/10  |
 | Atmosphere      | 7.5/10  |
-| Overall         | 7/10  |
+| Overall         | 6.5/10  |
 
 ### Practical
 
