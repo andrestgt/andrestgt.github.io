@@ -11,7 +11,7 @@ subtitle: Forbespark, BGC · Bar
   <figcaption>Rue Forbes Town</figcaption>
 </figure>
 
-I somehow keep ending up at RUE whenever I go out in BGC. The atmosphere is loud and chaotic, but generally good natured and fun. Drinks are expensive, as expected in this area, but the place itself doesn't feel overly pretentious. The nachos supreme are particularly good.
+I somehow keep ending up at Rue whenever I go out in BGC. The atmosphere is loud and chaotic, but generally good natured and fun. Drinks are expensive, as expected in this area, but the place itself doesn't feel overly pretentious. The nachos supreme are particularly good.
 
 ## Ratings
 
@@ -27,4 +27,4 @@ I somehow keep ending up at RUE whenever I go out in BGC. The atmosphere is loud
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=RUE+Forbes+Town+Center+BGC+Taguig)
 🍺 **Type:** Bar
-💰 **Price level:** —expensive
+💰 **Price level:**  expensive
