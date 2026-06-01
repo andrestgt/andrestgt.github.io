@@ -30,17 +30,6 @@ Bohol Farm has a brilliant location with wonderful views over the surrounding co
   <figcaption>Bohol Farm</figcaption>
 </figure>
 <figure>
-  <img src="/photos/philippines/bohol-panglao/bohol-farm-5.jpg" alt="Bohol Farm">
-  <figcaption>Bohol Farm</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/bohol-panglao/bohol-farm-6.jpg" alt="Bohol Farm">
-  <figcaption>Bohol Farm</figcaption>
-</figure>
-<figure>
   <img src="/photos/philippines/bohol-panglao/bohol-farm-7.jpg" alt="Bohol Farm">
   <figcaption>Bohol Farm</figcaption>
 </figure>
