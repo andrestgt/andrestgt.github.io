@@ -28,14 +28,14 @@ For a cheap franchise, Mongkok serves surprisingly decent dim sum. It's obviousl
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 7.5/10   |
-| Service         | 6/10   |
+| Food            | 7/10   |
+| Service         | 6.5/10   |
 | Value for money | 7.5/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 7.5/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mongkok+Dim+Sum+Makati+Manila)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:**  ₱500-700
