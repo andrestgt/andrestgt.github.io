@@ -23,13 +23,13 @@ Surprisingly good Japanese-inspired fusion food with friendly service and fair p
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10     |
-| Service         | 6.5/10  |
-| Value for money | 7.5/10    |
+| Service         | 7/10  |
+| Value for money | 8/10    |
 | Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mr.+Kurosawa+Newport+City+Pasay+Manila)
 🍽️ **Cuisine:** Japanese, Fusion
-💰 **Price level:** —
+💰 **Price level:**  ₱1000-1200
