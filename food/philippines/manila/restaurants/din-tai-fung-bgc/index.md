@@ -19,7 +19,7 @@ This branch delivers the usual Din Tai Fung standard, with excellent dumplings a
 | ---             | ---    |
 | Food            | 8.5/10     |
 | Service         | 7.5/10  |
-| Value for money | 8/10    |
+| Value for money | 8.5/10    |
 | Atmosphere      | 7.5/10  |
 | Overall         | 8.5/10     |
 
@@ -27,4 +27,4 @@ This branch delivers the usual Din Tai Fung standard, with excellent dumplings a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Din+Tai+Fung+Bonifacio+High+Street+BGC+Taguig)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** ₱1000
