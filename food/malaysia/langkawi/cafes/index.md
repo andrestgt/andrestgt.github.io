@@ -18,13 +18,6 @@ Despite the misleading name, probably the best place for coffee in Langkawi — 
 
 ---
 
-## D'Lima Cafe
-*Pantai Cenang · Malay, Thai*
-Convenient café in central Cenang serving standard dishes at reasonable prices — perfectly fine for a quick inexpensive meal.
-→ [Read the full review](/food/malaysia/langkawi/cafes/dlima-cafe/)
-
----
-
 ## Starbucks – Cenang Mall
 *Pantai Cenang · Café*
 Serving everything in disposable cups even for dine-in immediately ruins the experience — the coffee itself is unremarkable too.
