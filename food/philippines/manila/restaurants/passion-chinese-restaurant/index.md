@@ -11,7 +11,7 @@ subtitle: Pasay, Manila · Chinese
   <figcaption>Passion Chinese Restaurant</figcaption>
 </figure>
 
-Very fancy and correspondingly expensive Chinese restaurant. The dim sum quality varies quite a bit, from fairly average xiao long bao to genuinely excellent har gow. At these prices, though, consistency should really be higher.
+Very fancy and correspondingly expensive Chinese restaurant. The dim sum quality varies quite a bit, from fairly average xiao long bao to excellent har gow. At these prices, though, consistency should really be higher.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -28,14 +28,14 @@ Very fancy and correspondingly expensive Chinese restaurant. The dim sum quality
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10  |
-| Service         | 6/10    |
-| Value for money | 5/10    |
-| Atmosphere      | 6/10    |
-| Overall         | 8.5/10    |
+| Food            | 7.5/10  |
+| Service         | 7.5/10    |
+| Value for money | 6.5/10    |
+| Atmosphere      | 8/10    |
+| Overall         | 7.5/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Passion+Chinese+Restaurant+Pasay+Metro+Manila)
 🍽️ **Cuisine:** Chinese
-💰 **Price level:** —
+💰 **Price level:**  ₱1000-1500
