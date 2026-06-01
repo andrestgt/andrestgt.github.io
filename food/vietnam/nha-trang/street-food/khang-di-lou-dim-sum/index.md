@@ -2,7 +2,7 @@
 layout: default
 section: food
 review: true
-title: Cơm Tấm Cô Hai
+title: Khang Di Lou
 subtitle: Nha Trang · Chinese · Dim Sum
 ---
 This little Chinese eatery has dumplings that are made right in front of you. Tasty and reasonably priced, this newcomer is a great addition to Nha Trang's dim sum scene. There's a small menu of more substantial pan Chinese dishes as well, but I have yet to try them. I can highly recommend the dumplings though.

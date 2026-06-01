@@ -108,10 +108,10 @@ Classic drinking place with cheap bia hoi and an extensive menu of the usual sus
 
 ---
 
-## Cơm Tấm Cô Hai
+## Khang Di Lou
 *Nha Trang*
 This little Chinese eatery has dumplings that are made right in front of you.
-→ [Read the full review](/food/vietnam/nha-trang/street-food/com-tam-co-hai/)
+→ [Read the full review](/food/vietnam/nha-trang/street-food/khang-di-lou/)
 
 ---
 
