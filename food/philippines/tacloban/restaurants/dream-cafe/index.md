@@ -11,7 +11,7 @@ subtitle: Downtown, Tacloban City · Filipino
   <figcaption>Dream Cafe</figcaption>
 </figure>
 
-Tacloban is genuinely lucky to have a place like Dream Cafe. The food is consistently very good and reasonably priced, with both Filipino and Western dishes prepared using proper ingredients rather than shortcuts. The lechon kawali is particularly good. Easily my favourite place in town.
+Tacloban is very lucky to have a place like Dream Cafe. The food is consistently very good and reasonably priced, with both Filipino and Western dishes prepared using proper ingredients rather than shortcuts. The lechon kawali is particularly good. My favourite place in town.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -39,14 +39,14 @@ Tacloban is genuinely lucky to have a place like Dream Cafe. The food is consist
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
-| Service         | 7.5/10  |
-| Value for money | 7.5/10    |
+| Food            | 8/10    |
+| Service         | 8/10  |
+| Value for money | 8.5/10    |
 | Atmosphere      | 7.5/10  |
-| Overall         | 9/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Dream+Cafe+Del+Pilar+St+Downtown+Tacloban+City)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
