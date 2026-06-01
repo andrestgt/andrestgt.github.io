@@ -11,7 +11,7 @@ subtitle: Kraków · Polish Restaurant
   <figcaption>Przystanek Pierogarnia</figcaption>
 </figure>
 
-The pierogi are genuinely delicious, and the prices are great. It's a cute little shop, and yes, the hype is justified. For quality and value, this is about as good as it gets.
+The pierogi are really delicious, and the prices are great. It's a cute little shop, and yes, the hype is justified. For quality and value, this is about as good as it gets.
 
 <figure>
   <img src="/photos/poland/krakow/przystanek-pierogarnia-2.jpg" alt="Przystanek Pierogarnia">
@@ -22,11 +22,11 @@ The pierogi are genuinely delicious, and the prices are great. It's a cute littl
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
+| Food            | 8.5/10 |
 | Service         | 8.5/10 |
 | Value for money | 9/10   |
 | Atmosphere      | 8/10   |
-| Overall         | 9.5/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 
