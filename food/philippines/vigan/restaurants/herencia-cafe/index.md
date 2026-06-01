@@ -24,12 +24,12 @@ No trip to Paoay Church is complete without trying one of Herencia's seriously t
 | ---             | ---    |
 | Food            | 8/10    |
 | Service         | 7/10    |
-| Value for money | 5.5/10  |
-| Atmosphere      | 7.5/10  |
+| Value for money | 7.5/10  |
+| Atmosphere      | 8.5/10  |
 | Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Herencia+Cafe+Marcos+Ave+Paoay+Ilocos+Norte)
 🍽️ **Cuisine:** Filipino, Pizza
-💰 **Price level:** —
+💰 **Price level:** ₱800
