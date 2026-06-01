@@ -55,14 +55,14 @@ Giuseppe serves some of the best pizzas and pasta dishes in the Visayas, with hu
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
-| Service         | 6.5/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Food            | 8.5/10    |
+| Service         | 6/10    |
+| Value for money | 8/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Giuseppe+Pizzeria+Tawala+Panglao+Bohol)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
