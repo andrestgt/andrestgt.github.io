@@ -7,17 +7,15 @@ subtitle: Pantai Tengah · Malay
 ---
 
 <figure>
-  <img src="/photos/malaysia/langkawi/fat-cupid-1.jpg" alt="Fat Cupid Café & Restaurant">
+  <img src="/photos/malaysia/langkawi/fat-cupid-2.jpg" alt="Fat Cupid Café & Restaurant">
   <figcaption>Fat Cupid Café & Restaurant</figcaption>
 </figure>
+
 
 Beautifully designed restaurant with excellent atmosphere and impressive presentations of traditional Malay dishes that still retain authentic flavours. Prices are very fair considering the quality and overall experience. Easily one of the better restaurants in Langkawi.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/malaysia/langkawi/fat-cupid-2.jpg" alt="Fat Cupid Café & Restaurant">
-  <figcaption>Fat Cupid Café & Restaurant</figcaption>
-</figure>
+
 <figure>
   <img src="/photos/malaysia/langkawi/fat-cupid-3.jpg" alt="Fat Cupid Café & Restaurant">
   <figcaption>Fat Cupid Café & Restaurant</figcaption>
@@ -27,10 +25,6 @@ Beautifully designed restaurant with excellent atmosphere and impressive present
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/langkawi/fat-cupid-4.jpg" alt="Fat Cupid Café & Restaurant">
-  <figcaption>Fat Cupid Café & Restaurant</figcaption>
-</figure>
-<figure>
-  <img src="/photos/malaysia/langkawi/fat-cupid-5.jpg" alt="Fat Cupid Café & Restaurant">
   <figcaption>Fat Cupid Café & Restaurant</figcaption>
 </figure>
 </div>
