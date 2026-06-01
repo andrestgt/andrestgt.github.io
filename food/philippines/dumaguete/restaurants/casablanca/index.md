@@ -69,10 +69,7 @@ Casablanca is quite simply a must visit for everyone who likes wine and good foo
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/dumaguete/casablanca-10.jpg" alt="Casablanca Restaurant">
-  <figcaption>Casablanca Restaurant</figcaption>
-</figure>
+
 
 ## Ratings
 
