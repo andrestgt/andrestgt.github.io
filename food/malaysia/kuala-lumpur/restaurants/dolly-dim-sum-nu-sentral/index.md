@@ -11,7 +11,7 @@ subtitle: NU Sentral · Chinese, Dim Sum
   <figcaption>Dolly Dim Sum – NU Sentral</figcaption>
 </figure>
 
-Reliable dim sum franchise serving genuinely tasty dumplings at sensible mid-range prices. A very solid choice around NU Sentral.
+Reliable dim sum franchise serving really tasty dumplings at sensible mid-range prices. A very good choice around NU Sentral.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -31,7 +31,7 @@ Reliable dim sum franchise serving genuinely tasty dumplings at sensible mid-ran
 | Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7/10   |
+| Atmosphere      | 7.5/10   |
 | Overall         | 7.5/10 |
 
 ### Practical
