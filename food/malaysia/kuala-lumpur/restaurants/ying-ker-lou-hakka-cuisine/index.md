@@ -6,20 +6,20 @@ title: Ying Ker Lou Hakka Cuisine
 subtitle: The Curve, Petaling Jaya · Chinese, Dim Sum
 ---
 
-Very solid option for dim sum around The Curve area. Quality and value are both good, although the steamed dumplings are noticeably stronger than the fried items.
+Solid option for dim sum around The Curve area. Quality and value are both good, although the steamed dumplings are noticeably tastier than the fried items.
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
-| Service         | 7/10   |
+| Food            | 7.5/10   |
+| Service         | 7.5/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ying+Ker+Lou+Hakka+Cuisine+The+Curve+Mutiara+Damansara+Petaling+Jaya)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** RM 40-60
