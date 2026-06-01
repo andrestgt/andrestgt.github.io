@@ -17,14 +17,14 @@ Very well prepared Illy cappuccinos by staff who clearly know what they are doin
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
+| Coffee          | 8.5/10   |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
-| Atmosphere      | 7.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 7/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Caffe+Ti+Amo+Soho+West+Jalan+Wan+Alwi+Kuching+Sarawak)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
