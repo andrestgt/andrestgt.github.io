@@ -19,28 +19,25 @@ Shocking service and very limited wine selection, which is a shame, because this
   <figcaption>Tapaz Langkawi</figcaption>
 </figure>
 <figure>
-  <img src="/photos/malaysia/langkawi/tapaz-langkawi-3.jpg" alt="Tapaz Langkawi">
+  <img src="/photos/malaysia/langkawi/tapaz-langkawi-4.jpg" alt="Tapaz Langkawi">
   <figcaption>Tapaz Langkawi</figcaption>
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/malaysia/langkawi/tapaz-langkawi-4.jpg" alt="Tapaz Langkawi">
-  <figcaption>Tapaz Langkawi</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 8.5/10 |
-| Atmosphere      | 7.5/10 |
-| Overall         | 8/10   |
+| Food            | 8/10 |
+| Service         | 3/10   |
+| Value for money | 9/10 |
+| Atmosphere      | 9/10 |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Tapaz+Langkawi+Tubotel+Sungai+Cenang+Pantai+Cenang+Langkawi)
 🍽️ **Cuisine:** Fusion, Tapas
-💰 **Price level:** —
+💰 **Price level:** RM 60-80
