@@ -12,14 +12,14 @@ Looks like a nice place to eat and came recommended by local expats, but the foo
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10    |
+| Food            | 7/10    |
 | Service         | 7.5/10    |
 | Value for money | 7.5/10    |
-| Atmosphere      | 6/10    |
-| Overall         | 7.5/10  |
+| Atmosphere      | 8/10    |
+| Overall         | 7/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=La+Familia+Poblacion+Panglao+Bohol)
 🍽️ **Cuisine:** Filipino, European
-💰 **Price level:** —
+💰 **Price level:** ₱400-500
