@@ -11,7 +11,7 @@ subtitle: Poblacion, Makati · Bar & Grill
   <figcaption>El Chupacabra</figcaption>
 </figure>
 
-El Chupacabra remains one of the best hangouts in Makati and is deservedly popular. The Tex-Fil-Mex food is genuinely tasty, the booze is inexpensive, and the atmosphere is always lively. The lengua burrito and sisig taco are both excellent. Very easy place to recommend.
+El Chupacabra remains one of the best hangouts in Makati and is deservedly popular. The Tex-Fil-Mex food is really tasty, the booze is inexpensive, and the atmosphere is always lively. The lengua burrito and sisig taco are both excellent. Highly recommended.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -28,9 +28,9 @@ El Chupacabra remains one of the best hangouts in Makati and is deservedly popul
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 9/10    |
-| Service         | 7.5/10  |
-| Value for money | 7.5/10    |
+| Bar food        | 8.5/10    |
+| Service         | 8/10  |
+| Value for money | 8.5/10    |
 | Atmosphere      | 8.5/10  |
 | Overall         | 8.5/10    |
 
@@ -38,4 +38,4 @@ El Chupacabra remains one of the best hangouts in Makati and is deservedly popul
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=El+Chupacabra+Felipe+St+Poblacion+Makati)
 🍺 **Type:** Bar & Grill
-💰 **Price level:** —
+💰 **Price level:** moderate
