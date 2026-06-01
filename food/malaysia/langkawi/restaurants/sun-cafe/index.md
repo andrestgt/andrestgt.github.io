@@ -15,7 +15,7 @@ One of Cenang/Tengah's classiest eateries — slightly let down by the strip mal
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/malaysia/langkawi/sun-cafe-2.jpg" alt="Sun Cafe">
+  <img src="/photos/malaysia/langkawi/sun-cafe-4.jpg" alt="Sun Cafe">
   <figcaption>Sun Cafe</figcaption>
 </figure>
 <figure>
@@ -24,18 +24,15 @@ One of Cenang/Tengah's classiest eateries — slightly let down by the strip mal
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/malaysia/langkawi/sun-cafe-4.jpg" alt="Sun Cafe">
-  <figcaption>Sun Cafe</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
+| Food            | 8/10 |
+| Service         | 8.5/10   |
+| Value for money | 8/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -43,4 +40,4 @@ One of Cenang/Tengah's classiest eateries — slightly let down by the strip mal
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sun+Cafe+Sunmall+Jalan+Pantai+Tengah+Langkawi+Malaysia)
 ☕ **Type:** Café, Restaurant
-💰 **Price level:** —
+💰 **Price level:** RM 60-80
