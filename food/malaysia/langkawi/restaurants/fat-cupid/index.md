@@ -11,7 +11,7 @@ subtitle: Pantai Tengah · Malay
   <figcaption>Fat Cupid Café & Restaurant</figcaption>
 </figure>
 
-Beautifully designed restaurant with excellent atmosphere and genuinely impressive presentations of traditional Malay dishes that still retain authentic flavours. Prices are very fair considering the quality and overall experience. Easily one of the better restaurants in Langkawi.
+Beautifully designed restaurant with excellent atmosphere and impressive presentations of traditional Malay dishes that still retain authentic flavours. Prices are very fair considering the quality and overall experience. Easily one of the better restaurants in Langkawi.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -39,9 +39,9 @@ Beautifully designed restaurant with excellent atmosphere and genuinely impressi
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 9/10 |
 | Service         | 9/10   |
-| Value for money | 8.5/10 |
+| Value for money | 9/10 |
 | Atmosphere      | 9/10   |
 | Overall         | 9/10   |
 
