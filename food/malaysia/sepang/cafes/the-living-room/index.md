@@ -11,7 +11,7 @@ subtitle: KLIA, Sepang · Café
   <figcaption>The Living Room</figcaption>
 </figure>
 
-Comfortable airport café that works perfectly while waiting for a flight. Espresso drinks are surprisingly reasonably priced for an airport and the cappuccino is actually quite good. 
+Comfortable airport café that works perfectly while waiting for a flight. Espresso drinks are surprisingly reasonably priced for an airport and the cappuccino is actually quite good. They also do a tasty nasi lemak, the ideal airport snack. 
 
 ## Ratings
 
