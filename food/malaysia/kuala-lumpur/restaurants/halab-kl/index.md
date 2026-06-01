@@ -31,7 +31,7 @@ What started out as a simple shawarma takeaway has grown into one of Bukit Binta
 | ---             | ---    |
 | Food            | 9/10   |
 | Service         | 8.5/10 |
-| Value for money | 9/10   |
+| Value for money | 8/10   |
 | Atmosphere      | 8.5/10 |
 | Overall         | 9/10   |
 
@@ -39,4 +39,4 @@ What started out as a simple shawarma takeaway has grown into one of Bukit Binta
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Halab+KL+Arabic+Restaurant+Jalan+Berangan+Bukit+Bintang+Kuala+Lumpur)
 🍽️ **Cuisine:** Lebanese, Middle Eastern
-💰 **Price level:** —
+💰 **Price level:** RM 60-80
