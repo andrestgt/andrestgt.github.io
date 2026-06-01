@@ -18,11 +18,7 @@ The main reason to visit any Crystal Jade branch is usually the dim sum, and thi
   <img src="/photos/philippines/manila/crystal-jade-bgc-2.jpg" alt="Crystal Jade Dining In">
   <figcaption>Crystal Jade Dining In</figcaption>
 </figure>
-<figure>
-  <img src="/photos/philippines/manila/crystal-jade-bgc-3.jpg" alt="Crystal Jade Dining In">
-  <figcaption>Crystal Jade Dining In</figcaption>
-</figure>
-</div>
+
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -39,14 +35,14 @@ The main reason to visit any Crystal Jade branch is usually the dim sum, and thi
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
+| Food            | 8.5/10   |
 | Service         | 7/10    |
-| Value for money | 5.5/10  |
+| Value for money | 7.5/10  |
 | Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Crystal+Jade+Dining+In+Bonifacio+High+Street+BGC+Taguig)
 🍽️ **Cuisine:** Chinese, Dim Sum
-💰 **Price level:** —
+💰 **Price level:** ₱1000-1500
