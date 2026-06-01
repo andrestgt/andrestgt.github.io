@@ -5,9 +5,8 @@ review: true
 title: Andy's Golden Grill
 subtitle: Dumaguete City · European, International
 ---
-
 <figure>
-  <img src="/photos/philippines/dumaguete/andys-golden-grill-1.jpg" alt="Andy's Golden Grill">
+  <img src="/photos/philippines/dumaguete/andys-golden-grill-4.jpg" alt="Andy's Golden Grill">
   <figcaption>Andy's Golden Grill</figcaption>
 </figure>
 
@@ -24,23 +23,20 @@ Formerly Andy's, with very good proper European home cooked dishes in a pleasant
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/dumaguete/andys-golden-grill-4.jpg" alt="Andy's Golden Grill">
-  <figcaption>Andy's Golden Grill</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10  |
+| Food            | 8/10  |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
+| Value for money | 8.5/10  |
 | Atmosphere      | 7.5/10  |
-| Overall         | 7.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Andy%27s+Golden+Grill+Dumaguete+City)
 🍽️ **Cuisine:** European, International
-💰 **Price level:** —
+💰 **Price level:** ₱1000
