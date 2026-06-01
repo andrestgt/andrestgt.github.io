@@ -13,13 +13,13 @@ Commune looks like it should be a very good café, but the coffee preparation wa
 | Category        | Score |
 | ---             | ---   |
 | Coffee          | 4/10   |
-| Service         | 4/10   |
+| Service         | 6/10   |
 | Value for money | 4/10   |
-| Atmosphere      | 4/10   |
-| Overall         | 4/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 4.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Commune+Cafe+Bar+Roastery+Polaris+Makati)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate
