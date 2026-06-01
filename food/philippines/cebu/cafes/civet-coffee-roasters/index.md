@@ -17,14 +17,14 @@ The cappuccino at Civet Coffee Roasters is actually very good, probably the best
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
+| Coffee          | 8/10   |
 | Service         | 6/10    |
-| Value for money | 6/10    |
-| Atmosphere      | 4.5/10  |
-| Overall         | 8.5/10    |
+| Value for money | 6.5/10    |
+| Atmosphere      | 4/10  |
+| Overall         | 7/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Civet+Coffee+Roasters+Lapu-Lapu+City+Mactan+Cebu)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** —
+💰 **Price level:** moderate
