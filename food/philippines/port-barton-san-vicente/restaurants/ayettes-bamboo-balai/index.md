@@ -54,4 +54,4 @@ I stayed here back in 2009 when Port Barton was still a quiet, off-the-beaten-pa
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ayette%27s+Bamboo+Balai+Port+Barton+San+Vicente+Palawan)
 🍽️ **Cuisine:** Filipino, International
-💰 **Price level:** —1000
+💰 **Price level:** ₱600-800
