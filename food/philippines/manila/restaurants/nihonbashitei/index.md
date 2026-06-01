@@ -70,7 +70,7 @@ Nihonbashitei, whether the Makati or the Malate branches, is THE place in Manila
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/philippines/manila/nihonbashitei-12.jpg" alt="Nihonbashitei">
+  <img src="/photos/philippines/manila/nihonbashitei-14.jpg" alt="Nihonbashitei">
   <figcaption>Nihonbashitei</figcaption>
 </figure>
 <figure>
@@ -79,23 +79,20 @@ Nihonbashitei, whether the Makati or the Malate branches, is THE place in Manila
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/manila/nihonbashitei-14.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 8/10   |
-| Service         | 7/10   |
-| Value for money | 8.5/10   |
-| Atmosphere      | 5/10   |
-| Overall         | 8/10   |
+| Food            | 8.5/10   |
+| Service         | 7.5/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Nihonbashitei+Antonio+Arnaiz+Ave+Makati)
 🍽️ **Cuisine:** Japanese
-💰 **Price level:** —
+💰 **Price level:**  ₱1000-1200
