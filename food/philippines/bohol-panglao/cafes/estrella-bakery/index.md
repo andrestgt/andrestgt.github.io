@@ -12,14 +12,14 @@ This tiny bakery serves what is probably the best cappuccino on the island, usin
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 9/10   |
+| Coffee          | 8.5/10   |
 | Service         | 6/10   |
-| Value for money | 6/10   |
+| Value for money | 8/10   |
 | Atmosphere      | 6/10   |
-| Overall         | 8.5/10   |
+| Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Estrella+Bakery+Tagbilaran+City+Bohol)
 ☕ **Type:** Bakery, Café
-💰 **Price level:** —
+💰 **Price level:** inexpensive
