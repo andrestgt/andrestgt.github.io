@@ -13,16 +13,6 @@ subtitle: Legazpi Village, Makati · Café, Bistro
 
 More spacious and comfortable than the BGC and Salcedo branches. The WiFi is poor, but otherwise this place delivers European-level quality at European-level prices. The bread and pastries are probably among the best in the country, the coffees are very good, and the cronuts are excellent. Expect to pay around 160 Php or more for a cappuccino these days.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/manila/wildflour-rada-2.jpg" alt="Wildflour – Legazpi Village">
-  <figcaption>Wildflour – Legazpi Village</figcaption>
-</figure>
-<figure>
-  <img src="/photos/philippines/manila/wildflour-rada-3.jpg" alt="Wildflour – Legazpi Village">
-  <figcaption>Wildflour – Legazpi Village</figcaption>
-</figure>
-</div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -40,18 +30,13 @@ More spacious and comfortable than the BGC and Salcedo branches. The WiFi is poo
   <img src="/photos/philippines/manila/wildflour-rada-6.jpg" alt="Wildflour – Legazpi Village">
   <figcaption>Wildflour – Legazpi Village</figcaption>
 </figure>
-<figure>
-  <img src="/photos/philippines/manila/wildflour-rada-7.jpg" alt="Wildflour – Legazpi Village">
-  <figcaption>Wildflour – Legazpi Village</figcaption>
-</figure>
-</div>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 7.5/10  |
+| Coffee          | 8.5/10   |
+| Service         | 8/10  |
 | Value for money | 7.5/10  |
 | Atmosphere      | 8/10   |
 | Overall         | 8.5/10    |
@@ -60,4 +45,4 @@ More spacious and comfortable than the BGC and Salcedo branches. The WiFi is poo
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wildflour+Legazpi+Village+Makati)
 ☕ **Type:** Café, Bistro
-💰 **Price level:** —
+💰 **Price level:** expensive
