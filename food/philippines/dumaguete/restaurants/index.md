@@ -88,13 +88,6 @@ Reasonably decent pizza, cakes and coffee, but nothing really stands out — and
 
 ---
 
-## Señorita's Mexican Grill
-*Dumaguete Airport · Mexican*
-Prices are higher than in town but still reasonable for an airport restaurant — decent food and comfortable for waiting.
-→ [Read the full review](/food/philippines/dumaguete/restaurants/senoritas-mexican-grill/)
-
----
-
 ## Sta. Teresa Resto
 *San Juan, Dumaguete · Filipino*
 Upmarket carinderia with intensely rich, pungent, authentically Filipino pre-cooked dishes — very much designed to be eaten with rice.
