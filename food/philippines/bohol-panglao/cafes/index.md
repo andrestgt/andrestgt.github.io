@@ -48,13 +48,6 @@ Good atmosphere and competent baristas let down by mediocre beans — a real mis
 
 ---
 
-## The Buzzz Café – Galleria Luisa
-*Tagbilaran City · Café, Filipino*
-Fresh salads and vegetables are a rarity in this part of the Philippines, which is about the best thing to say about this branch.
-→ [Read the full review](/food/philippines/bohol-panglao/cafes/the-buzzz-cafe-galleria/)
-
----
-
 ## Bo's Coffee – Island City Mall
 *Tagbilaran City · Café*
 Noticeably worse than most Bo's branches — overly hot, too milky, and very average for the price.
