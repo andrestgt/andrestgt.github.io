@@ -12,14 +12,14 @@ Serving all drinks in disposable plastic or paper cups even for customers sittin
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 4/10  |
-| Service         | 4/10  |
-| Value for money | 4/10  |
-| Atmosphere      | 4/10  |
+| Coffee          | 5/10  |
+| Service         | 3/10  |
+| Value for money | 3/10  |
+| Atmosphere      | 5/10  |
 | Overall         | 4/10  |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Starbucks+Cenang+Mall+Jalan+Pantai+Cenang+Langkawi)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
