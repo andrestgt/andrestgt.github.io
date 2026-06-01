@@ -6,16 +6,16 @@ title: WHEELER'S
 subtitle: Lorong Love, George Town · Café
 ---
 
-Very good cappuccino for under 10 RM in a stylishly decorated café. One of the better coffee stops in George Town.
+Very good cappuccino for under 10 RM in a stylishly decorated café. One of the better coffee shops in George Town.
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
 | Coffee          | 8.5/10 |
-| Service         | 7/10   |
-| Value for money | 7.5/10 |
-| Atmosphere      | 7.5/10 |
+| Service         | 7.5/10   |
+| Value for money | 8/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
