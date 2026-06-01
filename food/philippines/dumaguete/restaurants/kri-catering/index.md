@@ -73,4 +73,4 @@ KRI is Dumaguete's most ambitious restaurant. With an open kitchen and a stylish
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=KRI+Catering+Silliman+Ave+Dumaguete+City)
 🍽️ **Cuisine:** International, Filipino
-💰 **Price level:** ₱1000
+💰 **Price level:** ₱600
