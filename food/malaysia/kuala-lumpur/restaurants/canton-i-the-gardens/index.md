@@ -12,9 +12,9 @@ A decent enough option for Cantonese dim sum when stuck in Mid Valley. Quality i
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6.5/10 |
+| Food            | 7.5/10 |
 | Service         | 7/10   |
-| Value for money | 6.5/10 |
+| Value for money | 6/10 |
 | Atmosphere      | 7/10   |
 | Overall         | 7/10   |
 
