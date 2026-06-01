@@ -13,18 +13,33 @@ subtitle: San Vicente Beach · Bar
 
 This place is anything but stylish — the décor is pretty awful. But if you can look past that, it's the cheapest spot for drinks and food right on the beach. Perfect for grabbing a few beers, enjoying the sunset, and having a quick snack without breaking the bank. Just don't expect any aesthetic charm!
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/port-barton-san-vicente/SEA25-0259.jpg" alt="The Beach Barn" style="width: 100%;">
+      <figcaption>The Beach Barn</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/philippines/port-barton-san-vicente/SEA25-0261.jpg" alt="The Beach Barn" style="width: 100%;">
+      <figcaption>The Beach Barn</figcaption>
+    </figure>
+  </div>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Bar food        | 9/10    |
+| Bar food        | 7.5/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10    |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Value for money | 8/10    |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=The+Beach+Barn+Summer+Homes+San+Vicente+Palawan)
 🍺 **Type:** Bar
-💰 **Price level:** inexpensive
+💰 **Price level:** moderate
