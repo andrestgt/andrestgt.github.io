@@ -11,7 +11,7 @@ subtitle: Baywalk, Puerto Princesa · Filipino
   <figcaption>Lato Coffee and Restaurant</figcaption>
 </figure>
 
-Upmarket carinderia with sea views on Puerto's rather forlorn Baywalk. They offer a good variety of Filipino favourites like kinilaw, ensaladang talong, and dinuguan. Prices are on the high side, but the food is solid, and the service is excellent. A rare bonus for this town: they have functioning WiFi.
+Upmarket carinderia with sea views on Puerto's rather forlorn Baywalk. They offer a good variety of Filipino favourites like kinilaw, ensaladang talong, and dinuguan. Prices are on the high side, but the food is very tasty, and the service is excellent. A rare bonus for this town: they have functioning WiFi.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">
@@ -44,14 +44,14 @@ Upmarket carinderia with sea views on Puerto's rather forlorn Baywalk. They offe
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8.5/10    |
-| Service         | 6.5/10   |
-| Value for money | 7.5/10    |
-| Atmosphere      | 8.5/10    |
-| Overall         | 8.5/10    |
+| Food            | 8/10    |
+| Service         | 7.5/10   |
+| Value for money | 8/10    |
+| Atmosphere      | 8/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Lato+Coffee+and+Restaurant+Baywalk+Puerto+Princesa+Palawan)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** ₱200–400
+💰 **Price level:** ₱400–600
