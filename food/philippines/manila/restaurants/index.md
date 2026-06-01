@@ -25,13 +25,6 @@ Stylish upscale restaurant with creative food, affordable wines, and excellent l
 
 ---
 
-## Wildflour Restaurant – Greenhills
-*Greenhills, San Juan · Café, Bistro*
-The same reliable Wildflour quality as elsewhere but more spacious and quieter than the BGC or Makati locations.
-→ [Read the full review](/food/philippines/manila/restaurants/wildflour-greenhills/)
-
----
-
 ## Mr. Kurosawa
 *Newport City, Pasay · Japanese, Fusion*
 Surprisingly good Japanese-inspired fusion food — the spicy salmon salad is excellent and the sashimi notably fresh.

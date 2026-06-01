@@ -17,6 +17,12 @@ More spacious than the other branches — European-level quality at European-lev
 → [Read the full review](/food/philippines/manila/cafes/wildflour-legazpi-village/)
 
 ---
+## Wildflour Restaurant – Greenhills
+*Greenhills, San Juan · Café, Bistro*
+The same reliable Wildflour quality as elsewhere but more spacious and quieter >
+→ [Read the full review](/food/philippines/manila/cafes/wildflour-greenhills>
+
+---
 
 ## Wildflour Restaurant – BGC
 *BGC, Taguig · Café, Bistro*
