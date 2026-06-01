@@ -51,24 +51,20 @@ Belito's Vineyard is located just off busy Laurel St, but its rustic garden sett
   <img src="/photos/philippines/davao/belitos-8.jpg" alt="Belito's Vineyard">
   <figcaption>Belito's Vineyard</figcaption>
 </figure>
-<figure>
-  <img src="/photos/philippines/davao/belitos-9.jpg" alt="Belito's Vineyard">
-  <figcaption>Belito's Vineyard</figcaption>
-</figure>
 </div>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
-| Service         | 7/10    |
+| Food            | 8/10    |
+| Service         | 7.5/10    |
 | Value for money | 9/10    |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Belito%27s+Vineyard+Bajada+Davao+City)
 🍽️ **Cuisine:** Spanish, Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
