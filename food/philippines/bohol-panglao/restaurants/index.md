@@ -67,10 +67,10 @@ A quiet oasis away from the beach crowds with solid international comfort food a
 
 ---
 
-## Bohol Don Panglao
+## Boholhanuri
 *Alona Beach, Panglao · Korean*
 Standard Korean canteen atmosphere but good food at more reasonable prices than most Alona spots — spicy squid recommended.
-→ [Read the full review](/food/philippines/bohol-panglao/restaurants/bohol-don-panglao/)
+→ [Read the full review](/food/philippines/bohol-panglao/restaurants/boholhanuri/)
 
 ---
 
