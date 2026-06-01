@@ -18,6 +18,13 @@ More spacious than the other branches — European-level quality at European-lev
 
 ---
 
+## Wildflour Restaurant – BGC
+*BGC, Taguig · Café, Bistro*
+Ridiculously popular and deservedly so — delicious crispy bread, perfectly prep>
+→ [Read the full review](/food/philippines/manila/cefes/wildflour-bgc/)
+
+---
+
 ## Toby's Estate Coffee Roasters – BGC
 *BGC, Taguig · Specialty Coffee*
 Genuinely excellent coffee at 147 Php a cappuccino — comfortable seats with sockets, though no wifi feels oddly stingy.

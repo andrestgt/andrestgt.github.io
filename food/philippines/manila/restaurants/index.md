@@ -25,13 +25,6 @@ Stylish upscale restaurant with creative food, affordable wines, and excellent l
 
 ---
 
-## Wildflour Restaurant – BGC
-*BGC, Taguig · Café, Bistro*
-Ridiculously popular and deservedly so — delicious crispy bread, perfectly prepared cappuccino, and good bistro fare.
-→ [Read the full review](/food/philippines/manila/restaurants/wildflour-bgc/)
-
----
-
 ## Wildflour Restaurant – Greenhills
 *Greenhills, San Juan · Café, Bistro*
 The same reliable Wildflour quality as elsewhere but more spacious and quieter than the BGC or Makati locations.
