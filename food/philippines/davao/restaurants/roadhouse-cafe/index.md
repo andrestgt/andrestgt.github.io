@@ -43,4 +43,4 @@ This restaurant at SM City is the Filipino version of an American diner — hone
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Roadhouse+Cafe+SM+City+Ecoland+Davao+City)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** ₱600-800
+💰 **Price level:** ₱800-1000
