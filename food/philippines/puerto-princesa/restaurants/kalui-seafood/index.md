@@ -35,8 +35,8 @@ I first visited this restaurant almost two decades ago. Fast forward to 2025, an
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
-| Service         | 6.5/10    |
+| Food            | 8.5/10    |
+| Service         | 8.5/10    |
 | Value for money | 9/10    |
 | Atmosphere      | 9/10    |
 | Overall         | 8.5/10   |
@@ -45,4 +45,4 @@ I first visited this restaurant almost two decades ago. Fast forward to 2025, an
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kalui+Seafood+Restaurant+Rizal+Avenue+Puerto+Princesa+Palawan)
 🍽️ **Cuisine:** Filipino, Seafood
-💰 **Price level:** ₱600–800
+💰 **Price level:** ₱800–1200
