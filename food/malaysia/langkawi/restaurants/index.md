@@ -61,13 +61,6 @@ Very authentic Syrian and Middle Eastern food with excellent appetisers and part
 
 ---
 
-## Bella Restaurant
-*Pantai Cenang · Malay, International*
-Simple tourist restaurant right on the Cenang strip — decent food, fair prices, perfectly serviceable but nothing memorable.
-→ [Read the full review](/food/malaysia/langkawi/restaurants/bella-restaurant/)
-
----
-
 ## Colonial India Restaurant
 *Langkawi · Indian*
 Fairly good food but oddly lifeless atmosphere, service lacks warmth, portions are small, and the mango lassi is genuinely awful.
