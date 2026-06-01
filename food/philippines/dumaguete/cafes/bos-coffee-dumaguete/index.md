@@ -20,11 +20,11 @@ The cappuccino quality here varies wildly from day to day, but at least it can o
 | Coffee          | 6/10   |
 | Service         | 6/10   |
 | Value for money | 6/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bo%27s+Coffee+Rizal+Boulevard+Dumaguete)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
