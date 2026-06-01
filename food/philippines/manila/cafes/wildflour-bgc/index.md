@@ -39,9 +39,9 @@ Knowing the average Filipino palate, I am seriously surprised by the ridiculous 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10   |
-| Service         | 6.5/10    |
-| Value for money | 6.5/10    |
+| Food and Coffee | 9/10   |
+| Service         | 7.5/10    |
+| Value for money | 8/10    |
 | Atmosphere      | 7.5/10    |
 | Overall         | 8.5/10    |
 
@@ -49,4 +49,4 @@ Knowing the average Filipino palate, I am seriously surprised by the ridiculous 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Wildflour%20Restaurant%2C%204th%20Avenue%2C%20Corner%2026th%20St%2C%20Taguig%2C%20Metro%20Manila%2C%20Philippines)
 🍽️ **Cuisine:** Bakery, Bistro
-💰 **Price level:** —
+💰 **Price level:** expensive
