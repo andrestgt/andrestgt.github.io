@@ -22,4 +22,4 @@ Open 24 hours, reasonably priced and consistently reliable. Malate may have chan
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=MakChang+Adriatico+St+Malate+Manila)
 🍽️ **Cuisine:** Korean
-💰 **Price level:** —
+💰 **Price level:** ₱800-1000
