@@ -11,7 +11,7 @@ subtitle: SM City Ecoland, Davao City · Filipino
   <figcaption>Roadhouse Café</figcaption>
 </figure>
 
-This restaurant at SM City is the Filipino version of an American diner — honest local food in big portions at decent prices. I was genuinely surprised that the quality of the food here was so good. All the dishes we ordered — the tangigue kinilaw, the stuffed calmar, the kare-kare and the seafood basket — were all impeccable. Prices are on the high side for Davao city but for the size and quality still very reasonable.
+This restaurant at SM City is the Filipino version of an American diner — honest local food in big portions at decent prices. I was really surprised that the quality of the food here was so good. All the dishes we ordered — the tangigue kinilaw, the stuffed calmar, the kare-kare and the seafood basket — were all impeccable. Prices are on the high side for Davao city but for the size and quality still very reasonable.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -33,9 +33,9 @@ This restaurant at SM City is the Filipino version of an American diner — hone
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10    |
-| Service         | 7.5/10    |
-| Value for money | 7.5/10  |
+| Food            | 8/10    |
+| Service         | 8/10    |
+| Value for money | 8.5/10  |
 | Atmosphere      | 7.5/10  |
 | Overall         | 8/10    |
 
@@ -43,4 +43,4 @@ This restaurant at SM City is the Filipino version of an American diner — hone
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Roadhouse+Cafe+SM+City+Ecoland+Davao+City)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
