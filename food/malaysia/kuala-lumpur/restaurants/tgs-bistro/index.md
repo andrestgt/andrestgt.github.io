@@ -22,9 +22,9 @@ A very useful place to know in Bukit Bintang if you want inexpensive Indian-Mala
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
-| Value for money | 5.5/10 |
+| Value for money | 9/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -32,4 +32,4 @@ A very useful place to know in Bukit Bintang if you want inexpensive Indian-Mala
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=TG%27s+Bistro+Tengkat+Tong+Shin+Bukit+Bintang+Kuala+Lumpur)
 🍽️ **Cuisine:** Indian, Malay
-💰 **Price level:** —
+💰 **Price level:** RM 20-40
