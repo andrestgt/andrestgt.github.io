@@ -7,7 +7,7 @@ subtitle: Rizal Boulevard, Dumaguete · Tapas Bar
 ---
 
 <figure>
-  <img src="/photos/philippines/dumaguete/allegre-bar-1.jpg" alt="Allegre Bar">
+  <img src="/photos/philippines/dumaguete/allegre-bar-4.jpg" alt="Allegre Bar">
   <figcaption>Allegre Bar</figcaption>
 </figure>
 
@@ -24,18 +24,15 @@ This tiny, yet elegant hole-in-the-wall is elevating the gastronomic options of 
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/dumaguete/allegre-bar-4.jpg" alt="Allegre Bar">
-  <figcaption>Allegre Bar</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
 | Bar food        | 8.5/10    |
-| Service         | 7.5/10  |
-| Value for money | 7.5/10    |
+| Service         | 8/10  |
+| Value for money | 8.5/10    |
 | Atmosphere      | 8.5/10  |
 | Overall         | 8.5/10    |
 
@@ -43,4 +40,4 @@ This tiny, yet elegant hole-in-the-wall is elevating the gastronomic options of 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Allegre+Bar+Rizal+Boulevard+Dumaguete+City)
 🍺 **Type:** Tapas Bar
-💰 **Price level:** inexpensive
+💰 **Price level:** ₱800-1000
