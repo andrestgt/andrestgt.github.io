@@ -22,7 +22,7 @@ Excellent fish and chips served directly by the beach with beautiful sea views. 
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 7.5/10 |
 | Value for money | 8.5/10 |
 | Atmosphere      | 9/10   |
