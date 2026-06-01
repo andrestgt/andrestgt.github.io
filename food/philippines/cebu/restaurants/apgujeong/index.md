@@ -51,13 +51,13 @@ Apgujeong serves very authentic Korean food and is clearly popular with the loca
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8.5/10    |
-| Service         | 7/10    |
+| Service         | 7.5/10    |
 | Value for money | 7.5/10  |
 | Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Apgujeong+Korean+Restaurant+Mactan+Cebu)
 🍽️ **Cuisine:** Korean
-💰 **Price level:** —
+💰 **Price level:** ₱800-1200
