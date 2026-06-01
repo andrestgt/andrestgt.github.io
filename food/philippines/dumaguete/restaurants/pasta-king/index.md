@@ -11,7 +11,7 @@ subtitle: Dumaguete City · Italian
   <figcaption>Pasta King Cafe di Roma</figcaption>
 </figure>
 
-Everything here is reasonably decent, from the pizza to the cakes and coffee, but nothing really stands out. The coffee may actually be among the better ones in Dumaguete, which admittedly is not saying much. Prices are fair, though the café itself is not especially comfortable for lingering.
+Everything here is reasonably decent, from the pizza to the cakes and coffee, but nothing really stands out. The coffee may actually be among the better ones in Dumaguete, which admittedly is not saying much. Prices are fair, though the place itself is not especially comfortable for lingering.
 
 <figure>
   <img src="/photos/philippines/dumaguete/pasta-king-2.jpg" alt="Pasta King Cafe di Roma">
@@ -25,11 +25,11 @@ Everything here is reasonably decent, from the pizza to the cakes and coffee, bu
 | Food            | 7.5/10   |
 | Service         | 6/10   |
 | Value for money | 7.5/10   |
-| Atmosphere      | 7.5/10   |
-| Overall         | 7.5/10   |
+| Atmosphere      | 6.5/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Pasta+King+Cafe+di+Roma+Dumaguete+City)
 🍽️ **Cuisine:** Italian
-💰 **Price level:** —
+💰 **Price level:** ₱500-700
