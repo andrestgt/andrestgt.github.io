@@ -17,14 +17,14 @@ Despite the dramatic name, there is nothing particularly revolutionary here. The
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 5/10   |
+| Food            | 7/10   |
 | Service         | 6/10   |
-| Value for money | 5/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 6/10   |
+| Value for money | 5.5/10   |
+| Atmosphere      | 6.5/10   |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=KKK+Pinoy+Food+Revolution+SM+North+EDSA+Quezon+City)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
