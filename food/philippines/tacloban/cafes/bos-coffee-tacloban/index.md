@@ -22,4 +22,4 @@ The coffee at this Bo's branch is fairly average and definitely overpriced at ar
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bo%27s+Coffee+Avenida+Veteranos+Downtown+Tacloban+City)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** moderate
