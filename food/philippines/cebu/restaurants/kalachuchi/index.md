@@ -7,7 +7,7 @@ subtitle: Mactan, Cebu · Asian, Filipino
 ---
 
 <figure>
-  <img src="/photos/philippines/cebu/kalachuchi-1.jpg" alt="Kalachuchi Fusion Cuisine & Grill">
+  <img src="/photos/philippines/cebu/kalachuchi-4.jpg" alt="Kalachuchi Fusion Cuisine & Grill">
   <figcaption>Kalachuchi Fusion Cuisine & Grill</figcaption>
 </figure>
 
@@ -24,23 +24,20 @@ Kalachuchi is a pleasant little garden restaurant serving reasonably priced pan-
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/philippines/cebu/kalachuchi-4.jpg" alt="Kalachuchi Fusion Cuisine & Grill">
-  <figcaption>Kalachuchi Fusion Cuisine & Grill</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10  |
+| Food            | 8/10  |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kalachuchi+Fusion+Cuisine+Grill+Mactan+Cebu)
 🍽️ **Cuisine:** Asian, Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱800
