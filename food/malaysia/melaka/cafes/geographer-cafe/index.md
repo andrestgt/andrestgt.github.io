@@ -7,22 +7,17 @@ subtitle: Jalan Hang Jebat, Melaka · Café
 ---
 
 <figure>
-  <img src="/photos/malaysia/melaka/geographer-cafe-1.jpg" alt="Geographér Café">
-  <figcaption>Geographér Café</figcaption>
-</figure>
-
-Longstanding Melaka institution in a prime Old Town location. The food is mostly vegetarian but very good, the coffees are decent and overall prices remain fair considering the location. A Melaka visit is not completely withput spending some time here.
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/malaysia/melaka/geographer-cafe-2.jpg" alt="Geographér Café">
-  <figcaption>Geographér Café</figcaption>
-</figure>
-<figure>
   <img src="/photos/malaysia/melaka/geographer-cafe-4.jpg" alt="Geographér Café">
   <figcaption>Geographér Café</figcaption>
 </figure>
-</div>
+
+
+Longstanding Melaka institution in a prime Old Town location. The food is mostly vegetarian but very good, the coffees are decent and overall prices remain fair considering the location. A Melaka visit is not completely withput spending some time here.
+
+<figure>
+  <img src="/photos/malaysia/melaka/geographer-cafe-1.jpg" alt="Geographér Café">
+  <figcaption>Geographér Café</figcaption>
+</figure>
 
 
 
