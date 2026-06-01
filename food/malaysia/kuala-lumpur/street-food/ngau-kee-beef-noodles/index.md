@@ -19,7 +19,7 @@ Simple late-night beef noodle spot that is perfect after drinks around Changkat.
 | ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 7.5/10 |
+| Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 8/10   |
 
@@ -27,4 +27,4 @@ Simple late-night beef noodle spot that is perfect after drinks around Changkat.
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Ngau+Kee+Beef+Noodles+Jalan+Tong+Shin+Bukit+Bintang+Kuala+Lumpur)
 🍽️ **Cuisine:** Chinese, Noodles
-💰 **Price level:** —
+💰 **Price level:** RM 20
