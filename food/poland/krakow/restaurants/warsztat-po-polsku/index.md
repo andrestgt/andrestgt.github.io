@@ -6,14 +6,25 @@ title: Polish Traditional Food Warsztat Po Polsku
 subtitle: Kraków · Polish
 ---
 
+<figure>
+  <img src="/photos/poland/krakow/RTCE17-0819.jpg" alt="Warsztat po Polsku">
+  <figcaption>Warsztat po Polsku</figcaption>
+</figure>
+
+
 Small place with a mix of tourists and locals, serving simple Polish food. It's tasty and not expensive, though portions are quite small by Central European standards. There's no draft beer available. The bigos and pork neck are both good.
+
+<figure>
+  <img src="/photos/poland/krakow/RTCE17-0818.jpg" alt="Warsztat po Polsku">
+  <figcaption>Warsztat po Polsku</figcaption>
+</figure>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 7.5/10 |
-| Service         | 7/10   |
+| Service         | 7.5/10   |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7.5/10 |
 | Overall         | 7.5/10 |
