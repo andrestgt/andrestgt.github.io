@@ -17,7 +17,8 @@ subtitle: BGC, Taguig · Specialty Coffee
   <figcaption>Single Origin – Bonifacio High Street</figcaption>
 </figure>
 
-They seem to have better baristas these days. Coffee drinks are very good now, though expensive at 160 Php for a flat white. A reliable specialty coffee destination in BGC.
+The first time I visited here, they had just newly opened. It had a lot of potential, as well as some teething problems. Good service , quality products , but the cappuccino was served too hot and the flat bread dough should have been crispier.
+They seem to have better baristas these days. Coffee drinks are very good now, but it's expensive . Flat white is 160 Php
 
 
 
@@ -25,11 +26,11 @@ They seem to have better baristas these days. Coffee drinks are very good now, t
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 7/10   |
-| Service         | 7/10    |
-| Value for money | 5.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 7/10    |
+| Coffee          | 8/10   |
+| Service         | 7.5/10    |
+| Value for money | 6.5/10  |
+| Atmosphere      | 8/10  |
+| Overall         | 7.5/10    |
 
 ### Practical
 
@@ -37,4 +38,4 @@ They seem to have better baristas these days. Coffee drinks are very good now, t
 
 ☕ **Type:** Specialty Coffee
 
-💰 **Price level:** —
+💰 **Price level:** expensive
