@@ -17,11 +17,11 @@ Exactly what the name implies: vodka and beer. It's cheap and cheerful and does 
 
 | Category        | Score  |
 | ---             | ---    |
-| Beer            | 7/10   |
-| Service         | 7/10   |
+| Beer            | 7.5/10   |
+| Service         | 8/10   |
 | Value for money | 9/10   |
-| Atmosphere      | 7/10   |
-| Overall         | 7.5/10 |
+| Atmosphere      | 8/10   |
+| Overall         | 8/10 |
 
 ### Practical
 
