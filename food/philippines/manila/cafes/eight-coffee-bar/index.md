@@ -22,14 +22,14 @@ The food at Eight Coffee Bar is actually very good, especially the kare-kare wit
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 6.5/10  |
-| Service         | 5.5/10    |
-| Value for money | 5.5/10    |
-| Atmosphere      | 5.5/10    |
-| Overall         | 5.5/10    |
+| Coffee          | 5/10  |
+| Food            | 7.5/10    |
+| Value for money | 6/10    |
+| Atmosphere      | 8/10    |
+| Overall         | 6/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Eight+Coffee+Bar+UCC+Rockwell+Makati)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
