@@ -31,6 +31,12 @@ I will have to go with the minority opinion on this one and say that the Indian 
 
 ---
 
+## Bếp Huế
+*Ho Chi Minh City*
+Tiny, and massively popular.
+→ [Read the full review](/food/vietnam/ho-chi-minh-city/restaurants/bep-hue/)
+
+
 ## Bollywood Indian district 7
 *Ho Chi Minh City*
 Got a delivery from here.
