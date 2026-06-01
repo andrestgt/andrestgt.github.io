@@ -11,6 +11,14 @@ subtitle: Restaurants in Dumaguete and Dauin
 
 ---
 
+## Allegre Bar
+*Rizal Boulevard, Dumaguete · Tapas Bar*
+A tiny elegant hole-in-the-wall elevating Dumaguete's dining scene with authent>
+→ [Read the full review](/food/philippines/dumaguete/restaurants/allegre-bar/)
+
+---
+
+
 ## Casablanca Restaurant
 *Rizal Boulevard, Dumaguete · International*
 A must visit for anyone who likes wine and good food in the Visayas — a decade of consistent excellence and incredible lunch deals.
