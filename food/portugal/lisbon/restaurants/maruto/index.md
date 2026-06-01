@@ -11,7 +11,7 @@ subtitle: Lisbon · Bistro
   <figcaption>Maruto</figcaption>
 </figure>
 
-Cute little bistro serving good tibornas and other small dishes. The cocktails are not especially convincing, though, so it's probably better to stick with wine or craft beer here.
+Cute little bistro serving good tibornas and other small dishes. The cocktails are not at all convincing, though, so it's probably better to stick with wine or craft beer here.
 
 ## Ratings
 
