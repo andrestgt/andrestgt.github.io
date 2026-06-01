@@ -26,10 +26,6 @@ I first visited this restaurant almost two decades ago. Fast forward to 2025, an
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/philippines/puerto-princesa/kalui-seafood-4.jpg" alt="Kalui Seafood Restaurant">
-  <figcaption>Kalui Seafood Restaurant</figcaption>
-</figure>
-<figure>
   <img src="/photos/philippines/puerto-princesa/kalui-seafood-5.jpg" alt="Kalui Seafood Restaurant">
   <figcaption>Kalui Seafood Restaurant</figcaption>
 </figure>
