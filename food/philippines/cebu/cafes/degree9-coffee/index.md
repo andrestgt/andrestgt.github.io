@@ -22,4 +22,4 @@ Degree9 gets a lot of things right: comfortable seating, strong air conditioning
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Degree9+Coffee+Roasting+Cebu+City)
 ☕ **Type:** Specialty Coffee
-💰 **Price level:** expensive
+💰 **Price level:** moderate
