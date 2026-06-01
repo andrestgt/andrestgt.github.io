@@ -22,7 +22,7 @@ Jalan Alor is dominated by tourist-oriented seafood restaurants, but if you cont
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7.5/10   |
 | Service         | 7/10   |
 | Value for money | 8.5/10 |
 | Atmosphere      | 7.5/10 |
@@ -32,4 +32,4 @@ Jalan Alor is dominated by tourist-oriented seafood restaurants, but if you cont
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Warung+R+J+Jalan+Alor+Bukit+Bintang+Kuala+Lumpur)
 🍽️ **Cuisine:** Malay
-💰 **Price level:** RM 10-20
+💰 **Price level:** RM 20´30
