@@ -12,44 +12,19 @@ subtitle: BGC, Taguig · Burgers
 
 ---
 
-<figure>
-  <img src="/photos/philippines/manila/brothers-burger-bgc-1.jpg" alt="Brothers Burger – Bonifacio High Street">
-  <figcaption>Brothers Burger – Bonifacio High Street</figcaption>
-</figure>
+Brothers Burger is still probably the best burger franchise in the Philippines. Unlike many local chains, they thankfully avoid putting sweetness into the buns or mayo, and the burgers have proper texture and flavour. The lamb burger is especially good and worth the 250 Php price tag. Always a reliable favourite.
 
-Brothers Burger is still probably the best burger franchise in the Philippines. Unlike many local chains, they thankfully avoid putting sweetness into the buns or mayo, and the burgers have proper texture and flavour. The lamb burger is especially good and worth the roughly 250 Php price tag. Always a reliable favourite.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/manila/brothers-burger-bgc-2.jpg" alt="Brothers Burger – Bonifacio High Street">
-  <figcaption>Brothers Burger – Bonifacio High Street</figcaption>
-</figure>
-<figure>
-  <img src="/photos/philippines/manila/brothers-burger-bgc-3.jpg" alt="Brothers Burger – Bonifacio High Street">
-  <figcaption>Brothers Burger – Bonifacio High Street</figcaption>
-</figure>
-</div>
-
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/manila/brothers-burger-bgc-4.jpg" alt="Brothers Burger – Bonifacio High Street">
-  <figcaption>Brothers Burger – Bonifacio High Street</figcaption>
-</figure>
-<figure>
-  <img src="/photos/philippines/manila/brothers-burger-bgc-5.jpg" alt="Brothers Burger – Bonifacio High Street">
-  <figcaption>Brothers Burger – Bonifacio High Street</figcaption>
-</figure>
-</div>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9/10    |
+| Food            | 7.5/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Value for money | 8/10  |
+| Atmosphere      | 7/10  |
+| Overall         | 7.5/10    |
 
 ### Practical
 
@@ -57,5 +32,5 @@ Brothers Burger is still probably the best burger franchise in the Philippines. 
 
 🍽️ **Cuisine:** Burgers, American
 
-💰 **Price level:** —
+💰 **Price level:** moderate
 
