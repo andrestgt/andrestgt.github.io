@@ -11,17 +11,17 @@ subtitle: El Nido Town · Bakery, Café
   <figcaption>Masa</figcaption>
 </figure>
 
-Modern bakery with a minimalist design and an open-plan kitchen. Air-conditioned, fast WiFi — everything you'd expect from a stylish, contemporary café. My most expensive coffee (flat white) ever in the Philippines, breaking the 200 Php mark. The coffee itself is very good, but the preparation was a bit sloppy — the milk foam texture wasn't quite right. That said, if money isn't an issue, it's still a solid recommendation.
+Modern bakery with a minimalist design and an open-plan kitchen. Air-conditioned, fast WiFi — everything you'd expect from a stylish, contemporary café. My most expensive coffee (flat white) ever in the Philippines, breaking the 200 Php mark. The coffee itself is very good, but the preparation was a bit sloppy — the milk foam texture wasn't quite right. That said, if money isn't an issue, it's still a recommendation.
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 7/10   |
+| Coffee          | 7.5/10   |
 | Service         | 7/10    |
 | Value for money | 5.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 7/10    |
+| Atmosphere      | 8/10  |
+| Overall         | 7.5/10    |
 
 ### Practical
 
