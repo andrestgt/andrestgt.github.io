@@ -11,7 +11,7 @@ subtitle: Mactan, Cebu · Malaysian
   <figcaption>Oriental Spice Gourmet</figcaption>
 </figure>
 
-Finding a proper Malaysian restaurant in the provinces of the Philippines is surprisingly rare, which alone already makes Oriental Spice Gourmet worth a visit. The food brings some genuinely spicy and refreshing flavours to an area otherwise dominated by Korean restaurants. Very easy place to recommend in Mactan.
+Finding a proper Malaysian restaurant in the provinces of the Philippines is surprisingly rare, which in itself makes Oriental Spice Gourmet worth a visit. The food brings some genuinely spicy and refreshing flavours to an area otherwise dominated by Korean restaurants. Very easy place to recommend in Mactan.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -35,7 +35,7 @@ Finding a proper Malaysian restaurant in the provinces of the Philippines is sur
 | ---             | ---    |
 | Food            | 8/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
+| Value for money | 8/10  |
 | Atmosphere      | 7.5/10  |
 | Overall         | 8/10    |
 
@@ -43,4 +43,5 @@ Finding a proper Malaysian restaurant in the provinces of the Philippines is sur
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oriental+Spice+Gourmet+Mactan+Cebu)
 🍽️ **Cuisine:** Malaysian
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
+
