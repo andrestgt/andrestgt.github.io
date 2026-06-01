@@ -26,12 +26,6 @@ The Thai duck appetiser is particularly good here — the dim sum may not look r
 
 ---
 
-## Yong Pin Restaurant
-*Lebuh Kimberley, George Town · Chinese, Dim Sum*
-Traditional, chaotic and hot dim sum spot — the steamed dumplings are average but the fried items are genuinely excellent.
-→ [Read the full review](/food/malaysia/penang/restaurants/yong-pin-restaurant/)
-
----
 
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.
