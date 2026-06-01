@@ -39,9 +39,3 @@ Nice boulevard location and acceptable cakes, but breakfasts, savoury food, and 
 
 ---
 
-## Sans Rival – Robinsons
-*Robinsons Mall, Dumaguete · Bakery, Café*
-Even weaker than the original shop — the food is poor, the coffee worse, and the cakes not good enough to justify the hype.
-→ [Read the full review](/food/philippines/dumaguete/cafes/sans-rival-robinsons/)
-
----
