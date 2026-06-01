@@ -24,4 +24,4 @@ This is a fairly standard Korean restaurant with more of a canteen atmosphere th
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bohol+Don+Panglao+Samgyupsal+Alona+Beach)
 🍽️ **Cuisine:** Korean
-💰 **Price level:** —
+💰 **Price level:** ₱600-800
