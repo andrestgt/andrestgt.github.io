@@ -24,10 +24,4 @@ Now, this is my kind of place.
 
 ---
 
-## Cococha Hostel & Pool Bar
-*Hội An*
-I doubt I'd stay here in normal times, this place having a reputation as a wild party hostel, but during corona it was p
-→ [Read the full review](/food/vietnam/hoi-an/bars-pubs/cococha-hostel-pool-bar/)
-
----
 
