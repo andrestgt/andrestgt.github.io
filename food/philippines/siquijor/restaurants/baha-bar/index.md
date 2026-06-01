@@ -15,7 +15,7 @@ Easily the best restaurant on Siquijor and proof that the island's dining scene 
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/philippines/siquijor/baha-bar-2.jpg" alt="Baha Ba'r">
+  <img src="/photos/philippines/siquijor/baha-bar-4.jpg" alt="Baha Ba'r">
   <figcaption>Baha Ba'r</figcaption>
 </figure>
 <figure>
@@ -25,17 +25,7 @@ Easily the best restaurant on Siquijor and proof that the island's dining scene 
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-<figure>
-  <img src="/photos/philippines/siquijor/baha-bar-4.jpg" alt="Baha Ba'r">
-  <figcaption>Baha Ba'r</figcaption>
-</figure>
-<figure>
-  <img src="/photos/philippines/siquijor/baha-bar-5.jpg" alt="Baha Ba'r">
-  <figcaption>Baha Ba'r</figcaption>
-</figure>
-</div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/siquijor/baha-bar-6.jpg" alt="Baha Ba'r">
   <figcaption>Baha Ba'r</figcaption>
