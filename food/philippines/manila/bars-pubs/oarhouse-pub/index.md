@@ -29,7 +29,7 @@ One of the few remnants of old Malate, this cozy little pub still has its charm,
 | Category        | Score  |
 | ---             | ---    |
 | Bar food        | 8/10    |
-| Service         | 7/10    |
+| Service         | 7.5/10    |
 | Value for money | 7.5/10  |
 | Atmosphere      | 8/10    |
 | Overall         | 8/10    |
@@ -38,4 +38,5 @@ One of the few remnants of old Malate, this cozy little pub still has its charm,
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Oarhouse+Pub+Bocobo+St+Malate+Manila)
 🍺 **Type:** Pub
-💰 **Price level:** inexpensive
+💰 **Price level:** moderate
+
