@@ -11,7 +11,7 @@ subtitle: Alona Beach, Panglao · Spanish
   <figcaption>Bougainvillea Spanish Restaurant</figcaption>
 </figure>
 
-Outside of fancy tapas bars in the big cities you will not find better Spanish food in Asia. Full stop. The real deal, cooked by a talented Spanish chef. This place is worth travelling to Panglao for. In addition to the wonderful food, Bougainvillea has a lovely secluded setting, affordable wines and fair prices in general. 2000 Php goes a long way here. Sardinas are a must, but we tried pretty much the entire menu on repeat visits, and it's all good.
+Outside of fancy tapas bars in the big cities you will not find better Spanish food in South East Asia. Full stop. The real deal, cooked by a talented Spanish chef. This place is worth travelling to Panglao for. In addition to the wonderful food, Bougainvillea has a lovely secluded setting, affordable wines and fair prices in general. 2000 Php goes a long way here. Sardinas are a must, but we tried pretty much the entire menu on repeat visits, and it's all good.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -61,14 +61,14 @@ Outside of fancy tapas bars in the big cities you will not find better Spanish f
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10    |
-| Service         | 7.5/10  |
-| Value for money | 8.5/10    |
-| Atmosphere      | 8.5/10  |
-| Overall         | 8.5/10    |
+| Food            | 9/10    |
+| Service         | 8.5/10  |
+| Value for money | 9.5/10    |
+| Atmosphere      | 9/10  |
+| Overall         | 9/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bougainvillea+Spanish+Restaurant+Alona+Beach+Panglao)
 🍽️ **Cuisine:** Spanish
-💰 **Price level:** —
+💰 **Price level:** ₱1000-1500
