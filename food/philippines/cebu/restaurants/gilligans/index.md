@@ -29,13 +29,13 @@ Most people probably come to Giligan's for the cheap beer promotions, but the fo
 | Category        | Score |
 | ---             | ---   |
 | Food            | 7.5/10   |
-| Service         | 6/10   |
-| Value for money | 7.5/10   |
-| Atmosphere      | 6/10   |
+| Service         | 7/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 7.5/10   |
 | Overall         | 7.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Giligan%27s+Ayala+Center+Cebu+City)
 🍽️ **Cuisine:** Filipino
-💰 **Price level:** —
+💰 **Price level:** ₱500-600
