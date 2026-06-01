@@ -26,7 +26,7 @@ Moi-te has a very picturesque patio shaded by lemon trees, and prices are quite 
 | ---             | ---    |
 | Service         | 7.5/10   |
 | Value for money | 7.5/10 |
-| Atmosphere      | 9/10   |
+| Atmosphere      | 8.5/10   |
 | Overall         | 8/10   |
 
 ### Practical
