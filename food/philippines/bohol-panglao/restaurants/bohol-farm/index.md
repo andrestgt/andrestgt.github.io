@@ -45,14 +45,14 @@ Bohol Farm has a brilliant location with wonderful views over the surrounding co
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10  |
-| Service         | 7/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 8/10    |
+| Food            | 8/10  |
+| Service         | 8/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8.5/10    |
 | Overall         | 8.5/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bohol+Farm+Dauis+Bohol)
 🍽️ **Cuisine:** Filipino, International
-💰 **Price level:** —
+💰 **Price level:** ₱400-600
