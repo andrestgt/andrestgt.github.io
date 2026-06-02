@@ -19,11 +19,12 @@ Cute little café bang in the centre of town. The cappuccino as well as the Viet
 |---|---|
 | Coffee | 8.5/10   |
 | Service | 7.5/10  |
-| Value for money | 6.5/10  |
-| Atmosphere | 7.5/10  |
-| Overall | 8.5/10   |
+| Value for money | 7/10  |
+| Atmosphere | 8/10  |
+| Overall | 8/10   |
 
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5+Nguyễn+Văn+Trỗi+Phường+1+Đà+Lạt+Lâm+Đồng+Vietnam)
 ☕ **Type:** Coffee
+💰 **Price level:** moderate to expensive
