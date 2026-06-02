@@ -48,4 +48,4 @@ Beautiful restaurant with good house wine and really excellent food. Dishes like
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Sa+Farinera+S%27Horta+Mallorca+Spain)
 🍽️ **Cuisine:** Mallorcan, Spanish
-💰 **Price level:** €3ß-40
+💰 **Price level:** €30-40
