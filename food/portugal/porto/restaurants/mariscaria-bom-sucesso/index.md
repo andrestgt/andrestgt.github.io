@@ -15,7 +15,7 @@ Fantastic place for fresh seafood at some of the best prices you'll find anywher
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/portugal/porto/mariscaria-bom-sucesso-2.jpg" alt="Mariscaria Bom Sucesso">
+  <img src="/photos/portugal/porto/mariscaria-bom-sucesso-6.jpg" alt="Mariscaria Bom Sucesso">
   <figcaption>Mariscaria Bom Sucesso</figcaption>
 </figure>
 <figure>
@@ -35,23 +35,20 @@ Fantastic place for fresh seafood at some of the best prices you'll find anywher
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/portugal/porto/mariscaria-bom-sucesso-6.jpg" alt="Mariscaria Bom Sucesso">
-  <figcaption>Mariscaria Bom Sucesso</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 9.5/10 |
-| Service         | 9/10   |
+| Food            | 9/10 |
+| Service         | 8/10   |
 | Value for money | 9.5/10 |
-| Atmosphere      | 8/10   |
-| Overall         | 9.5/10 |
+| Atmosphere      | 8.5/10   |
+| Overall         | 9/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mercado+Bom+Sucesso+Praça+do+Bom+Sucesso+4150-146+Porto+Portugal)
 📍 Mercado Bom Sucesso, Praça do Bom Sucesso 74-90, 4150-146 Porto, Portugal
-💰 **Price level:** €20–30
+💰 **Price level:** €15–25
