@@ -26,4 +26,4 @@ This basic hole-in-the-wall eatery is popular for it's Banh Canh noodle soup whi
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=384+Bạch+Đằng+Thị+Nải+Quy+Nhơn+Bình+Định+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** ₫120k
