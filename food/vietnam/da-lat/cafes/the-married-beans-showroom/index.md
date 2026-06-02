@@ -17,10 +17,10 @@ One of Dalat's best options for coffee lovers. They don't really offer anything 
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10    |
+| Coffee          | 8.5/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8/10  |
 | Overall         | 8.5/10   |
 
 ### Practical
