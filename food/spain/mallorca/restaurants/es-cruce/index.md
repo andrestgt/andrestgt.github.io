@@ -28,7 +28,7 @@ Es Cruce serves simple, honest food in huge portions at low prices, and the plac
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 8/10  |
+| Food            | 7.5/10  |
 | Service         | 7/10  |
 | Value for money | 9/10  |
 | Atmosphere      | 7/10  |
