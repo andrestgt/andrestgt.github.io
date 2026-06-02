@@ -7,26 +7,23 @@ subtitle: Prešov · Italian Café
 ---
 
 <figure>
-  <img src="/photos/slovakia/presov/caffe-trieste-1.jpg" alt="Caffé Trieste">
-  <figcaption>Caffé Trieste</figcaption>
-</figure>
-
-Modern Italian-style café with comfortable armchairs and outdoor seating. Proper cappuccino costs only 1,30€ a cup, which is an absolute steal. Fast wifi as well.
-
-<figure>
   <img src="/photos/slovakia/presov/caffe-trieste-2.jpg" alt="Caffé Trieste">
   <figcaption>Caffé Trieste</figcaption>
 </figure>
+
+
+Modern Italian-style café with comfortable armchairs and outdoor seating. Proper cappuccino costs only 1,30€ a cup, which is an absolute steal. Fast wifi as well.
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
+| Coffee          | 8.5/10   |
 | Service         | 8.5/10 |
-| Value for money | 9.5/10 |
+| Value for money | 9/10 |
 | Atmosphere      | 8/10   |
-| Overall         | 9/10   |
+| Overall         | 8.5/10   |
 
 ### Practical
 
