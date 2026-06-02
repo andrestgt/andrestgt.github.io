@@ -13,20 +13,15 @@ subtitle: Barcelona · Cocktail Bar
 
 Superb little hideaway with good cocktails, good music, attractive décor, and excellent happy hour deals.
 
-<figure>
-  <img src="/photos/spain/barcelona/sub-rosa-2.jpg" alt="Sub Rosa">
-  <figcaption>Sub Rosa</figcaption>
-</figure>
-
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 9.5/10 |
+| Drinks          | 8.5/10 |
 | Service         | 9/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
-| Overall         | 9.5/10 |
+| Overall         | 9/10 |
 
 ### Practical
 
