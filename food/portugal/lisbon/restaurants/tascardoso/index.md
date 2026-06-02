@@ -24,10 +24,7 @@ Tascardoso is a small local eatery serving huge portions of simple, tasty food a
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/portugal/lisbon/tascardoso-4.jpg" alt="Tascardoso">
-  <figcaption>Tascardoso</figcaption>
-</figure>
+
 
 ## Ratings
 
@@ -35,12 +32,12 @@ Tascardoso is a small local eatery serving huge portions of simple, tasty food a
 | ---             | ---    |
 | Food            | 8/10   |
 | Service         | 7/10   |
-| Value for money | 8/10   |
-| Atmosphere      | 7.5/10 |
+| Value for money | 8.5/10   |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rua+de+O+Século+242+1250-095+Lisboa+Portugal)
 📍 Rua de O Século 242, 1250-095 Lisboa, Portugal
-💰 **Price level:** €12–20
+💰 **Price level:** €20
