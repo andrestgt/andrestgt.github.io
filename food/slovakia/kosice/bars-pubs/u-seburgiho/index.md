@@ -19,25 +19,22 @@ This place is quite a surprise once you make your way through the rather drab co
   <figcaption>U Seburgiho</figcaption>
 </figure>
 <figure>
-  <img src="/photos/slovakia/kosice/u-seburgiho-3.jpg" alt="U Seburgiho">
+  <img src="/photos/slovakia/kosice/u-seburgiho-4.jpg" alt="U Seburgiho">
   <figcaption>U Seburgiho</figcaption>
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/slovakia/kosice/u-seburgiho-4.jpg" alt="U Seburgiho">
-  <figcaption>U Seburgiho</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Beer            | 7.5/10 |
+| Food and Beer   | 8/10 |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 7.5/10 |
-| Overall         | 7.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
