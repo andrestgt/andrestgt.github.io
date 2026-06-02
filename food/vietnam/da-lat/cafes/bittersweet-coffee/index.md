@@ -11,7 +11,7 @@ subtitle: Đà Lạt · Coffee
   <figcaption>Bittersweet Coffee</figcaption>
 </figure>
 
-Cute little café bang in the centre of town. The cappuccino as well as the Vietnamese coffees are excellent if a bit on the expensive side
+Cute little café bang in the centre of town. The cappuccino as well as the Vietnamese coffees are excellent if a bit on the expensive side for Dalat.
 
 ## Ratings
 
@@ -27,4 +27,4 @@ Cute little café bang in the centre of town. The cappuccino as well as the Viet
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=5+Nguyễn+Văn+Trỗi+Phường+1+Đà+Lạt+Lâm+Đồng+Vietnam)
 ☕ **Type:** Coffee
-💰 **Price level:** moderate to expensive
+💰 **Price level:** moderate
