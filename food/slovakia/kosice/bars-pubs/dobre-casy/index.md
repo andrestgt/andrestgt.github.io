@@ -28,8 +28,8 @@ Brilliant pub with lots of beers on tap, mostly craft beers, at surprisingly goo
 
 | Category        | Score  |
 | ---             | ---    |
-| Beer            | 8.5/10 |
-| Service         | 9/10   |
+| Food and Beer   | 8.5/10 |
+| Service         | 8.5/10   |
 | Value for money | 9/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 9/10   |
