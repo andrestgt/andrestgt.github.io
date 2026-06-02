@@ -7,9 +7,10 @@ subtitle: Cần Thơ · Vietnamese
 ---
 
 <figure>
-  <img src="/photos/vietnam/can-tho/phuong-nam-restaurant-1.jpg" alt="Phuong Nam Restaurant">
+  <img src="/photos/vietnam/can-tho/phuong-nam-restaurant-4.jpg" alt="Phuong Nam Restaurant">
   <figcaption>Phuong Nam Restaurant</figcaption>
 </figure>
+
 
 At first glance it may look like a typical Riverside tourist trap with inflated prices, especially for drinks. But they do have a nice, varied menu and the food is top notch
 
@@ -24,22 +25,18 @@ At first glance it may look like a typical Riverside tourist trap with inflated 
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/vietnam/can-tho/phuong-nam-restaurant-4.jpg" alt="Phuong Nam Restaurant">
-  <figcaption>Phuong Nam Restaurant</figcaption>
-</figure>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8.5/10    |
-| Service         | 7/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
+| Food            | 9/10    |
+| Service         | 8/10    |
+| Value for money | 7/10  |
+| Atmosphere      | 8/10  |
 | Overall         | 8.5/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=48+Đường+Hai+Bà+Trưng+khu+vực+1+Ninh+Kiều+Cần+Thơ+Vietnam)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ...
+💰 **Price level:** ₫300-400k
