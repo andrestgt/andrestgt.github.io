@@ -15,7 +15,7 @@ This café is hidden inside a clothes shop and has only one large shared table, 
 | ---             | ---    |
 | Coffee          | 8.5/10 |
 | Service         | 7/10   |
-| Value for money | 6.5/10 |
+| Value for money | 7.5/10 |
 | Atmosphere      | 7/10   |
 | Overall         | 8/10   |
 
@@ -23,4 +23,4 @@ This café is hidden inside a clothes shop and has only one large shared table, 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Largo+dos+Lóios+86+4050-338+Porto+Portugal)
 📍 Largo dos Lóios 86, 4050-338 Porto, Portugal
-💰 **Price level:** moderate
+💰 **Price level:** expensive
