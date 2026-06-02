@@ -28,12 +28,13 @@ Nice to see a modern comfy lounge cafe in the Delta. But stick with Vietnamese c
 
 | Category        | Score |
 | ---             | ---   |
-| Coffee          | 7.5/10   |
-| Service         | 6/10   |
-| Value for money | 6/10   |
-| Atmosphere      | 6/10   |
+| Food            | 7.5/10   |
+| Service         | 7.5/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 8/10   |
 | Overall         | 7.5/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=10+Đường+Châu+Văn+Liêm+Tân+An+Ninh+Kiều+Cần+Thơ+Vietnam)
-☕ **Type:** Coffee
+☕ **Type:** Coffee, Bistro
+💰 **Price level:** moderate
