@@ -11,7 +11,7 @@ subtitle: Barcelona · Natural Wine Bar
   <figcaption>Rebelot</figcaption>
 </figure>
 
-Great little place in Barceloneta with good tapas, friendly service, and fair prices. The mussels are especially good. Sangria is tasty as well, although around 5€ a glass.
+Great little place in Barceloneta with good tapas, friendly service, and fair prices. The mejillones are especially good. Sangria is tasty as well, if rater pricy at around 5€ a glass.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">
