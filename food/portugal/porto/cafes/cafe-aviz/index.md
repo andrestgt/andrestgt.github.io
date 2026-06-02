@@ -11,7 +11,7 @@ subtitle: Porto · Café
   <figcaption>Café Aviz</figcaption>
 </figure>
 
-Very friendly traditional café with genuinely good service. The famous francesinha sandwich was only so-so, although I'm not entirely convinced I like the dish in general.
+Very friendly traditional café with good service. The famous francesinha sandwich was only so-so, although I'm not entirely convinced I like the dish in general.
 
 <figure>
   <img src="/photos/portugal/porto/cafe-aviz-2.jpg" alt="Café Aviz">
@@ -22,9 +22,9 @@ Very friendly traditional café with genuinely good service. The famous francesi
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 7.5/10 |
-| Service         | 9/10   |
-| Value for money | 7/10   |
+| Food            | 7/10 |
+| Service         | 8.5/10   |
+| Value for money | 7.5/10   |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
 
