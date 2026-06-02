@@ -28,9 +28,9 @@ Classic tapas bar where locals clearly outnumber tourists. Prices are reasonable
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 8/10  |
+| Food            | 8.5/10  |
 | Service         | 7/10  |
-| Value for money | 7/10  |
+| Value for money | 7.5/10  |
 | Atmosphere      | 9/10  |
 | Overall         | 8/10  |
 
@@ -38,4 +38,4 @@ Classic tapas bar where locals clearly outnumber tourists. Prices are reasonable
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+de+Vic+23+Gràcia+08006+Barcelona+Spain)
 📍 Carrer de Vic, 23, Gràcia, 08006 Barcelona, Spain
-💰 **Price level:** €25–35
+💰 **Price level:** €15-20
