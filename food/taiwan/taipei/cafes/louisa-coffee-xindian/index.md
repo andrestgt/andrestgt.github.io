@@ -12,11 +12,11 @@ Friendly little café at Xindian metro station. Coffees come in big mugs but are
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 9/10   |
-| Service         | 8/10    |
-| Value for money | 7.5/10  |
+| Coffee          | 8/10   |
+| Service         | 7/10    |
+| Value for money | 9/10  |
 | Atmosphere      | 7/10    |
-| Overall         | 8.5/10    |
+| Overall         | 8/10    |
 
 ### Practical
 
