@@ -12,9 +12,9 @@ Strangely named, but rather chic café and bistro in the new area between Downto
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10    |
-| Service         | 7/10    |
-| Value for money | 5.5/10  |
+| Coffee          | 8.5/10    |
+| Service         | 8/10    |
+| Value for money | 7/10  |
 | Atmosphere      | 7.5/10  |
 | Overall         | 8/10    |
 
@@ -22,4 +22,4 @@ Strangely named, but rather chic café and bistro in the new area between Downto
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Beefcake+Coffee+Roasters+Anping+Road+Anping+District+Tainan+Taiwan)
 ☕ **Type:** Café
-💰 **Price level:** —
+💰 **Price level:** expensive
