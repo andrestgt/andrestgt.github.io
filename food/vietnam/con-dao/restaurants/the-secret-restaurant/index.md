@@ -17,13 +17,34 @@ The menu features a fairly extensive range of international dishes, from dim sum
 
 It's also one of the very few places in Vietnam where we were treated to an amuse-gueule, in this case baguette with pâté, which was a nice touch. Worth coming here just to enjoy the atmosphere, even if it's only for coffee and cake.
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/vietnam/con-dao/Viet22-1002.jpg" alt="The Secret Restaurant" style="width: 100%;">
+      <figcaption>The Secret Restaurant</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/vietnam/con-dao/Viet22-1004.jpg" alt="The Secret Restaurant" style="width: 100%;">
+      <figcaption>The Secret Restaurant</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/vietnam/con-dao/Viet22-1006.jpg" alt="The Secret Restaurant" style="width: 100%;">
+      <figcaption>The Secret Restaurant</figcaption>
+    </figure>
+  </div>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 8/10 |
 | Service         | 8.5/10   |
-| Value for money | 7/10   |
+| Value for money | 7.5/10   |
 | Atmosphere      | 9/10   |
 | Overall         | 8.5/10   |
 
