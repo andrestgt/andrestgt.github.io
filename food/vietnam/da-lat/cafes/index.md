@@ -66,13 +66,6 @@ A coffee shop with the look and feel of a beer hall, a massive space with long w
 
 ---
 
-## Windmills Cafe
-*Đà Lạt*
-Small western style coffee shop with good inexpensive cappuccino and tasty frozen yoghurt
-→ [Read the full review](/food/vietnam/da-lat/cafes/windmills-cafe/)
-
----
-
 ## Woodstock coffee - Đà Lạt
 *Đà Lạt*
 In a town full of nice cafés, Woodstock still stands out as one of the best.
