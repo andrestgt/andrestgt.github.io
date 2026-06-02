@@ -7,7 +7,7 @@ subtitle: Barcelona · Restaurant
 ---
 
 <figure>
-  <img src="/photos/spain/barcelona/la-fonda-1.jpg" alt="La Fonda">
+  <img src="/photos/spain/barcelona/la-fonda-3.jpg" alt="La Fonda">
   <figcaption>La Fonda</figcaption>
 </figure>
 
@@ -18,10 +18,7 @@ La Fonda is unapologetically aimed at tourists, but the prices remain surprising
   <img src="/photos/spain/barcelona/la-fonda-2.jpg" alt="La Fonda">
   <figcaption>La Fonda</figcaption>
 </figure>
-<figure>
-  <img src="/photos/spain/barcelona/la-fonda-3.jpg" alt="La Fonda">
-  <figcaption>La Fonda</figcaption>
-</figure>
+
 </div>
 
 ## Ratings
@@ -29,7 +26,7 @@ La Fonda is unapologetically aimed at tourists, but the prices remain surprising
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 7/10   |
-| Service         | 7/10   |
+| Service         | 7.5/10   |
 | Value for money | 8/10   |
 | Atmosphere      | 8/10   |
 | Overall         | 7.5/10 |
