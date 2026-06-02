@@ -11,6 +11,7 @@ subtitle: Đà Lạt · Vietnamese
   <figcaption>German Beer House Dalat</figcaption>
 </figure>
 
+They do a good job of creating a proper German Gasthof vibe with the wooden interior and cozy layout. The beers are pricey but really delicious. The food, while tasty, doesn’t quite hit the mark for authenticity, so it's definitely worth a visit for the beers and the atmosphere but don't expect a true taste of German cuisine.
 
 
 <figure>
@@ -18,7 +19,6 @@ subtitle: Đà Lạt · Vietnamese
   <figcaption>German Beer House Dalat</figcaption>
 </figure>
 
-They do a good job of creating a proper German Gasthof vibe with the wooden interior and cozy layout. The beers are pricey but genuinely delicious. The food, while tasty, doesn’t quite hit the mark for authenticity—so it's definitely worth a visit for the beers and the atmosphere but don't expect a true taste of German cuisine.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -35,11 +35,11 @@ They do a good job of creating a proper German Gasthof vibe with the wooden inte
 
 | Category | Score |
 |---|---|
-| Food | 8/10  |
-| Service | 7.5/10  |
+| Food | 7/10  |
+| Service | 8/10  |
 | Value for money | 7.5/10  |
-| Atmosphere | 8.5/10  |
-| Overall | 8/10  |
+| Atmosphere | 8/10  |
+| Overall | 7.5/10  |
 
 
 ### Practical
