@@ -12,5 +12,4 @@ hero: /photos/background/chaudochero.jpg
 
 Reviews grouped by category.
 
-- 🍽️ [Restaurants](/food/vietnam/an-giang/chau-doc/restaurants/)
 - 🥢 [Street Food](/food/vietnam/an-giang/chau-doc/street-food/)
