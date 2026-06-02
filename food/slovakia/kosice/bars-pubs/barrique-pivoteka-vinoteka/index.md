@@ -15,7 +15,7 @@ Very nice little wine bar in the Old Town with an excellent white muscat by the 
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/slovakia/kosice/barrique-pivoteka-vinoteka-2.jpg" alt="Barrique – Pivotéka & Vinotéka">
+  <img src="/photos/slovakia/kosice/barrique-pivoteka-vinoteka-4.jpg" alt="Barrique – Pivotéka & Vinotéka">
   <figcaption>Barrique – Pivotéka & Vinotéka</figcaption>
 </figure>
 <figure>
@@ -24,10 +24,7 @@ Very nice little wine bar in the Old Town with an excellent white muscat by the 
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/slovakia/kosice/barrique-pivoteka-vinoteka-4.jpg" alt="Barrique – Pivotéka & Vinotéka">
-  <figcaption>Barrique – Pivotéka & Vinotéka</figcaption>
-</figure>
+
 
 ## Ratings
 
