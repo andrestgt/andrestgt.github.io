@@ -11,7 +11,7 @@ subtitle: Porto · Restaurant
   <figcaption>Churrasqueira Moura</figcaption>
 </figure>
 
-This cafeteria-style local restaurant is not going to win awards for atmosphere, but the grilled meat with their homemade spicy sauce is genuinely very good. Prices are low, and the cheap house wine helps as well.
+This cafeteria-style local restaurant is not going to win awards for atmosphere, but the grilled meat with their homemade spicy sauce is very good. Prices are low, and the cheap house wine helps as well.
 
 <figure>
   <img src="/photos/portugal/porto/churrasqueira-moura-2.jpg" alt="Churrasqueira Moura">
@@ -24,7 +24,7 @@ This cafeteria-style local restaurant is not going to win awards for atmosphere,
 | ---             | ---   |
 | Food            | 8/10  |
 | Service         | 7/10  |
-| Value for money | 8/10  |
+| Value for money | 9/10  |
 | Atmosphere      | 6/10  |
 | Overall         | 8/10  |
 
@@ -32,4 +32,4 @@ This cafeteria-style local restaurant is not going to win awards for atmosphere,
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Rua+do+Almada+219+4000-407+Porto+Portugal)
 📍 Rua do Almada 219, 4000-407 Porto, Portugal
-💰 **Price level:** €15–25
+💰 **Price level:** €20–25
