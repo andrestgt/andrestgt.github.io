@@ -29,9 +29,9 @@ Pintxos really do not get much better than this. The morcilla and foie gras are 
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 9.5/10 |
-| Service         | 8.5/10 |
+| Service         | 9/10 |
 | Value for money | 9/10   |
-| Atmosphere      | 8.5/10 |
+| Atmosphere      | 9/10 |
 | Overall         | 9.5/10 |
 
 ### Practical
