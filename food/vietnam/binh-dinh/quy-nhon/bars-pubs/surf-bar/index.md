@@ -18,23 +18,19 @@ Location, location. It's a beautiful beach bar with reasonable prices, but stick
   <img src="/photos/vietnam/binh-dinh/surf-bar-2.jpg" alt="Surf Bar">
   <figcaption>Surf Bar</figcaption>
 </figure>
-<figure>
-  <img src="/photos/vietnam/binh-dinh/surf-bar-3.jpg" alt="Surf Bar">
-  <figcaption>Surf Bar</figcaption>
-</figure>
 </div>
 
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Drinks          | 8/10    |
+| Drinks          | 6/10    |
 | Service         | 7/10    |
-| Value for money | 7.5/10  |
-| Atmosphere      | 8/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 9/10    |
 | Overall         | 8/10    |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Surf+Bar)
 🍺 **Type:** Bar & Pub
-💰 **Price level:** inexpensive
+💰 **Price level:** moderate
