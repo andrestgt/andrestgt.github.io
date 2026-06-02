@@ -24,7 +24,7 @@ There's a rather pricey menu of international dishes, but we only ever came here
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8/10   |
+| Coffee          | 7.5/10   |
 | Service         | 8.5/10 |
 | Value for money | 7.5/10 |
 | Atmosphere      | 8.5/10   |
