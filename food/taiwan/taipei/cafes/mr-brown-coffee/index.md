@@ -19,12 +19,12 @@ The local Starbucks. Not very atmospheric and quite expensive (110 NT$ for a cap
 | ---             | ---    |
 | Coffee          | 8.5/10    |
 | Service         | 7/10    |
-| Value for money | 5.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Mr.+Brown+Coffee+Chongqing+North+Road+Section+3+Datong+District+Taipei+Taiwan)
 ☕ **Type:** Café
-💰 **Price level:** expensive
+💰 **Price level:** moderate
