@@ -22,14 +22,14 @@ Simple village restaurant where the food is decent enough, although slightly ove
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 6/10   |
+| Food            | 7/10   |
 | Service         | 6/10   |
-| Value for money | 5/10   |
-| Atmosphere      | 6.5/10 |
-| Overall         | 6/10   |
+| Value for money | 6/10   |
+| Atmosphere      | 7.5/10 |
+| Overall         | 6.5/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Carrer+Sant+Domingo+1+07690+Es+Llombards+Mallorca+Spain)
 📍 Carrer Sant Domingo, 1, 07690 Es Llombards, Mallorca, Spain
-💰 **Price level:** €40–65
+💰 **Price level:** €30–50
