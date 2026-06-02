@@ -22,7 +22,7 @@ Time Out Market is a great concept and basically a paradise for foodies. The dow
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10   |
 | Value for money | 7/10   |
 | Atmosphere      | 8.5/10 |
