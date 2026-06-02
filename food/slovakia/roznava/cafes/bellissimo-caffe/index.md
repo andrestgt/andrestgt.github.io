@@ -7,17 +7,17 @@ subtitle: Rožňava · Café
 ---
 
 
-Nice, slightly chic little café on the Old Town square with inexpensive beer and coffee. A good cappuccino costs only 1,30€. No wifi and no English spoken.
+Nice, almost chic little café on the Old Town square with inexpensive beer and coffee. A good cappuccino costs only 1,30€. No wifi and no English spoken.
 
 ## Ratings
 
 | Category        | Score |
 | ---             | ---   |
 | Coffee          | 8/10  |
-| Service         | 7/10  |
+| Service         | 6/10  |
 | Value for money | 9/10  |
 | Atmosphere      | 8/10  |
-| Overall         | 8/10  |
+| Overall         | 7.5/10  |
 
 ### Practical
 
