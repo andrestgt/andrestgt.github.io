@@ -13,14 +13,29 @@ subtitle: Đà Lạt · Coffee
 
 Wonderful hidden oasis in the hills of Dalat. Beautiful views, serene atmosphere, good coffees at reasonable prices. Worth seeking out
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/vietnam/da-lat/Viet22-1125.jpg" alt="Cà Phê Tiến Dũng" style="width: 100%;">
+      <figcaption>Cà Phê Tiến Dũng</figcaption>
+    </figure>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <figure>
+      <img src="/photos/vietnam/da-lat/Viet22-1128.jpg" alt="Cà Phê Tiến Dũng" style="width: 100%;">
+      <figcaption>Cà Phê Tiến Dũng</figcaption>
+    </figure>
+  </div>
+</div>
+
 ## Ratings
 
 | Category        | Score  |
 | ---             | ---    |
-| Coffee          | 8.5/10    |
-| Service         | 7.5/10  |
-| Value for money | 8/10    |
-| Atmosphere      | 8.5/10    |
+| Coffee          | 8/10    |
+| Service         | 8/10  |
+| Value for money | 8.5/10    |
+| Atmosphere      | 9/10    |
 | Overall         | 8.5/10  |
 
 ### Practical
