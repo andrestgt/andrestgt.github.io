@@ -11,7 +11,7 @@ subtitle: Châu Đốc · Vietnamese
   <figcaption>Quán Mekong</figcaption>
 </figure>
 
-I visit this place every time I'm in Chau Doc for almost fifteen years now. It has a brilliant location inside a quiet courtyard in front of an old, dilapidated colonial villa, and if it wasn't for the small plastic chairs and tables, this could be a romantic, upmarket dining spot.
+I visit this place every time I'm in Chau Doc, and I've been doing so for almost fifteen years now. It has a brilliant location inside a quiet courtyard in front of an old, dilapidated colonial villa, and if it wasn't for the small plastic chairs and tables, this could be a romantic, upmarket dining spot.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
