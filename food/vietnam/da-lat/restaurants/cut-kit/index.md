@@ -19,27 +19,24 @@ This is an odd place. It's actually well designed and attractive. They have a la
   <figcaption>Cut Kit</figcaption>
 </figure>
 <figure>
-  <img src="/photos/vietnam/da-lat/cut-kit-3.jpg" alt="Cut Kit">
+  <img src="/photos/vietnam/da-lat/cut-kit-4.jpg" alt="Cut Kit">
   <figcaption>Cut Kit</figcaption>
 </figure>
 </div>
 
-<figure>
-  <img src="/photos/vietnam/da-lat/cut-kit-4.jpg" alt="Cut Kit">
-  <figcaption>Cut Kit</figcaption>
-</figure>
+
 
 ## Ratings
 
 | Category        | Score |
 | ---             | ---   |
-| Food            | 7.5/10   |
-| Service         | 6/10   |
-| Value for money | 7.5/10   |
-| Atmosphere      | 6/10   |
-| Overall         | 7.5/10   |
+| Food            | 6.5/10   |
+| Service         | 7.5/10   |
+| Value for money | 7/10   |
+| Atmosphere      | 8/10   |
+| Overall         | 7/10   |
 
 ### Practical
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Cut+Kit)
 🍽️ **Cuisine:** Vietnamese
-💰 **Price level:** ₫ Under 50k
+💰 **Price level:** ₫200k
