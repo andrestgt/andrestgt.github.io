@@ -25,8 +25,8 @@ Eel noodles, very tasty. 120 NT$ for a pretty big portion. Must try when in Tain
 | Food            | 8.5/10    |
 | Service         | 7.5/10  |
 | Value for money | 7.5/10  |
-| Atmosphere      | 7.5/10  |
-| Overall         | 8.5/10    |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
 
 ### Practical
 
