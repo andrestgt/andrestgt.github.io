@@ -1,0 +1,6 @@
+.claude/
+Reviews-master.docx
+_fixes/__pycache__/
+_fixes/orphans_report.txt
+_fixes/maps_flagged.txt
+_fixes/maps_nearmiss.txt

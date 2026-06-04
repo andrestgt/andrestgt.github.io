@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: coffreez Frozen Coffeebar Königstraße
+subtitle: Stuttgart · Café
+---
+
+Franchise with very decent cappuccinos at a reasonable price (€2.60). The Königstraße branch even has a couple of comfortable seats.
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Coffee          | 7.5/10 |
+| Service         | 7/10   |
+| Value for money | 8/10   |
+| Atmosphere      | 6.5/10 |
+| Overall         | 7.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9f3f93c66944faff)
+📍 Coffreez, Königstraße 22, 70173 Stuttgart, Germany
+💰 **Price level:** moderate
