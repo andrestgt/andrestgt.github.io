@@ -1,0 +1,41 @@
+---
+layout: default
+section: food
+review: true
+title: Yoree Korean Dining
+subtitle: BGC, Taguig · Korean
+---
+
+<figure>
+  <img src="/photos/philippines/manila/yoree-korean-dining-1.jpg" alt="Yoree Korean Dining">
+  <figcaption>Yoree Korean Dining</figcaption>
+</figure>
+
+The food and service at Yoree are both perfectly good, but I'm not entirely convinced by the value for money. The BBQ meat portions were surprisingly small, and the octopus stew contained very little octopus considering the prices they charge.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/manila/yoree-korean-dining-2.jpg" alt="Yoree Korean Dining">
+  <figcaption>Yoree Korean Dining</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/manila/yoree-korean-dining-3.jpg" alt="Yoree Korean Dining">
+  <figcaption>Yoree Korean Dining</figcaption>
+</figure>
+</div>
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 7.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 6.5/10  |
+| Atmosphere      | 7.5/10    |
+| Overall         | 7/10  |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x410ba8d9b126b24)
+🍽️ **Type:** Korean BBQ
+💰 **Price level:** ₱800–1,200

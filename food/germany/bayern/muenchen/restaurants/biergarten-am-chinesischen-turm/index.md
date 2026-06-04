@@ -1,0 +1,30 @@
+---
+layout: default
+section: food
+review: true
+title: Biergarten am Chinesischen Turm
+subtitle: English Garden · Beer Garden
+---
+
+<figure>
+  <img src="/photos/germany/muenchen/biergarten-am-chinesischen-turm-1.jpg" alt="Biergarten am Chinesischen Turm">
+  <figcaption>Biergarten am Chinesischen Turm</figcaption>
+</figure>
+
+A bit expensive maybe for beers, it's 8,40€ for 1 litre, but the atmosphere and surroundings are great
+
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 6.5/10 |
+| Service         | 7/10   |
+| Value for money | 6.5/10 |
+| Atmosphere      | 9/10   |
+| Overall         | 7.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe3c8848c9a7a2f5c)
+📍 Englischer Garten 3, 80538 München, Germany
+💰 **Price level:** €20–30

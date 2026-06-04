@@ -1,0 +1,30 @@
+---
+layout: default
+section: food
+review: true
+photos_locked: true
+title: Old Cafe
+subtitle: Iraklion · Wine Bar
+---
+<figure>
+  <img src="/photos/greece/crete/Crete17-0615.jpg" alt="Old Café">
+  <figcaption>Old Café</figcaption>
+</figure>
+
+Lovely little place tucked away in a shaded pedestrian alley. The 2,50€ carafe of house white is probably among the best bargains in town, and it even comes with small nibbles on the side.
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Drinks          | 8/10 |
+| Service         | 7/10   |
+| Value for money | 9/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd5a26818bfe8bcd0)
+📍 Kagiampi 19, Iraklio 712 01, Greece
+💰 **Price level:** inexpensive

@@ -1,0 +1,25 @@
+---
+layout: default
+section: food
+review: true
+title: Commune Café + Bar + Roastery
+subtitle: Poblacion, Makati · Café
+---
+
+Commune looks like it should be a very good café, but the coffee preparation was shockingly poor. The cappuccino was so overheated the spoon was practically steaming, and the milk foam collapsed immediately. Whatever else they are doing right here, coffee clearly isn't one of them.
+
+## Ratings
+
+| Category        | Score |
+| ---             | ---   |
+| Coffee          | 4/10   |
+| Service         | 6/10   |
+| Value for money | 4/10   |
+| Atmosphere      | 7.5/10   |
+| Overall         | 4.5/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x39297f18e7340d10)
+☕ **Type:** Café
+💰 **Price level:** moderate

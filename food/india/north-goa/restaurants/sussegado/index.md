@@ -1,0 +1,44 @@
+---
+layout: default
+section: food
+review: true
+photos_locked: true
+title: Sussegado
+subtitle: Calangute, North Goa · Goan
+---
+
+<figure>
+  <img src="/photos/india/north-goa/sussegado-2.jpg" alt="Sussegado">
+  <figcaption>Sussegado</figcaption>
+</figure>
+
+Away from the beach in a converted old Portuguese villa, this is possibly the most atmospheric place to eat in brash, touristy Calangute. Service is very good and friendly, and the restaurant is casual rather than posh. Something that's reflected in prices which are quite reasonable. The kingfish curry is expensive for 600 Rs but you get a lot of fish for your money. Crab curry and chili calamari are cheaper at around 300 Rs. Taste wise, it's impeccable food — more subtle, less sour than most in Goa.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/india/north-goa/sussegado-1.jpg" alt="Sussegado">
+  <figcaption>Sussegado</figcaption>
+</figure>
+<figure>
+  <img src="/photos/india/north-goa/sussegado-3.jpg" alt="Sussegado">
+  <figcaption>Sussegado</figcaption>
+</figure>
+</div>
+
+
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 9/10   |
+| Service         | 9/10   |
+| Value for money | 7.5/10   |
+| Atmosphere      | 8.5/10 |
+| Overall         | 9/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe8ca8849ed10bf5b)
+🍽️ **Type:** Goan
+💰 **Price level:** Rs 600–800

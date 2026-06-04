@@ -1,0 +1,33 @@
+---
+layout: default
+section: food
+review: true
+title: Phượng Tường dimsum
+subtitle: Hoàn Kiếm · Chinese · Dim Sum
+---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/phuong-tuong-dimsum-1.jpg" alt="Phượng Tường dimsum">
+  <figcaption>Phượng Tường dimsum</figcaption>
+</figure>
+
+Good dim sum in a very convenient old town location. Prices are okay for the area with baskets of 3 costing mostly under 50k.
+
+What I dislike is the sneaky 5% service charge they put on the bill. Vietnam has always been a place where the price shown on the menu was the price you finally pay and I would hope it'll stay that way.
+
+If a restaurant's menu prices are too low that they have the need to add additional charges, they should simply raise them and be honest about it.
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 8/10    |
+| Service         | 6.5/10    |
+| Value for money | 7.5/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5332d61688036d0f)
+🍽️ **Type:** Chinese · Dim Sum
+💰 **Price level:** ₫300k

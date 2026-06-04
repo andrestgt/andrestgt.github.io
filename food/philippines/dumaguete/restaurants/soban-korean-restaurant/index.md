@@ -1,0 +1,48 @@
+---
+layout: default
+section: food
+review: true
+title: Soban Korean Restaurant
+subtitle: Real St, Dumaguete · Korean
+---
+
+<figure>
+  <img src="/photos/philippines/dumaguete/soban-korean-restaurant-1.jpg" alt="Soban Korean Restaurant">
+  <figcaption>Soban Korean Restaurant</figcaption>
+</figure>
+
+Soban has been around for a long time and they're still going strong. In order to survive in such a location, you must be able to offer something special and unique. Soban offers authentic, traditional Korean food at reasonable prices, and makes the trip out well worth it. The prices for individual dishes might look steep by Dumaguete standards but you get a lot for your money, free appetisers, a pot of tea and ice tea, plus the portions are really big, so it's best to come in a group or be prepared to take half of your food back home.
+They're doing nice dumplings and seafood pancakes (a bargain at 200 Php, the price hasn't changed in years) but their killer dish is osom bulgogi, which should be called awesome bulgogi, really. It's expensive at 600 something pesos, but while they say it's good for 2, it actually feeds 4 easily.
+I'm generally not too impressed with their appetisers (dry pancake, slightly too sweet pickles) and the atmosphere not terribly inviting, therefore it's not a 10/10 for me, but for lovers of Korean food, Soban is a must visit while in Dumaguete.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/dumaguete/soban-korean-restaurant-2.jpg" alt="Soban Korean Restaurant">
+  <figcaption>Soban Korean Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/dumaguete/soban-korean-restaurant-3.jpg" alt="Soban Korean Restaurant">
+  <figcaption>Soban Korean Restaurant</figcaption>
+</figure>
+</div>
+
+<figure>
+  <img src="/photos/philippines/dumaguete/soban-korean-restaurant-4.jpg" alt="Soban Korean Restaurant">
+  <figcaption>Soban Korean Restaurant</figcaption>
+</figure>
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 8.5/10    |
+| Service         | 7/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 6.5/10  |
+| Overall         | 8.5/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2e2e59876147eaa4)
+🍽️ **Type:** Korean
+💰 **Price level:** ₱800

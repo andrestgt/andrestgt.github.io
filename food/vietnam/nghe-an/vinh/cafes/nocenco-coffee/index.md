@@ -1,0 +1,35 @@
+---
+layout: default
+section: food
+review: true
+title: Nocenco coffee
+subtitle: Vinh · Coffee
+---
+
+<figure>
+  <img src="/photos/vietnam/nghe-an/nocenco-coffee-main.jpg" alt="Nocenco coffee">
+  <figcaption>Nocenco coffee</figcaption>
+</figure>
+
+Unique café with a stunningly designed interior decoration and views over the city. Prices are not much higher than elsewhere, the place is a definite must do in Vinh.
+
+
+<figure>
+  <img src="/photos/vietnam/nghe-an/nocenco-coffee-main-2.jpg" alt="Nocenco coffee">
+  <figcaption>Nocenco coffee</figcaption>
+</figure>
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 7.5/10    |
+| Service         | 7.5/10  |
+| Value for money | 8/10    |
+| Atmosphere      | 8.5/10  |
+| Overall         | 8/10    |
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7269d3ae2d1fd7c3)
+☕ **Type:** Coffee
+💰 **Price level:** moderate

@@ -1,0 +1,23 @@
+---
+layout: default
+section: food
+review: true
+title: Star Coffee House
+subtitle: Nha Trang · Coffee
+---
+Very nice, spacious and comfortable café with both Vietnamese coffees and espresso drinks on offer. The cappuccino is well prepared at 40k, and with wifi, sofas and strong air conditioning, it is easily the best café in the neighbourhood, conveniently located just opposite Big C/Go.
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Coffee          | 8/10    |
+| Service         | 7/10    |
+| Value for money | 8/10  |
+| Atmosphere      | 7.5/10  |
+| Overall         | 8/10    |
+
+### Practical
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x74ca6ceca2e2ded2)
+☕ **Type:** Coffee
+💰 **Price level:** moderate
