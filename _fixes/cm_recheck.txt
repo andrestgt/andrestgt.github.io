@@ -1,0 +1,111 @@
+CHIANG MAI PHOTO RE-IMPORT  (cafes / restaurants / street-food)
+Mode: DRY-RUN   Source root: D:\Google Photos   Matching: caption->slug + near-miss recovery
+
+SUMMARY
+  In-scope pages (review:true, 3 categories): 78
+  Locked pages skipped (photos_locked:true):  0  [bars-pubs excluded by scope entirely]
+  Chiang Mai captioned photos found:          253
+  Confident matches:                          118  (64 exact, 54 near-miss recovery)
+  Photos to import (net-new):                 1 across 1 pages
+  Caption-matched but already on page (hash dup-skip): 103
+  ADDED by leading-"the" fix (net-new):        0 across 0 pages
+
+======================================================================
+FOLDER COVERAGE (recursive jpg counts)
+======================================================================
+    2107  Food 2010
+    1219  Food 2011
+    2007  Food 2012
+    1704  Food 2013
+    1802  Food 2014
+    2349  Food 2015
+    1608  Food 2016
+    3667  Food 2017
+    1432  Food 2018
+    2090  Food 2019
+     471  Food 2020
+     112  Food 2021
+     471  Food 2022
+      75  Food 2023
+     220  Food 2024
+     300  Food 2025
+     821  Food 2026
+     217  more restos 2020-2026
+   22672  TOTAL JPG
+
+======================================================================
+PHOTOS ADDED (per page:  new file  <=  folder\source  [caption]  {how})
+======================================================================
+restaurants/wine-connection  (+1)   title: Wine Connection Central Festival
+    wine-connection-2.jpg        <= Food 2017\Thai17-0127.jpg   [Chiang Mai - Wine Connection @ Promenada]  {near-miss}
+
+======================================================================
+NEAR-MISS RECOVERIES (caption was a variant; head-match -> page). Review these.
+======================================================================
+  restaurants/wine-connection              caption 'Wine Connection @ Promenada'  ->  wine-connection-2.jpg  {near-miss}
+
+======================================================================
+LEADING-"THE" FIX RECOVERIES (matched only after dropping a leading article)
+======================================================================
+  (none)
+
+======================================================================
+SKIPPED - LOCKED pages (photos_locked:true, in the 3 categories)
+======================================================================
+  (none in cafes/restaurants/street-food; the 4 bars-pubs are out of scope)
+
+======================================================================
+UN-ATTRIBUTED - AMBIGUOUS (head matched >1 in-scope page; NOT imported)
+======================================================================
+  (none)
+
+======================================================================
+UN-ATTRIBUTED - NO MATCHING PAGE (no confident venue; NOT imported)
+======================================================================
+    4  Chiang Mai - Bam7
+    1  Chiang Mai - By Hand
+    4  Chiang Mai - Café de Thaan Aoan
+    3  Chiang Mai - Cat Shack
+    1  Chiang Mai - Central Mall
+    5  Chiang Mai - Chang Phuak Gate Night Market
+    1  Chiang Mai - Chinese Restaurant @ The Harbour
+    3  Chiang Mai - Clay Café
+    2  Chiang Mai - Cooconut Shel
+   11  Chiang Mai - DK David's Kitchen
+    2  Chiang Mai - Esarn @ Central
+    1  Chiang Mai - Food Court @ Maya
+    3  Chiang Mai - Fuji @ Maya
+    4  Chiang Mai - Fuji @ Promenada
+    1  Chiang Mai - Green House
+   11  Chiang Mai - Green Table
+    2  Chiang Mai - Guay Jab Chang Moi Tat Mai
+    4  Chiang Mai - Huean Jai Yong
+    3  Chiang Mai - Jing Jai Market
+    1  Chiang Mai - Jinjiao Dumplings
+    1  Chiang Mai - Jok Somphet
+    1  Chiang Mai - Kalare Night Bazaa
+    5  Chiang Mai - Khlong Mae Kha Night Market
+    3  Chiang Mai - Khun Puen’s Thai BBQ
+    2  Chiang Mai - Krua Phor Piang
+    1  Chiang Mai - Lahori Chaska
+    1  Chiang Mai - Maya Food Court
+    3  Chiang Mai - Memories of Chiang Mai
+    5  Chiang Mai - Mix @ Promenada
+    6  Chiang Mai - Neng’s Clay Oven Roasted Pork
+    2  Chiang Mai - Peppermint Cafe
+    2  Chiang Mai - Ratanas Kitchen
+    4  Chiang Mai - Rimping @ Promenada
+    2  Chiang Mai - Ristr8tto
+    1  Chiang Mai - Rose Ice Cream
+    2  Chiang Mai - Rotee Pa Day
+    1  Chiang Mai - Royal India
+    1  Chiang Mai - Segafredo @ Central Festival
+    2  Chiang Mai - Somtam Rom Pla Dek
+    3  Chiang Mai - Sunday Walking Street
+    1  Chiang Mai - TC CNX
+    4  Chiang Mai - Thai 1 On
+    5  Chiang Mai - The Coffee Club
+    3  Chiang Mai - The Globe
+    4  Chiang Mai - The House
+    2  Chiang Mai - Tomimaki
+    1  Chiang Mai - View Suai Coffee
