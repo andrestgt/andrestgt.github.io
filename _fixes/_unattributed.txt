@@ -1,0 +1,223 @@
+﻿   2  bangkok :: Bangkok -  Toy Kuay Teow Ruea
+   1  bangkok :: Bangkok - Airspace @ Groove
+   1  bangkok :: Bangkok - Al Husain
+   1  bangkok :: Bangkok - Alchemist
+   1  bangkok :: Bangkok - Al-Husain
+   7  bangkok :: Bangkok - All Six to Twelve
+   1  bangkok :: Bangkok - Alley Cat
+   4  bangkok :: Bangkok - Another Hound @ Siam Paragon
+   3  bangkok :: Bangkok - Apinara @ Groove
+   1  bangkok :: Bangkok - Arom D
+   8  bangkok :: Bangkok - Asiatique Riverside
+   3  bangkok :: Bangkok - AV Izakaya Saphan Khwai
+   4  bangkok :: Bangkok - Baa-Ga-Din
+   1  bangkok :: Bangkok - Banglamphu
+   1  bangkok :: Bangkok - BEAZT Coffee
+   1  bangkok :: Bangkok - Bei Otto
+   2  bangkok :: Bangkok - Bella B
+   1  bangkok :: Bangkok - Black Canyon Coffee
+   1  bangkok :: Bangkok - Brainwake Café
+   1  bangkok :: Bangkok - Bridge Café
+   5  bangkok :: Bangkok - Bua Sa At
+   4  bangkok :: Bangkok - Café Chilli @ Siam Paragon
+   3  bangkok :: Bangkok - Café S31
+   3  bangkok :: Bangkok - Capri @ Asiatique
+   3  bangkok :: Bangkok - Central Embassy
+   9  bangkok :: Bangkok - Centralworld
+   2  bangkok :: Bangkok - Centralworld Food Hall
+   3  bangkok :: Bangkok - Chatrium Riverside
+   1  bangkok :: Bangkok - Cheap Charlie
+   7  bangkok :: Bangkok - Checkmate @ Asiatique
+  25  bangkok :: Bangkok - Chinatown
+   1  bangkok :: Bangkok - Clandestino
+   3  bangkok :: Bangkok - Coffee Club
+   3  bangkok :: Bangkok - Corner Café
+   1  bangkok :: Bangkok - CPS
+   1  bangkok :: Bangkok - CPS @Terminal 21
+   6  bangkok :: Bangkok - Crystal Jade @ Siam Paragon
+   7  bangkok :: Bangkok - Din Tai Fung @ Centralworld
+   5  bangkok :: Bangkok - Din Tai Fung @ CTW
+   1  bangkok :: Bangkok - Don Muang
+   3  bangkok :: Bangkok - Dream Hotel
+   1  bangkok :: Bangkok - Duklong Cafe
+   4  bangkok :: Bangkok - Eat Sight Story
+   1  bangkok :: Bangkok - Ekkamai
+   6  bangkok :: Bangkok - EmQuartier
+   2  bangkok :: Bangkok - EmSphere
+   1  bangkok :: Bangkok - Erawan
+   4  bangkok :: Bangkok - Fallabella @IconSiam
+   1  bangkok :: Bangkok - Food Court @ Siam Paragon
+   1  bangkok :: Bangkok - Food Court@ The Street
+   3  bangkok :: Bangkok - Food Republic
+   1  bangkok :: Bangkok - Fortville GH
+   3  bangkok :: Bangkok - Fusion
+   4  bangkok :: Bangkok - G's
+   1  bangkok :: Bangkok - H Roaster Café
+   6  bangkok :: Bangkok - Harvey
+   1  bangkok :: Bangkok - Heaven on Earth
+   2  bangkok :: Bangkok - Himalaya Residence
+   1  bangkok :: Bangkok - HOBS Rain Hill
+   1  bangkok :: Bangkok - Holey Bakery
+   1  bangkok :: Bangkok - Hong Bao @ Central Embassy
+   2  bangkok :: Bangkok - Hong Bao Central Embassy
+   2  bangkok :: Bangkok - Hong Kong Noodle
+  19  bangkok :: Bangkok - IconSiam
+   1  bangkok :: Bangkok - Isara Local Bar & Brewery
+   4  bangkok :: Bangkok - Jay Hong
+   1  bangkok :: Bangkok - Jong Dimsum
+  13  bangkok :: Bangkok - Kabocha Sushi @ The Street
+   7  bangkok :: Bangkok - Kabocha Sushi @The Street
+   1  bangkok :: Bangkok - Katsu @ CTW
+   9  bangkok :: Bangkok - Ko Kret
+   5  bangkok :: Bangkok - Kogiku
+   3  bangkok :: Bangkok - Krua Porn Lamai
+   3  bangkok :: Bangkok - KubKao' KubPla Emquartier
+   4  bangkok :: Bangkok - Laab Ubon Kontrakran
+  13  bangkok :: Bangkok - Long Table
+   5  bangkok :: Bangkok - Madamzab
+   4  bangkok :: Bangkok - Momo Samsen
+   2  bangkok :: Bangkok - Nai Meng
+   1  bangkok :: Bangkok - Nippon Kai @ Siam Paragon
+   3  bangkok :: Bangkok - Nobu
+  12  bangkok :: Bangkok - Octave Skybar @ Marriott Sukhumvit
+   3  bangkok :: Bangkok - Olive
+   1  bangkok :: Bangkok - Ootoya
+   2  bangkok :: Bangkok - Ootoya @ CTW
+   3  bangkok :: Bangkok - Pak Kret
+   6  bangkok :: Bangkok - Paradise Dynasty @ Siam Paragon
+   1  bangkok :: Bangkok - Phiman Waterview
+   9  bangkok :: Bangkok - Pier 21
+   7  bangkok :: Bangkok - Pier21
+   1  bangkok :: Bangkok - Pobnar specialty coffee
+  10  bangkok :: Bangkok - President Solitaire
+   1  bangkok :: Bangkok - Pua-Kee
+   1  bangkok :: Bangkok - Rambuttri Village
+   4  bangkok :: Bangkok - Rang Mahal
+   5  bangkok :: Bangkok - Reflections @ Terminal 21
+   4  bangkok :: Bangkok - Retro Café @ Rod Fai Night Market Ratchada
+   1  bangkok :: Bangkok - Richdee's
+   5  bangkok :: Bangkok - River View Residence
+   8  bangkok :: Bangkok - Rod Fai Night Market Ratchada
+   5  bangkok :: Bangkok - Rod Fai Train Night Market
+   1  bangkok :: Bangkok - Rod Fai Train Night Market - Burn Baby Burn
+  10  bangkok :: Bangkok - Rot Fai Train Night Market
+   3  bangkok :: Bangkok - Sané Phutong
+   2  bangkok :: Bangkok - Sathorn Saint View
+   2  bangkok :: Bangkok - Sawang Noodles
+   3  bangkok :: Bangkok - Segafredo @ CTW
+   1  bangkok :: Bangkok - Segafredo @Central Plaza Rama 9
+   2  bangkok :: Bangkok - Shinkanzen @ Samyan Mitrtown
+   9  bangkok :: Bangkok - Siam Paragon
+   2  bangkok :: Bangkok - Siam Paragon Foodcourt
+   1  bangkok :: Bangkok - Sidare B&B
+   2  bangkok :: Bangkok - SomtumDer
+  15  bangkok :: Bangkok - SookSiam @ IconSiam
+   1  bangkok :: Bangkok - Starbucks @ KSR
+  13  bangkok :: Bangkok - State Tower
+   1  bangkok :: Bangkok - Suite@President Solitaire
+   3  bangkok :: Bangkok - Sung Potchana
+   7  bangkok :: Bangkok - Supper Club
+   1  bangkok :: Bangkok - Sushi Den @ Centralworld
+   3  bangkok :: Bangkok - Sushi Den @ Siam Paragon
+   8  bangkok :: Bangkok - Sushi Hiro @ Samyan Mitrtown
+   8  bangkok :: Bangkok - Sushiro @ IconSiam
+   1  bangkok :: Bangkok - Suvarnabhumi Airport
+   3  bangkok :: Bangkok - Tadaima @ Ekkamai
+   3  bangkok :: Bangkok - Taketei
+   3  bangkok :: Bangkok - Taling Pling @ CTW
+   4  bangkok :: Bangkok - Tapas Café
+   4  bangkok :: Bangkok - Tawandang Brew House
+   2  bangkok :: Bangkok - Terminal 21
+   1  bangkok :: Bangkok - Terminal21
+   1  bangkok :: Bangkok - Thanon Dinso Duck Noodles
+   3  bangkok :: Bangkok - The Camping Ground
+   2  bangkok :: Bangkok - The Fabulous bar & Dessert Cafe
+   2  bangkok :: Bangkok - The Fabulous Bar & Dessert Café
+   3  bangkok :: Bangkok  The Junction Bang Kachao
+   3  bangkok :: Bangkok - The Street Food Court
+   1  bangkok :: Bangkok - Thungchiangmai
+   2  bangkok :: Bangkok - Tilac Bar
+   1  bangkok :: Bangkok - Tim Ho Wan @ Ekkamai
+   2  bangkok :: Bangkok - Toms Café
+   2  bangkok :: Bangkok - Tops @ Rama 9 Plaza
+   1  bangkok :: Bangkok - Tops Food Court @ Rama9
+   3  bangkok :: Bangkok - Uni Coffee Roastery
+  10  bangkok :: Bangkok - Urbana Langsuan
+   1  bangkok :: Bangkok - Wandee
+   4  bangkok :: Bangkok - Wine Connection @ Raintree
+   2  bangkok :: Bangkok - Wine I Love You @ EmQuartier
+   5  bangkok :: Bangkok - Wine, I love You @ EmQuartier
+   3  bangkok :: Bangkok - Yong He Dou Jiang Soy Milk
+   5  bangkok :: Bangkok - Yura-An @ Centralworld
+   1  bangkok :: Bangkok - Zabb One Ratchada
+   9  bangkok :: Bangkok - Zaks
+   4  bangkok :: Bangkok - Zaks Wine Pub
+   1  bangkok :: Bangkok -Have a Zeed @ The Street
+   2  chiang-mai :: Chiang Mai - A.T. Thaifoods
+   2  chiang-mai :: Chiang Mai - Auf der Au
+   4  chiang-mai :: Chiang Mai - Barnakarn
+   3  chiang-mai :: Chiang Mai - Bear Hug
+   3  chiang-mai :: Chiang Mai - Blue Diamond
+   1  chiang-mai :: Chiang Mai - By Hand
+   4  chiang-mai :: Chiang Mai - Café de Thaan Aoan
+   3  chiang-mai :: Chiang Mai - Cat Shack
+   1  chiang-mai :: Chiang Mai - Central Mall
+   5  chiang-mai :: Chiang Mai - Chang Phuak Gate Night Market
+   1  chiang-mai :: Chiang Mai - Chinese Restaurant @ The Harbour
+   3  chiang-mai :: Chiang Mai - Clay Café
+   3  chiang-mai :: Chiang Mai - Coconut Shell
+   2  chiang-mai :: Chiang Mai - Cooconut Shel
+   2  chiang-mai :: Chiang Mai - Dao
+  11  chiang-mai :: Chiang Mai - DK David's Kitchen
+   2  chiang-mai :: Chiang Mai - Esarn @ Central
+   1  chiang-mai :: Chiang Mai - Food Court @ Maya
+   3  chiang-mai :: Chiang Mai - Fuji @ Maya
+   4  chiang-mai :: Chiang Mai - Fuji @ Promenada
+   1  chiang-mai :: Chiang Mai - Ginza Sushi
+   1  chiang-mai :: Chiang Mai - Green House
+  11  chiang-mai :: Chiang Mai - Green Table
+   2  chiang-mai :: Chiang Mai - Guay Jab Chang Moi Tat Mai
+   4  chiang-mai :: Chiang Mai - Huean Jai Yong
+   3  chiang-mai :: Chiang Mai - Jing Jai Market
+   1  chiang-mai :: Chiang Mai - Jinjiao Dumplings
+   1  chiang-mai :: Chiang Mai - Jok Somphet
+   1  chiang-mai :: Chiang Mai - Kalare Night Bazaa
+   1  chiang-mai :: Chiang Mai - Kalm
+   3  chiang-mai :: Chiang Mai - Khaomao-Khaofang Imaginary Jungle
+   5  chiang-mai :: Chiang Mai - Khlong Mae Kha Night Market
+   3  chiang-mai :: Chiang Mai - Khun Puen’s Thai BBQ
+   2  chiang-mai :: Chiang Mai - Krua Phor Piang
+   1  chiang-mai :: Chiang Mai - Lahori Chaska
+   3  chiang-mai :: Chiang Mai - Lecker
+   1  chiang-mai :: Chiang Mai - Maya Food Court
+   3  chiang-mai :: Chiang Mai - Memories of Chiang Mai
+   5  chiang-mai :: Chiang Mai - Mix @ Promenada
+   2  chiang-mai :: Chiang Mai - Muay
+  15  chiang-mai :: Chiang Mai - Musashi
+   9  chiang-mai :: Chiang Mai - Musashi Sushi
+   6  chiang-mai :: Chiang Mai - Neng’s Clay Oven Roasted Pork
+   2  chiang-mai :: Chiang Mai - Number 9
+   3  chiang-mai :: Chiang Mai - Overstand
+   2  chiang-mai :: Chiang Mai - Peppermint Cafe
+   4  chiang-mai :: Chiang Mai - Rimping @ Promenada
+   2  chiang-mai :: Chiang Mai - Ristr8tto
+   1  chiang-mai :: Chiang Mai - Rose Ice Cream
+   2  chiang-mai :: Chiang Mai - Rotee Pa Day
+   1  chiang-mai :: Chiang Mai - Royal India
+   1  chiang-mai :: Chiang Mai - Segafredo @ Central Festival
+   2  chiang-mai :: Chiang Mai - Somtam Rom Pla Dek
+   3  chiang-mai :: Chiang Mai - Sunday Walking Street
+   1  chiang-mai :: Chiang Mai - TC CNX
+   4  chiang-mai :: Chiang Mai - Thai 1 On
+   3  chiang-mai :: Chiang Mai - The Baristro Asian Style
+   5  chiang-mai :: Chiang Mai - The Coffee Club
+   3  chiang-mai :: Chiang Mai - The Globe
+   4  chiang-mai :: Chiang Mai - The House
+   2  chiang-mai :: Chiang Mai - The House by Ginger
+   2  chiang-mai :: Chiang Mai - Tomimaki
+   1  chiang-mai :: Chiang Mai - View Suai Coffee
+   1  chiang-mai :: Chiang Mai - Wine Connection @ Promenada
+   4  chiang-mai :: Chiang Mai -Bam7
+   2  chiang-mai :: Chiang Mai Gate Night Market
+   8  chiang-mai :: Chiang Mai Province - Coffee Hill 32
+   2  chiang-mai :: Chiang Mai -Ratanas Kitchen
