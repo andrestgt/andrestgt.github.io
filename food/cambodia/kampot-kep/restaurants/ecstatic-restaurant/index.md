@@ -1,0 +1,26 @@
+---
+layout: default
+section: food
+review: true
+photos_locked: true
+title: Ecstatic Restaurant
+subtitle: Old Market, Kampot · Khmer, International
+---
+
+The pizzas here are decent enough, but they are not really the reason to come. Ecstatic is more about huge, very good value shakes (including "happy" versions if that's your thing), tasty Khmer food, and the excellent location right by the Old Market area.
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 7.5/10 |
+| Service         | 7/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 7.5/10 |
+| Overall         | 7.5/10   |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1061f95ec62b9273)
+🍽️ **Type:** Khmer, International
+💰 **Price level:** $8–10

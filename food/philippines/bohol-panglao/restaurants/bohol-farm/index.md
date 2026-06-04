@@ -1,0 +1,58 @@
+---
+layout: default
+section: food
+review: true
+title: Bohol Farm
+subtitle: Dauis, Bohol · Filipino
+---
+
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-1.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+
+Bohol Farm has a brilliant location with wonderful views over the surrounding countryside. The food is decent, and by Philippine standards actually very good. Some dishes lean a little too sweet for my taste, but there are plenty of salads and vegetable dishes on the menu as well. Prices are fair for the setting.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-2.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-3.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-4.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-7.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/philippines/bohol-panglao/bohol-farm-8.jpg" alt="Bohol Farm">
+  <figcaption>Bohol Farm</figcaption>
+</figure>
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 8/10  |
+| Service         | 8/10    |
+| Value for money | 8.5/10  |
+| Atmosphere      | 8.5/10    |
+| Overall         | 8.5/10    |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3f3ef9b1e76e3620)
+🍽️ **Type:** Filipino, International
+💰 **Price level:** ₱400–600

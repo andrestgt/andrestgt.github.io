@@ -1,0 +1,46 @@
+---
+layout: default
+section: food
+review: true
+title: Carinderia by the Bay
+subtitle: El Nido Town · Filipino
+---
+
+<figure>
+  <img src="/photos/philippines/el-nido/SEA25-0423.jpg" alt="Carinderia by the Bay">
+  <figcaption>Carinderia by the Bay</figcaption>
+</figure>
+
+It’s definitely not the friendliest place in the Philippines, but the location is fantastic. This is a proper beach restaurant, and if they can grill you a whole fresh fish, definitely go for it. The prices for the grilled fish are very fair—we paid 550 pesos for a jackfish that was easily enough for two.
+I wasn’t completely convinced by some of their other dishes, which didn’t seem to offer great value, but for fresh fish, this place is hard to beat.
+
+
+
+<figure>
+  <img src="/photos/philippines/el-nido/carinderia-by-the-bay-1.jpg" alt="Carinderia by the Bay">
+  <figcaption>Carinderia by the Bay</figcaption>
+</figure>
+
+<figure>
+  <img src="/photos/philippines/el-nido/carinderia-by-the-bay-2.jpg" alt="Carinderia by the Bay">
+  <figcaption>Carinderia by the Bay</figcaption>
+</figure>
+<figure>
+  <img src="/photos/philippines/el-nido/SEA25-0464.jpg" alt="Carinderia by the Bay">
+  <figcaption>Carinderia by the Bay</figcaption>
+<figure>
+## Ratings
+
+| Category        | Score  |
+|-----------------|--------|
+| Food            | 8/10    |
+| Service         | 6/10    |
+| Value for money | 8/10    |
+| Atmosphere      | 7.5/10    |
+| Overall         | 8/10    |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe68ff1e082137bff)
+🍽️ **Type:** Filipino, Seafood
+💰 **Price level:** ₱500–700
