@@ -1,0 +1,36 @@
+---
+layout: default
+section: food
+review: true
+title: Pooky O'Leary's Thairish Pub
+subtitle: Ao Nang, Krabi · Bar & Pub
+photos_locked: true
+---
+
+<figure>
+  <img src="/photos/thailand/krabi/pooky-olearys-thairish-pub-1.jpg" alt="Pooky O'Leary's Thairish Pub">
+  <figcaption>Pooky O'Leary's Thairish Pub</figcaption>
+</figure>
+
+Pooky's is basically just a nice quiet resto-pub with air con and a few tables. They have a small menu of Western comfort food and standard Thai dishes. The food is very good indeed, they certainly focus on quality and high standards, which kind of justifies the rather high price. My burger was pretty damn delicious with a succulent, juicy patty and good bun. It came with proper home made chips. The Pad Thai was nothing extraordinary but it contained three fat king prawns which was a nice touch. They serve Dark Lao here which made me happy, but drink prices are really high for a simple pub and I don't think they have any drink specials compared to most other bars in Ao Nang. Worth a visit for high quality comfort food but not to spend a night drinking unless money is no issue.
+
+<figure>
+  <img src="/photos/thailand/krabi/pooky-olearys-thairish-pub-2.jpg" alt="Pooky O'Leary's Thairish Pub">
+  <figcaption>Pooky O'Leary's Thairish Pub</figcaption>
+</figure>
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 8.5/10    |
+| Service         | 8/10    |
+| Value for money | 7/10    |
+| Atmosphere      | 8/10  |
+| Overall         | 8/10    |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x50489ab2c74d8419)
+🍺 **Type:** Bar & Pub
+💰 **Price level:** moderate to expensive

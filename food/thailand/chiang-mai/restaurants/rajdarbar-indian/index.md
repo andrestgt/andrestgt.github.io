@@ -1,0 +1,24 @@
+---
+layout: default
+section: food
+review: true
+title: Rajdarbar Indian Restaurant
+subtitle: Chang Khlan · Indian
+photos_locked: true
+---
+
+Had a takeaway chicken tikka masala and garlic naan. The bread was very good, with a very garlicky flavour. The masala gravy was also really good, spicy enough and creamy. The chicken tikka could have been a bit juicier, but overall for the price this is a clear recommendation.
+
+## Ratings
+
+| Category        | Score  |
+| ---             | ---    |
+| Food            | 7.5/10 |
+| Value for money | 8/10   |
+| Overall         | 7.5/10 |
+
+### Practical
+
+🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x30e1af12f13c6c1e)
+🍽️ **Type:** Indian
+💰 **Price level:** ฿200–300
