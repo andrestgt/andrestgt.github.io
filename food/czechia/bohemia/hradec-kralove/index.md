@@ -1,0 +1,13 @@
+---
+layout: default
+hero: /photos/background/hradechero.jpg
+section: food
+city: hradec-kralove
+title: Hradec Králové
+subtitle: Food & drink in Hradec Králové
+---
+
+# Hradec Králové
+
+## Categories
+- [Cafés](/food/czechia/bohemia/hradec-kralove/cafes/)
