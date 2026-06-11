@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+  <style>
+    :root{
+      --accent: #1a4fd8;
+      --text-primary: #1a1a1a;
+      --text-muted: #666;
+      --rule: #e5e5e5;
+      --content-max: 820px;
+      --travelogue-max: 720px;
+      --hero-mobile-height: 56vh;
+      --hero-desktop-height: 100vh;
+      --hero-overlay: rgba(0,0,0,0.35);
+      --read-full-blue: #1a4fd8;
+    }
+
+    html,body { height: 100%; }
+
+    /* ---------------------------
+       GLOBAL BASE
+       --------------------------- */
+
+    body {
+      font-family: "Source Serif 4", Georgia, serif;
+      max-width: var(--content-max);
+      margin: 3rem auto;
+      padding: 0 1.5rem;
+      line-height: 1.7;
+      background: #fff;
+      color: var(--text-primary);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    h1,h2,h3 { font-family: "Inter", system-ui, sans-serif; margin: 0 0 .6rem 0; }
+    h1 { border-bottom: 2px solid var(--rule); padding-bottom: .4rem; margin-bottom: 1.2rem; }
+
+    p { margin: 1.2rem 0; }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; border-radius: 6px; }
+
+    figure { margin: 1.5rem auto; text-align: center; }
+    figcaption { font-size: .85rem; color: var(--text-muted); margin-top: .4rem; }
+
+    nav.site-nav {
+      border-bottom: 1px solid var(--rule);
+      padding: .6rem 0 .8rem;
+      margin-bottom: 2.5rem;
+      text-align: right;
+      position: relative;
+      z-index: 30;
+      background: transparent;
+    }
+
+    nav.site-nav a {
+      font-family: "Inter", system-ui, sans-serif;
+      font-size: .95rem;
+      margin-left: 1rem;
+      color: #333;
+    }
+
+    main#top {
+      max-width: var(--content-max);
+      margin: 0 auto;
+      padding: 1rem 0 4rem;
+      position: relative;
+      z-index: 40;
+      background: transparent;
+    }
+
+    hr { border: none; height: 1px; background: var(--rule); margin: 1.2rem 0; }
+
+    /* ---------------------------
+       TRAVELOGUE-SPECIFIC TYPOGRAPHY
+       --------------------------- */
+
+    /* ---------------------------
+       TRAVELOGUE TYPOGRAPHY
+       --------------------------- */
+
+    body.travels {
+      font-family: "Lora", Georgia, serif;
+      max-width: var(--travelogue-max);
+      line-height: 1.85;
+      font-size: 1.0625rem;
+      color: #1a1a1a;
+    }
+
+    /* Main title */
+    body.travels .page-body h1 {
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 2.6rem;
+      line-height: 1.1;
+      letter-spacing: -0.03em;
+      border: none;
+      padding: 0;
+      margin-bottom: 0.25rem;
+      color: #111;
+    }
+
+    /* Date headings */
+    body.travels .page-body h2 {
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 1.0625rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: #111;
+      margin-top: 4rem;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid #ebebeb;
+    }
+
+    /* Location subheadings — elegant italic serif */
+    body.travels .page-body h3 {
+      font-family: "Lora", Georgia, serif;
+      font-weight: 400;
+      font-style: italic;
+      font-size: 1.1rem;
+      color: #555;
+      margin-top: 0.5rem;
+      margin-bottom: 1rem;
+      border: none;
+    }
+
+    /* Body paragraphs */
+    body.travels .page-body p {
+      font-size: 1.0625rem;
+      line-height: 1.85;
+      margin: 1.5rem 0;
+      color: #1a1a1a;
+    }
+
+    /* Section dividers — short centred rule */
+    body.travels .page-body hr {
+      margin: 3.5rem auto;
+      width: 3rem;
+      height: 2px;
+      background: #ccc;
+      border: none;
+      display: block;
+    }
+
+    /* Photo captions — small grey label */
+    body.travels .page-body em {
+      font-family: "Inter", sans-serif;
+      font-style: normal;
+      font-size: 0.8rem;
+      letter-spacing: 0.03em;
+      color: #aaa;
+      display: block;
+      text-align: center;
+      margin-top: -0.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    /* Images */
+    body.travels .page-body img {
+      margin: 2.5rem auto 0.75rem;
+      border-radius: 4px;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+      width: 100%;
+    }
+
+    /* Travelogue photo rows: a block of 2 or more photos renders two side by side; a lone photo stays full width */
+    body.travels .photo-row:has(figure:nth-of-type(2)) {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem 1rem;
+      margin: 2.5rem 0;
+      align-items: start;
+    }
+    body.travels .photo-row:has(figure:nth-of-type(2)) figure { margin: 0; }
+    body.travels .photo-row:has(figure:nth-of-type(2)) img { width: 100%; margin: 0; border-radius: 4px; box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
+    body.travels .photo-row:has(figure:nth-of-type(2)) em { margin: 0.35rem 0 0; }
+    @media (max-width: 700px) {
+      body.travels .photo-row:has(figure:nth-of-type(2)) { grid-template-columns: 1fr; }
+    }
+
+    /* ---------------------------
+       HERO / BACKGROUND
+       --------------------------- */
+
+    .site-hero {
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      width: 100vw;
+      min-height: var(--hero-mobile-height);
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      box-sizing: border-box;
+      overflow: hidden;
+      color: #fff;
+      background-color: #000;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: scroll;
+      z-index: 10;
+    }
+
+    .site-hero.has-overlay::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: var(--hero-overlay);
+      pointer-events: none;
+      z-index: 5;
+    }
+
+    .hero-inner {
+      width: 100%;
+      max-width: var(--content-max);
+      padding: 2.5rem 1.5rem;
+      margin: 0 auto;
+      position: relative;
+      z-index: 10;
+      box-sizing: border-box;
+    }
+
+    .page-body {
+      max-width: var(--content-max);
+      margin: 2rem auto;
+      padding: 0 1.5rem 4rem;
+      background: transparent;
+      color: inherit;
+      position: relative;
+      z-index: 20;
+    }
+
+    body.travels .page-body {
+      max-width: var(--travelogue-max);
+    }
+
+    /* Review pages */
+    body.food.food-review {
+      background: #fff !important;
+      color: var(--text-primary) !important;
+      max-width: var(--content-max);
+      margin: 3rem auto;
+      padding: 0 1.5rem;
+    }
+
+    body.food.food-review nav.site-nav {
+      position: relative;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    body.food.food-review nav.site-nav a { color: #333; }
+
+    /* [ALL THE HERO IMAGE ASSIGNMENTS - KEEPING EXACTLY AS IS] */
+    body.food.index .site-hero { background-image: url("/photos/background/food.jpg"); }
+    body.food.food-country.thailand .site-hero { background-image: url("/photos/background/foodthailand.jpg"); }
+    body.food.food-country.vietnam .site-hero { background-image: url("/photos/background/foodvietnam.jpg"); }
+    body.food.food-city.chiang-mai .site-hero { background-image: url("/photos/background/foodthaicm.png"); }
+    body.food.food-city.chiang-rai .site-hero { background-image: url("/photos/background/foodthaicr.jpg"); }
+    body.food.food-city.phuket-town .site-hero { background-image: url("/photos/background/foodthaipt.jpg"); }
+    body.food.food-city.around-phuket .site-hero { background-image: url("/photos/background/foodthaiap.jpg"); }
+    body.food.food-city.koh-samui .site-hero { background-image: url("/photos/background/foodks.jpg"); }
+    body.food.food-city.bangkok .site-hero { background-image: url("/photos/background/foodthaibkk.jpg"); }
+    body.food.food-city.hanoi .site-hero { background-image: url("/photos/background/foodviethn.jpg"); }
+    body.food.food-city.ho-chi-minh-city .site-hero { background-image: url("/photos/background/foodviethcm.jpg"); }
+    body.food.food-city.hoi-an .site-hero { background-image: url("/photos/background/foodviethoian.jpg"); }
+    body.food.food-city.da-nang .site-hero { background-image: url("/photos/background/foodvietdn.jpg"); }
+    body.food.food-city.nha-trang .site-hero { background-image: url("/photos/background/foodvietnt.jpg"); }
+    body.food.food-city.con-dao .site-hero { background-image: url("/photos/background/foodvietcondao.jpg"); }
+    body.food.food-city.phong-nha .site-hero { background-image: url("/photos/background/foodvietpn.jpg"); }
+    body.food.food-city.sa-pa .site-hero { background-image: url("/photos/background/foodvietsapa.jpg"); }
+    body.food.food-city.quy-nhon .site-hero { background-image: url("/photos/background/foodvietqn.jpg"); }
+    body.food.food-city.da-lat .site-hero { background-image: url("/photos/background/foodvietdalat.jpg"); }
+    body.food.food-city.hue .site-hero { background-image: url("/photos/background/foodviethue.jpg"); }
+
+    /* Indonesia country pages */
+    body.food.food-country.maluku .site-hero { background-image: url("/photos/background/malukuhead.jpg"); }
+    body.food.food-country.java .site-hero { background-image: url("/photos/background/javahead.jpg"); }
+    body.food.food-country.sumatra .site-hero { background-image: url("/photos/background/sumatrahead.jpg"); }
+    body.food.food-country.bali .site-hero { background-image: url("/photos/background/balihead.jpg"); }
+    body.java .site-hero { background-image: url("/photos/background/javahead.jpg") !important; }
+    body.sumatra .site-hero { background-image: url("/photos/background/sumatrahead.jpg") !important; }
+    body.bali .site-hero { background-image: url("/photos/background/balihead.jpg") !important; }
+
+    /* Indonesia city landing pages */
+    body.food.food-city.jakarta .site-hero { background-image: url("/photos/background/jakartahead.jpg"); }
+    body.food.food-city.kuta-south .site-hero { background-image: url("/photos/background/kutahead.jpg"); }
+    body.food.food-city.ubud-north .site-hero { background-image: url("/photos/background/ubudhead.jpg"); }
+
+    /* Kuta-south and Ubud-north category pages */
+    body.kuta-south.restaurants .site-hero { background-image: url("/photos/background/kutahead.jpg") !important; }
+    body.kuta-south.cafes .site-hero { background-image: url("/photos/background/kutahead.jpg") !important; }
+    body.ubud-north.restaurants .site-hero { background-image: url("/photos/background/ubudhead.jpg") !important; }
+    body.ubud-north.cafes .site-hero { background-image: url("/photos/background/ubudhead.jpg") !important; }
+    body.maluku .site-hero { background-image: url("/photos/background/malukuhead.jpg") !important; }
+
+    /* Indonesia country/region pages */
+    body.food.food-country.west-papua .site-hero { background-image: url("/photos/background/papuahead.jpg"); }
+    body.west-papua .site-hero { background-image: url("/photos/background/papuahead.jpg") !important; }
+
+    /* Indonesia city landing pages */
+    body.food.food-city.ambon .site-hero { background-image: url("/photos/background/ambonhead.jpg"); }
+    body.food.food-city.sorong .site-hero { background-image: url("/photos/background/soronghead.jpg"); }
+    body.food.food-city.banda-islands .site-hero { background-image: url("/photos/background/bandahead.jpg"); }
+    body.food.food-city.kei-islands .site-hero { background-image: url("/photos/background/keihead.jpg"); }
+    body.food.food-city.surabaya .site-hero { background-image: url("/photos/background/surabayahead.jpg"); }
+
+    /* Indonesia category pages */
+    body.ambon.restaurants .site-hero { background-image: url("/photos/background/ambonhead.jpg") !important; }
+    body.ambon.cafes .site-hero { background-image: url("/photos/background/ambonhead.jpg") !important; }
+    body.banda-islands.restaurants .site-hero { background-image: url("/photos/background/bandahead.jpg") !important; }
+    body.banda-islands.cafes .site-hero { background-image: url("/photos/background/bandahead.jpg") !important; }
+    body.kei-islands.restaurants .site-hero { background-image: url("/photos/background/keihead.jpg") !important; }
+    body.surabaya.restaurants .site-hero { background-image: url("/photos/background/surabayahead.jpg") !important; }
+    body.surabaya.cafes .site-hero { background-image: url("/photos/background/surabayahead.jpg") !important; }
+    body.surabaya.bars-pubs .site-hero { background-image: url("/photos/background/surabayahead.jpg") !important; }
+    body.sorong.restaurants .site-hero { background-image: url("/photos/background/soronghead.jpg") !important; }
+    body.sorong.cafes .site-hero { background-image: url("/photos/background/soronghead.jpg") !important; }
+    body.food.food-city.food-category.chiang-mai.restaurants .site-hero{background-image:url("/photos/background/cmrestaurants.jpg")!important;}
+    body.food.food-city.food-category.chiang-mai.cafes .site-hero{background-image:url("/photos/background/cmcafes.jpg")!important;}
+    body.food.food-city.food-category.chiang-mai.street-food .site-hero{background-image:url("/photos/background/cmbasic.jpg")!important;}
+    body.food.food-city.food-category.chiang-mai.bars-pubs .site-hero{background-image:url("/photos/background/cmbars.jpg")!important;}
+    body.around-phuket.cafes .site-hero { background-image: url("/photos/background/apcafes.jpg") !important; }
+    body.around-phuket.restaurants .site-hero { background-image: url("/photos/background/aprestaurants.jpg") !important; }
+
+    body.koh-samui.cafes .site-hero { background-image: url("/photos/background/kscafes.jpg") !important; }
+    body.koh-samui.restaurants .site-hero { background-image: url("/photos/background/ksrestaurants.jpg") !important; }
+    body.koh-samui.street-food .site-hero { background-image: url("/photos/background/ksbasic.jpg") !important; }
+    body.koh-samui.bars-pubs .site-hero { background-image: url("/photos/background/ksbars.jpg") !important; }
+    body.bangkok.cafes .site-hero { background-image: url("/photos/background/bkkcafes.jpg") !important; }
+    body.bangkok.restaurants .site-hero { background-image: url("/photos/background/bkkrestaurants.jpg") !important; }
+    body.bangkok.street-food .site-hero { background-image: url("/photos/background/bkkbasic.jpg") !important; }
+    body.bangkok.bars-pubs .site-hero { background-image: url("/photos/background/bkkbars.jpg") !important; }
+    body.chiang-rai.cafes .site-hero { background-image: url("/photos/background/crcafes.jpg") !important; }
+    body.chiang-rai.restaurants .site-hero { background-image: url("/photos/background/crrestaurants.jpg") !important; }
+    body.chiang-rai.street-food .site-hero { background-image: url("/photos/background/crbasic.jpg") !important; }
+    body.hanoi.cafes .site-hero { background-image: url("/photos/background/hncafes.jpg") !important; }
+    body.hanoi.restaurants .site-hero { background-image: url("/photos/background/hnrestaurants.jpg") !important; }
+    body.hanoi.street-food .site-hero { background-image: url("/photos/background/hnbasic.jpg") !important; }
+    body.hanoi.bars-pubs .site-hero { background-image: url("/photos/background/hnbars.jpg") !important; }
+    body.ho-chi-minh-city.cafes .site-hero { background-image: url("/photos/background/hcmcafes.jpg") !important; }
+    body.ho-chi-minh-city.restaurants .site-hero { background-image: url("/photos/background/hcmrestaurants.jpg") !important; }
+    body.ho-chi-minh-city.street-food .site-hero { background-image: url("/photos/background/hcmbasic.jpg") !important; }
+    body.ho-chi-minh-city.bars-pubs .site-hero { background-image: url("/photos/background/hcmbars.jpg") !important; }
+    body.hoi-an.cafes .site-hero { background-image: url("/photos/background/hoiancafes.jpg") !important; }
+    body.hoi-an.restaurants .site-hero { background-image: url("/photos/background/hoianrestaurants.jpg") !important; }
+    body.hoi-an.street-food .site-hero { background-image: url("/photos/background/hoianbasic.jpg") !important; }
+    body.hoi-an.bars-pubs .site-hero{background-image:url("/photos/background/hoianbars.jpg")!important;}
+    body.da-nang.cafes .site-hero { background-image: url("/photos/background/danangcafes.jpg") !important; }
+    body.da-nang.restaurants .site-hero { background-image: url("/photos/background/danangrestaurants.jpg") !important; }
+    body.da-nang.bars-pubs .site-hero { background-image: url("/photos/background/danangbars.jpg") !important; }
+    body.da-nang.street-food .site-hero { background-image:url("/photos/background/danangbasic.jpg") !important; }
+    body.nha-trang.cafes .site-hero { background-image: url("/photos/background/ntcafes.jpg") !important; }
+    body.nha-trang.restaurants .site-hero { background-image: url("/photos/background/ntrestaurants.jpg") !important; }
+    body.nha-trang.street-food .site-hero { background-image: url("/photos/background/ntbasic.jpg") !important; }
+    body.nha-trang.bars-pubs .site-hero { background-image: url("/photos/background/ntbars.jpg") !important; }
+    body.phong-nha.street-food .site-hero { background-image: url("/photos/background/pnbasic.jpg") !important; }
+    body.phong-nha.restaurants .site-hero { background-image: url("/photos/background/pnrestaurants.jpg") !important; }
+    body.quy-nhon.cafes .site-hero { background-image: url("/photos/background/qncafes.jpg") !important; }
+    body.quy-nhon.restaurants .site-hero { background-image: url("/photos/background/qnrestaurants.jpg") !important; }
+    body.quy-nhon.street-food .site-hero { background-image: url("/photos/background/qnbasic.jpg") !important; }
+    body.da-lat.cafes .site-hero { background-image: url("/photos/background/dalatcafes.jpg") !important; }
+    body.da-lat.restaurants .site-hero { background-image: url("/photos/background/dalatrestaurants.jpg") !important; }
+    body.da-lat.bars-pubs .site-hero { background-image: url("/photos/background/dalatbars.jpg") !important; }
+    body.da-lat.street-food .site-hero{background-image:url("/photos/background/dalatbasic.jpg")!important;}
+    body.con-dao.cafes .site-hero { background-image: url("/photos/background/cdcafes.jpg") !important; }
+    body.con-dao.restaurants .site-hero { background-image: url("/photos/background/cdrestaurants.jpg") !important; }
+    body.hue.cafes .site-hero { background-image: url("/photos/background/huecafes.jpg") !important; }
+    body.hue.street-food .site-hero { background-image: url("/photos/background/huebasic.jpg") !important; }
+    body.hue.restaurants .site-hero { background-image: url("/photos/background/huerestaurants.jpg") !important; }
+    body.hue.bars-pubs .site-hero { background-image: url("/photos/background/huebars.jpg") !important; }
+    body.food.food-city.sa-pa.cafes .site-hero{background-image:url("/photos/background/sapacafes.jpg")!important;}
+    body.food.food-city.sa-pa.restaurants .site-hero{background-image:url("/photos/background/saparestaurants.jpg")!important;}
+    body.sa-pa.street-food .site-hero{background-image:url("/photos/background/sapabasic.jpg")!important;}
+
+    /* Philippines */
+    body.food.food-city.baguio .site-hero { background-image: url("/photos/background/baguiohead.jpg"); }
+    body.baguio .site-hero { background-image: url("/photos/background/baguiohead.jpg") !important; }
+    body.food.food-city.bohol .site-hero { background-image: url("/photos/background/boholhead.jpg"); }
+    body.bohol .site-hero { background-image: url("/photos/background/boholhead.jpg") !important; }
+    body.food.food-city.boracay .site-hero { background-image: url("/photos/background/boracayhead.jpg"); }
+    body.boracay .site-hero { background-image: url("/photos/background/boracayhead.jpg") !important; }
+    body.food.food-city.cebu .site-hero { background-image: url("/photos/background/cebuhead.jpg"); }
+    body.cebu .site-hero { background-image: url("/photos/background/cebuhead.jpg") !important; }
+    body.food.food-city.davao .site-hero { background-image: url("/photos/background/davaohead.jpg"); }
+    body.davao .site-hero { background-image: url("/photos/background/davaohead.jpg") !important; }
+    body.food.food-city.dumaguete .site-hero { background-image: url("/photos/background/dumaguetehead.jpg"); }
+    body.dumaguete .site-hero { background-image: url("/photos/background/dumaguetehead.jpg") !important; }
+    body.food.food-city.el-nido .site-hero { background-image: url("/photos/background/elnidohead.jpg"); }
+    body.el-nido .site-hero { background-image: url("/photos/background/elnidohead.jpg") !important; }
+    body.food.food-city.manila .site-hero { background-image: url("/photos/background/manilahead.jpg"); }
+    body.manila .site-hero { background-image: url("/photos/background/manilahead.jpg") !important; }
+    body.food.food-city.puerto-princesa .site-hero { background-image: url("/photos/background/princesahead.jpg"); }
+    body.puerto-princesa .site-hero { background-image: url("/photos/background/princesahead.jpg") !important; }
+    body.food.food-city.barton .site-hero { background-image: url("/photos/background/bartonhead.jpg"); }
+    body.barton .site-hero { background-image: url("/photos/background/bartonhead.jpg") !important; }
+    body.food.food-city.sagada .site-hero { background-image: url("/photos/background/sagadahead.jpg"); }
+    body.sagada .site-hero { background-image: url("/photos/background/sagadahead.jpg") !important; }
+    body.food.food-city.siquijor .site-hero { background-image: url("/photos/background/siquijorhead.jpg"); }
+    body.siquijor .site-hero { background-image: url("/photos/background/siquijorhead.jpg") !important; }
+    body.food.food-city.tacloban .site-hero { background-image: url("/photos/background/taclobanhead.jpg"); }
+    body.tacloban .site-hero { background-image: url("/photos/background/taclobanhead.jpg") !important; }
+    body.food.food-city.vigan .site-hero { background-image: url("/photos/background/viganhead.jpg"); }
+    body.vigan .site-hero { background-image: url("/photos/background/viganhead.jpg") !important; }
+
+    /* Cambodia */
+    body.food.food-city.battambang .site-hero { background-image: url("/photos/background/battambanghead.jpg"); }
+    body.battambang .site-hero { background-image: url("/photos/background/battambanghead.jpg") !important; }
+    body.food.food-city.kampot-kep .site-hero { background-image: url("/photos/background/kampothead.jpg"); }
+    body.kampot-kep .site-hero { background-image: url("/photos/background/kampothead.jpg") !important; }
+    body.food.food-city.phnom-penh .site-hero { background-image: url("/photos/background/phnompenhhead.jpg"); }
+    body.phnom-penh .site-hero { background-image: url("/photos/background/phnompenhhead.jpg") !important; }
+    body.food.food-city.siem-reap .site-hero { background-image: url("/photos/background/siemreaphead.jpg"); }
+    body.siem-reap .site-hero { background-image: url("/photos/background/siemreaphead.jpg") !important; }
+    body.food.food-city.sihanoukville .site-hero { background-image: url("/photos/background/sihanoukvillehead.jpg"); }
+    body.sihanoukville .site-hero { background-image: url("/photos/background/sihanoukvillehead.jpg") !important; }
+
+    /* Malaysia */
+    body.food.food-city.ipoh .site-hero { background-image: url("/photos/background/ipohhead.jpg"); }
+    body.ipoh .site-hero { background-image: url("/photos/background/ipohhead.jpg") !important; }
+    body.food.food-city.kota-kinabalu .site-hero { background-image: url("/photos/background/kkhead.jpg"); }
+    body.kota-kinabalu .site-hero { background-image: url("/photos/background/kkhead.jpg") !important; }
+    body.food.food-city.kuala-lumpur .site-hero { background-image: url("/photos/background/klhead.jpg"); }
+    body.kuala-lumpur .site-hero { background-image: url("/photos/background/klhead.jpg") !important; }
+    body.food.food-city.kuching .site-hero { background-image: url("/photos/background/kuchinghead.jpg"); }
+    body.kuching .site-hero { background-image: url("/photos/background/kuchinghead.jpg") !important; }
+    body.food.food-city.langkawi .site-hero { background-image: url("/photos/background/langkawihead.jpg"); }
+    body.langkawi .site-hero { background-image: url("/photos/background/langkawihead.jpg") !important; }
+    body.food.food-city.melaka .site-hero { background-image: url("/photos/background/melakahead.jpg"); }
+    body.melaka .site-hero { background-image: url("/photos/background/melakahead.jpg") !important; }
+    body.food.food-city.penang .site-hero { background-image: url("/photos/background/penanghead.jpg"); }
+    body.penang .site-hero { background-image: url("/photos/background/penanghead.jpg") !important; }
+
+    /* Laos */
+    body.food.food-city.luang-prabang .site-hero { background-image: url("/photos/background/luangprabanghead.jpg"); }
+    body.luang-prabang .site-hero { background-image: url("/photos/background/luangprabanghead.jpg") !important; }
+    body.food.food-city.nong-khiaw .site-hero { background-image: url("/photos/background/nongkhiawhead.jpg"); }
+    body.nong-khiaw .site-hero { background-image: url("/photos/background/nongkhiawhead.jpg") !important; }
+    body.food.food-city.vang-vieng .site-hero { background-image: url("/photos/background/vangvienghead.jpg"); }
+    body.vang-vieng .site-hero { background-image: url("/photos/background/vangvienghead.jpg") !important; }
+    body.food.food-city.vientiane .site-hero { background-image: url("/photos/background/vientianehead.jpg"); }
+    body.vientiane .site-hero { background-image: url("/photos/background/vientianehead.jpg") !important; }
+
+    /* Indonesia - additional */
+    body.food.food-city.bandung .site-hero { background-image: url("/photos/background/bandunghead.jpg"); }
+    body.bandung .site-hero { background-image: url("/photos/background/bandunghead.jpg") !important; }
+    body.food.food-city.medan .site-hero { background-image: url("/photos/background/medanhead.jpg"); }
+    body.medan .site-hero { background-image: url("/photos/background/medanhead.jpg") !important; }
+    body.food.food-city.samosir .site-hero { background-image: url("/photos/background/samosirhead.jpg"); }
+    body.samosir .site-hero { background-image: url("/photos/background/samosirhead.jpg") !important; }
+    body.food.food-city.yogyakarta .site-hero { background-image: url("/photos/background/yogyakartahead.jpg"); }
+    body.yogyakarta .site-hero { background-image: url("/photos/background/yogyakartahead.jpg") !important; }
+
+
+    /* ── GERMANY ── */
+    body.food.food-city.moseltal .site-hero { background-image: url("/photos/background/moseltalhero.jpg") !important; }
+    body.allgaeu .site-hero { background-image: url("/photos/background/allgaeuhead.jpg") !important; }
+    body.schwaebische-alb .site-hero { background-image: url("/photos/background/albhead.jpg") !important; }
+    body.bamberg .site-hero { background-image: url("/photos/background/bamberghead.jpg") !important; }
+    body.berlin .site-hero { background-image: url("/photos/background/berlinhead.jpg") !important; }
+    body.dinkelsbuehl .site-hero { background-image: url("/photos/background/dinkelsbuehlhead.jpg") !important; }
+    body.dresden .site-hero { background-image: url("/photos/background/dresdenhead.jpg") !important; }
+    body.frankfurt .site-hero { background-image: url("/photos/background/frankfurthead.jpg") !important; }
+    body.heidelberg .site-hero { background-image: url("/photos/background/heidelberghead.jpg") !important; }
+    body.illingen .site-hero { background-image: url("/photos/background/illingenhead.jpg") !important; }
+    body.kirkel .site-hero { background-image: url("/photos/background/kirkelhead.jpg") !important; }
+    body.koeln .site-hero { background-image: url("/photos/background/koelnhead.jpg") !important; }
+    body.leipzig .site-hero { background-image: url("/photos/background/leipzighead.jpg") !important; }
+    body.lindau .site-hero { background-image: url("/photos/background/lindauhead.jpg") !important; }
+    body.losheim-am-see .site-hero { background-image: url("/photos/background/losheimhead.jpg") !important; }
+    body.merzig .site-hero { background-image: url("/photos/background/merzighead.jpg") !important; }
+    body.muenchen .site-hero { background-image: url("/photos/background/muenchenhead.jpg") !important; }
+    body.nuernberg .site-hero { background-image: url("/photos/background/nuernberghead.jpg") !important; }
+    body.saarbruecken .site-hero { background-image: url("/photos/background/saarbrueckenhead.jpg") !important; }
+    body.schwarzwald .site-hero { background-image: url("/photos/background/schwarzwaldhead.jpg") !important; }
+    body.stuttgart .site-hero { background-image: url("/photos/background/stuttgarthead.jpg") !important; }
+    body.weinstrasse .site-hero { background-image: url("/photos/background/weinstrassehead.jpg") !important; }
+body.backnang .site-hero { background-image: url("/photos/background/backnanghero.jpg") !important; }
+body.erfurt .site-hero { background-image: url("/photos/background/erfurthero.jpg") !important; }
+body.freyburg .site-hero { background-image: url("/photos/background/freyburghero.jpg") !important; }
+body.fuessen .site-hero { background-image: url("/photos/background/fuessenhero.jpg") !important; }
+body.husum .site-hero { background-image: url("/photos/background/husumhero.jpg") !important; }
+body.karlsruhe .site-hero { background-image: url("/photos/background/karlsruhehero.jpg") !important; }
+body.lauffen-am-neckar .site-hero { background-image: url("/photos/background/lauffenhero.jpg") !important; }
+body.leutkirch .site-hero { background-image: url("/photos/background/leutkirchhero.jpg") !important; }
+body.muenster .site-hero { background-image: url("/photos/background/muensterhero.jpg") !important; }
+body.potsdam .site-hero { background-image: url("/photos/background/potsdamhero.jpg") !important; }
+body.regensburg .site-hero { background-image: url("/photos/background/regensburghero.jpg") !important; }
+body.rothenburg .site-hero { background-image: url("/photos/background/rothenburghero.jpg") !important; }
+body.schaumberg .site-hero { background-image: url("/photos/background/schaumberghero.jpg") !important; }
+body.tuebingen .site-hero { background-image: url("/photos/background/tuebingenhero.jpg") !important; }
+body.st-wendel .site-hero { background-image: url("/photos/background/wendelhero.jpg") !important; }
+body.zweibruecken .site-hero { background-image: url("/photos/background/zweibrueckenhero.jpg") !important; }
+body.zwiefalten .site-hero { background-image: url("/photos/background/zwiefaltenhero.jpg") !important; }
+
+    
+/* ── FRANCE ── */
+    body.alsace .site-hero { background-image: url("/photos/background/alsacehead.jpg") !important; }
+    body.cote-dopale .site-hero { background-image: url("/photos/background/coteopalhead.jpg") !important; }
+    body.lille .site-hero { background-image: url("/photos/background/lillehead.jpg") !important; }
+    body.paris .site-hero { background-image: url("/photos/background/parishead.jpg") !important; }
+
+    /* ── PORTUGAL ── */
+    body.food.food-country.portugal .site-hero { background-image: url("/photos/background/portugalhero.jpg") !important; }
+    body.food.food-city.vila-vicosa .site-hero { background-image: url("/photos/background/vilavicosahero.jpg") !important; }
+    body.portugal .site-hero { background-image: url("/photos/background/portugalhead.jpg") !important; }
+    body.evora .site-hero { background-image: url("/photos/background/evorahead.jpg") !important; }
+    body.lisbon .site-hero { background-image: url("/photos/background/lisbonhead.jpg") !important; }
+    body.porto .site-hero { background-image: url("/photos/background/portohead.jpg") !important; }
+
+    /* ── SPAIN ── */
+    body.barcelona .site-hero { background-image: url("/photos/background/barcelonahead.jpg") !important; }
+    body.mallorca .site-hero { background-image: url("/photos/background/mallorcahead.jpg") !important; }
+
+    /* ── HUNGARY ── */
+    body.food.food-city.eger .site-hero { background-image: url("/photos/background/egerhero.jpg") !important; }
+    body.food.food-city.esztergom .site-hero { background-image: url("/photos/background/esztergomhero.jpg") !important; }
+    body.food.food-city.szentendre .site-hero { background-image: url("/photos/background/szentendrehero.jpg") !important; }
+    body.food.food-city.vac .site-hero { background-image: url("/photos/background/vachero.jpg") !important; }
+    body.balaton .site-hero { background-image: url("/photos/background/balatonhead.jpg") !important; }
+    body.budapest .site-hero { background-image: url("/photos/background/budapesthead.jpg") !important; }
+    body.veszprem .site-hero { background-image: url("/photos/background/veszpremhead.jpg") !important; }
+
+    /* ── POLAND ── */
+    body.krakow .site-hero { background-image: url("/photos/background/krakowhead.jpg") !important; }
+
+    /* ── CZECHIA ── */
+    body.brno .site-hero { background-image: url("/photos/background/brnohead.jpg") !important; }
+    body.budweis .site-hero { background-image: url("/photos/background/budweishead.jpg") !important; }
+    body.liberec .site-hero { background-image: url("/photos/background/liberechead.jpg") !important; }
+    body.nove-mesto-metuje .site-hero { background-image: url("/photos/background/novemestohead.jpg") !important; }
+    body.olomouc .site-hero { background-image: url("/photos/background/olomouchead.jpg") !important; }
+    body.pilsen .site-hero { background-image: url("/photos/background/pilsenhead.jpg") !important; }
+    body.prague .site-hero { background-image: url("/photos/background/praguehead.jpg") !important; }
+
+    /* ── SLOVAKIA ── */
+    body.food.food-city.roznava .site-hero { background-image: url("/photos/background/roznavahero.jpg") !important; }
+    body.food.food-city.vysoke-tatry .site-hero { background-image: url("/photos/background/visoketatryhero.jpg") !important; }
+    body.kosice .site-hero { background-image: url("/photos/background/kosicehead.jpg") !important; }
+    body.levoca .site-hero { background-image: url("/photos/background/levocahead.jpg") !important; }
+    body.presov .site-hero { background-image: url("/photos/background/presovhead.jpg") !important; }
+
+    body.travels.index .site-hero { background-image: url("/photos/background/travelogues.jpg"); }
+
+    body.food.food-country .hero-inner,
+    body.food.food-city .hero-inner,
+    body.food.food-category .hero-inner,
+    body.food.index .hero-inner,
+    body.travels.index .hero-inner { color: #fff; }
+
+    body.food.food-country .hero-inner a,
+    body.food.food-city .hero-inner a,
+    body.food.food-category .hero-inner a,
+    body.food.index .hero-inner a,
+    body.travels.index .hero-inner a { color: #fff; }
+
+        /* ── AUSTRIA ── */
+    body.food.food-country.austria .site-hero { background-image: url("/photos/background/austriahero.jpg") !important; }
+    body.food.food-city.linz .site-hero { background-image: url("/photos/background/linzhero.jpg") !important; }
+    body.food.food-city.salzburg .site-hero { background-image: url("/photos/background/salzburghero.jpg") !important; }
+    body.food.food-city.wachau .site-hero { background-image: url("/photos/background/wachauhero.jpg") !important; }
+    /* ── THAILAND (additional) ── */
+    body.food.food-city.around-bangkok .site-hero { background-image: url("/photos/background/aroundbangkokhero.jpg") !important; }
+    body.food.food-city.khon-kaen .site-hero { background-image: url("/photos/background/khonkaenhero.jpg") !important; }
+    body.food.food-city.krabi .site-hero { background-image: url("/photos/background/krabihero.jpg") !important; }
+    body.food.food-city.udon-thani .site-hero { background-image: url("/photos/background/udonthanihero.jpg") !important; }
+    /* ── VIETNAM (additional) ── */
+    body.dak-lak .site-hero { background-image: url("/photos/background/daklakhero.jpg") !important; }
+    body.hai-phong .site-hero { background-image: url("/photos/background/haiphongprovincehero.jpg") !important; }
+    body.kon-tum .site-hero { background-image: url("/photos/background/kontumprovincehero.jpg") !important; }
+    body.lao-cai .site-hero { background-image: url("/photos/background/laocaihero.jpg") !important; }
+    body.nghe-an .site-hero { background-image: url("/photos/background/ngheanhero.jpg") !important; }
+    body.ninh-binh .site-hero { background-image: url("/photos/background/ninhbinhprovincehero.jpg") !important; }
+    body.ninh-thuan .site-hero { background-image: url("/photos/background/ninhthuanhero.jpg") !important; }
+    body.phu-yen .site-hero { background-image: url("/photos/background/phuyenhero.jpg") !important; }
+    body.quang-binh .site-hero { background-image: url("/photos/background/quangbinhhero.jpg") !important; }
+    body.quang-nam .site-hero { background-image: url("/photos/background/quangnamhero.jpg") !important; }
+    body.quang-ngai .site-hero { background-image: url("/photos/background/quangngaiprovincehero.jpg") !important; }
+    body.quang-tri .site-hero { background-image: url("/photos/background/quangtrihero.jpg") !important; }
+    body.soc-trang .site-hero { background-image: url("/photos/background/soctrangprovincehero.jpg") !important; }
+    body.thanh-hoa .site-hero { background-image: url("/photos/background/thanhhoaprovincehero.jpg") !important; }
+    body.tra-vinh .site-hero { background-image: url("/photos/background/travinhprovincehero.jpg") !important; }
+    body.yen-bai .site-hero { background-image: url("/photos/background/yenbaihero.jpg") !important; }
+    body.food.food-city.ha-giang .site-hero { background-image: url("/photos/background/hagiangcityhero.jpg") !important; }
+    body.food.food-city.ha-tinh .site-hero { background-image: url("/photos/background/hatinhhero.jpg") !important; }
+    body.food.food-city.ba-be .site-hero { background-image: url("/photos/background/babehero.jpg") !important; }
+    body.food.food-city.bac-ha .site-hero { background-image: url("/photos/background/bachahero.jpg") !important; }
+    body.food.food-city.bac-me .site-hero { background-image: url("/photos/background/bacmehero.jpg") !important; }
+    body.food.food-city.bao-thang .site-hero { background-image: url("/photos/background/baothanghero.jpg") !important; }
+    body.food.food-city.buon-ma-thuot .site-hero { background-image: url("/photos/background/buonmethuothero.jpg") !important; }
+    body.food.food-city.can-tho.food-category.cafes .site-hero { background-image: url("/photos/background/cafescanthohero.jpg") !important; }
+    body.food.food-city.cam-ranh .site-hero { background-image: url("/photos/background/camranhhero.jpg") !important; }
+    body.food.food-city.cat-ba .site-hero { background-image: url("/photos/background/catbahero.jpg") !important; }
+    body.food.food-city.dong-giang .site-hero { background-image: url("/photos/background/donggianghero.jpg") !important; }
+    body.food.food-city.dong-ha .site-hero { background-image: url("/photos/background/donghahero.jpg") !important; }
+    body.food.food-city.dong-hoi .site-hero { background-image: url("/photos/background/donghoihero.jpg") !important; }
+    body.food.food-city.dong-van .site-hero { background-image: url("/photos/background/dongvanhero.jpg") !important; }
+    body.food.food-city.hoang-su-phi .site-hero { background-image: url("/photos/background/hoangsuphihero.jpg") !important; }
+    body.food.food-city.kon-tum .site-hero { background-image: url("/photos/background/kontumhero.jpg") !important; }
+    body.food.food-city.mu-cang-chai .site-hero { background-image: url("/photos/background/mucangchaihero.jpg") !important; }
+    body.food.food-city.muong-hum .site-hero { background-image: url("/photos/background/muonghumhero.jpg") !important; }
+    body.food.food-city.nghia-lo .site-hero { background-image: url("/photos/background/nghialohero.jpg") !important; }
+    body.food.food-city.ninh-binh .site-hero { background-image: url("/photos/background/ninhbinhcityhero.jpg") !important; }
+    body.food.food-city.ninh-thuan .site-hero { background-image: url("/photos/background/phanranghero.jpg") !important; }
+    body.food.food-city.pleiku .site-hero { background-image: url("/photos/background/pleikuhero.jpg") !important; }
+    body.food.food-city.pu-luong .site-hero { background-image: url("/photos/background/puluonghero.jpg") !important; }
+    body.food.food-city.quan-ba .site-hero { background-image: url("/photos/background/quanbahero.jpg") !important; }
+    body.food.food-city.quang-ngai .site-hero { background-image: url("/photos/background/quangngaicityhero.jpg") !important; }
+    body.food.food-city.can-tho.food-category.restaurants .site-hero { background-image: url("/photos/background/restocanthohero.jpg") !important; }
+    body.food.food-city.soc-trang .site-hero { background-image: url("/photos/background/soctrangcityhero.jpg") !important; }
+    body.food.food-city.tam-ky .site-hero { background-image: url("/photos/background/tamkyhero.jpg") !important; }
+    body.food.food-city.thanh-hoa .site-hero { background-image: url("/photos/background/thanhhoacityhero.jpg") !important; }
+    body.food.food-city.tra-vinh .site-hero { background-image: url("/photos/background/travinhcityhero.jpg") !important; }
+    body.food.food-city.tuy-hoa .site-hero { background-image: url("/photos/background/tuyhoahero.jpg") !important; }
+    body.food.food-city.van-ninh .site-hero { background-image: url("/photos/background/vanninhhero.jpg") !important; }
+    body.food.food-city.vinh .site-hero { background-image: url("/photos/background/vinhhero.jpg") !important; }
+    body.food.food-city.vung-tau .site-hero { background-image: url("/photos/background/vungtauhero.jpg") !important; }
+    body.food.food-city.yen-minh .site-hero { background-image: url("/photos/background/yenminhhero.jpg") !important; }
+    body.food.food-city.bangalore .site-hero { background-image: url("/photos/background/bangalorehero.jpg"); }
+    body.food.food-city.hampi .site-hero     { background-image: url("/photos/background/hampihero.jpg"); }
+    body.food.food-city.hyderabad .site-hero { background-image: url("/photos/background/hyderabadhero.jpg"); }
+    body.food.food-city.kolkata .site-hero   { background-image: url("/photos/background/kolkatahero.jpg"); }
+    body.food.food-city.lucknow .site-hero   { background-image: url("/photos/background/lucknowhero.jpg"); }
+    body.food.food-city.mysore .site-hero    { background-image: url("/photos/background/mysorehero.jpg"); }
+    body.food.food-city.north-goa .site-hero { background-image: url("/photos/background/goapanajihero.jpg"); }
+    body.food.food-city.south-goa .site-hero { background-image: url("/photos/background/south-goahero.jpg"); }
+    body.food.food-city.varanasi .site-hero  { background-image: url("/photos/background/varanasihero.jpg"); }
+    body.food.food-city.kampong-cham .site-hero            { background-image: url("/photos/background/kchamhero.jpg"); }
+    body.food.food-city.kampong-chhnang .site-hero         { background-image: url("/photos/background/kchhnanghero.jpg"); }
+    body.food.food-city.crete .site-hero                   { background-image: url("/photos/background/cretehero.jpg"); }
+    body.food.food-city.sepang .site-hero                  { background-image: url("/photos/background/sepanghero.jpg"); }
+    body.food.food-city.bohol-panglao .site-hero           { background-image: url("/photos/background/boholhero.jpg"); }
+    body.food.food-city.port-barton-san-vicente .site-hero { background-image: url("/photos/background/bartonhero.jpg"); }
+    body.food.food-city.sipalay .site-hero                 { background-image: url("/photos/background/sipalayhero.jpg"); }
+    body.food.food-city.chau-doc .site-hero                { background-image: url("/photos/background/chaudochero.jpg"); }
+    body.food.food-city.tainan .site-hero                  { background-image: url("/photos/background/tainanhero.jpg"); }
+    body.food.food-city.taipei .site-hero                  { background-image: url("/photos/background/taipeihero.jpg"); }
+    /* Floating nav */
+    body.food.index nav.site-nav,
+    body.food.food-country nav.site-nav,
+    body.food.food-city nav.site-nav,
+    body.food.food-category nav.site-nav,
+    body.travels.index nav.site-nav {
+      position: absolute;
+      top: 1.1rem;
+      right: 1.5rem;
+      left: auto;
+      text-align: right;
+      border-bottom: none;
+      z-index: 30;
+      background: transparent;
+      padding: 0;
+      margin: 0;
+    }
+
+    body.food.index nav.site-nav a,
+    body.food.food-country nav.site-nav a,
+    body.food.food-city nav.site-nav a,
+    body.food.food-category nav.site-nav a,
+    body.travels.index nav.site-nav a { color: #fff; }
+
+    .site-hero *,
+    .site-hero *::before,
+    .site-hero *::after {
+      border: none !important;
+      box-shadow: none !important;
+      outline: none !important;
+      background-image: none !important;
+      background-color: transparent !important;
+    }
+
+    .site-hero h1, .site-hero h2, .site-hero h3 {
+      border: none !important;
+      padding-bottom: 0 !important;
+      margin-bottom: .4rem !important;
+      background: transparent !important;
+    }
+
+    .site-hero nav { border: none !important; background: transparent !important; box-shadow: none !important; }
+    .site-hero figure, .site-hero figcaption { border: none !important; box-shadow: none !important; background: transparent !important; color: inherit; }
+
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-region):not(.food.food-category):not(.travels.index) .site-hero { display: none; }
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-region):not(.food.food-category):not(.travels.index) nav.site-nav {
+      position: relative;
+      top: auto;
+      right: auto;
+      border-bottom: 1px solid var(--rule);
+    }
+    body:not(.food.index):not(.food.food-country):not(.food.food-city):not(.food.food-region):not(.food.food-category):not(.travels.index) nav.site-nav a { color: #333; }
+
+    /* ---------------------------
+       DESKTOP
+       --------------------------- */
+
+    @media (min-width: 1024px) {
+      body {
+        max-width: 900px;
+        padding: 0 3rem;
+        margin: 3rem auto;
+      }
+
+      body.travels {
+        max-width: 680px;
+        font-size: 1.125rem;
+        line-height: 1.9;
+      }
+
+      body.travels .page-body h1 {
+        font-size: 3.5rem;
+        letter-spacing: -0.04em;
+      }
+
+      body.travels .page-body h2 {
+        font-size: 1.125rem;
+        letter-spacing: 0.04em;
+        margin-top: 5rem;
+      }
+
+      body.travels .page-body h3 {
+        font-size: 1.15rem;
+      }
+
+      body.travels .page-body p {
+        font-size: 1.125rem;
+        line-height: 1.9;
+        margin: 1.6rem 0;
+      }
+
+      .site-hero {
+        min-height: 90vh;
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+      }
+
+      .hero-inner {
+        max-width: 800px;
+        padding: 3rem 4rem;
+      }
+
+      .hero-inner h1 {
+        font-size: 2.8rem;
+        line-height: 1.2;
+        margin-bottom: 1rem;
+      }
+
+      .hero-inner .subtitle {
+        font-size: 1.3rem;
+        line-height: 1.6;
+      }
+
+      body.food.index nav.site-nav,
+      body.food.food-country nav.site-nav,
+      body.food.food-city nav.site-nav,
+      body.food.food-category nav.site-nav,
+      body.travels.index nav.site-nav {
+        top: 3rem;
+        right: 3rem;
+      }
+
+      body.food.index nav.site-nav a,
+      body.food.food-country nav.site-nav a,
+      body.food.food-city nav.site-nav a,
+      body.food.food-category nav.site-nav a,
+      body.travels.index nav.site-nav a {
+        font-size: 1rem;
+        margin-left: 1.5rem;
+        font-weight: 500;
+      }
+
+      .page-body {
+        padding: 0 3rem 5rem;
+        margin-top: 3rem;
+      }
+
+      .page-body h1 { font-size: 2.2rem; }
+      .page-body h2 { font-size: 1.6rem; margin-top: 2.5rem; }
+      .page-body h3 { font-size: 1.3rem; margin-top: 2rem; }
+      .page-body p { font-size: 1.05rem; line-height: 1.8; margin: 1.4rem 0; }
+
+      body.food.food-review {
+        max-width: 800px;
+        padding: 0 3rem;
+      }
+
+      body.food.food-review main#top { padding: 2rem 0 5rem; }
+      body.food.food-review .site-hero { display: none; }
+      body.food.food-review nav.site-nav {
+        position: relative;
+        top: auto;
+        right: auto;
+        border-bottom: 1px solid var(--rule);
+        padding: .6rem 0 .8rem;
+        margin-bottom: 2.5rem;
+      }
+      body.food.food-review nav.site-nav a { color: #333; }
+
+      img { border-radius: 8px; }
+      figure { margin: 2.5rem auto; }
+      figcaption { font-size: 0.9rem; margin-top: 0.6rem; }
+
+      .travelogue .country {
+        padding: 2.5rem 3rem;
+        margin: 4rem 0;
+        border-radius: 16px;
+      }
+
+      body.travelogue .culinary .place {
+        padding: 1.2rem 1.5rem;
+        margin: 1.5rem 0;
+      }
+
+      body.travelogue .photo-row {
+        max-width: 100%;
+        gap: 1.5rem;
+        margin: 3rem 0;
+      }
+
+      body.travelogue .photo-row img { border-radius: 10px; }
+    }
+
+    @media (min-width: 1400px) {
+      body { max-width: 1000px; }
+      body.travels { max-width: 800px; }
+
+      .hero-inner {
+        max-width: 900px;
+        padding-left: 5rem;
+      }
+
+      .hero-inner h1 { font-size: 3.2rem; }
+      .hero-inner .subtitle { font-size: 1.4rem; }
+      .page-body p { font-size: 1.1rem; line-height: 1.85; }
+      body.travels .page-body p { font-size: 1.1875rem; line-height: 1.85; }
+    }
+
+    @media (max-width: 600px) {
+      body { margin: 0; padding: 0; }
+      .site-hero { min-height: 44vh; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; }
+      .hero-inner { padding: 1.6rem; }
+      nav.site-nav { text-align: left; padding: .6rem 1.5rem; position: relative; top: auto; right: auto; }
+      main#top { padding-top: 1rem; }
+      .page-body { margin: 0.8rem 0 3rem; padding: 0 1.2rem; }
+    }
+
+    a.read-full {
+      color: var(--read-full-blue) !important;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    a.read-full:hover { text-decoration: underline; }
+
+    /* ---------------------------
+       LIGHTBOX
+       --------------------------- */
+
+    .lightbox-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      z-index: 1000;
+      cursor: zoom-out;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      box-sizing: border-box;
+    }
+
+    .lightbox-overlay.active {
+      display: flex;
+    }
+
+    .lightbox-overlay img {
+      max-width: 100%;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+      cursor: default;
+      margin: 0;
+      opacity: 1 !important;
+      transition: none !important;
+    }
+
+    .lightbox-caption {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 0;
+      right: 0;
+      text-align: center;
+      color: rgba(255,255,255,0.6);
+      font-family: "Inter", sans-serif;
+      font-size: 0.8rem;
+      letter-spacing: 0.03em;
+      pointer-events: none;
+      padding: 0 2rem;
+    }
+
+    .lightbox-close {
+      position: fixed;
+      top: 0;
+      right: 0;
+      color: rgba(255,255,255,0.8);
+      font-family: "Inter", sans-serif;
+      font-size: 1.75rem;
+      cursor: pointer;
+      line-height: 1;
+      z-index: 1001;
+      padding: 1.25rem 1.5rem;
+      /* large tap target for mobile */
+      min-width: 3rem;
+      min-height: 3rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .lightbox-close:hover { color: #fff; }
+
+    .page-body img {
+      cursor: default;
+      transition: opacity 0.15s ease;
+    }
+
+    @media (min-width: 1024px) {
+      .page-body img { cursor: zoom-in; }
+      .page-body img:hover { opacity: 0.88; }
+    }
+
+  </style>
+
+  {% seo %}
+</head>
+
+<body class="
+  {{ page.section }}
+  {% if page.index %} index{% endif %}
+  {% if page.country %} food-country{% endif %}
+  {% if page.city %} food-city{% endif %}
+  {% if page.region %} food-region{% endif %}
+  {% if page.city %} {{ page.city }}{% endif %}
+  {% if page.region %} {{ page.region }}{% endif %}
+  {% if page.category %} food-category{% endif %}
+  {% if page.category %} {{ page.category }}{% endif %}
+  {% if page.review %} food-review{% endif %}
+  {% if page.slug %} {{ page.slug }}{% endif %}
+">
+
+  <nav class="site-nav">
+    <a href="/">Home</a>
+    <a href="/travels/">Travels</a>
+    <a href="/food/">Food</a>
+    <a href="/about/">About</a>
+  </nav>
+
+{% unless page.review or page.section == 'about' %}
+<header
+  class="site-hero{% unless page.hero_overlay == false %} has-overlay{% endunless %}"
+  role="banner"
+  aria-label="Page hero"
+  {% if page.hero %}
+    style="background-image: url('{{ page.hero }}');"
+  {% endif %}
+>
+  <div class="hero-inner">
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+    {% if page.subtitle %}
+      <p class="subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+  </div>
+</header>
+{% endunless %}
+
+<main id="top" class="page-body" role="main">
+  {{ content }}
+</main>
+
+  <!-- LIGHTBOX -->
+  <div class="lightbox-overlay" id="lightbox" role="dialog" aria-modal="true">
+    <span class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</span>
+    <img id="lightbox-img" src="" alt="">
+    <p class="lightbox-caption" id="lightbox-caption"></p>
+  </div>
+
+  <script>
+    (function () {
+      // Lightbox
+      var overlay = document.getElementById('lightbox');
+      var lbImg = document.getElementById('lightbox-img');
+      var lbCaption = document.getElementById('lightbox-caption');
+      var lbClose = document.getElementById('lightbox-close');
+
+      var _scrollY = 0;
+
+      function openLightbox(src, alt) {
+        lbImg.src = src;
+        lbCaption.textContent = alt || '';
+        overlay.classList.add('active');
+        // iOS-compatible scroll lock — save position first
+        _scrollY = window.scrollY || window.pageYOffset;
+        document.body.style.position = 'fixed';
+        document.body.style.top = '-' + _scrollY + 'px';
+        document.body.style.width = '100%';
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeLightbox() {
+        overlay.classList.remove('active');
+        lbImg.src = '';
+        document.body.style.position = '';
+        document.body.style.top = '';
+        document.body.style.width = '';
+        document.body.style.overflow = '';
+        // Restore scroll position
+        window.scrollTo(0, _scrollY);
+      }
+
+      // Attach click AND touch to all images in page-body
+      var images = document.querySelectorAll('.page-body img');
+      images.forEach(function(img) {
+        img.style.cursor = 'zoom-in';
+
+        // If image is wrapped in an <a> tag, prevent that link from firing
+        var parentLink = img.parentNode && img.parentNode.tagName === 'A' ? img.parentNode : null;
+        if (!parentLink && img.closest) { parentLink = img.closest('a'); }
+        if (parentLink) {
+          parentLink.addEventListener('click', function(e) { e.preventDefault(); e.stopPropagation(); });
+          parentLink.addEventListener('touchend', function(e) { e.preventDefault(); e.stopPropagation(); }, { passive: false });
+        }
+
+        function handleOpen(e) {
+          // Mobile view: thumbnails are not clickable (no lightbox). Desktop only.
+          if (!window.matchMedia('(min-width: 1024px)').matches) return;
+          e.preventDefault();
+          e.stopPropagation();
+          openLightbox(img.src, img.alt);
+        }
+
+        img.addEventListener('click', handleOpen);
+        img.addEventListener('touchend', handleOpen, { passive: false });
+      });
+
+      // Close on overlay background tap/click
+      function handleClose(e) {
+        if (e.target === overlay) {
+          e.preventDefault();
+          closeLightbox();
+        }
+      }
+      overlay.addEventListener('click', handleClose);
+      overlay.addEventListener('touchend', handleClose, { passive: false });
+
+      // Close on X button
+      function handleCloseBtn(e) {
+        e.preventDefault();
+        closeLightbox();
+      }
+      lbClose.addEventListener('click', handleCloseBtn);
+      lbClose.addEventListener('touchend', handleCloseBtn, { passive: false });
+
+      // Close on Escape key
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') closeLightbox();
+      });
+
+      // Swipe down to close on mobile
+      var touchStartY = 0;
+      overlay.addEventListener('touchstart', function(e) {
+        touchStartY = e.touches[0].clientY;
+      }, { passive: true });
+
+      overlay.addEventListener('touchend', function(e) {
+        var deltaY = e.changedTouches[0].clientY - touchStartY;
+        if (deltaY > 60) closeLightbox(); // swipe down 60px = close
+      }, { passive: true });
+
+    })();
+  </script>
+
+  <script>
+    (function () {
+      var body = document.body;
+      if (!body) return;
+
+      var isLanding = body.classList.contains('food-category');
+      var isRestaurantsLanding = isLanding && (body.className.indexOf('restaurants') !== -1);
+      var isCafesLanding = isLanding && (body.className.indexOf('cafes') !== -1);
+
+      if (!(isRestaurantsLanding || isCafesLanding)) return;
+
+      var anchors = Array.prototype.slice.call(document.querySelectorAll('a'));
+      var matches = [
+        'read the full review',
+        'read full review',
+        'read the review',
+        'read review',
+        'read the full article',
+        'read more'
+      ];
+
+      anchors.forEach(function(a){
+        if (!a || !a.textContent) return;
+        var txt = a.textContent.trim().toLowerCase();
+        for (var i=0;i<matches.length;i++){
+          if (txt === matches[i] || txt.indexOf(matches[i]) !== -1) {
+            a.classList.add('read-full');
+            break;
+          }
+        }
+      });
+    })();
+  </script>
+
+</body>
+</html>
