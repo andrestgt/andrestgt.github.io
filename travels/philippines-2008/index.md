@@ -1,0 +1,1197 @@
+---
+layout: default
+section: travels
+title: "Philippines"
+subtitle: "Manila | North Luzon | Bicol | Visayas | Negros | Siquijor"
+date: 2008-10-02
+photos_locked: true
+---
+
+**2 October – 6 December 2008**
+
+## 3 October 2008
+
+Daniel and I had both arrived in Bangkok on 30 September, where we spent one late evening and a day acclimatising before catching a Cebu Pacific flight just after midnight on 2 October (7,900 Bt return) to Manila, landing at around four in the morning. We grabbed a cheap metered taxi (100 P) to Malate and reached Friendly’s Guesthouse near Remedios Circle while it was still early. As we couldn’t check into the dorm (290 P) until noon, we decided to forgo sleep and, after a couple of espressos, head straight to Makati to have a look around some of the city’s mega-malls. I was also in desperate need of proper trainers, so we could deal with both at once.
+
+Even the journey there, by Light Rail Transit from Malate and then the Metro Star to Makati, highlighted the contrast between a wealthy, modern metropolis like Bangkok and the rather ramshackle Philippine capital. Manila’s trains are old and clatter along, and even buying a ticket is astonishingly inefficient, with just a handful of staffed windows serving dozens of passengers. On the plus side, both the LRT and Metro Star are cheap (10–15 P) and run frequently.
+
+Makati is one of Manila’s more modern high-rise districts, with two huge malls, Glorietta and the sleeker, very attractive Greenbelt Mall, plus fast food and more upmarket restaurants, cafés and bars. It is not hard to see that the Philippines is one of the few remaining countries still more or less proud to model itself on American culture, so breakfast at Burger King in Glorietta Mall could count as our first cultural dive into local eating habits; Filipinos love fast food à l’américaine.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0001.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0002.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0003.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0004.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+</div>
+
+After successfully buying shoes, we went back to Malate and caught up on a few hours’ sleep. The dorm at Friendly’s is simple but clean, the attached bathroom very comfortable, even if there is only cold water. You could honestly call this guesthouse a little oasis for budget travellers, who otherwise are not exactly spoiled for choice when it comes to accommodation in Manila. The airy roof terrace is wonderful; there is free espresso all day, cheap San Miguel, and the location right in the lively nightlife district of Malate is ideal.
+
+So we spent the evening in the best possible way. First we drank a bottle of red wine on our terrace, then stayed out until daybreak in one of the many pubs, downing a few bottles of San Miguel. Manila’s nightlife is legendary, and Malate is the centre of it. There are dozens of appealing bars and clubs here, from simple open-air pubs with a beach-bar feel to smart clubs that carry on until dawn even during the week and are well attended. Since Manila is not a tourist city, you hardly see any girly bars or traveller hangouts; it is nightlife by locals for locals, and the evening atmosphere in Malate is excellent.
+
+When we got back to our guesthouse it was almost light, so we decided to start our main sightseeing tour without going to bed. We walked along the bayfront promenade by Manila Bay and through Rizal Park, past countless early-morning aerobics sessions, to Intramuros, the small colonial old town of Manila surrounded by a fortress wall. It was badly damaged in the Second World War, but partly rebuilt and restored and, besides the nightlife in Malate, is Manila’s biggest tourist attraction.
+
+Intramuros really does resemble a small colonial town in South America, with massive fortifications, the old church and monastery of San Agustin, a few cobbled lanes and picturesque patios in pretty restored colonial houses. This partly restored area is not large, but it is genuinely attractive, and I also liked the rest of Intramuros, comparatively quiet residential neighbourhoods with simple little houses, friendly locals and a small-town feel. There was no doubt that you really are in Southeast Asia.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0005.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0006.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0007.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0008.jpg" alt="Manila">
+      <em>Manila</em>
+    </figure>
+
+</div>
+
+From Intramuros we crossed the Pasig River to Binondo, Manila’s busy Chinatown, well worth a visit, where we had a dim sum breakfast. Our last stop took us to Sampaloc, into less-visited territory, looking for the office of Autobus Transit Systems, where we wanted to buy tickets for the night bus to Banaue. After a long, fruitless walk through chaotic, stinking markets and exhaust-filled streets, we were told that the company had moved. So we had no choice but to make an uncomfortable, nerve-racking tricycle (motorcycle with sidecar) trip to the new location.
+
+<figure>
+  <img src="photos/Philippines2008-0009.jpg" alt="Manila">
+  <em>Manila</em>
+</figure>
+
+In my view, Manila’s reputation as a tourist wasteland that is only worth a brief stopover is undeserved. True, the traffic is appalling, the air choked with fumes, and in many places Manila is a shockingly run-down, unfinished-looking Third World city, with street children, beggars and corrugated-iron shacks even outside the slums, an exhausting but, in equal measure, fascinating behemoth. But it is also true that Manila has plenty of attractive corners: the palm-lined bayfront, the relatively relaxed old districts of Malate and Ermita with a few pretty wooden villas, flowering trees and great nightlife, and Intramuros too, the colonial old town, has a pleasant feel and can be quite picturesque. The city’s huge modern malls may not have Bangkok’s class, but they offer big-city comforts in abundance. Cities with contrasts this sharp (poor and rich, tidy and filthy, modern and run-down) are always interesting, and I am happy to spend a few more days in Manila on this trip.
+
+Before our bus to Banaue left at 10 pm, we took another stroll to Ermita and spent some time in the lovely, modern Robinson Mall, followed by a sushi dinner at the authentic Japanese place next to our guesthouse. The popularity of this chic but simply furnished spot with Japanese businessmen was a clear sign the quality was right: generously topped nigiri and stuffed maki, and the prices were fine too. We paid under 900 P between us for a filling selection of sushi with drinks.
+
+<figure>
+  <img src="photos/Philippines2008-0010.jpg" alt="Manila - Nihonbashi Tei">
+  <em>Manila - Nihonbashi Tei</em>
+</figure>
+
+## 5 October 2008
+
+The night bus to Banaue was not exactly the most comfortable. The old bus was packed with people and luggage, and a few poor souls had to spend the whole night on emergency seats in the aisle. Our seats were at least bearable, not really comfortable, but with enough legroom. The trip took a full eleven hours instead of the expected eight, which was not too bad, since it was already light just after five and for the last few hours, on a narrow road, we could enjoy the stunning mountain scenery of the Cordillera from the window.
+
+Arriving in Banaue, we had breakfast on the spectacular terrace of Sanafe Lodge, with a sweeping view across the world’s most famous rice terraces, and immediately booked a room for the following night. As it was off-season and there were barely any tourists in town, they even let us leave our backpacks in the room for one night, which meant we could head to Batad unencumbered.
+
+<figure>
+  <img src="photos/Philippines2008-0026.jpg" alt="Banaue - Sanafe Lodge">
+  <em>Banaue - Sanafe Lodge</em>
+</figure>
+
+Before that, though, we took a quick look around Banaue itself. The setting is magnificent, even if the town itself is hardly an architectural gem. What it lacks in looks, however, it makes up for with the friendliness of the locals and those extraordinary views of the Cordillera and the surrounding terraces. Despite being home to one of Southeast Asia’s most iconic sights (the 2,000-year-old rice terraces, a UNESCO World Heritage Site and a staple of countless travel magazines), Banaue remains surprisingly untouched by mass tourism. There are no flashy resorts, no predictable backpacker cafés, and no endless rows of souvenir stalls. Instead, it feels like a fairly authentic little town in the northern Philippines, where life starts early and by nine in the evening everything has effectively shut down.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0011.jpg" alt="Banaue">
+      <em>Banaue</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0012.jpg" alt="Banaue">
+      <em>Banaue</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0013.jpg" alt="Banaue">
+      <em>Banaue</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0014.jpg" alt="Banaue">
+      <em>Banaue</em>
+    </figure>
+
+</div>
+
+In theory, Batad can be done as a long day trip, but I was very glad we chose to stay overnight. This extraordinary little mountain village, cut off from the road network and surrounded by rice terraces in a dramatic, jagged landscape, is not merely one of the highlights of the Philippines, but of Southeast Asia as a whole.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0015.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0016.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0017.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0018.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+</div>
+
+Just as Banaue struck me as surprisingly untouched, Batad too has largely preserved its original character. Tourists have been coming here for many years, but luckily the numbers remain manageable thanks to the Philippines’ relative remoteness. Besides, Batad is not exactly easy to reach. We initially planned to take the jeepney to Batad Junction, but we would have had to wait for it until 2 pm, which we did not fancy. So we hired a tricycle for the 12 km to the junction. That generally costs 700 pesos if you arrange to be picked up the next day as well. That fairly steep sum makes a lot more sense once you have seen the state of the road: on a bone-rattling stony track, the ride took almost an hour, an ordeal for both man and machine.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0024.jpg" alt="Batad Junction">
+      <em>Batad Junction</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0025.jpg" alt="Batad Junction">
+      <em>Batad Junction</em>
+    </figure>
+
+</div>
+
+Tricycles have to stop at Batad Junction because the terrain gets too steep, while the jeepneys even manage the climb up to the saddle, the pass, an enjoyable, roughly 45-minute walk uphill in switchbacks. From the saddle, where there are a few wooden stalls selling drinks, you already get fabulous views of the rugged Cordillera; the breath-taking view of Batad and the rice terraces, though, only opens up from a viewpoint further down in the valley.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0019.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0020.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0021.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0022.jpg" alt="Batad">
+      <em>Batad</em>
+    </figure>
+
+</div>
+
+At the top of the pass the road ends, and from it is a just over an hour down into the village on a narrow mountain path, where there are a handful of the simplest, family-run places to stay. At Ramon’s, a spartan but clean room with two beds cost 150 pesos; there was a bucket shower down in the yard.
+
+Culinarily you cannot expect much in Batad, of course, and you pay more than elsewhere, understandably, given that a large part of the supplies has to be carried along mountain paths. Simple but perfectly tasty dishes with chicken, rice, eggs or tinned tuna cost almost as much as the room, and even water is fairly expensive.
+
+Given the low tourist numbers, too many locals try their hand as guides, but fortunately people here are very friendly, reserved and respectful, so you never feel pestered by offers of services. I am usually not a huge fan of guides, but in Batad you not only support local families, you also save yourself a lot of frustration and time on the confusing, steep stepped paths around here, definitely 400 pesos well spent.
+
+This morning we did the standard trip to the waterfall, about an hour from our part of the village. What sounds like a pleasant stroll is in reality quite a strenuous hike on often very steep steps and paths, sometimes slippery despite the glorious sunshine, through the rice terraces and along a gorge. And although the impressive waterfall is a beautiful spot in its own right, it was the views over the stunning landscape that made this walk unforgettable.
+
+<figure>
+  <img src="photos/Philippines2008-0023.jpg" alt="Batad">
+  <em>Batad</em>
+</figure>
+
+We were back at the guesthouse in time for lunch, paid our guide and made our way back to Batad Junction, where our tricycle driver was already waiting. Since it gets dark in the Philippines before half past five, we could only enjoy the view from our guesthouse terrace for a short while, but Sanafe Lodge is an excellent place to stay in other ways too: unusually stylish and tasteful in its décor for a budget place, with very decent food and small but clean en-suite rooms for a good-value 400 pesos after a brief negotiation.
+
+## 8 October 2008
+
+Although we had been to Batad and had spent hours hiking with views of rice fields, we decided to treat ourselves, before our jeepney to Bontoc left, to the rice terraces of Banaue from the main viewpoint. It is a few kilometres west of town and, since we did not have much time, we took a tricycle. To be honest, I was not expecting much more from yet another look at rice terraces, so it nearly took my breath away when I stepped onto the platform and saw the panorama. This was the ultimate rice-terrace view, perfectly beautiful and perfectly coloured, absolutely unmissable. Because we came early in the morning, neither souvenir sellers nor other tourists distracted from this wonder of nature and engineering.
+
+<figure>
+  <img src="photos/Philippines2008-0027.jpg" alt="Banaue Rice Terraces">
+  <em>Banaue Rice Terraces</em>
+</figure>
+
+The jeepney ride to Bontoc (150 P) took two hours and, at first, went through wild mountain scenery on mostly unpaved road. The last stretch before Bontoc followed a picturesque river valley with more modest rice-terrace cultivation. In this remote region Bontoc almost feels like a big city, but we did not linger long and, half an hour after arriving, took the jeepney to Sagada, 20 kilometres and 1,000 metres of elevation above Bontoc. The narrow road winds up the mountains in switchbacks and, an hour later, you reach Sagada, a mountain village with an almost Alpine feel, a retreat for artists, stressed, heat-plagued city dwellers, and an alleged backpacker hangout. I cannot confirm the last part, though.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0028.jpg" alt="Banaue-Bontoc Highway">
+      <em>Banaue-Bontoc Highway</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0029.jpg" alt="Banaue-Bontoc Highway">
+      <em>Banaue-Bontoc Highway</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0030.jpg" alt="Bontoc">
+      <em>Bontoc</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0031.jpg" alt="Bontoc">
+      <em>Bontoc</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0032.jpg" alt="Bontoc">
+  <em>Bontoc</em>
+</figure>
+
+<figure>
+  <img src="photos/Philippines2008-0033.jpg" alt="Jeepney to Sagada">
+  <em>Jeepney to Sagada</em>
+</figure>
+
+Sagada has everything a traveller could want: very cheap accommodation, excellent inexpensive food, an atmospheric bar that ignores the curfew (9 pm!), and a stunning setting, but there were virtually no tourists in town. Not just subjectively, but in fact: everyone has to pay a small environmental fee and register at the tourist office, and you could see that at the moment there could hardly have been more than a dozen visitors here, unthinkable in places like Pai or Sa Pa, even in the rainy season. We each took a room for 150 pesos at the Greenhouse, which looked a bit run-down from the outside but had clean rooms and bathrooms and a cosy Alpine-hut atmosphere. For 15 P you could even have a kettle of water heated for a warm shower.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0034.jpg" alt="Sagada">
+      <em>Sagada</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0035.jpg" alt="Sagada">
+      <em>Sagada</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0036.jpg" alt="Sagada">
+  <em>Sagada</em>
+</figure>
+
+After sorting out a room we went for lunch at the Yoghurt House, the classic among Sagada’s traveller cafés, and it was easy to see why. At first glance the prices looked a bit higher than expected, but that immediately changed once you saw what they put on the table: gigantic portions of pasta and rice dishes (90–130 P) of excellent quality, with lots of fresh vegetables and real cheese, and thick pancakes filled with delicious homemade yoghurt and fruit jam. Not exactly diet food, but perfect before or after a hike or a cave exploration.
+
+<figure>
+  <img src="photos/Philippines2008-0037.jpg" alt="Sagada - Yoghurt House">
+  <em>Sagada - Yoghurt House</em>
+</figure>
+
+Caving is one of Sagada’s most popular activities, and spending an afternoon in a dark cave is far more exciting than it sounds. After the usual short afternoon downpour, we organised a guide at the tourist office and were joined a Japanese traveller we had met in the jeepney. Four hundred pesos split between three is not much, and it was a very good investment, because a cave visit without a guide would have been guaranteed to be less interesting and probably downright dangerous. The most famous of the caves around Sagada, Sumaging Cave, a forty-five-minute walk from the centre, is called the Porn Cave for good reason, because of its bizarre, graphic rock formations. An exploration tour barefoot, with nothing but a paraffin lamp, is not for the faint-hearted, but it is great fun and, at the end, even rewarded with a little swim in an underground pool.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0038.jpg" alt="Sagada">
+      <em>Sagada</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0039.jpg" alt="Sagada">
+      <em>Sagada</em>
+    </figure>
+
+</div>
+
+In spite of this exertion we did not feel the need for dinner, because lunch had been so substantial, so we only went out for a few beers in Sagada’s only real pub right by our guesthouse, one with plenty of potential if it had more customers.
+
+The next day we  wanted to hike to the ‘Big Waterfall’, but had to change plans because, due to a procession in one of the villages along the route, the path was closed to foreigners. So we simply set off on our own and explored Sagada’s surroundings: an Alpine landscape of fragrant pine forests and karst formations. The paths here are not always easy to find and can be demanding.
+
+We first walked to Echo Valley, not far from the centre, where Sagada’s hanging coffins can be seen. Since locals in the region believe it brings bad luck to bury the dead in the ground, some burial sites are in caves and, partly to prevent vandalism, on the steep walls of limestone hills, which makes them wonderfully photogenic. Afterwards we followed the riverbed of Echo Valley with the intention of somehow reaching the main road again, which did in fact work, despite muddy, slippery sections and having to cross cascades. At the cascades, halfway along, you can cool off nicely in a natural rock pool.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0040.jpg" alt="Sagada">
+      <em>Sagada</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0041.jpg" alt="Sagada">
+      <em>Sagada</em>
+    </figure>
+
+</div>
+
+After crossing the road, we also went to the so-called ‘small waterfall’. On the map it looked like a leisurely stroll, but it ended up being a wet, muddy trek through rice fields. When we got back to the guesthouse, we looked as though we had been on a multi-day hike, even though we had not actually been far from the village.
+
+In the evening we went to the best place in town, which fully lived up to its name, ‘Log Cabin’. A cosy dining room, entirely made of wood, with a crackling fireplace and candlelight. Unfortunately, because there is so little going on at the moment, all the interesting dishes are only available if you order in advance, so we simply ordered two Mediterranean salads with feta, olives and balsamic, and bruschetta, plus a bottle of Hardy’s Shiraz for 350 pesos. The Philippines is the only country in Asia where wine is cheaper even at wholesale than in Europe, and that makes the price of a bottle, even in better restaurants, extremely affordable.
+
+<figure>
+  <img src="photos/Philippines2008-0042.jpg" alt="Sagada - Log Cabin">
+  <em>Sagada - Log Cabin</em>
+</figure>
+
+This morning we took one of the hourly buses to Baguio at 7 am. This six-hour ride (220 P) through the central Cordillera is rightly considered one of Southeast Asia’s most spectacular bus journeys. The highway, often little more than a narrow, stony track, winds up in dizzying hairpins to 2,250 metres, a real cliffhanger, often skirting the edge of the abyss. After these grand mountain vistas, arriving in Baguio is almost a shock.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0043.jpg" alt="Halsema Highway to Baguio">
+      <em>Halsema Highway to Baguio</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0044.jpg" alt="Halsema Highway to Baguio">
+      <em>Halsema Highway to Baguio</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0045.jpg" alt="Halsema Highway to Baguio">
+      <em>Halsema Highway to Baguio</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0046.jpg" alt="Halsema Highway to Baguio">
+      <em>Halsema Highway to Baguio</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0047.jpg" alt="Halsema Highway to Baguio">
+      <em>Halsema Highway to Baguio</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0048.jpg" alt="Halsema Highway to Baguio">
+      <em>Halsema Highway to Baguio</em>
+    </figure>
+
+</div>
+
+The largest city in the Philippine highlands is a chaotic metropolis with extremely polluted air, whose slopes are covered with corrugated-iron shacks. If you arrive in Baguio from Manila or the coastal lowlands, you will certainly appreciate the pleasant climate of this city at 1,500 metres. For us, though, coming straight from the cool mountains anyway, the city did not feel particularly attractive, even though Baguio is certainly worth an afternoon.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0049.jpg" alt="Baguio">
+      <em>Baguio</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0051.jpg" alt="Baguio">
+      <em>Baguio</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0052.jpg" alt="Baguio">
+      <em>Baguio</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0053.jpg" alt="Baguio">
+      <em>Baguio</em>
+    </figure>
+
+</div>
+
+It feels as if you are in a South American Andean city that has somehow been transplanted into the Southeast Asian mountains, favelas on the slopes included. The big park in the centre, with a lake and swan pedalos, is quite nice and traffic-free, so you can actually breathe, and the evening views from the terraces of the SM Mall over the cathedral and the sea of city lights are fairly impressive. Fortunately, Baguio also has a wonderful restaurant, Café by the Ruins, where you can sit comfortably for a few hours in a kind of bamboo oasis, close to the action and yet far from the bustle and noise. The coffee is excellent, and the food, international fare, is also decent by Philippine standards, at moderate prices, even if the crème brûlée tasted more like vanilla pudding.
+
+<figure>
+  <img src="photos/Philippines2008-0050.jpg" alt="Baguio - Café by the Ruins">
+  <em>Baguio - Café by the Ruins</em>
+</figure>
+
+In terms of accommodation, choices are poor. Near the centre there are almost only mid-range hotels. The most famous budget place, the Baden Powell Inn, is in a very pretty wooden villa with a view over the park, but the run-down dorms are ridiculously overpriced at 400 P per bed. So in the end we stayed at the South Terminal Inn by the bus station, a rather shabby place with little-maintained rooms and shared bathroom; at 600 P it was still cheaper than two dorm beds at the Baden Powell and fine for one night, especially as we wanted to take an early bus to Vigan the next morning.
+
+## 10 October 2008
+
+The bus from Baguio to Vigan was a comfortable air-conditioned one and took five hours, first down to the coastal plain and then along the coast heading north. Vigan is a UNESCO World Heritage Site and the best-preserved colonial town in the Philippines (and probably the only one). Vigan’s tourist potential is enormous, but compared with other Asian gems such as Hoi An or Luang Prabang, you look in vain for tourist masses. Quite the opposite: the prevailing atmosphere is very authentic, a Philippine small town, much prettier than most, but people go about their daily business as normal, and as a foreigner you are regarded with the usual curious interest.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0054.jpg" alt="Vigan">
+      <em>Vigan</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0055.jpg" alt="Vigan">
+      <em>Vigan</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0056.jpg" alt="Vigan">
+      <em>Vigan</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0057.jpg" alt="Vigan">
+      <em>Vigan</em>
+    </figure>
+
+</div>
+
+Many streets in the colonial old town have not yet been restored, but even so, a stroll through the cobbled lanes is magical, especially after dark, when the numbing heat of the day has eased, the streets are lit and the only sound is the horses’ hooves of the kalesas that serve as taxis.
+
+<figure>
+  <img src="photos/Philippines2008-0058.jpg" alt="Vigan">
+  <em>Vigan</em>
+</figure>
+
+There are no budget places in Vigan, but some of the stately old-town buildings have been restored and turned into wonderful guesthouses where you can stay relatively cheaply, comfortably and in colonial atmosphere. We had a huge, stylish room at the Gordion Inn, one of these old-town hotels, with a modern, almost luxurious bathroom, for 700 pesos, an amazing value.
+
+In principle we could have covered Vigan’s old town in a few relaxed hours, but we stayed an extra day because we needed to have laundry done, and there are far worse places to linger than a feel-good town like Vigan.
+
+Gastronomically the town admittedly does not yet have all that much to offer (the square in front of the cathedral is dominated by a McDonald’s), even though the old town would be the ideal setting for nice cafés and restaurants. This will surely change in the future once more tourists discover Vigan’s charm. Fortunately, everything essential already exists now. At Café Leoni you can enjoy local specialities such as marcon (a stuffed meatloaf, 200 P) in a cosy trattoria atmosphere, or very good wood-fired pizza (from 180 P). And ‘A Cup of Coffee’ has just opened in the old town, where you can get a decent cappuccino for a good-value 45 pesos.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0059.jpg" alt="Vigan - Café Leona">
+      <em>Vigan - Café Leona</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0060.jpg" alt="Vigan - Café Leona">
+      <em>Vigan - Café Leona</em>
+    </figure>
+
+</div>
+
+Nightlife certainly is not Vigan’s strength, and the two venues we visited were not exactly jumping, but at least there is a pleasant pub and a slightly more stylish bar.
+
+## 12 October 2008
+
+The night bus ride from Vigan to Manila (600 P) took ten hours. We arrived chilled to the bone before daybreak in Sampaloc and immediately took a taxi to Friendly’s Guesthouse, our friendly oasis in Malate. Unfortunately, the beds in the fan dorm were all taken (by a group of young American missionaries, ugh), but we still got two beds in the air-conditioned dorm for 340 pesos. We only dropped off our luggage, because after our chill day in Vigan we now had a tight schedule: a day trip to Lake Taal, 60 km south of Manila.
+
+We took the LRT to Pasay and immediately found a connection to Tanauan (one hour, 98 P). From Tanauan we took a jeepney to Talisay (30 minutes, 25 P), on the shore of the lake. Here we had to charter a banca for the twenty-minute trip to the volcanic island in the lake. That was not cheap, because Lake Taal is a very popular outing for wealthy Manileños and Japanese/Korean tour groups. After tough bargaining we got the return trip for 1,000 pesos.
+
+Despite its geographical proximity to Manila, Lake Taal is a little scenic gem, far from the bustle of the big city, encircled by a verdant ring of hills. In the middle of the volcanic island there is another crater lake: a lake on an island in a lake on an island (Luzon), so to speak. It was a pleasant 45-minute walk to the viewpoint on the crater rim, from where there were lovely views of both lakes.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0061.jpg" alt="Lake Taal">
+      <em>Lake Taal</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0062.jpg" alt="Lake Taal">
+      <em>Lake Taal</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0063.jpg" alt="Lake Taal">
+  <em>Lake Taal</em>
+</figure>
+
+Luckily we had made an early start. On the way back, dozens of cheerful Northeast Asians came towards us on horseback, whose sheer mass made the path feel precarious. Later, any sense of peace up at the crater would certainly have been over.
+
+For the return to Manila we chose an alternative route, via the town of Tagaytay on the rim of the outer crater, which again offered wonderful views. In the afternoon traffic the bus ride from there to Manila took almost four hours and we only got back to our guesthouse in the evening. The excursion to Lake Taal was not cheap, but definitely worth it.
+
+On Saturday evenings Benji, the manager of Friendly’s and a wine lover, hosts a cheese-and-wine night, where guests can help themselves free of charge at the buffet (with olives, tuna salad, various antipasti, cheese and bread), and there is plenty of perfectly drinkable French table wine. A wonderful idea, which makes Friendly’s one of my favourite hostels in Southeast Asia. And for us it meant a very cheap night out.
+
+We spent Sunday still in Manila, bought tickets for the night bus to Legaspi, walked once more across Rizal Park to Intramuros, where we had brunch in the lovely patio café of Casa Manila. Afterwards we took a kalesa down to Roxas Boulevard and spent the afternoon ‘malling’, the Filipinos’ favourite activity. To bridge the last half hour in Ermita before our bus left, we popped round the corner to Gasthof München, where I treated myself to a nice Hefeweizen (125 P) and  a Swiss-style sausage salad.
+
+<figure>
+  <img src="photos/Philippines2008-0064.jpg" alt="Manila">
+  <em>Manila</em>
+</figure>
+
+## 14 October 2008
+
+Another ten-hour night bus ride (780 P) in a fairly comfortable air-conditioned bus (comfortable once the Bon Jovi video-KDVD was switched off) took us to Legaspi in southern Luzon. We arrived at the bus station at daybreak and immediately hired a tricycle (150 P return) for the 15 km trip to the Cagsawa Ruins. These ruins are really just an old church bell tower, but the reason to come is the spectacular view of Mount Mayon, perhaps the most perfectly shaped conical volcano in the world, a staple of countless postcards, which rises almost 2,500 metres out of the coastal plain and whose summit is wreathed in clouds of smoke. Climbing the volcano is difficult, expensive and only possible in a limited window during the dry season, but the sight alone is worth the long journey, especially as the route via southern Luzon is a time-consuming yet perfectly sensible alternative for getting to the Visayas.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0065.jpg" alt="Cagsawa and Mt.Mayon">
+      <em>Cagsawa and Mt.Mayon</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0066.jpg" alt="Cagsawa and Mt.Mayon">
+      <em>Cagsawa and Mt.Mayon</em>
+    </figure>
+
+</div>
+
+Back in Legaspi we immediately found a connection to Sorsogon, one hour’s bus ride (90 P) further south. There we had to wait until the jeepney to Matnog filled up, and it was another one-hour ride (100 P) through quintessential Southeast Asian tropical scenery to the southern tip of Luzon. From Matnog a ferry to Allen on Samar is supposed to leave hourly, but we had to wait well over two hours in a boring waiting hall for departure. The large car ferry reached Samar, and thus our first stop in the Visayas, after about two hours.
+
+<figure>
+  <img src="photos/Philippines2008-0067.jpg" alt="Matnog-Allen Ferry">
+  <em>Matnog-Allen Ferry</em>
+</figure>
+
+Since we only arrived in Allen around 3 pm and it was pouring with rain, we dropped our plan to spend the night on Dalupiri Island and instead took a jeepney straight to Calbayog, the largest city on the island. This ride (80 P) took another three hours, and we did not arrive until after dark, meaning we had travelled from Manila to Calbayog, a distance of 600 km, for twenty-four hours.
+
+Calbayog is a friendly small town with a fishing harbour that rarely sees foreign tourists. When you walk through the streets in the evening, ‘Hey Joe’ is the most common greeting, a Philippine quirk that seems to have died out in many other areas. Food is limited to fast food and bake shops, and nightlife to extremely cheap beer in pubs where extremely loud, extremely off-key karaoke is performed. An absolutely authentic Philippine experience, in other words. We spent the night at the S. Joaquin Inn, a somewhat shabby dive by the market, with small rooms that were perfectly adequate for one night and a not exactly inviting shared bathroom (350 P).
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0068.jpg" alt="Calbayog">
+      <em>Calbayog</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0069.jpg" alt="Calbayog">
+      <em>Calbayog</em>
+    </figure>
+
+</div>
+
+This morning we got up very early, hoping we might be able to take a ferry to northern Leyte or Biliran. But the only ferry leaving today was the night ferry to Cebu City, which made little sense for us. So we got on the bus to Tacloban, the capital of Leyte, where we arrived around 11 am after a four-hour ride (200 P).
+
+Our next fixed destination was Malapascua, and since both online and in the guidebook there was only very vague information about the best way to get there, we decided to ask at the tourist office in Tacloban. According to what we had read, there is a daily ferry at 7 am from S. Isidro, a fishing village a few hours north-west of Tacloban, to Maya at the northern tip of Cebu, from where you are meant to have connections to Malapascua. But we had no idea whether there was a direct connection from Tacloban to S. Isidro or whether you can even stay overnight in S. Isidro. At the tourist office they could at least confirm that there is a daily boat that leaves some time in the morning, between 7 and 12, and goes directly to Malapascua. There is also supposed to be an afternoon bus directly to S. Isidro. Whether there is anywhere to stay there, they did not know either; they advised us to ask at the mayor’s office.
+
+Nevertheless we decided to try our luck and head to S. Isidro, but first we spent a few hours in Tacloban, bigger, more modern and, as a university town, more cosmopolitan than Calbayog, yet just as friendly and untouristy. There was even a chic, expensive espresso bar and a wonderful little bistro, Café Urbana, with good-value, tasty international cuisine, an interesting attempt at hummus (45 P) and delicious Vietnamese tofu-chicken wraps (95 P).
+
+<figure>
+  <img src="photos/Philippines2008-0070.jpg" alt="Tacloban">
+  <em>Tacloban</em>
+</figure>
+
+<figure>
+  <img src="photos/Philippines2008-0071.jpg" alt="Tacloban - Café Urbana">
+  <em>Tacloban - Café Urbana</em>
+</figure>
+
+When we got back to the bus station, we learned that today there was no longer a direct connection to S. Isidro. Instead we were put on a minibus to Villaba, 30 km south of S. Isidro on the west coast. When we arrived there around 5 pm after a two-hour ride (140 P), there were of course no jeepneys left, and motorcycle taxis wanted at least 300 pesos per person. Because we still assumed we might have to catch the boat at 7 am, and spending the night in Villaba would have been risky in terms of timing, we tried hitchhiking, and were actually lucky.
+
+A short while later a large, comfortable coach out of service stopped, with only a few young Pinoys aboard, blasting Eurotrash dance music and looking as if they were on their way to some party. The road to S. Isidro was absolutely dreadful, and it no longer surprised me that the motorcycle taxis had asked so much. With luggage, in the dark, that trip would have been pure horror. We, on the other hand, sat comfortably in the air-conditioned bus, and when we arrived in S. Isidro and offered to pay something, it was waved away with a relaxed ‘no problem’. We really could not have got luckier.
+
+The accommodation issue was also solved quickly. When we asked around we were sent to a lodging house. It was not recognisable as a guesthouse (no sign, nothing) but there were neat little rooms with bunk beds and clean facilities for 200 pesos. San Isidro is really no more than a fishing village, and there is not a single restaurant in the entire place. At a few stalls, though, chicken legs and pork liver were grilled; you could sit outside on plastic chairs and drink a one-litre bottle of beer for 50 pesos.
+
+<figure>
+  <img src="photos/Philippines2008-0072.jpg" alt="San Isidro Leyte">
+  <em>San Isidro Leyte</em>
+</figure>
+
+## 18 October 2008
+
+As far as the boat from S. Isidro was concerned, the tourist office got one thing right: it did not leave until half past eight, once it was full enough. The other piece of information, that it would go directly to Malapascua, was unfortunately wrong. It did, in fact, go to Maya, just as we had expected. It was a beautiful two-hour crossing (180 P) in a large banca, one of those very photogenic, typically Philippine boats whose shape resembles a catamaran.
+
+Arriving in Maya, I was pleasantly surprised that the boats to Malapascua (smaller bancas) left on time every half hour, as scheduled, whether full or not. The short half-hour crossing costs 50 pesos if you buy your ticket at the counter; more if you pay directly on the boat.
+
+Malapascua, a tiny island, one kilometre wide and just over two kilometres long, off the northern tip of Cebu, is described in guidebooks as the second Boracay: a Boracay without expensive resorts, fancy beach clubs and package tourists. Therefore I was initially a little disappointed to find an island in transition. I can imagine that a few years ago there really were simple, cheap bungalows right on the bright-white beach, but by now a building boom has started, and on Bounty Beach, the island’s main beach, room rates are already in the thousands. Even for a simple bungalow, despite the off-season and despite there being hardly any tourists on the island, a ridiculous 1,000 pesos was demanded, non-negotiable.
+
+<figure>
+  <img src="photos/Philippines2008-0073.jpg" alt="Malapascua">
+  <em>Malapascua</em>
+</figure>
+
+I was also disappointed, probably because my expectations were too high, by Bounty Beach itself. I had imagined something straight out of a Bacardi advert: powdered-sugar-white sand under coconut palms. In reality, the sand is white, but studded with dead coral that makes walking barefoot painful, and full of dried algae that cover most of the seabed off the coast. Luckily we had enough time to get to know the island properly and, despite my first impressions, I ended up liking Malapascua a great deal.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0075.jpg" alt="Malapascua">
+      <em>Malapascua</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0076.jpg" alt="Malapascua">
+      <em>Malapascua</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0077.jpg" alt="Malapascua">
+  <em>Malapascua</em>
+</figure>
+
+It is the perfect place to let your mind unwind and to watch life in a fishing village at close quarters. Even with its flaws, Bounty Beach, with its coconut palms, fishing boats and crystal-clear water, is incredibly picturesque. The people in the neat village, who largely continue their traditional way of life, are very friendly and seem happy. Tourism at the moment is limited to a few divers and the common handful of Western men of middle or advanced age with their young Filipina girlfriends. There is no beach-traveller scene like in Thailand; most of the time you have the beach to yourself.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0079.jpg" alt="Malapascua">
+      <em>Malapascua</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0080.jpg" alt="Malapascua">
+      <em>Malapascua</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0081.jpg" alt="Malapascua">
+      <em>Malapascua</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0082.jpg" alt="Malapascua">
+      <em>Malapascua</em>
+    </figure>
+
+</div>
+
+Nightlife is limited to cocktail happy hours in the three larger beach resorts, where, despite the high room rates, alcohol prices, like almost everywhere in the Philippines, are very reasonable, or a few rounds of pool at the Wobbly Boot. If you tire of doing nothing, you can take pleasant walks across the island through coconut groves and fishing villages. The north coast, about an hour on foot from Bounty Beach, offers very pretty scenery and a wonderful clean bay with a simple resort; it is so quiet there that you almost find yourself wishing for a few more tourists.
+
+<figure>
+  <img src="photos/Philippines2008-0083.jpg" alt="Malapascua">
+  <em>Malapascua</em>
+</figure>
+
+After the price shock on Bounty Beach, we luckily found a nice place to stay at Blissful Garden, a small green oasis in the middle of the village but only a minute from the beach. Actually a restaurant, though currently not open, there are only two neat rooms here, sharing shower and toilet, for 500 pesos each. The rooms are quite small for two people and, like most of the island, there is only electricity for a few hours a day, but the lounge area and garden are wonderfully relaxed, and I preferred sleeping outside in the hammock anyway.
+
+What Malapascua unfortunately does not have is a simple, cheap fish restaurant on the beach. Gastronomically you are dependent on the resorts or a few Western-managed restaurants one street back. For tight budgets, thankfully, there is the Ging Ging Eatery, a pleasant garden place where it is genuinely cheap and the value is excellent. For a wonderful fish or squid dish from the hot plate you pay only 120 pesos, the most expensive item on the menu. Also tasty: the homemade dark bread. The rest of the menu is nothing special quality-wise and the pizzas are bad. Still, it is an excellent (and the only) budget choice on the island. For better pizza and more creative fish dishes, the place next door, La Isla Bonita, is a good bet, though a dinner for two there easily comes to 500 pesos.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0074.jpg" alt="Malapascua - Ging-Ging">
+      <em>Malapascua - Ging-Ging</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0078.jpg" alt="Malapascua - Ging-Ging">
+      <em>Malapascua - Ging-Ging</em>
+    </figure>
+
+</div>
+
+## 20 October 2008
+
+We took the 11 o’clock boat back to Maya, where the bus to Cebu City was already waiting. After just over half an hour of waiting it finally set off on the four-hour ride down the coast, which is quite scenic. Because it gets dark very early in the Philippines, we only just had time to find a room while it was still light.
+
+We ended up at Kukuk’s Nest in the newer part of the city near the large Ayala Mall. The guesthouse itself, however, sits set back from the noisy street in an old wooden villa, a little oasis in the big city. The rooms are a bit musty and dark, but spacious and atmospheric. Since only one air-conditioned room was still available, we had to pay 730 pesos, which is still quite reasonable for a Philippine city.
+
+First we had a light meal at Oh Georg! in the Ayala Mall, a small modern bistro with very good coffee and fresh, tasty salads, at mall prices, admittedly. I had been looking forward to going out in Cebu City on a Saturday evening, because the city is known for its nightlife, but I found the options rather disappointing. Unlike Manila, there is no established nightlife district, just various enclaves, and to reach them you have to walk along four-lane highways. The scene consists mainly of modern, sterile, neon-lit restobars, where beer is served in three-litre towers but still no real atmosphere develops, and you hardly see anyone over twenty. So we went to one of the few simple open-air pubs along the road. The vibes there were not exactly great either, but at least the beer was dirt-cheap (27 P for a San Miguel) and you could play pool.
+
+Today we spent the whole morning in Cebu City, walked from the new town into the old town and from there down to the piers, but the city really does not have much to offer. The hectic old town, even on Sundays, with its typically Asian markets, is mildly interesting and atmospheric, but offers nothing that every other larger city in this part of the world would not also offer, and almost nothing of colonial architecture and old buildings has survived.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0084.jpg" alt="Cebu City">
+      <em>Cebu City</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0085.jpg" alt="Cebu City">
+      <em>Cebu City</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0086.jpg" alt="Cebu City">
+      <em>Cebu City</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0087.jpg" alt="Cebu City">
+      <em>Cebu City</em>
+    </figure>
+
+</div>
+
+At 1 pm we took the ferry to Tagbilaran, a modern, super-fast and expensive (500 P) boat that brought us to Bohol in 90 minutes. Arriving in Tagbilaran, we rented a motorbike near the pier and rode the nearly 20 km, two-up with all our luggage, to Alona Beach on Panglao Island, a small tourist island connected to Bohol by two bridges.
+
+Because having the bike gave us flexibility, we did not have to stay in the most touristy (and most expensive) area right on the beach. A few kilometres west of Alona, along a bumpy track, we found a quiet resort, Calypso, under Swiss management, where a room with bathroom cost 650 pesos. That was a proper bargain, not only because the resort had a swimming pool and a billiard table, but because the price also included a rental motorbike, so tomorrow each of us would have our own bike for the trip to the Chocolate Hills.
+
+<figure>
+  <img src="photos/Philippines2008-0100.jpg" alt="Panglao - Calypso Resort">
+  <em>Panglao - Calypso Resort</em>
+</figure>
+
+For dinner we went down to the beach at Alona, one of the most touristy places in the Philippines, where one resort restaurant followed another.  The white beach is visually very pretty, but overdeveloped. The algae problem exists here as well, just as on Malapascua, and the water is not especially inviting for swimming. The evening atmosphere in Alona is, however, very lovely, with numerous tables set  between torches right on the sand. The menus hardly differ in price or offer: a selection of pizza and grilled seafood, both for around 200 pesos.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0088.jpg" alt="Panglao - Alona Beach">
+      <em>Panglao - Alona Beach</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0098.jpg" alt="Panglao - Alona Beach">
+      <em>Panglao - Alona Beach</em>
+    </figure>
+
+</div>
+
+## 22 October 2008
+
+We spent yesterday exploring Bohol by motorbike, more precisely, a part of this fairly large island. Fortunately, the tourist attractions lie in the south-west, not too far from Panglao.
+
+Since the food at our resort is not particularly good, we had breakfast in Alona, where a real gem had opened only recently. Charts Art Café, in a stylish Moorish complex with a small veranda, cushions and a hammock, lives up to its name as an art café. For décor alone, it ranks among the most beautiful cafés in Southeast Asia; even the menu is inspired by paintings. The coffee is excellent too, while the food is rather average and expensive. On pre-order, though, you can get cheap, fresh Laugenbrötchen (20 P), and these with eggs and cappuccino make a wonderful breakfast.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0089.jpg" alt="Panglao - Charts Art Café">
+      <em>Panglao - Charts Art Café</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0101.jpg" alt="Panglao - Charts Art Café">
+      <em>Panglao - Charts Art Café</em>
+    </figure>
+
+</div>
+
+Once on Bohol’s mainland, we followed the southern coastal road and then turned north onto the road that follows the Loboc River to the small town of Loboc. This area is quite touristy, with numerous noisy river-boat cruises, but the scenery is pretty, and Loboc itself is an attractive little town, with a massive old church and traditional wooden houses along the river. Further north the landscape became hillier and more untouched: beautiful green jungle scenery with a narrow river flowing through a deep valley.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0090.jpg" alt="Around Bohol - Loboc">
+      <em>Around Bohol - Loboc</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0091.jpg" alt="Around Bohol - Loboc">
+      <em>Around Bohol - Loboc</em>
+    </figure>
+
+</div>
+
+In this area there is a wonderful, basic resort, Nuts Huts, on a steep slope above the river. You can reach it easily by boat from Loboc, or, at least in the rainy season, in a more complicated way on a slippery half-hour trek on muddy paths from the main road. After reaching Nuts Huts the hard way, we decided to stay for a longer break and lunch. An excellent choice: you can lounge beautifully on the veranda and enjoy the views into the valley. The food here was cheap and good, and, befitting a place under Belgian management, the “ frites” in particular were excellent.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0092.jpg" alt="Around Bohol - Nuts Huts">
+      <em>Around Bohol - Nuts Huts</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0093.jpg" alt="Around Bohol - Nuts Huts">
+      <em>Around Bohol - Nuts Huts</em>
+    </figure>
+
+</div>
+
+Before coming to the island we had considered possibly staying here overnight; a room would have cost only 400 pesos. But for a short stay our location on Panglao, with the extra motorbike, makes more sense.
+
+On a very scenic route, through alternating hilly jungle, rice fields and dense, delightfully cool forest, we rode to the Chocolate Hills, Bohol’s biggest tourist attraction. We only arrived there in the afternoon, and had wonderful light and peace and quiet at the viewpoint. As the name suggests, the hills only turn brown at the end of the dry season, but even green they look very impressive. More than a thousand dome-shaped hills cover the plain as far as the eye can see, a unique natural spectacle that rightly counts among the absolute highlights of a trip to the Philippines. For the beautiful late-afternoon mood it was also worth putting up with the nerve-racking long ride back through the dark.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0094.jpg" alt="Around Bohol">
+      <em>Around Bohol</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0095.jpg" alt="Around Bohol">
+      <em>Around Bohol</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0096.jpg" alt="Around Bohol">
+      <em>Around Bohol</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0097.jpg" alt="Around Bohol">
+      <em>Around Bohol</em>
+    </figure>
+
+</div>
+
+The following day was a quiet one. After the previous day’s riding, a rest was in order. I first took Daniel to the ferry back to Cebu and, before returning the bike, rode out to the Tarsier Visitor Centre, where it was possible to see these peculiar little animals with their enormous eyes in a semi-natural environment.
+
+<figure>
+  <img src="photos/Philippines2008-0102.jpg" alt="Around Bohol">
+  <em>Around Bohol</em>
+</figure>
+
+The trip inland was worthwhile. I was the only visitor, and a staff member took me on a short walk through the forest, where I managed to get a few excellent close-up views.
+
+In the afternoon, I explored a little more of Panglao by motorbike. Away from Alona, the island was still largely unspoilt: flat, green, friendly, with a few picturesque beaches reached only by rough tracks, though not especially good for swimming.
+
+<figure>
+  <img src="photos/Philippines2008-0099.jpg" alt="Panglao">
+  <em>Panglao</em>
+</figure>
+
+In the afternoon I took the bus from Tagbilaran along the south coast to Jagna, a ride of just under two hours (60 P). From this small town a direct ferry connection to Camiguin has recently been established, so I can save myself the detour via Mindanao. According to my information the ferry was supposed to leave at 8 am, which unfortunately was not true. The only ferry goes at 1 pm, so tomorrow I will have to kill a few hours in the prettily situated but not especially interesting town of Jagna.
+
+<figure>
+  <img src="photos/Philippines2008-0103.jpg" alt="Around Bohol - Jagna">
+  <em>Around Bohol - Jagna</em>
+</figure>
+
+The only accommodation in Jagna, the Garden Café, is more of an American-style cafeteria with a few rooms off a corridor. These are very well kept but only partly suitable for solo travellers. The air-conditioned rooms are expensive and with a fan there is only a four-bed dorm with shared bathroom, which you can only rent as a whole (450 P). At least the beds are very comfortable and the facilities are very clean.
+
+## 26 October 2008
+
+The ferry from Jagna took just over four hours (400 P), and by the time I arrived at the harbour a few kilometres east of Mambajao, it was already dark. Luckily I bumped into a fixer who initially only wanted to take me into town on his motorbike. A short while later I had an excellent rental motorbike (1,000 P for three days) and a room in a chalet right on the beach for 500 pesos. The resort was so new it did not even have a name yet (‘friends’ of my fixer, of course). All the other beach resorts, during festival time, wanted at least 800 pesos for a room near the beach. I could only stay here for one night, because the chalet was reserved for the next day, That meant the tedious room hunt was out of the way that same evening, and the next morning, in bright sunshine, I could step straight from my room into the cool, clear sea for a swim.  That experience alone made it worth spending a night on the beach.
+
+Afterwards I took a room in Mambajao, the pleasant little capital of Camiguin and, these days, host to the Lanzones Festival, one of the Philippines’ best-known harvest festivals, in honour of the small round fruits with white flesh called lanzones, which are said to be particularly tasty on Camiguin. Today was the final day, with the exotic dances in the streets of the town, wonderful photo opportunities, but live bands performed on the stage all week, and on my first evening on the island I danced until after midnight.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0112.jpg" alt="Camiguin - Mambajao">
+      <em>Camiguin - Mambajao</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0113.jpg" alt="Camiguin - Mambajao">
+      <em>Camiguin - Mambajao</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0114.jpg" alt="Camiguin - Mambajao">
+  <em>Camiguin - Mambajao</em>
+</figure>
+
+In Mambajao I was again very lucky with my accommodation. Three months ago an Englishman, who lives on his yacht in the harbour at Benoni, opened a pub right in the centre, the Yacht Inn, where he also rents out a few rooms. They are simple and you share the bathroom with the staff, who also sleep here, but my room was spacious and bright with a balcony and, at 300 pesos, probably the cheapest accommodation on the island.
+
+<figure>
+  <img src="photos/Philippines2008-0110.jpg" alt="Mambajao - Yacht Inn">
+  <em>Mambajao - Yacht Inn</em>
+</figure>
+
+The Yacht Inn calls itself a ‘Traditional English Pub’, but the owner seems to have developed a taste for German Schlager during his years in Germany. It was a slightly bizarre experience, in an English pub on a remote Philippine island, to hear Fiesta Mexicana and Marmor, Stein und Eisen bricht, but there was, also unusual for an English pub, excellent and incredibly inexpensive food: various pan-Asian stir-fries (70 P) and generous fish steaks from the hot plate (100 P). The drinks cost no more than in a simple local pub, and that is saying something, because apart from room prices, Camiguin is an exceptionally cheap place. Nowhere do you pay more than 30 P for a beer, not even at the relatively smart Luna Ristorante, under Italian management, where they serve excellent wood-fired pizzas (from 150 P) and espresso.
+
+<figure>
+  <img src="photos/Philippines2008-0104.jpg" alt="Camiguin - Luna Ristorante">
+  <em>Camiguin - Luna Ristorante</em>
+</figure>
+
+The quiet, very tidy island of Camiguin is considered an insider tip among Philippines connoisseurs. It lies relatively remote off the coast of Mindanao and therefore does not see many tourists. And that will probably remain the case, because Camiguin is neither a famous dive region nor does the island have classic white-sand beaches. Camiguin is of volcanic origin, so the sand is dark grey. These beaches, lined with coconut palms, with their picturesque fishing boats beneath impressive green-covered volcanoes, are beautiful in their own way, but not mass-market.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0105.jpg" alt="Camiguin">
+      <em>Camiguin</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0106.jpg" alt="Camiguin">
+      <em>Camiguin</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0107.jpg" alt="Camiguin">
+      <em>Camiguin</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0108.jpg" alt="Camiguin">
+      <em>Camiguin</em>
+    </figure>
+
+</div>
+
+The island’s biggest attractions are its relaxed atmosphere, the friendliness of the locals and the magnificent nature. With a motorbike you can ride around the island on the 60 km ring road in under two hours, but there are a few worthwhile detours inland. The island offers cold springs, hot springs and a waterfall, Katibawasan Falls, straight out of a tropical picture book. All these attractions suffer a little from their open-air swimming-pool atmosphere and charge an entrance fee, but they are set in very beautiful scenery.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0109.jpg" alt="Camiguin">
+      <em>Camiguin</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0111.jpg" alt="Camiguin">
+      <em>Camiguin</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0115.jpg" alt="Camiguin">
+  <em>Camiguin</em>
+</figure>
+
+## 30 October 2008
+
+I left Camiguin on one of the many ferries that run from the east-coast harbour of Benoni to Balingoan on Mindanao. The crossing took only an hour (135 P). From Balingoan I had a direct connection to Cagayan de Oro, an hour and a half south by minibus (100 P). CDO is one of Mindanao’s biggest cities, with almost half a million inhabitants, but the city centre is very compact and, even without major sights, relatively attractive, with a large choice of inviting cafés, bars and restaurants, so Cagayan is a good place for a stopover. I also found an inexpensive room right in the centre at the Park View Inn. The hotel has a misleading name, no park view in sight, but very well-kept economy rooms with clean shared bathroom for 325 pesos.
+
+<figure>
+  <img src="photos/Philippines2008-0117.jpg" alt="Cagayan de Oro">
+  <em>Cagayan de Oro</em>
+</figure>
+
+On my walk through the centre I had a cappuccino at the pleasant Café Gazebo and ate a chicken korma at the Karachi Restaurant, one of the few Muslim places in this mostly Christian city. The food there is halal (and tasty), but beer, as everywhere, is the most popular drink, so piety clearly has its limits.
+
+<figure>
+  <img src="photos/Philippines2008-0116.jpg" alt="Cagayan de Oro - Gazebo">
+  <em>Cagayan de Oro - Gazebo</em>
+</figure>
+
+The next day, after a substantial breakfast at the Vienna Kaffeehaus, I took the bus to Iligan (150 P), a coastal city two hours south of CDO. At first I only stayed long enough to get from the main bus station to the southbound bus terminal, and from there continued to Marawi. The converted 4x4s that serve this route are extremely uncomfortable, but quick and direct (70 P).
+
+Marawi lies three-quarters of an hour south of Iligan on Lake Lanao in Mindanao’s highlands. The climate up here is pleasantly cool and the area is scenic. My main reason for visiting Marawi was that the city, with a population of 92% Muslims, is considered the stronghold of Islam in the Philippines. Although Mindanao is generally perceived by many Westerners as a Muslim region, that is by no means the case. Even on Mindanao, Muslims are almost everywhere clearly in the minority, which makes The Islamic City of Marawi, the city’s official name, a real exception.
+
+The place itself is dirty and run-down, but beautifully situated, with a fascinating, very traditional market (bazaar is probably the better word), and after some initial scepticism I was greeted almost enthusiastically once I made it clear I was a German tourist. At first I was taken for an American soldier, which is probably because almost no tourists come to Marawi. The security situation is still precarious. Only a few kilometres from the city, in the mountains, MILF rebels and government troops reportedly fight daily skirmishes, and Abu Sayyaf kidnappings are nothing unusual. At least that is what local (Muslim) military men told me; they urged me not to spend the night in Marawi, but to stay in safe Iligan instead. Since I had not found a hotel in town anyway, I was happy to comply and went back to the coast in the afternoon.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0118.jpg" alt="Marawi">
+      <em>Marawi</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0119.jpg" alt="Marawi">
+      <em>Marawi</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0120.jpg" alt="Marawi">
+  <em>Marawi</em>
+</figure>
+
+Iligan, a mid-sized industrial and port city, is unappealing in every way. The faceless centre consists of traffic-choked, noisy streets, fast-food restaurants and run-down malls. Unlike Cagayan de Oro, Iligan has no inviting places to eat, not even a decent café, and the hotel situation is no better. The only reasonably priced room I could find in the centre was in a knocking shop called Jessica Lodge, where a room that was tidy on the surface but neglected in the details, with barely noticeable air-conditioning and a sad trickle as a shower, cost 400 pesos.
+
+From Iligan I took the bus to Ozamis (125 P), a two-hour ride including a ferry crossing of a wide inlet, to the north-east coast of Mindanao. I had considered spending the night there, but in town I found nothing that convinced me to stop. So I just stopped for lunch and continued to Dapitan, which according to my guidebook is one of Mindanao’s most attractive places, a claim that, in this case, turned out to be true. The bus ride to Dapitan took another three-odd hours (220 P).
+
+When I arrived I was surprised. I had expected a proper city, the place officially calls itself the City of Dapitan, but what I found was nothing more than a sleepy, remarkably tidy little town on a long curved bay with a dark-sand beach lined with coconut palms. Judging by the number of small guesthouses and B&Bs along Sunset Boulevard on the coast, Dapitan seems to be a popular holiday or weekend destination for local tourists, though rooms are not exactly cheap.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0121.jpg" alt="Dapitan">
+      <em>Dapitan</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0122.jpg" alt="Dapitan">
+      <em>Dapitan</em>
+    </figure>
+
+</div>
+
+So I was glad that I could stay in a private home with a family who offered me a room in their huge old wooden villa for 300 pesos. Naturally I accepted: I would save money, and I would also get a glimpse of how the Philippine middle class lives in a small town.  Although the house looked quite grand and the family could afford staff, the furnishings were rather simple: there was no running water and only thin mattresses. On the plus side, they put a laptop with WiFi in my room.
+
+I spent the afternoon and evening with a walk along the beach and a fish dinner at Dapitan’s only seafood-speciality restaurant, a fairly smart affair where a stuffed bangus cost 150 pesos. Sadly, one thing the Philippines almost never has, though it would be made for it, is simple restaurants right on the beach where you can have fresh fish grilled.
+
+## 7 November 2008
+
+A tricycle took me to the ferry terminal between Dipolog and Dapitan, and I caught the big 2 pm ferry (290 P) to Dumaguete. On deck there were two-storey padded bunks, which I took full advantage of. I did not wake up until four hours later, when it was already getting dark and the lights of Dumaguete were visible not too far away.
+
+Dumaguete is considered the most pleasant provincial town in the Philippines: a not-too-large university town that, unlike many other places in the country, takes full advantage of its seaside setting. There is a well-kept waterfront promenade that is made for a stroll, and on the other side of the road a number of pleasant pubs and restaurants, often with Western management. The town’s nice atmosphere and the nearby dive sites attract an unusually large number of expats and divers by Philippine standards, which in turn gives the place a surprisingly decent food scene.
+
+<figure>
+  <img src="photos/Philippines2008-0123.jpg" alt="Dumaguete">
+  <em>Dumaguete</em>
+</figure>
+
+On my first evening I treated myself to dinner at the finest hotel in town, the Residencia al Mar, a colonial-style building on the promenade. There are two unusually elegant restaurants for a provincial town, a Japanese and a steakhouse with international cuisine. Better still, you can order from both menus, and prices, as in Dumaguete in general, are quite moderate. A plate of generous tuna sashimi cost only 100 P, and the stuffed squid Thai-style for 200 P was excellent.
+
+For nightlife in Dumaguete, you go to the Why Not, a large club with a dancefloor, live bands, karaoke lounge, Swiss restaurant and the ‘Kuhstall’ bar, where only Alpine Schlager is played. Very bizarre, and the vibe falls somewhere between village disco and pick-up joint for hormonally driven pensioners, but the place is popular with locals and tourists alike because something is happening here every day until late. The music may be pretty mediocre, but you can have a lot of fun here, at least if you are drinking.
+
+I stayed at the OK Pension, which had fairly cheap but very dark, slightly run-down rooms with air-conditioning and private bathroom (385 P). The biggest advantage of this hotel was its location right opposite Dumaguete’s best breakfast place, Qyosko, where you not only get the best cappuccino in town (45 P) but also very cheap and reasonably tasty Filipino specialities such as tuna sisig or longsilog.
+
+<figure>
+  <img src="photos/Philippines2008-0132.jpg" alt="Dumaguete">
+  <em>Dumaguete</em>
+</figure>
+
+After another day spent strolling leisurely through the town’s streets, I took the speedboat to Siquijor on Saturday lunchtime (160 P, scheduled to take 45 minutes). Because of engine trouble this boat was more than two hours late, which turned out to be a blessing in disguise: while waiting I met a Norwegian who lives on Siquijor with his Filipino family. He offered to let me stay in his house for free, for as long as I liked.
+
+So I not only had free accommodation, I also had the chance to live with locals again: a simple, wonderfully friendly fisherman family who immediately accepted me as part of their circle. My contribution to expenses was to buy fresh fish or meat at the market; naturally, they cooked for me too.
+
+On Saturdays in Siquijor, the pleasant little main town of the island, there is ‘disco’ with a live band at Das Traum, a simple, cheap outdoor pub by the pier. A bottle of SM costs 27 P and a bottle of Tanduay rum not much more, so half the village comes to drink and dance and the fiesta runs late into the night. As a Western tourist, and one who dances, you are a big attraction here, and thanks to the friendly locals and the relaxed atmosphere I fell in love with the island immediately.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0124.jpg" alt="Siquijor">
+      <em>Siquijor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0125.jpg" alt="Siquijor">
+      <em>Siquijor</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Philippines2008-0126.jpg" alt="Siquijor">
+  <em>Siquijor</em>
+</figure>
+
+Since I also hardly had to spend any money here, I stayed a whole week on Siquijor. And when I was not spending time with the family, being dragged along to some barangay or school fiesta, or going fishing with Thorstein and the father, I explored the island at a relaxed pace by motorbike.
+
+Siquijor not only has a wonderfully laid-back atmosphere, it also has plenty to offer non-divers, scenery-wise. A 70 km ring road, in quite a decent state and with very little traffic, runs around the island, and there is also a mostly paved little road that cuts across the hilly interior. Oddly, the beaches on the west and north coasts, where almost all resorts (mostly geared to divers) are located, are the least attractive: mostly shallow and unremarkable. The most beautiful coastal scenery and the prettiest beaches, often small coves with white sand, can be found on the still almost undeveloped east coast.
+
+<figure>
+  <img src="photos/Philippines2008-0131.jpg" alt="Siquijor">
+  <em>Siquijor</em>
+</figure>
+
+<figure>
+  <img src="photos/Philippines2008-0140.jpg" alt="Siquijor - Paliton">
+  <em>Siquijor - Paliton</em>
+</figure>
+
+One is Salag-Doong Beach near Maria: two picturesque, crescent-shaped coves separated by a small cliff, from which you can jump from about ten metres into the cool water, great fun. There are a few picnic huts and simple bungalows on this beach where you can also stay.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0128.jpg" alt="Siquijor">
+      <em>Siquijor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0129.jpg" alt="Siquijor">
+      <em>Siquijor</em>
+    </figure>
+
+</div>
+
+Completely deserted, by contrast, is Kagusua Beach, a few kilometres off the ring road on a peninsula in the far south-east of the island. Kagusua consists of several stretches of beach separated by picturesque rock formations, with brilliantly white sand, and is only reachable from the car park via a steep stairway path.
+
+<figure>
+  <img src="photos/Philippines2008-0127.jpg" alt="Siquijor - Kagusuan Beach">
+  <em>Siquijor - Kagusuan Beach</em>
+</figure>
+
+Also in the south-east of the island, near Lazi, there is a small but very pretty multi-tiered waterfall whose turquoise-green pools are perfect for a cool swim. The village of San Juan makes a good stop, because there is a small park with a free spring-fed swimming pool, and also Hollyette’s on the beach, a German-run café with a lovely sea view.
+
+<figure>
+  <img src="photos/Philippines2008-0130.jpg" alt="Siquijor - Cambuguhay Falls">
+  <em>Siquijor - Cambuguhay Falls</em>
+</figure>
+
+The road through the interior is very scenic and offers perfect motorbike terrain. At the island’s highest point there is a lookout tower (with a somewhat limited view, admittedly), and you can take pleasant walks through the mountain forest.
+
+As far as tourism goes, Siquijor is still a real insider tip, despite a few dive resorts. For those who know the island, however, it ranks among the very best the Philippines have to offer, surely also thanks to the wonderful locals and the relative peace and quiet.
+
+Since I had already spent much longer than planned on Siquijor, it did not matter that on the day of my intended departure, due to a typhoon warning, no boats ran and I had to stay another day. I had abandoned my original plan to go to Boracay and Palawan with the three weeks I had left anyway. Travel in the Philippines is simply very time-consuming, and instead of forcing myself through a stressful schedule for the rest of the trip, I have decided to spend more time on Negros and possibly go back to Siquijor for a few days, before directly flying back from Dumaguete to Manila.
+
+## 18 November 2008
+
+After deciding to focus on Negros for the rest of my time, I thought it would be a good idea to rent a motorbike for a week, something that is very cheap in Dumaguete. For 1,450 pesos I got a brand-new automatic scooter with enough foot space for my large rucksack. I left Dumaguete heading south and after about 15 km reached Dauin, a small town with the nicest beach in the wider Dumaguete area. The sand is grey-black, but the curved bay with views of Apo Island is very clean, ideal for swimming and completely deserted during the week.
+
+After another 20 km, beyond Zamboanguita, the highway left the coast to take the shortest route inland to Siaton. I turned left instead, following the signs to Cuckoo’s Nest Resort, which I had heard good things about in Dumaguete. This unpaved little road is not easy even by motorbike, but it led through untouched fishing villages and occasionally beautiful coastal scenery before ending after about 10 km at the resort.
+
+Cuckoo’s Nest, under English management, is a very remote little gem on a small bay with white sand. There are only a handful of simple but pleasant bungalows and a wonderful restaurant with somewhat expensive but good food. Unfortunately the few rooms were already fully booked, so I limited myself to lunch and then did a bit of snorkelling.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0133.jpg" alt="Southern Negros - Cookoo's Nest">
+      <em>Southern Negros - Cookoo's Nest</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0134.jpg" alt="Southern Negros - Cookoo's Nest">
+      <em>Southern Negros - Cookoo's Nest</em>
+    </figure>
+
+</div>
+
+Luckily I did not have to ride all the way back, because a few kilometres before the resort there is a back road (also a very bumpy track) to Tambobo Bay, and from there back to the highway shortly before Siaton.
+
+After another 50 km on the very well developed highway I reached Bayawan, the largest town in the area. In hindsight I should have stayed there, because the town seemed pleasant and friendly. But I thought I could still make it to Sipalay before nightfall. A mistake.
+
+While the highway behind Bayawan, up to the provincial border, was still in very good condition and followed the green, hilly coast in attractive scenery, the road quality in Negros Occidental deteriorated abruptly. For a 30-km stretch, the highway was nothing more than a bumpy gravel track through one of the most underdeveloped regions I had seen so far in the Philippines. It was, however, an interesting stretch through picturesque but visibly poor fishing villages with very friendly locals, who greet you as a motorbike-riding Westerner with a smile and a ‘Hey Joe’.
+
+<figure>
+  <img src="photos/Philippines2008-0135.jpg" alt="Southern Negros">
+  <em>Southern Negros</em>
+</figure>
+
+Shortly before Hinoba-an, when it had already started to get dark, I saw a sign for the Hidden Cove Resort: a kitschy resort aimed at domestic weekend tourism, on an unkempt beach. The rooms were very basic and far too expensive. Since I was the only guest, though, I got the cheapest room (a bed with fan) for 500 P instead of the official 700 pesos.
+
+The next morning there were still about 30 km to Sipalay. On the way there I first explored Maricalum Bay, a scenically beautiful large natural harbour to which the resorts in Sipalay offer snorkelling and diving trips. Approaching from land is less straightforward, because the road is in poor condition, but once you have made the roughly 5 km to the old harbour, you can swim beautifully in the deep, clear water.
+
+After a local breakfast in the small, quiet town of Sipalay, I rode south on a paved but in places very steep road to Punta Ballo Beach, a diver-oriented beach with a few rather expensive resorts in magnificent rugged coastal scenery. Unlike the Sugar Beach advertised in the guidebooks, Punta Ballo actually has white, or at least light yellow, sand, but it does not have that wonderful sense of total remoteness that makes Sugar Beach one of the most pleasant destinations in the Philippines.
+
+<figure>
+  <img src="photos/Philippines2008-0136.jpg" alt="Sipalay - Punta Ballo">
+  <em>Sipalay - Punta Ballo</em>
+</figure>
+
+Needlessly hyped by every available guidebook, Langub, or Sugar Beach, after an initial disappointment, became one of my absolute favourite places. Even reaching the beach is a small adventure. You can go directly from Sipalay by resort boat for 300 P, but cheaper and more interesting is the overland route via Montilla, a village on the highway 4 km north of Sipalay. From there, a track that starts out paved and then turns dusty leads to a small fishing village on the coast. Five minutes on foot north of the village you have to be ferried across the beautiful lagoon in a rowboat, and then walk another ten minutes along the beach to the resorts.
+
+Praised as an untouristy alternative to Boracay’s White Sand Beach, Sugar Beach bears no visual resemblance to the Philippines’ most famous beach. It is only about 1 km long, and you look in vain for the sparkling-white sand of rum adverts. The name Sugar Beach does make sense, because the sand has the colour and consistency of brown sugar. But even without unnecessary superlatives, the beach is beautiful: wide, lined with coconut palms, with green jungle-covered hills behind it. Because there is no road access and only a handful of simple resorts, it is the ultimate chill-out paradise, just developed enough that, even after the third day, boredom does not set in. It probably also helps if you pick the right one of the similarly priced and similarly rated resorts.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Philippines2008-0137.jpg" alt="Sipalay - Sugar Beach">
+      <em>Sipalay - Sugar Beach</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Philippines2008-0138.jpg" alt="Sipalay - Sugar Beach">
+      <em>Sipalay - Sugar Beach</em>
+    </figure>
+
+</div>
+
+I chose Driftwood Village for the simple reason that, in addition to the classic 800–1,000 P bungalows, they also offer cheaper backpacker accommodation. For 350 P you get a small, simple room with fan and mosquito net, while the facilities are very well kept and even have hot showers. What makes Driftwood Village so special, though, is the staff: all relatives of the Swiss owner’s wife, the nicest, most attentive crew I have ever come across at a resort. You can tell the girls genuinely enjoy the work, and because it was low season and there was not much to do, you always had partners for a game of pool or table football.
+
+The food at the resort was, as you would expect in such a remote place, not cheap, but excellent and authentic in flavour, both the Thai and the Western dishes, and there was fresh fish every day.
+
+Other than lying on the beach or in the hammock reading a book, you do not really have to do anything here, but if you want, there are activities. A particular highlight was a visit to a nearby waterfall with a pool, reachable only by steep, slippery paths, and a kayak tour into the silent mangroves beyond the lagoon.
+<figure>
+  <img src="photos/Philippines2008-0139.jpg" alt="Sipalay">
+  <em>Sipalay</em>
+</figure>
+
+## Currencies
+
+€1 = 63–68 pesos
+
+$1 = 43–48 pesos
