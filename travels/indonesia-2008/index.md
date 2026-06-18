@@ -27,7 +27,7 @@ After several days of waiting for the post-Christmas reopening of the Indonesian
 
 ## Day 2 – 30.12 – 75 km
 
-Luckily, the breakfast buffet included in the room price was abundant and varied, which was much needed for today’s leg of the journey, 1,300 metres of elevation gain, from the coastal lowlands to Berastagi in the Karo Highlands. The first 35 km were relatively flat, but after that, things got serious, 25 km of unrelenting, steady climbing up to a mountain pass that offered beautiful views of the lowlands. To make matters worse, the narrow, bumpy road was packed with traffic; it seemed as if half of Medan was heading for the mountains this Sunday. Essentially, it felt like city rush-hour traffic on a jungle mountain road. The scenery along the route was beautiful; it ran straight through the jungle, though the heavy traffic somewhat ruined the atmosphere. After the pass, it didn’t level out or descend towards Berastagi, as one might hope, but continued with rolling hills all the way to the centre of this visually unremarkable little town. Berastagi is popular as a getaway due to its cool climate, fruit and vegetable farms, and two volcanic craters nearby, making it a popular hiking destination. It really is cool up here; for the first time in Southeast Asia, I was actually glad the afternoon sun came out and provided some warmth. The clearer skies also improved the views of the volcanic craters. Berastagi itself is a hectic but friendly town with an interesting market and good accommodation options. I stayed at Wisma Sibayak, a charming little resort in a central location. Unfortunately, only the cheapest rooms in wooden bungalows with shared mandi (traditional Indonesian bathroom) were available, but even these were spacious, clean, and featured a large bed and veranda, all for the very affordable price of 35,000 Rp.
+Luckily, the breakfast buffet included in the room price was abundant and varied, which was much needed for today’s leg of the journey, 1,300 metres of elevation gain, from the coastal lowlands to Berastagi in the Karo Highlands. The first 35 km were relatively flat, but after that, things got serious, 25 km of unrelenting, steady climbing up to a mountain pass that offered beautiful views of the lowlands. To make matters worse, the narrow, bumpy road was packed with traffic; it seemed as if half of Medan was heading for the mountains this Sunday. Essentially, it felt like city rush-hour traffic on a jungle mountain road. The scenery along the route was beautiful; it ran straight through the jungle, though the heavy traffic somewhat ruined the atmosphere. After the pass, it didn’t level out or descend towards Berastagi, as one might hope, but continued with rolling hills all the way to the centre of this visually unremarkable little town. Berastagi is popular as a getaway due to its cool climate, fruit and vegetable farms, and two volcanic craters nearby, making it a popular hiking destination. It really is cool up here; for the first time in Southeast Asia, I was actually glad the afternoon sun came out and provided some warmth. The clearer skies also improved the views of the volcanic craters. Berastagi itself is a hectic but friendly town with an interesting market and good accommodation options.
 
 <div class="photo-row">
 
@@ -43,16 +43,20 @@ Luckily, the breakfast buffet included in the room price was abundant and varied
 
 </div>
 
+I stayed at Wisma Sibayak, a charming little resort in a central location.
+
 <figure>
   <img src="photos/Indonesia2008-0004.jpg" alt="Berastagi - Wisma Sibayak">
   <em>Berastagi - Wisma Sibayak</em>
 </figure>
 
+Unfortunately, only the cheapest rooms in wooden bungalows with shared mandi (traditional Indonesian bathroom) were available, but even these were spacious, clean, and featured a large bed and veranda, all for the very affordable price of 35,000 Rp.
+
 ## Day 3 – 31.12 – 112 km
 
 Berastagi – Merek – Parapat – Tuk-Tuk
 
-Going from Berastagi to Parapat, from 1,300 m down to 900 m, might sound like an easy ride, but today was just as exhausting as yesterday. The first 12 km to Kabanjahe were mostly downhill, but after that, the road conditions deteriorated significantly, and the ride to Merek was a series of endless hills. Merek itself was a chaotic market town where I turned east towards Parapat. The first kilometres on this road were in terrible condition, full of potholes that made it impossible to move quickly. Thankfully, the second section of the route, along the north side of Lake Toba, was newly paved, allowing for a much smoother ride. The 50 km stretch on this narrow, quiet road high above the lake was stunning, with breathtaking views of the vast, sparkling lake and the mountains of Samosir Island. However, it was also brutal, full of long climbs and descents. Determined to reach Samosir before dark, I pushed myself too hard and was completely exhausted by the time I reached the main highway. From there, the last 8 km descended in winding switchbacks to Parapat on the lake shore. I arrived at the ferry terminal at exactly 5:58 PM, hoping to catch the 6:00 PM ferry, only to discover that the departure times here are more of a suggestion; the ferry had already left. So, I had to wait over an hour for the next one. Staying overnight in Parapat was not an option, as this moderately attractive yet beautifully located town was packed with holidaymakers for New Year’s Eve, and all rooms were fully booked. So, I had no choice but to take the 7:30 PM ferry (10,000 Rp) to Tuk-Tuk in the dark, a fortunate turn of events. Sailing across Lake Toba on a warm, starry night, with fireworks lighting up both shores, was an unforgettable experience. Naturally, most hotels in Tuk-Tuk were also full of Indonesian holiday tourists, but after several failed attempts, I finally found a cottage at Tony’s, at the far northwest end of the peninsula. It wasn’t the classic Batak house by the lake that I had envisioned, but tonight was not a night for being picky. The cottage was situated on a hillside across the road, a bit worn but very spacious, with a private bathroom, sitting area, and some traditional décor. Normally, such a room would cost just 30,000 Rp, but given the peak season, 75,000 Rp felt like a fair price, especially since the place is mostly empty for the rest of the year.
+Going from Berastagi to Parapat, from 1,300 m down to 900 m, might sound like an easy ride, but today was just as exhausting as yesterday. The first 12 km to Kabanjahe were mostly downhill, but after that, the road conditions deteriorated significantly, and the ride to Merek was a series of endless hills. Merek itself was a chaotic market town where I turned east towards Parapat. The first kilometres on this road were in terrible condition, full of potholes that made it impossible to move quickly. Thankfully, the second section of the route, along the north side of Lake Toba, was newly paved, allowing for a much smoother ride. The 50 km stretch on this narrow, quiet road high above the lake was stunning, with breathtaking views of the vast, sparkling lake and the mountains of Samosir Island.
 
 <div class="photo-row">
 
@@ -82,9 +86,11 @@ Going from Berastagi to Parapat, from 1,300 m down to 900 m, might sound like an
 
 </div>
 
+However, it was also brutal, full of long climbs and descents. Determined to reach Samosir before dark, I pushed myself too hard and was completely exhausted by the time I reached the main highway. From there, the last 8 km descended in winding switchbacks to Parapat on the lake shore. I arrived at the ferry terminal at exactly 5:58 PM, hoping to catch the 6:00 PM ferry, only to discover that the departure times here are more of a suggestion; the ferry had already left. So, I had to wait over an hour for the next one. Staying overnight in Parapat was not an option, as this moderately attractive yet beautifully located town was packed with holidaymakers for New Year’s Eve, and all rooms were fully booked. So, I had no choice but to take the 7:30 PM ferry (10,000 Rp) to Tuk-Tuk in the dark, a fortunate turn of events. Sailing across Lake Toba on a warm, starry night, with fireworks lighting up both shores, was an unforgettable experience. Naturally, most hotels in Tuk-Tuk were also full of Indonesian holiday tourists, but after several failed attempts, I finally found a cottage at Tony’s, at the far northwest end of the peninsula. It wasn’t the classic Batak house by the lake that I had envisioned, but tonight was not a night for being picky. The cottage was situated on a hillside across the road, a bit worn but very spacious, with a private bathroom, sitting area, and some traditional décor. Normally, such a room would cost just 30,000 Rp, but given the peak season, 75,000 Rp felt like a fair price, especially since the place is mostly empty for the rest of the year.
+
 ## Days 4-5 – 1-2 January – 46 km
 
-I spent two days on Samosir Island, a place where I could have easily stayed for weeks. On New Year's Day, I woke up around 9 AM with a slight hangover. But one look out of the large window of my cottage was enough to wake me up instantly. The view was breathtaking: a tropical green mountain range bathed in sunlight, glowing rice fields, and the shimmering deep blue lake, a picture-perfect tropical paradise. Until about ten years ago, the Tuk-Tuk Peninsula was one of Southeast Asia’s most popular travel destinations, where generations of travellers enjoyed the laid-back atmosphere and pleasant climate. However, after various natural and geopolitical disasters in the first decade of this millennium, tourism almost completely collapsed. As a result, some hotels had to close or were never even finished. And while the worst seems to be over, there were still surprisingly few Western tourists here, even over New Year's. The remaining accommodations now rely on local holidaymakers and weekend visitors, but even when almost all rooms are occupied, Tuk-Tuk feels far from crowded. Many of the numerous bars and restaurants remain half-empty, and after a few walks along the main road, you start recognizing almost every Westerner by sight. Yet, Tuk-Tuk has everything a traveller’s heart desires: stunning scenery, a wonderfully relaxed atmosphere, extremely affordable and comfortable accommodations, great swimming spots in the clear, pleasantly warm lake, and last but not least, the Batak people, an incredibly friendly community. They seem to treat tourism as more of a side business, making you feel more like a temporary part of the community rather than just a source of income, no sign of scams or rip-offs, despite the dramatic decline in visitor numbers over the past years. Since most Bataks are nominally Christian, alcohol flows freely here, so you don’t have to give up anything. Tuk-Tuk is one of those places best enjoyed by doing nothing at all, just getting a nice room by the lake, reading a few good books, cooling off in the water from time to time, and finding a cosy restaurant in the evening. However, Samosir is also great for cycling. At least to the north, the road is in good condition and not too hilly, allowing for a relaxed ride through friendly villages with occasional refreshing dips in the lake. On the second day, I switched accommodations to be directly by the water. At Lekjan Resort, I got a large room with a balcony and a hot shower on the second floor of a traditional Batak house for 50,000 Rp. Since the resort had a well-maintained swimming area with a grassy shoreline, I borrowed a book from the library and left my bike behind for the day.
+I spent two days on Samosir Island, a place where I could have easily stayed for weeks. On New Year's Day, I woke up around 9 AM with a slight hangover. But one look out of the large window of my cottage was enough to wake me up instantly. The view was breathtaking: a tropical green mountain range bathed in sunlight, glowing rice fields, and the shimmering deep blue lake, a picture-perfect tropical paradise.
 
 <div class="photo-row">
 
@@ -114,50 +120,54 @@ I spent two days on Samosir Island, a place where I could have easily stayed for
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Indonesia2008-0013.jpg" alt="Lake Toba">
+  <em>Lake Toba</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0013.jpg" alt="Lake Toba">
-      <em>Lake Toba</em>
-    </figure>
+Until about ten years ago, the Tuk-Tuk Peninsula was one of Southeast Asia’s most popular travel destinations, where generations of travellers enjoyed the laid-back atmosphere and pleasant climate. However, after various natural and geopolitical disasters in the first decade of this millennium, tourism almost completely collapsed. As a result, some hotels had to close or were never even finished. And while the worst seems to be over, there were still surprisingly few Western tourists here, even over New Year's. The remaining accommodations now rely on local holidaymakers and weekend visitors, but even when almost all rooms are occupied, Tuk-Tuk feels far from crowded. Many of the numerous bars and restaurants remain half-empty, and after a few walks along the main road, you start recognizing almost every Westerner by sight. Yet, Tuk-Tuk has everything a traveller’s heart desires: stunning scenery, a wonderfully relaxed atmosphere, extremely affordable and comfortable accommodations, great swimming spots in the clear, pleasantly warm lake, and last but not least, the Batak people, an incredibly friendly community. They seem to treat tourism as more of a side business, making you feel more like a temporary part of the community rather than just a source of income, no sign of scams or rip-offs, despite the dramatic decline in visitor numbers over the past years. Since most Bataks are nominally Christian, alcohol flows freely here, so you don’t have to give up anything. Tuk-Tuk is one of those places best enjoyed by doing nothing at all, just getting a nice room by the lake, reading a few good books, cooling off in the water from time to time, and finding a cosy restaurant in the evening. However, Samosir is also great for cycling. At least to the north, the road is in good condition and not too hilly, allowing for a relaxed ride through friendly villages with occasional refreshing dips in the lake. On the second day, I switched accommodations to be directly by the water. At Lekjan Resort, I got a large room with a balcony and a hot shower on the second floor of a traditional Batak house for 50,000 Rp.
+
+<div class="photo-row">
 
   <figure>
       <img src="photos/Indonesia2008-0014.jpg" alt="Lake Toba - Lekjon Cottages">
       <em>Lake Toba - Lekjon Cottages</em>
     </figure>
 
+  <figure>
+      <img src="photos/Indonesia2008-0015.jpg" alt="Lake Toba - Lekjon Cottages">
+      <em>Lake Toba - Lekjon Cottages</em>
+    </figure>
+
 </div>
 
-<figure>
-  <img src="photos/Indonesia2008-0015.jpg" alt="Lake Toba - Lekjon Cottages">
-  <em>Lake Toba - Lekjon Cottages</em>
-</figure>
+Since the resort had a well-maintained swimming area with a grassy shoreline, I borrowed a book from the library and left my bike behind for the day.
 
 ## Day 6 – 3 January – 108 km
 
 Tuk-Tuk – Parapat – Balige – Tarutung
 
-Shortly after 8:30 AM, I took the first boat back to Parapat. Since the ferry stopped at nearly every pier along the Tuk-Tuk coast to pick up passengers, the ride took over an hour. However, it was a great opportunity to enjoy the peninsula from a different perspective one last time. Just before 10 AM, I set off from Parapat, following the Trans-Sumatra Highway towards Padang. On Sumatra, 'highway' doesn’t imply speed; it merely means the main connection road, a narrow, twisting line through the mountains. Traffic was much lighter than between Medan and Berastagi, but cycling on Sumatra is by no means a walk in the park. From Parapat, the road climbed steeply for about 10 km in winding switchbacks before leveling out into rolling hills for another 10 km. This was followed by a 10 km descent, which I had to take carefully due to the numerous potholes. Some were so large and deep that a single lapse in attention could have ended my journey right there. The next 30 km to the first larger town, Balige, along the shore of Lake Toba, were relatively flat and, despite some rough patches, easy to cover quickly. From there, the road headed south into the mountains, a steady but manageable 15 km climb. About 10 km past Balige, there was a viewpoint offering one last, stunning view of Lake Toba. The final 30 km to Tarutung were still quite hilly but mostly downhill, if only it weren’t for the potholes. Scenically, the route was beautiful, with mountains and lush green rice fields, and the locals were generally very friendly. As a cycling tourist, I was a huge attraction here, of course. Tarutung is a well-maintained and relatively attractive small town (by local standards), situated along a river that flows through a long, wide valley. There are a few nice, simple eateries by the river, including Café William, which served good food (Special Mee Goreng with shrimp and chicken for 13,000 Rp) and excellent fresh fruit juices. I spent the night near the first bridge on the eastern riverbank at Perdana Hotel, which seemed to be the better option among the two hotels in town. It was a relatively well-kept motel with rooms arranged around a courtyard. My room was actually quite charming, though slightly worn-out, featuring a large, comfortable bed, thick blankets, and a simple mandi (a traditional Indonesian water basin for bathing) for 100,000 Rp. I couldn’t yet judge whether this was a fair price, as I was still unfamiliar with pricing in Indonesian provincial hotels. Cheaper rooms without a private bathroom were also available. One thing I did realize today: after a tough day of cycling, a cool mandi bucket shower is an absolute blessing, far better than the sad trickles that pass for showers in some other countries.
+Shortly after 8:30 AM, I took the first boat back to Parapat. Since the ferry stopped at nearly every pier along the Tuk-Tuk coast to pick up passengers, the ride took over an hour. However, it was a great opportunity to enjoy the peninsula from a different perspective one last time. Just before 10 AM, I set off from Parapat, following the Trans-Sumatra Highway towards Padang. On Sumatra, 'highway' doesn’t imply speed; it merely means the main connection road, a narrow, twisting line through the mountains. Traffic was much lighter than between Medan and Berastagi, but cycling on Sumatra is by no means a walk in the park. From Parapat, the road climbed steeply for about 10 km in winding switchbacks before leveling out into rolling hills for another 10 km. This was followed by a 10 km descent, which I had to take carefully due to the numerous potholes. Some were so large and deep that a single lapse in attention could have ended my journey right there. The next 30 km to the first larger town, Balige, along the shore of Lake Toba, were relatively flat and, despite some rough patches, easy to cover quickly. From there, the road headed south into the mountains, a steady but manageable 15 km climb. About 10 km past Balige, there was a viewpoint offering one last, stunning view of Lake Toba.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Indonesia2008-0016.jpg" alt="Lake Toba">
+  <em>Lake Toba</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0016.jpg" alt="Lake Toba">
-      <em>Lake Toba</em>
-    </figure>
+The final 30 km to Tarutung were still quite hilly but mostly downhill, if only it weren’t for the potholes. Scenically, the route was beautiful, with mountains and lush green rice fields, and the locals were generally very friendly. As a cycling tourist, I was a huge attraction here, of course. Tarutung is a well-maintained and relatively attractive small town (by local standards), situated along a river that flows through a long, wide valley.
 
-  <figure>
-      <img src="photos/Indonesia2008-0017.jpg" alt="Tarutung">
-      <em>Tarutung</em>
-    </figure>
+<figure>
+  <img src="photos/Indonesia2008-0017.jpg" alt="Tarutung">
+  <em>Tarutung</em>
+</figure>
 
-</div>
+There are a few nice, simple eateries by the river, including Café William, which served good food (Special Mee Goreng with shrimp and chicken for 13,000 Rp) and excellent fresh fruit juices. I spent the night near the first bridge on the eastern riverbank at Perdana Hotel, which seemed to be the better option among the two hotels in town. It was a relatively well-kept motel with rooms arranged around a courtyard. My room was actually quite charming, though slightly worn-out, featuring a large, comfortable bed, thick blankets, and a simple mandi (a traditional Indonesian water basin for bathing) for 100,000 Rp. I couldn’t yet judge whether this was a fair price, as I was still unfamiliar with pricing in Indonesian provincial hotels. Cheaper rooms without a private bathroom were also available. One thing I did realize today: after a tough day of cycling, a cool mandi bucket shower is an absolute blessing, far better than the sad trickles that pass for showers in some other countries.
 
 ## Day 7 – 4 January – 79 km
 
 Tarutung – Sipirok
 
-Today was another consistently mountainous day, with no flat sections at all, essentially a roller-coaster ride on the Trans-Sumatra Highway, whose condition on this stretch was significantly worse than yesterday. The first 50 km or so trended downhill, and while there were no dramatically long, steep climbs heading south, the final stretch before Sipirok featured a climb spanning several kilometres, with steep sections and areas where cycling was simply impossible due to the road conditions. The highway was already rough, bumpy, and full of potholes, but today, at regular intervals, the paved road inexplicably vanished, leaving behind sand, stones, and gravel. One of these sections was so long and steep that, in rainy conditions, a cable winch is used to pull vehicles uphill. Scenically, the route once again passed through beautiful mountain landscapes, with simple villages lining the roadside. Beyond the rundown town of Sipirok, the road continued to climb. After about 5 km, I reached the Tor Sibohi Nauli Resort, situated amid stunning nature with expansive views of the surrounding mountains. I decided to stay there. Though it was only 3:30 PM, a nasty storm was brewing. While a tropical downpour can be refreshing in the lowlands, in the mountains, getting drenched on a bike is an entirely different, and much colder, experience. Besides, the next town was still 30 km away. Thus, I ended up in what was, by local standards, a proper luxury resort, complete with a pool. For 175,000 Rp, I got a massive chalet featuring a sitting area, a carpeted living and sleeping space with comfortable beds, fully panelled wooden walls, and a real Western-style bathroom with hot water and a bathtub. Of course, luxury in Sumatra does not necessarily mean that everything works perfectly. Most tourist accommodations on the island were built over a decade ago during the tourism boom and have since been neglected due to declining visitor numbers. As a result, rooms always have a slightly worn-out feel, and it took me hours to finally get hot water for a bath. Still, given the price, there was little reason to complain, and in the end, the bath was truly wonderful. The resort’s restaurant served good, affordable satay and krupuk. However, I was the only guest, on a Friday during the holiday season, in a place with 72 rooms!
+Today was another consistently mountainous day, with no flat sections at all, essentially a roller-coaster ride on the Trans-Sumatra Highway, whose condition on this stretch was significantly worse than yesterday. The first 50 km or so trended downhill, and while there were no dramatically long, steep climbs heading south, the final stretch before Sipirok featured a climb spanning several kilometres, with steep sections and areas where cycling was simply impossible due to the road conditions. The highway was already rough, bumpy, and full of potholes, but today, at regular intervals, the paved road inexplicably vanished, leaving behind sand, stones, and gravel. One of these sections was so long and steep that, in rainy conditions, a cable winch is used to pull vehicles uphill. Scenically, the route once again passed through beautiful mountain landscapes, with simple villages lining the roadside.
 
 <div class="photo-row">
 
@@ -172,6 +182,8 @@ Today was another consistently mountainous day, with no flat sections at all, es
     </figure>
 
 </div>
+
+Beyond the rundown town of Sipirok, the road continued to climb. After about 5 km, I reached the Tor Sibohi Nauli Resort, situated amid stunning nature with expansive views of the surrounding mountains.
 
 <div class="photo-row">
 
@@ -206,6 +218,8 @@ Today was another consistently mountainous day, with no flat sections at all, es
   <em>Tor Sibohi Nauli Resort</em>
 </figure>
 
+I decided to stay there. Though it was only 3:30 PM, a nasty storm was brewing. While a tropical downpour can be refreshing in the lowlands, in the mountains, getting drenched on a bike is an entirely different, and much colder, experience. Besides, the next town was still 30 km away. Thus, I ended up in what was, by local standards, a proper luxury resort, complete with a pool. For 175,000 Rp, I got a massive chalet featuring a sitting area, a carpeted living and sleeping space with comfortable beds, fully panelled wooden walls, and a real Western-style bathroom with hot water and a bathtub. Of course, luxury in Sumatra does not necessarily mean that everything works perfectly. Most tourist accommodations on the island were built over a decade ago during the tourism boom and have since been neglected due to declining visitor numbers. As a result, rooms always have a slightly worn-out feel, and it took me hours to finally get hot water for a bath. Still, given the price, there was little reason to complain, and in the end, the bath was truly wonderful. The resort’s restaurant served good, affordable satay and krupuk. However, I was the only guest, on a Friday during the holiday season, in a place with 72 rooms!
+
 ## Day 8 – 5 January – 148 km
 
 Sipirok – Padangsidempuan – Panyabunang – Kota Nopan
@@ -222,7 +236,7 @@ Today’s route was incredibly scenic, passing through remote jungle valleys, of
 
 Lubuk Sikaping – Bukittinggi
 
-My last stage on the Trans-Sumatra Highway, and it was quite a challenge. Although it was only 77 km to Bukittinggi, after an initial descent, an estimated 50 km was uphill, with absolutely no flat sections. The road wound its way up through narrow valleys, over multiple hill ridges, with only short descents after each climb, only to start the same game all over again. Bukittinggi, probably Sumatra's most pleasant city and the biggest tourist attraction after Lake Toba, sits at almost 1,000 metres above sea level, surrounded by towering volcanoes nearly 3,000 metres high and lush green hills as far as the eye can see. Unfortunately, today’s weather didn’t allow for a great view, but I could still get an idea of how beautifully the city is located. There are plenty of viewpoints in this hilly town. But what I also liked was Bukittinggi itself. It feels like the locals know they live in Sumatra’s nicest and most relaxed town, and that gives the place a positive vibe, enhanced by its pleasant climate and general cleanliness (yes, Bukittinggi actually has public litter bins, something I haven’t seen anywhere else here). There isn’t much to do in the city, but it’s enjoyable just to stroll through the streets and take in the occasional breathtaking views. Surprisingly, Bukittinggi offers diverse shopping options and several internet cafés, a rare find in rural Sumatra. Tourism, however, is nearly dead. The city’s infrastructure, with numerous hotels and even a few classic traveller cafés, suggests that Bukittinggi was once a popular backpacker destination, but those days are long gone. Today, for the first time since Lake Toba, I did see some Western tourists, but there were no more than a handful. With the local New Year’s holiday over, accommodations were widely available, and I probably could have bargained the price down. However, I genuinely feel sorry for the hoteliers, café owners, and guides struggling with the lack of tourists, so I’m always willing to pay a fair price. I stayed at the Khartini Hotel, which seemed to be the best budget option, featuring a lovingly decorated, well-maintained lobby. My room was worth every bit of the 100,000 Rp: a very clean space with a large bed, hot shower, Western toilet, and a private veranda with a view. The only downside was the mosque across the street, but the calls to prayer echo throughout the city centre anyway, so setting an alarm wasn’t necessary. Since nightlife here is virtually nonexistent, waking up with the muezzin isn’t the worst thing.
+My last stage on the Trans-Sumatra Highway, and it was quite a challenge. Although it was only 77 km to Bukittinggi, after an initial descent, an estimated 50 km was uphill, with absolutely no flat sections. The road wound its way up through narrow valleys, over multiple hill ridges, with only short descents after each climb, only to start the same game all over again. Bukittinggi, probably Sumatra's most pleasant city and the biggest tourist attraction after Lake Toba, sits at almost 1,000 metres above sea level, surrounded by towering volcanoes nearly 3,000 metres high and lush green hills as far as the eye can see.
 
 <div class="photo-row">
 
@@ -252,11 +266,13 @@ My last stage on the Trans-Sumatra Highway, and it was quite a challenge. Althou
 
 </div>
 
+Unfortunately, today’s weather didn’t allow for a great view, but I could still get an idea of how beautifully the city is located. There are plenty of viewpoints in this hilly town. But what I also liked was Bukittinggi itself. It feels like the locals know they live in Sumatra’s nicest and most relaxed town, and that gives the place a positive vibe, enhanced by its pleasant climate and general cleanliness (yes, Bukittinggi actually has public litter bins, something I haven’t seen anywhere else here). There isn’t much to do in the city, but it’s enjoyable just to stroll through the streets and take in the occasional breathtaking views. Surprisingly, Bukittinggi offers diverse shopping options and several internet cafés, a rare find in rural Sumatra. Tourism, however, is nearly dead. The city’s infrastructure, with numerous hotels and even a few classic traveller cafés, suggests that Bukittinggi was once a popular backpacker destination, but those days are long gone. Today, for the first time since Lake Toba, I did see some Western tourists, but there were no more than a handful. With the local New Year’s holiday over, accommodations were widely available, and I probably could have bargained the price down. However, I genuinely feel sorry for the hoteliers, café owners, and guides struggling with the lack of tourists, so I’m always willing to pay a fair price. I stayed at the Khartini Hotel, which seemed to be the best budget option, featuring a lovingly decorated, well-maintained lobby. My room was worth every bit of the 100,000 Rp: a very clean space with a large bed, hot shower, Western toilet, and a private veranda with a view. The only downside was the mosque across the street, but the calls to prayer echo throughout the city centre anyway, so setting an alarm wasn’t necessary. Since nightlife here is virtually nonexistent, waking up with the muezzin isn’t the worst thing.
+
 ## Day 11 – 8.1 – 56 km
 
 Bukittinggi – Maninjau
 
-I had originally planned today as a 'post-TSH' rest day, but the 40 km to Lake Maninjau were tougher than expected. Exiting Bukittinggi, I followed the main road towards Padang for about 5 km before turning right onto the strangely unmarked road to Maninjau. The route began with gentle hills but soon transformed into steep switchbacks leading up a mountain pass. After the summit, a shorter descent provided stunning views of the picturesque highlands of West Sumatra. Reaching the valley floor, the road became hilly again, mostly climbing, up to 1,100 metres at the edge of the mountain range encircling Lake Maninjau. What followed was a dramatic 10 km descent with 44 numbered hairpin turns, winding through breathtaking rice terraces down to the lakeshore, 600 metres below. The views of the lake were spectacular, but the road was overrun with hundreds of monkeys, making me hesitant to stop and take pictures; those creatures can be quite aggressive. With its postcard-perfect landscape and mild climate, Lake Maninjau would undoubtedly be an overrun tourist hotspot anywhere else in Southeast Asia. But like much of Sumatra, tourism here is practically nonexistent. In the village of Maninjau, I found a few traveller cafés, but when I wanted to grab a drink, they were completely deserted. The two bungalow resorts I checked out in Bayur, the 'main tourist hub' a few kilometres north, were both entirely empty. Even after cycling around the area a bit, I didn’t see a single other tourist today. And yet, this place is stunning; you can swim in the lake, and the infrastructure for visitors is in place. Between Maninjau and Bayur, there’s even a stylish restaurant, the Waterfront Zalino, offering a fantastic lake view, a pool, and a lawn for sunbathing. I had an excellent dinner here, not just the usual fare, but delicious venison satay with Indonesian-style roasted potatoes. The Bayur bungalows are only accessible via narrow footpaths through the rice fields, a few hundred metres off the main road. But once you reach the lakefront, it’s pure tranquility. I stayed at the Beach Inn, run by friendly, unobtrusive locals. Each pair of rooms shares a bathroom with a shower and a Western toilet, not an issue when you’re the only guest. The large, comfortable bed alone was worth the 40,000 Rp.
+I had originally planned today as a 'post-TSH' rest day, but the 40 km to Lake Maninjau were tougher than expected. Exiting Bukittinggi, I followed the main road towards Padang for about 5 km before turning right onto the strangely unmarked road to Maninjau. The route began with gentle hills but soon transformed into steep switchbacks leading up a mountain pass. After the summit, a shorter descent provided stunning views of the picturesque highlands of West Sumatra.
 
 <div class="photo-row">
 
@@ -272,38 +288,40 @@ I had originally planned today as a 'post-TSH' rest day, but the 40 km to Lake M
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Indonesia2008-0031.jpg" alt="Around Bukittinggi">
+  <em>Around Bukittinggi</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0031.jpg" alt="Around Bukittinggi">
-      <em>Around Bukittinggi</em>
-    </figure>
+Reaching the valley floor, the road became hilly again, mostly climbing, up to 1,100 metres at the edge of the mountain range encircling Lake Maninjau. What followed was a dramatic 10 km descent with 44 numbered hairpin turns, winding through breathtaking rice terraces down to the lakeshore, 600 metres below. The views of the lake were spectacular, but the road was overrun with hundreds of monkeys, making me hesitant to stop and take pictures; those creatures can be quite aggressive.
+
+<div class="photo-row">
 
   <figure>
       <img src="photos/Indonesia2008-0032.jpg" alt="Lake Maninjau">
       <em>Lake Maninjau</em>
     </figure>
 
-</div>
-
-<div class="photo-row">
-
   <figure>
       <img src="photos/Indonesia2008-0033.jpg" alt="Lake Maninjau">
-      <em>Lake Maninjau</em>
-    </figure>
-
-  <figure>
-      <img src="photos/Indonesia2008-0034.jpg" alt="Lake Maninjau">
       <em>Lake Maninjau</em>
     </figure>
 
 </div>
 
 <figure>
+  <img src="photos/Indonesia2008-0034.jpg" alt="Lake Maninjau">
+  <em>Lake Maninjau</em>
+</figure>
+
+With its postcard-perfect landscape and mild climate, Lake Maninjau would undoubtedly be an overrun tourist hotspot anywhere else in Southeast Asia. But like much of Sumatra, tourism here is practically nonexistent. In the village of Maninjau, I found a few traveller cafés, but when I wanted to grab a drink, they were completely deserted. The two bungalow resorts I checked out in Bayur, the 'main tourist hub' a few kilometres north, were both entirely empty. Even after cycling around the area a bit, I didn’t see a single other tourist today. And yet, this place is stunning; you can swim in the lake, and the infrastructure for visitors is in place. Between Maninjau and Bayur, there’s even a stylish restaurant, the Waterfront Zalino, offering a fantastic lake view, a pool, and a lawn for sunbathing.
+
+<figure>
   <img src="photos/Indonesia2008-0035.jpg" alt="Lake Maninjau - Waterfront Zalino">
   <em>Lake Maninjau - Waterfront Zalino</em>
 </figure>
+
+I had an excellent dinner here, not just the usual fare, but delicious venison satay with Indonesian-style roasted potatoes. The Bayur bungalows are only accessible via narrow footpaths through the rice fields, a few hundred metres off the main road. But once you reach the lakefront, it’s pure tranquility. I stayed at the Beach Inn, run by friendly, unobtrusive locals. Each pair of rooms shares a bathroom with a shower and a Western toilet, not an issue when you’re the only guest. The large, comfortable bed alone was worth the 40,000 Rp.
 
 ## Day 12 9.1
 
@@ -313,7 +331,7 @@ I took a proper rest day today, spending most of it reading at the resort. The o
 
 Maninjau – Lubuk Basung – Tiku – Pariaman – Padang
 
-It was a beautiful sunny day, and the views of the lake were once again breathtaking. I cycled the 10 km around the northern shore before turning right towards the coast. A 15 km descent followed through a scenic valley, reaching the coastal plain at Lubuk Basung. The first 40 km between Tiku and Pariaman ran close to the sea, offering occasional glimpses of the sparkling blue Indian Ocean, though the grey beaches weren’t particularly inviting. The rest of the route to Padang stayed further inland, but the road remained flat, and its surface was much better than the Trans-Sumatra Highway. However, traffic increased significantly approaching Padang. West Sumatra’s capital, the island’s third-largest city, appears hectic, unattractive, and faceless at first glance. But upon closer exploration, it has its charms. Padang is a friendly, swelteringly hot tropical port city with a long, coconut palm-lined beach promenade, perfect for evening strolls and sunset watching. There's also an old quarter by the picturesque river south of the chaotic, architecturally uninspiring centre, though it’s quite run-down. Padang is best known for its cuisine, particularly the rich beef or buffalo coconut curry, Rendang, and the creamy chicken curry, Kalio Ayam. Even more famous than the dishes themselves is the unique way meals are served in Padang restaurants. There’s no menu (convenient for non-Indonesian speakers); instead, multiple dishes are brought to the table, and you simply eat what you want, paying only for what you consume. Accompanying every meal are rice, water spinach, and chili sauce, though the latter is hardly necessary, as Padang cuisine is already quite spicy. Even though this style of eating isn’t ideal when you’re on your own, and I’d already had Padang food several times on the trip, I couldn’t very well be in Padang without trying one of the city’s best-known places, Simpang Raya. It held no surprises, and I’ve definitely eaten better, but at 7,000 rupiah a plate it did the job. In general, though, even if there are a few truly delicious dishes, I’m not a huge fan of Padang food. Padang is far from being a tourist city, despite having an international airport, so accommodation is mostly aimed at locals, either very cheap and terrible or quite expensive and decent. I found a reasonable option at Immanuel Hotel, where a large but somewhat neglected double room with a shower, Western toilet, and the unnecessary luxury of air conditioning cost 120,000 Rp after a discount. Anyone with a soft spot for pink beds and dried-flower bouquets will be in their element here. After over 1,000 km, I had my first flat tire today; fortunately, I was already in Padang. Finding a new 28-inch tube here seems difficult, but plenty of old-school repairmen, using fire pits and vices, can patch one up for 5,000 Rp.
+It was a beautiful sunny day, and the views of the lake were once again breathtaking.
 
 <div class="photo-row">
 
@@ -328,6 +346,8 @@ It was a beautiful sunny day, and the views of the lake were once again breathta
     </figure>
 
 </div>
+
+I cycled the 10 km around the northern shore before turning right towards the coast. A 15 km descent followed through a scenic valley, reaching the coastal plain at Lubuk Basung. The first 40 km between Tiku and Pariaman ran close to the sea, offering occasional glimpses of the sparkling blue Indian Ocean, though the grey beaches weren’t particularly inviting. The rest of the route to Padang stayed further inland, but the road remained flat, and its surface was much better than the Trans-Sumatra Highway. However, traffic increased significantly approaching Padang. West Sumatra’s capital, the island’s third-largest city, appears hectic, unattractive, and faceless at first glance. But upon closer exploration, it has its charms. Padang is a friendly, swelteringly hot tropical port city with a long, coconut palm-lined beach promenade, perfect for evening strolls and sunset watching.
 
 <div class="photo-row">
 
@@ -348,11 +368,13 @@ It was a beautiful sunny day, and the views of the lake were once again breathta
   <em>Padang</em>
 </figure>
 
+There's also an old quarter by the picturesque river south of the chaotic, architecturally uninspiring centre, though it’s quite run-down. Padang is best known for its cuisine, particularly the rich beef or buffalo coconut curry, Rendang, and the creamy chicken curry, Kalio Ayam. Even more famous than the dishes themselves is the unique way meals are served in Padang restaurants. There’s no menu (convenient for non-Indonesian speakers); instead, multiple dishes are brought to the table, and you simply eat what you want, paying only for what you consume. Accompanying every meal are rice, water spinach, and chili sauce, though the latter is hardly necessary, as Padang cuisine is already quite spicy. Even though this style of eating isn’t ideal when you’re on your own, and I’d already had Padang food several times on the trip, I couldn’t very well be in Padang without trying one of the city’s best-known places, Simpang Raya. It held no surprises, and I’ve definitely eaten better, but at 7,000 rupiah a plate it did the job. In general, though, even if there are a few truly delicious dishes, I’m not a huge fan of Padang food. Padang is far from being a tourist city, despite having an international airport, so accommodation is mostly aimed at locals, either very cheap and terrible or quite expensive and decent. I found a reasonable option at Immanuel Hotel, where a large but somewhat neglected double room with a shower, Western toilet, and the unnecessary luxury of air conditioning cost 120,000 Rp after a discount. Anyone with a soft spot for pink beds and dried-flower bouquets will be in their element here. After over 1,000 km, I had my first flat tire today; fortunately, I was already in Padang. Finding a new 28-inch tube here seems difficult, but plenty of old-school repairmen, using fire pits and vices, can patch one up for 5,000 Rp.
+
 ## Day 14 – 11 January – 135 km
 
 Padang – Painan – Kambang
 
-The coastal landscape south of Padang is stunning, mountainous and rugged. Leaving the city, the first 10 km were flat, passing between the hills before encountering the first cape to cross. After passing the beach resort of Bungus, the road led into the mountains, with a long, steep ascent followed by a descent through an inland valley. After the descent, it was another 15 km of hilly terrain back to the coast. From this point on, the road mostly followed the coastline (sometimes flat, sometimes featuring short but steep climbs over rocky outcrops) until reaching Painan after 80 km. Painan is a well-maintained town set in a spectacular coastal landscape, with offshore islands and towering, jungle-covered mountains in the background. The only downside is that the beaches in this region are not very appealing, as the sand is mostly brown or grey. Beyond Painan, there was another long, steep climb followed by a very steep descent back to the coast. The final 40 km were mostly flat, except for occasional small inclines, through a densely populated area where a bicycle tourist is an absolute sensation. Most cyclists seem to stick to the Trans-Sumatra Highway, but this route is also quite scenic and entirely off the beaten tourist track. The road quality varied greatly, with some smooth sections and others that were terribly bumpy. After 100 km, there was a wonderfully inviting beach resort for an overnight stay, but unfortunately, it was closed. Other than that, there were no accommodation options after Painan until reaching Kambang, where I found a single rundown guesthouse behind the market, something I never would have found without help. No one stays here willingly. The small, stuffy rooms without a fan (and even worse, without mosquito nets) were already bad enough, but the shared mandi facilities defied description. Well, that’s just part of travelling off the well-trodden tourist paths. It was a cultural experience, and I am now hardened for the rest of the trip. And of course, it was cheap: 25,000 Rp.
+The coastal landscape south of Padang is stunning, mountainous and rugged.
 
 <div class="photo-row">
 
@@ -368,10 +390,14 @@ The coastal landscape south of Padang is stunning, mountainous and rugged. Leavi
 
 </div>
 
+Leaving the city, the first 10 km were flat, passing between the hills before encountering the first cape to cross. After passing the beach resort of Bungus, the road led into the mountains, with a long, steep ascent followed by a descent through an inland valley. After the descent, it was another 15 km of hilly terrain back to the coast. From this point on, the road mostly followed the coastline (sometimes flat, sometimes featuring short but steep climbs over rocky outcrops) until reaching Painan after 80 km. Painan is a well-maintained town set in a spectacular coastal landscape, with offshore islands and towering, jungle-covered mountains in the background. The only downside is that the beaches in this region are not very appealing, as the sand is mostly brown or grey. Beyond Painan, there was another long, steep climb followed by a very steep descent back to the coast. The final 40 km were mostly flat, except for occasional small inclines, through a densely populated area where a bicycle tourist is an absolute sensation. Most cyclists seem to stick to the Trans-Sumatra Highway, but this route is also quite scenic and entirely off the beaten tourist track. The road quality varied greatly, with some smooth sections and others that were terribly bumpy. After 100 km, there was a wonderfully inviting beach resort for an overnight stay, but unfortunately, it was closed. Other than that, there were no accommodation options after Painan until reaching Kambang, where I found a single rundown guesthouse behind the market, something I never would have found without help.
+
 <figure>
   <img src="photos/Indonesia2008-0043.jpg" alt="Kambang">
   <em>Kambang</em>
 </figure>
+
+No one stays here willingly. The small, stuffy rooms without a fan (and even worse, without mosquito nets) were already bad enough, but the shared mandi facilities defied description. Well, that’s just part of travelling off the well-trodden tourist paths. It was a cultural experience, and I am now hardened for the rest of the trip. And of course, it was cheap: 25,000 Rp.
 
 ## Day 15 – 12 January – 132 km
 
@@ -383,12 +409,14 @@ Today was the day of punctures. I had to patch my inner tube three times because
 
 Muko Muko – Ipuh
 
-This route towards Bengkulu, which looks so appealing on the map, always following the coastline, is an absolute nightmare. The first 10 km led through an unremarkable swampy area, flat along the coast. After that, the winding road constantly rose and fell through nearly shadeless oil palm plantations and barren land, far from the coast. There were no major settlements along the entire route, and it was nearly impossible to find anything cold to drink, as this region only has electricity is limited, mostly at night. The sun was relentless all day, with no clouds in sight. Riding this absurdly hilly and monotonous route in 35°C heat without cold drinks was pure masochism. I reached the first larger town, Ipuh, just before nightfall. My accommodation at Dahlia Ipuh was somewhere between last night’s and the night before. There was a private mandi and mosquito nets but no fan, which didn’t promise a restful night in this climate. However, for 50,000 Rp, the room was at least very clean.
+This route towards Bengkulu, which looks so appealing on the map, always following the coastline, is an absolute nightmare.
 
 <figure>
   <img src="photos/Indonesia2008-0044.jpg" alt="Padang-Bengkulu Coastal Road">
   <em>Padang-Bengkulu Coastal Road</em>
 </figure>
+
+The first 10 km led through an unremarkable swampy area, flat along the coast. After that, the winding road constantly rose and fell through nearly shadeless oil palm plantations and barren land, far from the coast. There were no major settlements along the entire route, and it was nearly impossible to find anything cold to drink, as this region only has electricity is limited, mostly at night. The sun was relentless all day, with no clouds in sight. Riding this absurdly hilly and monotonous route in 35°C heat without cold drinks was pure masochism. I reached the first larger town, Ipuh, just before nightfall. My accommodation at Dahlia Ipuh was somewhere between last night’s and the night before. There was a private mandi and mosquito nets but no fan, which didn’t promise a restful night in this climate. However, for 50,000 Rp, the room was at least very clean.
 
 ## Day 17 – 14 January – 43 km
 
@@ -398,7 +426,7 @@ Today’s route was just like yesterday’s: ridiculously steep ups and downs th
 
 ## Day 18 – 15 January – 17 km
 
-Before my flight to Jakarta tomorrow, I used today to rest and take care of some practical matters, such as doing laundry, visiting the hairdresser, and most importantly, giving my bicycle a complete overhaul. Bengkulu was perfect for all of this. I had a huge room with air conditioning and a mandi with a Western toilet in a wonderfully dilapidated old colonial villa for 75,000 Rp. The owner of Wisma Balai Buntar is so old that she still speaks Dutch. This accommodation was a perfect fit for Bengkulu, a remote outpost far away from all the well-trodden tourist paths. For its size, the city is astonishingly sleepy. The old quarter consists of rundown Dutch wooden villas under coconut palms, an old British fort stands on a hill above the coast, and a kilometre-long, empty, moderately attractive sandy beach stretches along the shoreline. Since Fort Marlborough is the only 'sight' in town, one can assume, based on the guestbook there, that the last Western tourist visited the city two weeks ago. This, of course, means that I became something of an attraction myself, which had never happened to me before in a city of this size. However, the people were all very friendly, and my breakfast, Nasi Ayam, was kindly paid for by the man who cleaned my bicycle, who also charged less for the washing than the meal itself cost at the stall. In the busier new part of town, I found a bike shop that completely overhauled my bicycle, which had been heavily worn by the local roads, a process that took several hours. A haircut with washing at a proper salon cost only 20,000 Rp, and all of this was accomplished with my rather rudimentary Indonesian, as almost no one here speaks English. It always amuses me to discover an unexpectedly exquisite dining gem in such a remote Third World location like Bengkulu. One such place was 'de Palma Café and Lounge'; the name alone was intriguing. It looked as if a local had once visited Jakarta and decided to bring the concept of stylish, minimalist urban-chic lounge cafés to Bengkulu. Surprisingly, there was no clientele for this extravagance, and so 'de Palma' only had one dish left on its menu. However, that dish was excellent and incredibly cheap. There are probably very few places in the world where you can get a tender, sizzling hotplate-grilled beef steak with pepper sauce, crisp vegetables, and delicious homemade fries for just over €1.
+Before my flight to Jakarta tomorrow, I used today to rest and take care of some practical matters, such as doing laundry, visiting the hairdresser, and most importantly, giving my bicycle a complete overhaul. Bengkulu was perfect for all of this. I had a huge room with air conditioning and a mandi with a Western toilet in a wonderfully dilapidated old colonial villa for 75,000 Rp. The owner of Wisma Balai Buntar is so old that she still speaks Dutch. This accommodation was a perfect fit for Bengkulu, a remote outpost far away from all the well-trodden tourist paths. For its size, the city is astonishingly sleepy. The old quarter consists of rundown Dutch wooden villas under coconut palms, an old British fort stands on a hill above the coast, and a kilometre-long, empty, moderately attractive sandy beach stretches along the shoreline.
 
 <div class="photo-row">
 
@@ -413,6 +441,8 @@ Before my flight to Jakarta tomorrow, I used today to rest and take care of some
     </figure>
 
 </div>
+
+Since Fort Marlborough is the only 'sight' in town, one can assume, based on the guestbook there, that the last Western tourist visited the city two weeks ago. This, of course, means that I became something of an attraction myself, which had never happened to me before in a city of this size. However, the people were all very friendly, and my breakfast, Nasi Ayam, was kindly paid for by the man who cleaned my bicycle, who also charged less for the washing than the meal itself cost at the stall. In the busier new part of town, I found a bike shop that completely overhauled my bicycle, which had been heavily worn by the local roads, a process that took several hours. A haircut with washing at a proper salon cost only 20,000 Rp, and all of this was accomplished with my rather rudimentary Indonesian, as almost no one here speaks English. It always amuses me to discover an unexpectedly exquisite dining gem in such a remote Third World location like Bengkulu. One such place was 'de Palma Café and Lounge'; the name alone was intriguing. It looked as if a local had once visited Jakarta and decided to bring the concept of stylish, minimalist urban-chic lounge cafés to Bengkulu. Surprisingly, there was no clientele for this extravagance, and so 'de Palma' only had one dish left on its menu. However, that dish was excellent and incredibly cheap. There are probably very few places in the world where you can get a tender, sizzling hotplate-grilled beef steak with pepper sauce, crisp vegetables, and delicious homemade fries for just over €1.
 
 ## Day 19 – 16 January – 96 km
 
