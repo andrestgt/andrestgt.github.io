@@ -601,10 +601,39 @@ and relaxing on the pretty beach. The setting is wonderful too, but Hong
 Kong Island in general is spectacular, and the bus rides along narrow,
 winding roads over the hills are an attraction in their own right.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0044.jpg" alt="Hongkong Island - Shek O">
+  <em>Hongkong Island - Shek O</em>
+</figure>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0045.jpg" alt="Hongkong Island">
+  <em>Hongkong Island</em>
+</figure>
+
 We also visited Stanley, a smart beach district in the south of the
 island; anyone who owns an apartment here must be very rich. There’s a
 big but fairly touristy market and a waterfront promenade lined with
 restaurants. We opted for a picnic instead: pâté and Gruyère.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0046.jpg" alt="Hongkong Island - Stanley">
+  <em>Hongkong Island - Stanley</em>
+</figure>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0047.jpg" alt="Hongkong">
+      <em>Hongkong</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0048.jpg" alt="Hongkong">
+      <em>Hongkong</em>
+    </figure>
+
+</div>
 
 Since the weather was quite decent we took the bus back to Central via
 Repulse Bay and rode the Peak Tram up to the lookout above the city. The
@@ -614,9 +643,28 @@ highlights in Hong Kong. We timed it so we could enjoy the view both in
 daylight and later, once it was dark and the city had turned into a sea
 of lights.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0049.jpg" alt="Hongkong - The Peak">
+      <em>Hongkong - The Peak</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0050.jpg" alt="Hongkong - The Peak">
+      <em>Hongkong - The Peak</em>
+    </figure>
+
+</div>
+
 Afterwards I went to Lan Kwai Fong for a beer and some people‑watching.
 It was the day before the Easter holiday and most of the bars were
 packed, great atmosphere.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0051.jpg" alt="Hongkong">
+  <em>Hongkong</em>
+</figure>
 
 Yesterday the weather was pretty bad and we spent most of the day on
 public transport, which is a great way to explore the city. Public
@@ -641,11 +689,26 @@ on random buses, saw neighbourhoods we didn’t know yet, and eventually
 ended up in Causeway Bay, where we went for a walk through Victoria
 Park.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0052.jpg" alt="Hongkong - Aberdeen">
+  <em>Hongkong - Aberdeen</em>
+</figure>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0053.jpg" alt="Hongkong">
+  <em>Hongkong</em>
+</figure>
+
 From there we took one of those wonderful old trams that run along
 almost the entire north coast of Hong Kong Island to North Point, a very
 atmospheric, lively district with interesting markets and hardly any
 tourists. After a bit of shopping there we took the bus to Kennedy Town
 and the tram back to Central.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0054.jpg" alt="Hongkong - North Point">
+  <em>Hongkong - North Point</em>
+</figure>
 
 On our last evening we decided to eat in SoHo and, for budget reasons,
 chose a Mexican place, El Taco Loco. They only had plastic cutlery, but
@@ -705,6 +768,25 @@ are more guesthouses, internet cafés and farang restaurants, but the old
 town with its wooden houses is still a very quiet, relaxed place, and
 just for the market alone, where you can eat wonderfully, Trat is always
 worth a short visit. Also, I haven’t seen many other farangs here.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0055.jpg" alt="Trat">
+      <em>Trat</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0056.jpg" alt="Trat">
+      <em>Trat</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0057.jpg" alt="Trat">
+  <em>Trat</em>
+</figure>
 
 ## 1 Apr 2005 — Thailand → Cambodia (Hat Lek / Koh Kong / Sihanoukville)
 
