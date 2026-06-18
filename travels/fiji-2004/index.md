@@ -62,6 +62,34 @@ house with kitchen and veranda for \$102 and spent the days playing
 table tennis, lounging by the pool, and enjoying the gorgeous sunsets on
 the beach.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0001.jpg" alt="Viti Levu - Coral Coast - Tubakula Resort">
+      <em>Viti Levu - Coral Coast - Tubakula Resort</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0002.jpg" alt="Viti Levu - Coral Coast - Tubakula Resort">
+      <em>Viti Levu - Coral Coast - Tubakula Resort</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0003.jpg" alt="Viti Levu - Coral Coast - Tubakula Resort">
+      <em>Viti Levu - Coral Coast - Tubakula Resort</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0004.jpg" alt="Viti Levu - Coral Coast - Tubakula Resort">
+      <em>Viti Levu - Coral Coast - Tubakula Resort</em>
+    </figure>
+
+</div>
+
 We decided to rent a car for the next four days to explore the island,
 so we took the bus to Suva (\$6.80), Fiji’s capital, and stayed about 10
 kilometres outside in the laid-back Raintree Lodge surrounded by
@@ -73,7 +101,14 @@ of the jungle.
 In the evening we drove into Suva in our rental car (\$90 a day) to run
 a few errands, but the city was packed and very hectic because the
 Indian population was celebrating Diwali the next day, a kind of New
-Year festival. We had a great evening back at the lodge: a proper dinner
+Year festival.
+
+<figure>
+  <img src="photos/Fiji2004-0005.jpg" alt="Viti Levu - Suva">
+  <em>Viti Levu - Suva</em>
+</figure>
+
+We had a great evening back at the lodge: a proper dinner
 with wine, getting stoned in the hammock, and long conversations while
 blissed out. We didn’t go to bed until 3:30 even though we had a lot
 planned for the next day.
@@ -81,27 +116,89 @@ planned for the next day.
 We drove back from Suva to the Coral Coast because we’d been invited to
 Diwali by an Indian family we’d met shopping a few days earlier. On the
 way we stopped for lunch at the Beachhouse, a very nice backpacker lodge
-on one of the most beautiful stretches of the Coral Coast. Afterwards we
+on one of the most beautiful stretches of the Coral Coast.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0006.jpg" alt="Viti Levu - Coral Coast">
+      <em>Viti Levu - Coral Coast</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0015.jpg" alt="Viti Levu - Coral Coast">
+      <em>Viti Levu - Coral Coast</em>
+    </figure>
+
+</div>
+
+Afterwards we
 hiked to a gorgeous waterfall near the village of Biasevu, 45 minutes
 through beautiful scenery. The waterfall was impressive and had a pool
 for a refreshing swim.
+
+<figure>
+  <img src="photos/Fiji2004-0007.jpg" alt="Viti Levu - Biasevu">
+  <em>Viti Levu - Biasevu</em>
+</figure>
 
 In the afternoon we drove on to Natandola Beach, the only beach on the
 Coral Coast that’s good for swimming regardless of the tides, a perfect
 long sand beach in a sheltered bay without a reef. You could handle life
 here!
 
+<figure>
+  <img src="photos/Fiji2004-0008.jpg" alt="Viti Levu">
+  <em>Viti Levu</em>
+</figure>
+
+<figure>
+  <img src="photos/Fiji2004-0009.jpg" alt="Viti Levu - Coral Coast - Natandola Beach">
+  <em>Viti Levu - Coral Coast - Natandola Beach</em>
+</figure>
+
 We took a room at the Casablanca Hotel in Korotogo because it was close
 to the family’s house. An excellent decision! We got a huge room with a
-bathtub and balcony for \$70 and got ready to celebrate Diwali. We had
+bathtub and balcony for \$70 and got ready to celebrate Diwali.
+
+<figure>
+  <img src="photos/Fiji2004-0010.jpg" alt="Viti Levu - Coral Coast - Casablanca Hotel">
+  <em>Viti Levu - Coral Coast - Casablanca Hotel</em>
+</figure>
+
+We had
 bought sweets and fireworks, and Elaine had even picked up a sari in
 Suva. It was a great evening: we visited all kinds of relatives of the
 family, drank kava, were fed Indian delicacies, and got a real insight
 into local life.
 
+<figure>
+  <img src="photos/Fiji2004-0011.jpg" alt="Viti Levu - Coral Coast - Diwali Festival">
+  <em>Viti Levu - Coral Coast - Diwali Festival</em>
+</figure>
+
 The next day we took it easy. We spent a few hours in Sigatoka burning
 photo CDs (not very easy here in Fiji) and then went back for a swim at
 Natandola Beach.
+
+<figure>
+  <img src="photos/Fiji2004-0012.jpg" alt="Viti Levu - Coral Coast - Sigatoka">
+  <em>Viti Levu - Coral Coast - Sigatoka</em>
+</figure>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0013.jpg" alt="Viti Levu - Coral Coast - Natandola Beach">
+      <em>Viti Levu - Coral Coast - Natandola Beach</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0014.jpg" alt="Viti Levu - Coral Coast - Natandola Beach">
+      <em>Viti Levu - Coral Coast - Natandola Beach</em>
+    </figure>
+
+</div>
 
 Ty was flying to Auckland the next day, so we took a room near Nadi at
 the Beach Escape Villas (\$75 for a simple but very spacious bungalow).
@@ -112,7 +209,14 @@ were all stoned.
 
 The next day we took Ty to the airport and drove further along King’s
 Road on Fiji’s north coast. This area is very untouristy and
-traditional, and the landscape is dreamlike. We had originally wanted to
+traditional, and the landscape is dreamlike.
+
+<figure>
+  <img src="photos/Fiji2004-0016.jpg" alt="Around Viti Levu - King's Road">
+  <em>Around Viti Levu - King's Road</em>
+</figure>
+
+We had originally wanted to
 go to a resort on the offshore island of Nananu i Ra, but we didn’t feel
 like waiting that long for the boat, so we decided to continue to
 Korovou.
@@ -142,6 +246,20 @@ was paved again, and we were back at the Raintree Lodge in less than 45
 minutes, where we checked in for two days, this time not in the dorm,
 but in a pretty little double room with a balcony by the lake (\$50).
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0017.jpg" alt="Viti Levu - Suva">
+      <em>Viti Levu - Suva</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0018.jpg" alt="Viti Levu - Suva">
+      <em>Viti Levu - Suva</em>
+    </figure>
+
+</div>
+
 ## 25 Nov 2004 — Levuka (Ovalau)
 
 We spent another two nights at the Raintree Lodge and didn’t even make
@@ -155,10 +273,43 @@ The trip to Levuka took five hours: first by bus to Natovi, then a
 fairly spectacular 45-minute ferry crossing, followed by another bus
 ride on the island of Ovalau.
 
+<figure>
+  <img src="photos/Fiji2004-0019.jpg" alt="Ovalau Ferry">
+  <em>Ovalau Ferry</em>
+</figure>
+
 Levuka is Fiji’s old capital, with an unbelievably relaxed atmosphere,
 colonial-style wooden houses, and a wonderful location by the sea
 beneath jungle-covered hills. It’s one of those places where time seems
 to stand still, and we stayed a few days longer than planned.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0020.jpg" alt="Ovalau - Levuka">
+      <em>Ovalau - Levuka</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0021.jpg" alt="Ovalau - Levuka">
+      <em>Ovalau - Levuka</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0022.jpg" alt="Ovalau - Levuka">
+      <em>Ovalau - Levuka</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0025.jpg" alt="Ovalau - Levuka">
+      <em>Ovalau - Levuka</em>
+    </figure>
+
+</div>
 
 There were several reasons for this. For one thing, you can stay
 incredibly cheaply in a wonderfully atmospheric colonial hotel, the
@@ -167,6 +318,25 @@ money. Our double room, simple but stylish, cost under \$30. The pool,
 which we usually had to ourselves, was absolutely brilliant, set in a
 garden with views of the green mountains inland, and the bar and lounges
 radiated the charm of a long-gone era. I loved this place.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0023.jpg" alt="Ovalau - Levuka - Royal Hotel">
+      <em>Ovalau - Levuka - Royal Hotel</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0024.jpg" alt="Ovalau - Levuka - Royal Hotel">
+      <em>Ovalau - Levuka - Royal Hotel</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Fiji2004-0026.jpg" alt="Ovalau - Levuka - Royal Hotel">
+  <em>Ovalau - Levuka - Royal Hotel</em>
+</figure>
 
 Another reason we stayed so long was simply that we couldn’t leave.
 Bobo’s Farm in the north of Ovalau was fully booked, and the inland tour
@@ -191,6 +361,25 @@ history and the medicinal properties of jungle plants. Epi is a great
 storyteller, even if probably only half of what he says is even remotely
 well founded.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0027.jpg" alt="Ovalau - Lovoni Trek">
+      <em>Ovalau - Lovoni Trek</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0028.jpg" alt="Ovalau - Lovoni Trek">
+      <em>Ovalau - Lovoni Trek</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Fiji2004-0029.jpg" alt="Ovalau - Lovoni Trek">
+  <em>Ovalau - Lovoni Trek</em>
+</figure>
+
 In the village we got a tasty traditional lunch (taro, cassava, tuna)
 and we visited the chief’s house. The chief wasn’t at home, but his used
 underwear was lying scattered around the room. A very nice day for \$30.
@@ -202,10 +391,45 @@ around it in 15 minutes: white beaches with coconut palms, reefs
 offshore, wonderful snorkelling with intact coral and brightly coloured
 fish.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0030.jpg" alt="Fiji - Caquelai">
+      <em>Fiji - Caquelai</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0031.jpg" alt="Fiji - Caquelai">
+      <em>Fiji - Caquelai</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Fiji2004-0032.jpg" alt="Fiji - Caquelai">
+  <em>Fiji - Caquelai</em>
+</figure>
+
 The resort here is very basic: no running water, no electricity, none
 of that unnecessary luxury. Just a few simple bures under palms, little
 toilet huts, bucket showers and a common room where three meals a day
-are served. In the evening there’s guitar, singing, dancing and kava.
+are served.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0033.jpg" alt="Fiji - Caquelai">
+      <em>Fiji - Caquelai</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0034.jpg" alt="Fiji - Caquelai">
+      <em>Fiji - Caquelai</em>
+    </figure>
+
+</div>
+
+In the evening there’s guitar, singing, dancing and kava.
 
 The people working here are all very nice, too, and you don’t feel like
 a tourist being fed an entertainment programme. It’s more like being a
@@ -214,6 +438,20 @@ guest spending an authentic evening with locals.
 A wonderful place to relax and forget. We paid \$45 per person for the
 bure and three meals, a fair price for the right to spend a few days in
 paradise.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0035.jpg" alt="Fiji - Caquelai">
+      <em>Fiji - Caquelai</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0036.jpg" alt="Fiji - Caquelai">
+      <em>Fiji - Caquelai</em>
+    </figure>
+
+</div>
 
 ## 3 Dec 2004 — Fiji (end)
 
@@ -235,12 +473,50 @@ ride from Nadi), a mistake, as it turned out. The boat ride (\$70
 return) was very beautiful; some of the islands we passed were the
 ultimate South Seas dream.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0037.jpg" alt="Mamanucas - Mana Island">
+      <em>Mamanucas - Mana Island</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0038.jpg" alt="Mamanucas - Mana Island">
+      <em>Mamanucas - Mana Island</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Fiji2004-0039.jpg" alt="Mamanucas - Mana Island">
+  <em>Mamanucas - Mana Island</em>
+</figure>
+
 But our resort on Mana was an absolute dump with zero character, full of
 party backpackers. The rooms were grubby and too expensive (\$45 per
 person including food). The island itself is really quite pretty. I
 explored it thoroughly with two Germans who arrived on the boat with us,
 and some of the beaches were gorgeous; the views of the surrounding
 islands absolutely grand.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Fiji2004-0040.jpg" alt="Mamanucas - Mana Island">
+      <em>Mamanucas - Mana Island</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Fiji2004-0041.jpg" alt="Mamanucas - Mana Island">
+      <em>Mamanucas - Mana Island</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Fiji2004-0042.jpg" alt="Mamanucas - Mana Island">
+  <em>Mamanucas - Mana Island</em>
+</figure>
 
 We still went back the very next day, because it didn’t make much sense
 to spend the last days in Fiji in a resort we both hated. And apart from
