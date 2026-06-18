@@ -491,6 +491,20 @@ to get visas for Vietnam and China, but it would have cost a fortune and
 we would have had to stay in Hong Kong for another whole week, which, at
 these prices, would have been ruinous.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0038.jpg" alt="Hongkong - Chungking Mansion">
+      <em>Hongkong - Chungking Mansion</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0039.jpg" alt="Hongkong - Chungking Mansion">
+      <em>Hongkong - Chungking Mansion</em>
+    </figure>
+
+</div>
+
 So, over a tasty lunch at the Anyway Café in Kowloon (turbot fillet on
 lemongrass vermicelli, \$45 including soup and coffee), I suggested we
 fly back to Thailand. After that decision we both had the idea of
@@ -498,12 +512,22 @@ properly enjoying Hong Kong over the next few days, and we went for
 afternoon tea at the Peninsula, Hong Kong’s most famous hotel, a
 magnificent colonial building with pompous interiors.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0040.jpg" alt="Hongkong - The Peninsula">
+  <em>Hongkong - The Peninsula</em>
+</figure>
+
 It cost a fortune (\$320), but when you’re living in a cell you should
 allow yourself something nice every now and then, and the quality was
 excellent. In the evening I went to the Temple Street Night Market. I
 like Hong Kong best at night anyway, and this market confirmed that
 impression. It’s nice to have the feeling of really being in China: all
 the bustle, the crowds, neon lights and the smell of the food stalls …
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0041.jpg" alt="Hongkong - Temple Street Night Market">
+  <em>Hongkong - Temple Street Night Market</em>
+</figure>
 
 ## 23 March 2005
 
@@ -529,6 +553,16 @@ Kong’s most attractive nightlife district, whose narrow lanes offer an
 excellent selection of bars and lounges. Given our financial situation,
 our nightlife consisted of drinking canned beer in our cell, well, at
 least that way we can choose the music ourselves.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0042.jpg" alt="Hongkong - Victoria">
+  <em>Hongkong - Victoria</em>
+</figure>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0043.jpg" alt="Hongkong - Lan Kwai Fong">
+  <em>Hongkong - Lan Kwai Fong</em>
+</figure>
 
 Today we visited the Hong Kong Museum of History, because all museums
 are free on Wednesdays. It’s well worth a visit that covers Hong Kong’s
