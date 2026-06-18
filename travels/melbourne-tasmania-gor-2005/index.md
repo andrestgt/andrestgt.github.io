@@ -39,11 +39,11 @@ spared no effort to celebrate, and half a million people watched a
 magnificent 45‑minute fireworks show over the river, and I was right in
 the middle of it all as a rickshaw driver.
 
-Once my credit card was working again, I could also take an active part
+Once I finally received my new bank card, I could also take an active part
 in hostel life and enjoyed my free evenings to the full. Especially the
 last two weeks we had a great group. We did day trips, or went for
 cappuccino at Vulture’s, cooked together almost every day, went out
-properly in the evenings or played cards all night, drank and listened
+in the evenings or played cards all night, drank and listened
 to music. The last few days I never got to bed before sunrise.
 
 It was almost like the beginning at Eva’s again. I felt unbelievably
@@ -93,7 +93,7 @@ popular going‑out districts, and, against all odds, fell in love with
 the city immediately. Fitzroy alone has such an abundance of cafés and
 bars (bohemian, stylish, cosy) wine bars, pubs, cocktail bars,
 restaurants of every kind… I could hardly believe my eyes. Everything
-I’d missed, as a European, in terms of going‑out culture in Sydney and
+I’d missed, as a European, in terms of gastronomy and culture in Sydney and
 Perth, Melbourne has in abundance. At Volare on Brunswick Street I had
 the best cappuccino I’d had in weeks, and afterwards I went for a
 delicious malai kofte (A\$9.50) at Fitz Curry, which, despite its modest
@@ -126,7 +126,7 @@ Prahran and South Yarra, two more attractive inner‑city districts where
 you could easily spend a whole day shopping, eating and drinking, given
 all the options. If only one had the money.
 
-I walked kilometres back towards the city through the beautiful Botanic
+I walked several kilometres back towards the city through the beautiful Botanic
 Gardens, one of the nicest city parks I’ve ever seen, to Southgate, an
 impressive shopping and entertainment mecca with a promenade on the
 south bank of the Yarra. The views across the river to the skyline and
@@ -138,14 +138,14 @@ beautiful. Not as spectacular as Sydney, but beautiful in its own way.
 Since I was at Flinders Street Station anyway, I decided to do the
 “Walking Tour” described in Lonely Planet, which starts there. Even
 though I usually prefer exploring cities on my own, without a fixed
-plan, this was an excellent decision: some of the narrow laneways
+plan, this was an excellent decision: discovering some of the narrow laneways
 mentioned would probably have remained sheer luck for me, and they’re
 easily an absolute highlight, especially Degraves Street and Block
 Place.
 
 I could hardly believe my eyes: right in the middle of the modern
 high‑rise canyons of the CBD, these tight little lanes with pretty
-street cafés and restaurants, more like a Southern‑European old town
+outdoor cafés and restaurants, more like a Southern‑European old town
 than Australia, and with far more charm than Starbucks & Co.
 
 I finished the walk with a yum‑cha lunch in Chinatown. For A\$14.50 I
@@ -158,10 +158,10 @@ very good.
 
 On Thursday morning I picked Mona up from the airport bus terminal and
 we moved into the Hotel Bakpak. The day before I’d booked a twin room
-there (why, I honestly don’t know) because it has to be the worst dive
+there (why, I honestly don’t know) because it has to be the worst accommodation
 in Australia: a huge run‑down hostel full of loud, brainless party
 backpackers; completely overpriced, foul‑smelling rooms (A\$75); and
-bathrooms like an Eastern‑European campsite. Unbelievable that this dump
+bathrooms like at an Eastern‑European campsite. Unbelievable that this dump
 is insanely popular; it must be the two bars, and the fact that there
 don’t seem to be any rules of behaviour.
 
@@ -223,19 +223,19 @@ originals.
 
 Today was the final day of the St Kilda Festival, Melbourne’s biggest
 street festival, and of course we weren’t going to miss it. For the
-first time: shiny summer weather. Huge crowds pushed through the streets
+first time we had sunshine and summer weather. Huge crowds pushed through the streets
 and along St Kilda’s beach promenade; there were markets, food stalls,
 concert stages, street performers, the whole package.
 
 I’m sure it would have been very interesting in the evening too, but we
 were flying to Launceston at 9 p.m. So after a delicious Vietnamese
 lunch at Café Dang on Fitzroy Street (spring rolls, rice‑paper rolls,
-beef in vine leaves, all A\$6.50; vermicelli with lemongrass and fat
+beef in vine leaves, all A\$6.50; vermicelli with lemongrass and large
 king prawns, A\$9), we went back into the city. One last cappuccino at
 Segovia, and then it was time to say goodbye, for now, to Australia’s
 most cultured and stylish metropolis.
 
-Three days earlier we’d found such a cheap deal for flights to Tasmania
+Three days earlier I’d found such a cheap deal for flights to Tasmania
 (A\$65 with Jetstar) that we grabbed it on the spot, and we’ll be
 spending the next two weeks on this enigmatic island.
 
@@ -244,11 +244,11 @@ spending the next two weeks on this enigmatic island.
 The flight to Launceston only took 45 minutes and since we didn’t arrive
 until just before ten, we took a taxi to the Launceston Backpacker
 (A\$27). There we discovered they’d messed up our booking and were fully
-booked. So at half past ten we were standing there with no room.
+booked. So at half past ten at night we were standing there without a room.
 
 Luckily they were understanding and admitted it was their mistake, so
 they not only found us a room somewhere else and drove us there, but
-also paid us the price difference, A\$21.
+also paid us the price difference of A\$21.
 
 Thanks to this blunder we ended up at Lloyd’s Hotel and I stayed in an
 Australian “hotel” for the first time (which here, as is well known,
@@ -281,7 +281,7 @@ o’clock the pavements are rolled up; not a place for wild nightlife.
 ## 15 Feb 2005 — Tasmania: North Coast to Rocky Cape
 
 In the morning we picked up our rental car and left Launie on small back
-roads, some of them unsealed, heading west to Liffey Falls. The day
+roads, some of them unpaved, heading west to Liffey Falls. The day
 before we’d picked up the excellent free brochure “60 Great Short Walks
 in Tasmania” and we’ll do quite a few of them during our stay.
 
