@@ -957,14 +957,14 @@ road: a wonderfully spacious bay with many beaches and smaller coves.
 
 It
 only got hilly again shortly before Cargèse, a village perched on a hill
-at the bay’s northern end. After a short descent we climbed again for
-many kilometres, over two cols, to the pleasant mountain village of
-Piana, perched high above the sea.
+at the bay’s northern end.
 
 <figure>
   <img src="photos/CyclingCorse2004-0083.jpg" alt="Cargese">
   <em>Cargese</em>
-</figure>
+</figure> After a short descent we climbed again for
+many kilometres, over two cols, to the pleasant mountain village of
+Piana, perched high above the sea.
 
 <figure>
   <img src="photos/CyclingCorse2004-0084.jpg" alt="Around Piana">
