@@ -90,7 +90,14 @@ there was neither a nice courtyard nor a rooftop terrace.
 
 I took a long walk through Fitzroy and Carlton, two of Melbourne’s most
 popular going‑out districts, and, against all odds, fell in love with
-the city immediately. Fitzroy alone has such an abundance of cafés and
+the city immediately.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0001.jpg" alt="Melbourne">
+  <em>Melbourne</em>
+</figure>
+
+Fitzroy alone has such an abundance of cafés and
 bars (bohemian, stylish, cosy) wine bars, pubs, cocktail bars,
 restaurants of every kind… I could hardly believe my eyes. Everything
 I’d missed, as a European, in terms of gastronomy and culture in Sydney and
@@ -99,6 +106,20 @@ the best cappuccino I’d had in weeks, and afterwards I went for a
 delicious malai kofte (A\$9.50) at Fitz Curry, which, despite its modest
 interior and low prices, is apparently the first Indian restaurant in
 Australia to offer organic food.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0002.jpg" alt="Melbourne - Fitzroy">
+      <em>Melbourne - Fitzroy</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0003.jpg" alt="Melbourne - Fitzroy">
+      <em>Melbourne - Fitzroy</em>
+    </figure>
+
+</div>
 
 I also liked Carlton a lot, even if it doesn’t have Fitzroy’s slightly
 run‑down charm. Lygon Street is Melbourne’s Italian quarter: one Italian
@@ -116,20 +137,55 @@ excellent public transport and took the tram to St Kilda, the seaside
 suburb about 8 km south of downtown. The beach itself isn’t anything
 special (but who comes to Melbourne for the beach?) yet there are
 cafés and restaurants everywhere, plus nice views of the coast and the
-CBD skyline from the pier. Since the nightlife is supposed to be very
+CBD skyline from the pier.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0004.jpg" alt="Melbourne - St. Kilda">
+      <em>Melbourne - St. Kilda</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0005.jpg" alt="Melbourne - St. Kilda">
+      <em>Melbourne - St. Kilda</em>
+    </figure>
+
+</div>
+
+Since the nightlife is supposed to be very
 good here and many backpackers base themselves in St Kilda, I might
 spend a few nights here before I fly back.
 
 I had a very good cappuccino at the cosy Veludo on the café strip, then
-took tram 16 back towards the centre. Halfway there I got off to visit
+took tram 16 back towards the centre.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0006.jpg" alt="Melbourne - St. Kilda - Veludo Café">
+  <em>Melbourne - St. Kilda - Veludo Café</em>
+</figure>
+
+Halfway there I got off to visit
 Prahran and South Yarra, two more attractive inner‑city districts where
 you could easily spend a whole day shopping, eating and drinking, given
 all the options. If only one had the money.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0007.jpg" alt="Melbourne - Prahran">
+  <em>Melbourne - Prahran</em>
+</figure>
+
 I walked several kilometres back towards the city through the beautiful Botanic
 Gardens, one of the nicest city parks I’ve ever seen, to Southgate, an
 impressive shopping and entertainment mecca with a promenade on the
-south bank of the Yarra. The views across the river to the skyline and
+south bank of the Yarra.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0008.jpg" alt="Melbourne - Botanical Gardens">
+  <em>Melbourne - Botanical Gardens</em>
+</figure>
+
+The views across the river to the skyline and
 Federation Square, a masterpiece of modern architecture, are
 breathtaking, and for the first time I found myself thinking that
 Melbourne isn’t just attractive, cultured and liveable; it's genuinely
@@ -148,7 +204,42 @@ high‑rise canyons of the CBD, these tight little lanes with pretty
 outdoor cafés and restaurants, more like a Southern‑European old town
 than Australia, and with far more charm than Starbucks & Co.
 
-I finished the walk with a yum‑cha lunch in Chinatown. For A\$14.50 I
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0009.jpg" alt="Melbourne - CBD">
+      <em>Melbourne - CBD</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0010.jpg" alt="Melbourne - CBD">
+      <em>Melbourne - CBD</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0011.jpg" alt="Melbourne - CBD">
+      <em>Melbourne - CBD</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0012.jpg" alt="Melbourne - CBD">
+      <em>Melbourne - CBD</em>
+    </figure>
+
+</div>
+
+I finished the walk with a yum‑cha lunch in Chinatown.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0013.jpg" alt="Melbourne - Chinatown">
+  <em>Melbourne - Chinatown</em>
+</figure>
+
+For A\$14.50 I
 got spring roll, wontons, soup, fried rice with shrimp, and mixed dim
 sum. The owner of the Post Mao Café supposedly cooked the Chairman’s
 favourite dishes personally, whether that’s true or not, the food was
@@ -172,6 +263,11 @@ the wonderfully atmospheric, cosy Bar With No Name. Afterwards we had an
 excellent dinner at Afghan Village, especially the mixed starters
 (A\$13), which were really delicious.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0016.jpg" alt="Melbourne">
+  <em>Melbourne</em>
+</figure>
+
 On Friday we had breakfast under the arcades of the Victoria Market and
 then took the City Circle Tram, a lovely old tram that’s free and runs a
 fixed loop around the city centre. We got off first at the Docklands. A
@@ -191,7 +287,14 @@ really is something special, absolutely delicious.
 
 On Saturday we went to the Victoria Market again to shop for a picnic.
 The market in the historic halls is enormous and is considered the best
-in Australia. I’m not surprised, you can get almost everything: deli
+in Australia.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0014.jpg" alt="Melbourne - Victoria Market">
+  <em>Melbourne - Victoria Market</em>
+</figure>
+
+I’m not surprised, you can get almost everything: deli
 stuff, fish, vegetables, fruit, clothes, souvenirs, and at very
 reasonable prices. We bought ciabatta, olives, stuffed chillies and
 cheese, took the tram to St Kilda, and from there the weekend ferry from
@@ -201,17 +304,45 @@ the Australian high summer, but the views across the bay to Melbourne’s
 skyline were very appealing, and nobody got seasick.
 
 Williamstown is a well‑preserved 19th‑century harbour town that reminded
-me a bit of Fremantle. As a suburb of Melbourne it’s a popular day trip
+me a bit of Fremantle.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0017.jpg" alt="Melbourne - Williamstown">
+      <em>Melbourne - Williamstown</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0018.jpg" alt="Melbourne - Williamstown">
+      <em>Melbourne - Williamstown</em>
+    </figure>
+
+</div>
+
+As a suburb of Melbourne it’s a popular day trip
 destination, full of pretty cafés and restaurants. But we’d brought
 provisions, so we had our picnic and watched black swans and pelicans
 foraging for food.
 
 Back in the city we took the train to Flinders Street Station and, now
 in sunshine, had a glass of Chardonnay at the stylish Arintji on
-Federation Square. Then we went on a long walk through the Botanic
+Federation Square.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0019.jpg" alt="Melbourne - CBD">
+  <em>Melbourne - CBD</em>
+</figure>
+
+Then we went on a long walk through the Botanic
 Gardens and back into town along the river. We finished the day
 relatively early with a cappuccino in Block Place, my favourite lane in
 Melbourne.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0015.jpg" alt="Melbourne - CBD">
+  <em>Melbourne - CBD</em>
+</figure>
 
 Today, as every day, we started with a delicious croissant and
 cappuccino under the arcades of the Victoria Market and took the train
