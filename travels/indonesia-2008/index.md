@@ -527,94 +527,82 @@ Eating out in Jakarta is predictably more expensive than in the rest of the coun
 
 </div>
 
+<figure>
+  <img src="photos/Indonesia2008-0056.jpg" alt="Uluwatu">
+  <em>Uluwatu</em>
+</figure>
+
+<figure>
+  <img src="photos/Indonesia2008-0058.jpg" alt="Candi Tebing Gunung Kawi">
+  <em>Candi Tebing Gunung Kawi</em>
+</figure>
+
+<figure>
+  <img src="photos/Indonesia2008-0059.jpg" alt="Tegallalang Rice Terrace">
+  <em>Tegallalang Rice Terrace</em>
+</figure>
+
 <div class="photo-row">
-
-  <figure>
-      <img src="photos/Indonesia2008-0056.jpg" alt="Uluwatu">
-      <em>Uluwatu</em>
-    </figure>
-
-  <figure>
-      <img src="photos/Indonesia2008-0058.jpg" alt="Candi Tebing Gunung Kawi">
-      <em>Candi Tebing Gunung Kawi</em>
-    </figure>
-
-</div>
-
-<div class="photo-row">
-
-  <figure>
-      <img src="photos/Indonesia2008-0059.jpg" alt="Tegallalang Rice Terrace">
-      <em>Tegallalang Rice Terrace</em>
-    </figure>
 
   <figure>
       <img src="photos/Indonesia2008-0060.jpg" alt="Ubud - Café Lotus">
       <em>Ubud - Café Lotus</em>
     </figure>
 
-</div>
-
-<div class="photo-row">
-
   <figure>
       <img src="photos/Indonesia2008-0061.jpg" alt="Ubud - Café Lotus">
       <em>Ubud - Café Lotus</em>
     </figure>
+
+</div>
+
+<div class="photo-row">
 
   <figure>
       <img src="photos/Indonesia2008-0062.jpg" alt="Batur Area">
       <em>Batur Area</em>
     </figure>
 
-</div>
-
-<div class="photo-row">
-
   <figure>
       <img src="photos/Indonesia2008-0063.jpg" alt="Batur Area">
       <em>Batur Area</em>
     </figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0064.jpg" alt="Ubud">
-      <em>Ubud</em>
-    </figure>
-
 </div>
 
+<figure>
+  <img src="photos/Indonesia2008-0064.jpg" alt="Ubud">
+  <em>Ubud</em>
+</figure>
+
+<figure>
+  <img src="photos/Indonesia2008-0065.jpg" alt="Tirta Gangga">
+  <em>Tirta Gangga</em>
+</figure>
+
+<figure>
+  <img src="photos/Indonesia2008-0066.jpg" alt="Amed">
+  <em>Amed</em>
+</figure>
+
+<figure>
+  <img src="photos/Indonesia2008-0067.jpg" alt="Ubud - Warsi Bungalow">
+  <em>Ubud - Warsi Bungalow</em>
+</figure>
+
 <div class="photo-row">
-
-  <figure>
-      <img src="photos/Indonesia2008-0065.jpg" alt="Tirta Gangga">
-      <em>Tirta Gangga</em>
-    </figure>
-
-  <figure>
-      <img src="photos/Indonesia2008-0066.jpg" alt="Amed">
-      <em>Amed</em>
-    </figure>
-
-</div>
-
-<div class="photo-row">
-
-  <figure>
-      <img src="photos/Indonesia2008-0067.jpg" alt="Ubud - Warsi Bungalow">
-      <em>Ubud - Warsi Bungalow</em>
-    </figure>
 
   <figure>
       <img src="photos/Indonesia2008-0068.jpg" alt="Danau Bratan Area">
       <em>Danau Bratan Area</em>
     </figure>
 
-</div>
+  <figure>
+      <img src="photos/Indonesia2008-0069.jpg" alt="Danau Bratan Area">
+      <em>Danau Bratan Area</em>
+    </figure>
 
-<figure>
-  <img src="photos/Indonesia2008-0069.jpg" alt="Danau Bratan Area">
-  <em>Danau Bratan Area</em>
-</figure>
+</div>
 
 ## 7 February 2008
 
@@ -752,21 +740,19 @@ Most travellers come here to organize tours to the famous Mt. Bromo. The mountai
 
 ## 16 February 2008 — Surabaya
 
-From Malang, I cycled to Surabaya, spending the night in a grand old colonial hotel in a small, otherwise completely unremarkable town. The hotel seemed entirely out of place here. The very spacious rooms, with king-size beds and bathtubs, weren’t luxurious but had a lot of character, and at 175,000 Rp, they were very affordable. Still, I wonder how this hotel survives; there can’t be many tourists passing through. Surabaya, Indonesia’s second-largest city, holds the dubious honour of being one of the world’s least-known five-million-person metropolises. Most people outside Indonesia have never heard of it, and even if they have, few could say where it is or how big it is. Even most travellers in Java skip Surabaya on their way to Bali. Honestly, I don’t quite understand why. While Surabaya may not have any major sights, the city is a perfect and, in general, quite attractive place to experience all facets of 21st-century Java in an authentic, completely untouristic setting. Surabaya clearly has many wealthy residents; it boasts grand villa districts, ultra-modern malls, and trendy bistros. You can go to the movies or lounge on a couch in a stylish café. The cost of living here is significantly lower than in Jakarta, and you can enjoy a good life for very little money. But Surabaya also has another side, a very traditional one. The rundown old town north of the centre, with its crumbling colonial buildings, foul-smelling canals, old craft shops, ancient temples, and mosques, where countless rickshaws clog the narrow streets, is a fascinating place for a walk and a world of its own. Since the weather remained too unstable for a trip to Mt. Bromo (half of East Java is still flooded), I stayed in Surabaya for an entire week before flying back to Bali, and I have no regrets.
+From Malang, I cycled to Surabaya, spending the night in a grand old colonial hotel in a small, otherwise completely unremarkable town. The hotel seemed entirely out of place here. The very spacious rooms, with king-size beds and bathtubs, weren’t luxurious but had a lot of character, and at 175,000 Rp, they were very affordable.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Indonesia2008-0086.jpg" alt="Wonosari">
+  <em>Wonosari</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0086.jpg" alt="Wonosari">
-      <em>Wonosari</em>
-    </figure>
+<figure>
+  <img src="photos/Indonesia2008-0087.jpg" alt="Lawang - Hotel Niagara">
+  <em>Lawang - Hotel Niagara</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0087.jpg" alt="Lawang - Hotel Niagara">
-      <em>Lawang - Hotel Niagara</em>
-    </figure>
-
-</div>
+Still, I wonder how this hotel survives; there can’t be many tourists passing through. Surabaya, Indonesia’s second-largest city, holds the dubious honour of being one of the world’s least-known five-million-person metropolises. Most people outside Indonesia have never heard of it, and even if they have, few could say where it is or how big it is. Even most travellers in Java skip Surabaya on their way to Bali. Honestly, I don’t quite understand why. While Surabaya may not have any major sights, the city is a perfect and, in general, quite attractive place to experience all facets of 21st-century Java in an authentic, completely untouristic setting. Surabaya clearly has many wealthy residents; it boasts grand villa districts, ultra-modern malls, and trendy bistros. You can go to the movies or lounge on a couch in a stylish café. The cost of living here is significantly lower than in Jakarta, and you can enjoy a good life for very little money. But Surabaya also has another side, a very traditional one. The rundown old town north of the centre, with its crumbling colonial buildings, foul-smelling canals, old craft shops, ancient temples, and mosques, where countless rickshaws clog the narrow streets, is a fascinating place for a walk and a world of its own.
 
 <div class="photo-row">
 
@@ -810,21 +796,19 @@ From Malang, I cycled to Surabaya, spending the night in a grand old colonial ho
 
 </div>
 
+Since the weather remained too unstable for a trip to Mt. Bromo (half of East Java is still flooded), I stayed in Surabaya for an entire week before flying back to Bali, and I have no regrets.
+
 ## 24 February 2008 — Ubud
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Indonesia2008-0094.jpg" alt="Ubud Terrace">
+  <em>Ubud Terrace</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0094.jpg" alt="Ubud Terrace">
-      <em>Ubud Terrace</em>
-    </figure>
-
-  <figure>
-      <img src="photos/Indonesia2008-0095.jpg" alt="Ubud - Three Monkeys">
-      <em>Ubud - Three Monkeys</em>
-    </figure>
-
-</div>
+<figure>
+  <img src="photos/Indonesia2008-0095.jpg" alt="Ubud - Three Monkeys">
+  <em>Ubud - Three Monkeys</em>
+</figure>
 
 ## Exchange rate
 1€ = 14,000 Rp
