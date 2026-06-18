@@ -389,7 +389,23 @@ been A\$65, but with the A\$21 from Launceston Backpackers this little
 bit of luxury only cost us A\$44.
 
 In the morning we checked in at the Launceston Backpackers, in terms of
-value for money the best hostel in Australia so far. A very spacious,
+value for money the best hostel in Australia so far.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0020.jpg" alt="Launceston">
+      <em>Launceston</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0021.jpg" alt="Launceston">
+      <em>Launceston</em>
+    </figure>
+
+</div>
+
+A very spacious,
 bright twin room costs only A\$22 per person; the bathrooms are fine;
 there’s a big kitchen; and everything is quite clean.
 
@@ -401,7 +417,23 @@ attraction. There are trails on both sides of the impressive river
 canyon near the centre: an easy stroll on the north side, and a steeper,
 more strenuous path on the south. The views are beautiful; there’s a
 restaurant, a suspension bridge over the river, and a free swimming pool
-with lawns for sunbathing. Well worth it.
+with lawns for sunbathing.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0022.jpg" alt="Launceston - Cataract Gorge">
+      <em>Launceston - Cataract Gorge</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0023.jpg" alt="Launceston - Cataract Gorge">
+      <em>Launceston - Cataract Gorge</em>
+    </figure>
+
+</div>
+
+Well worth it.
 
 We spent the rest of the day in town and had pints of the local James
 Boag beer at the nice Cock n Bull English pub. Launceston is a pretty
@@ -419,6 +451,20 @@ in Tasmania” and we’ll do quite a few of them during our stay.
 The walk to Liffey Falls was short (45 minutes) but beautiful, through
 fairy‑tale rainforest, and the waterfall itself was very picturesque.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0024.jpg" alt="Liffey Falls">
+      <em>Liffey Falls</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0025.jpg" alt="Liffey Falls">
+      <em>Liffey Falls</em>
+    </figure>
+
+</div>
+
 After that we drove up onto the central plateau and took a short walk at
 Pine Lake in this harsh, unreal landscape. The rare, ancient pencil
 pines, found only in Tasmania, stand there like skeletons.
@@ -428,10 +474,20 @@ pleasant little town by a river, and had a tasty Tasmanian cheese
 platter (a Ploughman’s Lunch for A\$11.95) at the deli of the same name,
 and a cappuccino.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0026.jpg" alt="Deloraine">
+  <em>Deloraine</em>
+</figure>
+
 We then followed the coast, which, at least until after Burnie, wasn’t
 all that spectacular and, for Tasmania, fairly heavily populated. Only
 the little town of Penguin, with its nice beach and a few cafés, was
 worth a stop; we had coffee on the beach road.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0027.jpg" alt="Penguin">
+  <em>Penguin</em>
+</figure>
 
 It got properly beautiful around Wynyard: a cosy place at a stunning
 river mouth, where we ate a seafood basket on the quay.
@@ -458,11 +514,44 @@ of Stanley, with its neat old houses below the imposing rock “The Nut”,
 beautifully set at the end of a peninsula. White sand beaches and
 deep‑blue sea on all sides.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0028.jpg" alt="Around Stanley">
+      <em>Around Stanley</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0030.jpg" alt="Around Stanley">
+      <em>Around Stanley</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0031.jpg" alt="Around Stanley">
+      <em>Around Stanley</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0032.jpg" alt="Around Stanley">
+      <em>Around Stanley</em>
+    </figure>
+
+</div>
+
 First we had coffee and I ate scallops at the lovely Swinging Anchor
 Café, in a historic building on the main street. Then we climbed The Nut,
 a steep 20‑minute walk; there’s a chairlift too, but the views made
 the climb well worth it. We walked the 45‑minute circuit around the
 massive rock and went back down into Stanley.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0029.jpg" alt="Stanley">
+  <em>Stanley</em>
+</figure>
 
 Via Wynyard we then took the scenic A10 inland to Cradle Mountain
 National Park, Tasmania’s biggest tourist magnet: massive mountain
@@ -474,6 +563,25 @@ We only arrived in the afternoon and up here it was bitterly cold (well,
 around 10 degrees). We did two short walks near the visitor centre: to
 Pencil Pine Falls and the Enchanted Walk, mostly through rainforest
 along a mountain stream.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0033.jpg" alt="Cradle Mountain NP">
+      <em>Cradle Mountain NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0034.jpg" alt="Cradle Mountain NP">
+      <em>Cradle Mountain NP</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0035.jpg" alt="Cradle Mountain NP">
+  <em>Cradle Mountain NP</em>
+</figure>
 
 When we reached the camping ground in the tourist park it started to
 rain and the temperature dropped further. I hope I survive the night;
@@ -487,7 +595,23 @@ nice heat).
 
 We took the free shuttle from the visitor centre to Dove Lake and walked
 the two‑hour Dove Lake Circuit around the lake. The weather was good and
-the views of Cradle Mountain were fantastic. The path mostly ran through
+the views of Cradle Mountain were fantastic.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0036.jpg" alt="Cradle Mountain NP">
+      <em>Cradle Mountain NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0037.jpg" alt="Cradle Mountain NP">
+      <em>Cradle Mountain NP</em>
+    </figure>
+
+</div>
+
+The path mostly ran through
 rainforest past inviting little beaches, far too cold for swimming,
 though. Still, a beautiful area and a very pleasant walk.
 
@@ -502,7 +626,23 @@ for a place like that.
 To walk it off we did a three‑hour hike (return) to Montezuma Falls near
 Zeehan. The trail followed an old railway line right through dense,
 green rainforest. The walk itself was already lovely; the waterfall was
-an absolute highlight: 100 metres high in a dream setting. A narrow,
+an absolute highlight: 100 metres high in a dream setting.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0038.jpg" alt="Montezuma Falls">
+      <em>Montezuma Falls</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0039.jpg" alt="Montezuma Falls">
+      <em>Montezuma Falls</em>
+    </figure>
+
+</div>
+
+A narrow,
 adventurous suspension bridge spans the deep gorge in front of the
 falls, with great views of the forested surroundings and the waterfall.
 This hike was more than worth it.
@@ -532,7 +672,14 @@ Dunes. All that points to this grand dune landscape is a small wooden
 sign to a “picnic area” in the forest, and even the Lonely Planet guide
 mentions it with only a single sentence. Yet the high sand dunes are
 absolutely spectacular, with views over the endless green West Tasmanian
-rainforest on one side and the blue ocean on the other. Somewhere else
+rainforest on one side and the blue ocean on the other.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0040.jpg" alt="Around Strahan - Henty Dunes">
+  <em>Around Strahan - Henty Dunes</em>
+</figure>
+
+Somewhere else
 in the world, these dunes would be a major tourist attraction.
 
 Back in Strahan we did a nice 45‑minute walk through dense rainforest,
@@ -550,15 +697,55 @@ the narrow harbour entrance, Hell’s Gate, and had wonderful views of
 Ocean Beach, a 33‑km‑long white dune beach; very impressive coastal
 scenery.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0041.jpg" alt="Around Strahan">
+      <em>Around Strahan</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0042.jpg" alt="Around Strahan">
+      <em>Around Strahan</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0043.jpg" alt="Around Strahan">
+  <em>Around Strahan</em>
+</figure>
+
 Back in the harbour we stopped at Sarah Island, once one of the most
 remote penal colonies of the Empire; there isn’t much left to see,
 though.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0044.jpg" alt="Around Strahan - Sarah Island">
+      <em>Around Strahan - Sarah Island</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0045.jpg" alt="Around Strahan - Sarah Island">
+      <em>Around Strahan - Sarah Island</em>
+    </figure>
+
+</div>
 
 Shortly afterwards we reached the mouth of the Gordon River, one of
 Tasmania’s longest rivers, winding through the wilderness. As far as the
 eye can see: green, dense rainforest; no roads, not even hiking trails
 penetrate this impenetrable region. We cruised about an hour upriver to
-Heritage Landing, where we took a short walk through the rainforest. The
+Heritage Landing, where we took a short walk through the rainforest.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0046.jpg" alt="Around Strahan - Gordon River">
+  <em>Around Strahan - Gordon River</em>
+</figure>
+
+The
 forest itself wasn’t any more spectacular than on walks in less remote
 areas, but the real attraction is the feeling of being at the end of the
 world, in one of the most isolated places, surrounded by pure nature.
@@ -576,6 +763,25 @@ boomtown surrounded by hillsides cleared for mining, an unreal place,
 but, despite the drizzle, not unattractive thanks to the many historic
 buildings.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0047.jpg" alt="Queen's Town">
+      <em>Queen's Town</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0048.jpg" alt="Queen's Town">
+      <em>Queen's Town</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0049.jpg" alt="Queen's Town">
+  <em>Queen's Town</em>
+</figure>
+
 At the station we were lucky enough to watch the historic Wilderness
 Railway depart, a beautifully restored tourist train that runs through
 the rainforest and, for a lot of money (A\$90 one‑way), ferries
@@ -589,14 +795,47 @@ we hiked up to Donaghys Lookout (40 minutes), with wonderful views over
 the endless wilderness; and we also enjoyed the short rainforest walk
 along the Surprise and Franklin Rivers (25 minutes).
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0050.jpg" alt="Nelson Falls">
+  <em>Nelson Falls</em>
+</figure>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0051.jpg" alt="Donaghys Lookout">
+  <em>Donaghys Lookout</em>
+</figure>
+
 We had lunch at the Derwent Bridge Wilderness Hotel, a very nicely
 decorated pub and restaurant with a big fireplace and views over the
-greenery. Tour groups get fed here too, but the prices were reasonable
+greenery.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0052.jpg" alt="Derwent Bridge - Wilderness Hotel">
+  <em>Derwent Bridge - Wilderness Hotel</em>
+</figure>
+
+Tour groups get fed here too, but the prices were reasonable
 and there was nothing wrong with the focaccia stuffed with smoked
 venison ham (A\$9.50).
 
 For a digestion walk we went to Lake St Clair, the end point of the
-Overland Track in Cradle Mountain National Park. It’s a beautiful spot:
+Overland Track in Cradle Mountain National Park.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0053.jpg" alt="Lake St. Claire">
+      <em>Lake St. Claire</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0054.jpg" alt="Lake St. Claire">
+      <em>Lake St. Claire</em>
+    </figure>
+
+</div>
+
+It’s a beautiful spot:
 a clear blue mountain lake surrounded by rainforest. We walked to the
 very pretty Platypus Bay (45 minutes) with a sandy beach and great
 views, although we didn’t see any platypuses in Platypus Bay.
@@ -604,7 +843,37 @@ views, although we didn’t see any platypuses in Platypus Bay.
 We saved the best walk of the day, and an absolute Tasmanian highlight,
 for last. The trail to Russell Falls and Horseshoe Falls (45 minutes)
 in Mount Field National Park ran through magical, picture‑book
-rainforest so perfect it could have been painted. Both waterfalls were
+rainforest so perfect it could have been painted.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0055.jpg" alt="Mt Field NP">
+      <em>Mt Field NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0056.jpg" alt="Mt Field NP">
+      <em>Mt Field NP</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0057.jpg" alt="Mt Field NP">
+      <em>Mt Field NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0058.jpg" alt="Mt Field NP">
+      <em>Mt Field NP</em>
+    </figure>
+
+</div>
+
+Both waterfalls were
 unbelievably picturesque, and along the way we saw lots of cute
 wallabies hopping about. Completely beyond words!
 
@@ -613,6 +882,11 @@ gently rolling, lovely Derwent River Valley to New Norfolk, a small town
 on the river set in beautiful scenery, where we spent the night at the
 camping ground: good grassy pitches, decent facilities, reasonably
 priced (A\$12), and, above all, in the perfect spot right by the water.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0059.jpg" alt="Derwent River Valley">
+  <em>Derwent River Valley</em>
+</figure>
 
 ## 20 Feb 2005 — Richmond / Apsley / Bicheno / Freycinet
 
@@ -625,6 +899,25 @@ the garden of the Richmond Wine Centre, which, right down to the chairs,
 looked like a summer wine garden in southern Germany. Very bizarre, but
 still a charming place.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0060.jpg" alt="Richmond">
+      <em>Richmond</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0061.jpg" alt="Richmond">
+      <em>Richmond</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0062.jpg" alt="Richmond">
+  <em>Richmond</em>
+</figure>
+
 From there we followed the scenic east coast north via Orford and
 Swansea to Bicheno. Unfortunately the weather deteriorated dramatically,
 and with grey skies and rain we couldn’t really enjoy the scenery.
@@ -636,9 +929,33 @@ fragrant dry forest (rare in Tasmania) to the Apsley Waterhole: a large,
 beautifully turquoise pool in the Apsley River, in the middle of
 unspoilt nature.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0065.jpg" alt="Apsley Waterhole">
+  <em>Apsley Waterhole</em>
+</figure>
+
 Back on the coast we spent some time in Bicheno, a small holiday town
 set in very attractive coastal scenery, with white sandy coves between
 reddish rocks.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0063.jpg" alt="Around Bicheno">
+      <em>Around Bicheno</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0064.jpg" alt="Around Bicheno">
+      <em>Around Bicheno</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0066.jpg" alt="Around Bicheno">
+  <em>Around Bicheno</em>
+</figure>
 
 Then we headed south again to Coles Bay in Freycinet National Park, one
 of Tasmania’s most‑praised tourist attractions. On the way we stopped at
@@ -646,6 +963,11 @@ the Friendly Beaches. By then the sun was out again, the sky was blue,
 and the kilometres long, powdered‑sugar‑white sand beach with
 crystal‑clear water and green hinterland looked absolutely wonderful, a
 great teaser for the other highlights of the Freycinet Peninsula.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0067.jpg" alt="Friendly Beaches">
+  <em>Friendly Beaches</em>
+</figure>
 
 We drove to the camping ground in Coles Bay, the beautifully located
 tourist hub of the national park. At Iluka Holiday Park we got a
@@ -656,7 +978,23 @@ bit stingy: reef & beef (A\$24) and pan‑fried blue‑eye fish of the day
 
 Before dinner I took a little trip into the national park, enjoyed the
 wonderful views from Cape Tourville and walked to pretty little Sleepy
-Bay, with its pink fine‑gravel beach between red rocks. On the way back
+Bay, with its pink fine‑gravel beach between red rocks.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0068.jpg" alt="Freycinet NP">
+      <em>Freycinet NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0069.jpg" alt="Freycinet NP">
+      <em>Freycinet NP</em>
+    </figure>
+
+</div>
+
+On the way back
 I stopped briefly at the equally picturesque Honeymoon Bay and ate half
 a dozen delicious Tasmanian oysters at the lovely Oystercatcher in Coles
 Bay, with views of the national park’s impressive rock formations. They
@@ -668,6 +1006,39 @@ Glorious summer weather today, and we spent most of the day in the
 magnificent Freycinet National Park. We did a long loop: first up to the
 fantastic Wineglass Lookout, with views on a Ko Phi Phi level, down to
 the dazzling white beach of the same name, where we went for a swim.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0070.jpg" alt="Freycinet NP">
+      <em>Freycinet NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0071.jpg" alt="Freycinet NP">
+      <em>Freycinet NP</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0072.jpg" alt="Freycinet NP">
+      <em>Freycinet NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0073.jpg" alt="Freycinet NP">
+      <em>Freycinet NP</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0074.jpg" alt="Freycinet NP">
+  <em>Freycinet NP</em>
+</figure>
 
 Half an hour later, across a narrow neck of the peninsula, we made it to
 the almost equally magnificent Hazards Beach. The sand wasn’t dazzling
@@ -694,18 +1065,56 @@ smoked‑salmon pie and cappuccino at the Wine Centre, drove to the Tasman
 Peninsula, another stunning coastal region with impressive scenery,
 which we explored in depth.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0079.jpg" alt="Tasman Peninsula">
+      <em>Tasman Peninsula</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0080.jpg" alt="Tasman Peninsula">
+      <em>Tasman Peninsula</em>
+    </figure>
+
+</div>
+
 Our first destination was the white sand of Fortescue Bay at the end of
 a 12‑km gravel road. What I liked most there was the lagoon, with
 wonderfully green water surrounded by dense forest.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0075.jpg" alt="Tasman Peninsula - Fortescue Bay">
+      <em>Tasman Peninsula - Fortescue Bay</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0076.jpg" alt="Tasman Peninsula - Fortescue Bay">
+      <em>Tasman Peninsula - Fortescue Bay</em>
+    </figure>
+
+</div>
 
 Our next stop was Port Arthur. This very well‑preserved former convict
 settlement, set in beautiful scenery, is considered one of Tasmania’s
 biggest tourist attractions. We were content with the view from the
 lookout, though, because the A\$24 entrance fee struck us as a bit much.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0077.jpg" alt="Tasman Peninsula - Port Arthur">
+  <em>Tasman Peninsula - Port Arthur</em>
+</figure>
+
 Instead we drove along the pretty coastline to the end of the road,
 where Remarkable Cave was a real highlight: a rock opening shaped like
 Tasmania in a beautiful bay. Truly remarkable!
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0078.jpg" alt="Tasman Peninsula - Remarkable Cave">
+  <em>Tasman Peninsula - Remarkable Cave</em>
+</figure>
 
 We also drove around the rest of the peninsula (White Beach, Nubeena:
 wonderful scenery, green meadows, forests, lonely beaches) and at
@@ -724,6 +1133,11 @@ continued through the beautiful Huon River Valley (with its orchards,
 vineyards and historic little towns, like the charming Franklin)
 towards the south coast.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0081.jpg" alt="Hobart - Nelson Lookout">
+  <em>Hobart - Nelson Lookout</em>
+</figure>
+
 Near Geeveston we took a detour into the Southern Forests and did a
 short walk at Keoghs Creek. The main goal today, however, was Cockle
 Creek at the end of the southernmost road in Australia. The last 20 km
@@ -731,10 +1145,52 @@ were dirt road, but the trip down was absolutely worth it: wonderful
 white sandy bays in beautiful coastal scenery with a lagoon, a remote,
 unspoilt area with something magical about it.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0083.jpg" alt="Cockle Creek">
+      <em>Cockle Creek</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0084.jpg" alt="Cockle Creek">
+      <em>Cockle Creek</em>
+    </figure>
+
+</div>
+
 We had a picnic and a swim before returning to civilisation, which in
 Tasmania isn’t exactly loud or hectic anyway. The entire drive (first
 along the Huon River, then along the coast almost to Hobart) was
 gorgeous: great views, hardly any settlements.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0085.jpg" alt="Huon River Valley">
+      <em>Huon River Valley</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0086.jpg" alt="Huon River Valley">
+      <em>Huon River Valley</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0087.jpg" alt="Huon River Valley">
+      <em>Huon River Valley</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0088.jpg" alt="Huon River Valley">
+      <em>Huon River Valley</em>
+    </figure>
+
+</div>
 
 We made just one stop in the nice historic little town of Cygnet, on a
 picturesque bay, where we had cappuccino and delicious chocolate cake at
@@ -755,6 +1211,34 @@ Despite being so close to Hobart, Bruny is still considered something of
 an insider tip: sparsely populated, beautifully scenic, with long white
 sandy beaches, lovely bays, wooded hills, and that “end of the world”
 landscape around the windy Cape Bruny lighthouse.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0089.jpg" alt="Bruny Island">
+      <em>Bruny Island</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0090.jpg" alt="Bruny Island">
+      <em>Bruny Island</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0091.jpg" alt="Bruny Island">
+      <em>Bruny Island</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0092.jpg" alt="Bruny Island">
+      <em>Bruny Island</em>
+    </figure>
+
+</div>
 
 Most of the island’s roads are unsealed, but easy enough to drive, and
 we drove almost all of them. After a delicious lunch at the wonderfully
@@ -779,16 +1263,58 @@ the oldest part of Hobart, a genuinely picturesque village of
 wonderfully photogenic terraced houses, cafés, restaurants and a quiet
 atmosphere.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0093.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0094.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+</div>
+
 And from almost everywhere in the city you can see the majestic
 1,300‑metre Mount Wellington towering above it all; from the summit you
 get impressive views over Hobart and Tasmania’s entire south‑east coast.
 Also well worth doing was a harbour cruise on an old tourist boat (A\$17
 for 90 minutes) for a different perspective.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0095.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0096.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+</div>
+
 Every Saturday Hobart also has what’s arguably the biggest outdoor
 market for a city this size: the fantastic Salamanca Market, with
 hundreds of stalls where you can buy pretty much anything, from koala
 plush toys to German currywurst.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0097.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0098.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+</div>
 
 Hobart has a lot to offer food‑wise too: countless seafood restaurants
 and stalls at the harbour, and a big choice of ethnic food, especially
@@ -806,7 +1332,23 @@ sauce with garlic and basil (A\$18). The pad thai (A\$13.50) was rather
 mediocre.
 
 As far as cafés go, Queenshead in North Hobart had the best cappuccino;
-the prettiest café was The Village Store in Battery Point. And when it
+the prettiest café was The Village Store in Battery Point.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0099.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0100.jpg" alt="Hobart">
+      <em>Hobart</em>
+    </figure>
+
+</div>
+
+And when it
 comes to pubs, Hobart feels very cosmopolitan too: and pretty much
 everywhere they had a delicious liquorice-like stout on tap, Cascade
 Special Stout. We went to Shipswrights Arms Hotel in Battery Point,
@@ -828,16 +1370,63 @@ through a landscape that, for Tasmania, is fairly unspectacular, very
 dry, brown summer hills that feel almost Southern‑European.
 
 To relieve the monotony, there are a few pretty historic little towns
-along the way, like Oatlands or the picturesque village of Ross. North
+along the way, like Oatlands or the picturesque village of Ross.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0101.jpg" alt="Ross">
+      <em>Ross</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0102.jpg" alt="Ross">
+      <em>Ross</em>
+    </figure>
+
+</div>
+
+North
 of Ross we left the highway and headed for the north‑east coast. The
 closer we got to the sea, the lusher and greener the vegetation became.
 
 At the Mount Elephant Pass near the coast there’s a beautiful little
 countryside café in the middle of nowhere with tasty crêpe specialities,
 not cheap, though (A\$16.50 for a crêpe filled with chicken,
-blueberries and camembert). After the pass we hit the coastal road at
+blueberries and camembert).
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0103.jpg" alt="Mt. Elephant Pass">
+  <em>Mt. Elephant Pass</em>
+</figure>
+
+After the pass we hit the coastal road at
 the grand, long Lagoon Beach. As far as St Helens the road runs past
 white, untouched beaches and beautiful lagoons.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0104.jpg" alt="Around St. Helens">
+      <em>Around St. Helens</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0106.jpg" alt="Around St. Helens">
+      <em>Around St. Helens</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0107.jpg" alt="Around St. Helens">
+  <em>Around St. Helens</em>
+</figure>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0105.jpg" alt="Around St. Helens - Peron Dunes">
+  <em>Around St. Helens - Peron Dunes</em>
+</figure>
 
 One of Tasmania’s most beautiful coastal landscapes (and that’s saying
 something) lies between St Helens and the cape of the same name on a
@@ -850,6 +1439,11 @@ excellent cappuccino) and also did two short inland walks to waterfalls,
 and the rainforest walk to the 90-metre-high St Columba Falls was
 particularly wonderful
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0108.jpg" alt="St. Columba Falls">
+  <em>St. Columba Falls</em>
+</figure>
+
 The road from there was a horrible gravel track through the forest and
 we were lucky our car made it. Back on sealed roads we drove through
 very picturesque, almost pre‑alpine rolling hills, past countless cow
@@ -859,7 +1453,14 @@ and a small pond. Unfortunately the facilities were old and grubby, but
 you know what they say about gift horses…
 
 We spent our last day in Launceston mostly doing chores: laundry,
-packing, returning the car, etc. We treated ourselves to lunch at
+packing, returning the car, etc.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0109.jpg" alt="Around Launceston">
+  <em>Around Launceston</em>
+</figure>
+
+We treated ourselves to lunch at
 Stillwater, considered one of Tasmania’s best restaurants, though with
 all the great fresh produce here you don’t have to be a genius to put
 good food on a plate. The fish fillet with ginger mash was tasty, as
@@ -869,6 +1470,11 @@ but eating well in a nice setting is still nice.
 
 We stayed again at the Launceston Backpackers and flew back to Melbourne
 the next morning (Virgin Blue, A\$58).
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0110.jpg" alt="Launceston Airport">
+  <em>Launceston Airport</em>
+</figure>
 
 ## 3 Mar 2005 — Leaving Australia: Great Ocean Road / Ballarat / Geelong
 
@@ -885,6 +1491,11 @@ coastal roads in the world, and from Melbourne it’s just a 700‑km loop,
 which is nothing by Australian standards. The Great Ocean Road really is
 well worth it and incredibly varied.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0111.jpg" alt="Melbourne">
+  <em>Melbourne</em>
+</figure>
+
 Over those two days we saw cute koalas in their natural habitat on Cape
 Otway Road; impressive green coastline with lonely beaches between
 Anglesea and Apollo Bay; the beautiful Erskine Falls in rainforest near
@@ -894,6 +1505,77 @@ course, the famous sandstone formations around Port Campbell: the
 postcard scenes of the Twelve Apostles, Gibson Beach, Loch Ard Gorge,
 and so on.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0112.jpg" alt="Great Ocean Road">
+      <em>Great Ocean Road</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0116.jpg" alt="Great Ocean Road">
+      <em>Great Ocean Road</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0117.jpg" alt="Great Ocean Road">
+      <em>Great Ocean Road</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0118.jpg" alt="Great Ocean Road">
+      <em>Great Ocean Road</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0113.jpg" alt="Great Ocean Road - Erskine Falls">
+  <em>Great Ocean Road - Erskine Falls</em>
+</figure>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0119.jpg" alt="Great Ocean Road - Cape Otway Rd">
+  <em>Great Ocean Road - Cape Otway Rd</em>
+</figure>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0120.jpg" alt="Great Ocean Road - Around Port Campbell">
+      <em>Great Ocean Road - Around Port Campbell</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0121.jpg" alt="Great Ocean Road - Around Port Campbell">
+      <em>Great Ocean Road - Around Port Campbell</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0122.jpg" alt="Great Ocean Road - Around Port Campbell">
+      <em>Great Ocean Road - Around Port Campbell</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0123.jpg" alt="Great Ocean Road - Around Port Campbell">
+      <em>Great Ocean Road - Around Port Campbell</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0124.jpg" alt="Great Ocean Road - Around Port Campbell">
+  <em>Great Ocean Road - Around Port Campbell</em>
+</figure>
+
 We spent the first night at a wonderfully located small campsite (A\$20)
 near Lorne, right by Cumberland Creek in a pretty little canyon where
 ducks and kangaroos wandered around on the grass. We enjoyed a delicious
@@ -901,9 +1583,39 @@ seafood dinner at the Pier Restaurant in Lorne right by the sea: tasty
 grilled baby snapper (A\$28) and garlic scallops (A\$15), plus a
 beautiful sunset over Lorne.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0114.jpg" alt="Great Ocean Road - Lorne">
+      <em>Great Ocean Road - Lorne</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0115.jpg" alt="Great Ocean Road - Lorne">
+      <em>Great Ocean Road - Lorne</em>
+    </figure>
+
+</div>
+
 On the way back to Melbourne we made a detour to Ballarat, a former
 gold‑rush boomtown whose centre still has magnificent 19th‑century
-buildings, at a scale and harmony you rarely find in Australia. There’s
+buildings, at a scale and harmony you rarely find in Australia.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0125.jpg" alt="Ballarat">
+      <em>Ballarat</em>
+    </figure>
+
+  <figure>
+      <img src="photos/MelbourneTasmaniaGOR2005-0126.jpg" alt="Ballarat">
+      <em>Ballarat</em>
+    </figure>
+
+</div>
+
+There’s
 a reason Ballarat is one of Victoria’s biggest tourist attractions.
 
 On the last evening we treated ourselves once more to a very good dinner
@@ -925,5 +1637,12 @@ say, “Geelong isn’t a city where you spend your honeymoon,” it still has
 a very pretty green harbour promenade and enough street cafés to be
 reasonably attractive, and more than that: right in the centre of
 Geelong there was a Bretzel café that bakes possibly the best pretzels
-east of Stuttgart. Good‑bye, Australia!
+east of Stuttgart.
+
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0127.jpg" alt="Geelong">
+  <em>Geelong</em>
+</figure>
+
+Good‑bye, Australia!
 
