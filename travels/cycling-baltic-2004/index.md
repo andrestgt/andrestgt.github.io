@@ -996,13 +996,13 @@ raw beef salad, high-end gourmet cooking in stylish Asian surroundings.
 
 Pricey for Vilnius (around 100 lita for two), but worth every centas.
 
+One floor below, the chic Hawaii Bar has a lovely terrace and excellent
+cocktails (12–14 lita).
+
 <figure>
   <img src="photos/CyclingBaltics2004-0081.jpg" alt="Vilnius - Hawaii.Bar">
   <em>Vilnius - Hawaii.Bar</em>
 </figure>
-
-One floor below, the chic Hawaii Bar has a lovely terrace and excellent
-cocktails (12–14 lita).
 
 ## Day 15 — 7 August 2004
 
