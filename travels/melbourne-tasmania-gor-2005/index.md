@@ -1145,6 +1145,11 @@ were dirt road, but the trip down was absolutely worth it: wonderful
 white sandy bays in beautiful coastal scenery with a lagoon, a remote,
 unspoilt area with something magical about it.
 
+<figure>
+  <img src="photos/MelbourneTasmaniaGOR2005-0082.jpg" alt="Lune River">
+  <em>Lune River</em>
+</figure>
+
 <div class="photo-row">
 
   <figure>
