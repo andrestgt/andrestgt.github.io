@@ -235,6 +235,34 @@ huts are being replaced by comfortable air‑con bungalows; prices are
 going up; and since my last stay six months ago several new bars have
 opened, and even a Mexican restaurant.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0018.jpg" alt="Ao Thong Nai Pan Noi">
+      <em>Ao Thong Nai Pan Noi</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0021.jpg" alt="Ao Thong Nai Pan Noi">
+      <em>Ao Thong Nai Pan Noi</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0019.jpg" alt="Ao Thong Nai Pan Yai">
+      <em>Ao Thong Nai Pan Yai</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0020.jpg" alt="Ao Thong Nai Pan Yai">
+      <em>Ao Thong Nai Pan Yai</em>
+    </figure>
+
+</div>
+
 But that’s happening all over the island now, and Ko Phangan hasn’t been
 a destination for hardcore budget backpackers for a long time. Even
 though the roads are still in bad shape, more and more families and
@@ -285,6 +313,25 @@ especially at night when it’s lit up. We had a very spacious room with
 an old‑fashioned bathroom; a little musty and without a window, but
 otherwise perfectly fine for 160 MOP.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0022.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0023.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0035.jpg" alt="Macau - Hotel Central">
+  <em>Macau - Hotel Central</em>
+</figure>
+
 On the first evening we went out for a few beers in a bar in Nape, the
 nightlife district, and although Macau is probably cheaper than Hong
 Kong, the prices after Thailand were rather painful (88 MOP for six
@@ -293,6 +340,62 @@ the peninsula: we visited Monte Fort, spent some time in the
 entertaining Macau Museum, saw the ruins of St Paul’s, and took a long
 walk to the 12th‑century A‑Ma Temple and back along the Avenida da
 República promenade.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0024.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0025.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0026.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0027.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0028.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0029.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0030.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0031.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+</div>
 
 Macau is an interesting and attractive city, Chinese, with a fairly
 well‑preserved Portuguese legacy. But it hasn’t been a sleepy little
@@ -309,6 +412,25 @@ Macau, and we walked along the quite pretty coast to Hac Sa beach. Back
 in Macau we wandered through the very pleasant, authentic Chinese
 quarter southwest of Avenida do Ribeiro, with lots of traditional shops
 and seafood restaurants.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0032.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0033.jpg" alt="Macau">
+      <em>Macau</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0034.jpg" alt="Macau">
+  <em>Macau</em>
+</figure>
 
 On Saturday at lunchtime we took the fast boat to Hong Kong. The
 crossing (HK\$155) took only an hour, but it’s not recommended for
@@ -332,6 +454,16 @@ very tasty and surprisingly cheap (\$30). The room was only bearable
 when completely drunk, so we went for six beers (\$109) during happy
 hour at the pretty 48th St Blues Bar and afterwards drank a bottle of
 Sang Som with Coke back in the room, but what happened next?
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0036.jpg" alt="Hongkong - Kowloon">
+  <em>Hongkong - Kowloon</em>
+</figure>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0037.jpg" alt="Hongkong">
+  <em>Hongkong</em>
+</figure>
 
 Today we checked out and moved to the Cosmic Guesthouse on the 12th
 floor of Mirador Mansions, a much better choice. The room here (\$200)
