@@ -823,6 +823,20 @@ trip to Sihanoukville was, as I’d expected, a nine‑hour nightmare with
 wanted: to experience Cambodia again the way it was five years earlier,
 before tourist vans and all that.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0058.jpg" alt="En route to Sihanoukville">
+      <em>En route to Sihanoukville</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0059.jpg" alt="En route to Sihanoukville">
+      <em>En route to Sihanoukville</em>
+    </figure>
+
+</div>
+
 Of course I could have taken the ferry to Sihanoukville, which would
 have taken only three and a half hours, but I’d already done that trip
 and I was curious about the new road through what used to be
@@ -843,6 +857,11 @@ nice, very individually decorated room (Japanese themed; every room has
 a different theme) with private bathroom (unfortunately with a squat
 toilet, the only downside) still excellent value for money, and the
 atmosphere in the cosy lounge is great too.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0068.jpg" alt="Sihanoukville - Geckozy">
+  <em>Sihanoukville - Geckozy</em>
+</figure>
 
 The guesthouse is run by a German‑Japanese team, accordingly very well
 kept, with an interesting menu at very fair prices (Lao beer, 75 cents).
@@ -875,6 +894,25 @@ feeling there are simply not enough coconut palms, and the beaches are
 fairly narrow. And everywhere (like all over the country) there’s
 rubbish lying around.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0060.jpg" alt="Sihanoukville">
+      <em>Sihanoukville</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0061.jpg" alt="Sihanoukville">
+      <em>Sihanoukville</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0062.jpg" alt="Sihanoukville">
+  <em>Sihanoukville</em>
+</figure>
+
 Five years ago the special appeal was that the beaches were still
 relatively empty and unspoilt. That’s over too: Sihanoukville is now an
 obligatory stop on any Southeast Asia trip. But enough negativity. The
@@ -900,6 +938,11 @@ garlic‑chilli sauce: a true gourmet meal right on the beach. Mud crabs,
 with their delicious slightly sweet meat, are a highly sought‑after and
 outrageously expensive delicacy in the Western world.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0063.jpg" alt="Sihanoukville - Hawaii Beach">
+  <em>Sihanoukville - Hawaii Beach</em>
+</figure>
+
 After that I checked out Weather Station Hill, ground zero for
 backpackers in Sihanoukville, and the place where we’d stayed five years
 ago. Not much has changed, except that there’s more choice now, and
@@ -907,6 +950,11 @@ with Papagayo there’s a wonderfully cosy cocktail‑and‑tapas bar with
 Latin‑American chill‑out music. This is where I’m writing these lines.
 For dessert I had some tasty stuffed gnocchi “Japanese style”, fusion
 style, for US\$1.50.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0064.jpg" alt="Sihanoukville - Papagayo">
+  <em>Sihanoukville - Papagayo</em>
+</figure>
 
 As I said: even if Sihanoukville isn’t exactly paradise, you can pamper
 yourself very well here for little money.
@@ -916,12 +964,45 @@ above town. The views over the city and the coast, with the many
 offshore islands, were great, and from up there Sihanoukville looked
 really quiet and tropical.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0065.jpg" alt="Sihanoukville">
+      <em>Sihanoukville</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0066.jpg" alt="Sihanoukville">
+      <em>Sihanoukville</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0067.jpg" alt="Sihanoukville">
+  <em>Sihanoukville</em>
+</figure>
+
 Before sunset I had a passable Cambodian fish soup on the beautiful
 terrace of the Mary‑an Guesthouse. I enjoyed the glorious sunset at
 Victory Beach. It may be the worst beach of them all, but it has the
 best beach bars in Sihanoukville and unobstructed views of the red
 fireball sinking into the sea right between the offshore islands, very
 picturesque, especially with the fishing boats on the shore.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0069.jpg" alt="Sihanoukville">
+      <em>Sihanoukville</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0070.jpg" alt="Sihanoukville">
+      <em>Sihanoukville</em>
+    </figure>
+
+</div>
 
 For dinner I treated myself to something really good again, since
 everything here is so affordable. I dined at La Paillotte, a chic French
@@ -931,6 +1012,11 @@ the chef (a Madagascan), in French. I had a fish carpaccio (US\$3) as a
 starter and barracuda fillet in ganja sauce (Khmer fusion, I’d call it)
 with thyme potatoes (US\$5) as my main. Both were excellently prepared
 and very tasty.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0071.jpg" alt="Sihanoukville - La Paillotte">
+  <em>Sihanoukville - La Paillotte</em>
+</figure>
 
 I ended the evening with two (surprisingly good) cocktails (US\$1.50)
 next door at Papagayo.
