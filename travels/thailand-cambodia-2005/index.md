@@ -1028,6 +1028,20 @@ road is nothing like it was five years ago: it’s fully paved now, and
 the first 75 kilometres are in excellent condition. The trip took less
 than two hours.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0072.jpg" alt="En route to Kampot">
+      <em>En route to Kampot</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0073.jpg" alt="En route to Kampot">
+      <em>En route to Kampot</em>
+    </figure>
+
+</div>
+
 Kampot itself has thankfully hardly changed since my last visit. It’s
 still a cosy provincial town on the river, with whole streets of French
 colonial architecture, an interesting, authentic market, and a peaceful
@@ -1037,6 +1051,25 @@ all still on a manageable scale, and the town hasn’t lost any of its
 atmosphere. And every now and then, a little more tourism would be
 welcome.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0074.jpg" alt="Kampot">
+      <em>Kampot</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0075.jpg" alt="Kampot">
+      <em>Kampot</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0076.jpg" alt="Kampot">
+  <em>Kampot</em>
+</figure>
+
 By now there’s even a proper traveller guesthouse with the fitting name
 Blissful, offering everything a backpacker needs: a cosy chill‑out
 lounge with hammocks, a cheap bar with happy hour, and clean rooms,
@@ -1044,11 +1077,30 @@ unfortunately all fully booked, so I had to settle for a dorm bed. That
 was fine: the dorm was basically a spacious triple room, the shared
 bathroom was big and clean, and for \$2.50 you really can’t complain.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0085.jpg" alt="Kampot - Blissful GH">
+  <em>Kampot - Blissful GH</em>
+</figure>
+
 I spent the day walking through Kampot’s streets, ate prawns with
 lemongrass at the local place by the bridge (8,000 riel), and enjoyed
 the glorious sunset by the river. For dinner I went to Ta Euv, a big
 seafood place on the river where only locals were eating. I had squid
 with broccoli (8,000 riel), very tasty.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0077.jpg" alt="Kampot">
+      <em>Kampot</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0078.jpg" alt="Kampot">
+      <em>Kampot</em>
+    </figure>
+
+</div>
 
 Today I rode a motorbike (\$3 a day) to Kep‑sur‑Mer, a former French
 seaside resort 25 kilometres east of Kampot. Most of the French villas
@@ -1063,9 +1115,47 @@ brilliant subjects for photos; second, you can eat fresh seafood
 cheaply. There are lots of vendors along the shore who cook it for you,
 and that’s reason enough to come here.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0079.jpg" alt="Kep sur Mer">
+      <em>Kep sur Mer</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0080.jpg" alt="Kep sur Mer">
+      <em>Kep sur Mer</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0081.jpg" alt="Kep sur Mer">
+  <em>Kep sur Mer</em>
+</figure>
+
 Back in Kampot I took a walk through the market and went to happy hour
 (5–6:30) at the Rusty Keyhole, a farang bar by the river: 5,000 riel for
 a big bottle of Angkor, and the sunset is free.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0082.jpg" alt="Kampot">
+      <em>Kampot</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0083.jpg" alt="Kampot">
+      <em>Kampot</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0084.jpg" alt="Kampot">
+  <em>Kampot</em>
+</figure>
 
 Luckily the happy hours here are well coordinated. At Blissful, happy
 hour starts at 7 p.m., and the Blue Lagoons (\$1.50) are excellent.
@@ -1090,6 +1180,34 @@ area at Boeung Kak Lake, at the simple Grand View Guesthouse. The room
 was small, but had a window with a lake view, a bathroom, and a big bed
 for \$3.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0086.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0087.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0088.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0089.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
 Although there were plenty of cheap bars and traveller cafés and the
 lakeside area, with its many wooden houses, was quite interesting and
 traditional, I decided to change location the next day; I had
@@ -1106,6 +1224,39 @@ candlelight, with cocktails, a bottle of French wine, and tasty tapas,
 mostly Mediterranean with Asian influences. Fair prices, nice
 atmosphere, good food.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0090.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0091.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0092.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0093.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0094.jpg" alt="Phnom Penh">
+  <em>Phnom Penh</em>
+</figure>
+
 I also really liked the Salt Lounge, a modern‑chic scene bar that struck
 me as very gay‑friendly and, in a city like Phnom Penh, almost feels out
 of place: comfy sofas, electronic beats, good cocktails. Something like
@@ -1115,6 +1266,25 @@ has hardly changed in any noticeable way.
 For fun we took a one‑hour rickshaw ride for \$1 to the main sights. It
 was very nice, even though I already knew the city fairly well.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0095.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0096.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0097.jpg" alt="Phnom Penh">
+  <em>Phnom Penh</em>
+</figure>
+
 Personally, I think Phnom Penh is an extremely attractive city with a
 strong feel‑good factor, a place where you can easily spend a week or
 more, and a worthy end to my trip. Of course that’s purely from a
@@ -1122,11 +1292,35 @@ tourist’s perspective. In Cambodia, even in the capital, many things are
 still going catastrophically wrong. To see that, you only have to walk
 around with open eyes and occasionally glance at the Phnom Penh Post.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0098.jpg" alt="Phnom Penh">
+  <em>Phnom Penh</em>
+</figure>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0099.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0100.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
 Since a flight to Bangkok cost over \$100, I decided to go back by bus
 (\$16), as fast as possible via Battambang. It was still a long 15‑hour
 trip, and I only arrived in Bangkok late in the evening. I treated
 myself to something properly nice one last time and took a small,
 luxurious room at Majestic Suites on Sukhumvit for 1,200 baht.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0101.jpg" alt="Bangkok - Majestic Suites">
+  <em>Bangkok - Majestic Suites</em>
+</figure>
 
 Currencies:\
 €1 = A\$1.70 = F\$2.18 = 51 baht = HK\$10.5 = MOP 10.5 = 5,000 riel
