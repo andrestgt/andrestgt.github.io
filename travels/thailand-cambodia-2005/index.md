@@ -451,9 +451,8 @@ agreed that Hong Kong, for all that, is a fascinating, very pleasant
 city where you can really feel quite at home. I ate at the nice, busy
 fusion restaurant Red Ants: “Shredded Duck and Jellyfish in Chili Sauce”,
 very tasty and surprisingly cheap (\$30). The room was only bearable
-when completely drunk, so we went for six beers (\$109) during happy
-hour at the pretty 48th St Blues Bar and afterwards drank a bottle of
-Sang Som with Coke back in the room, but what happened next?
+when drunk, so we went for six beers (\$109) during happy
+hour at the pretty 48th St Blues Bar.
 
 <figure>
   <img src="photos/ThailandCambodia2005-0036.jpg" alt="Hongkong - Kowloon">
@@ -579,12 +578,7 @@ craving for it, even though it isn’t very sensible to order outrageously
 overpriced Käsespätzle (\$68) in a culinary paradise like Hong Kong.
 Still, the food was quite good and I enjoyed the Hefeweizen too (\$36,
 happy hour price).
-
-Elaine enjoyed her meatloaf with fried potatoes. When it comes to
-culinary pleasure she’s a hopeless case, and it’s very hard to find
-common ground. But I can adapt, even if it means needlessly spending a
-lot of money on Western food. After dinner we went for a wander around
-the Temple Street Night Market.
+After dinner we went for a wander around Temple Street Night Market.
 
 ## 26 March 2005
 
@@ -594,7 +588,7 @@ quite the opposite: it’s a great city everyone should see and
 experience. But the weather, the prices and the prospect of having a
 decent room all clearly speak in favour of Bangkok.
 
-The last two days were really nice. We spent most of our time on Hong
+The last couple of days were really pleasant. We spent most of our time on Hong
 Kong Island and took the bus to Shek O, one of the last villages left in
 Hong Kong’s concrete chaos, an oasis of calm, nice for strolling around
 and relaxing on the pretty beach. The setting is wonderful too, but Hong
@@ -730,18 +724,7 @@ comfortable room at Mango Lagoon Place on Rambuttri (700B) and enjoyed
 the air con and the luxury (carpet, couch, big comfortable bed) after
 the week in the Mansion. The days were very hot and I read a lot,
 either in my room or in a café/restaurant, and I enjoyed Bangkok’s cosy
-atmosphere, the low prices and the good food. Every now and then I met
-up with Elaine for dinner or a few beers.
-
-We’d decided to go our separate ways, since lately we’d been getting
-into arguments more and more often over silly little things and it made
-no sense to keep forcing ourselves to travel together. Very unfortunate,
-but probably the most sensible solution.
-
-One evening I met Peak for dinner, a well‑travelled woman from Bangkok
-from the VT community, and we talked about this and that: our travels,
-and the changes Bangkok, and especially Khao San, has gone through in
-recent years… that was really nice.
+atmosphere, the low prices and the good food.
 
 The culinary highlight was dinner at Hemlock on Phra Arthit Road, which
 quite rightly is considered the top Thai restaurant in Banglamphu. The
@@ -1111,7 +1094,7 @@ Still, the scenery is quite pretty, with tropical islands offshore,
 though there’s no accommodation on those beaches yet.
 
 I liked Kep for two reasons: first, the colonial ruins make great
-brilliant subjects for photos; second, you can eat fresh seafood
+subjects for photos; second, you can eat fresh seafood
 cheaply. There are lots of vendors along the shore who cook it for you,
 and that’s reason enough to come here.
 
@@ -1215,12 +1198,11 @@ absolutely no appetite for backpacker culture here. I got myself a nice
 \$10 room at Tiger Feet near the riverside promenade, with air‑con, TV,
 minibar, etc., and simply wanted to enjoy the last days of the trip.
 
-I met Elaine again and spent quite a bit of time with her, went shopping
+I met Elaine again and showed her around town, went shopping
 at the Russian Market, took long walks through Phnom Penh’s streets, and
-spent a lot of time in the lovely street cafés along the wonderful
-riverside promenade, or at Le Tamarin in gastronomically solid 240
-Street. One night we had an excellent dinner there on the balcony by
-candlelight, with cocktails, a bottle of French wine, and tasty tapas,
+spent a lot of time in the lovely cafés along the wonderful
+riverside promenade, or at Le Tamarin in Phnom Penh`s most culinary street, 240
+Street. One night we also had an excellent dinner there on the balcony with cocktails, a French wine, and tasty tapas,
 mostly Mediterranean with Asian influences. Fair prices, nice
 atmosphere, good food.
 
@@ -1264,7 +1246,7 @@ this certainly didn’t exist here five years ago, but otherwise the city
 has hardly changed in any noticeable way.
 
 For fun we took a one‑hour rickshaw ride for \$1 to the main sights. It
-was very nice, even though I already knew the city fairly well.
+was all very pleasant, even though I already knew the city fairly well.
 
 <div class="photo-row">
 
@@ -1290,7 +1272,7 @@ strong feel‑good factor, a place where you can easily spend a week or
 more, and a worthy end to my trip. Of course that’s purely from a
 tourist’s perspective. In Cambodia, even in the capital, many things are
 still going catastrophically wrong. To see that, you only have to walk
-around with open eyes and occasionally glance at the Phnom Penh Post.
+around with open eyes and occasionally read the Phnom Penh Post.
 
 <figure>
   <img src="photos/ThailandCambodia2005-0098.jpg" alt="Phnom Penh">
