@@ -618,7 +618,7 @@ Eating out in Jakarta is predictably more expensive than in the rest of the coun
 
 ## 7 February 2008
 
-After two wonderful weeks in Bali, during which I explored the entire island by motorbike, I arrived in Yogyakarta early at 8:30 AM and rode the roughly 10 km from the airport to the city centre. Since I had plenty of time, I checked out various losmen in Yogya’s traveller hub, Sosrowijayan, but quickly decided on Bladok. The rooms here were slightly more expensive than other budget accommodations, but Bladok is impeccably maintained, has a small pool, and generally offers a great atmosphere. My single room for 77,000 Rp was small but super clean and even quite stylish, featuring a beautiful Indonesian mandi. The attached restaurant served very decent but slightly overpriced, mostly Western dishes. I spent the rest of the day exploring Yogya, Indonesia’s most touristy city and certainly one of its most attractive. At its centre lies a walled old town that, even in the 21st century and despite tourism, still feels very traditional, village-like, and authentic. Wandering through the narrow alleys of this charming kampung is a wonderful way to spend a few hours, provided you wear sunglasses and earphones. Unfortunately, this positive impression of the city is significantly dampened by the sheer number of hustlers, touts, and scammers, more than in any other place I have visited outside of India. The becak drivers still earn my sympathy; it is a tough job, and the oversupply of pedicabs has reached almost grotesque proportions. Worse, however, are the batik sellers and touts who constantly harass you. This is a real shame because, otherwise, Yogya would be a very relaxed and attractive city by Indonesian standards. Yogya’s biggest tourist attraction, the Sultan’s Palace in the heart of the old town, is rather disappointing. Neither the architecture nor the exhibits in the rooms, in my opinion, justify the entrance fee. On the other hand, at least here you are not harassed by touts, which is, of course, a plus. Back in Sosrowijayan, I grabbed a bite at Bedhot Resto. Of all the traveller cafes in the area, this one is the most beautifully decorated, and the beef satay was also very tasty.
+After two wonderful weeks in Bali, during which I explored the entire island by motorbike, I arrived in Yogyakarta early at 8:30 AM and rode the roughly 10 km from the airport to the city centre. Since I had plenty of time, I checked out various losmen in Yogya’s traveller hub, Sosrowijayan, but quickly decided on Bladok. The rooms here were slightly more expensive than other budget accommodations, but Bladok is impeccably maintained, has a small pool, and generally offers a great atmosphere. My single room for 77,000 Rp was small but super clean and even quite stylish, featuring a beautiful Indonesian mandi. The attached restaurant served very decent but slightly overpriced, mostly Western dishes. I spent the rest of the day exploring Yogya, Indonesia’s most touristy city and certainly one of its most attractive.
 
 <div class="photo-row">
 
@@ -648,27 +648,29 @@ After two wonderful weeks in Bali, during which I explored the entire island by 
 
 </div>
 
+At its centre lies a walled old town that, even in the 21st century and despite tourism, still feels very traditional, village-like, and authentic. Wandering through the narrow alleys of this charming kampung is a wonderful way to spend a few hours, provided you wear sunglasses and earphones. Unfortunately, this positive impression of the city is significantly dampened by the sheer number of hustlers, touts, and scammers, more than in any other place I have visited outside of India. The becak drivers still earn my sympathy; it is a tough job, and the oversupply of pedicabs has reached almost grotesque proportions. Worse, however, are the batik sellers and touts who constantly harass you. This is a real shame because, otherwise, Yogya would be a very relaxed and attractive city by Indonesian standards. Yogya’s biggest tourist attraction, the Sultan’s Palace in the heart of the old town, is rather disappointing. Neither the architecture nor the exhibits in the rooms, in my opinion, justify the entrance fee. On the other hand, at least here you are not harassed by touts, which is, of course, a plus. Back in Sosrowijayan, I grabbed a bite at Bedhot Resto. Of all the traveller cafes in the area, this one is the most beautifully decorated, and the beef satay was also very tasty.
+
 ## 8 February 2008
 
-After a wonderful morning dip in the hotel pool, I spent the entire morning in Yogyakarta. This time, I decided to explore by bicycle, despite the traffic, the most pleasant way to get around the city since you are left alone while riding. Around 1 PM, I set off for Borobudur, about 40 km northwest of Yogya. The first 30 km, often slightly uphill, on the four-lane main road towards Semarang were rather boring to ride, with only occasional beautiful views of the 3,000-metre-high volcano, Gunung Merapi. The last 10 km on a quiet road to Borobudur led through beautiful landscapes, with rice fields lining the route. The entire Borobudur region is scenic, featuring vibrant rice paddies, coconut palms, and lush green hills in the background. I arrived just in time to check into my room at Lotus 2 Guesthouse before the heavy afternoon rain began. The guesthouse is only 500 metres from the temple entrance and has just two rooms, both huge and simply but stylishly furnished, featuring large four-poster beds with mosquito nets, a TV, a terrace overlooking the rice fields, and a gigantic warm-water mandi. The room would have easily been worth its 120,000 Rp price if the water supply had functioned better.
+After a wonderful morning dip in the hotel pool, I spent the entire morning in Yogyakarta. This time, I decided to explore by bicycle, despite the traffic, the most pleasant way to get around the city since you are left alone while riding. Around 1 PM, I set off for Borobudur, about 40 km northwest of Yogya. The first 30 km, often slightly uphill, on the four-lane main road towards Semarang were rather boring to ride, with only occasional beautiful views of the 3,000-metre-high volcano, Gunung Merapi. The last 10 km on a quiet road to Borobudur led through beautiful landscapes, with rice fields lining the route. The entire Borobudur region is scenic, featuring vibrant rice paddies, coconut palms, and lush green hills in the background.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Indonesia2008-0074.jpg" alt="Borobodur">
+  <em>Borobodur</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0074.jpg" alt="Borobodur">
-      <em>Borobodur</em>
-    </figure>
+I arrived just in time to check into my room at Lotus 2 Guesthouse before the heavy afternoon rain began.
 
-  <figure>
-      <img src="photos/Indonesia2008-0075.jpg" alt="Borobodur - Lotus 2 GH">
-      <em>Borobodur - Lotus 2 GH</em>
-    </figure>
+<figure>
+  <img src="photos/Indonesia2008-0075.jpg" alt="Borobodur - Lotus 2 GH">
+  <em>Borobodur - Lotus 2 GH</em>
+</figure>
 
-</div>
+The guesthouse is only 500 metres from the temple entrance and has just two rooms, both huge and simply but stylishly furnished, featuring large four-poster beds with mosquito nets, a TV, a terrace overlooking the rice fields, and a gigantic warm-water mandi. The room would have easily been worth its 120,000 Rp price if the water supply had functioned better.
 
 ## 9 February 2008
 
-I forced myself out of bed before sunrise to admire the Borobudur temple before the major tourist crowds arrived. The complex opens at 6 AM, and there were already about a dozen visitors at that time, mostly locals. Unfortunately, I had chosen a bad day to visit Java’s biggest tourist attraction. The weather was poor, which somewhat dulled the otherwise breathtaking views, and due to the weekend and the Chinese New Year holiday, the place was absolutely packed by 8 AM. Western tour groups are rarely a reason to avoid a site in Indonesia anymore; it is the domestic tourists who noisily roam their own country and can ruin the atmosphere of a venerable temple just as much as their European counterparts. That being said, Borobudur is a magnificent temple, richly decorated and dramatically perched on a hill amidst stunning landscapes. On clear days, it even offers views of the volcanoes to the east. Some travel guides mention Borobudur, Bagan, and Angkor in the same breath. While it is true that these are the most spectacular ancient temple complexes in Southeast Asia, the comparison, especially with Angkor, is rather flawed. However, I already knew this beforehand and was therefore not unnecessarily disappointed by overly high expectations. Borobudur is merely a single, isolated temple that, much like the Bayon in Angkor, has the aesthetic issue of not looking particularly spectacular from a distance. Its fascination only reveals itself upon closer inspection of its countless reliefs, Buddha statues, and stupas. Borobudur is certainly worth a visit, but unlike Angkor, it is not a place one must see before they die. On the way back to Yogyakarta, I took a different route than yesterday, a significantly hillier but far more beautiful road along narrow, well-paved country roads through the villages of Klangon and Seyegan. The journey passed through an attractive landscape of rivers and rice fields, even featuring rice terraces of almost Balinese beauty.
+I forced myself out of bed before sunrise to admire the Borobudur temple before the major tourist crowds arrived. The complex opens at 6 AM, and there were already about a dozen visitors at that time, mostly locals. Unfortunately, I had chosen a bad day to visit Java’s biggest tourist attraction. The weather was poor, which somewhat dulled the otherwise breathtaking views, and due to the weekend and the Chinese New Year holiday, the place was absolutely packed by 8 AM. Western tour groups are rarely a reason to avoid a site in Indonesia anymore; it is the domestic tourists who noisily roam their own country and can ruin the atmosphere of a venerable temple just as much as their European counterparts. That being said, Borobudur is a magnificent temple, richly decorated and dramatically perched on a hill amidst stunning landscapes.
 
 <div class="photo-row">
 
@@ -689,9 +691,11 @@ I forced myself out of bed before sunrise to admire the Borobudur temple before 
   <em>Borobodur</em>
 </figure>
 
+On clear days, it even offers views of the volcanoes to the east. Some travel guides mention Borobudur, Bagan, and Angkor in the same breath. While it is true that these are the most spectacular ancient temple complexes in Southeast Asia, the comparison, especially with Angkor, is rather flawed. However, I already knew this beforehand and was therefore not unnecessarily disappointed by overly high expectations. Borobudur is merely a single, isolated temple that, much like the Bayon in Angkor, has the aesthetic issue of not looking particularly spectacular from a distance. Its fascination only reveals itself upon closer inspection of its countless reliefs, Buddha statues, and stupas. Borobudur is certainly worth a visit, but unlike Angkor, it is not a place one must see before they die. On the way back to Yogyakarta, I took a different route than yesterday, a significantly hillier but far more beautiful road along narrow, well-paved country roads through the villages of Klangon and Seyegan. The journey passed through an attractive landscape of rivers and rice fields, even featuring rice terraces of almost Balinese beauty.
+
 ## 12 February 2008 — Prambanan & Solo
 
-I spent another two days in Yogya before continuing my journey by bike to Solo, the second cultural capital of Central Java (and Indonesia). However, compared to Yogyakarta, Solo is more second-tier when it comes to tourism. Between these two cities lies Prambanan, Java’s (and Indonesia’s) second most important ancient temple complex. Unlike the (Buddhist) Borobudur, Prambanan (which is Hindu) features multiple temples (some well-preserved, others in ruins) which would make it, in theory, even more visually appealing than Borobudur. I say 'in theory' because Prambanan was heavily damaged by the severe earthquake in mid-2006, and restoration work is still ongoing. Unfortunately, this meant that the main temples could only be viewed from a distance, surrounded by scaffolding, which made the visit feel somewhat pointless. However, once the temples are fully restored and accessible again, Prambanan will undoubtedly be a fascinating site and an outstanding attraction. I really liked Solo and stayed there for several days. Similar to Yogya, Solo also has an old town with a Kraton (sultan’s palace). While it may not be as picturesque as its rival, Solo is the more pleasant and friendlier of the two cities. There are no touts, no tourist district, and no aggressive batik sellers, making it an ideal place to experience authentic Javanese city life undisturbed and attend cultural events.
+I spent another two days in Yogya before continuing my journey by bike to Solo, the second cultural capital of Central Java (and Indonesia). However, compared to Yogyakarta, Solo is more second-tier when it comes to tourism. Between these two cities lies Prambanan, Java’s (and Indonesia’s) second most important ancient temple complex. Unlike the (Buddhist) Borobudur, Prambanan (which is Hindu) features multiple temples (some well-preserved, others in ruins) which would make it, in theory, even more visually appealing than Borobudur. I say 'in theory' because Prambanan was heavily damaged by the severe earthquake in mid-2006, and restoration work is still ongoing. Unfortunately, this meant that the main temples could only be viewed from a distance, surrounded by scaffolding, which made the visit feel somewhat pointless.
 
 <div class="photo-row">
 
@@ -707,42 +711,44 @@ I spent another two days in Yogya before continuing my journey by bike to Solo, 
 
 </div>
 
-<div class="photo-row">
+However, once the temples are fully restored and accessible again, Prambanan will undoubtedly be a fascinating site and an outstanding attraction. I really liked Solo and stayed there for several days.
 
-  <figure>
-      <img src="photos/Indonesia2008-0081.jpg" alt="Solo - O Solo Mio">
-      <em>Solo - O Solo Mio</em>
-    </figure>
+<figure>
+  <img src="photos/Indonesia2008-0081.jpg" alt="Solo - O Solo Mio">
+  <em>Solo - O Solo Mio</em>
+</figure>
+
+<div class="photo-row">
 
   <figure>
       <img src="photos/Indonesia2008-0082.jpg" alt="Solo">
       <em>Solo</em>
     </figure>
 
+  <figure>
+      <img src="photos/Indonesia2008-0083.jpg" alt="Solo">
+      <em>Solo</em>
+    </figure>
+
 </div>
 
-<figure>
-  <img src="photos/Indonesia2008-0083.jpg" alt="Solo">
-  <em>Solo</em>
-</figure>
+Similar to Yogya, Solo also has an old town with a Kraton (sultan’s palace). While it may not be as picturesque as its rival, Solo is the more pleasant and friendlier of the two cities. There are no touts, no tourist district, and no aggressive batik sellers, making it an ideal place to experience authentic Javanese city life undisturbed and attend cultural events.
 
 ## 15 February 2008 — Malang
 
-From Solo, I took a train to Malang, a fairly pleasant city with some remaining colonial buildings and a mild climate. Most travellers come here to organize tours to the famous Mt. Bromo. The mountainous surroundings of the city are said to be beautiful, but I couldn't verify this because I couldn’t find a rental motorbike anywhere in town. Since the weather wasn’t good for a Bromo tour, I decided to continue to Surabaya, but not before having dinner at Malang’s most extravagant restaurant, L’Amour Fou. This rather chic place serves decent Western dishes at affordable prices, offers wine and beer, and has a bold, love-themed interior that one wouldn’t expect in a Muslim country, especially not in the provinces. Discovering and experiencing such curiosities is one of the things that makes travelling so exciting.
+From Solo, I took a train to Malang, a fairly pleasant city with some remaining colonial buildings and a mild climate.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Indonesia2008-0084.jpg" alt="Malang">
+  <em>Malang</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0084.jpg" alt="Malang">
-      <em>Malang</em>
-    </figure>
+<figure>
+  <img src="photos/Indonesia2008-0085.jpg" alt="Malang - Toko Oen">
+  <em>Malang - Toko Oen</em>
+</figure>
 
-  <figure>
-      <img src="photos/Indonesia2008-0085.jpg" alt="Malang - Toko Oen">
-      <em>Malang - Toko Oen</em>
-    </figure>
-
-</div>
+Most travellers come here to organize tours to the famous Mt. Bromo. The mountainous surroundings of the city are said to be beautiful, but I couldn't verify this because I couldn’t find a rental motorbike anywhere in town. Since the weather wasn’t good for a Bromo tour, I decided to continue to Surabaya, but not before having dinner at Malang’s most extravagant restaurant, L’Amour Fou. This rather chic place serves decent Western dishes at affordable prices, offers wine and beer, and has a bold, love-themed interior that one wouldn’t expect in a Muslim country, especially not in the provinces. Discovering and experiencing such curiosities is one of the things that makes travelling so exciting.
 
 ## 16 February 2008 — Surabaya
 
