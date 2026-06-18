@@ -37,6 +37,81 @@ Then I took a tuk‑tuk to MBK, did a bit of shopping and went to the
 cinema. Constantine has to be one of the worst films I’ve seen in years,
 but with a ticket price of 120 baht that’s not too tragic.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0001.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0002.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0003.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0004.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0005.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0006.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0007.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0008.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0009.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0010.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0011.jpg" alt="Bangkok">
+  <em>Bangkok</em>
+</figure>
+
 I took the Skytrain and the boat back to Banglamphu, ate a good red
 squid curry in my guesthouse and went to bed early.
 
@@ -74,16 +149,40 @@ nice, secluded bungalow on stilts with private bathroom and a veranda at
 Mountain View Lodge (200 baht) and enjoyed the privacy and the quiet
 forest location for a while.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0012.jpg" alt="Khao Sok NP - Mountain View Lodge">
+  <em>Khao Sok NP - Mountain View Lodge</em>
+</figure>
+
 At midday I went on an almost three‑hour elephant trek (700 baht). I had
 my own elephant, and although we didn't end up riding inside the
 national park, the area was very beautiful, karst scenery like in Khao
 Sok itself.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0013.jpg" alt="Khao Sok NP">
+  <em>Khao Sok NP</em>
+</figure>
 
 In the afternoon the friendly young owner of the resort drove us to a
 nearby cave temple where lots of monkeys hang around and we could feed
 them. I spent the evening with a Chang beer on my veranda, listened to
 music and looked out over the jungle. A wonderful place; I felt very
 comfortable.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0014.jpg" alt="Khao Sok NP">
+      <em>Khao Sok NP</em>
+    </figure>
+
+  <figure>
+      <img src="photos/ThailandCambodia2005-0015.jpg" alt="Khao Sok NP">
+      <em>Khao Sok NP</em>
+    </figure>
+
+</div>
 
 Today was very tiring. I spent almost the entire day in the national
 park, whose entrance is about a 15‑minute walk from my bungalow. Along
@@ -97,11 +196,21 @@ brochure with possible walks and the trails were fairly well signposted.
 After Tasmania, where most paths are also suitable for people who
 aren’t very fit, I first had to readjust to the Thai jungle.
 
+<figure>
+  <img src="photos/ThailandCambodia2005-0016.jpg" alt="Khao Sok NP">
+  <em>Khao Sok NP</em>
+</figure>
+
 I walked 7 km to Ton Glay waterfall. The last couple of kilometres were
 very tough, partly on steep trails that are hard to walk even when dry.
 I must have lost at least five litres of water; luckily there were
 enough small waterfalls along the way, and even a nice canyon with pools
 to cool off in.
+
+<figure>
+  <img src="photos/ThailandCambodia2005-0017.jpg" alt="Khao Sok NP">
+  <em>Khao Sok NP</em>
+</figure>
 
 The area is definitely pretty, especially the karst landscape, similar
 to Krabi province, but at the moment everything is incredibly dry, so it
