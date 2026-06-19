@@ -42,8 +42,7 @@ at the end of it you find a full-blown tourist resort.
 
 From Puerto Colombia it was only a few minutes' walk to beautiful Playa
 Grande, a bay fringed with coconut palms where I could pitch my tent.
-Despite the crowds of (local) tourists, it was a lovely little patch of
-earth.
+Despite the crowds of (local) tourists, it was a lovely place on earth.
 
 ## Day 3 – 12 Sep
 
@@ -572,7 +571,7 @@ Bolívar and Caracas.
 
 On the way I stopped briefly in Puerto La Cruz, the main beach resort
 for wealthy Venezuelans, but the place wasn’t particularly attractive
-and was shockingly expensive.
+and shockingly expensive.
 
 Santa Fe lies in Mochima National Park, a very beautiful hilly coastal
 region with plenty of offshore islands whose coral reefs are said to be
@@ -581,7 +580,7 @@ offer, even if it is one of the most popular traveller hangouts in
 Venezuela. The beach is decent enough, there are a few foreign-run
 posadas right by the sea, and the cocktails are cheap.
 
-Unfortunately the weather was exceptionally bad today, and of all days,
+Unfortunately the weather was exceptionally bad today of all days,
 just when I’d actually wanted to relax on the beach. Bad luck!
 
 I stayed at the Sierra Inn in a respectable but far too expensive
@@ -593,7 +592,7 @@ enjoy the pleasant evening atmosphere by the beach.
 
 My last day at the beach, and the weather was actually quite good. I
 wanted to treat myself once more, so I ate grilled fish and drank
-cocktails at Santa Fe’s nicest restaurant, right on the beach terrace.
+cocktails at Santa Fe’s nicest restaurant, right on their beachside terrace.
 
 In the evening there was, of course, beer and cocktails again. There
 really wasn’t anything else to do here.
@@ -604,8 +603,8 @@ In the morning I took the bus to Caracas, where I spent a few hours
 before my flight back to Europe.
 
 Caracas is by no means a beautiful city, and it doesn’t really have any
-tourist sights. Still, it’s very well located and offers all the
-advantages of a big city: lively markets and boulevards, street cafés
+tourist sights. Still, it has quite a spectacular setting and offers all the
+advantages of a big city: lively markets and boulevards, outdoor cafés
 and restaurants, and a good Metro system. On the other hand, the city is
 almost completely surrounded by dreadful slums, like the ones I’d
 previously only seen in Bombay.
@@ -649,7 +648,7 @@ up with every inconvenience and return home overwhelmed. From
 palm-fringed Caribbean beaches to flower-covered Andean valleys; from
 the world’s highest waterfall in the middle of the jungle to the unique
 landscapes and vegetation of the tepuis, describing Venezuela’s nature
-is almost impossible; you simply run out of superlatives. You simply
+is almost impossible; one quickly runs out of superlatives. You simply
 have to experience it yourself.
 
 ## Currencies
