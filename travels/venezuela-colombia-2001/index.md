@@ -25,6 +25,11 @@ the night.
 I liked Amsterdam a lot: a fascinating mix of neat façades and grubby
 subculture.
 
+<figure>
+  <img src="photos/VenezuelaColombia2001-0001.jpg" alt="Amsterdam">
+  <em>Amsterdam</em>
+</figure>
+
 That night I flew on via Curaçao to Caracas.
 
 ## Day 2 – 11 Sep
@@ -47,9 +52,21 @@ Despite the crowds of (local) tourists, it was a lovely place on earth.
 ## Day 3 – 12 Sep
 
 In the morning I walked to Choroní, a pretty, quiet little colonial town
-a few kilometres inland. Afterwards: sunbathing at Playa Grande.
+a few kilometres inland.
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0003.jpg" alt="Choroní">
+  <em>Choroní</em>
+</figure>
+
+Afterwards: sunbathing at Playa Grande.
 
 Another night camping between the coconut palms.
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0002.jpg" alt="Playa Grande">
+  <em>Playa Grande</em>
+</figure>
 
 ## Day 4 – 13 Sep (travel day)
 
@@ -68,6 +85,11 @@ A lazy day in the pretty, pleasant colonial town of Coro (a UNESCO World
 Heritage Site, no less). There isn’t much to do here beyond strolling
 the streets and soaking up the calm atmosphere.
 
+<figure>
+  <img src="photos/VenezuelaColombia2001-0004.jpg" alt="Coro">
+  <em>Coro</em>
+</figure>
+
 For budget reasons, I switched accommodation, an excellent decision.
 Posada El Gallo is a beautiful colonial house with a courtyard and a
 real guesthouse vibe. A good place to lie in a hammock, drink cold beer,
@@ -84,6 +106,16 @@ highlights that made it worthwhile: Las Salinas, a large pink salt lake
 that looks utterly unreal (its colour comes from natural plankton), and
 the Médanos de Coro, huge sand dunes that really make you feel as if
 you’ve landed in the desert.
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0005.jpg" alt="Peninsula de Paraguaná">
+  <em>Peninsula de Paraguaná</em>
+</figure>
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0006.jpg" alt="Medanos de Coro">
+  <em>Medanos de Coro</em>
+</figure>
 
 Afterwards, another relaxed evening at the posada with Polar beer.
 
@@ -116,6 +148,20 @@ Mediterranean it seemed instead: rocky headlands alternating with small
 shingle coves, sparse vegetation, and cacti rather than coconut palms. A
 very beautiful area.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0007.jpg" alt="Taganga">
+      <em>Taganga</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0008.jpg" alt="Taganga">
+      <em>Taganga</em>
+    </figure>
+
+</div>
+
 Another evening in Santa Marta and another night at Casa Familiar.
 
 ## Day 9 – 18 Sep
@@ -138,9 +184,65 @@ quarter could be so well preserved. The historic centre is surrounded by
 a wall you can walk along, and the rows of colonial houses look simply
 magical.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0009.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0010.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0011.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0012.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+</div>
+
 Cartagena is without question one of the most beautiful and interesting
 cities I’ve ever seen, and it alone would have justified the detour
 into Colombia.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0013.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0014.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0015.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0016.jpg" alt="Cartagena">
+      <em>Cartagena</em>
+    </figure>
+
+</div>
 
 In the evening I went out a bit with a few other travellers, but the
 prices in the posher places in the centre were almost at European levels
@@ -173,6 +275,25 @@ The path ran mostly through jungle, and there was a nice place to swim
 along the way. Best of all, though, was a waterfall near our destination
 with a deep pool where you could cool off, soaked in sweat as we were.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0017.jpg" alt="Ciudad Perdida Trek">
+      <em>Ciudad Perdida Trek</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0018.jpg" alt="Ciudad Perdida Trek">
+      <em>Ciudad Perdida Trek</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0019.jpg" alt="Ciudad Perdida Trek">
+  <em>Ciudad Perdida Trek</em>
+</figure>
+
 Amusingly, my group consisted almost entirely of English stoners, and
 after dinner the joints made the rounds. Sitting in the Colombian jungle
 and getting high is a strange thing; perhaps that’s why I ended up
@@ -190,6 +311,11 @@ very slippery.
 We reached our accommodation around 1 p.m. It was by a river, where we
 could have a lovely swim again.
 
+<figure>
+  <img src="photos/VenezuelaColombia2001-0020.jpg" alt="Ciudad Perdida Trek">
+  <em>Ciudad Perdida Trek</em>
+</figure>
+
 Another night in hammocks.
 
 ## Day 14 – 23 Sep
@@ -205,6 +331,34 @@ We ate lunch right by the river, where a waterfall plunged into a
 wonderful pool. From there we climbed an ancient staircase for almost an
 hour up to Ciudad Perdida, beautifully set in the middle of the jungle
 on the slopes of a deep ravine.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0021.jpg" alt="Ciudad Perdida Trek">
+      <em>Ciudad Perdida Trek</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0022.jpg" alt="Ciudad Perdida Trek">
+      <em>Ciudad Perdida Trek</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0023.jpg" alt="Ciudad Perdida Trek">
+      <em>Ciudad Perdida Trek</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0024.jpg" alt="Ciudad Perdida Trek">
+      <em>Ciudad Perdida Trek</em>
+    </figure>
+
+</div>
 
 ## Day 15 – 24 Sep
 
@@ -463,6 +617,20 @@ something like this: we were taken by taxi to a few waterfalls and
 swimming spots. The tour itself was nothing special, but the landscape
 of the Gran Sabana really is fantastic.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0025.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0026.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+</div>
+
 In the evening in Santa Elena we drank (too much) beer and caipirinhas.
 
 Overnight in the very comfortable Posada Michelle.
@@ -501,6 +669,39 @@ clearly, watching as we drew closer and closer. The whole route ran
 through the gentle rolling hills of the Gran Sabana, and the landscape
 and views were wonderful.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0027.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0028.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0029.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0030.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0031.jpg" alt="Gran Sabana">
+  <em>Gran Sabana</em>
+</figure>
+
 We slept in tents.
 
 ## Day 34 – 13 Oct
@@ -510,6 +711,20 @@ to base camp was already fairly brutal, but the three hours up to the
 summit through dense vegetation, over roots and boulders, were
 absolutely hardcore. Still, we were constantly rewarded with fantastic
 views of the sheer cliff face and the endless savannah.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0032.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0033.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
 
 Once on the summit we pitched our tents in one of the few places where
 this is even possible, and relaxed. In the afternoon we had a look
@@ -521,6 +736,25 @@ turtles, atomic mushrooms, bridges, windows (and no, I hadn’t been
 smoking anything). The view from the edge down to the Gran Sabana was
 breathtakingly beautiful and repaid every ounce of effort.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0034.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0035.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0036.jpg" alt="Mt. Roraíma">
+  <em>Mt. Roraíma</em>
+</figure>
+
 ## Day 35 – 14 Oct
 
 I can’t really write much about today, even though it was easily the
@@ -528,9 +762,103 @@ highlight of the trip. We had a whole day on the summit of Roraima, and
 the lunar landscape with its rock formations up here is so unique that
 you can’t really put it into words.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0037.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0038.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0039.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0040.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0041.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0042.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0043.jpg" alt="Mt. Roraíma">
+  <em>Mt. Roraíma</em>
+</figure>
+
 But the landscape wasn’t the only thing. The most fantastic part was the
 views from the 1,000-metre drop down to the other table mountains and
 the Guyanese jungle. By now everything feels like a dream.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0044.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0045.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0046.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0047.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0048.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0049.jpg" alt="Mt. Roraíma">
+      <em>Mt. Roraíma</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0050.jpg" alt="Mt. Roraíma">
+  <em>Mt. Roraíma</em>
+</figure>
 
 ## Day 36 – 15 Oct
 
@@ -539,6 +867,20 @@ just as well have walked the whole way back.
 
 The first two hours of descent to base camp were very tiring and not
 exactly risk-free; the rest, however, went quickly.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0051.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0052.jpg" alt="Gran Sabana">
+      <em>Gran Sabana</em>
+    </figure>
+
+</div>
 
 ## Day 37 – 16 Oct
 
@@ -580,6 +922,25 @@ offer, even if it is one of the most popular traveller hangouts in
 Venezuela. The beach is decent enough, there are a few foreign-run
 posadas right by the sea, and the cocktails are cheap.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0053.jpg" alt="Santa Fe">
+      <em>Santa Fe</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0054.jpg" alt="Santa Fe">
+      <em>Santa Fe</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/VenezuelaColombia2001-0055.jpg" alt="Santa Fe">
+  <em>Santa Fe</em>
+</figure>
+
 Unfortunately the weather was exceptionally bad today of all days,
 just when I’d actually wanted to relax on the beach. Bad luck!
 
@@ -605,9 +966,39 @@ before my flight back to Europe.
 Caracas is by no means a beautiful city, and it doesn’t really have any
 tourist sights. Still, it has quite a spectacular setting and offers all the
 advantages of a big city: lively markets and boulevards, outdoor cafés
-and restaurants, and a good Metro system. On the other hand, the city is
+and restaurants, and a good Metro system.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0056.jpg" alt="Caracas">
+      <em>Caracas</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0057.jpg" alt="Caracas">
+      <em>Caracas</em>
+    </figure>
+
+</div>
+
+On the other hand, the city is
 almost completely surrounded by dreadful slums, like the ones I’d
 previously only seen in Bombay.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0058.jpg" alt="Caracas">
+      <em>Caracas</em>
+    </figure>
+
+  <figure>
+      <img src="photos/VenezuelaColombia2001-0059.jpg" alt="Caracas">
+      <em>Caracas</em>
+    </figure>
+
+</div>
 
 In the evening I flew back to Stuttgart via Amsterdam.
 
