@@ -24,7 +24,23 @@ villages, and it was obvious that Laos is still very underdeveloped.
 ## Luang Nam Tha
 
 Luang Nam Tha is a remote, quiet, rather characterless provincial town,
-surrounded by untouched mountain landscapes. There’s a decent number of
+surrounded by untouched mountain landscapes.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0001.jpg" alt="Luang Nam Tha">
+      <em>Luang Nam Tha</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0002.jpg" alt="Luang Nam Tha">
+      <em>Luang Nam Tha</em>
+    </figure>
+
+</div>
+
+There’s a decent number of
 guesthouses, although electricity is only available for a few hours a
 day. I hired a (pretty good) bicycle for the day and explored the area.
 I didn’t find the waterfall that’s meant to be in the area, though.
@@ -48,11 +64,58 @@ place, but because of the many hill-tribe villages in the surrounding
 area it’s a stopping point for travellers. The market here is very
 interesting and lively.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0003.jpg" alt="Muang Sing">
+      <em>Muang Sing</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0004.jpg" alt="Muang Sing">
+      <em>Muang Sing</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/LaosThailand2002-0005.jpg" alt="Muang Sing">
+  <em>Muang Sing</em>
+</figure>
+
 To keep this small tourism boom as sustainable as possible, for both
 nature and the hill communities, there’s only a limited number of treks
 once a week, with a maximum of six people, an approach I strongly approve
 of. I opted for a day trek to various Hmong and Akha villages, which was
 genuinely interesting and, surprisingly, not unpleasant.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0006.jpg" alt="Muang Sing">
+      <em>Muang Sing</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0007.jpg" alt="Muang Sing">
+      <em>Muang Sing</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0008.jpg" alt="Muang Sing">
+      <em>Muang Sing</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0009.jpg" alt="Muang Sing">
+      <em>Muang Sing</em>
+    </figure>
+
+</div>
 
 ### Accommodation + food
 
@@ -73,6 +136,11 @@ with a nice market and a laid-back atmosphere. When the red sun sets
 over the river and the temple’s golden roof above the town slowly turns
 dark, it leaves you with a wonderful feeling of peace and warmth.
 
+<figure>
+  <img src="photos/LaosThailand2002-0010.jpg" alt="Oudomxay">
+  <em>Oudomxay</em>
+</figure>
+
 ### Accommodation + food
 
 - Clean, small room with private bathroom and a western toilet for
@@ -84,7 +152,14 @@ dark, it leaves you with a wonderful feeling of peace and warmth.
 - Decent Lao fare at the pretty little Sanukphon Restaurant.
 
 Because the road was partly paved at the start, the trip from Udomxai to
-Pakbeng took only five instead of seven hours. The first part wasn’t
+Pakbeng took only five instead of seven hours.
+
+<figure>
+  <img src="photos/LaosThailand2002-0011.jpg" alt="Hwy to Pakbeng">
+  <em>Hwy to Pakbeng</em>
+</figure>
+
+The first part wasn’t
 especially interesting scenery-wise, but the last 1–2 hours ran beside a
 gorgeous river along a pothole-ridden track.
 
@@ -108,19 +183,133 @@ wooden benches, I ended up on a smaller private boat with a chair, a
 cushion, and legroom, for the same price. We even stopped on the way at
 Pak Ou Cave, a beautiful cave filled with Buddha figures of all sizes,
 which I would otherwise have had to visit from Luang Prabang for a steep
-price. The scenery along the way is consistently stunning, with
+price.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0015.jpg" alt="Pak Ou Caves">
+      <em>Pak Ou Caves</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0016.jpg" alt="Pak Ou Caves">
+      <em>Pak Ou Caves</em>
+    </figure>
+
+</div>
+
+The scenery along the way is consistently stunning, with
 sandbanks along the Mekong, but over the seven hours it barely changed.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0012.jpg" alt="Along the Mekong">
+      <em>Along the Mekong</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0013.jpg" alt="Along the Mekong">
+      <em>Along the Mekong</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/LaosThailand2002-0014.jpg" alt="Mekong Slow Boat">
+  <em>Mekong Slow Boat</em>
+</figure>
 
 ## Luang Prabang
 
 The old Lao royal capital is a wonderful place, despite tourism and
 rising traffic. Built on a peninsula between the Mekong and the Nam
 Khan, the little town consists largely of temples and old French
-colonial houses beneath coconut palms. The only hill in the centre
-offers a beautiful view over Luang Prabang and the surrounding area. You
+colonial houses beneath coconut palms.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0017.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0018.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0019.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0020.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+</div>
+
+The only hill in the centre
+offers a beautiful view over Luang Prabang and the surrounding area.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0021.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0022.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0023.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0024.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+</div>
+
+You
 can stroll through streets and lanes for hours, duck into a temple here
 and there, and hope this dreamy place won’t turn even more into a hub
 for tourism and trade.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0025.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0026.jpg" alt="Luang Prabang">
+      <em>Luang Prabang</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/LaosThailand2002-0027.jpg" alt="Luang Prabang">
+  <em>Luang Prabang</em>
+</figure>
 
 I hired a motorbike (7\$) to ride the 32 km to That Kuang Si, where
 lovely cascades and pools of turquoise water beckoned. The lower part of
@@ -129,6 +318,20 @@ also visits That Kuang Si. Relatively few people climb all the way up,
 though to the top level of the falls, where a small pool is perfect for
 a swim, and you can climb a tree that hangs out over the cliff from
 which the water plunges down. An uplifting feeling!
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0028.jpg" alt="Luang Prabang - Kuang Si Falls">
+      <em>Luang Prabang - Kuang Si Falls</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0029.jpg" alt="Luang Prabang - Kuang Si Falls">
+      <em>Luang Prabang - Kuang Si Falls</em>
+    </figure>
+
+</div>
 
 ### Accommodation
 
@@ -161,16 +364,62 @@ only by tourists, you still had a good view.
 This small town on a river amid limestone formations is the traveller
 hangout in Laos. Especially in the evenings, the place is firmly in
 Farang hands; you might think this is the relaxed version of Khaosan
-Road. The surroundings are beautiful, and there are several caves in the
+Road.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0030.jpg" alt="Vang Vieng">
+      <em>Vang Vieng</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0031.jpg" alt="Vang Vieng">
+      <em>Vang Vieng</em>
+    </figure>
+
+</div>
+
+The surroundings are beautiful, and there are several caves in the
 limestone cliffs that you can easily reach by bicycle (10,000 kip).
 
 I visited two of the caves (both require an entrance fee). One lies 6 km
 beyond the river and consists of a large chamber with a Buddha statue.
 Down below, in front of the cave, you can have a lovely swim in a
-turquoise stream. The other cave is near Vang Vieng; in this one you can
+turquoise stream.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0032.jpg" alt="Vang Vieng">
+      <em>Vang Vieng</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0033.jpg" alt="Vang Vieng">
+      <em>Vang Vieng</em>
+    </figure>
+
+</div>
+
+The other cave is near Vang Vieng; in this one you can
 crawl through a narrow, dark passage to reach a hole where you can swim.
 Because I was alone in the cave and my torchlight was growing weaker, I
 found it fairly creepy, but also quite exciting.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0034.jpg" alt="Vang Vieng">
+      <em>Vang Vieng</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0035.jpg" alt="Vang Vieng">
+      <em>Vang Vieng</em>
+    </figure>
+
+</div>
 
 ### Accommodation
 
@@ -198,14 +447,84 @@ some lovely corners: old temples, colonial villas, a huge golden stupa
 (Pha That Luang), pretty, unspoilt neighbourhoods with unpaved streets
 along the Mekong, and the Lao version of the Arc de Triomphe.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0036.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0037.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0038.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0039.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+</div>
+
 Vientiane is small enough to explore on foot, but I still hired a
 bicycle (10,000 kip), because Vientiane is about the only Asian 'big
 city' where you can cycle around carefree, without feeling as if your
 life depends on it.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0040.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0041.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0042.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0043.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+</div>
+
 24 km outside (around 45 minutes by tuk-tuk) lies the Buddha Garden on
 the Mekong. The grounds contain plenty of newer but very impressive
 Buddhist and Hindu sculptures, well worth the detour.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0044.jpg" alt="Around Vientiane - Buddha Park">
+      <em>Around Vientiane - Buddha Park</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0045.jpg" alt="Around Vientiane - Buddha Park">
+      <em>Around Vientiane - Buddha Park</em>
+    </figure>
+
+</div>
 
 ### Accommodation
 
@@ -219,6 +538,20 @@ Buddhist and Hindu sculptures, well worth the detour.
 - I slept modestly, but made up for it by eating all the more
   lavishly, whenever the chance arose, because Vientiane is the only city
   in Laos with a broad range of restaurants and cafés.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0046.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0047.jpg" alt="Vientiane">
+      <em>Vientiane</em>
+    </figure>
+
+</div>
 
 - A wonderful warm, crispy baguette with pâté, salad and coriander was
   available at Vietnamese PVO Restaurant.
@@ -247,6 +580,11 @@ Laos’s second-largest city is a very charming, quiet little place with
 crumbling French colonial buildings beneath coconut palms on the
 Mekong’s bank.
 
+<figure>
+  <img src="photos/LaosThailand2002-0048.jpg" alt="Savannakhet">
+  <em>Savannakhet</em>
+</figure>
+
 ### Accommodation
 
 - Savanbanhao Hotel; very simple room (not especially well-kept, but not
@@ -259,6 +597,20 @@ long bus journeys from Vientiane to southern Laos. A nice place for
 relaxing, swimming and doing nothing. The only downside was the package
 tourists staying at the resort of the same name, who spoiled the
 original atmosphere a little.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0049.jpg" alt="Tat Lo">
+      <em>Tat Lo</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0050.jpg" alt="Tat Lo">
+      <em>Tat Lo</em>
+    </figure>
+
+</div>
 
 ### Accommodation
 
@@ -280,18 +632,72 @@ there seems to be nothing here. Unfortunately Pakse is the starting
 point for pretty much all transport in southern Laos, so it’s hard to
 avoid having to kill time here.
 
+<figure>
+  <img src="photos/LaosThailand2002-0051.jpg" alt="Pakse Bus Terminal">
+  <em>Pakse Bus Terminal</em>
+</figure>
+
 Sedone Restaurant at least had fairly decent spring rolls.
 
 ## Champasak
 
 Champasak is a sleepy little place on the Mekong. The town itself, with
 its wooden houses and colonial villas, is genuinely quite nice, and you
-feel a bit transported back to the French colonial era. The main
+feel a bit transported back to the French colonial era.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0052.jpg" alt="Champasak">
+      <em>Champasak</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0053.jpg" alt="Champasak">
+      <em>Champasak</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/LaosThailand2002-0054.jpg" alt="Champasak">
+  <em>Champasak</em>
+</figure>
+
+The main
 attraction, Wat Phu Champasak, lies 8 km outside (easy to reach by
 bicycle, 5,000 kip). This Angkor-style temple complex is fairly small
 and not in particularly good condition, but it’s beautifully situated at
 the foot of a mountain range and has a great atmosphere, also thanks to
 the small number of tourists.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0055.jpg" alt="Wat Phu Champasak">
+      <em>Wat Phu Champasak</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0056.jpg" alt="Wat Phu Champasak">
+      <em>Wat Phu Champasak</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0057.jpg" alt="Wat Phu Champasak">
+      <em>Wat Phu Champasak</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0058.jpg" alt="Wat Phu Champasak">
+      <em>Wat Phu Champasak</em>
+    </figure>
+
+</div>
 
 ### Accommodation + food
 
@@ -314,7 +720,23 @@ certainly nicer, than the bus ride.
 
 This region in the far south of Laos consists of hundreds or thousands
 of islands in the Mekong. It’s a beautiful, unspoilt area with simple
-fishing villages under coconut palms. Although it’s very popular with
+fishing villages under coconut palms.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0059.jpg" alt="4000 Islands">
+      <em>4000 Islands</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0060.jpg" alt="4000 Islands">
+      <em>4000 Islands</em>
+    </figure>
+
+</div>
+
+Although it’s very popular with
 travellers, tourism here is still in its early stages. There are only
 simple bamboo huts to sleep in, and the water for washing comes straight
 out of the Mekong. It must have been something like this on the Thai
@@ -323,10 +745,43 @@ islands 20 years ago.
 We stayed on the north coast of Don Det, where there’s a nice little
 beach that was ideal for swimming.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0061.jpg" alt="Don Det">
+      <em>Don Det</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0063.jpg" alt="Don Det">
+      <em>Don Det</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0064.jpg" alt="Don Det">
+      <em>Don Det</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0070.jpg" alt="Don Det">
+      <em>Don Det</em>
+    </figure>
+
+</div>
+
 On the second day we did a tour (25,000 kip) to the Cambodian border to
 watch the rare Irrawady dolphins, followed by a visit to Klong Phadaeng
 Falls, the widest waterfall in South-East Asia, with lovely pools for
 swimming.
+
+<figure>
+  <img src="photos/LaosThailand2002-0062.jpg" alt="Klong Phadaeng Falls">
+  <em>Klong Phadaeng Falls</em>
+</figure>
 
 On the third day I explored the neighbouring island of Don Khon. In the
 village there are still a few fine French colonial villas, and you can
@@ -334,6 +789,39 @@ even look at an ancient locomotive from colonial times, because Don Khon
 was the only place in Laos where the French laid tracks. Around 2 km
 outside the village there’s another impressive waterfall where you can
 swim.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0065.jpg" alt="Don Khone">
+      <em>Don Khone</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0066.jpg" alt="Don Khone">
+      <em>Don Khone</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0067.jpg" alt="Don Khone">
+      <em>Don Khone</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0068.jpg" alt="Don Khone">
+      <em>Don Khone</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/LaosThailand2002-0069.jpg" alt="Don Khone">
+  <em>Don Khone</em>
+</figure>
 
 ### Accommodation + food
 
@@ -369,6 +857,25 @@ its kind in Thailand and sits conveniently on the route from southern
 Laos to Bangkok. Because I rode to the site very early on a motorbike, I
 could enjoy the temple completely on my own, always a good thing.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0071.jpg" alt="Phanom Rung">
+      <em>Phanom Rung</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0072.jpg" alt="Phanom Rung">
+      <em>Phanom Rung</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/LaosThailand2002-0073.jpg" alt="Phanom Rung">
+  <em>Phanom Rung</em>
+</figure>
+
 ### Accommodation
 
 - Large, clean room with a bathroom next door for 150 Bt at Honey Inn in
@@ -381,6 +888,11 @@ Phimai is a pleasant small town with a Khmer temple right in the centre.
 I found this complex even prettier and more impressive than Phanom Rung,
 even though the two are quite similar.
 
+<figure>
+  <img src="photos/LaosThailand2002-0074.jpg" alt="Phimai">
+  <em>Phimai</em>
+</figure>
+
 ### Accommodation
 
 - Old Phimai GH; spartan, but very clean and large room. Good, well-kept
@@ -391,7 +903,28 @@ even though the two are quite similar.
 Because of the almost unbearable heat, I kept sightseeing in Bangkok to
 a minimum and focused instead on the air-conditioned malls around Siam
 Square. There are great restaurants and cafés here, and the most
-luxurious cinemas I’ve ever seen. Accordingly, I spent my days eating
+luxurious cinemas I’ve ever seen.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/LaosThailand2002-0075.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+  <figure>
+      <img src="photos/LaosThailand2002-0076.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/LaosThailand2002-0077.jpg" alt="Bangkok">
+  <em>Bangkok</em>
+</figure>
+
+Accordingly, I spent my days eating
 and going to the cinema, something that, in Europe, at this level of
 quality would cost a fortune, or rather: wouldn’t even be possible.
 
