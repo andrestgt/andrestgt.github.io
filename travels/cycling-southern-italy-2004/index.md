@@ -20,7 +20,23 @@ A bicycle tour from Naples through the south of Italy.
 ### Naples – Pompeii – Sorrento
 
 Riding out of Naples along the seafront was easy enough to navigate, and
-mostly flat as far as Torre del Greco. Even so, it really wore us down:
+mostly flat as far as Torre del Greco.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0001.jpg" alt="Golfo di Napoli">
+      <em>Golfo di Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0002.jpg" alt="Golfo di Napoli">
+      <em>Golfo di Napoli</em>
+    </figure>
+
+</div>
+
+Even so, it really wore us down:
 the road surface was dreadful, often cobbled stone with potholes, and
 the traffic was pure chaos. The first long, drawn‑out climb up the
 slopes of Vesuvius came between Torre del Greco and Torre Annunziata.
@@ -31,19 +47,100 @@ Naples’ periphery were all quite interesting. Since the city of Pompeii,
 buried in AD 79, lay only about a kilometre off our route, we naturally
 didn’t miss the chance to detour to this magnificent site. We spent a
 full three hours wandering the lanes of what must be one of the
-best‑preserved ancient sites anywhere. Pompeii is, without a doubt, one
+best‑preserved ancient sites anywhere.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0003.jpg" alt="Pompei">
+      <em>Pompei</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0004.jpg" alt="Pompei">
+      <em>Pompei</em>
+    </figure>
+
+</div>
+
+Pompeii is, without a doubt, one
 of Europe’s most important sights.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0005.jpg" alt="Pompei">
+      <em>Pompei</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0006.jpg" alt="Pompei">
+      <em>Pompei</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0007.jpg" alt="Pompei">
+      <em>Pompei</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0008.jpg" alt="Pompei">
+      <em>Pompei</em>
+    </figure>
+
+</div>
 
 For the next few kilometres we rode through flat industrial and
 commercial sprawl to Castellammare, where the coastal road along the
-Sorrento Peninsula begins. The coastline here may not be quite as
+Sorrento Peninsula begins.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0009.jpg" alt="Castellamare">
+  <em>Castellamare</em>
+</figure>
+
+The coastline here may not be quite as
 jaw‑dropping as the Amalfi Coast on the southern side, but you get a
 superb view of Vesuvius and the Bay of Naples.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0010.jpg" alt="Vico Equense">
+      <em>Vico Equense</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0011.jpg" alt="Vico Equense">
+      <em>Vico Equense</em>
+    </figure>
+
+</div>
 
 Before Vico Equense, a lovely town perched high above the sea, the
 road turned very hilly, with several long climbs, though it also
 rewarded us with a long descent down to Sorrento. At first glance, the
-peninsula’s main town was very attractive. Unfortunately we hardly had
+peninsula’s main town was very attractive.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0012.jpg" alt="Sorrento">
+      <em>Sorrento</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0013.jpg" alt="Sorrento">
+      <em>Sorrento</em>
+    </figure>
+
+</div>
+
+Unfortunately we hardly had
 time to look around, since we wanted to find somewhere to stay before
 nightfall.
 
@@ -61,7 +158,14 @@ grilled squid (€9).
 ### Capri
 
 In the morning we cycled from the campsite to Sorrento harbour,
-dramatically located below the cliffs on which the town sits. The ferry
+dramatically located below the cliffs on which the town sits.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0014.jpg" alt="Sorrento">
+  <em>Sorrento</em>
+</figure>
+
+The ferry
 crossing to Capri took about 40 minutes (€5.60 + €3 for the bike),
 following the beautiful north coast of the Sorrento Peninsula. From
 Marina Grande, where the boats dock, a road of about 2 km climbs in
@@ -72,6 +176,20 @@ the narrow, steep little lanes of this picturesque, if in places very
 touristy, town. Time and again we were treated to glorious views along
 the coast.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0015.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0016.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+</div>
+
 We had a very tasty lunch at the long‑established Da Gemma in Capri. The
 food was cheaper than the celebrity‑heavy guest list might have
 suggested: a superb antipasto buffet (€12) and a delicious grilled fish
@@ -81,7 +199,23 @@ Properly fortified, we tackled the second mountain stage: an adventurous
 hairpin road with spectacular views up to Anacapri, the island’s
 second‑largest settlement, set at 275 metres. Up here it was cosier and
 quieter, and with its whitewashed houses Anacapri reminded me a little
-of Greek mountain villages. This is also where the chairlift starts (€6,
+of Greek mountain villages.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0017.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0018.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+</div>
+
+This is also where the chairlift starts (€6,
 12 minutes) up to the highest point of the island, a brilliant
 highlight, with a 360‑degree view of this dream of an islet, plus
 Ischia, Vesuvius and the Sorrento Peninsula.
@@ -89,14 +223,51 @@ Ischia, Vesuvius and the Sorrento Peninsula.
 The descent by bike down to the harbour was equally enjoyable; the
 suffering on the way up had been absolutely worth it.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0019.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0020.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+</div>
+
 Apart from the masses of day‑trippers, Capri certainly deserves its
-reputation as a dream destination. A pity the weather was rather mixed
+reputation as a dream destination.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0021.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0022.jpg" alt="Capri">
+      <em>Capri</em>
+    </figure>
+
+</div>
+
+A pity the weather was rather mixed
 and I had to skip the Blue Grotto with a heavy heart. It would also have
 been lovely to spend the evening and night here, and enjoy Capri once
 the crowds have gone.
 
 Back on the mainland, we went for a proper walk around Sorrento, a town
-worth seeing not only for its fantastic location. In the charming old
+worth seeing not only for its fantastic location.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0023.jpg" alt="Sorrento">
+  <em>Sorrento</em>
+</figure>
+
+In the charming old
 centre with its narrow alleyways there are countless inviting cafés and
 restaurants, perfect for a relaxed evening. We ate delicious wood‑fired
 pizza, grilled fish and seafood salad at very reasonable prices in the
@@ -109,7 +280,14 @@ pretty Ristorante S. Antonio in the old town.
 From Sorrento we continued along the lovely coastal road to Massa
 Lubrense, where we had our morning caffè. After Massa, a climb of almost
 5 km began, hard work, but softened by a beautiful view of sunlit
-Capri. This part of the peninsula seems the most unspoilt and least
+Capri.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0024.jpg" alt="Sorrento">
+  <em>Sorrento</em>
+</figure>
+
+This part of the peninsula seems the most unspoilt and least
 touristy, yet still very scenic.
 
 From Termini we carried on, mostly uphill, into the interior of the
@@ -119,13 +297,57 @@ caught our first glimpse of the famous Amalfitana.
 
 The ensuing kilometres‑long descent along the Amalfi Coast towards
 Positano was, without exaggeration, the most glorious stretch I have
-ever cycled. Not surprising: it quite rightly counts among the world’s
+ever cycled.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0025.jpg" alt="Amalfi Coast">
+      <em>Amalfi Coast</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0026.jpg" alt="Amalfi Coast">
+      <em>Amalfi Coast</em>
+    </figure>
+
+</div>
+
+Not surprising: it quite rightly counts among the world’s
 most beautiful coastal roads. Deep‑blue sea, high mountains behind, and
 little offshore islands.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0027.jpg" alt="Amalfi Coast">
+      <em>Amalfi Coast</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0028.jpg" alt="Amalfi Coast">
+      <em>Amalfi Coast</em>
+    </figure>
+
+</div>
 
 Even the fairly brutal climb before Positano was forgotten the moment we
 reached the viewpoint above the town and looked down at the dream
 scenery below.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0029.jpg" alt="Positano">
+      <em>Positano</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0030.jpg" alt="Positano">
+      <em>Positano</em>
+    </figure>
+
+</div>
 
 Positano is a jewel (not only for its setting, but in every respect)
 and even tourism hasn’t managed to ruin it. We checked into our hotel
@@ -133,6 +355,11 @@ early in the afternoon and took full advantage of the sea‑view balcony
 at Hotel Il Gabbiano. The rooms in this 3‑star place (€90), set quite
 high up the hillside, were a little small, but the view from the balcony
 was priceless.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0031.jpg" alt="Positano">
+  <em>Positano</em>
+</figure>
 
 In the afternoon we went out exploring. Because of its extreme
 mountainside location, Positano has hardly any streets; instead there
@@ -156,16 +383,74 @@ unspectacular. The next 10 km to Amalfi offered plenty of gorgeous rocky
 coves, and the road runs through several tunnels, so the climbs stayed
 within reason. A fantastic stretch.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0032.jpg" alt="Amalfi Coast">
+      <em>Amalfi Coast</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0033.jpg" alt="Amalfi Coast">
+      <em>Amalfi Coast</em>
+    </figure>
+
+</div>
+
 Amalfi itself is a beautiful place (and, naturally, very touristy) a
 bit more spread out than Positano, with a piazza and a main street, but
-the old town is just as maze‑like here, with steep steps. Just around
+the old town is just as maze‑like here, with steep steps.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0034.jpg" alt="Amalfi">
+      <em>Amalfi</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0035.jpg" alt="Amalfi">
+      <em>Amalfi</em>
+    </figure>
+
+</div>
+
+Just around
 the corner lies Atrani. From the road it’s almost inconspicuous and easy
 to miss, but this small village is a real hidden gem.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0036.jpg" alt="Atrani">
+      <em>Atrani</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0037.jpg" alt="Atrani">
+      <em>Atrani</em>
+    </figure>
+
+</div>
 
 The small piazza has a wonderful southern Italian atmosphere; on the
 beach fishermen mend their nets; and scenically and architecturally
 Atrani can easily hold its own against the coast’s better‑known towns;
 only here, the tourist hordes are (thankfully) entirely absent.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0038.jpg" alt="Atrani">
+      <em>Atrani</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0039.jpg" alt="Atrani">
+      <em>Atrani</em>
+    </figure>
+
+</div>
 
 One of the coast’s best fish restaurants is also in Atrani, hidden in
 the cellar of an old house. Even though it was packed at lunchtime, we
@@ -173,15 +458,34 @@ were the only non‑Italians at A’ Paranza. The food, exclusively fish,
 was superb: marinated anchovies, octopus, grilled fish… Not cheap, but
 fairly priced.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0040.jpg" alt="Atrani">
+  <em>Atrani</em>
+</figure>
+
 We continued along the gorgeous, rolling coastal road, past the two
 pleasant but less spectacular beach towns Minori and Maiori, to Cetara,
 another jewel at the eastern end of the Amalfi Coast that has, happily,
 escaped mass tourism. A wonderfully picturesque place with a romantic
-black beach and a terrific atmosphere. Cetara seems popular with
+black beach and a terrific atmosphere.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0041.jpg" alt="Cetara">
+  <em>Cetara</em>
+</figure>
+
+Cetara seems popular with
 day‑trippers from Salerno. Unfortunately there was nowhere to stay.
 
 The last town before Salerno was Vietri, the ceramics town, set high
-above the coast. We had one more caffè there, then enjoyed a long
+above the coast.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0042.jpg" alt="Vietri">
+  <em>Vietri</em>
+</figure>
+
+We had one more caffè there, then enjoyed a long
 descent down to our day’s destination.
 
 Salerno, oddly, doesn’t have the best reputation and isn’t a classic
@@ -213,7 +517,23 @@ popular holiday destination.
 
 The impressive Greek temples of Paestum lie a little inland and are
 definitely worth a visit. The Temple of Poseidon, in particular, is
-utterly imposing. There are also two smaller temples and the ruins of a
+utterly imposing.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0043.jpg" alt="Paestum">
+      <em>Paestum</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0044.jpg" alt="Paestum">
+      <em>Paestum</em>
+    </figure>
+
+</div>
+
+There are also two smaller temples and the ruins of a
 small amphitheatre. Since you’re no longer allowed inside the temples,
 it’s only worth paying to enter if you’re a photographer: you can admire
 almost everything from the outside, without missing much, free of
@@ -221,13 +541,25 @@ charge.
 
 A few kilometres on, we reached Agropoli, a larger town with a
 wonderfully unspoilt old centre and a medieval castle on a hill above
-the sea and the newer town. From up there you also get lovely views of
+the sea and the newer town.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0045.jpg" alt="Agropoli">
+  <em>Agropoli</em>
+</figure>
+
+From up there you also get lovely views of
 the harbour and the beginning of the Cilento, the coastal national park
 we were about to tackle.
 
 Before that, though, we ate at the simple, authentic Pizzeria Regina
 Margherita on Agropoli’s Corso. It was really cheap, and the porcini
 pizza was excellent, as was the seafood salad.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0046.jpg" alt="Agropoli - Pizzeria Regina Margherita">
+  <em>Agropoli - Pizzeria Regina Margherita</em>
+</figure>
 
 After Agropoli we headed into the Cilento, where the scenery finally
 became prettier again, though the road, of course, also turned hillier.
@@ -237,7 +569,23 @@ continuous coastal road.
 Santa Maria is the first highlight in the Cilento: a lovely little
 seaside town whose entire old centre is a pedestrian zone running to a
 pretty beach with a castle at the end. Out of season it’s so quiet you
-could hear a pin drop, and the atmosphere feels unfiltered. Hard to
+could hear a pin drop, and the atmosphere feels unfiltered.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0047.jpg" alt="Santa Maria">
+      <em>Santa Maria</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0048.jpg" alt="Santa Maria">
+      <em>Santa Maria</em>
+    </figure>
+
+</div>
+
+Hard to
 believe southern Italy’s biggest club opens here in summer.
 
 Since no hotel was open yet, we continued to the neighbouring village of
@@ -258,6 +606,11 @@ After a generous hotel breakfast we continued along the Cilento coast on
 a rolling road. The coastline may not be as dramatic as Amalfi’s, but it
 is far less touristy.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0049.jpg" alt="Cilento">
+  <em>Cilento</em>
+</figure>
+
 The first notable place was Acciaroli, which likes to boast that
 Hemingway once stayed here. It has a pretty little old town and a
 fishing harbour. We carried on along the coast via the pleasant small
@@ -267,11 +620,34 @@ an espresso on the promenade.
 Shortly afterwards the road left the shoreline and a 4 km climb began up
 to Ascea‑Velia at 230 metres. The following stretch to Palinuro offered,
 alongside some adventurous climbs, stunning coastal scenery, and,
-halfway along, the impressive medieval town of Pisciotta. Perched on a
+halfway along, the impressive medieval town of Pisciotta.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0050.jpg" alt="Cilento - Pisciotta">
+      <em>Cilento - Pisciotta</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0051.jpg" alt="Cilento - Pisciotta">
+      <em>Cilento - Pisciotta</em>
+    </figure>
+
+</div>
+
+Perched on a
 hill high above the sea, it ticks every cliché box of southern Italy.
 
 Palinuro, our destination for the day, lies on the north side of a
-headland lined with nice sandy beaches. It seems to be the main resort
+headland lined with nice sandy beaches.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0052.jpg" alt="Cilento - Palinuro">
+  <em>Cilento - Palinuro</em>
+</figure>
+
+It seems to be the main resort
 in the Cilento, but the season is short here too, and finding an open
 hotel wasn’t easy.
 
@@ -294,17 +670,50 @@ punctuated by a handful of tunnels. Along the way we had views of
 Spiaggia di Arco Naturale, a natural rock arch where the coast almost
 felt like the Algarve.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0053.jpg" alt="Cilento - Spaggia di Arco Naturale">
+  <em>Cilento - Spaggia di Arco Naturale</em>
+</figure>
+
 After Marina di Camerota the route turned into tight, steep hairpins for
 a 6 km climb up to the little hill village of Lentiscosa. Not that this
 marked the end of the hard work: the road continued upwards for
 kilometres, crossing a pass through beautiful scenery that felt almost
 alpine, before a long descent brought us to San Giovanni at around 450
-metres above sea level. From there we had splendid views over the Gulf
+metres above sea level.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0055.jpg" alt="Cilento - San Giovanni">
+  <em>Cilento - San Giovanni</em>
+</figure>
+
+From there we had splendid views over the Gulf
 of Policastro and the 1,200‑metre Monte Bulgheria.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0054.jpg" alt="Cilento">
+  <em>Cilento</em>
+</figure>
 
 A 7 km descent with sea views dropped us back down to the coast and into
 the pretty fishing village of Scario on the eastern edge of the Cilento,
-our stop for the day. We stayed for a very reasonable €40 at the
+our stop for the day.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0056.jpg" alt="Cilento - Scario">
+      <em>Cilento - Scario</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0057.jpg" alt="Cilento - Scario">
+      <em>Cilento - Scario</em>
+    </figure>
+
+</div>
+
+We stayed for a very reasonable €40 at the
 friendly Pensione Garagliano. The room was fairly basic but came with a
 balcony and was well worth the money.
 
@@ -324,14 +733,51 @@ mechanical problem forced us into an unplanned long break here.
 
 Beyond Sapri the coastal road turned hilly again, but it stayed right
 above the sea: wonderful scenery of high mountains and secretive,
-picturesque little bays of black sand. This superb strip of coastline
+picturesque little bays of black sand.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0058.jpg" alt="Basilikata Coast">
+      <em>Basilikata Coast</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0059.jpg" alt="Basilikata Coast">
+      <em>Basilikata Coast</em>
+    </figure>
+
+</div>
+
+This superb strip of coastline
 between Sapri and our destination, Praia a Mare, belongs to the
 Basilicata region, which meant that today we cycled through three
 Italian regions, starting in Campania and finishing in Calabria.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0060.jpg" alt="Basilikata Coast">
+      <em>Basilikata Coast</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0061.jpg" alt="Basilikata Coast">
+      <em>Basilikata Coast</em>
+    </figure>
+
+</div>
+
 The small town of Praia a Mare sits on what is, by local standards, an
 almost endless stretch of grey beach, unfortunately not particularly
-attractive, with the Isola di Dino just offshore. Behind the narrow
+attractive, with the Isola di Dino just offshore.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0062.jpg" alt="Basilikata Coast">
+  <em>Basilikata Coast</em>
+</figure>
+
+Behind the narrow
 coastal strip the mountains rise steeply. Right in the centre we found a
 lovely, huge room with a balcony overlooking the pedestrian zone for €50,
 excellent value at the \*\*\*Hotel Le Arcate.
@@ -341,22 +787,51 @@ the season) we were the only guests. Among other things we had excellent
 seppie alla griglia (€10) and homemade black spaghetti with squid
 (€7.50). Highly recommended.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0063.jpg" alt="Praia a Mare - Taverna Antica">
+  <em>Praia a Mare - Taverna Antica</em>
+</figure>
+
 ## Day 9 (2 April) – 105 km
 
 ### Praia a Mare – Scalea – Diamante – Paola – Longobardi
 
 In the morning we warmed up straight away by riding over a headland,
 followed by a descent to Scalea on the SS18, the national road that
-will accompany us all the way to Reggio. Shortly before Diamante we
-found a quieter coastal road running along a beautiful long beach. With
+will accompany us all the way to Reggio.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0064.jpg" alt="Calabria">
+  <em>Calabria</em>
+</figure>
+
+Shortly before Diamante we
+found a quieter coastal road running along a beautiful long beach.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0065.jpg" alt="Calabria - Scalea">
+  <em>Calabria - Scalea</em>
+</figure>
+
+With
 the sun blazing, I decided to go for a swim, looking up at Diamante’s
 old town perched on a rocky spur, the highlight of the day.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0066.jpg" alt="Calabria - Diamante">
+  <em>Calabria - Diamante</em>
+</figure>
 
 On the promenade above the sea we stopped for a small picnic, then
 continued south on the busy, rolling national road. The coast here is
 still pretty, green mountain ridges and sandy bays, but it is far more
 built-up, and not always in a flattering way. The railway line right on
 the shore and the main road do the atmosphere no favours either.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0067.jpg" alt="Calabria">
+  <em>Calabria</em>
+</figure>
 
 The biggest town in the area is Paola, whose outer districts were
 frankly not the sort of place that makes you want to linger. High up on
@@ -398,6 +873,11 @@ a rocky spur above the sea. On the main piazza a good dozen gelaterie
 compete for customers. Pizzo’s signature seems to be tartufo, advertised
 everywhere, and it really was sinfully good.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0068.jpg" alt="Calabria - Pizzo">
+  <em>Calabria - Pizzo</em>
+</figure>
+
 Next came the not exactly uplifting industrial town of Vibo Marina.
 After that the road climbed up to Briatico, our destination for the day.
 We took a rather simple but perfectly decent room with a sea-view
@@ -415,9 +895,44 @@ huge and delicious.
 The first 15 km took us along a quiet, lovely coastal road to Tropea,
 Calabria’s tourist hub, and it isn’t hard to see why. The town sits
 spectacularly on a headland above glorious white beaches, which you can
-admire from countless viewpoints and terraces. In the twisting alleys of
+admire from countless viewpoints and terraces.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0069.jpg" alt="Calabria - Tropea">
+      <em>Calabria - Tropea</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0070.jpg" alt="Calabria - Tropea">
+      <em>Calabria - Tropea</em>
+    </figure>
+
+</div>
+
+In the twisting alleys of
 the old town, small trattorias and street cafés beckon at every turn. An
 absolute highlight.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0071.jpg" alt="Calabria - Tropea">
+      <em>Calabria - Tropea</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0072.jpg" alt="Calabria - Tropea">
+      <em>Calabria - Tropea</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0073.jpg" alt="Calabria - Tropea">
+  <em>Calabria - Tropea</em>
+</figure>
 
 From Tropea we continued along the rolling coastal road towards Capo
 Vaticano, though frustratingly there were only occasional glimpses of
@@ -426,7 +941,14 @@ steadily on a rough road until, after 6 km, we reached the
 deserted-looking hill village of Panaia at just under 400 metres.
 
 A long descent through beautiful scenery with coastal views followed,
-before another 8 km climb between Joppolo and Nicotera. Below Nicotera
+before another 8 km climb between Joppolo and Nicotera.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0074.jpg" alt="Calabria">
+  <em>Calabria</em>
+</figure>
+
+Below Nicotera
 there is a lovely sandy beach that runs for kilometres, but sadly no
 road follows it. Instead we had to ride through the flat, agricultural
 and very dreary hinterland until we finally reached the coast again at
@@ -439,6 +961,11 @@ appalling it is. Almost every building in this fairly large place is
 either unfinished or completely run-down, as if after an earthquake.
 Abandoned old factory structures sit between them, and even the centre
 offers absolutely nothing attractive. A godforsaken place!
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0075.jpg" alt="Calabria - Gioia Tauro">
+  <em>Calabria - Gioia Tauro</em>
+</figure>
 
 We got out as quickly as we could, and, almost unbelievably, just
 beyond Gioia Tauro the road suddenly becomes scenic, following the coast
@@ -463,12 +990,54 @@ Today began with two long climbs: first on a quiet road up to Palmi,
 then on the SS18 up onto the plateau above Bagnara. For the first time
 we could see Sicily in the distance.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0076.jpg" alt="Calabria - Costa Viola">
+  <em>Calabria - Costa Viola</em>
+</figure>
+
 A wonderful descent followed, with magnificent views of the Costa Viola.
-Bagnara itself, unfortunately, was far less pleasing to the eye. The
+Bagnara itself, unfortunately, was far less pleasing to the eye.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0077.jpg" alt="Calabria - Costa Viola - Bagnara">
+      <em>Calabria - Costa Viola - Bagnara</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0078.jpg" alt="Calabria - Costa Viola - Bagnara">
+      <em>Calabria - Costa Viola - Bagnara</em>
+    </figure>
+
+</div>
+
+The
 SS18 then ran right along the (genuinely beautiful) Costa Viola to
-Scilla, by far the prettiest place in this area. The old town, with the
+Scilla, by far the prettiest place in this area.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0079.jpg" alt="Calabria - Costa Viola">
+  <em>Calabria - Costa Viola</em>
+</figure>
+
+The old town, with the
 ruins of its castle, sits above the coast, while down below a glorious
 bay of white sand forms the marina.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0080.jpg" alt="Calabria - Costa Viola - Scilla">
+      <em>Calabria - Costa Viola - Scilla</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0081.jpg" alt="Calabria - Costa Viola - Scilla">
+      <em>Calabria - Costa Viola - Scilla</em>
+    </figure>
+
+</div>
 
 On the seafront we spontaneously stopped for lunch at the excellent fish
 restaurant La Pescatora: cozze alla marinara (€6), insalata di mare
@@ -481,6 +1050,11 @@ immediately. When we reached the harbour we discovered there was no
 ferry connection to Catania, so we had to cross the Straits the classic
 way, to Messina. The ferry (€2.80) took only about 20 minutes and we
 were in Sicily.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0082.jpg" alt="Messina">
+  <em>Messina</em>
+</figure>
 
 Seen from the ferry, Messina, the island’s gateway, didn’t exactly
 look like a particularly beautiful city, despite its superb setting. But
@@ -500,7 +1074,14 @@ surprisingly good, and it was cheap in any case.
 ### Messina – Mortelle – Spadafora – Villafranca – Milazzo – Capo di Milazzo
 – Milazzo
 
-Leaving Messina was a real pleasure. For the first few kilometres we had
+Leaving Messina was a real pleasure.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0083.jpg" alt="Messina">
+  <em>Messina</em>
+</figure>
+
+For the first few kilometres we had
 a new, lovely cycle path along the coast, riding in the morning sun past
 picture-book beaches and fishing boats. The area around Capo Peloro is
 lovely too, with a lake lined with palms, and little stalls everywhere
@@ -508,7 +1089,14 @@ selling the day’s catch. Beyond the cape the north coast of Sicily
 begins and we followed the coastal road SS113, which was fairly flat
 with only a few exceptions. The first 20 km took us through pretty, if
 not spectacular, Mediterranean scenery: green hills, deep-blue sea, and
-little development. From Villafranca onwards it turned into a string of
+little development.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0084.jpg" alt="Around Capo Peloro">
+  <em>Around Capo Peloro</em>
+</figure>
+
+From Villafranca onwards it turned into a string of
 unremarkable small towns that went on all the way to Milazzo. On the
 Gulf of Milazzo, just before town, there’s a vast industrial area with a
 refinery that we had to ride through. Oddly enough, in this thoroughly
@@ -523,10 +1111,56 @@ for Capo di Milazzo, the tip of a wonderful, idyllic peninsula that
 stretches for six kilometres. Lush green vegetation with cacti and olive
 trees, crystal-clear blue water, and pretty old villas, pure idyll.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0085.jpg" alt="Milazzo">
+      <em>Milazzo</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0086.jpg" alt="Milazzo">
+      <em>Milazzo</em>
+    </figure>
+
+</div>
+
 Back in Milazzo we explored the cosy old town below the impressive
-Norman castle ruins. Delightful little lanes with nice cafés and
+Norman castle ruins.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0089.jpg" alt="Milazzo">
+      <em>Milazzo</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0090.jpg" alt="Milazzo">
+      <em>Milazzo</em>
+    </figure>
+
+</div>
+
+Delightful little lanes with nice cafés and
 restaurants up on the hill, and a palm-lined seafront promenade by the
-water, with a huge fleet of colourful fishing boats. Milazzo would
+water, with a huge fleet of colourful fishing boats.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0087.jpg" alt="Milazzo">
+      <em>Milazzo</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0088.jpg" alt="Milazzo">
+      <em>Milazzo</em>
+    </figure>
+
+</div>
+
+Milazzo would
 surely be far more important touristically if it weren’t for the
 industrial plants in the bay. In the evening we went for another
 excellent meal, this time at Al Gambero, a big place right opposite the
@@ -541,9 +1175,46 @@ stuffed calamari (€9) were superb as well.
 We took the 07:25 SNAV ferry to Stromboli, the most remote of the
 Aeolian Islands. The price of €15.50 (+€6 for the bike) included
 island-hopping, since we called at Lipari, Vulcano, Salina and Panarea.
-A wonderful boat trip through this chain of volcanic islands. Around 10
+A wonderful boat trip through this chain of volcanic islands.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0091.jpg" alt="Aeolian Islands">
+      <em>Aeolian Islands</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0092.jpg" alt="Aeolian Islands">
+      <em>Aeolian Islands</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0093.jpg" alt="Aeolian Islands">
+  <em>Aeolian Islands</em>
+</figure>
+
+Around 10
 o’clock we reached little, cone-shaped Stromboli, with its active,
-smoking crater. We did a first orientation lap by bicycle and realised
+smoking crater.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0094.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0095.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+</div>
+
+We did a first orientation lap by bicycle and realised
 that there are barely six kilometres of rideable lanes on the island.
 
 After a coffee at the harbour we asked in the alimentari on Via Roma
@@ -555,21 +1226,88 @@ At about 1 pm we set off on foot to explore. Walking through Stromboli
 at midday is wonderful: the streets are almost deserted, the sun beats
 down on the white houses and the brilliantly blue sea, and everything is
 in bloom and scented. Pure Mediterranean postcard scenery, a dream, at
-least in the shoulder season. The black lava beaches make a perfect
+least in the shoulder season.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0096.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0097.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+</div>
+
+The black lava beaches make a perfect
 contrast to the white buildings; you could almost forget that the
 island’s main attraction is the volcano. I wasn’t especially keen on
 hiking up to the crater (everyone does that here anyway); I mostly
 wanted to soak up the island’s atmosphere. Still, it was a lovely
 two-hour walk up the switchbacks to the viewpoint at the end of the
 paved road, with a terrific view of the lower crater and the vast lava
-slope, the Sciara del Fuoco. About halfway up sits the old observatory,
+slope, the Sciara del Fuoco.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0098.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0099.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+</div>
+
+About halfway up sits the old observatory,
 now home to an expensive bar-pizzeria; its terrace has a fine view too.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0100.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0101.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+</div>
 
 All in all, I think Stromboli is a little slice of paradise, provided it
 isn’t swamped with tourists. And you won’t go hungry either, even if
 prices are about 50% higher than on the mainland. We had dinner at Ai
 Gechi, a beautifully furnished trattoria perched high above the sea,
-with fantastic views and excellent cooking. Because it was off-season
+with fantastic views and excellent cooking.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0102.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0103.jpg" alt="Stromboli">
+      <em>Stromboli</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0104.jpg" alt="Stromboli">
+  <em>Stromboli</em>
+</figure>
+
+Because it was off-season
 there was no menu, but we were served smoked salmon as an antipasto,
 then a risotto with little prawns (€9), followed by delicious grilled
 tuna on a bed of potato cake (€20). Only after we’d eaten did we learn
@@ -596,26 +1334,100 @@ off the main road into a lane climbing into the hills towards the hamlet
 of Lamy. There was nothing much there, but we had good views back over
 Canneto and Stromboli.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0105.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0106.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+</div>
+
 The north coast of the island has little to offer apart from basalt
 quarries. It only starts getting prettier again in the north-west, at
 the viewpoint towards Salina. After the village of Quattropani we turned
 right towards the coast; the lane ended in beautiful scenery, with
-excellent views of Salina and the wild, untouched west coast. Back on
+excellent views of Salina and the wild, untouched west coast.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0107.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0108.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+</div>
+
+Back on
 the ring road, now very scenic, we turned left before Pianoconte
 towards Monte San Angelo. A narrow road climbed steeply to one of the
 island’s highest points. From this lonely spot we could admire Lipari
 Town, the south of the island and the crater of Vulcano from above,
 absolutely fantastic.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0109.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0110.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+</div>
+
 Next we took a detour to the ancient Roman Terme di San Calogero. It’s
 worth it even though there isn’t much left of the baths themselves. The
 coast here is beautiful: slopes covered in flowers and thousands of
 cacti, and a lovely footpath running along the rugged shore.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0111.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0112.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+</div>
+
 Another highlight came shortly after Pianoconte on the ring road: the
 island’s most famous viewpoint. From here you look out over the
 loveliest stretch of Lipari’s coastline (deserted shingle beaches,
-striking rock formations) and across to Vulcano. About 500 metres after
+striking rock formations) and across to Vulcano.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0113.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0114.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+</div>
+
+About 500 metres after
 the belvedere we turned right into a road; another 500 metres on, a
 footpath leads down through a small ravine to a shingle cove where I
 took a refreshing swim. In summer there’s also a boat service to this
@@ -623,18 +1435,78 @@ spot from Lipari Town. We continued along the road until it ended high
 up on the mountain, where we were rewarded with yet another grand view
 over Lipari Town and the whole bay.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0115.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0116.jpg" alt="Around Lipari">
+      <em>Around Lipari</em>
+    </figure>
+
+</div>
+
 To finish we went down to Lipari’s picturesque little harbour for a
 cappuccino. While the island is genuinely beautiful in places, Lipari
 Town itself is the big attraction here (surely one of the prettiest
 harbour towns in Italy, if not Europe) with its dreamlike harbour
 setting, fine architecture and its castle perched on a rock above the
-sea, with the old town spilling out below. From 6 pm the centre is
+sea, with the old town spilling out below.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0117.jpg" alt="Lipari">
+      <em>Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0118.jpg" alt="Lipari">
+      <em>Lipari</em>
+    </figure>
+
+</div>
+
+From 6 pm the centre is
 closed to cars, and the Corso becomes a place to stroll.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0119.jpg" alt="Lipari">
+      <em>Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0120.jpg" alt="Lipari">
+      <em>Lipari</em>
+    </figure>
+
+</div>
 
 Dinner turned into an experience. Trattoria del Vicolo is in the same
 little alley as our room, and you can sit outside in peace. Its motto is
 “Qualità e Onestà”, and both proved spot on. Enormous portions of fish
-and seafood, and terrific value for money. The antipasto Mosaico di
+and seafood, and terrific value for money.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0121.jpg" alt="Lipari">
+      <em>Lipari</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0122.jpg" alt="Lipari">
+      <em>Lipari</em>
+    </figure>
+
+</div>
+
+The antipasto Mosaico di
 Pesce (€9) was almost at gourmet level; the octopus salad (€8) was
 excellent too. For mains we had huge bowls of zuppa di pesce (€15) and a
 spicy zuppa di cozze (€8), ‘zuppa’ meaning more of a stew here. Superb,
@@ -657,7 +1529,23 @@ mountains and the beaches, if the weather hadn’t been so hazy.
 
 Truly spectacular is the coastal scenery below Taormina: cliffs, little
 coves, and the picture-book islet Isola Bella, linked to the mainland by
-a narrow sandbar. There was meant to be a campsite on the cape, but it
+a narrow sandbar.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0123.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0124.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+</div>
+
+There was meant to be a campsite on the cape, but it
 no longer existed, so we carried on a bit further towards Naxos. We
 found a room in the Albergo directly opposite Taormina-Giardini station,
 one of the strangest hotels I’ve ever stayed in. A grand old manor
@@ -669,13 +1557,45 @@ a place like this still exists.
 
 With a bus stop right outside, we decided to take the bus up to
 Taormina, 200 metres above (€1.30). Taormina, then, what can you say?
-It’s Sicily’s biggest tourist draw, and rightly so. High on the mountain
+It’s Sicily’s biggest tourist draw, and rightly so.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0125.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0126.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+</div>
+
+High on the mountain
 above a dramatic coastline, set against green ridges, with Etna in view.
 A beautiful old town; fantastic cafés tucked into narrow lanes and
 little piazzettas; a main piazza that’s essentially an incredible
 viewing terrace; and the most dramatically located ancient Greek theatre
 in the world (€4.50, concession €2), with breathtaking views of the
-town, the coast and Etna. Despite it being Good Friday, the tourist
+town, the coast and Etna.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0127.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0128.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+</div>
+
+Despite it being Good Friday, the tourist
 crowds were still not too painful, especially away from the main corso
 and the theatre.
 
@@ -687,6 +1607,25 @@ tourism. I particularly liked the wine bar C-Cha, where you can sit on a
 broad flight of steps in an alley and watch the Corso’s parade, and the
 Carpe Diem wine lounge just outside the old town gate, with comfy
 armchairs and tasty complimentary snacks.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0129.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0130.jpg" alt="Taormina">
+      <em>Taormina</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0131.jpg" alt="Taormina">
+  <em>Taormina</em>
+</figure>
 
 The restaurant scene is equally varied, many with terraces and a view;
 for dinner we chose Ai Duomo, as the name suggests overlooking the
@@ -718,9 +1657,21 @@ Riviera di Limone.
 
 Back at the coast there was a steep climb up to Acireale, the start of
 the Riviera dei Ciclopi: a lava-rock coastline with bizarre offshore
-formations. Despite being right next to Catania, the area still feels
+formations.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0132.jpg" alt="Acireale">
+  <em>Acireale</em>
+</figure>
+
+Despite being right next to Catania, the area still feels
 fairly unspoilt; both Aci Trezza and Aci Castello are pleasant little
 harbour towns with fishing fleets.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0133.jpg" alt="Acitrezza">
+  <em>Acitrezza</em>
+</figure>
 
 In Aci Trezza we ate lunch at the seafood place La Combusa del Capitan.
 There was no menu, but you could put together a meal from a big
@@ -738,14 +1689,61 @@ headed into town.
 Catania is an intense, hectic, nerve-fraying city, with ugly outskirts
 and a magnificent old town that in places looks as if little has changed
 in a hundred years: bustling markets, sheer madness on the Corso, and
-quiet residential quarters with ancient houses. It was exactly how I’d
+quiet residential quarters with ancient houses.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0134.jpg" alt="Catania">
+      <em>Catania</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0135.jpg" alt="Catania">
+      <em>Catania</em>
+    </figure>
+
+</div>
+
+It was exactly how I’d
 imagined a Sicilian city, though the café scene felt a bit thin.
 
 Dinner, however, was excellent: at the enormous, hugely popular Pizzeria
 Casa del Amici near the station. You can choose from more than thirty,
-sometimes very creative, pizzas, and the portions are massive. We had
+sometimes very creative, pizzas, and the portions are massive.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0136.jpg" alt="Catania">
+      <em>Catania</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0137.jpg" alt="Catania">
+      <em>Catania</em>
+    </figure>
+
+</div>
+
+We had
 one with buffalo mozzarella, air-dried ham and porcini; and one with
 rocket, Parma ham and fresh Parmigiano, both from the wood-fired oven.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0138.jpg" alt="Catania">
+      <em>Catania</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0139.jpg" alt="Catania">
+      <em>Catania</em>
+    </figure>
+
+</div>
+
 Delicious.
 
 At midnight our ferry (TTT) to Naples finally left. We took a cabin for
@@ -758,8 +1756,36 @@ were passing Capri.
 
 We arrived in Naples in the morning and took the midday boat to Ischia
 (€13 + €3 for the bike). It’s a lovely trip across the bay, with great
-views of beautifully sited Naples. Ischia’s round harbour basin is
-beautiful too. We cycled to the nearby campsite (€15), where we set up
+views of beautifully sited Naples.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0140.jpg" alt="Ferry - Catania-Napoli">
+  <em>Ferry - Catania-Napoli</em>
+</figure>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0141.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0142.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
+Ischia’s round harbour basin is
+beautiful too.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0143.jpg" alt="Ischia Porto">
+  <em>Ischia Porto</em>
+</figure>
+
+We cycled to the nearby campsite (€15), where we set up
 for two nights. It was perfectly placed between Ischia Porto and Ponte,
 and the pitches were perfectly fine.
 
@@ -774,10 +1800,20 @@ views, especially the look back over Ischia Town and the harbour from
 the road towards Casamicciola Terme, the island’s oldest spa resort,
 which is quite pretty but also felt a touch sterile.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0144.jpg" alt="Ischia">
+  <em>Ischia</em>
+</figure>
+
 The next place, Lacco Ameno, was nicer and had more atmosphere. In the
 afternoon the lungomare becomes pedestrian-only, there’s a pleasant
 beach and plenty of street cafés, plus pretty architecture and great
 views towards the cape in the west.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0145.jpg" alt="Ischia - Lacco Ameno">
+  <em>Ischia - Lacco Ameno</em>
+</figure>
 
 The next town, Forio, is the favourite haunt of German package tourists:
 there are more signs in German than in Italian, and currywurst and
@@ -800,7 +1836,14 @@ cream and chatting loudly.
 After a long wander we started with an aperitif (white wine and
 bruschette) at the Enoteca Pane e Vino, in a lovely setting right by the
 harbour. Then we ambled along Via Porto to the end, where the excellent
-seafood restaurant La Baia del Clipper sits. On the terrace right above
+seafood restaurant La Baia del Clipper sits.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0146.jpg" alt="Ischia Porto - La Baia del Clipper">
+  <em>Ischia Porto - La Baia del Clipper</em>
+</figure>
+
+On the terrace right above
 the sea we ate delicious linguine agli scampi (€10 with two enormous
 langoustines) and two grilled squid (€9). Outstanding, as you’d expect.
 
@@ -820,7 +1863,23 @@ Sant’Angelo, where we spent midday.
 The little harbour village, with its pastel-coloured houses, sits on the
 slope opposite a small headland that is connected to the mainland only
 by a sandbar. On one side of the ford there’s the beach; on the other,
-the harbour basin begins. The dream setting, and the place itself,
+the harbour basin begins.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0147.jpg" alt="Ischia - Sant Angelo">
+      <em>Ischia - Sant Angelo</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0148.jpg" alt="Ischia - Sant Angelo">
+      <em>Ischia - Sant Angelo</em>
+    </figure>
+
+</div>
+
+The dream setting, and the place itself,
 naturally attracts plenty of tourists, but even they couldn’t spoil the
 picture.
 
@@ -828,9 +1887,30 @@ Since Sant’Angelo can only be reached via a spur road, we had to head
 back to Panza and the ring road. From there it climbs up into the
 mountains to the small village of Serrara, with fantastic views back
 over Sant’Angelo and the lush green hills, dotted with terraces and
-vineyards. Via the higher village of Fontana the road finally dropped
+vineyards.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0149.jpg" alt="Ischia - Sant Angelo">
+      <em>Ischia - Sant Angelo</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0150.jpg" alt="Ischia - Sant Angelo">
+      <em>Ischia - Sant Angelo</em>
+    </figure>
+
+</div>
+
+Via the higher village of Fontana the road finally dropped
 back down to Barano (still at around the 200-metre mark), where, as the
 rain began, we decided to stop for lunch.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0151.jpg" alt="Ischia">
+  <em>Ischia</em>
+</figure>
 
 Da Pasquale was a simple village pizzeria, but of course we ate
 extremely well here too: sautéed mussels (€8), a huge portion of
@@ -842,6 +1922,25 @@ Maronti, which stretches for kilometres all the way to Sant’Angelo.
 Maronti is the island’s finest beach; the green, hilly hinterland and
 the blue sea make the scene feel made for postcards.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0152.jpg" alt="Ischia - Spaggia di Maronti">
+      <em>Ischia - Spaggia di Maronti</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0153.jpg" alt="Ischia - Spaggia di Maronti">
+      <em>Ischia - Spaggia di Maronti</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0154.jpg" alt="Ischia - Spaggia di Maronti">
+  <em>Ischia - Spaggia di Maronti</em>
+</figure>
+
 Far less well-known, and not easy to reach at all, is Spiaggia di
 Cartaromana, my favourite little bay on Ischia, accessible only on foot
 or by boat. From this secluded cove, with its small beach, you get a
@@ -850,10 +1949,48 @@ islet off Ischia Ponte. In summer there are two restaurants down on the
 beach too, one of them on stilts over the sea. Very atmospheric, a
 shame it was too cold for a quick swim.
 
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0155.jpg" alt="Ischia - Spaggia di Cartaromana">
+  <em>Ischia - Spaggia di Cartaromana</em>
+</figure>
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0156.jpg" alt="Ischia">
+  <em>Ischia</em>
+</figure>
+
 The last stop on our island loop was Ischia Ponte, with the
 already-mentioned fortress. Ponte is the older, more genuine part of
 Ischia town: a pretty little place with fishing boats along the
 waterfront and great views of the old castle.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0157.jpg" alt="Ischia Ponte">
+      <em>Ischia Ponte</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0158.jpg" alt="Ischia Ponte">
+      <em>Ischia Ponte</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0159.jpg" alt="Ischia Ponte">
+      <em>Ischia Ponte</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0160.jpg" alt="Ischia Ponte">
+      <em>Ischia Ponte</em>
+    </figure>
+
+</div>
 
 For dinner we went back to Ischia Porto, to the harbour promenade. For
 an aperitif we had excellent €5 cocktails at Il Cappuccino. Afterwards
@@ -863,6 +2000,11 @@ sort of place you’d normally avoid, we got excellent quality and
 generous portions at moderate prices: a great mixed antipasto with
 various seafood, zuppa di cozze, and especially delicious spaghetti ai
 frutti di mare.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0161.jpg" alt="Ischia Porto - O Porticiull">
+  <em>Ischia Porto - O Porticiull</em>
+</figure>
 
 ## Day 20 (13 April) – 22 km
 
@@ -885,7 +2027,23 @@ the island is small enough to ride all the way round in half a day.
 
 Although Procida is the closest of the three Gulf islands to Naples and
 the mainland, it’s also the least known and least touristy, something I
-still find completely baffling. Granted, the island is very small,
+still find completely baffling.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0162.jpg" alt="Procida">
+      <em>Procida</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0163.jpg" alt="Procida">
+      <em>Procida</em>
+    </figure>
+
+</div>
+
+Granted, the island is very small,
 fairly densely populated and has no spectacular landscapes, but an
 authentic, cosy and beautiful slice of southern Italy like this should
 really be the very last thing to escape mass tourism.
@@ -896,17 +2054,68 @@ towns are barely spruced up and give off an atmosphere from decades ago.
 Down on the quayside in front of the old, colourful houses, fishermen
 sit mending nets or fixing their boats.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0168.jpg" alt="Procida - Corriccella">
+      <em>Procida - Corriccella</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0169.jpg" alt="Procida - Corriccella">
+      <em>Procida - Corriccella</em>
+    </figure>
+
+</div>
+
 Procida’s jewel, the wonderfully sited fishing harbour of Corricella,
 brings all of that together in a way that’s genuinely fascinating. You
 can reach the waterfront only via steps or by boat, 1950s vibes in a
-postcard setting. It’s hard to believe a place like this still exists in
+postcard setting.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0164.jpg" alt="Procida - Corriccella">
+      <em>Procida - Corriccella</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0165.jpg" alt="Procida - Corriccella">
+      <em>Procida - Corriccella</em>
+    </figure>
+
+</div>
+
+It’s hard to believe a place like this still exists in
 Europe, and just as strange that there aren’t tour groups trampling each
 other to death here. Quite the opposite: Corricella is an oasis of calm.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0166.jpg" alt="Procida - Corriccella">
+      <em>Procida - Corriccella</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0167.jpg" alt="Procida - Corriccella">
+      <em>Procida - Corriccella</em>
+    </figure>
+
+</div>
 
 We had dinner in the only place in the village that was open. The fish
 restaurant Gorgonia even has a Michelin mention, but apart from the
 excellent starters (octopus bruschetta, antipasto di mare) it was simply
-very solid, middle-of-the-road cooking at standard prices. As ever:
+very solid, middle-of-the-road cooking at standard prices.
+
+<figure>
+  <img src="photos/CyclingSouthernItaly2004-0170.jpg" alt="Procida - Corriccella">
+  <em>Procida - Corriccella</em>
+</figure>
+
+As ever:
 tasty.
 
 ## Day 21 (14 April) – 10 km
@@ -919,6 +2128,20 @@ our hotel was. We could do most of the ride quite comfortably along the
 Lungomare; only the last stretch on Corso Umberto I was fairly stressful
 and bumpy, but also fun in its own way.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0171.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0172.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
 \*\*\* Hotel Potenza had fairly comfortable rooms near the station and
 the Centro Storico. It was generally nicely furnished and worth the
 money (€80).
@@ -927,6 +2150,20 @@ Around midday we took the metro back to Mergellina, the pretty harbour
 where not only ferries depart, but where there’s also still a proper
 little fleet of fishing boats.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0173.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0174.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
 Since a small rain front was moving over the city, we decided to take
 bus 140 on to Capo Posillipo and, once the weather cleared, walk the 5
 km back. The plan worked perfectly and the stroll along the Neapolitan
@@ -934,13 +2171,57 @@ Riviera, the western villa suburbs, was superb: wonderful coastline,
 magnificent old villas and gardens, and glorious views over the city and
 the gulf.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0175.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0176.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
 In the afternoon, after a walk through the pleasant Chiaia district, we
 took the funicular up to Vomero, Naples’ highest neighbourhood, with
 Castel Sant’Elmo right on the summit. Despite some splendid palazzi,
 Vomero has suffered badly from 1960s building crimes, but the 360-degree
 view from the castle (€2) is unbelievably impressive, and, for any
-visit to Naples, absolutely essential. It’s also worth doing just for
+visit to Naples, absolutely essential.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0177.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0178.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
+It’s also worth doing just for
 the experience of riding the cable railway up the hill.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0179.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0180.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
 
 The tunnels of the three lines were dug more than 100 years ago and have
 been linking the lower and upper city ever since; using them was
@@ -964,7 +2245,23 @@ to Piazza del Plebiscito.
 
 After an overpriced espresso at the famous Caffè Gambrinus on Piazza di
 Trieste e Trento, we strolled along Via Chiaia, a pedestrian street
-lined with boutiques, to Piazza dei Martiri. After a wander through the
+lined with boutiques, to Piazza dei Martiri.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0181.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0182.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
+After a wander through the
 pleasant S. Lucia neighbourhood, we finished the first part of the walk
 back at Piazza del Plebiscito.
 
@@ -979,7 +2276,23 @@ live in these run-down buildings? This is Europe, after all!”
 One of my favourite areas is at the northern end of the Spagnoli, around
 Piazza Montesanto. There’s a huge market here, plus old-school
 delicatessens that spill through the lanes and little piazzettas, life
-in full flood, hectic and loud, exactly as you imagine Naples. Back on
+in full flood, hectic and loud, exactly as you imagine Naples.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0183.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0184.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
+Back on
 Via Toledo at nearby Piazza Dante, we began our tour of the Centro
 Storico: first with a proper Neapolitan pizza and tasty antipasti at the
 long-established Port'Alba, by the city gate of the same name.
@@ -1008,7 +2321,23 @@ Italian food, it was time for a bit of variety: good dim sum (€2.60),
 prawns and beef on the hot plate. Very cheap and tasty.
 
 All in all, Naples, not only because of its one-of-a-kind setting, is
-one of Europe’s most beautiful and most interesting cities. I actually
+one of Europe’s most beautiful and most interesting cities.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0185.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+  <figure>
+      <img src="photos/CyclingSouthernItaly2004-0186.jpg" alt="Napoli">
+      <em>Napoli</em>
+    </figure>
+
+</div>
+
+I actually
 liked it better than Rome or London. Naples still seems to suffer a
 little from its grubby image: in other cities of this calibre, hordes of
 tourists practically trample each other to death; in Naples, by
