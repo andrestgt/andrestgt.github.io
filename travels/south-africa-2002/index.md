@@ -77,7 +77,7 @@ We stayed in a typical rondavel at beautifully situated Olifants Camp (neatly fu
 
 ## Day 5 – 7 September
 
-At 5.30am we set off on the three‑hour morning safari we’d booked the day before (R70 per person). In the open truck (and, thanks to the low season, only seven of us) we drove through the park and, right at the start, spotted lions returning from a hunt. We were also taken to a spot that was perfect for hippo‑watching and saw two crocodile heads in the distance; otherwise we’d actually seen more animals yesterday.
+At 5.30am we set off on the three‑hour morning safari we’d booked the day before (R70 per person). In the open truck (and, thanks to the low season, only seven of us) we drove through the park and, right at the start, spotted lions returning from a hunt. We were also taken to a spot that was perfect for hippo‑watching and saw two crocodile heads in the distance; otherwise we’d seen more animals yesterday.
 
 We left Kruger via Phalaborwa Gate and drove to Tzaneen, a modern but pleasant provincial town, where we had an excellent, good‑value lunch at Villa Italia on the main road: carpaccio for R23, grilled squid (R40), and a tasty mushroom‑spinach mixture topped with mozzarella (R21).
 
@@ -108,7 +108,7 @@ In the afternoon we took a detour to Sun City, an artificial kitsch metropolis, 
   <em>Sun City</em>
 </figure>
 
-It’s actually done quite well, but it really isn’t my thing. We did, however, eat well and cheaply at “Squires”. The ostrich fillet was even excellent. We spent the night in a highly atmospheric, but overpriced, safari tent (R200) at Pilanesberg Camp.
+It’s done quite well, but it really isn’t my thing. We did, however, eat well and cheaply at “Squires”. The ostrich fillet was even excellent. We spent the night in a highly atmospheric, but overpriced, safari tent (R200) at Pilanesberg Camp.
 
 ## Day 7 – 9 September
 
@@ -165,7 +165,7 @@ We also had lunch in Soweto, at Wandie’s Place, where there were as many touri
   <em>Soweto - Wandies</em>
 </figure>
 
-We had dinner in Newtown, Jo’burg’s “new” cultural quarter in the centre. “Gramadoelas” is supposed to be the most beautiful and best restaurant in South Africa, and anyone who’s anyone eats here. That evening, however, we were the only guests in this beautiful place. The food was excellent, the Moroccan dessert was a dream, and the prices were surprisingly moderate.
+We had dinner in Newtown, Jo’burg’s “new” cultural quarter in the centre. “Gramadoelas” is supposed to be the most beautiful and best restaurant in South Africa, and anyone who’s anyone eats here. That evening, however, we were the only guests in this beautiful place. The food was excellent, the Moroccan dessert was a revelation, and the prices were surprisingly moderate.
 
 ## Day 9 – 11 September
 
@@ -255,7 +255,7 @@ Once we arrived at the camp we had a good lunch and, until the afternoon, we wer
 
 </div>
 
-We really could have skipped the second wildlife drive, because we’d already had the best experience at midday and the camp itself is so dreamy. Even so, we did see giraffes, hippos, crocodiles and, of course, rhinos once again. Dinner was also good (especially the impala with cabbage), and the atmosphere in the camp in the evening was unbeatable.
+We really could have skipped the second wildlife drive, because we’d already had the best experience at midday and the camp itself is so idyllic. Even so, we did see giraffes, hippos, crocodiles and rhinos once again. Dinner was also good (especially the impala with cabbage), and the atmosphere in the camp in the evening was unbeatable.
 
 <figure>
   <img src="photos/SouthAfrica2002-0025.jpg" alt="Swaziland - Mkhaya Reserve">
@@ -275,7 +275,7 @@ Then, sadly, it was time to say goodbye to the camp and drive towards KwaZulu‑
 
 Swaziland gave us a fine send-off: a fantastic lunch at Lubombo Lobster Restaurant in Big Bend: magnificent king prawns (R140 a dozen), tasty seafood curry and grilled calamari; seafood that cheap, cooked that well, is hard to find.
 
-Back in South Africa we drove over the spectacular Lebombo Mountains to Sodwana Bay in Maputaland. For many kilometres the road was unpaved but still quite easy to drive. In the national park we rented a large chalet, with terrace and a view over the Indian Ocean, surrounded by dense green vegetation, another wonderful little patch of earth for R320.
+Back in South Africa we drove over the spectacular Lebombo Mountains to Sodwana Bay in Maputaland. For many kilometres the road was unpaved but still quite easy to drive. In the national park we rented a large chalet, with terrace and a view over the Indian Ocean, surrounded by dense green vegetation, another wonderful little corner of the earth for R320.
 
 
 
@@ -437,7 +437,7 @@ Our accommodation at the lodge was fine: a simply furnished hut with bathroom co
 
 ## Day 18 – 20 September
 
-In the morning we did the, by now almost obligatory, ride on Basotho ponies, de rigueur by now (90 Maloti per person). For two hours we followed the dramatic Pitseng Canyon through Lesotho’s wild mountain landscape. The ride was a real highlight, but two hours was absolutely enough for my backside and my back.
+In the morning we did the by-now almost obligatory ride on Basotho ponies (90 Maloti per person). For two hours we followed the dramatic Pitseng Canyon through Lesotho’s wild mountain landscape. The ride was a real highlight, but two hours was absolutely enough for my backside and my back.
 
 Via Mohale’s Hoek and Quthing we crossed back into South Africa, and after many kilometres on dirt tracks we finally reached a proper road again. The scenery here is still interesting in places, but the drive from Aliwal North to Queenstown took us for many kilometres through utter emptiness.
 
@@ -454,7 +454,7 @@ Today we headed back to the coast. Our first stop was the big city of East Londo
   <em>East London</em>
 </figure>
 
-It doesn’t have any particular sights, but with its beachfront setting, the green hinterland a few handsome colonial buildings it isn’t unattractive.
+It doesn’t have any particular sights, but with its beachfront setting, the green hinterland and a few handsome colonial buildings, it isn’t unattractive.
 
 Not far from East London is the beautiful coastal resort of Cintsa, where we had lunch at Michaela’s. This hilltop restaurant, reached by lift, is among the finest coastal restaurants anywhere.
 
@@ -472,7 +472,7 @@ Not far from East London is the beautiful coastal resort of Cintsa, where we had
 
 </div>
 
-It’s tastefully done, and from the terrace you get dream views over the sea, the beach and the dense vegetation inland. To top it all off, the food is very good and the prices are sensible.
+It’s tastefully done, and from the terrace you get sublime views over the sea, the beach and the dense vegetation inland. To top it all off, the food is very good and the prices are sensible.
 
 Back on the N2, the Great Kei River Pass served up more spectacular views before the stretch to the turn‑off for Coffee Bay became rather dull. This part of South Africa seems especially poor, and we repeatedly passed bleak corrugated‑iron shanty settlements.
 
@@ -480,13 +480,13 @@ The route through the coastal region of the Transkei was more cheerful again: lo
 
 We spent the night at Kwa Tshezi Lodge, a would-be luxury hotel, which was highly entertaining. The rooms were nice and very spacious, but far too expensive (R255 per person B&B) and somehow felt unfinished. The lounge, on the other hand, was genuinely tasteful and luxurious, and in the evening there were free oysters and other snacks at the bar.
 
-The service was completely inept, and the head chef seemed to think he was Bocuse in person. His beautifully arranged “nouvelle cuisine” was, dessert aside, pretty generic in flavour, and the tiny portions were overpriced. In this wild, lonely region, the whole scenario was an almost surreal experience.
+The service was completely inept, and the head chef seemed to think he was Bocuse in person. His beautifully arranged “nouvelle cuisine” was, dessert aside, pretty generic in flavour, and the tiny portions were overpriced. In this wild, remote region, the whole scenario was an almost surreal experience.
 
 
 
 ## Day 20 – 22 September
 
-Because it rained today, we drove the 400 km straight through to Durban. The route took us through the former Transkei homeland wasn’t especially scenic, apart from the spectacular Kei River Pass.
+Because it rained today, we drove the 400 km straight through to Durban. The route took us through the former Transkei homeland and wasn’t especially scenic, apart from the spectacular Kei River Pass.
 
 We arrived fairly late in Durban and checked into City Lodge, not far from the beach. The room was small, but very comfortable (R405).
 
@@ -496,7 +496,7 @@ Since Durban is strongly influenced by Indian culture, we decided to go for an I
 
 ## Day 21 – 23 September
 
-Today we spent the whole day in Durban, an attractive, and above all interesting, city, because Indian, African and Western influences mix here. The markets are lively and entertaining; the centre is a combination of modern, sleek shopping arcades and old colonial buildings; and the city sits on a 6 km beachfront promenade, seaside resort right in the middle of a big city.
+Today we spent the whole day in Durban, an attractive, and above all interesting, city, because Indian, African and Western influences mix here. The markets are lively and entertaining; the centre is a combination of modern, sleek shopping arcades and old colonial buildings; and the city sits on a 6 km beachfront promenade, a seaside resort right in the middle of a big city.
 
 <div class="photo-row">
 
@@ -628,7 +628,7 @@ Tonight I stayed in the hotel’s backpacker section, where I had a four-bed roo
 
 On the way back to Cintsa I took a detour to Kei Mouth and Morgan Bay. Kei Mouth is a fairly developed resort at the mouth of a large river, reached via a 30 km dirt road. Morgan Bay is smaller and lies just 4 km to the west (18 km by car). Both have lovely beaches, though the vegetation here is no longer quite as tropical as further north.
 
-Cintsa  is among the most beautiful places on the coast, at least among those that are easy to reach. Apart from the glorious setting, it also offers the priceless luxury of Michaela’s restaurant, where we once again had a dream lunch before driving on to our hotel in East London. The Windsor Courtyard had decent, if slightly small, en‑suite rooms for a reasonable R245.
+Cintsa  is among the most beautiful places on the coast, at least among those that are easy to reach. Apart from the glorious setting, it also offers the priceless luxury of Michaela’s restaurant, where we once again had a glorious lunch before driving on to our hotel in East London. The Windsor Courtyard had decent, if slightly small, en‑suite rooms for a reasonable R245.
 
 
 
@@ -700,7 +700,7 @@ Good seafood for dinner, and magnificent mushrooms with spinach at Breakers Rest
 
 Today we passed Storms River Canyon, the official start of South Africa’s famous (and touristy) Garden Route. Our first stop was the “Big Tree”, as the name suggests, a very big tree, marketed as a major attraction in woodland‑poor South Africa. It’s a pleasant little walk along a boardwalk through dense forest to reach it; the tree is impressive enough, but not in the same league as California’s redwoods.
 
-A different calibre altogether is Storms River Mouth in Tsitsikamma National Park. Unfortunately it’s also a stop for coach tours, but the coastal scenery here is dreamy, and a welcome change from the dune beaches so far: steep, densely wooded cliffs; the mouth of the Storms River Canyon spanned by a suspension bridge; small sand-and-shingle bays; and grand views from the View Point, a punishing 45‑minute walk from the resort (so punishing that the package tourists don’t make it up there, which, honestly, is half the appeal).
+A different calibre altogether is Storms River Mouth in Tsitsikamma National Park. Unfortunately it’s also a stop for coach tours, but the coastal scenery here is enchanting, and a welcome change from the dune beaches so far: steep, densely wooded cliffs; the mouth of the Storms River Canyon spanned by a suspension bridge; small sand-and-shingle bays; and grand views from the View Point, a punishing 45‑minute walk from the resort (so punishing that the package tourists don’t make it up there, which, honestly, is half the appeal).
 
 <div class="photo-row">
 
@@ -736,7 +736,7 @@ In Plett we found an absolute rarity in rural South Africa: an (almost) authenti
 
 ## Day 29 – 1 October
 
-On this sunny but very windy day we first spent a little more time in Plettenberg Bay, South Africa’s most popular seaside resort. It’s not hard to see why Plett is so popular: the mix of lagoons, mountainous hinterland a magnificently curved bay with a broad sandy beach is fantastic. The town itself is a fairly ordinary, low‑key resort, thankfully, with just one eyesore, unfortunately plonked in a particularly lovely spot.
+On this sunny but very windy day we first spent a little more time in Plettenberg Bay, South Africa’s most popular seaside resort. It’s not hard to see why Plett is so popular: the mix of lagoons, mountainous hinterland and a magnificently curved bay with a broad sandy beach is fantastic. The town itself is a fairly ordinary, low‑key resort, thankfully, with just one eyesore, unfortunately plonked in a particularly lovely spot.
 
 On the drive from Plettenberg to Knysna we turned off the N2 towards the coast several times: once to a gorgeous picnic spot on a deep gorge with views of the wild rocky shoreline; to a waterfall not far from the main road; and to Noetzie, a small lagoon beach framed by orange, jagged rocks, where the English built pretty private castles that are now rented out as apartments.
 
@@ -806,7 +806,7 @@ From Mossel Bay the R328 crosses the Robinson Pass (glorious views) into the Lit
 
 Around town, in fascinating semi‑desert, there are ostrich farms that also serve as tourist attractions. The town itself isn’t unattractive, with a few nice cafés and restaurants in colonial buildings, but it is very touristy.
 
-Dinner was, naturally, ostrich, served three ways, in the lovely setting of De Fijne Kuiken. The calamari steak there was excellent too. We stayed in modest chalets at Smit Caravan Park for R240.
+Dinner was ostrich, served three ways, in the lovely setting of De Fijne Kuiken. The calamari steak there was excellent too. We stayed in modest chalets at Smit Caravan Park for R240.
 
 
 
@@ -853,7 +853,7 @@ Middling lunch at the “Wiener Kaffeehaus” Secession; the chocolate‑almond 
   <em>Meiringspoort.Canyon</em>
 </figure>
 
-From Oudtshoorn through the Little Karoo to Swellendam. The whole route was stark and lonely, but still scenic, especially the Tradouw Canyon behind Barrydale. Swellendam is spectacularly set at the foot of the Langeberg massif. Numerous historic buildings now serve as B&Bs, restaurants or cafés. A very provincial but pretty town.
+From Oudtshoorn through the Little Karoo to Swellendam. The whole route was stark and desolate, but still scenic, especially the Tradouw Canyon behind Barrydale. Swellendam is spectacularly set at the foot of the Langeberg massif. Numerous historic buildings now serve as B&Bs, restaurants or cafés. A very provincial but pretty town.
 
 In the evening we had upmarket fare at Koornland’s Restaurant; unfortunately the ostrich fillet was tough. We spent the night in large but very basic chalets at the campsite, too expensive at R235.
 
@@ -910,11 +910,11 @@ In the morning we stopped in Stellenbosch for a coffee, then continued to the co
   <em>Betty's Bay</em>
 </figure>
 
-Particular highlights were the dream beach of Kogel Bay, tucked beneath a dramatic mountain wall, and the dune landscapes near Betty’s Bay.
+Particular highlights were the picture-perfect beach of Kogel Bay, tucked beneath a dramatic mountain wall, and the dune landscapes near Betty’s Bay.
 
 We spent the rest of the day in Hermanus, a touristy town whose main draw is the many whales that come right in close to the shore of the bay. Needless to say, the coastal scenery around Hermanus is beautiful too.
 
-Excellent seafood dinner at Ocean Basket (delicious linefish for R40). We stayed in a luxurious small room at Mussel River B&B, a little outside the centre. From our sea‑view balcony we could watch whales, and the bathroom was a dream. The B&B also had a Jacuzzi and an outdoor pool, and with only three rooms in total it almost felt like being at home.
+Excellent seafood dinner at Ocean Basket (delicious linefish for R40). We stayed in a luxurious small room at Mussel River B&B, a little outside the centre. From our sea‑view balcony we could watch whales, and the bathroom was heavenly. The B&B also had a Jacuzzi and an outdoor pool, and with only three rooms in total it almost felt like being at home.
 
 <div class="photo-row">
 
@@ -951,7 +951,7 @@ Melkbos also has a nice beach restaurant (Café Orca) with good seafood.
 
 ## Day 36 – 8 October
 
-Today we explored the relatively untouched West Coast north of Cape Town. It’s a lonely, wild coastline with long white sandy beaches and the odd fishing village, though these days they mainly serve as holiday resorts for Capetonians. Langebaan is pleasantly set at the start of a lagoon with a little island offshore, but the prettiest place in the area is Paternoster, a remote village on two dreamlike, sweeping sandy bays.
+Today we explored the relatively untouched West Coast north of Cape Town. It’s a remote, wild coastline with long white sandy beaches and the odd fishing village, though these days they mainly serve as holiday resorts for Capetonians. Langebaan is pleasantly set at the start of a lagoon with a little island offshore, but the prettiest place in the area is Paternoster, a remote village on two ravishing, sweeping sandy bays.
 
 <figure>
   <img src="photos/SouthAfrica2002-0091.jpg" alt="Yzerfontaine">
@@ -1044,7 +1044,7 @@ In the afternoon we stopped in the city centre for coffee and a snack.
 
 ## Day 38 – 10 October
 
-Today we headed back to the Winelands to have lunch in Franschhoek at Le Quartier Français, which is considered one of South Africa’s best restaurants. While it certainly doesn’t match the quality of France’s great gourmet temples, the cooking is still very good, and a meal in the beautiful dining room costs only a fraction of what you’d pay in Europe.
+Today we headed back to the Winelands to have lunch in Franschhoek at Le Quartier Français, which is considered one of South Africa’s best restaurants. While it doesn’t match the quality of France’s great gourmet temples, the cooking is still very good, and a meal in the beautiful dining room costs only a fraction of what you’d pay in Europe.
 
 After lunch we had another little wander around Stellenbosch before heading back to the Atlantic.
 
@@ -1161,7 +1161,7 @@ A superb dinner again at Blowfish in Blouberg; it’s hard to imagine fish prepa
 
 We left our generous digs in Melkbosstrand to move into the city. On the way we had the sushi master at Blowfish conjure up a few more delicious speciality creations.
 
-Our new hotel, Cullinan between the Waterfront and the city centre, naturally felt a little disappointing compared with the house we’d had before, but it had good rooms, typical of a first-class city hotel, and was good value at R500.
+Our new hotel, Cullinan between the Waterfront and the city centre, felt a little disappointing compared with the house we’d had before, but it had good rooms, typical of a first-class city hotel, and was good value at R500.
 
 Before dinner in the opulent dining room of Mount Nelson Hotel, we had a look around Gardens, an exceptionally attractive neighbourhood with plenty of cafés and restaurants on the slopes of Table Mountain.
 
@@ -1176,7 +1176,7 @@ In the atmospheric bar there were fine cocktails (surprisingly affordable at R25
 
 ## Day 43 – 15 October
 
-We first drove down the fantastic Atlantic coast via Clifton and Camps Bay to the fishing harbour of Hout Bay. Clifton consists of four dream coves in a villa district.
+We first drove down the fantastic Atlantic coast via Clifton and Camps Bay to the fishing harbour of Hout Bay. Clifton consists of four exquisite coves in a villa district.
 
 <div class="photo-row">
 
@@ -1258,7 +1258,7 @@ At lunchtime we went to South Africa’s oldest wine estate, on the southern slo
 
 In the afternoon, in glorious weather, we took the cable car (R85) up Table Mountain. This experience once again belonged in the category “unforgettable”, and above all, “impossible to describe”.
 
-When we came back down after sunset, the day still wasn’t over: at Saigon in Gardens we were served the best Vietnamese food outside Vietnam. A dream!
+When we came back down after sunset, the day still wasn’t over: at Saigon in Gardens we were served the best Vietnamese food outside Vietnam. Pure bliss!
 
 ## Day 44 – 16 October
 
@@ -1268,9 +1268,9 @@ Then we took the inland route to Noordhoek, where we had lunch on a lovely terra
 
 ## Days 45–48 – 17–20 October
 
-We spent these last days pretty much just enjoying life in Cape Town. The day usually began with breakfast (around 11) at Tuscany Beach in Camps Bay; other activities included Waterfront shopping, visiting the bars and cafés of Long Street, a harbour cruise on a sailing boat, and of course going out to eat.
+We spent these last days pretty much just enjoying life in Cape Town. The day usually began with breakfast (around 11) at Tuscany Beach in Camps Bay; other activities included Waterfront shopping, visiting the bars and cafés of Long Street, a harbour cruise on a sailing boat, and going out to eat.
 
-Yindees, The Restaurant, Balduccis … and naturally the obligatory, sobering visit to Robben Island as a contrast to our decadent life of indulgence.
+Yindees, The Restaurant, Balduccis … and the obligatory, sobering visit to Robben Island as a contrast to our decadent life of indulgence.
 
 <figure>
   <img src="photos/SouthAfrica2002-0126.jpg" alt="Cape Town">
