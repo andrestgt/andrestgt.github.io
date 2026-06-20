@@ -19,9 +19,89 @@ A loop from Bangkok overland into Cambodia — Angkor, Battambang, Phnom Penh an
 
 The overland journey from Bangkok to Siem Reap took all day and, from the border onwards, was adventurous and back-breaking. Seven hours, ten of us plus luggage, crammed onto the back of a small pickup, over roads whose “quality” swung between muddy, ditch-scarred farm tracks and tarmac pocked with potholes the size of bomb craters. Absolutely insane.
 
+<figure>
+  <img src="photos/Thai-Cambodia0003.jpg" alt="Siem Reap">
+  <em>Siem Reap</em>
+</figure>
+
 Siem Reap is a pleasant little town, with green spaces and avenues along the river. Unfortunately, the many restaurants offering European food and pizza at outrageous prices are already the first signs of what we’re going to have to expect here over the coming years: mass tourism.
 
 The extremely high entrance fee for Angkor ($20) was money well spent, as it is one of the great temple complexes in the world. But the fascination these temples inspire is hard to put into words.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0006.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0016.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0018.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0024.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0029.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0036.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0015.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0020.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0023.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0030.jpg" alt="Angkor">
+      <em>Angkor</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Thai-Cambodia0037.jpg" alt="Angkor">
+  <em>Angkor</em>
+</figure>
 
 Angkor attracts an astonishing number of tourists — including the sort you wouldn’t normally expect to see in a country like Cambodia.
 
@@ -33,7 +113,45 @@ Green Park Guesthouse; modern and comfortable en-suite rooms; terrific value for
 
 The four-hour boat trip from Siem Reap to Battambang in small speedboats that didn’t exactly inspire confidence was a highlight. The route starts out on a lake, then runs through narrow canals before merging into a river. Along the way you pass countless floating villages. Battambang itself is a pleasant provincial town on the river, with a few colonial buildings and friendly people.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0051.jpg" alt="Tonlé Sap">
+      <em>Tonlé Sap</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0053.jpg" alt="Tonlé Sap">
+      <em>Tonlé Sap</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0056.jpg" alt="Tonlé Sap">
+      <em>Tonlé Sap</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0059.jpg" alt="Tonlé Sap">
+      <em>Tonlé Sap</em>
+    </figure>
+
+</div>
+
 The surroundings of Battambang — rice fields, coconut palms and the occasional hill — are a feast for the eyes. Against that backdrop, the “killing field” memorial at Phnom Sampeau really didn’t fit the scene at all: bones, skulls, and even clothing from Khmer Rouge victims, neatly stacked inside the cave where they were either clubbed to death and thrown in, or had their throats cut. To get there, we hired a motorbike with a driver for half a day. That was a brilliant decision, because one of the drivers also acted as a guide and told personal stories from that horrific time, which, of course, made everything hit that much harder. And for those services we paid only $3.
+
+<figure>
+  <img src="photos/Thai-Cambodia0066.jpg" alt="Phnom Sampeau">
+  <em>Phnom Sampeau</em>
+</figure>
+
+<figure>
+  <img src="photos/Thai-Cambodia0071.jpg" alt="Battambang">
+  <em>Battambang</em>
+</figure>
 
 ### Accommodation
 
@@ -44,6 +162,53 @@ The seven-hour overland pick-up trip from Battambang to Phnom Penh was a nightma
 ## Phnom Penh
 
 Phnom Penh has everything you’d expect of a South-East Asian metropolis. The city is dirty, chaotic and stifling. At the same time, there are quiet temples and palaces, colonial buildings under coconut palms, and a smart new riverside promenade. Particularly fascinating is the fact that, even in a city of a million, there are still unpaved streets that, after a tropical downpour, turn into knee-deep water.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0076.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0077.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0088.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0073.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0085.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0086.jpg" alt="Phnom Penh">
+      <em>Phnom Penh</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Thai-Cambodia0087.jpg" alt="Phnom Penh">
+  <em>Phnom Penh</em>
+</figure>
 
 ### Accommodation
 
@@ -58,6 +223,39 @@ Ponlok Restaurant; upmarket Khmer cuisine on a terrace above the riverside prome
 Kampot is a sleepy, non-touristy provincial town with old colonial buildings — and roads that are atrociously bad.
 
 The ride to the old French hill station in Bokor National Park was one of the toughest and most adventurous tours I’ve ever done. First you had to ride a motorbike ($7.50) up a road through the jungle to 1,000 metres — a road that hasn’t been maintained since colonial times. Along the way there were some wonderful views of the coast. Up top, though, it was foggy, rainy and bitterly cold. Exploring the ruins of the old French colonial hotel in that eerie atmosphere was an unforgettable experience.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0104.jpg" alt="Bokor">
+      <em>Bokor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0106.jpg" alt="Bokor">
+      <em>Bokor</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0111.jpg" alt="Bokor">
+      <em>Bokor</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0089.jpg" alt="Bokor">
+      <em>Bokor</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Thai-Cambodia0107.jpg" alt="Bokor">
+  <em>Bokor</em>
+</figure>
 
 On the way back it rained without stopping and the road became effectively impassable. So, inevitably, one stone too many in the wrong place, and the day ended in Kampot hospital — an old colonial building and a place that looked as if people were more likely to die here than be healed. To my great surprise there was a doctor who spoke fluent French, and the most modern X-ray machine I have ever seen in my life. Luckily nothing was broken, so I could return to the guesthouse with my sprain. That wasn’t quite as easy as it sounds: all the roads were flooded (including the only one we knew to our guesthouse), it was dark, we had no city map, and nobody could help us with the search. On top of that I was in appalling pain and couldn’t move my leg. A few hours later we finally made it, and I was relieved to be able to lie down in bed.
 
@@ -97,6 +295,11 @@ After the ferry, the ordeal still wasn’t over. The last stretch to the border 
 
 Trat is a very pleasant provincial town, with a great night market and lovely old wooden houses along the canal.
 
+<figure>
+  <img src="photos/Thai-Cambodia0122.jpg" alt="Trat">
+  <em>Trat</em>
+</figure>
+
 ### Accommodation
 
 Windy Guesthouse is in one of those wooden houses and has very basic rooms with an even more basic shared bathroom for 100 baht. But for sheer atmosphere, it’s hard to beat — mainly thanks to the terrace with hammocks over the canal.
@@ -105,11 +308,58 @@ Windy Guesthouse is in one of those wooden houses and has very basic rooms with 
 
 Ko Phangan is a tropical dream island, with white beaches lined with coconut palms and a mountainous interior with waterfalls. Although it’s one of Thailand’s main backpacker destinations, Ko Phangan is still relatively undeveloped; even the few roads that are paved can be adventurous roller-coaster rides in places. With the exception of Hat Rin, the beaches are still fairly idyllic despite the tourists.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0150.jpg" alt="Ko Phangan">
+      <em>Ko Phangan</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0149.jpg" alt="Ko Phangan">
+      <em>Ko Phangan</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Thai-Cambodia0154.jpg" alt="Ko Phangan">
+  <em>Ko Phangan</em>
+</figure>
+
 Hat Salat: Like most beaches on the west coast, very idyllic and lonely — but not suitable for swimming.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0134.jpg" alt="Ko Phangan - West Coast">
+      <em>Ko Phangan - West Coast</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0138.jpg" alt="Ko Phangan - West Coast">
+      <em>Ko Phangan - West Coast</em>
+    </figure>
+
+</div>
 
 Ao Thong Nai Pan Noi: The most beautiful beach on the island! A dreamy, postcard setting, ideal for swimming — and reachable only by boat, or by a one-hour pick-up ride over one of the most adventurous roads I’ve ever seen. From Nai Pan you can do a very lovely three-hour hike to the secluded Bottle Beach.
 
 Hat Rin: Hat Rin is far better than its reputation. The beach is beautiful and wasn’t even really crowded. In the evenings you could lie on the beach in a great atmosphere, knock back cheap drinks, or dance the night away. A welcome change from the island’s otherwise more peaceful vibe. Party on!
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0153.jpg" alt="Ko Phangan - Hat Rin">
+      <em>Ko Phangan - Hat Rin</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0152.jpg" alt="Ko Phangan - Hat Rin">
+      <em>Ko Phangan - Hat Rin</em>
+    </figure>
+
+</div>
 
 ### Accommodation
 
@@ -121,9 +371,61 @@ On Nai Pan Beach there were only a few places to stay, and they were more expens
 
 Kanchanaburi is a small town beautifully set on the River Kwai. Tourism still hasn’t got out of hand, even if the River Kwai Bridge feels a bit like a tourist trap.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0175.jpg" alt="Kanchanaburi">
+      <em>Kanchanaburi</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0157.jpg" alt="Kanchanaburi">
+      <em>Kanchanaburi</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0171.jpg" alt="Kanchanaburi">
+      <em>Kanchanaburi</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0172.jpg" alt="Kanchanaburi">
+      <em>Kanchanaburi</em>
+    </figure>
+
+</div>
+
 The surroundings of Kanchanaburi really have a lot to offer. We booked a day tour (800 baht) and first visited the magnificent Erawan Falls. They have deep pools for swimming on seven levels, in an almost milky turquoise water.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0160.jpg" alt="Kanchanaburi Province - Erawan Falls">
+      <em>Kanchanaburi Province - Erawan Falls</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0162.jpg" alt="Kanchanaburi Province - Erawan Falls">
+      <em>Kanchanaburi Province - Erawan Falls</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Thai-Cambodia0159.jpg" alt="Kanchanaburi Province - Erawan Falls">
+  <em>Kanchanaburi Province - Erawan Falls</em>
+</figure>
+
 After that came “elephant riding”, followed by a wonderfully relaxed bamboo-raft trip. Returning to Kanchanaburi, we did a rather less spectacular train ride on the “Death Railway”.
+
+<figure>
+  <img src="photos/Thai-Cambodia0174.jpg" alt="Kanchanaburi Province - Death Railway">
+  <em>Kanchanaburi Province - Death Railway</em>
+</figure>
 
 ### Accommodation
 
@@ -137,7 +439,50 @@ Apple Guesthouse has a nice restaurant with upmarket Thai cuisine. Moderate pric
 
 Thanks to the Skytrain, the city is now easier to explore.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0128.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0132.jpg" alt="Bangkok">
+      <em>Bangkok</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Thai-Cambodia0126.jpg" alt="Bangkok">
+  <em>Bangkok</em>
+</figure>
+
+<figure>
+  <img src="photos/Thai-Cambodia0188.jpg" alt="Bangkok - Wat Po">
+  <em>Bangkok - Wat Po</em>
+</figure>
+
 Out of sheer laziness, we booked a day tour from Bangkok to Ayutthaya and the Summer Palace in Ban Pa In — and, rightly, got our faces rubbed in it. Both the old royal city of Ayutthaya and the paradoxically European-looking Summer Palace are quite nice excursion destinations; unfortunately the price (450 baht) also included a visit to a “handicraft” shop and a gruesome lunch in a tourist feeding station. Still, in the end it was a positive experience, because it reminded you of the advantages of travelling independently.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Thai-Cambodia0196.jpg" alt="Ayutthaya">
+      <em>Ayutthaya</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Thai-Cambodia0199.jpg" alt="Ayutthaya">
+      <em>Ayutthaya</em>
+    </figure>
+
+</div>
+
+<figure>
+  <img src="photos/Thai-Cambodia0198.jpg" alt="Ayutthaya">
+  <em>Ayutthaya</em>
+</figure>
 
 ### Accommodation
 
