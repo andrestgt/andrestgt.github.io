@@ -15,7 +15,7 @@ A road trip from Germany through the Austrian Alps to Slovenia and the Croatian 
 
 2 June 2004 - 9 June 2004
 
-## Day 1 — 2 June
+## Day 1 – 2 June
 
 Amid the beautiful Alpine scenery around Berchtesgaden, I made my first
 stop.
@@ -29,8 +29,7 @@ Unfortunately the weather was pretty awful, and it didn’t improve
 when I reached Salzburg either: grey and rainy. I still had a look
 around the old town, which would no doubt have been lovely in sunshine.
 
-Salzburg is hugely touristy, which must be Mozart’s fault, because the
-baroque old town is certainly pretty and picturesque, but in Europe
+Salzburg is hugely touristy, which must be Mozart’s fault, because the baroque old town is admittedly pretty and picturesque, but in Europe
 there are dozens of more beautiful cities. Salzburg is dominated by the
 fortress perched on a hill, with the old town spreading out on both
 sides of the river below. The part directly under the fortress is where
@@ -56,7 +55,7 @@ friendly restaurant. The food was fine and fairly inexpensive: €12 for a
 mixed starter platter, quesadillas and Apfelschorle. I spent the night
 in a quiet street on the shore of the Wörthersee.
 
-## Day 2 — 3 June
+## Day 2 – 3 June
 
 After the drive over the spectacular Loibl Pass I reached Slovenia.
 
@@ -123,7 +122,7 @@ rafting area, and stunningly beautiful.
 </div>
 
 I continued through non-touristy
-country on lonely little roads to Škofja Loka, a pleasant town near
+country on deserted little roads to Škofja Loka, a pleasant town near
 Ljubljana, where I had an espresso on the lovely old-town square.
 
 <figure>
@@ -169,7 +168,7 @@ worth a visit.
 Overnight at a motorway service area between Maribor and
 Ljubljana.
 
-## Day 3 — 4 June
+## Day 3 – 4 June
 
 In the morning I drove on to Ljubljana and checked into Hostel Celica.
 This unusual hostel used to be a prison and the cells had been converted
@@ -244,7 +243,7 @@ vegetables.
 
 Later I had a beer in the old town with an Australian from the hostel.
 
-## Day 4 — 5 June
+## Day 4 – 5 June
 
 In the morning I drove to the coast to Piran, the prettiest place on
 Slovenia’s short Adriatic coastline. A medieval little town and holiday
@@ -344,7 +343,7 @@ wine.
   <em>Rovinj - Konoba Veli Joze</em>
 </figure>
 
-## Day 5 — 6 June
+## Day 5 – 6 June
 
 I had my morning coffee in Pula, Istria’s largest city. It isn’t
 outstandingly attractive, but thanks to its magnificently preserved
@@ -356,7 +355,7 @@ well worth a visit.
   <em>Pula</em>
 </figure>
 
-Around midday I drove on to Lubin on Istria’s east coast. The town lies
+Around midday I drove on to Labin on Istria’s east coast. The town lies
 a few kilometres inland on a hill and, with its lovely old town and
 views over the islands of Kvarner Bay, is the prototype of Istria’s
 medieval hill towns.
@@ -401,8 +400,7 @@ Janine. We continued over a swing bridge to the much greener island of
 Losinj, a very popular holiday island with the twin towns of Mali and
 Veli Losinj.
 
-Veli is the smaller of the two: a quiet, romantic old place on a
-dreamily beautiful little natural harbour, whose promenade lets you dine
+Veli is the smaller of the two: a quiet, romantic old place on an idyllically beautiful little natural harbour, whose promenade lets you dine
 or drink coffee right by the water. Mali is larger and more touristy
 than Veli, but also a storybook harbour town, with more gelaterias than
 anywhere else on earth; surprisingly, there are very few restaurants.
@@ -429,7 +427,7 @@ with a kitchen and terrace.
   <em>Losinj</em>
 </figure>
 
-## Day 6 — 7 June
+## Day 6 – 7 June
 
 We drove back to the island of Cres, to Lubenice, a tiny old mountain
 village 300 metres above the coast, reachable only via a hair-raisingly
@@ -455,8 +453,7 @@ wonderfully cool, clear water.
 
 After a quick swim we went back to the
 fork and turned right towards Lubenice’s main beach, which from above
-had looked like a white, crescent-shaped dream against the indescribably
-blue sea.
+had looked like a white, crescent-shaped vision against the indescribably blue sea.
 
 <div class="photo-row">
 
@@ -499,13 +496,12 @@ cold-cuts platter at the pretty (and only) konoba.
   <em>Cres - Lubenice</em>
 </figure>
 
-## Day 7 — 8 June
+## Day 7 – 8 June
 
 Broken up by a coffee stop in Cres Town and a short ferry crossing, we
 drove from Losinj to Krk Town. The main town of the island of the same
 name is a typical Croatian harbour town with a pretty little old centre
-and a few cafés on the harbour promenade. Nothing extraordinary, but
-certainly worth a longer lunch break.
+and a few cafés on the harbour promenade. Nothing extraordinary, but well worth a longer lunch break.
 
 Then we drove to Baska at the southern end of Krk. If the rest of the
 island is already barren and rocky, this is where it gets extreme. A
@@ -560,7 +556,7 @@ very good fish dishes. Scallops (22 kuna each), grilled squid (65 kuna),
 truffle risotto (90 kuna) and for dessert cheese from the island of Pag
 (60 kuna).
 
-## Day 8 — 9 June
+## Day 8 – 9 June
 
 Back towards Germany via the pretty town of Portogruaro.
 
