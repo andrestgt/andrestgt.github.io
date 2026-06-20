@@ -117,6 +117,10 @@ Venezuela &middot; Colombia
 Pakistan &middot; India
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/pakistan-india-2001/)
 
+## Cambodia & Thailand (2000)
+Cambodia &middot; Thailand
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/cambodia-thailand-2000/)
+
 ## Thailand & Vietnam (2000)
 Thailand &middot; Vietnam
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/thailand-vietnam-2000/)
