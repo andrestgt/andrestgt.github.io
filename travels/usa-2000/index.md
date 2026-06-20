@@ -86,7 +86,7 @@ above the ocean, offering beautiful views.
 
 Venice Beach could not be more different. It is a super-cool beach
 hang-out in front of beautiful old houses, a place where some
-wonderfully strange characters seem to hang out there permanently.
+wonderfully strange characters seem to hang out permanently.
 
 Accommodation: Sheraton Airport
 
@@ -258,9 +258,7 @@ there is a superb view over San Diego and the bay.
 
 </div>
 
-Very good, and wasn’t
-too expensive, Thai food in the evening at the upscale Royal Thai in the
-Gaslamp Quarter.
+Very good and not too expensive Thai food in the evening at the upscale Royal Thai in the Gaslamp Quarter.
 
 ## Day 8 – Palm Springs
 
@@ -278,8 +276,7 @@ fascinating and brutally hot Anza-Borrego Desert.
 </figure>
 
 Palm Springs itself is
-a glamorous holiday resort set right in the middle of the desert. In
-summer the heat here is unbearable, we experienced 46°C in the shade.
+a glamorous holiday resort set right in the middle of the desert. In summer the heat here is unbearable (we experienced 46°C in the shade).
 
 For that very reason the highlight was definitely the tramway ride up to
 a mountain station at 2,500 metres, where you can stroll around in
@@ -405,8 +402,7 @@ When it comes to temple complexes there is Angkor, for towers the Eiffel
 Tower, and for bays Halong Bay. The Grand Canyon belongs in exactly the
 same category. It is just as indescribably impressive and overwhelming.
 
-The 13-kilometre West Rim Trail is certainly one of the most beautiful
-walking routes in the world, running mostly right along the edge of the
+The 13-kilometre West Rim Trail is one of the most beautiful walking routes in the world, running mostly right along the edge of the
 canyon, with staggering views, and only becoming busy near Grand Canyon
 Village.
 
@@ -462,7 +458,7 @@ Comfortable standard rooms (211 DM).
 
 Both in quality and, above all, in sheer quantity, this was the most
 spectacular day of the entire journey. From Page we drove to Monument
-Valley, whose dreamlike rock formations can be admired along a 17-mile
+Valley, whose otherworldly rock formations can be admired along a 17-mile
 unpaved loop road. It would be hard to imagine a more fascinating place
 for a picnic.
 
@@ -509,7 +505,7 @@ Bryce Canyon.
 Accommodation: West Town Resort near Panguitch
 
 As the name suggests, the resort is built like a Western town and
-entirely out of wood. It is, of course, delightfully kitschy, but the
+entirely out of wood. It is delightfully kitschy, but the
 rooms were quite comfortable (180 DM).
 
 <figure>
@@ -520,9 +516,7 @@ rooms were quite comfortable (180 DM).
 ## Day 14 – Panguitch – Bryce Canyon – Grosvenor Arch
 
 We had breakfast in the historic little town of Panguitch, which was
-refreshingly not a tourist trap, before heading to Bryce Canyon. After
-all the dreamlike scenery we had driven through the day before, I was
-already afraid that Bryce Canyon might fail to impress. Far from it. The
+refreshingly not a tourist trap, before heading to Bryce Canyon. After all the sublime scenery we had driven through the day before, I was afraid that Bryce Canyon might fail to impress. Far from it. The
 rock formations here are unbelievably grand and bizarre, and completely
 different from anything we had seen before.
 
@@ -573,7 +567,7 @@ Trail) and admire everything from a completely different perspective.
 </div>
 
 In the afternoon, eager to escape the tourist crowds for a while, we
-drove along the lonely, unpaved Cottonwood Canyon Road to Grosvenor Arch
+drove along the remote, unpaved Cottonwood Canyon Road to Grosvenor Arch
 for a picnic.
 
 <div class="photo-row">
@@ -690,7 +684,7 @@ Accommodation: Furnace Creek Ranch
 
 Located right inside Death Valley, below sea level. Like most lodgings
 within national park boundaries, the rooms were extremely expensive and
-rather unremarkable, though certainly not unpleasant (231 DM).
+rather unremarkable, though by no means unpleasant (231 DM).
 
 ## Day 17 – Lone Pine – June Lake – Mono Lake – Yosemite National Park
 
@@ -732,7 +726,7 @@ also excellent (\$129).
 
 ## Day 18 – Yosemite National Park – Mariposa
 
-A dreamlike mountain landscape of valleys, waterfalls and giant sequoia
+A spellbinding mountain landscape of valleys, waterfalls and giant sequoia
 trees. Unfortunately, the shuttle system here is not yet particularly
 well developed, and the sheer volume of car traffic takes away some of
 the magic. Added to this is the vast size of the park; it really
@@ -902,7 +896,7 @@ the waves were perfect for body-surfing.
 ## Day 23 – Kauai North Coast – Kalalau Trail
 
 We drove along the north coast of Kauai. The scenery here lives up to
-every Hawaiian cliché: dreamlike coves, tropical gardens and lush green
+every Hawaiian cliché: idyllic coves, tropical gardens and lush green
 valleys.
 
 <div class="photo-row">
@@ -985,7 +979,7 @@ green interior of the island.
 </div>
 
 The rest of the day was spent at Secret
-Beach, a secluded, wide dream beach with huge waves, accessible only via
+Beach, a secluded, wide, picture-perfect beach with huge waves, accessible only via
 an unpaved road.
 
 <div class="photo-row">
@@ -1155,8 +1149,7 @@ reached some distant place at the end of the world.
 
 Today we explored the beaches along Molokai’s west coast, in effect,
 our “local” beaches. What this part of the island lacks in lush
-vegetation it more than makes up for with its utterly deserted dream
-beaches.
+vegetation it more than makes up for with its utterly deserted, postcard-perfect beaches.
 
 The most astonishing of all is Papohaku Beach, the longest beach in
 Hawaii.
@@ -1178,8 +1171,7 @@ had this vast beach entirely to ourselves for hours.
 ## Day 29 – Kalaupapa Peninsula (Mule Tour)
 
 A hair-raising mule ride (\$140) took us down to the isolated Kalaupapa
-Peninsula, a wonderful stretch of nature that is still used as a
-leprosy colony and cannot be reached by road.
+Peninsula, a wonderful stretch of nature that is still used as a leper colony and cannot be reached by road.
 
 <div class="photo-row">
 
@@ -1292,17 +1284,15 @@ rides, an Eiffel Tower and a pyramid.
 
 The buffets at the Bellagio were outstanding, with jumbo shrimp, maki,
 lobster, wonderful desserts and much more, far too much choice.
-Dreamlike and appalling at the same time. After all those buffets, we
+Heavenly and appalling at the same time. After all those buffets, we
 were actually glad to return to rationed portions.
 
 We had excellent Asian noodle dishes and salads at Noodles in the
-Bellagio, the duck salad was a dream, though of course not nearly as
-inexpensive as the buffet.
+Bellagio, the duck salad was a revelation, though not nearly as inexpensive as the buffet.
 
 Accommodation: Bellagio
 
-The most stylish hotel in Las Vegas, its opulence is hard to beat. The
-bathroom was a dream, but the room itself not excessively luxurious. Far
+The most stylish hotel in Las Vegas, its opulence is hard to beat. The bathroom was glorious, but the room itself not excessively luxurious. Far
 too expensive (600 DM).
 
 ## Day 33 – Las Vegas – San Francisco
@@ -1420,4 +1410,3 @@ business hotel, it didn't offer much atmosphere.
   <img src="photos/USA2000-0133.jpg" alt="San Francisco">
   <em>San Francisco</em>
 </figure>
-
