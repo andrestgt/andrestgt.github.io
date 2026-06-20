@@ -17,7 +17,7 @@ A journey from Caracas along the Venezuelan coast to Colombia, including the Ciu
 ## Day 1 – 10 Sep
 
 My flight from Stuttgart was delayed, so I missed my connection to
-Caracas. That mishap was, of course, the best thing that could have
+Caracas. That mishap was the best thing that could have
 happened: it finally gave me time to have a proper look at Amsterdam,
 and spared me the joy of hunting for a hotel in Caracas in the middle of
 the night.
@@ -47,7 +47,7 @@ at the end of it you find a full-blown tourist resort.
 
 From Puerto Colombia it was only a few minutes' walk to beautiful Playa
 Grande, a bay fringed with coconut palms where I could pitch my tent.
-Despite the crowds of (local) tourists, it was a lovely place on earth.
+Despite the crowds of (local) tourists, it was a lovely corner of the earth.
 
 ## Day 3 – 12 Sep
 
@@ -170,8 +170,7 @@ In the morning we travelled to Cartagena, said to be one of the most
 beautiful colonial cities in South America. Unfortunately, it poured
 down for the first time today, so I put off sightseeing until tomorrow.
 I only explored the area around my posada, in Getsemaní, the less
-touristy part of the old town outside the city walls. Even so, this
-neighbourhood is already lively and interesting.
+touristy part of the old town outside the city walls. Even so, this neighbourhood is lively and interesting in itself.
 
 I spent the night in the dorm at Casa Viena, another simple travellers’
 posada with a terrace (6,000 pesos).
@@ -395,7 +394,7 @@ those hours downhill), plus another two hours back to Santa Marta by
 chiva.
 
 The trekking tour was truly brilliant, and very reasonably priced.
-Sleeping in hammocks was genuinely comfortable, and in Ciudad Perdida,
+Sleeping in hammocks was really comfortable, and in Ciudad Perdida,
 where it got really cold at night, we even got blankets. Our guide was
 very nice and we had no complaints about the food, either. Alongside the
 usual rice with meat and sandwiches, there was plenty of fresh veg, and
@@ -466,15 +465,14 @@ After the summit I rode back down to 4,000 metres, to the Loma Redonda
 station. From there I went on a superb five-hour hike to the pretty
 Andean village of Los Nevados. The first 45 minutes were a tough climb
 through barren high-mountain scenery, but after the pass it was almost
-all downhill through a dreamlike valley carpeted with plants in every
+all downhill through an idyllic valley carpeted with plants in every
 possible colour, with waterfalls plunging down from the green slopes.
 
 I’d brought all my camping kit because I wanted to camp in Los Nevados,
 but the meadow was covered in cow dung, so I opted for a bed instead. It
 turned out to be the right decision. For one thing, it rained at night;
 for another, I found accommodation at the pretty Posada Guamanchi, whose
-terrace with hammocks and a view of the mountains was simply a dream
-after the strenuous hike. The meal, included in the 7,000 Bs price, was
+terrace with hammocks and a view of the mountains was simply bliss after the strenuous hike. The meal, included in the 7,000 Bs price, was
 perfectly fine, and although the room was basic it came with two thick
 wool blankets, which, at almost 3,000 metres above sea level, is
 nothing to be sniffed at.
@@ -640,8 +638,7 @@ Overnight in the very comfortable Posada Michelle.
 Today the trek was finally meant to begin, but our nightmare guide
 clearly couldn’t be bothered to set off (even though we were already in
 San Francisco, the starting point) and invented one excuse after
-another. Even though we put pressure on him, and even calling the
-travel agency in Ciudad Bolívar, we didn’t get going.
+another. Even though we put pressure on him and even called the travel agency in Ciudad Bolívar, we still didn’t get going.
 
 So we bought a bottle of rum and emptied it in the afternoon. In the
 evening we went back to the bar with a few other travellers for cheap
@@ -659,8 +656,7 @@ Since it’s meant to be one of the most beautiful hikes in South America,
 and everyone I met raved about it, all that mattered to me was getting
 on the road at last.
 
-We now had to do the whole thing in five rather than six days, but I
-didn’t think that would be a problem the walking time. Today, in any
+We now had to do the whole thing in five rather than six days, but I didn’t think that would be a problem in terms of the walking time. Today, in any
 case, wasn’t too hard. Most of the six hours were relatively flat; only
 the last hour was a steady, though not too steep, climb.
 
@@ -811,7 +807,7 @@ you can’t really put it into words.
 
 But the landscape wasn’t the only thing. The most fantastic part was the
 views from the 1,000-metre drop down to the other table mountains and
-the Guyanese jungle. By now everything feels like a dream.
+the Guyanese jungle. By now everything feels surreal.
 
 <div class="photo-row">
 
@@ -955,7 +951,7 @@ My last day at the beach, and the weather was actually quite good. I
 wanted to treat myself once more, so I ate grilled fish and drank
 cocktails at Santa Fe’s nicest restaurant, right on their beachside terrace.
 
-In the evening there was, of course, beer and cocktails again. There
+In the evening there was beer and cocktails again. There
 really wasn’t anything else to do here.
 
 ## Day 41 – 20 Oct
@@ -1006,8 +1002,7 @@ In the evening I flew back to Stuttgart via Amsterdam.
 
 ## Colombia
 
-With just under two weeks in Colombia, I could of course only get a
-brief taste of the country, but it definitely whetted my appetite for
+With just under two weeks in Colombia, I could only get a brief taste of the country, but it definitely whetted my appetite for
 more.
 
 Colombia’s north coast alone has everything a traveller could want:
