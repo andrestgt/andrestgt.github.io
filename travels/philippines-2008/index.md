@@ -214,9 +214,9 @@ Tricycles have to stop at Batad Junction because the terrain gets too steep, whi
 
 </div>
 
-At the top of the pass the road ends, and from it is a just over an hour down into the village on a narrow mountain path, where there are a handful of the simplest, family-run places to stay. At Ramon’s, a spartan but clean room with two beds cost 150 pesos; there was a bucket shower down in the yard.
+At the top of the pass the road ends, and from there it is just over an hour down into the village on a narrow mountain path, where there are a handful of the simplest, family-run places to stay. At Ramon’s, a spartan but clean room with two beds cost 150 pesos; there was a bucket shower down in the yard.
 
-Culinarily you cannot expect much in Batad, of course, and you pay more than elsewhere, understandably, given that a large part of the supplies has to be carried along mountain paths. Simple but perfectly tasty dishes with chicken, rice, eggs or tinned tuna cost almost as much as the room, and even water is fairly expensive.
+Culinarily you cannot expect much in Batad, and you pay more than elsewhere, understandably, given that a large part of the supplies has to be carried along mountain paths. Simple but perfectly tasty dishes with chicken, rice, eggs or tinned tuna cost almost as much as the room, and even water is fairly expensive.
 
 Given the low tourist numbers, too many locals try their hand as guides, but fortunately people here are very friendly, reserved and respectful, so you never feel pestered by offers of services. I am usually not a huge fan of guides, but in Batad you not only support local families, you also save yourself a lot of frustration and time on the confusing, steep stepped paths around here, definitely 400 pesos well spent.
 
@@ -306,7 +306,7 @@ After sorting out a room we went for lunch at the Yoghurt House, the classic amo
   <em>Sagada - Yoghurt House</em>
 </figure>
 
-Caving is one of Sagada’s most popular activities, and spending an afternoon in a dark cave is far more exciting than it sounds. After the usual short afternoon downpour, we organised a guide at the tourist office and were joined a Japanese traveller we had met in the jeepney. Four hundred pesos split between three is not much, and it was a very good investment, because a cave visit without a guide would have been guaranteed to be less interesting and probably downright dangerous. The most famous of the caves around Sagada, Sumaging Cave, a forty-five-minute walk from the centre, is called the Porn Cave for good reason, because of its bizarre, graphic rock formations. An exploration tour barefoot, with nothing but a paraffin lamp, is not for the faint-hearted, but it is great fun and, at the end, even rewarded with a little swim in an underground pool.
+Caving is one of Sagada’s most popular activities, and spending an afternoon in a dark cave is far more exciting than it sounds. After the usual short afternoon downpour, we organised a guide at the tourist office and were joined by a Japanese traveller we had met in the jeepney. Four hundred pesos split between three is not much, and it was a very good investment, because a cave visit without a guide would have been guaranteed to be less interesting and probably downright dangerous. The most famous of the caves around Sagada, Sumaging Cave, a forty-five-minute walk from the centre, is called the Porn Cave for good reason, because of its bizarre, graphic rock formations. An exploration tour barefoot, with nothing but a paraffin lamp, is not for the faint-hearted, but it is great fun and, at the end, even rewarded with a little swim in an underground pool.
 
 <div class="photo-row">
 
@@ -395,7 +395,7 @@ This morning we took one of the hourly buses to Baguio at 7 am. This six-hour ri
 
 </div>
 
-The largest city in the Philippine highlands is a chaotic metropolis with extremely polluted air, whose slopes are covered with corrugated-iron shacks. If you arrive in Baguio from Manila or the coastal lowlands, you will certainly appreciate the pleasant climate of this city at 1,500 metres. For us, though, coming straight from the cool mountains anyway, the city did not feel particularly attractive, even though Baguio is certainly worth an afternoon.
+The largest city in the Philippine highlands is a chaotic metropolis with extremely polluted air, whose slopes are covered with corrugated-iron shacks. If you arrive in Baguio from Manila or the coastal lowlands, you will appreciate the pleasant climate of this city at 1,500 metres. For us, though, coming straight from the cool mountains anyway, the city did not feel particularly attractive, even though Baguio is well worth an afternoon.
 
 <div class="photo-row">
 
@@ -477,7 +477,7 @@ There are no budget places in Vigan, but some of the stately old-town buildings 
 
 In principle we could have covered Vigan’s old town in a few relaxed hours, but we stayed an extra day because we needed to have laundry done, and there are far worse places to linger than a feel-good town like Vigan.
 
-Gastronomically the town admittedly does not yet have all that much to offer (the square in front of the cathedral is dominated by a McDonald’s), even though the old town would be the ideal setting for nice cafés and restaurants. This will surely change in the future once more tourists discover Vigan’s charm. Fortunately, everything essential already exists now. At Café Leoni you can enjoy local specialities such as marcon (a stuffed meatloaf, 200 P) in a cosy trattoria atmosphere, or very good wood-fired pizza (from 180 P). And ‘A Cup of Coffee’ has just opened in the old town, where you can get a decent cappuccino for a good-value 45 pesos.
+Gastronomically the town admittedly does not yet have all that much to offer (the square in front of the cathedral is dominated by a McDonald’s), even though the old town would be the ideal setting for nice cafés and restaurants. This will likely change in the future once more tourists discover Vigan’s charm. Fortunately, everything essential already exists now. At Café Leona you can enjoy local specialities such as marcon (a stuffed meatloaf, 200 P) in a cosy trattoria atmosphere, or very good wood-fired pizza (from 180 P). And ‘A Cup of Coffee’ has just opened in the old town, where you can get a decent cappuccino for a good-value 45 pesos.
 
 <div class="photo-row">
 
@@ -493,7 +493,7 @@ Gastronomically the town admittedly does not yet have all that much to offer (th
 
 </div>
 
-Nightlife certainly is not Vigan’s strength, and the two venues we visited were not exactly jumping, but at least there is a pleasant pub and a slightly more stylish bar.
+Nightlife is not really Vigan’s strength, and the two venues we visited were not exactly jumping, but at least there is a pleasant pub and a slightly more stylish bar.
 
 ## 12 October 2008
 
@@ -522,7 +522,7 @@ Despite its geographical proximity to Manila, Lake Taal is a little scenic gem, 
   <em>Lake Taal</em>
 </figure>
 
-Luckily we had made an early start. On the way back, dozens of cheerful Northeast Asians came towards us on horseback, whose sheer mass made the path feel precarious. Later, any sense of peace up at the crater would certainly have been over.
+Luckily we had made an early start. On the way back, dozens of cheerful Northeast Asians came towards us on horseback, whose sheer mass made the path feel precarious. Later, any sense of peace up at the crater would soon have been over.
 
 For the return to Manila we chose an alternative route, via the town of Tagaytay on the rim of the outer crater, which again offered wonderful views. In the afternoon traffic the bus ride from there to Manila took almost four hours and we only got back to our guesthouse in the evening. The excursion to Lake Taal was not cheap, but definitely worth it.
 
@@ -594,7 +594,7 @@ Nevertheless we decided to try our luck and head to S. Isidro, but first we spen
   <em>Tacloban - Café Urbana</em>
 </figure>
 
-When we got back to the bus station, we learned that today there was no longer a direct connection to S. Isidro. Instead we were put on a minibus to Villaba, 30 km south of S. Isidro on the west coast. When we arrived there around 5 pm after a two-hour ride (140 P), there were of course no jeepneys left, and motorcycle taxis wanted at least 300 pesos per person. Because we still assumed we might have to catch the boat at 7 am, and spending the night in Villaba would have been risky in terms of timing, we tried hitchhiking, and were actually lucky.
+When we got back to the bus station, we learned that today there was no longer a direct connection to S. Isidro. Instead we were put on a minibus to Villaba, 30 km south of S. Isidro on the west coast. When we arrived there around 5 pm after a two-hour ride (140 P), there were of course no jeepneys left, and motorcycle taxis wanted at least 300 pesos per person. Because we still assumed we might have to catch the boat at 7 am, and spending the night in Villaba would have been risky in terms of timing, we tried hitchhiking, and got lucky.
 
 A short while later a large, comfortable coach out of service stopped, with only a few young Pinoys aboard, blasting Eurotrash dance music and looking as if they were on their way to some party. The road to S. Isidro was absolutely dreadful, and it no longer surprised me that the motorcycle taxis had asked so much. With luggage, in the dark, that trip would have been pure horror. We, on the other hand, sat comfortably in the air-conditioned bus, and when we arrived in S. Isidro and offered to pay something, it was waved away with a relaxed ‘no problem’. We really could not have got luckier.
 
@@ -868,7 +868,7 @@ The only accommodation in Jagna, the Garden Café, is more of an American-style 
 
 ## 26 October 2008
 
-The ferry from Jagna took just over four hours (400 P), and by the time I arrived at the harbour a few kilometres east of Mambajao, it was already dark. Luckily I bumped into a fixer who initially only wanted to take me into town on his motorbike. A short while later I had an excellent rental motorbike (1,000 P for three days) and a room in a chalet right on the beach for 500 pesos. The resort was so new it did not even have a name yet (‘friends’ of my fixer, of course). All the other beach resorts, during festival time, wanted at least 800 pesos for a room near the beach. I could only stay here for one night, because the chalet was reserved for the next day, That meant the tedious room hunt was out of the way that same evening, and the next morning, in bright sunshine, I could step straight from my room into the cool, clear sea for a swim.  That experience alone made it worth spending a night on the beach.
+The ferry from Jagna took just over four hours (400 P), and by the time I arrived at the harbour a few kilometres east of Mambajao, it was already dark. Luckily I bumped into a fixer who initially only wanted to take me into town on his motorbike. A short while later I had an excellent rental motorbike (1,000 P for three days) and a room in a chalet right on the beach for 500 pesos. The resort was so new it did not even have a name yet (‘friends’ of my fixer, of course). All the other beach resorts, during festival time, wanted at least 800 pesos for a room near the beach. I could only stay here for one night, because the chalet was reserved for the next day. That meant the tedious room hunt was out of the way that same evening, and the next morning, in bright sunshine, I could step straight from my room into the cool, clear sea for a swim.  That experience alone made it worth spending a night on the beach.
 
 Afterwards I took a room in Mambajao, the pleasant little capital of Camiguin and, these days, host to the Lanzones Festival, one of the Philippines’ best-known harvest festivals, in honour of the small round fruits with white flesh called lanzones, which are said to be particularly tasty on Camiguin. Today was the final day, with the exotic dances in the streets of the town, wonderful photo opportunities, but live bands performed on the stage all week, and on my first evening on the island I danced until after midnight.
 
@@ -1114,7 +1114,7 @@ Also in the south-east of the island, near Lazi, there is a small but very prett
 
 The road through the interior is very scenic and offers perfect motorbike terrain. At the island’s highest point there is a lookout tower (with a somewhat limited view, admittedly), and you can take pleasant walks through the mountain forest.
 
-As far as tourism goes, Siquijor is still a real insider tip, despite a few dive resorts. For those who know the island, however, it ranks among the very best the Philippines have to offer, surely also thanks to the wonderful locals and the relative peace and quiet.
+As far as tourism goes, Siquijor is still a real insider tip, despite a few dive resorts. For those who know the island, however, it ranks among the very best the Philippines have to offer, thanks in no small part to the wonderful locals and the relative peace and quiet.
 
 Since I had already spent much longer than planned on Siquijor, it did not matter that on the day of my intended departure, due to a typhoon warning, no boats ran and I had to stay another day. I had abandoned my original plan to go to Boracay and Palawan with the three weeks I had left anyway. Travel in the Philippines is simply very time-consuming, and instead of forcing myself through a stressful schedule for the rest of the trip, I have decided to spend more time on Negros and possibly go back to Siquijor for a few days, before directly flying back from Dumaguete to Manila.
 
