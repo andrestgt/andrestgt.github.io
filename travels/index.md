@@ -100,7 +100,6 @@ Johannesburg &middot; Kruger &middot; Drakensberg &middot; Garden Route &middot;
 ## Eastern Europe (2002)
 Hungary &middot; Romania &middot; Bulgaria &middot; Greece &middot; Croatia &middot; Venice
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/eastern-europe-2002/)
-cat > travels/usa-2000/index.md << 'YAML'
 
 ## Burma / Myanmar (2003)
 Rangoon &middot; Mandalay &middot; Hsipaw &middot; Bagan &middot; Ngapali Beach
@@ -117,6 +116,10 @@ Venezuela &middot; Colombia
 ## Pakistan & India (2001)
 Pakistan &middot; India
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/pakistan-india-2001/)
+
+## Thailand & Vietnam (2000)
+Thailand &middot; Vietnam
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/thailand-vietnam-2000/)
 
 ## USA Road Trip (2000)
 California &middot; Arizona &middot; Utah &middot; Nevada &middot; Hawaii
