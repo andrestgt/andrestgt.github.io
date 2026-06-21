@@ -15,7 +15,7 @@ A road trip through Eastern and Southeastern Europe, from Hungary and Romania th
 
 ## Day 1 – 21 July
 
-Stuttgart — Passau — Vienna — Budapest
+Stuttgart – Passau – Vienna – Budapest
 
 Today we drove straight through to Budapest in one go. In the evening we still managed a quick beer in the pricey Rio Club on the Danube embankment.
 
@@ -25,7 +25,7 @@ Overnight in the car, in a central spot near the Danube on the Buda side.
 
 ## Day 2 – 22 July
 
-Budapest — Gyöngyös — Sirok
+Budapest – Gyöngyös – Sirok
 
 We spent today in Budapest until late afternoon.
 
@@ -67,7 +67,7 @@ Around 6 p.m. we left Budapest heading east on the N3, then turned off in Gyöng
 
 ## Day 3 – 23 July
 
-Sirok — Eger — Nyiregyháza — Satu Mare — Sighet — Prislop Pass
+Sirok – Eger – Nyiregyháza – Satu Mare – Sighet – Prislop Pass
 
 Early in the morning we paid a visit to the lovely little Baroque town of Eger, then spent a long time driving through rather uninteresting scenery as far as the Romanian border.
 
@@ -85,7 +85,7 @@ Early in the morning we paid a visit to the lovely little Baroque town of Eger, 
 
 </div>
 
-From there we drove via Satu Mare through the remote and very unspoilt Maramureş region and visited the wooden churches in beautiful Izatal, which are part of the UNESCO World Heritage Site.
+From there we drove via Satu Mare through the remote and very unspoilt Maramureş region and visited the wooden churches in the lovely Iza Valley, which are part of the UNESCO World Heritage Site.
 
 <figure>
   <img src="photos/EasternEurope2002-0007.jpg" alt="Săpânța">
@@ -110,7 +110,7 @@ The road conditions were far better than I’d expected in Romania. At least up 
 
 ## Day 4 – 24 July
 
-Prislop — Moldoviţa — Suceviţa — Humor — Voroneţ — Ostra — Bicaz — Sovata — Sighişoara
+Prislop – Moldoviţa – Suceviţa – Humor – Voroneţ – Ostra – Bicaz – Sovata – Sighişoara
 
 In the morning we looked at the famous painted monasteries of Bucovina, of which Suceviţa was the most impressive.
 
@@ -198,7 +198,7 @@ Then we carried on over Carpathian passes, past lakes, and through a wonderfully
 
 ## Day 5 – 25 July
 
-Dumbrăveni — Sibiu — Curtea de Argeş — Câmpulung — Bran — Râşnov — Poiana Braşov
+Dumbrăveni – Sibiu – Curtea de Argeş – Câmpulung – Bran – Râşnov – Poiana Braşov
 
 In the morning we visited Sibiu’s beautiful medieval centre and had a cappuccino on Piaţa Mică. Then we drove on over a pass more than 2,000 metres high into the Făgăraş Mountains, and although the weather was poor, the landscape and the views were fantastic.
 
@@ -249,7 +249,7 @@ In the morning we visited Sibiu’s beautiful medieval centre and had a cappucci
   <em>Transylvania</em>
 </figure>
 
-The route between Câmpulung and Bran was also very scenic; the famous Dracula Castle of Bran was, however, a bit of a disappointment. The castle itself does look quite pretty from the outside, but it only bears the name “Dracula Castle” for tourist purposes because it’s in Transylvania, and it certainly doesn’t justify the, for Romania, unusual tourist circus.
+The route between Câmpulung and Bran was also very scenic; the famous Dracula Castle of Bran was, however, a bit of a disappointment. The castle itself does look quite pretty from the outside, but it only bears the name “Dracula Castle” for tourist purposes because it’s in Transylvania, and it does not justify the, for Romania, unusual tourist circus.
 
 <figure>
   <img src="photos/EasternEurope2002-0029.jpg" alt="Bran">
@@ -284,7 +284,7 @@ More interesting was the nearby fortress ruin of Râşnov, from which you had, o
 
 ## Day 6 – 26 July
 
-Poiana Braşov — Braşov — Prejmer — Hărman — Braşov — Sinaia — Ploieşti — Buzău — Făurei — Balta Albă
+Poiana Braşov – Braşov – Prejmer – Hărman – Braşov – Sinaia – Ploieşti – Buzău – Făurei – Balta Albă
 
 In the morning we drove down from Poiana Braşov into town; even with rain and fog we still had lovely views of Kronstadt.
 
@@ -323,7 +323,7 @@ At midday we then spent many hours in Braşov in miserable weather. Its dramatic
 
 We had lunch (unfortunately in the rain) right on the main square at the lovely Sirena Gustari. The food was, as expected, simple, but the rabbit liver was okay and the meal, despite the prime location, was very cheap (8 euros for two people including starter and dessert).
 
-Towards evening we drove through the lovely scenery of the Bucegi Mountains to the main resort town of Sinaia, which, like the other places around here, is beautifully situated but rather ugly and overbuilt, as the area is a recreation spot for big‑city Romanians. A little way outside Sinaia, though, lies the dreamy fairy‑tale Peleş Castle, which is absolutely worth a visit.
+Towards evening we drove through the lovely scenery of the Bucegi Mountains to the main resort town of Sinaia, which, like the other places around here, is beautifully situated but rather ugly and overbuilt, as the area is a recreation spot for big‑city Romanians. A little way outside Sinaia, though, lies the sublime fairy‑tale Peleş Castle, which is absolutely worth a visit.
 
 <div class="photo-row">
 
@@ -345,7 +345,7 @@ Then we made the mistake of driving on into the dark to escape the bad weather a
 
 ## Day 7 – 27 July
 
-Balta Albă — Brăila — Tulcea — Mahmudia — Babadag — Mamaia
+Balta Albă – Brăila – Tulcea – Mahmudia – Babadag – Mamaia
 
 In the morning we drove to Tulcea, the starting point for excursions into the Danube Delta. If we’d taken the boat to the end point, Salina, we would have had to spend the night there, so we decided to drive as far as we could into the delta landscape by car. The area is very pretty and we had a lovely picnic by a branch of the Danube opposite Mahmudia.
 
@@ -390,7 +390,7 @@ After the quiet atmosphere of central Romania it was a real culture shock, but a
 
 ## Day 8 – 28 July
 
-Mamaia — Constanţa — Bucharest
+Mamaia – Constanţa – Bucharest
 
 We spent the morning in Constanţa, Romania’s second‑largest city. Constanţa is not really anything special, but it does have a few nice corners such as the harbour promenade and a park with Roman excavations.
 
@@ -474,7 +474,7 @@ Today we wanted, for the first time, to spend the night in a guesthouse, have a 
 
 ## Day 9 – 29 July
 
-Bucharest — Ruse — Veliko Tarnovo
+Bucharest – Ruse – Veliko Tarnovo
 
 We spent the morning in Bucharest because we had to wait for our laundry; then we drove on to the border. After paying an environmental tax (10 euros) and the fee for the Danube bridge (7 euros) on the Romanian side, we entered Bulgaria, where we paid 14 euros road tax and 2 euros for whatever‑it‑was. Otherwise the border crossing went smoothly.
 
@@ -510,7 +510,7 @@ Bulgarian roads are, surprisingly, not as good as the Romanian ones, but they’
 
 ## Day 10 – 30 July
 
-Tarnovo — Shumen — Varna
+Tarnovo – Shumen – Varna
 
 In the morning we visited Tarnovo’s impressive citadel (4 leva), and from its walls had splendid views of the town and the ravine‑ and valley‑shaped landscape.
 
@@ -523,7 +523,7 @@ In the afternoon we drove on to Varna, where its boulevards and parks had a wond
 
 ## Day 11 – 31 July
 
-Varna — Sunny Beach — Nesebar — Burgas — Sozopol
+Varna – Sunny Beach – Nesebar – Burgas – Sozopol
 
 After leaving Varna’s ugly harbour installations behind us, we drove through attractive coastal scenery to Sunny Beach, a resort with very high prices by Bulgarian standards and a 6 km beach that was unbelievably crowded. German and English are spoken here. Horrible!
 
@@ -571,7 +571,7 @@ Also on a peninsula, and scenically even more beautiful, is Sozopol, a pretty ho
 
 ## Day 12 – 1 August
 
-Sozopol — Burgas — Grudovo — Haskovo — Plovdiv
+Sozopol – Burgas – Grudovo – Haskovo – Plovdiv
 
 We drove on small roads through sparsely populated countryside from Sozopol to Plovdiv, where we spent the rest of the day.
 
@@ -612,7 +612,7 @@ Plovdiv was another pleasant surprise and a real insider tip. Apart from a lovel
 
 ## Day 13 – 2 August
 
-Plovdiv — Smoljan — Mugla — Trigrad Canyon — Delčev — Bansko
+Plovdiv – Smoljan – Mugla – Trigrad Canyon – Delčev – Bansko
 
 Today was not only one of the most beautiful days in terms of scenery, but also the most adventurous day of the trip so far. On our way through the wild Rhodope Mountains we first visited Bachkovo Monastery, which wasn’t particularly impressive.
 
@@ -657,7 +657,7 @@ Our destination for today was Bansko, a pretty old village at the foot of the Pi
 
 ## Day 14 – 3 August
 
-Bansko — Rila — Melnik — Thessaloniki
+Bansko – Rila – Melnik – Thessaloniki
 
 From Bansko it was an hour and a half to Rila Monastery, the most impressively situated, largest, but also most touristy monastery we’d visited so far.
 
@@ -707,9 +707,9 @@ Thessaloniki doesn’t offer all that many tourist sights, but it’s on the sea
 
 ## Day 15 – 4 August
 
-Thessaloniki — Nea Moudania — Nikitas — Paleohori — Amfipoli — Drama — Kavala — Thassos
+Thessaloniki – Nea Moudania – Nikitas – Paleohori – Amfipoli – Drama – Kavala – Thassos
 
-We spent today driving along the coast east of Thessaloniki. Unfortunately it was Sunday, so both the beaches and the roads were very busy. Apart from that, the coast is beautiful and the colour of the sea is simply dreamy.
+We spent today driving along the coast east of Thessaloniki. Unfortunately it was Sunday, so both the beaches and the roads were very busy. Apart from that, the coast is beautiful and the colour of the sea is simply ravishing.
 
 We picnicked and swam in a pretty spot at the beginning of the Sithonia peninsula. Right behind it, between Ormos Panagias and the picturesque fishing village of Pirgadikia, began the most impressive stretch of coastline.
 
@@ -786,7 +786,7 @@ Our next stop was Paradise Beach, which can only be reached via a steep, unpaved
 
 The day’s highlight was Aliki, an especially lovely spot on an already very attractive coastline. We spent several hours here in the tavernas on a spit of land with two bays and a wonderful view of the turquoise‑blue sea.
 
-We spent the night in a great, lonely bay between Aliki and Astis in the south of the island.
+We spent the night in a glorious, secluded bay between Aliki and Astis in the south of the island.
 
 <div class="photo-row">
 
@@ -862,7 +862,7 @@ We spent the night on a beach near Thassos Town.
 
 ## Day 18 – 7 August
 
-Thassos — Keramoti — Xanthi — Alexandroupoli — Istanbul
+Thassos – Keramoti – Xanthi – Alexandroupoli – Istanbul
 
 In the morning we took the ferry (15.50 euros) to Keramoti, from where a brand‑new motorway led right up to the Turkish border.
 
@@ -1014,7 +1014,7 @@ At 2 a.m. we drove on towards Bulgaria.
 
 ## Day 22 – 11 August
 
-Istanbul — Edirne — Plovdiv — Koprivshtitsa — Sofia
+Istanbul – Edirne – Plovdiv – Koprivshtitsa – Sofia
 
 Around 4 a.m. we crossed the Turkish–Bulgarian border, which took just under an hour and cost us 25 euros (20 euros road tax, 5 euros “disinfection”).
 
@@ -1075,7 +1075,7 @@ In the evening we went to an atmospheric club in a disused secret printing press
 
 ## Day 24 – 13 August
 
-Sofia — Skopje
+Sofia – Skopje
 
 I spent the morning in Sofia getting acquainted with Bulgarian bureaucracy and various public buildings, which I had to visit with an interpreter in order to get the final stamp for the police report.
 
@@ -1095,7 +1095,7 @@ The “Albanian” old town has a traditional, oriental flair, and the nightlife
 
 ## Day 25 – 14 August
 
-Skopje — Tetovo — Ohrid
+Skopje – Tetovo – Ohrid
 
 We spent a few more hours in Skopje today, and I didn’t have to revise my impressions from last night.
 
@@ -1195,7 +1195,7 @@ It’s beyond me why so few foreign tourists visit this place.
 
 ## Day 26 – 15 August
 
-Ohrid — Sveti Naum — Ohrid — Bitola — Kozani — Grevena — Kalambaka
+Ohrid – Sveti Naum – Ohrid – Bitola – Kozani – Grevena – Kalambaka
 
 After a refreshing morning swim in the lake, we drove along the shore, accompanied by gorgeous scenery, to Sveti Naum Monastery on the Albanian border, from whose walls there were wonderful views.
 
@@ -1250,7 +1250,7 @@ The ruins of Heraclea in the industrial district are probably only interesting f
 
 From Bitola it was only a hop to the Greek border, which we crossed quickly and without problems.
 
-The area near the Macedonian border is dull and mostly industrial. From Grevena onwards, though, the scenery becomes very beautiful, and we found a dreamy place to swim in the little canyon of the turquoise‑green Venetikos.
+The area near the Macedonian border is dull and mostly industrial. From Grevena onwards, though, the scenery becomes very beautiful, and we found a glorious spot to swim in the little canyon of the turquoise‑green Venetikos.
 
 When it was already getting dark we reached Kalambaka, a touristy but pleasant town with lots of cafés and restaurants, dramatically situated below the bizarre rock formations of Meteora.
 
@@ -1275,7 +1275,7 @@ When it was already getting dark we reached Kalambaka, a touristy but pleasant t
 
 ## Day 27 – 16 August
 
-Kalambaka — Ioannina — Monodendri
+Kalambaka – Ioannina – Monodendri
 
 We got up extra early to avoid the tourist hordes that one of Europe’s most extraordinary and impressive sights inevitably attracts.
 
@@ -1370,7 +1370,7 @@ After an expensive frappé in a lovely taverna in Monodendri, we drove a few mor
 
 ## Day 28 – 17 August
 
-Kakavijë — Gjirokastër — Sarandë — Butrint — Sarandë
+Kakavijë – Gjirokastër – Sarandë – Butrint – Sarandë
 
 Crossing into Albania went smoothly, though it involved a total of 45 minutes’ waiting around.
 
@@ -1464,9 +1464,9 @@ Back in Sarandë we enjoyed the lively mood in the evening on the lovely seafron
 
 ## Day 29 – 18 August
 
-Sarandë — Vlorë — Durrës — Tirana
+Sarandë – Vlorë – Durrës – Tirana
 
-The Ionian coast, also called the Flower Riviera, between Sarandë and Vlorë is beautiful, non‑touristy and in places very spectacular, with high mountains that only end at long, lonely sandy beaches.
+The Ionian coast, also called the Flower Riviera, between Sarandë and Vlorë is beautiful, non‑touristy and in places very spectacular, with high mountains that only end at long, deserted sandy beaches.
 
 The prettiest part of the coast is shortly before the pass, where there was also a café with a wonderful panoramic terrace.
 
@@ -1572,7 +1572,7 @@ If someone had told me that before this trip, I’d probably have taken it for a
 
 ## Day 30 – 19 August
 
-Tirana — Kukës — Prizren
+Tirana – Kukës – Prizren
 
 Although it’s only 200 km from Tirana to Kukës, the drive took over six hours.
 
@@ -1627,7 +1627,7 @@ The traces of the war were really only noticeable in the strong KFOR presence, a
 
 ## Day 31 – 20 August
 
-Prizren — Pejë — Podgorica — Cetinje
+Prizren – Pejë – Podgorica – Cetinje
 
 In the morning we drove from Prizren to Pejë, a town that the war had hit much harder.
 
@@ -1684,9 +1684,9 @@ These days the town is very laid‑back, with many green avenues, historic build
 
 ## Day 32 – 21 August
 
-Cetinje — Kotor — Dubrovnik
+Cetinje – Kotor – Dubrovnik
 
-From Cetinje we drove down a hair‑raising winding road through dreamy scenery, plus even better views of the coast, to Kotor, on the impressive fjord of the same name.
+From Cetinje we drove down a hair‑raising winding road through sublime scenery, plus even better views of the coast, to Kotor, on the impressive fjord of the same name.
 
 Kotor is not only spectacularly situated, but also has a well‑preserved old town completely surrounded by city walls.
 
@@ -1772,7 +1772,7 @@ We spent the late evening having cocktails at La Bohème, one of the most relaxe
 
 ## Day 33 – 22 August
 
-Dubrovnik — Neum — Mostar — Sarajevo
+Dubrovnik – Neum – Mostar – Sarajevo
 
 The drive along the Dalmatian coast offers beautiful coastal scenery with many offshore islands; unfortunately the weather was exceptionally bad today.
 
@@ -1820,9 +1820,9 @@ Lovely evening atmosphere in the street cafés of the pedestrian zone.
 
 ## Day 34 – 23 August
 
-Sarajevo — Mostar — Ploče — Drvenik — Hvar
+Sarajevo – Mostar – Ploče – Drvenik – Hvar
 
-On our way back to the Croatian coast we visited Mostar, which before the war was certainly one of the most beautiful places in south‑eastern Europe.
+On our way back to the Croatian coast we visited Mostar, which before the war was undeniably one of the most beautiful places in south‑eastern Europe.
 
 Unfortunately both the Serbs and the Croats did quite a bit of damage here, even blowing up the medieval bridge, the heart of the town.
 
@@ -1924,13 +1924,13 @@ In the evening the mood along the harbour promenade was a well‑balanced mix of
 
 ## Day 35 – 24 August
 
-Hvar — Stari Grad — Split
+Hvar – Stari Grad – Split
 
 After one last swim on Hvar, in a beautiful, fairly secluded pebble bay south of the tunnel, we took the ferry to Split in the morning (280 kuna, two hours).
 
 We spent the rest of the day pottering about Split’s lovely old town, eating ice cream and drinking cappuccino.
 
-Naturally we also visited the magnificent Palace of Diocletian and strolled leisurely through the narrow lanes.
+We also visited the magnificent Palace of Diocletian and strolled leisurely through the narrow lanes.
 
 <div class="photo-row">
 
@@ -1952,7 +1952,7 @@ In the evening we had a good, expensive meal at the pretty Kod Joze: grilled fis
 
 ## Day 36 – 25 August
 
-Split — Trogir — Pirovac — Šibenik
+Split – Trogir – Pirovac – Šibenik
 
 In the morning we had a cappuccino in Trogir, another medieval picture‑book town on the coast, and then continued along the coastal road to Pirovac, where we visited Toni.
 
@@ -1982,7 +1982,7 @@ At night we went to a huge open‑air club near Pirovac which, unfortunately, wa
 
 ## Day 37 – 26 August
 
-Pirovac — Zadar — Plitvice — Zagreb
+Pirovac – Zadar – Plitvice – Zagreb
 
 After spending the night, properly, for the first time in ages, and consequently sleeping in outrageously late, we set off around midday towards Zagreb.
 
@@ -2047,7 +2047,7 @@ Before that we also had a decent Indian meal at Maharaja, in a quiet old‑town 
 
 ## Day 38 – 27 August
 
-Zagreb — Ljubljana — Bled
+Zagreb – Ljubljana – Bled
 
 Today we were properly inspected at a border for the first time.
 
@@ -2080,7 +2080,7 @@ We climbed up to the castle above the old town and drank cappuccinos in various 
 
 In the evening we drove on into the Julian Alps to Lake Bled and felt entirely as if we were in Bavaria or Austria.
 
-The lake, with the castle perched above it, is a visual dream; Bled itself, however, is rather stuffy and sterile.
+The lake, with the castle perched above it, is a visual revelation; Bled itself, however, is rather stuffy and sterile.
 
 <div class="photo-row">
 
@@ -2106,7 +2106,7 @@ Very atmospheric!
 
 ## Day 39 – 28 August
 
-Bled — Bohinj — Bled — Kranj — Škofja Loka — Ljubljana
+Bled – Bohinj – Bled – Kranj – Škofja Loka – Ljubljana
 
 After being woken at 6.30 a.m. by a grim park ranger who told us that sleeping in the car in the national park was forbidden and that we had ten minutes to clear off, we drove to Bohinj, a larger lake beautifully situated below high mountains.
 
@@ -2135,7 +2135,7 @@ Our swim in the lake was interrupted again by a park ranger, who this time told 
 
 As beautiful as Slovenia is, the regulations here are really dreadful.
 
-At midday we then took a genuinely lovely short walk through Vintgar Gorge to a waterfall, which, naturally, like everything here, cost money.
+At midday we then took a genuinely lovely short walk through Vintgar Gorge to a waterfall, which, like everything here, cost money.
 
 <div class="photo-row">
 
@@ -2182,7 +2182,7 @@ We spent the evening in Ljubljana, where we first filled ourselves up at the tas
 
 ## Day 40 – 29 August
 
-Ljubljana — Škocjan — Piran — Trieste — Portogruaro
+Ljubljana – Škocjan – Piran – Trieste – Portogruaro
 
 We left Ljubljana with heavy hearts towards Slovenia’s karst region, where we visited the impressive Škocjan Caves on a 90‑minute tour (5 euros).
 
@@ -2277,7 +2277,7 @@ La dolce vita, and without the tourist circus.
 
 ## Day 41 – 30 August
 
-Portogruaro — Mestre — Venice — Castelfranco — Borgo
+Portogruaro – Mestre – Venice – Castelfranco – Borgo
 
 Once we reached Mestre, we parked the car for free near the station and took the train to Venice.
 
@@ -2348,7 +2348,7 @@ Back in Mestre we drove another 100 km or so towards Austria.
 
 ## Day 42 – 31 August
 
-Borgo — Bolzano — Innsbruck — Füssen — Stuttgart
+Borgo – Bolzano – Innsbruck – Füssen – Stuttgart
 
 We took the Brenner motorway across the Alps to Innsbruck, where we stopped for lunch.
 
