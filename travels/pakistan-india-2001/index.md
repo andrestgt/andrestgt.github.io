@@ -55,7 +55,7 @@ It used to be something of a hippie stronghold, but these days there are
 only a handful of guesthouses, with the odd traveller occasionally
 wandering in.
 
-It is certainly not paradise, but it is a very pleasant place to relax.
+It is no paradise, but it is a very pleasant place to relax.
 
 <figure>
   <img src="photos/PakistanIndia2001-0004.jpg" alt="Swat Valley">
@@ -158,8 +158,7 @@ days we spent here, we discovered something new every single day.
 Architectural masterpieces from the Mughal and Raj eras (mosques, the
 enormous fort, the Mall); splendid, if somewhat neglected (rubbish!)
 Mughal gardens; the huge, ornamented tomb of Jehangir; Food Street, a
-pedestrian zone lined with beautifully restored rows of houses; and, of
-course, Old Lahore, a labyrinth of narrow lanes, bazaars, old buildings
+pedestrian zone lined with beautifully restored rows of houses; and Old Lahore, a labyrinth of narrow lanes, bazaars, old buildings
 and open sewers.
 
 <div class="photo-row">
@@ -259,8 +258,7 @@ smoke and heat alone.
 A fascinating spectacle takes place every afternoon at the
 Pakistani-Indian border.
 
-The “flag ceremony” takes place every day; it’s when the border shuts in
-the afternoon, reopening the following morning. Hundreds of spectators
+The “flag ceremony” takes place every day; it’s when the border is closed for the day. Hundreds of spectators
 on grandstands on both sides watch the procedure, clapping and shouting
 loudly, each side trying to outdo the other.
 
@@ -278,8 +276,7 @@ Amritsar, the stronghold of Sikhism, is a fairly tidy city, though not
 exactly inviting. Everywhere you seem to run into turbaned men with long
 beards and extremely grim expressions.
 
-The Golden Temple, the Sikhs’ most important shrine, is certainly an
-impressive complex, but you do not really feel comfortable or welcome.
+The Golden Temple, the Sikhs’ most important shrine, is undeniably an impressive complex, but you do not really feel comfortable or welcome.
 
 <div class="photo-row">
 
@@ -298,7 +295,7 @@ impressive complex, but you do not really feel comfortable or welcome.
 Perhaps non-Sikhs should simply be barred from entering, or Sikhs could
 try smiling.
 
-These are, of course, superficial impressions from a short visit; maybe
+These are, though, superficial impressions from a short visit; maybe
 you get used to it if you stay longer.
 
 ## Delhi
@@ -586,8 +583,7 @@ also well worth seeing (and, with the obligatory guide, cost 110 Rp, a
 realistic entry price).
 
 The famous Rat Temple of Deshnok, where holy rats are venerated, was not
-exactly a highlight, even if it is certainly interesting to share the
-floor barefoot with rats (albeit small and few).
+exactly a highlight, even if it is undeniably interesting to share the floor barefoot with rats (albeit small and few).
 
 <figure>
   <img src="photos/PakistanIndia2001-0050.jpg" alt="Deshnok Rat Temple">
@@ -596,7 +592,7 @@ floor barefoot with rats (albeit small and few).
 
 Besides the sightseeing, we spent very pleasant hours in the city’s two
 luxury lodgings: the old haveli Bhanwar Niwas, where we had breakfast,
-and the former Maharaja’s palace Lalargh Palace.
+and the former Maharaja’s palace Lalgarh Palace.
 
 Finally, we had a good dinner on the rooftop terrace of Harasar Haveli.
 
@@ -880,8 +876,7 @@ taxi-wallahs, searching for a decent hotel room.
 Although Bombay, especially Colaba, is a very nerve-racking city
 (“Hello! Wanna Buy? One Pen, Ten Rupeeeeeeeees!!”), we still ended up
 having a great time there. There may not be many standout sights, but
-exploring this vast city on foot is hugely interesting, and Bombay
-certainly has its pleasant sides.
+exploring this vast city on foot is hugely interesting, and Bombay has its pleasant sides too.
 
 <div class="photo-row">
 
