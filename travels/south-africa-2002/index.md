@@ -441,7 +441,7 @@ In the morning we did the by-now almost obligatory ride on Basotho ponies (90 Ma
 
 Via Mohale’s Hoek and Quthing we crossed back into South Africa, and after many kilometres on dirt tracks we finally reached a proper road again. The scenery here is still interesting in places, but the drive from Aliwal North to Queenstown took us for many kilometres through utter emptiness.
 
-In Queenstown, a fairly big town in the middle of nowhere, we stayed in very neat little rooms at Val’s GH (R145 per person). When it comes to food, your choice is basically steakhouse or steakhouse, but the dishes (fillet steak on a hot stone, mushroom skewers) at the absolutely packed Buffalo Springs Spur were good and good value.
+In Queenstown, a fairly big town in the middle of nowhere, we stayed in very neat little rooms at Val’s GH (R145 per person). When it comes to food, your choice is steakhouse or steakhouse, but the dishes (fillet steak on a hot stone, mushroom skewers) at the absolutely packed Buffalo Springs Spur were good and good value.
 
 
 
@@ -478,7 +478,7 @@ Back on the N2, the Great Kei River Pass served up more spectacular views before
 
 The route through the coastal region of the Transkei was more cheerful again: lovely traditional Xhosa villages of round huts dot the beautiful rolling hills all the way to the sea. Despite its relative remoteness, Coffee Bay is quite touristy, but still a relaxed little place with a lagoon on a wildly romantic green coast.
 
-We spent the night at Kwa Tshezi Lodge, a would-be luxury hotel, which was highly entertaining. The rooms were nice and very spacious, but far too expensive (R255 per person B&B) and somehow felt unfinished. The lounge, on the other hand, was genuinely tasteful and luxurious, and in the evening there were free oysters and other snacks at the bar.
+We spent the night at Kwa Tshezi Lodge, a would-be luxury hotel, which was highly entertaining. The rooms were nice and very spacious, but far too expensive (R255 per person B&B) and somehow felt unfinished. The lounge, on the other hand, was really tasteful and luxurious, and in the evening there were free oysters and other snacks at the bar.
 
 The service was completely inept, and the head chef seemed to think he was Bocuse in person. His beautifully arranged “nouvelle cuisine” was, dessert aside, pretty generic in flavour, and the tiny portions were overpriced. In this wild, remote region, the whole scenario was an almost surreal experience.
 
@@ -628,7 +628,7 @@ Tonight I stayed in the hotel’s backpacker section, where I had a four-bed roo
 
 On the way back to Cintsa I took a detour to Kei Mouth and Morgan Bay. Kei Mouth is a fairly developed resort at the mouth of a large river, reached via a 30 km dirt road. Morgan Bay is smaller and lies just 4 km to the west (18 km by car). Both have lovely beaches, though the vegetation here is no longer quite as tropical as further north.
 
-Cintsa  is among the most beautiful places on the coast, at least among those that are easy to reach. Apart from the glorious setting, it also offers the priceless luxury of Michaela’s restaurant, where we once again had a glorious lunch before driving on to our hotel in East London. The Windsor Courtyard had decent, if slightly small, en‑suite rooms for a reasonable R245.
+Cintsa  is among the most beautiful places on the coast, at least among those that are easy to reach. Apart from the glorious setting, it also offers the priceless luxury of Michaela’s restaurant, where we once again had a delicious lunch before driving on to our hotel in East London. The Windsor Courtyard had decent, if slightly small, en‑suite rooms for a reasonable R245.
 
 
 
@@ -700,7 +700,7 @@ Good seafood for dinner, and magnificent mushrooms with spinach at Breakers Rest
 
 Today we passed Storms River Canyon, the official start of South Africa’s famous (and touristy) Garden Route. Our first stop was the “Big Tree”, as the name suggests, a very big tree, marketed as a major attraction in woodland‑poor South Africa. It’s a pleasant little walk along a boardwalk through dense forest to reach it; the tree is impressive enough, but not in the same league as California’s redwoods.
 
-A different calibre altogether is Storms River Mouth in Tsitsikamma National Park. Unfortunately it’s also a stop for coach tours, but the coastal scenery here is enchanting, and a welcome change from the dune beaches so far: steep, densely wooded cliffs; the mouth of the Storms River Canyon spanned by a suspension bridge; small sand-and-shingle bays; and grand views from the View Point, a punishing 45‑minute walk from the resort (so punishing that the package tourists don’t make it up there, which, honestly, is half the appeal).
+A different calibre altogether is Storms River Mouth in Tsitsikamma National Park. Unfortunately it’s also a stop for coach tours, but the coastal scenery here is enchanting, and a welcome change from the dune beaches so far: steep, densely wooded cliffs; the mouth of the Storms River Canyon spanned by a suspension bridge; small sand-and-shingle bays; and grand views from the View Point, a punishing 45‑minute walk from the resort (so punishing that the package tourists don’t make it up there, which was almost better than the view itself).
 
 <div class="photo-row">
 
