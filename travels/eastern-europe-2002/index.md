@@ -104,7 +104,7 @@ Then on over the Prislop Pass through alpine landscapes, and along a mountain st
   <em>Prislop</em>
 </figure>
 
-The road conditions were far better than I’d expected in Romania. At least up here in the north, huge potholes are actually quite rare even on minor roads; the only thing that really demands concentration is the countless horse-drawn carts on the roads.
+The road conditions were far better than I’d expected in Romania. At least up here in the north, huge potholes are quite rare even on minor roads; the only thing that really demands concentration is the countless horse-drawn carts on the roads.
 
 
 
@@ -161,7 +161,7 @@ In the morning we looked at the famous painted monasteries of Bucovina, of which
 
 </div>
 
-Then we carried on over Carpathian passes, past lakes, and through a wonderfully narrow gorge in Cheile Bicazului National Park to Sighişoara, a beautifully preserved medieval town, where we treated ourselves to a beer in the so‑called birthplace of Vlad Țepeş.
+Then we carried on over Carpathian passes, past lakes, and through a beautiful, narrow gorge in Cheile Bicazului National Park to Sighişoara, a beautifully preserved medieval town, where we treated ourselves to a beer in the so‑called birthplace of Vlad Țepeş.
 
 <div class="photo-row">
 
@@ -468,7 +468,7 @@ Overall I liked the city’s atmosphere very much, at least at this time of year
 
 </div>
 
-Today we wanted, for the first time, to spend the night in a guesthouse, have a shower and get some laundry done. ‘Elvis Villa’ is fairly central, in a lovely house in a quiet residential area. Unfortunately all the beds were taken and we were meant to sleep on mattresses in the TV room. As the room was used until late at night, we preferred to sleep in the car again. The facilities were very good, though, and our laundry was washed free of charge, so we could live with the 12 euros (which, by Romanian standards, is already quite steep).
+Today we wanted, for the first time, to spend the night in a guesthouse, have a shower and get some laundry done. ‘Elvis Villa’ is fairly central, in a lovely house in a quiet residential area. Unfortunately all the beds were taken and we were meant to sleep on mattresses in the TV room. As the room was used until late at night, we preferred to sleep in the car again. The facilities were very good, though, and our laundry was washed free of charge, so we could live with the 12 euros, which a bed here would have been worth anyway.
 
 
 
@@ -512,7 +512,7 @@ Bulgarian roads are, surprisingly, not as good as the Romanian ones, but they’
 
 Tarnovo – Shumen – Varna
 
-In the morning we visited Tarnovo’s impressive citadel (4 leva), and from its walls had splendid views of the town and the ravine‑ and valley‑shaped landscape.
+In the morning we visited Tarnovo’s impressive citadel (4 leva), and from its walls had splendid views of the town and a landscape of gorges and valleys.
 
 In the afternoon we drove on to Varna, where its boulevards and parks had a wonderful summer festival atmosphere, so it hardly mattered that the city wasn’t exactly beautiful.
 
@@ -866,7 +866,7 @@ Thassos – Keramoti – Xanthi – Alexandroupoli – Istanbul
 
 In the morning we took the ferry (15.50 euros) to Keramoti, from where a brand‑new motorway led right up to the Turkish border.
 
-Once you’ve worked out the system at that border despite the chaos, processing is actually quite fast and straightforward (6 euros road tax). But because we were boxed in by lorries, the whole thing still took an hour.
+Once you’ve worked out the system at that border despite the chaos, processing is quite fast and straightforward (6 euros road tax). But because we were boxed in by lorries, the whole thing still took an hour.
 
 Then on along the Sea of Marmara to Istanbul. The traffic here is a nightmare and I was in a cold sweat with nerves until we finally managed to park the car in a guarded car park in Sultanahmet (20 million lira for four days).
 
