@@ -13,8 +13,6 @@ A bicycle tour from Naples through the south of Italy.
 
 ---
 
-25 March – 16 April 2004
-
 ## Day 1 (25 March) – 58 km
 
 ### Naples – Pompeii – Sorrento
@@ -38,16 +36,16 @@ mostly flat as far as Torre del Greco.
 
 Even so, it really wore us down:
 the road surface was dreadful, often cobbled stone with potholes, and
-the traffic was pure chaos. The first long, drawn‑out climb up the
+the traffic was pure chaos. The first long, drawn-out climb up the
 slopes of Vesuvius came between Torre del Greco and Torre Annunziata.
 
 Scenery-wise the stretch as far as Pompeii wasn’t particularly
 appealing, apart from the view of Vesuvius, but the coastal towns on
 Naples’ periphery were all quite interesting. Since the city of Pompeii,
-buried in AD 79, lay only about a kilometre off our route, we naturally
-didn’t miss the chance to detour to this magnificent site. We spent a
+buried in AD 79, lay only about a kilometre off our route, we didn’t
+miss the chance to detour to this magnificent site. We spent a
 full three hours wandering the lanes of what must be one of the
-best‑preserved ancient sites anywhere.
+best-preserved ancient sites anywhere.
 
 <div class="photo-row">
 
@@ -104,7 +102,7 @@ Sorrento Peninsula begins.
 </figure>
 
 The coastline here may not be quite as
-jaw‑dropping as the Amalfi Coast on the southern side, but you get a
+jaw-dropping as the Amalfi Coast on the southern side, but you get a
 superb view of Vesuvius and the Bay of Naples.
 
 <div class="photo-row">
@@ -146,7 +144,7 @@ nightfall.
 
 Camping Nubo d’Argento lies beautifully in a valley section west of the
 old town; unfortunately, that very location makes it not exactly
-cyclist‑friendly, and both the pitches and the sanitary facilities were
+cyclist-friendly, and both the pitches and the sanitary facilities were
 rather basic (€19).
 
 Outstanding dinner in the simple, reasonably priced Trattoria da Emilia
@@ -190,14 +188,14 @@ the coast.
 
 </div>
 
-We had a very tasty lunch at the long‑established Da Gemma in Capri. The
-food was cheaper than the celebrity‑heavy guest list might have
+We had a very tasty lunch at the long-established Da Gemma in Capri. The
+food was cheaper than the celebrity-heavy guest list might have
 suggested: a superb antipasto buffet (€12) and a delicious grilled fish
 (€30, but worth every cent).
 
 Properly fortified, we tackled the second mountain stage: an adventurous
 hairpin road with spectacular views up to Anacapri, the island’s
-second‑largest settlement, set at 275 metres. Up here it was cosier and
+second-largest settlement, set at 275 metres. Up here it was cosier and
 quieter, and with its whitewashed houses Anacapri reminded me a little
 of Greek mountain villages.
 
@@ -217,7 +215,7 @@ of Greek mountain villages.
 
 This is also where the chairlift starts (€6,
 12 minutes) up to the highest point of the island, a brilliant
-highlight, with a 360‑degree view of this dream of an islet, plus
+highlight, with a 360-degree view of this glorious islet, plus
 Ischia, Vesuvius and the Sorrento Peninsula.
 
 The descent by bike down to the harbour was equally enjoyable; the
@@ -237,7 +235,7 @@ suffering on the way up had been absolutely worth it.
 
 </div>
 
-Apart from the masses of day‑trippers, Capri certainly deserves its
+Apart from the masses of day-trippers, Capri deserves its
 reputation as a dream destination.
 
 <div class="photo-row">
@@ -269,7 +267,7 @@ worth seeing not only for its fantastic location.
 
 In the charming old
 centre with its narrow alleyways there are countless inviting cafés and
-restaurants, perfect for a relaxed evening. We ate delicious wood‑fired
+restaurants, perfect for a relaxed evening. We ate delicious wood-fired
 pizza, grilled fish and seafood salad at very reasonable prices in the
 pretty Ristorante S. Antonio in the old town.
 
@@ -292,10 +290,10 @@ touristy, yet still very scenic.
 
 From Termini we carried on, mostly uphill, into the interior of the
 peninsula to Sant’Agata, where we rejoined the main road. It climbs in
-hairpins up to the 470‑metre Colli di Fontanelle, and from there we
+hairpins up to the 470-metre Colli di Fontanelle, and from there we
 caught our first glimpse of the famous Amalfitana.
 
-The ensuing kilometres‑long descent along the Amalfi Coast towards
+The ensuing kilometres-long descent along the Amalfi Coast towards
 Positano was, without exaggeration, the most glorious stretch I have
 ever cycled.
 
@@ -314,7 +312,7 @@ ever cycled.
 </div>
 
 Not surprising: it quite rightly counts among the world’s
-most beautiful coastal roads. Deep‑blue sea, high mountains behind, and
+most beautiful coastal roads. Deep-blue sea, high mountains behind, and
 little offshore islands.
 
 <div class="photo-row">
@@ -332,8 +330,8 @@ little offshore islands.
 </div>
 
 Even the fairly brutal climb before Positano was forgotten the moment we
-reached the viewpoint above the town and looked down at the dream
-scenery below.
+reached the viewpoint above the town and looked down at the picture-perfect
+scene below.
 
 <div class="photo-row">
 
@@ -351,8 +349,8 @@ scenery below.
 
 Positano is a jewel (not only for its setting, but in every respect)
 and even tourism hasn’t managed to ruin it. We checked into our hotel
-early in the afternoon and took full advantage of the sea‑view balcony
-at Hotel Il Gabbiano. The rooms in this 3‑star place (€90), set quite
+early in the afternoon and took full advantage of the sea-view balcony
+at Hotel Il Gabbiano. The rooms in this 3-star place (€90), set quite
 high up the hillside, were a little small, but the view from the balcony
 was priceless.
 
@@ -363,7 +361,7 @@ was priceless.
 
 In the afternoon we went out exploring. Because of its extreme
 mountainside location, Positano has hardly any streets; instead there
-are mostly steep stairways. The old‑town core, with its tight alleys,
+are mostly steep stairways. The old-town core, with its tight alleys,
 almost feels like a North African medina, and between all the souvenir
 stalls and palazzi there was a reassuring sense that people actually
 live here. Most day-trippers arrive in the morning, and since we were
@@ -397,9 +395,9 @@ within reason. A fantastic stretch.
 
 </div>
 
-Amalfi itself is a beautiful place (and, naturally, very touristy) a
+Amalfi itself is a beautiful place (and, inevitably, very touristy) a
 bit more spread out than Positano, with a piazza and a main street, but
-the old town is just as maze‑like here, with steep steps.
+the old town is just as maze-like here, with steep steps.
 
 <div class="photo-row">
 
@@ -435,7 +433,7 @@ to miss, but this small village is a real hidden gem.
 
 The small piazza has a wonderful southern Italian atmosphere; on the
 beach fishermen mend their nets; and scenically and architecturally
-Atrani can easily hold its own against the coast’s better‑known towns;
+Atrani can easily hold its own against the coast’s better-known towns;
 only here, the tourist hordes are (thankfully) entirely absent.
 
 <div class="photo-row">
@@ -454,7 +452,7 @@ only here, the tourist hordes are (thankfully) entirely absent.
 
 One of the coast’s best fish restaurants is also in Atrani, hidden in
 the cellar of an old house. Even though it was packed at lunchtime, we
-were the only non‑Italians at A’ Paranza. The food, exclusively fish,
+were the only non-Italians at A’ Paranza. The food, exclusively fish,
 was superb: marinated anchovies, octopus, grilled fish… Not cheap, but
 fairly priced.
 
@@ -475,7 +473,7 @@ black beach and a terrific atmosphere.
 </figure>
 
 Cetara seems popular with
-day‑trippers from Salerno. Unfortunately there was nowhere to stay.
+day-trippers from Salerno. Unfortunately there was nowhere to stay.
 
 The last town before Salerno was Vietri, the ceramics town, set high
 above the coast.
@@ -489,7 +487,7 @@ We had one more caffè there, then enjoyed a long
 descent down to our day’s destination.
 
 Salerno, oddly, doesn’t have the best reputation and isn’t a classic
-tourist stop, but it has two major upsides: a smart, car‑free seafront
+tourist stop, but it has two major upsides: a smart, car-free seafront
 promenade, and an atmospheric old town with bars and trattorias in
 winding lanes. The long Corso is, by southern Italian standards, an
 unusually polished pedestrian street with outdoor cafés and shops, and
@@ -502,7 +500,7 @@ We spent the night at the Albergo d’Italia on the Corso. The roomy rooms
 were rather plainly furnished, but at €70 very decent.
 
 Dinner was at the venerable Trattoria S. Lucia. The food
-(buffalo‑mozzarella pizza, antipasto misto) was rather average, but at
+(buffalo-mozzarella pizza, antipasto misto) was rather average, but at
 least it was very cheap.
 
 ## Day 5 (29 March) – 70 km
@@ -535,9 +533,9 @@ utterly imposing.
 
 There are also two smaller temples and the ruins of a
 small amphitheatre. Since you’re no longer allowed inside the temples,
-it’s only worth paying to enter if you’re a photographer: you can admire
-almost everything from the outside, without missing much, free of
-charge.
+it’s only worth paying to enter if you’re an amateur archaeologist or
+a photographer: you can admire almost everything from the outside,
+without missing much, free of charge.
 
 A few kilometres on, we reached Agropoli, a larger town with a
 wonderfully unspoilt old centre and a medieval castle on a hill above
@@ -562,7 +560,7 @@ pizza was excellent, as was the seafood salad.
 </figure>
 
 After Agropoli we headed into the Cilento, where the scenery finally
-became prettier again, though the road, of course, also turned hillier.
+became prettier again, though the road also turned hillier.
 To reach Santa Maria we had to swing inland briefly, since there is no
 continuous coastal road.
 
@@ -600,7 +598,7 @@ risotto (€6.50).
 
 ## Day 6 (30 March) – 65 km
 
-### San Marco – Acciaroli – Ascea‑Velia – Pisciotta – Palinuro
+### San Marco – Acciaroli – Ascea-Velia – Pisciotta – Palinuro
 
 After a generous hotel breakfast we continued along the Cilento coast on
 a rolling road. The coastline may not be as dramatic as Amalfi’s, but it
@@ -618,7 +616,7 @@ town of Pioppi to Marina del Casal Velino, where we treated ourselves to
 an espresso on the promenade.
 
 Shortly afterwards the road left the shoreline and a 4 km climb began up
-to Ascea‑Velia at 230 metres. The following stretch to Palinuro offered,
+to Ascea-Velia at 230 metres. The following stretch to Palinuro offered,
 alongside some adventurous climbs, stunning coastal scenery, and,
 halfway along, the impressive medieval town of Pisciotta.
 
@@ -665,7 +663,7 @@ great antipasto plate, prawn carpaccio (€8.50) and grilled squid
 ### Palinuro – Marina di Camerota – Lentiscosa – San Giovanni – Scario
 
 Leaving Palinuro, the road hugged the coastline for another ten
-kilometres or so, a gorgeous stretch of lonely beaches and high cliffs,
+kilometres or so, a gorgeous stretch of secluded beaches and high cliffs,
 punctuated by a handful of tunnels. Along the way we had views of
 Spiaggia di Arco Naturale, a natural rock arch where the coast almost
 felt like the Algarve.
@@ -688,7 +686,7 @@ metres above sea level.
 </figure>
 
 From there we had splendid views over the Gulf
-of Policastro and the 1,200‑metre Monte Bulgheria.
+of Policastro and the 1,200-metre Monte Bulgheria.
 
 <figure>
   <img src="photos/CyclingSouthernItaly2004-0054.jpg" alt="Cilento">
@@ -782,7 +780,7 @@ coastal strip the mountains rise steeply. Right in the centre we found a
 lovely, huge room with a balcony overlooking the pedestrian zone for €50,
 excellent value at the \*\*\*Hotel Le Arcate.
 
-Dinner was at the Bib Gourmand‑rated Taverna Antica, where (as befits
+Dinner was at the Bib Gourmand-rated Taverna Antica, where (as befits
 the season) we were the only guests. Among other things we had excellent
 seppie alla griglia (€10) and homemade black spaghetti with squid
 (€7.50). Highly recommended.
@@ -972,7 +970,7 @@ beyond Gioia Tauro the road suddenly becomes scenic, following the coast
 to the wonderful Lido di Palmi, where we stopped for the night.
 
 Even our hotel made it clear we were in one of Italy’s poorest, most
-neglected areas. The \*\*\*Hotel is set in a dream location beneath high
+neglected areas. The \*\*\*Hotel is set in a spectacular location beneath high
 cliffs at the end of the beach, but the rooms were old-fashioned in the
 worst sense: brown décor, narrow beds, and showers fed by a five-litre
 boiler. At least it was an amusing experience; for €50, though, it felt
@@ -1058,8 +1056,7 @@ were in Sicily.
 
 Seen from the ferry, Messina, the island’s gateway, didn’t exactly
 look like a particularly beautiful city, despite its superb setting. But
-once you look past the ugly harbour-front façades, it is actually quite
-attractive, with unusually broad streets for the south and handsome,
+once you look past the ugly harbour-front façades, it is quite attractive, with unusually broad streets for the south and handsome,
 stately rows of buildings. Overall the city feels spacious, tidy and
 well kept.
 
@@ -1225,7 +1222,7 @@ a kitchenette and sea views from the terrace.
 At about 1 pm we set off on foot to explore. Walking through Stromboli
 at midday is wonderful: the streets are almost deserted, the sun beats
 down on the white houses and the brilliantly blue sea, and everything is
-in bloom and scented. Pure Mediterranean postcard scenery, a dream, at
+in bloom and scented. Pure Mediterranean postcard scenery, simply beautiful, at
 least in the shoulder season.
 
 <div class="photo-row">
@@ -1371,7 +1368,7 @@ excellent views of Salina and the wild, untouched west coast.
 Back on
 the ring road, now very scenic, we turned left before Pianoconte
 towards Monte San Angelo. A narrow road climbed steeply to one of the
-island’s highest points. From this lonely spot we could admire Lipari
+island’s highest points. From this remote spot we could admire Lipari
 Town, the south of the island and the crater of Vulcano from above,
 absolutely fantastic.
 
@@ -1452,7 +1449,7 @@ over Lipari Town and the whole bay.
 To finish we went down to Lipari’s picturesque little harbour for a
 cappuccino. While the island is genuinely beautiful in places, Lipari
 Town itself is the big attraction here (surely one of the prettiest
-harbour towns in Italy, if not Europe) with its dreamlike harbour
+harbour towns in Italy, if not Europe) with its picture-perfect harbour
 setting, fine architecture and its castle perched on a rock above the
 sea, with the old town spilling out below.
 
@@ -1849,7 +1846,7 @@ langoustines) and two grilled squid (€9). Outstanding, as you’d expect.
 
 ## Day 19 (12 April)
 
-### To explore the rest of the island, we hired two scooters again. This
+To explore the rest of the island, we hired two scooters again. This
 time they were €25 each and fairly knackered, but perfectly fine for
 what we needed. We rode along the north coast again as far as Forio, but
 by far the loveliest part of the island is the south coast, which we
@@ -1879,8 +1876,8 @@ the harbour basin begins.
 
 </div>
 
-The dream setting, and the place itself,
-naturally attracts plenty of tourists, but even they couldn’t spoil the
+The idyllic setting, and the place itself,
+attracts plenty of tourists, but even they couldn’t spoil the
 picture.
 
 Since Sant’Angelo can only be reached via a spur road, we had to head
@@ -1994,9 +1991,8 @@ waterfront and great views of the old castle.
 
 For dinner we went back to Ischia Porto, to the harbour promenade. For
 an aperitif we had excellent €5 cocktails at Il Cappuccino. Afterwards
-we went to the seafood restaurant O Porticiull. Despite its prime
-harbour location and its artful display of fish, it looked like the
-sort of place you’d normally avoid, we got excellent quality and
+we went to the seafood restaurant O Porticiull. Although its prime harbour location and artful display of fish made it
+look like a classic tourist trap, we got excellent quality and
 generous portions at moderate prices: a great mixed antipasto with
 various seafood, zuppa di cozze, and especially delicious spaghetti ai
 frutti di mare.
@@ -2239,7 +2235,7 @@ courgettes.
 
 ## Day 22 (15 April)
 
-### Another day of sightseeing in Naples. We first had a quick look around
+Another day of sightseeing in Naples. We first had a quick look around
 the market south of Piazza Garibaldi, then walked along Corso Umberto I
 to Piazza del Plebiscito.
 
@@ -2347,8 +2343,7 @@ unique atmosphere.
 
 I’d always assumed Naples would be interesting, but I was genuinely
 surprised by how beautiful it is, both scenically and architecturally,
-because I had associated Naples mainly with dirt and chaos. Of course
-dirt and chaos are part of the city, just like the gorgeous coastline
+because I had associated Naples mainly with dirt and chaos. Dirt and chaos are part of the city, just like the gorgeous coastline
 and grand palaces, wood-fired pizza and chic cafés, run-down residential
 quarters, fishing boats, washing lines, and wildly gesticulating locals
 in sunglasses. That’s Naples, and it’s a lot more besides.
