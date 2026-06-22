@@ -53,8 +53,7 @@ had excellent Thai food.
 </div>
 
 We then carried on to Santa Barbara, at first crossing rather dull
-agricultural land, before the scenery gradually changed into gentle
-coastal hills. Santa Barbara has a magnificent beach with a promenade
+agricultural land, before the scenery gradually changed into beautiful coastal hills. Santa Barbara has a magnificent beach with a promenade
 and a picturesque town centre that is essentially one long street lined
 with one restaurant after another. We had an excellent dinner in a
 trattoria.
@@ -228,7 +227,7 @@ feels like a completely different world.
 Back in San Diego we visited beautiful Balboa Park, a vast elevated park
 with magnificent buildings, through which you can even ride a free
 little train. We then drove out to the Cabrillo Monument, from where
-there is a superb view over San Diego and the bay.
+there is a superb view over San Diego and the bay. So beyond its attractive downtown, San Diego has plenty to offer further afield, too.
 
 <div class="photo-row">
 
@@ -278,8 +277,7 @@ fascinating and brutally hot Anza-Borrego Desert.
 Palm Springs itself is
 a glamorous holiday resort set right in the middle of the desert. In summer the heat here is unbearable (we experienced 46°C in the shade).
 
-For that very reason the highlight was definitely the tramway ride up to
-a mountain station at 2,500 metres, where you can stroll around in
+For that very reason the highlight was definitely (though not only because of the temperature) the tramway ride up to a mountain station at 2,500 metres, where you can stroll around in
 pleasantly cool temperatures while enjoying wonderful views.
 
 <div class="photo-row">
@@ -795,8 +793,7 @@ Joaquin Valley on Route 140 via Merced to Gustine. Only from there did
 the road to Gilroy become more scenic and interesting again.
 
 We then headed to the coast and the extremely attractive seaside resort
-of Santa Cruz, whose old boardwalk and lively downtown were full of
-life.
+of Santa Cruz, whose old boardwalk and pretty downtown were full of life.
 
 <figure>
   <img src="photos/USA2000-0071.jpg" alt="Santa Cruz">
@@ -1122,8 +1119,7 @@ tropical, especially in the remote Halawa Valley.
 
 This is the only valley on Molokai that can be reached by car, and it
 offers magnificent waterfalls and two rocky coves. On the way back we
-made a detour to the Kalaupapa Viewpoint, with its breathtaking views of
-the former leper colony, and to Moomoni Beach, a vast crescent-shaped
+made a detour to the Kalaupapa Viewpoint, with its breathtaking views of the leper colony, and to Moomoni Beach, a vast crescent-shaped
 bay set in an almost surreal dune landscape.
 
 <div class="photo-row">
@@ -1284,8 +1280,7 @@ rides, an Eiffel Tower and a pyramid.
 
 The buffets at the Bellagio were outstanding, with jumbo shrimp, maki,
 lobster, wonderful desserts and much more, far too much choice.
-Heavenly and appalling at the same time. After all those buffets, we
-were actually glad to return to rationed portions.
+Heavenly and appalling at the same time. After all those buffets, we were really glad to return to rationed portions.
 
 We had excellent Asian noodle dishes and salads at Noodles in the
 Bellagio, the duck salad was a revelation, though not nearly as inexpensive as the buffet.
