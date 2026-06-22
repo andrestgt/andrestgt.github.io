@@ -29,7 +29,7 @@ Unfortunately the weather was pretty awful, and it didn’t improve
 when I reached Salzburg either: grey and rainy. I still had a look
 around the old town, which would no doubt have been lovely in sunshine.
 
-Salzburg is hugely touristy, which must be Mozart’s fault, because the baroque old town is admittedly pretty and picturesque, but in Europe
+Salzburg is hugely touristy, which you can only blame on Mozart, because the baroque old town is admittedly pretty and picturesque, but in Europe
 there are dozens of more beautiful cities. Salzburg is dominated by the
 fortress perched on a hill, with the old town spreading out on both
 sides of the river below. The part directly under the fortress is where
@@ -89,13 +89,13 @@ through the Pokljuka ski area via Lubenice to Kranjska Gora.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/SloveniaCroatia2004-0006.jpg" alt="Krajnska Gora">
-      <em>Krajnska Gora</em>
+      <img src="photos/SloveniaCroatia2004-0006.jpg" alt="Kranjska Gora">
+      <em>Kranjska Gora</em>
     </figure>
 
   <figure>
-      <img src="photos/SloveniaCroatia2004-0007.jpg" alt="Krajnska Gora">
-      <em>Krajnska Gora</em>
+      <img src="photos/SloveniaCroatia2004-0007.jpg" alt="Kranjska Gora">
+      <em>Kranjska Gora</em>
     </figure>
 
 </div>
@@ -397,8 +397,8 @@ deep-blue bay with a tempting harbour promenade.
 
 Here I met Achim and
 Janine. We continued over a swing bridge to the much greener island of
-Losinj, a very popular holiday island with the twin towns of Mali and
-Veli Losinj.
+Lošinj, a very popular holiday island with the twin towns of Mali and
+Veli Lošinj.
 
 Veli is the smaller of the two: a quiet, romantic old place on an idyllically beautiful little natural harbour, whose promenade lets you dine
 or drink coffee right by the water. Mali is larger and more touristy
@@ -411,20 +411,20 @@ with a kitchen and terrace.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/SloveniaCroatia2004-0036.jpg" alt="Losinj">
-      <em>Losinj</em>
+      <img src="photos/SloveniaCroatia2004-0036.jpg" alt="Lošinj">
+      <em>Lošinj</em>
     </figure>
 
   <figure>
-      <img src="photos/SloveniaCroatia2004-0037.jpg" alt="Losinj">
-      <em>Losinj</em>
+      <img src="photos/SloveniaCroatia2004-0037.jpg" alt="Lošinj">
+      <em>Lošinj</em>
     </figure>
 
 </div>
 
 <figure>
-  <img src="photos/SloveniaCroatia2004-0038.jpg" alt="Losinj">
-  <em>Losinj</em>
+  <img src="photos/SloveniaCroatia2004-0038.jpg" alt="Lošinj">
+  <em>Lošinj</em>
 </figure>
 
 ## Day 6 – 7 June
@@ -499,7 +499,7 @@ cold-cuts platter at the pretty (and only) konoba.
 ## Day 7 – 8 June
 
 Broken up by a coffee stop in Cres Town and a short ferry crossing, we
-drove from Losinj to Krk Town. The main town of the island of the same
+drove from Lošinj to Krk Town. The main town of the island of the same
 name is a typical Croatian harbour town with a pretty little old centre
 and a few cafés on the harbour promenade. Nothing extraordinary, but well worth a longer lunch break.
 
