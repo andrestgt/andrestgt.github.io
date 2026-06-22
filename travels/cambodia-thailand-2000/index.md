@@ -26,7 +26,7 @@ The overland journey from Bangkok to Siem Reap took all day and, from the border
 
 Siem Reap is a pleasant little town, with green spaces and avenues along the river. Unfortunately, the many restaurants offering European food and pizza at outrageous prices are a foretaste of what to expect here in the years to come: mass tourism.
 
-The extremely high entrance fee for Angkor ($20) was money well spent, as it is one of the great temple complexes in the world. But the fascination these temples inspire is hard to put into words.
+The extremely high entrance fee for Angkor ($20) was money well spent, as it is arguably one of the great temple complexes in the world. But the fascination these temples inspire is hard to put into words.
 
 <div class="photo-row">
 
@@ -327,7 +327,7 @@ Ko Phangan is a tropical island paradise, with white beaches lined with coconut 
   <em>Ko Phangan</em>
 </figure>
 
-Hat Salat: Like most beaches on the west coast, very idyllic and lonely, but not suitable for swimming.
+Hat Salat: Like most beaches on the west coast, very idyllic and secluded, but not suitable for swimming.
 
 <div class="photo-row">
 
@@ -343,7 +343,7 @@ Hat Salat: Like most beaches on the west coast, very idyllic and lonely, but not
 
 </div>
 
-Ao Thong Nai Pan Noi: The most beautiful beach on the island! A dreamy, postcard setting, ideal for swimming, and reachable only by boat, or by a one-hour pick-up ride over one of the most adventurous roads I’ve ever seen. From Nai Pan you can do a very lovely three-hour hike to the secluded Bottle Beach.
+Ao Thong Nai Pan Noi: The most beautiful beach on the island! A picture-perfect, postcard setting, ideal for swimming, and reachable only by boat, or by a one-hour pick-up ride over one of the most adventurous roads I’ve ever seen. From Nai Pan you can do a very lovely three-hour hike to the secluded Bottle Beach.
 
 Hat Rin: Hat Rin is far better than its reputation. The beach is beautiful and wasn’t even really crowded. In the evenings you could lie on the beach in a great atmosphere, knock back cheap drinks, or dance the night away. A welcome change from the island’s otherwise more peaceful vibe. Party on!
 
