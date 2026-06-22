@@ -13,7 +13,7 @@ A journey from Bangkok through southern Thailand to the Cambodian coast and Phno
 
 ---
 
-## 6 Mar 2005 — Bangkok
+## 6 Mar 2005 – Bangkok
 
 I didn’t get to Banglamphu until after midnight and had already resigned
 myself to all the decent rooms being taken. But I was lucky: the first
@@ -130,7 +130,7 @@ colonial‑style buildings. A morning in Bangkok can hardly start better
 than with an excellent (and at 65 baht very expensive) cappuccino in the
 beautiful Starbucks branch in Sunset Street.
 
-## 8 Mar 2005 — Bangkok / Khao Sok National Park
+## 8 Mar 2005 – Bangkok / Khao Sok National Park
 
 I had another very nice day in Bangkok. It was a sunny but not too hot
 Sunday, perfect for a long walk through the old town. I climbed the
@@ -188,7 +188,7 @@ Today was very tiring. I spent almost the entire day in the national
 park, whose entrance is about a 15‑minute walk from my bungalow. Along
 the road there are lots of resorts, restaurants and even internet cafés.
 It’s very quiet here at the moment, because the coastal tourists haven’t
-come back yet since the tsunami
+come back yet since the tsunami.
 
 For a few years now foreigners have had to pay 200 baht entry to all
 Thai national parks, which I find a bit much. At least you get a
@@ -226,7 +226,7 @@ no more expensive than at the lodges (55 baht). And the 20‑baht
 pineapple shake even came garnished with an orchid. That’s what I call
 culture.
 
-## 15 Mar 2005 — Ko Phangan
+## 15 Mar 2005 – Ko Phangan
 
 I spent just under a week on Ko Phangan, as usual at my dream beach,
 Thong Nai Pan Noi. Like everywhere in Thailand’s tourist areas, this
@@ -266,8 +266,7 @@ opened, and even a Mexican restaurant.
 But that’s happening all over the island now, and Ko Phangan hasn’t been
 a destination for hardcore budget backpackers for a long time. Even
 though the roads are still in bad shape, more and more families and
-middle‑class tourists are escaping the hustle of Samui. because it’s
-still quiet and relaxed here, and Nai Pan Noi is still the paradise I
+middle‑class tourists are escaping the hustle of Samui, because it’s still quiet and relaxed here, and Nai Pan Noi is still the paradise I
 had found five years ago, just no longer an unknown backpacker paradise.
 Which, as I get older, doesn’t bother me as much anymore.
 
@@ -771,7 +770,7 @@ worth a short visit. Also, I haven’t seen many other farangs here.
   <em>Trat</em>
 </figure>
 
-## 1 Apr 2005 — Thailand → Cambodia (Hat Lek / Koh Kong / Sihanoukville)
+## 1 Apr 2005 – Thailand → Cambodia (Hat Lek / Koh Kong / Sihanoukville)
 
 Early in the morning I took the minibus to the border at Hat Lek (100
 baht). Crossing the border was relatively painless. I paid 1,000 baht
@@ -794,7 +793,7 @@ methods to intercept and lure travellers to their business as they enter
 Cambodia.
 
 Fortunately I’d read about them beforehand and was determined to avoid
-them. Granted, the Mealy Chenda vans are obviously much more comfortable
+them. Granted, the Mealy Chenda vans are much more comfortable
 (but also much more expensive) than public transport, but what makes
 Cambodia so interesting and challenging, namely travelling with locals
 in overcrowded vehicles, gets completely lost for many travellers.
@@ -820,7 +819,7 @@ before tourist vans and all that.
 
 </div>
 
-Of course I could have taken the ferry to Sihanoukville, which would
+I could have taken the ferry to Sihanoukville, which would
 have taken only three and a half hours, but I’d already done that trip
 and I was curious about the new road through what used to be
 impenetrable terrain. In Cambodia, “new road” doesn’t mean a nice paved
@@ -838,7 +837,7 @@ Sihanoukville, not near the beach, but I’m certainly not here for
 sunbathing; I could have done that in Thailand. For US\$4 I got a very
 nice, very individually decorated room (Japanese themed; every room has
 a different theme) with private bathroom (unfortunately with a squat
-toilet, the only downside) still excellent value for money, and the
+toilet, the only downside), still excellent value for money, and the
 atmosphere in the cosy lounge is great too.
 
 <figure>
@@ -866,7 +865,7 @@ the house.
 For dinner I ate a tasty pâté baguette (2,000 riel) from a street stall,
 one of the best legacies the French left in Indochina.
 
-## 2 Apr 2005 — Sihanoukville (beaches / food / sunset)
+## 2 Apr 2005 – Sihanoukville (beaches / food / sunset)
 
 I thought it would be a good idea to do something for my fitness again,
 so I rented a bicycle to ride along Sihanoukville’s beaches. My first
@@ -914,7 +913,7 @@ one.
 I went to Sokha Beach, the prettiest and cleanest beach in
 Sihanoukville, though most of it is taken up by a luxury resort. For
 lunch I chose Victory Beach and the Hawaii Seafood Restaurant, despite
-the silly name more of an beach hangout place for rich Khmers than a
+the silly name more of a beach hangout place for rich Khmers than a
 tourist restaurant, and the food was among the best I’ve had in the
 last six months. For US\$5 I got a huge plate of fried mud crabs in
 garlic‑chilli sauce: a true gourmet meal right on the beach. Mud crabs,
@@ -1004,7 +1003,7 @@ and very tasty.
 I ended the evening with two (surprisingly good) cocktails (US\$1.50)
 next door at Papagayo.
 
-## 4 Apr 2005 — Kampot / Kep
+## 4 Apr 2005 – Kampot / Kep
 
 Yesterday morning I took the public van (10,000 riel) to Kampot. The
 road is nothing like it was five years ago: it’s fully paved now, and
@@ -1028,7 +1027,7 @@ than two hours.
 Kampot itself has thankfully hardly changed since my last visit. It’s
 still a cosy provincial town on the river, with whole streets of French
 colonial architecture, an interesting, authentic market, and a peaceful
-atmosphere. Of course far more travellers pass through now. You can book
+atmosphere. Far more travellers pass through now. You can book
 tours to Bokor, there are a few farang bars, espresso and internet, but
 all still on a manageable scale, and the town hasn’t lost any of its
 atmosphere. And every now and then, a little more tourism would be
@@ -1057,7 +1056,7 @@ By now there’s even a proper traveller guesthouse with the fitting name
 Blissful, offering everything a backpacker needs: a cosy chill‑out
 lounge with hammocks, a cheap bar with happy hour, and clean rooms,
 unfortunately all fully booked, so I had to settle for a dorm bed. That
-was fine: the dorm was basically a spacious triple room, the shared
+was fine: the dorm was more of a spacious triple room, the shared
 bathroom was big and clean, and for \$2.50 you really can’t complain.
 
 <figure>
@@ -1143,7 +1142,7 @@ a big bottle of Angkor, and the sunset is free.
 Luckily the happy hours here are well coordinated. At Blissful, happy
 hour starts at 7 p.m., and the Blue Lagoons (\$1.50) are excellent.
 
-What genuinely makes me happy, and what I missed in Sihanoukville, is
+What really makes me happy, and what I missed in Sihanoukville, is
 that in this region the Khmer smiles and helpfulness are still real.
 Kids greet you with a grin and “hello”, not with an outstretched hand
 and “you give me one dollar”. There are no motodop drivers trying to rip
@@ -1153,7 +1152,7 @@ work out what was wrong, without asking for money.
 This is the Cambodia I got to know and love five years ago, and I’m glad
 it still exists, at least off the beaten track.
 
-## 11 Apr 2005 — The End (Phnom Penh → Bangkok → Frankfurt)
+## 11 Apr 2005 – The End (Phnom Penh → Bangkok → Frankfurt)
 
 The end! Back in Frankfurt.
 
@@ -1201,7 +1200,7 @@ minibar, etc., and simply wanted to enjoy the last days of the trip.
 I met Elaine again and showed her around town, went shopping
 at the Russian Market, took long walks through Phnom Penh’s streets, and
 spent a lot of time in the lovely cafés along the wonderful
-riverside promenade, or at Le Tamarin in Phnom Penh`s most culinary street, 240
+riverside promenade, or at Le Tamarin in Phnom Penh’s most culinary street, 240
 Street. One night we also had an excellent dinner there on the balcony with cocktails, a French wine, and tasty tapas,
 mostly Mediterranean with Asian influences. Fair prices, nice
 atmosphere, good food.
