@@ -370,7 +370,7 @@ world you really should see.
 
 </div>
 
-Such grace and beauty makes the extortionate 20 USD entrance fee easier
+Such grace and beauty make the extortionate 20 USD entrance fee easier
 to swallow.
 
 <figure>
@@ -951,7 +951,7 @@ We ate a lot, excellently and luxuriously. Even the fashionable places
 are still cheaper than in Europe (though extravagantly so by Indian
 standards), and the quality of the food is extremely good.
 
-Cloud 9 on our hotel’s roof had genuinely creative cooking (a mix of
+Cloud 9 on our hotel’s roof had really creative cooking (a mix of
 Western, Indian and African influences) and delicious cocktails.
 
 The seafood brochette at the chic Cafe Royal was also very tasty, and at
