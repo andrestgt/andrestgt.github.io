@@ -496,7 +496,7 @@ The area around Dalat offers beautiful mountain landscapes with tea plantations,
 
 ### Accommodation
 
-Anh Dao Hotel had quite nice rooms, though they were already a bit run-down, for $13.
+Anh Dao Hotel had quite nice rooms, though they were a bit run-down, for $13.
 
 ### Food
 
@@ -1507,7 +1507,7 @@ None of the waiters in the hotel restaurant could speak a single word of English
 
 ## Son La
 
-A small town in a dream location. The main attraction is an old French prison, though the Americans didn’t leave much of it standing. Still, Son La is a very pleasant town with little traffic and extremely friendly people who haven’t yet been spoiled by tourism. Hardly anyone speaks English, and as a Westerner you’re sometimes stared at as if you’d come from another planet.
+A small town in a magnificent location. The main attraction is an old French prison, though the Americans didn’t leave much of it standing. Still, Son La is a very pleasant town with little traffic and extremely friendly people who haven’t yet been spoiled by tourism. Hardly anyone speaks English, and as a Westerner you’re sometimes stared at as if you’d come from another planet.
 
 <div class="photo-row">
 
@@ -1652,7 +1652,7 @@ The craziest thing about Van Don, though, is that it had its own stylish bar. Al
 
 Even after four trips to Southeast Asia, Vietnam was an absolute culture shock at first. The most striking thing is the millions of two-wheelers filling the roads; ordinary cars are still rare. It’s also surprising how visible the influence of French colonial times remains.
 
-Because of overpopulation, there are hardly any truly deserted places in Vietnam, and socialism, which nobody here seems to want any more, Vietnam is often described as one of the poorest countries in the world. The only sign of this, however, is the incredibly low prices, at least for anything where foreigners aren’t charged more than locals. Otherwise you see little in the way of extreme poverty. Nobody seems to be starving, and Saigon has fewer beggars than San Francisco.
+Mainly because of overpopulation, which leaves hardly any deserted spots in Vietnam, and socialism, which nobody here really wants any more, Vietnam is nowadays said to be one of the poorest countries in the world. The only sign of this, however, is the incredibly low prices, at least for anything where foreigners aren’t charged more than locals. Otherwise you see little in the way of extreme poverty. Nobody seems to be starving, and Saigon has fewer beggars than San Francisco.
 
 Vietnam is an astonishingly diverse country, with clear differences between north and south. In the south people are generally friendlier, there’s more of a cultural scene, and the cities are more pleasant. The north, on the other hand, offers landscapes that rival almost any other region in Southeast Asia. The north is poorer than the south and people are more likely to try to take you for a ride. But those who rarely come into contact with tourists are very friendly and honest in the north, too.
 
