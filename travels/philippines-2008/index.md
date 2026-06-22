@@ -45,13 +45,13 @@ Makati is one of Manila’s more modern high-rise districts, with two huge malls
 
 </div>
 
-After successfully buying shoes, we went back to Malate and caught up on a few hours’ sleep. The dorm at Friendly’s is simple but clean, the attached bathroom very comfortable, even if there is only cold water. You could honestly call this guesthouse a little oasis for budget travellers, who otherwise are not exactly spoiled for choice when it comes to accommodation in Manila. The airy roof terrace is wonderful; there is free espresso all day, cheap San Miguel, and the location right in the lively nightlife district of Malate is ideal.
+After successfully buying shoes, we went back to Malate and caught up on a few hours’ sleep. The dorm at Friendly’s is simple but clean, the attached bathroom very comfortable, even if there is only cold water. You could really call this guesthouse a little oasis for budget travellers, who otherwise are not exactly spoiled for choice when it comes to accommodation in Manila. The airy roof terrace is wonderful; there is free espresso all day, cheap San Miguel, and the location right in the lively nightlife district of Malate is ideal.
 
 So we spent the evening in the best possible way. First we drank a bottle of red wine on our terrace, then stayed out until daybreak in one of the many pubs, downing a few bottles of San Miguel. Manila’s nightlife is legendary, and Malate is the centre of it. There are dozens of appealing bars and clubs here, from simple open-air pubs with a beach-bar feel to smart clubs that carry on until dawn even during the week and are well attended. Since Manila is not a tourist city, you hardly see any girly bars or traveller hangouts; it is nightlife by locals for locals, and the evening atmosphere in Malate is excellent.
 
 When we got back to our guesthouse it was almost light, so we decided to start our main sightseeing tour without going to bed. We walked along the bayfront promenade by Manila Bay and through Rizal Park, past countless early-morning aerobics sessions, to Intramuros, the small colonial old town of Manila surrounded by a fortress wall. It was badly damaged in the Second World War, but partly rebuilt and restored and, besides the nightlife in Malate, is Manila’s biggest tourist attraction.
 
-Intramuros really does resemble a small colonial town in South America, with massive fortifications, the old church and monastery of San Agustin, a few cobbled lanes and picturesque patios in pretty restored colonial houses. This partly restored area is not large, but it is genuinely attractive, and I also liked the rest of Intramuros, comparatively quiet residential neighbourhoods with simple little houses, friendly locals and a small-town feel. There was no doubt that you really are in Southeast Asia.
+Intramuros really does resemble a small colonial town in South America, with massive fortifications, the old church and monastery of San Agustin, a few cobbled lanes and picturesque patios in pretty restored colonial houses. This partly restored area is not large, but it is really attractive, and I also liked the rest of Intramuros, comparatively quiet residential neighbourhoods with simple little houses, friendly locals and a small-town feel. There was no doubt that you really are in Southeast Asia.
 
 <div class="photo-row">
 
@@ -138,7 +138,7 @@ Before that, though, we took a quick look around Banaue itself. The setting is m
 
 </div>
 
-In theory, Batad can be done as a long day trip, but I was very glad we chose to stay overnight. This extraordinary little mountain village, cut off from the road network and surrounded by rice terraces in a dramatic, jagged landscape, is not merely one of the highlights of the Philippines, but of Southeast Asia as a whole.
+In theory, Batad can be done as a long day trip, but I was very glad we chose to stay overnight. This magical little mountain village, cut off from the road network and surrounded by rice terraces in a dramatic, jagged landscape, is not merely one of the highlights of the Philippines, but of Southeast Asia as a whole.
 
 <div class="photo-row">
 
@@ -220,7 +220,7 @@ Culinarily you cannot expect much in Batad, and you pay more than elsewhere, und
 
 Given the low tourist numbers, too many locals try their hand as guides, but fortunately people here are very friendly, reserved and respectful, so you never feel pestered by offers of services. I am usually not a huge fan of guides, but in Batad you not only support local families, you also save yourself a lot of frustration and time on the confusing, steep stepped paths around here, definitely 400 pesos well spent.
 
-This morning we did the standard trip to the waterfall, about an hour from our part of the village. What sounds like a pleasant stroll is in reality quite a strenuous hike on often very steep steps and paths, sometimes slippery despite the glorious sunshine, through the rice terraces and along a gorge. And although the impressive waterfall is a beautiful spot in its own right, it was the views over the stunning landscape that made this walk unforgettable.
+This morning we did the standard trip to the waterfall, about an hour from our part of the village. What sounds like a pleasant stroll is in reality quite a strenuous hike on often very steep steps and paths, sometimes slippery despite the glorious sunshine, through the rice terraces and along a gorge. And although the impressive waterfall is a beautiful corner of the earth in its own right, it was the views over the stunning landscape that made this walk unforgettable.
 
 <figure>
   <img src="photos/Philippines2008-0023.jpg" alt="Batad">
@@ -324,7 +324,7 @@ Caving is one of Sagada’s most popular activities, and spending an afternoon i
 
 In spite of this exertion we did not feel the need for dinner, because lunch had been so substantial, so we only went out for a few beers in Sagada’s only real pub right by our guesthouse, one with plenty of potential if it had more customers.
 
-The next day we  wanted to hike to the ‘Big Waterfall’, but had to change plans because, due to a procession in one of the villages along the route, the path was closed to foreigners. So we simply set off on our own and explored Sagada’s surroundings: an Alpine landscape of fragrant pine forests and karst formations. The paths here are not always easy to find and can be demanding.
+The next day we wanted to hike to the ‘Big Waterfall’, but had to change plans because, due to a procession in one of the villages along the route, the path was closed to foreigners. So we simply set off on our own and explored Sagada’s surroundings: an Alpine landscape of fragrant pine forests and karst formations. The paths here are not always easy to find and can be demanding.
 
 We first walked to Echo Valley, not far from the centre, where Sagada’s hanging coffins can be seen. Since locals in the region believe it brings bad luck to bury the dead in the ground, some burial sites are in caves and, partly to prevent vandalism, on the steep walls of limestone hills, which makes them wonderfully photogenic. Afterwards we followed the riverbed of Echo Valley with the intention of somehow reaching the main road again, which did in fact work, despite muddy, slippery sections and having to cross cascades. At the cascades, halfway along, you can cool off nicely in a natural rock pool.
 
@@ -342,7 +342,7 @@ We first walked to Echo Valley, not far from the centre, where Sagada’s hangin
 
 </div>
 
-After crossing the road, we also went to the so-called ‘small waterfall’. On the map it looked like a leisurely stroll, but it ended up being a wet, muddy trek through rice fields. When we got back to the guesthouse, we looked as though we had been on a multi-day hike, even though we had not actually been far from the village.
+After crossing the road, we also went to the so-called ‘small waterfall’. On the map it looked like a leisurely stroll, but it ended up being a wet, muddy trek through rice fields. When we got back to the guesthouse, we looked as though we had been on a multi-day hike, even though we had not been far from the village.
 
 In the evening we went to the best place in town, which fully lived up to its name, ‘Log Cabin’. A cosy dining room, entirely made of wood, with a crackling fireplace and candlelight. Unfortunately, because there is so little going on at the moment, all the interesting dishes are only available if you order in advance, so we simply ordered two Mediterranean salads with feta, olives and balsamic, and bruschetta, plus a bottle of Hardy’s Shiraz for 350 pesos. The Philippines is the only country in Asia where wine is cheaper even at wholesale than in Europe, and that makes the price of a bottle, even in better restaurants, extremely affordable.
 
@@ -425,7 +425,7 @@ The largest city in the Philippine highlands is a chaotic metropolis with extrem
 
 </div>
 
-It feels as if you are in a South American Andean city that has somehow been transplanted into the Southeast Asian mountains, favelas on the slopes included. The big park in the centre, with a lake and swan pedalos, is quite nice and traffic-free, so you can actually breathe, and the evening views from the terraces of the SM Mall over the cathedral and the sea of city lights are fairly impressive. Fortunately, Baguio also has a wonderful restaurant, Café by the Ruins, where you can sit comfortably for a few hours in a kind of bamboo oasis, close to the action and yet far from the bustle and noise. The coffee is excellent, and the food, international fare, is also decent by Philippine standards, at moderate prices, even if the crème brûlée tasted more like vanilla pudding.
+It feels as if you are in a South American Andean city that has somehow been transplanted into the Southeast Asian mountains, favelas on the slopes included. The big park in the centre, with a lake and swan pedalos, is quite nice and traffic-free, so you can breathe, and the evening views from the terraces of the SM Mall over the cathedral and the sea of city lights are fairly impressive. Fortunately, Baguio also has a wonderful restaurant, Café by the Ruins, where you can sit comfortably for a few hours in a kind of bamboo oasis, close to the action and yet far from the bustle and noise. The coffee is excellent, and the food, international fare, is also decent by Philippine standards, at moderate prices, even if the crème brûlée tasted more like vanilla pudding.
 
 <figure>
   <img src="photos/Philippines2008-0050.jpg" alt="Baguio - Café by the Ruins">
@@ -528,7 +528,7 @@ For the return to Manila we chose an alternative route, via the town of Tagaytay
 
 On Saturday evenings Benji, the manager of Friendly’s and a wine lover, hosts a cheese-and-wine night, where guests can help themselves free of charge at the buffet (with olives, tuna salad, various antipasti, cheese and bread), and there is plenty of perfectly drinkable French table wine. A wonderful idea, which makes Friendly’s one of my favourite hostels in Southeast Asia. And for us it meant a very cheap night out.
 
-We spent Sunday still in Manila, bought tickets for the night bus to Legaspi, walked once more across Rizal Park to Intramuros, where we had brunch in the lovely patio café of Casa Manila. Afterwards we took a kalesa down to Roxas Boulevard and spent the afternoon ‘malling’, the Filipinos’ favourite activity. To bridge the last half hour in Ermita before our bus left, we popped round the corner to Gasthof München, where I treated myself to a nice Hefeweizen (125 P) and  a Swiss-style sausage salad.
+We spent Sunday still in Manila, bought tickets for the night bus to Legaspi, walked once more across Rizal Park to Intramuros, where we had brunch in the lovely patio café of Casa Manila. Afterwards we took a kalesa down to Roxas Boulevard and spent the afternoon ‘malling’, the Filipinos’ favourite activity. To bridge the last half hour in Ermita before our bus left, we popped round the corner to Gasthof München, where I treated myself to a nice Hefeweizen (125 P) and a Swiss-style sausage salad.
 
 <figure>
   <img src="photos/Philippines2008-0064.jpg" alt="Manila">
@@ -537,7 +537,7 @@ We spent Sunday still in Manila, bought tickets for the night bus to Legaspi, wa
 
 ## 14 October 2008
 
-Another ten-hour night bus ride (780 P) in a fairly comfortable air-conditioned bus (comfortable once the Bon Jovi video-KDVD was switched off) took us to Legaspi in southern Luzon. We arrived at the bus station at daybreak and immediately hired a tricycle (150 P return) for the 15 km trip to the Cagsawa Ruins. These ruins are really just an old church bell tower, but the reason to come is the spectacular view of Mount Mayon, perhaps the most perfectly shaped conical volcano in the world, a staple of countless postcards, which rises almost 2,500 metres out of the coastal plain and whose summit is wreathed in clouds of smoke. Climbing the volcano is difficult, expensive and only possible in a limited window during the dry season, but the sight alone is worth the long journey, especially as the route via southern Luzon is a time-consuming yet perfectly sensible alternative for getting to the Visayas.
+Another ten-hour night bus ride (780 P) in a fairly comfortable air-conditioned bus (comfortable once the Bon Jovi Videoke DVD was switched off) took us to Legaspi in southern Luzon. We arrived at the bus station at daybreak and immediately hired a tricycle (150 P return) for the 15 km trip to the Cagsawa Ruins. These ruins are really just an old church bell tower, but the reason to come is the spectacular view of Mount Mayon, perhaps the most perfectly shaped conical volcano in the world, a staple of countless postcards, which rises almost 2,500 metres out of the coastal plain and whose summit is wreathed in clouds of smoke. Climbing the volcano is difficult, expensive and only possible in a limited window during the dry season, but the sight alone is worth the long journey, especially as the route via southern Luzon is a time-consuming yet perfectly sensible alternative for getting to the Visayas.
 
 <div class="photo-row">
 
@@ -594,7 +594,7 @@ Nevertheless we decided to try our luck and head to S. Isidro, but first we spen
   <em>Tacloban - Café Urbana</em>
 </figure>
 
-When we got back to the bus station, we learned that today there was no longer a direct connection to S. Isidro. Instead we were put on a minibus to Villaba, 30 km south of S. Isidro on the west coast. When we arrived there around 5 pm after a two-hour ride (140 P), there were of course no jeepneys left, and motorcycle taxis wanted at least 300 pesos per person. Because we still assumed we might have to catch the boat at 7 am, and spending the night in Villaba would have been risky in terms of timing, we tried hitchhiking, and got lucky.
+When we got back to the bus station, we learned that today there was no longer a direct connection to S. Isidro. Instead we were put on a minibus to Villaba, 30 km south of S. Isidro on the west coast. When we arrived there around 5 pm after a two-hour ride (140 P), there were no jeepneys left, and motorcycle taxis wanted at least 300 pesos per person. Because we still assumed we might have to catch the boat at 7 am, and spending the night in Villaba would have been risky in terms of timing, we tried hitchhiking, and got lucky.
 
 A short while later a large, comfortable coach out of service stopped, with only a few young Pinoys aboard, blasting Eurotrash dance music and looking as if they were on their way to some party. The road to S. Isidro was absolutely dreadful, and it no longer surprised me that the motorcycle taxis had asked so much. With luggage, in the dark, that trip would have been pure horror. We, on the other hand, sat comfortably in the air-conditioned bus, and when we arrived in S. Isidro and offered to pay something, it was waved away with a relaxed ‘no problem’. We really could not have got luckier.
 
@@ -678,7 +678,7 @@ Nightlife is limited to cocktail happy hours in the three larger beach resorts, 
 
 After the price shock on Bounty Beach, we luckily found a nice place to stay at Blissful Garden, a small green oasis in the middle of the village but only a minute from the beach. Actually a restaurant, though currently not open, there are only two neat rooms here, sharing shower and toilet, for 500 pesos each. The rooms are quite small for two people and, like most of the island, there is only electricity for a few hours a day, but the lounge area and garden are wonderfully relaxed, and I preferred sleeping outside in the hammock anyway.
 
-What Malapascua unfortunately does not have is a simple, cheap fish restaurant on the beach. Gastronomically you are dependent on the resorts or a few Western-managed restaurants one street back. For tight budgets, thankfully, there is the Ging Ging Eatery, a pleasant garden place where it is genuinely cheap and the value is excellent. For a wonderful fish or squid dish from the hot plate you pay only 120 pesos, the most expensive item on the menu. Also tasty: the homemade dark bread. The rest of the menu is nothing special quality-wise and the pizzas are bad. Still, it is an excellent (and the only) budget choice on the island. For better pizza and more creative fish dishes, the place next door, La Isla Bonita, is a good bet, though a dinner for two there easily comes to 500 pesos.
+What Malapascua unfortunately does not have is a simple, cheap fish restaurant on the beach. Gastronomically you are dependent on the resorts or a few Western-managed restaurants one street back. For tight budgets, thankfully, there is the Ging Ging Eatery, a pleasant garden place where it is really cheap and the value is excellent. For a wonderful fish or squid dish from the hot plate you pay only 120 pesos, the most expensive item on the menu. Also tasty: the homemade dark bread. The rest of the menu is nothing special quality-wise and the pizzas are bad. Still, it is an excellent (and the only) budget choice on the island. For better pizza and more creative fish dishes, the place next door, La Isla Bonita, is a good bet, though a dinner for two there easily comes to 500 pesos.
 
 <div class="photo-row">
 
@@ -741,7 +741,7 @@ Because having the bike gave us flexibility, we did not have to stay in the most
   <em>Panglao - Calypso Resort</em>
 </figure>
 
-For dinner we went down to the beach at Alona, one of the most touristy places in the Philippines, where one resort restaurant followed another.  The white beach is visually very pretty, but overdeveloped. The algae problem exists here as well, just as on Malapascua, and the water is not especially inviting for swimming. The evening atmosphere in Alona is, however, very lovely, with numerous tables set  between torches right on the sand. The menus hardly differ in price or offer: a selection of pizza and grilled seafood, both for around 200 pesos.
+For dinner we went down to the beach at Alona, one of the most touristy places in the Philippines, where one resort restaurant followed another. The white beach is visually very pretty, but overdeveloped. The algae problem exists here as well, just as on Malapascua, and the water is not especially inviting for swimming. The evening atmosphere in Alona is, however, very lovely, with numerous tables set between torches right on the sand. The menus hardly differ in price or offer: a selection of pizza and grilled seafood, both for around 200 pesos.
 
 <div class="photo-row">
 
@@ -793,7 +793,7 @@ Once on Bohol’s mainland, we followed the southern coastal road and then turne
 
 </div>
 
-In this area there is a wonderful, basic resort, Nuts Huts, on a steep slope above the river. You can reach it easily by boat from Loboc, or, at least in the rainy season, in a more complicated way on a slippery half-hour trek on muddy paths from the main road. After reaching Nuts Huts the hard way, we decided to stay for a longer break and lunch. An excellent choice: you can lounge beautifully on the veranda and enjoy the views into the valley. The food here was cheap and good, and, befitting a place under Belgian management, the “ frites” in particular were excellent.
+In this area there is a wonderful, basic resort, Nuts Huts, on a steep slope above the river. You can reach it easily by boat from Loboc, or, at least in the rainy season, in a more complicated way on a slippery half-hour trek on muddy paths from the main road. After reaching Nuts Huts the hard way, we decided to stay for a longer break and lunch. An excellent choice: you can lounge beautifully on the veranda and enjoy the views into the valley. The food here was cheap and good, and, befitting a place under Belgian management, the “frites” in particular were excellent.
 
 <div class="photo-row">
 
@@ -841,7 +841,14 @@ On a very scenic route, through alternating hilly jungle, rice fields and dense,
 
 </div>
 
-The following day was a quiet one. After the previous day’s riding, a rest was in order. I first took Daniel to the ferry back to Cebu and, before returning the bike, rode out to the Tarsier Visitor Centre, where it was possible to see these peculiar little animals with their enormous eyes in a semi-natural environment.
+The following day was a quiet one. After the previous day’s riding, a rest was in order. In the afternoon I explored a little more of Panglao by motorbike. Away from Alona, the island was still largely unspoilt: flat, green, friendly, with a few picturesque beaches reached only by rough tracks, though not especially good for swimming.
+
+<figure>
+  <img src="photos/Philippines2008-0099.jpg" alt="Panglao">
+  <em>Panglao</em>
+</figure>
+
+The next morning I took Daniel to the ferry back to Cebu and, before returning the bike, rode out to the Tarsier Visitor Centre, where it was possible to see these peculiar, endangered little animals with their enormous eyes in a semi-natural environment.
 
 <figure>
   <img src="photos/Philippines2008-0102.jpg" alt="Around Bohol">
@@ -849,13 +856,6 @@ The following day was a quiet one. After the previous day’s riding, a rest was
 </figure>
 
 The trip inland was worthwhile. I was the only visitor, and a staff member took me on a short walk through the forest, where I managed to get a few excellent close-up views.
-
-In the afternoon, I explored a little more of Panglao by motorbike. Away from Alona, the island was still largely unspoilt: flat, green, friendly, with a few picturesque beaches reached only by rough tracks, though not especially good for swimming.
-
-<figure>
-  <img src="photos/Philippines2008-0099.jpg" alt="Panglao">
-  <em>Panglao</em>
-</figure>
 
 In the afternoon I took the bus from Tagbilaran along the south coast to Jagna, a ride of just under two hours (60 P). From this small town a direct ferry connection to Camiguin has recently been established, so I can save myself the detour via Mindanao. According to my information the ferry was supposed to leave at 8 am, which unfortunately was not true. The only ferry goes at 1 pm, so tomorrow I will have to kill a few hours in the prettily situated but not especially interesting town of Jagna.
 
@@ -868,7 +868,7 @@ The only accommodation in Jagna, the Garden Café, is more of an American-style 
 
 ## 26 October 2008
 
-The ferry from Jagna took just over four hours (400 P), and by the time I arrived at the harbour a few kilometres east of Mambajao, it was already dark. Luckily I bumped into a fixer who initially only wanted to take me into town on his motorbike. A short while later I had an excellent rental motorbike (1,000 P for three days) and a room in a chalet right on the beach for 500 pesos. The resort was so new it did not even have a name yet (‘friends’ of my fixer, of course). All the other beach resorts, during festival time, wanted at least 800 pesos for a room near the beach. I could only stay here for one night, because the chalet was reserved for the next day. That meant the tedious room hunt was out of the way that same evening, and the next morning, in bright sunshine, I could step straight from my room into the cool, clear sea for a swim.  That experience alone made it worth spending a night on the beach.
+The ferry from Jagna took just over four hours (400 P), and by the time I arrived at the harbour a few kilometres east of Mambajao, it was already dark. Luckily I bumped into a fixer who initially only wanted to take me into town on his motorbike. A short while later I had an excellent rental motorbike (1,000 P for three days) and a room in a chalet right on the beach for 500 pesos. The resort was so new it did not even have a name yet (‘friends’ of my fixer). All the other beach resorts, during festival time, wanted at least 800 pesos for a room near the beach. I could only stay here for one night, because the chalet was reserved for the next day. That meant the tedious room hunt was out of the way that same evening, and the next morning, in bright sunshine, I could step straight from my room into the cool, clear sea for a swim. That experience alone made it worth spending a night on the beach.
 
 Afterwards I took a room in Mambajao, the pleasant little capital of Camiguin and, these days, host to the Lanzones Festival, one of the Philippines’ best-known harvest festivals, in honour of the small round fruits with white flesh called lanzones, which are said to be particularly tasty on Camiguin. Today was the final day, with the exotic dances in the streets of the town, wonderful photo opportunities, but live bands performed on the stage all week, and on my first evening on the island I danced until after midnight.
 
@@ -1017,7 +1017,7 @@ When I arrived I was surprised. I had expected a proper city, the place official
 
 </div>
 
-So I was glad that I could stay in a private home with a family who offered me a room in their huge old wooden villa for 300 pesos. Naturally I accepted: I would save money, and I would also get a glimpse of how the Philippine middle class lives in a small town.  Although the house looked quite grand and the family could afford staff, the furnishings were rather simple: there was no running water and only thin mattresses. On the plus side, they put a laptop with WiFi in my room.
+So I was glad that I could stay in a private home with a family who offered me a room in their huge old wooden villa for 300 pesos. I gladly accepted: I would save money, and I would also get a glimpse of how the Philippine middle class lives in a small town. Although the house looked quite grand and the family could afford staff, the furnishings were rather simple: there was no running water and only thin mattresses. On the plus side, they put a laptop with WiFi in my room.
 
 I spent the afternoon and evening with a walk along the beach and a fish dinner at Dapitan’s only seafood-speciality restaurant, a fairly smart affair where a stuffed bangus cost 150 pesos. Sadly, one thing the Philippines almost never has, though it would be made for it, is simple restaurants right on the beach where you can have fresh fish grilled.
 
@@ -1045,7 +1045,7 @@ I stayed at the OK Pension, which had fairly cheap but very dark, slightly run-d
 
 After another day spent strolling leisurely through the town’s streets, I took the speedboat to Siquijor on Saturday lunchtime (160 P, scheduled to take 45 minutes). Because of engine trouble this boat was more than two hours late, which turned out to be a blessing in disguise: while waiting I met a Norwegian who lives on Siquijor with his Filipino family. He offered to let me stay in his house for free, for as long as I liked.
 
-So I not only had free accommodation, I also had the chance to live with locals again: a simple, wonderfully friendly fisherman family who immediately accepted me as part of their circle. My contribution to expenses was to buy fresh fish or meat at the market; naturally, they cooked for me too.
+So I not only had free accommodation, I also had the chance to live with locals again: a simple, wonderfully friendly fisherman family who immediately accepted me as part of their circle. My contribution to expenses was to buy fresh fish or meat at the market, and they cooked for me too.
 
 On Saturdays in Siquijor, the pleasant little main town of the island, there is ‘disco’ with a live band at Das Traum, a simple, cheap outdoor pub by the pier. A bottle of SM costs 27 P and a bottle of Tanduay rum not much more, so half the village comes to drink and dance and the fiesta runs late into the night. As a Western tourist, and one who dances, you are a big attraction here, and thanks to the friendly locals and the relaxed atmosphere I fell in love with the island immediately.
 
@@ -1180,7 +1180,7 @@ Praised as an untouristy alternative to Boracay’s White Sand Beach, Sugar Beac
 
 </div>
 
-I chose Driftwood Village for the simple reason that, in addition to the classic 800–1,000 P bungalows, they also offer cheaper backpacker accommodation. For 350 P you get a small, simple room with fan and mosquito net, while the facilities are very well kept and even have hot showers. What makes Driftwood Village so special, though, is the staff: all relatives of the Swiss owner’s wife, the nicest, most attentive crew I have ever come across at a resort. You can tell the girls genuinely enjoy the work, and because it was low season and there was not much to do, you always had partners for a game of pool or table football.
+I chose Driftwood Village for the simple reason that, in addition to the classic 800–1,000 P bungalows, they also offer cheaper backpacker accommodation. For 350 P you get a small, simple room with fan and mosquito net, while the facilities are very well kept and even have hot showers. What makes Driftwood Village so special, though, is the staff: all relatives of the Swiss owner’s wife, the nicest, most attentive crew I have ever come across at a resort. You can tell the girls really enjoy the work, and because it was low season and there was not much to do, you always had partners for a game of pool or table football.
 
 The food at the resort was, as you would expect in such a remote place, not cheap, but excellent and authentic in flavour, both the Thai and the Western dishes, and there was fresh fish every day.
 
