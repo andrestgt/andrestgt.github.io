@@ -9,7 +9,7 @@ photos_locked: true
 
 # Palawan and Borneo
 
-**February-August 2009**
+**February – August 2009**
 
 A journey through Palawan in the Philippines and Malaysian Borneo, from Puerto Princesa and El Nido to Kota Kinabalu, Semporna and Sandakan.
 
@@ -19,14 +19,14 @@ A journey through Palawan in the Philippines and Malaysian Borneo, from Puerto P
 
 My Philippine Airlines flight from Cebu (PHP 1,105) was almost two hours late, so I didn’t reach the small airport in Puerto Princesa, Palawan’s provincial capital, until late afternoon. The airport isn’t far from the centre; it’s less than a ten-minute tricycle ride (PHP 10) to my guesthouse at the other end of town near the harbour.
 
-Banwa Art House had an atmosphere that felt very unusual for the Philippines. Set in a wooden house in one of the quieter, poorer residential neighbourhoods, Banwa is a really pleasant guesthouse clearly aimed at the (on Palawan more pronounced than in the rest of the country) backpacker market, with simple rooms (PHP 350) and dorms (PHP 250) which, true to its name, have been designed and spruced up with an artistic touch. Spotless bathrooms and, especially, a brilliant, sociable veranda full of plants, carvings, wall hangings and paintings, plus excellent music (Velvet Underground, Jack Johnson) and WiFi, will make any backpacker’s make most backpackers happy. The only real gripe is the steep prices for drinks and especially the simple dishes they serve.
+Banwa Art House had an atmosphere that felt very unusual for the Philippines. Set in a wooden house in one of the quieter, poorer residential neighbourhoods, Banwa is a really pleasant guesthouse clearly aimed at the (on Palawan more pronounced than in the rest of the country) backpacker market, with simple rooms (PHP 350) and dorms (PHP 250) which, true to its name, have been designed and spruced up with an artistic touch. Spotless bathrooms and, especially, a brilliant, sociable veranda full of plants, carvings, wall hangings and paintings, plus excellent music (Velvet Underground, Jack Johnson) and WiFi, will make most backpackers happy. The only real gripe is the steep prices for drinks and especially the simple dishes they serve.
 
  <figure>
     <img src="photos/Palawan2009-0017.jpg" alt="Puerto Princesa">
     <em>Puerto Princesa</em>
   </figure>
 
-Puerto, as the locals call the town, is one of the coziest small provincial towns in the Philippines. Most of the tricycle traffic and the shops are confined to the area along the main boulevard; there are hardly any buildings taller than three storeys; and despite the lack of sights (and a few desperately poor slums which, from the plane, look like picturesque stilt villages on the water) the town has a certain charm of remoteness and simplicity that’s hard to resist. On top of that a pleasant seaside setting (a waterfront promenade is under construction) and, arguably, the best food scene of any provincial town in the Philippines, which I really hadn’t expected from this remote small town on what is supposedly the wildest, least developed of the country’s major islands. Apart from an obligatory café-bar, Itoy’s, with free WiFi, tasty carrot cake and an espresso machine, Puerto has several restaurants that are good, but, surprisingly, also very tastefully furnished, and hugely popular with better-off locals as well as expats and tourists.
+Puerto, as the locals call the town, is one of the coziest small provincial towns in the Philippines. Most of the tricycle traffic and the shops are confined to the area along the main boulevard; there are hardly any buildings taller than three storeys; and despite the lack of sights (and a few desperately poor slums which, from the plane, look like picturesque stilt villages on the water) the town has a certain charm of remoteness and simplicity that’s hard to resist. On top of that a pleasant seaside setting (a waterfront promenade is under construction) and, arguably, the best food scene of any provincial town in the Philippines, which I really hadn’t expected from this remote small town on what is supposedly the wildest, least developed of the country’s major islands. Apart from an obligatory café-bar, Itoy’s, with free WiFi, tasty carrot cake and an espresso machine, Puerto has several restaurants that are not only good but, surprisingly, also very tastefully furnished, and hugely popular with better-off locals as well as expats and tourists.
 
 The undisputed number one in town is Ka Lui, a beautifully decorated, absurdly popular seafood restaurant where you can get both delicious mango shakes, and, for a fair price (PHP 395), a mixed fish-and-seafood platter for two: mussel soup, large prawns, tuna steak and steamed lapu-lapu with a tamarind sauce. By Philippine standards, it’s almost outrageously gourmet.
 
@@ -34,7 +34,7 @@ Right next door is another stylish garden restaurant with a lotus pond, hence th
 
 Kinabuch Grill & Bar (KGB) is an institution in Puerto, rumoured to be owned by a Russian. It’s a slightly more upmarket version of a typical Filipino grill joint, with pool tables, a big screen, techno beats and fairly pricey drinks. The food, at least the sizzling-plate dishes, is very good, not too expensive, and the portions are generous.
 
-And, of all places, Puerto Princesa, already surprisingly cosmopolitan for food, saw Vietnamese boat people settled in the 1980s and introduced baguettes, pho and nems. There are a few very simple, cheap places in town where you can enjoy these dishes from what is, in my view, the best cuisine in Asia. The best and most extensive menu is at Rene’s Saigon Kitchen on the far side of the airport; they also do tasty beef with lemongrass for 70 pesos.
+And, of all places, Puerto Princesa, already surprisingly cosmopolitan for food, is where Vietnamese boat people settled in the 1980s and introduced baguettes, pho and nems. There are a few very simple, cheap places in town where you can enjoy these dishes from what is, in my view, the best cuisine in Asia. The best and most extensive menu is at Rene’s Saigon Kitchen on the far side of the airport; they also do tasty beef with lemongrass for 70 pesos.
 
 Rather than heading straight for the main tourist spots in northern Palawan like most travellers, I stayed a few days in Puerto Princesa and rented a motorbike to explore a bit of the scarcely visited south of the island.
 
@@ -59,11 +59,11 @@ After 8 km you can leave the motorbike at Tamerbong Bridge and take a pleasant h
     </em>
   </figure>
 
-Back at the bridge I followed the road for a few more kilometres until a turn-off led to Lasyap Beach, a stunning, lonely bay, its grey sand fringed by coconut palms. This is definitely one of the least developed regions of the Philippines, and as a tourist you’re still stare at you in disbelief.
+Back at the bridge I followed the road for a few more kilometres until a turn-off led to Lasyap Beach, a stunning, deserted bay, its grey sand fringed by coconut palms. This is definitely one of the least developed regions of the Philippines, and as a tourist, people still stare at you in disbelief.
 
 On the way back to Puerto I made a short stop at the hot springs of San Isidro (KM 112). The place is dusty and poorly maintained, but I had the pool, warm as bathwater, entirely to myself, and a quick dip felt great after the long, bumpy motorbike ride.
 
-If northern Palawan is even half as spectacular as people say, there’s an obvious reason why the south is so rarely visited: while this area certainly has its charms, the natural sights are rather second-rate. Waterfalls, caves and Robinson islets are found in the north as well, and for a solo traveller they’re far easier and cheaper to reach. Still, it was genuinely interesting to explore a region where very few people speak English and the occasional Western tourist rarely strays this way, and time, after all, is something I have plenty o
+If northern Palawan is even half as spectacular as people say, there’s an obvious reason why the south is so rarely visited: while this area certainly has its charms, the natural sights are rather second-rate. Waterfalls, caves and Robinson islets are found in the north as well, and for a solo traveller they’re far easier and cheaper to reach. Still, it was really interesting to explore a region where very few people speak English and the occasional Western tourist rarely strays this way, and time, after all, is something I have plenty of.
 
 ## 25 February 2009
 
@@ -143,7 +143,7 @@ The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highl
 
 ## 2 March 2009
 
-From Sabang I took a jeepney back to the highway (2 h, PHP 75), where I quickly found a connection to Roxas. I got off an hour before town at the junction to Port Barton (1 h, PHP 50), where I had to wait a good half-hour for the Roxas–Port Barton jeepney. For the last 22 km to Port Barton the jeepney took more than an hour and a half. Even in the dry season the road is in a terrible state, but it also stops sleepy Port Barton from turning into a tourist centre, because the potential is definitely there.
+From Sabang I took a jeepney back to the highway (2 h, PHP 75), where I quickly found a connection to Roxas. I got off shortly before town at the junction to Port Barton (1 h, PHP 50), where I had to wait a good half-hour for the Roxas–Port Barton jeepney. For the last 22 km to Port Barton the jeepney took more than an hour and a half. Even in the dry season the road is in a terrible state, but it also stops sleepy Port Barton from turning into a tourist centre, because the potential is definitely there.
 
 The beach, in a crescent-shaped bay, is picturesque and good for swimming. Dozens of islands lie offshore and are said to be excellent for island hopping, something I couldn’t verify because there weren’t enough tourists in town to share a boat with (PHP 1,500 is a bit much for a solo traveller for one day on the islands).
 
@@ -162,7 +162,7 @@ The rustic Jimbalaya sat in a great spot on the beach, a café where they sold h
 
 ## 9 March 2009
 
-The jeepney from Port Barton to Roxas charges tourists for 150 pesos for the 20-odd kilometres, which is a complete rip-off even given the dreadful road. Just as on the way in, I paid only 100 pesos, a fare I considered fair, and got away with it without any drama.
+The jeepney from Port Barton to Roxas charges tourists 150 pesos for the 20-odd kilometres, which is a complete rip-off even given the dreadful road. Just as on the way in, I paid only 100 pesos, a fare I considered fair, and got away with it without any drama.
 
 The bus ride up to El Nido is notorious among travellers, and for good reason. Because we only boarded in Roxas, there was no space left in the rickety old bus for the people from Port Barton, so we spent the five-hour journey along dusty tracks in the blazing sun on the roof. We were lucky: the bus was carrying mattresses we could lie on. The ride is interesting in places, because the landscape here sometimes looks more like the African savannah than tropical Southeast Asia. A few kilometres before El Nido the famous karst landscape begins, and from the roof we had wonderful views.
 
@@ -182,7 +182,7 @@ The bus ride up to El Nido is notorious among travellers, and for good reason. B
 
 Accommodation in El Nido is mercilessly overpriced by Palawan standards; on the beach you can hardly find anything under 800 pesos, even though the standard isn’t any better than elsewhere. I didn’t give up and eventually found a sea-view room in a prime spot for 400 pesos at Ralfs Bar. The room itself was extremely basic, and in the ground-floor bathroom the shower water was pumped from a well, but the views were fantastic.
 
-El Nido itself is a typically Filipino small town in a dream setting, framed by high limestone cliffs with views out to the islands of the Bacuit Archipelago. Thanks to tourism there are a few pleasant cafés and beach restaurants, though prices are fairly high. Here a San Miguel costs from 50 pesos upwards, and a meal is about twice as expensive as in Puerto.
+El Nido itself is a typically Filipino small town in a magnificent setting, framed by high limestone cliffs with views out to the islands of the Bacuit Archipelago. Thanks to tourism there are a few pleasant cafés and beach restaurants, though prices are fairly high. Here a San Miguel costs from 50 pesos upwards, and a meal is about twice as expensive as in Puerto.
 
 Alternative is absolutely worth visiting for the view and the cosy open-air cubicles with seat cushions, by far the prettiest place in El Nido, with a creative menu. The views and the atmosphere are better than the food, though.
 
@@ -209,7 +209,7 @@ El Nido Boutique Café is an institution, a large, modern establishment a row ba
 
 El Nido also has a very nice bar with live music: Balay Tubay, by far the best place for a night out in El Nido. When it’s full, the atmosphere is excellent. Unfortunately it’s often empty, even in high season, because El Nido attracts nowhere near as many tourists as you’d expect for such a famous destination. Last year all scheduled flights to El Nido were cancelled; charter flights are very expensive, and the overland-and-sea route is long and arduous.
 
-Of course, that has its advantages too. Compared with Halong Bay and especially Krabi–Phang Nga, landscapes the Bacuit Archipelago is often compared with, you don’t have to share the beauty of the islands with countless other tourists. Only the occasional Korean tour group, the Philippines’ one real tourist nuisance, can briefly disturb the idyll. Luckily they only visit a handful of the most popular sights.
+That has its advantages too. Compared with Halong Bay and especially Krabi–Phang Nga, landscapes the Bacuit Archipelago is often compared with, you don’t have to share the beauty of the islands with countless other tourists. Only the occasional Korean tour group, the Philippines’ one real tourist nuisance, can briefly disturb the idyll. Luckily they only visit a handful of the most popular sights.
 
 <div class="photo-row">
 
@@ -327,7 +327,7 @@ But the mainland around El Nido has plenty to offer too, and is still barely dev
 
 </div>
 
-Only a few kilometres south of El Nido, not far from the highway, lies Corong-Corong, another dream beach. There are a few resorts here and, because it’s easy to reach, it attracts more tourists. The beach is narrow and not very long, but incredibly picturesque, clean and perfect for a lazy afternoon by the sea.
+Only a few kilometres south of El Nido, not far from the highway, lies Corong-Corong, another picture-perfect beach. There are a few resorts here and, because it’s easy to reach, it attracts more tourists. The beach is narrow and not very long, but incredibly picturesque, clean and perfect for a lazy afternoon by the sea.
 
 <div class="photo-row">
 
@@ -347,7 +347,7 @@ Only a few kilometres south of El Nido, not far from the highway, lies Corong-Co
 
 Since by far the cheapest way back from Palawan to Manila was a Zest Air flight from Coron/Busuanga (PHP 388), I spent another two days in the Calamian Archipelago, the northernmost tip of Palawan province.
 
-The boat trip from El Nido to Coron took seven hours and was very expensive (PHP 2,200), because it was a medium-sized bangka carrying tourists only. That said, it was a very pleasant crossing: there were only five of us on the boat, the sea was calm in perfect sunshine, and all the way you had views of the many islands of the archipelago, some little more than sparsely vegetated rocks, others genuinely beautiful with palm-lined beaches.
+The boat trip from El Nido to Coron took seven hours and was very expensive (PHP 2,200), because it was a medium-sized bangka carrying tourists only. That said, it was a very pleasant crossing: there were only five of us on the boat, the sea was calm in perfect sunshine, and all the way you had views of the many islands of the archipelago, some little more than sparsely vegetated rocks, others beautiful with palm-lined beaches.
 
 Coron town itself, despite the flight connection to Manila, has the wonderful atmosphere of a place at the end of the world and is one of the more attractive little towns in the country, with very friendly locals and an authentic feel. Prices here are also very low. Coron would be well off most tourists’ radar if there weren’t numerous shipwrecks off the coast drawing a steadily growing community of divers. That’s also why this unspoilt, remote place has two surprisingly good expat-run restaurants: La Sirenetta, an Italian with perfectly decent pizzas, and Bistro Coron, which serves delicacies such as sashimi and mousse au chocolat.
 
@@ -386,7 +386,7 @@ For non-divers, Coron offers the option of a day trip to Coron Island opposite, 
 
 ---
 
-29.06 – 03.08.2009
+**29 June – 3 August 2009**
 
 ## 4 July 2009
 
@@ -397,7 +397,7 @@ I arrived in the evening on a flight from Clark to Kota Kinabalu airport and, fo
     <em>Kota Kinabalu</em>
   </figure>
   
-I spent the next few days in Sabah’s capital before my onward flight to Tawau. After Manila, KK was almost a culture shock: the city is clean, modern, unhurried, almost a little too sterile. KK has little in the way of interesting architecture, but the centre is pleasantly compact and easy to explore on foot. KK’s main attraction is its location, with the green chain of hills rising directly above the centre and the offshore islands of the Tunku Abdul Rahman National Park. It also has a large air-conditioned mall, a good selection of restaurants and a wonderful night market by the sea, where you can eat excellent Malay food for just a few ringgit, a blessing after the rather limited culinary options in the Philippines.
+I spent the next few days in Sabah’s capital before my onward flight to Tawau. After Manila, KK is almost a culture shock: the city is clean, modern, unhurried, almost a little sterile. KK has little in the way of interesting architecture, but the centre is pleasantly compact and easy to explore on foot. KK’s main attraction is its location, with the green chain of hills rising directly above the centre and the offshore islands of the Tunku Abdul Rahman National Park. It also has a large air-conditioned mall, a good selection of restaurants and a wonderful night market by the sea, where you can eat excellent Malay food for just a few ringgit, a blessing after the rather limited culinary options in the Philippines.
 
  <figure>
     <img src="photos/Borneo2009-0003.jpg" alt="Kota Kinabalu">
@@ -421,9 +421,9 @@ For travellers in Malaysia, Semporna is “the end of the road”: the easternmo
 
 At Tawau airport, I took the airport bus into town, where I then changed to the local minibus (20 RM) to Semporna, another two hours east of Tawau.
 
-Semporna itself is not an attractive town. While much of the predominantly Muslim settlement is still characterised by traditional water villages, the rather grimy centre consists of run-down concrete blocks without any charm. The tourist centre on the waterfront is also just a collection of two-storey concrete blocks, though brightly painted and less dilapidated. Despite years of heavy tourist traffic and cultural differences, the locals in Semporna are very friendly, which genuinely surprised me, given the half-naked divers wandering the streets with beer cans in hand.
+Semporna itself is not an attractive town. While much of the predominantly Muslim settlement is still characterised by traditional water villages, the rather grimy centre consists of run-down concrete blocks without any charm. The tourist centre on the waterfront is also just a collection of two-storey concrete blocks, though brightly painted and less dilapidated. Despite years of heavy tourist traffic and cultural differences, the locals in Semporna are very friendly, which pleasantly surprised me, given the half-naked divers wandering the streets with beer cans in hand.
 
-The only reason to come to Semporna is the offshore islands, which not only offer some of the best diving and snorkelling sites in the world, but are also visually stunning above the waterline: a dream of coconut palms, white sandy beaches and crystal-clear water. Some of the islands are home to impoverished but picturesque settlements of sea nomads who still follow their traditional way of life despite tourism. You can stay overnight on only two islands: an expensive resort built on stilts over the water on Kapalai, and a handful of simpler dive resorts on Mabul, where you can get fairly cheap all-inclusive packages, but only if you dive. So, even with South Seas dream islands like Sibuan and Mantabuan, the area is effectively an exclusive destination for divers.
+The only reason to come to Semporna is the offshore islands, which not only offer some of the best diving and snorkelling sites in the world, but are also visually stunning above the waterline: a vision of coconut palms, white sandy beaches and crystal-clear water. Some of the islands are home to impoverished but picturesque settlements of sea nomads who still follow their traditional way of life despite tourism. You can stay overnight on only two islands: an expensive resort built on stilts over the water on Kapalai, and a handful of simpler dive resorts on Mabul, where you can get fairly cheap all-inclusive packages, but only if you dive. So, even with South Seas dream islands like Sibuan and Mantabuan, the area is effectively an exclusive destination for divers.
 
 <div class="photo-row">
 
@@ -486,7 +486,7 @@ The six-hour bus journey from Semporna to Sandakan (40 RM) offers little to see.
 
 Sandakan’s bus terminal is a little way out of town, but the centre is easy to reach by city bus.
 
-Sandakan is feels like a smaller Kota Kinabalu: green hills in the background, the South China Sea with offshore islands in the foreground, and a compact city centre of block-like concrete buildings in between. There isn’t much here that’s particularly exciting right now, but it’s not unattractive for a short stopover.
+Sandakan feels like a smaller Kota Kinabalu: green hills in the background, the South China Sea with offshore islands in the foreground, and a compact city centre of block-like concrete buildings in between. There isn’t much here that’s particularly exciting right now, but it’s not unattractive for a short stopover.
 
  <figure>
     <img src="photos/Borneo2009-0070.jpg" alt="Sandakan">
