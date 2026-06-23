@@ -252,7 +252,7 @@ After a wonderful shower I set off straight away to explore the city: cycling th
   <em>Esfahan - Qaysarieh Teahouse</em>
 </figure>
 
-Isfahan exceeded all expectations. This city is a traveller's dream: well kept, green, picturesque, relaxed, simply perfect.
+Isfahan exceeded all expectations. This city is every traveller's dream: well kept, green, picturesque, relaxed, simply perfect.
 
 <div class="photo-row">
 
@@ -364,7 +364,7 @@ Despite the chaotic traffic, or perhaps because of it, a bicycle isn't a bad way
   <em>Tehran</em>
 </figure>
 
-After a stroll through the bazaar I cycled almost 20 km steadily uphill to north Tehran, towards the slopes of the snow-capped Alborz Mountains. This part of the city is a different world, a modern metropolis with chic shopping malls, expensive restaurants and European-style cafés; there are green avenues, great views, and the traffic isn't as heavy. While I was sitting with a cappuccino at Café de France, a young Iranian woman even joined me and we chatted for a while about the situation in the country. Contrary to the perception widely held in the West, Iran, despite the power of the mullahs, is not a place where only bearded fundamentalists and black tents roam about. Quite the opposite: most young people wear jeans and trainers; the boys often have gelled, 1980s Dave Gahan tribute haircuts and tight T-shirts. You rarely see fully veiled women, not just here, but even in the smaller cities. More often they wear a fashionable, close-fitting coat, jeans, lots of make-up, and the headscarf only covers the back of the head so as to show off as much of the hairstyle as possible. At times it also seemed as if every second young Iranian woman had a plaster on her nose; cosmetic surgery appears to be the latest craze here.
+After a stroll through the bazaar I cycled almost 20 km steadily uphill to north Tehran, towards the slopes of the snow-capped Alborz Mountains. This part of the city is a different world, a modern metropolis with chic shopping malls, expensive restaurants and European-style cafés; there are green avenues, great views, and the traffic isn't as heavy. Because almost everything here was built in recent decades with function in mind, there aren't any real sights, but it's by far the most pleasant and liberal part of the city. While I was sitting with a cappuccino at Café de France, a young Iranian woman even joined me and we chatted for a while about the situation in the country. Contrary to the perception widely held in the West, Iran, despite the power of the mullahs, is not a place where only bearded fundamentalists and black tents roam about. Quite the opposite: most young people wear jeans and trainers; the boys often have gelled, 1980s Dave Gahan tribute haircuts and tight T-shirts. You rarely see fully veiled women, not just here, but even in the smaller cities. More often they wear a fashionable, close-fitting coat, jeans, lots of make-up, and the headscarf only covers the back of the head so as to show off as much of the hairstyle as possible. At times it also seemed as if every second young Iranian woman had a plaster on her nose; cosmetic surgery appears to be the latest craze here.
 
 <figure>
   <img src="photos/Iran2007-0043.jpg" alt="Tehran - Café de France">
