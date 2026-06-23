@@ -18,7 +18,7 @@ The eight-hour journey from Houay Xay to Luang Nam Tha, along an
 extremely dusty, bone-shaking road, made it immediately clear that
 travelling in Laos wouldn’t be a walk in the park. Still, at least the
 pick-up trucks here have benches, so it’s a touch less painful than in
-Cambodia. The ride took us through lonely mountain scenery, past poor
+Cambodia. The ride took us through empty mountain scenery, past poor
 villages, and it was obvious that Laos is still very underdeveloped.
 
 ## Luang Nam Tha
@@ -86,8 +86,7 @@ interesting and lively.
 To keep this small tourism boom as sustainable as possible, for both
 nature and the hill communities, there’s only a limited number of treks
 once a week, with a maximum of six people, an approach I strongly approve
-of. I opted for a day trek to various Hmong and Akha villages, which was
-genuinely interesting and, surprisingly, not unpleasant.
+of. I opted for a day trek to various Hmong and Akha villages, which was really interesting and, surprisingly, not unpleasant.
 
 <div class="photo-row">
 
@@ -126,8 +125,7 @@ genuinely interesting and, surprisingly, not unpleasant.
 
 - Better food, however, was next door at Vieng Phone GH.
 
-From Muang Sing it was six bumpy hours to Udomxai through lonely, jagged
-hill ranges.
+From Muang Sing it was six bumpy hours to Udomxai through empty, jagged hill ranges.
 
 ## Udomxai
 
@@ -289,7 +287,7 @@ offers a beautiful view over Luang Prabang and the surrounding area.
 
 You
 can stroll through streets and lanes for hours, duck into a temple here
-and there, and hope this dreamy place won’t turn even more into a hub
+and there, and hope this enchanting place won’t turn even more into a hub
 for tourism and trade.
 
 <div class="photo-row">
@@ -347,7 +345,7 @@ which the water plunges down. An uplifting feeling!
   atmosphere and fairly decent food.
 
 - A Luang Prabang speciality is a watercress salad, which I tried at
-  Soukanna Restaurant and which was genuinely excellent.
+  Soukanna Restaurant and which was really excellent.
 
 - Cheap, authentic Indian food was at Nazim Restaurant.
 
@@ -435,7 +433,7 @@ found it fairly creepy, but also quite exciting.
 
 - Sabaidee Restaurant offered an interesting mix of Asian and western
   food (spaghetti with coriander pesto and garlic baguette) and
-  wonderful shakes (mango and café-banana). The spring rolls were also
+  wonderful shakes (mango and coffee-banana). The spring rolls were also
   superb. Very moderate prices!
 
 ## Vientiane
@@ -642,7 +640,7 @@ Sedone Restaurant at least had fairly decent spring rolls.
 ## Champasak
 
 Champasak is a sleepy little place on the Mekong. The town itself, with
-its wooden houses and colonial villas, is genuinely quite nice, and you
+its wooden houses and colonial villas, is really quite nice, and you
 feel a bit transported back to the French colonial era.
 
 <div class="photo-row">
@@ -949,9 +947,8 @@ quality would cost a fortune, or rather: wouldn’t even be possible.
 - I had a good Thai spicy duck salad at Khubkum Restaurant (also Siam
   Square).
 
-- The 'All You Can Eat Buffet' at Oishi was an absolute dream in Siam
-  Discovery Center. Everything (including sushi, sashimi, tempura, dim
-  sum, duck, seafood, frogs, dreamy little strawberry tarts…) is freshly
+- The 'All You Can Eat Buffet' at Oishi in the Siam Discovery Center was an absolute treat. Everything (including sushi, sashimi, tempura, dim
+  sum, duck, seafood, frogs, heavenly little strawberry tarts…) is freshly
   prepared and top quality. Price incl. drinks: less than €10!!
 
 ## Summary
@@ -977,7 +974,7 @@ because travellers are distributed less evenly across the small Lao
 towns than in other countries.
 
 Laos is very cheap in every respect. Depending on the region, a simple
-but usually well-kept room costs 1–€5, and even public transport costs
+but usually well-kept room costs €1–5, and even public transport costs
 no more than what locals pay, many of whom earn barely more than €20 a
 month.
 
