@@ -3,73 +3,17 @@ layout: default
 section: travels
 title: "Melbourne, Tasmania & the Great Ocean Road"
 subtitle: "Australia"
-date: 2005-02-07
+date: 2005-02-09
 ---
 
 # Melbourne, Tasmania & the Great Ocean Road
-**7 February – 3 March 2005**
+**9 February – 3 March 2005**
 
 A month in southeastern Australia: Melbourne, a road trip around Tasmania, and the Great Ocean Road.
 
 ---
 
-## 7 Feb 2005 — Perth → Melbourne
-
-I arrived at One World in a state of emptiness, completely broke and
-alone, and now I’m sitting at the airport on my way to Melbourne and
-I’m genuinely sad to leave Perth. The last month was wonderful and very
-educational.
-
-For the first ten days I didn’t even have money to buy food, so I had to
-live exclusively off the not‑exactly‑uplifting contents of the free-food
-shelf, and I was hardly able to take part in the hostel’s social life.
-During that time I read a lot, slept a lot, and worked to pay rent and
-tobacco.
-
-My job was great, unusual and exciting. I didn’t earn all that much at
-first, but who can say they’ve been a rickshaw driver in Perth? It’s
-hard work, but I wouldn’t want to miss a single minute. Every night
-funny things happened: drunk girls stripping on the back seat or trying
-to pay with a blowjob, people paying me \$10 just to go across the
-street, and during the waiting times I could watch the wild nightlife of
-Northbridge and Fremantle.
-
-On Australia Day I worked fourteen hours straight. The city of Perth had
-spared no effort to celebrate, and half a million people watched a
-magnificent 45‑minute fireworks show over the river, and I was right in
-the middle of it all as a rickshaw driver.
-
-Once I finally received my new bank card, I could also take an active part
-in hostel life and enjoyed my free evenings to the full. Especially the
-last two weeks we had a great group. We did day trips, or went for
-cappuccino at Vulture’s, cooked together almost every day, went out
-in the evenings or played cards all night, drank and listened
-to music. The last few days I never got to bed before sunrise.
-
-It was almost like the beginning at Eva’s again. I felt unbelievably
-comfortable in the hostel, but at least I had a fixed date when I had
-to leave Perth. Otherwise I could easily have imagined sinking into it
-again, because I really had very nice people around me. It was genuinely
-hard to say goodbye today.
-
-I spent the afternoon with Steffi, a Swiss girl I got on brilliantly
-with, in Kings Park. Before I had to leave, Will (Dutch and basically
-part of the furniture at OWB, and an all‑round great person) and Steffi
-decided to play a prank on me. Everyone in the hostel knew about it
-except me: they cancelled the shuttle bus to the airport that I’d
-booked.
-
-After I waited and waited, I decided to call a taxi, but Sally, the
-night manager, was in on it too, so of course no taxi came either. When
-I’d almost accepted that I was going to miss the flight and opened my
-third beer, Chris suddenly drove up in his car. Steffi and Will had
-organised the whole thing and accompanied me to the airport to say
-goodbye. I was really touched, and I won’t forget my time in Perth and
-the people from OWB anytime soon.
-
-## 
-
-## 9 Feb 2005 — Melbourne
+## 9 Feb 2005 – Melbourne
 
 When I arrived in Melbourne early in the morning, in the dark, it was
 raining. I took the airport bus, the Skybus (\$13), into the city. Dawn
@@ -157,8 +101,7 @@ Since the nightlife is supposed to be very
 good here and many backpackers base themselves in St Kilda, I might
 spend a few nights here before I fly back.
 
-I had a very good cappuccino at the cosy Veludo on the café strip, then
-took tram 16 back towards the centre.
+I had a very good cappuccino at the cosy Veludo on the café strip. The trams serve the whole city here. I took tram 16 back towards the centre.
 
 <figure>
   <img src="photos/MelbourneTasmaniaGOR2005-0006.jpg" alt="Melbourne - St. Kilda - Veludo Café">
@@ -245,7 +188,7 @@ sum. The owner of the Post Mao Café supposedly cooked the Chairman’s
 favourite dishes personally, whether that’s true or not, the food was
 very good.
 
-## 13 Feb 2005 — Melbourne
+## 13 Feb 2005 – Melbourne
 
 On Thursday morning I picked Mona up from the airport bus terminal and
 we moved into the Hotel Bakpak. The day before I’d booked a twin room
@@ -370,7 +313,7 @@ Three days earlier I’d found such a cheap deal for flights to Tasmania
 (A\$65 with Jetstar) that we grabbed it on the spot, and we’ll be
 spending the next two weeks on this enigmatic island.
 
-## 14 Feb 2005 — Launceston (Tasmania)
+## 14 Feb 2005 – Launceston (Tasmania)
 
 The flight to Launceston only took 45 minutes and since we didn’t arrive
 until just before ten, we took a taxi to the Launceston Backpacker
@@ -441,7 +384,7 @@ attractive little town with lots of historic buildings, enough good
 cafés and restaurants, and an almost too‑relaxed atmosphere; after five
 o’clock the pavements are rolled up; not a place for wild nightlife.
 
-## 15 Feb 2005 — Tasmania: North Coast to Rocky Cape
+## 15 Feb 2005 – Tasmania: North Coast to Rocky Cape
 
 In the morning we picked up our rental car and left Launie on small back
 roads, some of them unpaved, heading west to Liffey Falls. The day
@@ -506,7 +449,7 @@ We spent the night at a small roadside camping ground with pub and
 bottle shop near the turn‑off to Rocky Cape: lush green grass, a
 barbecue area, and good, clean facilities, for just A\$8.
 
-## 16 Feb 2005 — Stanley to Cradle Mountain
+## 16 Feb 2005 – Stanley to Cradle Mountain
 
 Today was fairly sunny, but cool and extremely windy. We continued along
 the beautiful north coast past long white beaches to the historic town
@@ -591,7 +534,7 @@ side, the facilities are high standard and there’s a big communal
 kitchen (without equipment, but with a large fireplace that puts out a
 nice heat).
 
-## 17 Feb 2005 — Cradle Mountain to Strahan
+## 17 Feb 2005 – Cradle Mountain to Strahan
 
 We took the free shuttle from the visitor centre to Dove Lake and walked
 the two‑hour Dove Lake Circuit around the lake. The weather was good and
@@ -626,7 +569,7 @@ for a place like that.
 To walk it off we did a three‑hour hike (return) to Montezuma Falls near
 Zeehan. The trail followed an old railway line right through dense,
 green rainforest. The walk itself was already lovely; the waterfall was
-an absolute highlight: 100 metres high in a dream setting.
+an absolute highlight: 100 metres high in a magnificent setting.
 
 <div class="photo-row">
 
@@ -661,7 +604,7 @@ In the evening we wandered into town and I ate half a dozen wonderful
 Tasmanian oysters at Hamer’s Hotel, with a glass of (less wonderful)
 Tasmanian Chardonnay.
 
-## 18 Feb 2005 — Strahan / Henty Dunes / Gordon River
+## 18 Feb 2005 – Strahan / Henty Dunes / Gordon River
 
 Even though the weather didn’t exactly invite us to stay, we decided to
 spend another day in Strahan, an excellent decision, because the area
@@ -750,11 +693,11 @@ forest itself wasn’t any more spectacular than on walks in less remote
 areas, but the real attraction is the feeling of being at the end of the
 world, in one of the most isolated places, surrounded by pure nature.
 
-Dinner For dinner they served a good buffet on board, very reasonably
+For dinner they served a good buffet on board, very reasonably
 priced at \$12, among other things smoked salmon and brie, plus a beer
 to wash it down, and the return trip flew by.
 
-## 19 Feb 2005 — West to East: Queenstown / Mt Field / New Norfolk
+## 19 Feb 2005 – West to East: Queenstown / Mt Field / New Norfolk
 
 We left Tasmania’s wild, rainy west coast and took the only road that
 crosses the West Tasmanian wilderness, heading east. Our first coffee
@@ -888,7 +831,7 @@ priced (A\$12), and, above all, in the perfect spot right by the water.
   <em>Derwent River Valley</em>
 </figure>
 
-## 20 Feb 2005 — Richmond / Apsley / Bicheno / Freycinet
+## 20 Feb 2005 – Richmond / Apsley / Bicheno / Freycinet
 
 We first drove through wine‑growing country to Richmond, Tasmania’s most
 historic little town north of Hobart. Here you feel a bit as if you’re
@@ -1000,7 +943,7 @@ a dozen delicious Tasmanian oysters at the lovely Oystercatcher in Coles
 Bay, with views of the national park’s impressive rock formations. They
 also serve what’s probably the best cappuccino south of Melbourne.
 
-## 21 Feb 2005 — Freycinet National Park
+## 21 Feb 2005 – Freycinet National Park
 
 Glorious summer weather today, and we spent most of the day in the
 magnificent Freycinet National Park. We did a long loop: first up to the
@@ -1058,7 +1001,7 @@ rump steak and wallaby for a barbecue, which was a good idea because in
 Richmond everything was already shut by 6 p.m., and anyway, a proper
 barbie at the campsite is simply part of the Aussie lifestyle.
 
-## 22 Feb 2005 — Tasman Peninsula / Port Arthur area
+## 22 Feb 2005 – Tasman Peninsula / Port Arthur area
 
 We left our tent up at the campsite in Richmond today and, after a
 smoked‑salmon pie and cappuccino at the Wine Centre, drove to the Tasman
@@ -1117,7 +1060,7 @@ Tasmania in a beautiful bay. Truly remarkable!
 </figure>
 
 We also drove around the rest of the peninsula (White Beach, Nubeena:
-wonderful scenery, green meadows, forests, lonely beaches) and at
+wonderful scenery, green meadows, forests, deserted beaches) and at
 Eaglehawk Neck walked to the various viewpoints along the imposing wild
 cliffs on the peninsula’s eastern side.
 
@@ -1125,7 +1068,7 @@ On the way back to the campsite we bought fresh seafood for a barbecue:
 snapper and trevally (the local fish), plus a whole big lobster at the
 bargain price of A\$8. Delicious.
 
-## 23 Feb 2005 — Huon Valley / Cockle Creek / Snug
+## 23 Feb 2005 – Huon Valley / Cockle Creek / Snug
 
 After a cappuccino at Maldini on Salamanca Square in Hobart we drove up
 to the Mt Nelson Lookout high above the city to enjoy the view, then
@@ -1206,7 +1149,7 @@ grassy pitch right by the sea with views of Bruny Island, a cosy kitchen
 where we could grill lamb fillet, and excellent modern facilities, all
 for A\$16.
 
-## 24 Feb 2005 — Bruny Island
+## 24 Feb 2005 – Bruny Island
 
 As our last stop before Hobart we did a day trip to Bruny Island, which
 we could already see from our campsite. The ferry crossing took only 15
@@ -1258,7 +1201,7 @@ fruit (strawberries, cherries, apricots), a piece of fish fillet, and
 lots of scallops, not only delicious here, but also abundant and
 therefore cheap.
 
-## 26 Feb 2005 — Hobart
+## 26 Feb 2005 – Hobart
 
 We spent the last two days in Hobart, Tasmania’s small, relaxed,
 beautifully located capital, which has plenty to offer: lots of
@@ -1366,7 +1309,7 @@ walk from the centre, a small hostel in a pretty old house and cheap
 shared areas weren’t always clean, and a lot of things (showers,
 internet…) could do with being fixed up.
 
-## 1 Mar 2005 — Tasmania: North‑East Coast / Launceston / back to Melbourne
+## 1 Mar 2005 – Tasmania: North‑East Coast / Launceston / back to Melbourne
 
 On Sunday morning, after a small breakfast and good coffee at Sal’s on
 Salamanca Place, we left Hobart in bright sunshine heading north on the
@@ -1471,7 +1414,7 @@ all the great fresh produce here you don’t have to be a genius to put
 good food on a plate. The fish fillet with ginger mash was tasty, as
 were the scallops in soy‑mirin sauce, but I suspect I could have managed
 to cook this just as well. With main courses at A\$20–25 it isn’t cheap,
-but eating well in a nice setting is still nice.
+but eating well in a nice setting is still a treat.
 
 We stayed again at the Launceston Backpackers and flew back to Melbourne
 the next morning (Virgin Blue, A\$58).
@@ -1481,7 +1424,7 @@ the next morning (Virgin Blue, A\$58).
   <em>Launceston Airport</em>
 </figure>
 
-## 3 Mar 2005 — Leaving Australia: Great Ocean Road / Ballarat / Geelong
+## 3 Mar 2005 – Leaving Australia: Great Ocean Road / Ballarat / Geelong
 
 I’m lying in a half‑empty plane (Thai Airways from Melbourne to
 Bangkok), with a whole row of seats to myself. A long‑haul flight really
@@ -1650,4 +1593,3 @@ east of Stuttgart.
 </figure>
 
 Good‑bye, Australia!
-
