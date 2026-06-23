@@ -13,35 +13,7 @@ A month exploring the islands of Fiji, including Nadi, the Coral Coast, and the 
 
 ---
 
-## 7 Nov 2004 — Sydney → Fiji
-
-The next ten days were mostly fairly uneventful. We did meet a few more
-nice people (Ty from London, Yael from Israel) but we didn’t go out
-nearly as much anymore, mainly because of money.
-
-In terms of sightseeing, Balmain is especially worth mentioning (a
-pretty neighbourhood with lots of cafés, shops and nice architecture)
-and Paddy’s Market, a big indoor market with clothes and food stalls
-that brings a slice of Asia to Sydney.
-
-I'm no longer sure whether the decision to go to Fiji with Elaine was
-the right one, even though I really like her; financially the whole
-thing is pretty risky. But above all it was about developing a plan to
-get out of Eva’s and King’s Cross and to escape the big city for a
-while.
-
-The last evening was strange: depending on the moment I felt a mix of
-wistfulness, indifference and excitement. Since the flight was early and
-we had to be at the airport at 5 a.m., we stayed up all night: one last
-time to O’Malleys, smoked some grass, and got the farewell ceremony over
-with. I was completely finished and dead tired when I got on the plane.
-
-Stupidly, it wasn’t a direct flight; we first had to go to Brisbane,
-where we had a two-hour layover that we drifted through in a trance. But
-the onward flight to Nadi (three hours) was fine, because we could
-sleep.
-
-## Fiji — Arrival
+## Fiji – Arrival
 
 Because of the time difference, we didn’t arrive in Fiji until around 5
 p.m., and spent the first night in a beach suburb of Nadi at the Tropic
@@ -54,7 +26,7 @@ In the evening we ran into Ty again, who’s on his way to South America
 and is spending a week in Fiji. We went out for a small bite to eat and
 decided to spend the next few days together.
 
-## 15 Nov 2004 — Fiji
+## 15 Nov 2004 – Fiji
 
 The week flew by. We took the bus (\$5) to the Coral Coast, where we
 spent the first three days at the Tubakula Resort. We had an entire
@@ -209,7 +181,7 @@ were all stoned.
 
 The next day we took Ty to the airport and drove further along King’s
 Road on Fiji’s north coast. This area is very untouristy and
-traditional, and the landscape is dreamlike.
+traditional, and the landscape is magnificent.
 
 <figure>
   <img src="photos/Fiji2004-0016.jpg" alt="Around Viti Levu - King's Road">
@@ -260,7 +232,7 @@ but in a pretty little double room with a balcony by the lake (\$50).
 
 </div>
 
-## 25 Nov 2004 — Levuka (Ovalau)
+## 25 Nov 2004 – Levuka (Ovalau)
 
 We spent another two nights at the Raintree Lodge and didn’t even make
 it to the nature reserve on the other side of the road. One day
@@ -453,14 +425,14 @@ paradise.
 
 </div>
 
-## 3 Dec 2004 — Fiji (end)
+## 3 Dec 2004 – Fiji (end)
 
 Today is our last day in Fiji. The last week wasn’t particularly
 eventful because Elaine got sick shortly after we left our paradise and
 headed back towards Viti Levu. We spent two nights at the Casablanca on
 the Coral Coast, mostly in the room, since the weather wasn’t great
 either. On Saturday it rained for the first time after three weeks of
-dream weather.
+glorious weather.
 
 Our plan was to spend the last few days on an island in the Mamanucas,
 so we spent another night in Nadi, this time at the Hotel Kennedy. Not
@@ -471,7 +443,7 @@ at no extra charge, which was very convenient given Elaine’s condition.
 We went with the cheapest island option, Mana Island (a one-hour boat
 ride from Nadi), a mistake, as it turned out. The boat ride (\$70
 return) was very beautiful; some of the islands we passed were the
-ultimate South Seas dream.
+ultimate South Seas fantasy.
 
 <div class="photo-row">
 
@@ -550,7 +522,7 @@ and, like all package-backpackers before they are shipped off to the
 islands, was staying at the Nadi Bay Resort.
 
 The hotel itself is quite nice, with two pools, good food and clean
-rooms. Still, the whole thing is basically a rip-off designed to take
+rooms. Still, the whole thing is essentially a rip-off designed to take
 money from inexperienced backpackers. Drinks and food were overpriced,
 as was the room, \$56 without a private bathroom, especially if you
 compare it with the less backpacker-oriented hotels nearby.
@@ -558,6 +530,5 @@ compare it with the less backpacker-oriented hotels nearby.
 And the atmosphere didn’t do much for me either. Package-backpackers
 generally aren’t my favourite people: they think they’re especially cool
 and individual because they have a backpack and are far away from home,
-but basically they don’t do anything different from your average
+but they don’t really do anything different from your average
 Mallorca package tourist.
-
