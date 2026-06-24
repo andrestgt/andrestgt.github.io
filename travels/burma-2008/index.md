@@ -16,7 +16,7 @@ A journey through Burma / Myanmar in the difficult months after Cyclone Nargis, 
 
 ## 2 August 2008
 ### Rangoon
-The conditions for my second visit to the Land of the Golden Pagodas couldn’t have been much worse. Tourism had already dropped sharply after last September’s unrest, and then in May this year the devastating cyclone Nargis dealt the industry another blow. Even online there was hardly any post-Nargis information about travelling in the country, because apparently almost no tourists were daring to come at the moment. I’d also heard a few stories about problems with visa applications, even refusals, but I had no trouble getting a 28-day visa at the embassy in Bangkok.
+The conditions for my second visit to the Land of the Golden Pagodas were not the best. Tourism had already dropped sharply after last September’s unrest, and then in May this year the devastating cyclone Nargis dealt the industry another blow. Even online there was hardly any post-Nargis information about travelling in the country, because apparently almost no tourists were daring to come at the moment. I’d also heard a few stories about problems with visa applications, even refusals, but I had no trouble getting a 28-day visa at the embassy in Bangkok.
 
 After the dramatic fall in visitor numbers, AirAsia now flies from Bangkok to Rangoon only three times a week. The flight (3,800 baht return) was still fairly full, with at most a dozen Westerners, and everything went smoothly.
 
@@ -54,7 +54,7 @@ Because we arrived on a Friday, we ended up at the Strand Hotel in the afternoon
   <em>Rangoon - Golden City Chetty</em>
 </figure>
 
-We spent the second day at Kandawgyi Lake, then visited the Shwedagon Pagoda, which is still, on a second visit too, one of the highlights of Southeast Asia.
+We spent the second day at Kandawgyi Lake, then visited the Shwedagon Pagoda ($5), which is still, on a second visit too, one of the highlights of Southeast Asia.
 
 We ended the day with dinner at the atmospheric Sandy’s, a slightly more upmarket but completely unpretentious restaurant with attentive service, traditional Burmese food, and a very nice location with a lakeside terrace at Kandawgyi. The place is clearly suffering from the lack of tourists and didn’t have every dish from its long menu available, but what did arrive was good and not overpriced. I ordered duck eggs stuffed with minced prawns (3,000k++) and a duck curry (4,000k++). Burmese cuisine, unlike that of its neighbours, definitely isn’t one of the world’s great cuisines, but Sandy’s is probably rightly considered one of the best Burmese restaurants in the city.
 
@@ -63,7 +63,7 @@ We ended the day with dinner at the atmospheric Sandy’s, a slightly more upmar
   <em>Rangoon - Sandy's</em>
 </figure>
 
-You can get a perfectly decent cappuccino for 1,500 kyat at Café Aroma on Sule Paya Road. This Burmese take on a café chain would pass for a canteen elsewhere, but in Rangoon city centre it’s genuinely one of the smarter options.
+You can get a perfectly decent cappuccino for 1,500 kyat at Café Aroma on Sule Paya Road. This Burmese take on a café chain would pass for a canteen elsewhere, but in Rangoon city centre it really is one of the smarter options.
 
 <div class="photo-row">
 
@@ -201,7 +201,7 @@ But since we didn’t get back to Kinpun until three in the afternoon, we decide
 ### Moulmein
 Yesterday we took the train to Moulmein. It was a spontaneous decision: the pick-up truck from Kinpun dropped us at the station in Kyaikto, and five minutes later the train to Moulmein rolled in.
 
-Train travel in Burma is usually slower than the bus, and also much more expensive, because foreigners have to pay a higher fare (in US dollars); but travelling in Upper Class is probably the most comfortable way to get around the country. You get better views and can actually enjoy the scenery, unlike on the uncomfortable buses. The carriages are easily fifty years old and have clearly never been refurbished, but the seats are still very comfortable, there’s loads of legroom, and the windows are huge. It’s a wonderfully atmospheric, nostalgic way to travel: the train rattles along at a gentle pace on narrow tracks, and some stretches are barely less bumpy than a horse cart. The trip to Moulmein cost $10, took just over four hours (this was the express), and the scenery was excellent. Again and again you pass simple villages of bamboo huts, where ox carts and horse carts wait for customers at tiny stations, and children wave at the passing train. Before Moulmein the train crosses a three-kilometre bridge over the Salween River, and as you approach the new station you get wonderful views of the tropical port city and the pagodas on the hills above it.
+Train travel in Burma is usually slower than the bus, and also much more expensive, because foreigners have to pay a higher fare (in US dollars); but travelling in Upper Class is probably the most comfortable way to get around the country. You get better views and can enjoy the scenery, unlike on the uncomfortable buses. The carriages are easily fifty years old and have clearly never been refurbished, but the seats are still very comfortable, there’s loads of legroom, and the windows are huge. It’s a wonderfully atmospheric, nostalgic way to travel: the train rattles along at a gentle pace on narrow tracks, and some stretches are barely less bumpy than a horse cart. The trip to Moulmein cost $10, took just over four hours (this was the express), and the scenery was excellent. Again and again you pass simple villages of bamboo huts, where ox carts and horse carts wait for customers at tiny stations, and children wave at the passing train. Before Moulmein the train crosses a three-kilometre bridge over the Salween River, and as you approach the new station you get wonderful views of the tropical port city and the pagodas on the hills above it.
 
 <div class="photo-row">
 
@@ -356,7 +356,7 @@ We made the most of the room and didn’t check out until noon. Back at the bus 
 
 Interestingly, this night bus was not only ridiculously cheap (5,000k), it was also by far the most comfortable form of transport I’d seen in Burma: a super-modern minibus, less than half full, with comfortable seats and distinguished passengers. Anyone who knows this country will understand why the whole situation felt as surreal to us as it did.
 
-After the last two days, though, nothing in this country really surprises me anymore, and Naypyidaw itself is the most bizarre part of the whole experience. There are a few larger government buildings, surprisingly modest, and beyond that the place consists of scattered residential quarters that, though brand new, look like European social housing and seem mostly empty. The whole city is lifeless: hardly any traffic on the wide boulevards, almost never any pedestrians, and no city centre. The liveliest place is the bus terminal, where there’s a market and a few teashops. You’d think the junta would have enough money to build a proper capital from scratch, but perhaps too much cash went into the brand-new four-lane highway connecting Naypyidaw to Rangoon, an utterly insane project, given that hardly anyone but government officials and the military is allowed to use it.
+After the last two days, though, nothing in this country really surprises me anymore, and Naypyidaw itself is the most bizarre part of the whole experience. Our many motorbike-taxi trips to the bus terminals of Naypyidaw and Pyinmana gave us plenty of chance to get an overview of the “city”, but for the life of me I couldn’t make sense of it. There are a few larger government buildings, surprisingly modest, and beyond that the place consists of scattered residential quarters that, though brand new, look like European social housing and seem mostly empty. The whole city is lifeless: hardly any traffic on the wide boulevards, almost never any pedestrians, and no city centre. The liveliest place is the bus terminal, where there’s a market and a few teashops. You’d think the junta would have enough money to build a proper capital from scratch, but perhaps too much cash went into the brand-new four-lane highway connecting Naypyidaw to Rangoon, an utterly insane project, given that hardly anyone but government officials and the military is allowed to use it.
 
 <div class="photo-row">
 
@@ -483,7 +483,7 @@ The Viewpoint, in a beautiful two-storey building by the river, is not only one 
 
 </div>
 
-At the Golden Kite you get genuinely good homemade pasta dishes, like gnocchi in basil butter, as good as anything I’ve had in Italy. And a bottle of Burmese shiraz for just $10 went down beautifully with it.
+At the Golden Kite you get really good homemade pasta dishes, like gnocchi in basil butter, as good as anything I’ve had in Italy. And a bottle of Burmese shiraz for just $10 went down beautifully with it.
 
 ## 20 August 2008
 ### Bagan
