@@ -14,16 +14,15 @@ A journey through Burma from Rangoon to Mandalay, Hsipaw, Bagan, and south to Ng
 
 ---
 
-## Days 1–3 — Rangoon
+## Days 1–3 – Rangoon
 
 We spent three fairly relaxed days in this pleasant, interesting
 metropolis, which offers Southeast Asian flair, crumbling colonial
 architecture and golden pagodas. The main attraction is the justifiably
-world-famous Shwedagon Pagoda (US \$5), whose sheer scale only becomes
+world-famous Shwedagon Pagoda (US$5), whose sheer scale only becomes
 apparent once you have climbed the many steps up to the platform.
 Otherwise it was simply a pleasure to stroll through the attractive rows
-of buildings and soak up the atmosphere. A walk through the park and the
-eponymous market is well worth it. The area around Sule Pagoda in the
+of buildings and soak up the atmosphere. A walk through Bogyoke Aung San Park and the eponymous market is well worth it. The area around Sule Pagoda in the
 city centre is attractive, too.
 
 <div class="photo-row">
@@ -72,7 +71,7 @@ city centre is attractive, too.
 
 White House: a traveller hotspot close to the centre. Small, simple
 rooms with shared bathroom, fairly clean. The generous breakfast was
-included in the pricey room rate (US \$7 per person).
+included in the pricey room rate (US$7 per person).
 
 ### Food
 
@@ -84,7 +83,7 @@ decent but nothing special.
 Bus journey from Rangoon to Shwenyaung (air-conditioned bus, 6,000 k, 18
 h), then by taxi on to Nyaungshwe.
 
-## Days 5–6 — Inle Lake
+## Days 5–6 – Inle Lake
 
 After 18 exhausting hours on a decidedly uncomfortable bus, we arrived
 in Nyaungshwe, the main village of the Inle region, about five
@@ -140,7 +139,7 @@ ended with a swim in the shallow but pleasantly cool lake.
 
 ### Accommodation
 
-Joy Guesthouse (US \$6 for a double room): simple, but with a wonderful
+Joy Guesthouse (US$6 for a double room): simple, but with a wonderful
 shared veranda over the canal.
 
 ### Food
@@ -150,7 +149,7 @@ nice atmosphere in bungalows by the canal. Terrible pineapple juice!
 
 Mingalar Café served fantastic strawberry shakes.
 
-## Days 7–8 — Kalaw
+## Days 7–8 – Kalaw
 
 Pick-up truck ride to Shwenyaung (200 k, 30 min), then a pick-up truck
 to Kalaw (800 k, 2.5 h).
@@ -188,7 +187,7 @@ situated viewpoint restaurant.
 ### Accommodation
 
 Golden Kalaw Inn: bright, spacious room with en-suite and large balcony,
-US \$6.
+US$6.
 
 ### Food
 
@@ -197,7 +196,7 @@ Mediocre food at Everest Nepali Food Center.
 The seven-hour night bus ride to Mandalay went by (as usual) while we
 slept.
 
-## Day 9 — Mandalay
+## Day 9 – Mandalay
 
 I’d heard that Mandalay doesn’t live up to the romantic, exotic clichés
 people attach to the name. Nevertheless, Mandalay is an interesting,
@@ -209,7 +208,7 @@ to the essentials: sunset on Mandalay Hill with great views over the
 city, the Mahamuni Pagoda with the country’s second-holiest Buddha
 image, as well as Mingun and Amarapura, two nearby towns.
 
-Mingun (US \$3) is fairly touristy and is a 45-minute boat ride on the
+Mingun (US$3) is fairly touristy and is a 45-minute boat ride on the
 Ayeyarwady from Mandalay. The unfinished Mingun Paya, which you can also
 climb, is impressive. The highlight of Amarapura is the U Bein Bridge,
 the longest teakwood bridge in the world (1.2 km). On the far side,
@@ -271,10 +270,10 @@ the bridge is an unforgettable experience.
 ### Accommodation
 
 Royal Guesthouse: so clean you could eat off the floor. Nice rooms for
-US \$6 (without bathroom) or US \$10 (with bathroom and air
+US$6 (without bathroom) or US$10 (with bathroom and air
 conditioning). Great value for the money.
 
-## Day 11 — Pyin Oo Lwin (Maymyo)
+## Day 11 – Pyin Oo Lwin (Maymyo)
 
 This former colonial hill station has a pleasant climate and a large
 population from the Indian subcontinent. Public transport here operates
@@ -308,10 +307,10 @@ though.
 
 ### Accommodation
 
-Grace Hotel 2: right by the clock tower, clean rooms for US \$5. Shared
+Grace Hotel 2: right by the clock tower, clean rooms for US$5. Shared
 facilities were pretty poor.
 
-## Days 12–16 — Hsipaw
+## Days 12–16 – Hsipaw
 
 After a short ride to the railway station in one of the magnificent
 horse-drawn carriages, we took the train to Hsipaw. An interesting
@@ -348,7 +347,7 @@ of the area.
 ### Accommodation
 
 Mr Charles Guesthouse is the travellers’ hangout in Hsipaw. The rooms
-are good, though overpriced (US \$8 with bathroom). The nice terrace is
+are good, though overpriced (US$8 with bathroom). The nice terrace is
 the evening gathering place for travellers. The management is
 professional, organises boat trips and hands out free hiking maps for
 the surrounding area.
@@ -364,9 +363,9 @@ Brothers.
 
 Bus ride to Bagan (3,100 k, 9 h).
 
-## Days 17–19 — Bagan
+## Days 17–19 – Bagan
 
-Burma’s biggest tourist attraction (US \$10) is this vast collection of
+Burma’s biggest tourist attraction (US$10) is this vast collection of
 more than 800-year-old temples and pagodas on the dry plain of Bagan. A
 fascinating place, whose exploration by bicycle along dusty tracks was
 great fun. Because we were here in the hot season, we often had many of
@@ -398,7 +397,7 @@ fascinating.
 ### Accommodation
 
 Yar Kinn Thar Hotel: clean mid-range rooms with air conditioning, TV
-and bathroom at guesthouse prices (US \$10 double room). Good location
+and bathroom at guesthouse prices (US$10 double room). Good location
 on the road to Old Bagan and close to many restaurants.
 
 ### Food
@@ -409,7 +408,7 @@ Indian, Italian and Burmese food; the quality was decent and the prices
 moderate. The vegetarian restaurant next to Yar Kinn Thar served
 dirt-cheap cocktails (350 k!).
 
-## Day 20 — Pyay
+## Day 20 – Pyay
 
 Pyay is one of the largest cities in the country, but you’d never guess
 it from the view from the magnificent golden Shwesandaw Pagoda on a hill
@@ -453,13 +452,13 @@ rested. Pick-up truck from Thandwe to Ngapali Beach (200 k, 20 min).
 
 </div>
 
-## Days 21–25 — Ngapali Beach
+## Days 21–25 – Ngapali Beach
 
 Surprisingly few travellers visit Burma’s most famous beach resort,
 which by now has a decent tourist infrastructure. The reason the beach
 is still a well-kept secret may well be the two dreadful, long bus
 journeys you have to endure to get here from Rangoon or Pyay, unless
-you want to spend US \$75 on a one-way flight.
+you want to spend US$75 on a one-way flight.
 
 Ngapali Beach is paradise on earth: a long, wide sandy beach lined with
 coconut palms, which you usually have almost entirely to yourself. In
@@ -491,7 +490,7 @@ Beach has become one of my absolute favourite destinations.
 Linn Thar Oo: the only decent budget option directly on the beach. A
 fairly large but still pleasant resort with a wide range of bungalows
 and rooms in different price categories. We had what must have been the
-cheapest room, for US \$4 per person, in a simple wooden hut in the
+cheapest room, for US$4 per person, in a simple wooden hut in the
 second row, with an outdoor shower, perfectly adequate for our
 purposes. A good, fairly extensive breakfast buffet was included in the
 rate.
@@ -515,14 +514,14 @@ BBQ lobster: €4–6
 Overnight bus journey along the coast via Gwa to Rangoon (5,000 k, 13
 h).
 
-## Day 26 — Rangoon
+## Day 26 – Rangoon
 
 Relaxing in Rangoon. This time we stayed at Motherland Inn 2, in my
 opinion a better choice than the White House. It is about a 20-minute
 walk from the city centre, but very friendly and clean, and the dorm
-beds for US \$3 are among the cheapest places in town.
+beds for US$3 are among the cheapest places in town.
 
-## Day 27 — Kyaikto
+## Day 27 – Kyaikto
 
 In the morning we took the bus to Kinpun (3,000 k, 5 h). In the
 afternoon we took a pick-up truck to the second camp, from where the
@@ -550,15 +549,15 @@ mind.
 
 Sea Sar Guesthouse in the Kinpun base camp is made up of several
 bungalows of varying quality. The best ones, with air conditioning and
-private bathroom, could be had for just US \$7 after extensive
+private bathroom, could be had for just US$7 after extensive
 bargaining. The furnishings are fairly basic, but it is good value.
 
-## Day 28 — Bago
+## Day 28 – Bago
 
 In the morning we took the bus to Bago (1,500 k, 4 h). This provincial
 town not too far from Rangoon is a popular tourist destination because
 of its numerous famous pagodas, for which you’d have had to pay a flat
-entrance fee of US \$10. After travelling almost the entire country, the
+entrance fee of US$10. After travelling almost the entire country, the
 prospect of paying that much money just to see yet more pagodas was not
 especially appealing, so we decided that a look from the outside would
 have to do. Otherwise, Bago is a rather unspectacular provincial town,
@@ -581,5 +580,5 @@ perfectly pleasant, but certainly not a “must-see”.
 ## Statistics
 
 Number of nights: 22\
-Accommodation per person: US \$94\
+Accommodation per person: US$94\
 Time spent on public transport (excluding flights): 101 hours
