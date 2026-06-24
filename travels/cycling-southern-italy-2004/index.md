@@ -1753,7 +1753,7 @@ were passing Capri.
 
 We arrived in Naples in the morning and took the midday boat to Ischia
 (€13 + €3 for the bike). It’s a lovely trip across the bay, with great
-views of beautifully sited Naples.
+views of beautifully located Naples.
 
 <figure>
   <img src="photos/CyclingSouthernItaly2004-0140.jpg" alt="Ferry - Catania-Napoli">
