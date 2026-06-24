@@ -1,13 +1,13 @@
 ---
 layout: default
 section: travels
-title: "Burma 2009 - Along the Upper Irrawaddy"
+title: "Burma 2009 – Along the Upper Irrawaddy"
 subtitle: "Rangoon | Toungoo | Mandalay | Myitkyina | Bhamo | Katha | Pyin Oo Lwin"
 date: 2009-01-14
 photos_locked: true
 ---
 
-# Burma 2009 - Along the Upper Irrawaddy
+# Burma 2009 – Along the Upper Irrawaddy
 **January 2009**
 
 A journey through northern Burma / Myanmar along the Upper Irrawaddy, from Rangoon and Mandalay to Myitkyina, Bhamo and Katha.
@@ -205,7 +205,7 @@ The bus to Bhamo was one of those irritating rip-offs that seem to have become i
 
 Bhamo is a remote provincial town and, as far as we could tell, has only a single hotel that is authorised to accommodate foreigners. At Friendship Hotel, somewhat worn rooms with a modest shared bathroom cost US$7 per person; for a double room with a private bathroom they ask for a whopping US$25. The breakfast included in the price, however, was very good, a lavish buffet, as you’d expect in a mid-range hotel.
 
-Bhamo is smaller, more traditional, and more Buddhist than Myitkyina. Strand Road along the Irrawaddy has a certain charm, with most buildings still made of wood. If you follow the riverside road north and turn left behind the prison, you reach Shwe Kyina Pagoda after about an hour, with a miniature version of the famous Golden Rock. The main attraction here, though, is the almost clichédly beautiful landscape, with brilliantly green rice fields along the Irrawaddy. A few minutes from the pagoda, a bamboo bridge, hundreds of metres long and built in a traditional style, leads to an island in the river. In the soft afternoon light the area looks absolutely glorious, and it makes for a wonderful walk, the perfect way to spend an afternoon in Bhamo. On the way back we had dinner at the simple Sein Sein on Strand Road, one of the few real restaurants in town, again with cheap Chinese-influenced food and draught beer. The pork paprika (1,900 kyat) was perfectly decent.
+Bhamo is smaller, more traditional, and more Buddhist than Myitkyina. Strand Road along the Irrawaddy has a certain charm, with most buildings still made of wood. If you follow the riverside road north and turn left behind the prison, you reach Shwe Kyina Pagoda after about an hour, with a miniature version of the famous Golden Rock. The main attraction here, though, is the almost clichédly beautiful landscape, with brilliantly green rice fields along the Irrawaddy. A few minutes from the pagoda, a bamboo bridge, hundreds of metres long and built in a traditional style, leads to an island in the river. In the soft afternoon light the area looked absolutely glorious, and it made for a wonderful walk, the perfect way to spend an afternoon in Bhamo. On the way back we had dinner at the simple Sein Sein on Strand Road, one of the few real restaurants in town, again with cheap Chinese-influenced food and draught beer. The pork paprika (1,900 kyat) was perfectly decent.
 
 <div class="photo-row">
 
@@ -348,7 +348,7 @@ Unfortunately we did not find a single good restaurant. When the vegetables tast
 
 </div>
 
-From Katha there were three ways back to Mandalay: about a fifteen-hour bus ride on a rattling local bus; the big ferry down the Irrawaddy, which at the moment runs on an erratic schedule because the water level is low, and takes a very long time; and finally the good old trains, though the nearest station is in Naba, 25 kilometres west of Katha. We chose the last option and took the 2 p.m. bus to Naba, which over an hour to cover the short distance on an atrocious road.
+From Katha there were three ways back to Mandalay: about a fifteen-hour bus ride on a rattling local bus; the big ferry down the Irrawaddy, which at the moment runs on an erratic schedule because the water level is low, and takes a very long time; and finally the good old trains, though the nearest station is in Naba, 25 kilometres west of Katha. We chose the last option and took the 2 p.m. bus to Naba, which took a good hour to cover the short distance on an atrocious road.
 
 Since you cannot reserve train tickets in Katha and we definitely wanted to travel Upper Class, we simply tried our luck as early as we could, because we had been told that four trains, at 4 p.m., 6 p.m., 8 p.m., and midnight, were supposed to arrive in Naba each day. The 4 p.m. train, unfortunately, did not exist at all; the 6 p.m. train was an hour and a half late and full; on the 8 p.m. train we were lucky enough to find two seats in Upper Class (US$20), and that one was even fairly punctual and the journey took only eleven hours.
 
@@ -356,7 +356,7 @@ We spent the five hours in Naba, as so often in Burma, waiting and drinking tea 
 
 ## Mandalay and its surroundings
 
-After a bumpy overnight train ride we arrived in Mandalay early in the morning and checked into E.T. Hotel again. After a good, cheap breakfast at the famous chapati stand (corner of 82nd/27th), we rented bicycles and set off to explore the city. We went down to the Irrawaddy waterfront first. There are plenty of basic teashops with no view, but further south there are also a few pleasant beer gardens with verandas. After that we visited Shwe In Bin Monastery, which lies in one of the prettiest neighbourhoods of an otherwise rather faceless city that seems to go on forever, one of the few areas where a short walk is genuinely worthwhile. From there we went a few kilometres south of the centre to Mahamuni Pagoda, then had lunch at Café Brolly, a fairly upmarket café-restaurant in a quiet area not far from the eastern palace walls. It served perfectly decent Thai and Western dishes at moderate prices (3,000–5,000 kyat), fresh fruit shakes, and had a shady courtyard, the ideal place for a midday break before visiting the pagodas around Mandalay Hill.
+After a bumpy overnight train ride we arrived in Mandalay early in the morning and checked into E.T. Hotel again. After a good, cheap breakfast at the famous chapati stand (corner of 82nd/27th), we rented bicycles and set off to explore the city. We went down to the Irrawaddy waterfront first. There are plenty of basic teashops with no view, but further south there are also a few pleasant beer gardens with verandas. After that we visited Shwe In Bin Monastery, which lies in one of the prettiest neighbourhoods of an otherwise rather faceless city that seems to go on forever, one of the few areas where a short walk is really worthwhile. From there we went a few kilometres south of the centre to Mahamuni Pagoda, then had lunch at Café Brolly, a fairly upmarket café-restaurant in a quiet area not far from the eastern palace walls. It served perfectly decent Thai and Western dishes at moderate prices (3,000–5,000 kyat), fresh fruit shakes, and had a shady courtyard, the ideal place for a midday break before visiting the pagodas around Mandalay Hill.
 
 This is the part of Mandalay where the city finally lives up to its exotic name, and to whatever a romantic might want to associate with it. Splendid monasteries and pagodas sit close together here, away from the noise and the Chinese-style concrete blocks that dominate the rest of town. The views are magnificent, especially at sunset from the viewing platforms on Mandalay Hill.
 
