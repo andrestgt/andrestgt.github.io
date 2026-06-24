@@ -16,7 +16,7 @@ A cycling tour around the Mediterranean island of Sardinia.
 
 **16 June – 8 July 2005**
 
-## **Day 1 — 16 June — 44 km**
+## **Day 1 – 16 June – 44 km**
 
 **Olbia – Porto Cervo – Baia Sardinia**
 
@@ -61,7 +61,7 @@ down, we eventually decided to take a small, far-too-expensive room
 (€100) at Hotel Il Gemmello in Baia Sardinia. Still, breakfast the next
 morning was, by Italian standards, very good, and included in the price.
 
-## **Day 2 — 17 June — 60 km**
+## **Day 2 – 17 June – 60 km**
 
 **Baia Sardinia – Cannigione – Palau – Santa Teresa**
 
@@ -113,7 +113,7 @@ gelato.
   <em>Santa Teresa</em>
 </figure>
 
-## **Day 3 — 18 June — 67 km**
+## **Day 3 – 18 June – 67 km**
 
 **Santa Teresa – Valledoria**
 
@@ -162,7 +162,7 @@ Achim didn’t
 even make it as far as this and had to stop at a hotel before the long
 climb up to Padduleddu.
 
-## **Day 4 — 19 June — 40 km**
+## **Day 4 – 19 June – 40 km**
 
 **Valledoria – Castelsardo – Marina di Sorso**
 
@@ -205,11 +205,11 @@ flat through a pine forest, parallel to an almost endless sandy
 beach, towards Porto Torres. We spent the night halfway along the route
 at the huge Camping Li Nibar in Marina di Sorso.
 
-## **Day 5 — 20 June — 72 km**
+## **Day 5 – 20 June – 72 km**
 
 **Marina di Sorso – Porto Torres – Fertilia – Alghero**
 
-For once, the day felt fairly relaxed.. The remaining kilometres to
+For once, the day felt fairly relaxed. The remaining kilometres to
 Porto Torres, an unappealing port town, were mostly flat, and the spur
 road through the interior towards Alghero was only gently hilly, though
 the scenery wasn’t particularly interesting. Alghero, on the other hand,
@@ -252,7 +252,7 @@ on the coast. Despite the undemanding route today, Achim decided to
 abandon the tour and fly back the next day with Ryanair. We still
 explored the old town at length, had an aperitif at Mirador on the
 walls, and ate an indulgent dinner at Il Macchiavello, good food served
-with a dream view from the ramparts over the Gulf of Alghero and the
+with a magnificent view from the ramparts over the Gulf of Alghero and the
 setting sun (Antipasti Sardi, Zupetta di Cozze, swordfish carpaccio and
 horse steak (€10), plus seafood risotto with porcini (€22 for two)).
 
@@ -261,12 +261,12 @@ horse steak (€10), plus seafood risotto with porcini (€22 for two)).
   <em>Alghero</em>
 </figure>
 
-## **Day 6 — 21 June — 58 km**
+## **Day 6 – 21 June – 58 km**
 
 **Alghero – Bosa – Turas**
 
 So today I continued alone, and looking at the route profile, I began to
-wonder whether I should have flown back as well.. Fifty kilometres of
+wonder whether I should have flown back as well. Fifty kilometres of
 breathtaking coastal road through a sun-blasted emptiness, a true
 rollercoaster of steep climbs, long descents and grand panoramas,
 eventually brought me to Bosa: a truly pretty, laid-back little town on
@@ -341,7 +341,7 @@ kilometres to the south-west, at Marina di Bosa, there was a nice wide
 sandy beach, and in a small inland valley a quiet campsite, where I
 stopped for the night.
 
-## **Day 7 — 22 June — 86 km**
+## **Day 7 – 22 June – 86 km**
 
 **Turas – Cuglieri – Oristano – Marina di Arborea**
 
@@ -380,7 +380,7 @@ wide; unfortunately it was closed for the foreseeable future, so I had to
 wild-camp on a motorhome parking area by the beach at Arborea. No shower
 today, then.
 
-## **Day 8 — 23 June — 71 km**
+## **Day 8 – 23 June – 71 km**
 
 **Arborea – Guspini – Arbus – Portixeddu**
 
@@ -402,7 +402,7 @@ descent down to the coast was wonderful, though, just like the landscape
 in this region, which I hadn’t been able to appreciate on the way up. I
 stayed the night at the small Camping Ortus di Mari in Portixeddu.
 
-## **Day 9 — 24 June — 97 km**
+## **Day 9 – 24 June – 97 km**
 
 **Portixeddu – Nebida – Portoscuso – Carloforte (ferry) – Calasetta
 (ferry) – Sant’Antioco – Porto Pino**
@@ -449,7 +449,7 @@ Sardinia’s prettiest fishing village and was the perfect place to spend
 the hottest hours of the day. The town is famous for tuna specialities,
 so of course I couldn’t resist trying Tonno alla Carloforte in one of
 the many restaurants, tuna steak in a tomato, sage and basil sauce. Very
-tasty. The town itself is genuinely lovely too, with colourful pastel
+tasty. The town itself is really lovely too, with colourful pastel
 houses and plenty of street cafés by deep-blue sea.
 
 <div class="photo-row">
@@ -499,7 +499,7 @@ mainland. Then came about 20 kilometres of headwind (of course, when it’s
 flat for once, you get headwind) before I reached the campsite at Porto
 Pino.
 
-## **Day 10 — 25 June — 61 km**
+## **Day 10 – 25 June – 61 km**
 
 **Porto Pino – Costa del Sud – Santa Margherita di Pula**
 
@@ -533,7 +533,7 @@ there in the shade on the beautiful, if crowded, beach. In the afternoon
 I rode a little further towards Cagliari and stayed the night at the
 simple Camping Flumendosa in Santa Margherita di Pula.
 
-## **Day 11 — 26 June — 43 km**
+## **Day 11 – 26 June – 43 km**
 
 **Santa Margherita – Pula – Cagliari**
 
@@ -613,13 +613,13 @@ For dinner I went to another trattoria on Via Sardegna,
 unbelievably popular with both locals and tourists: Da Lillicu, where I
 treated myself to a tasty horse fillet (€10).
 
-## **Day 12 — 27 June — 95 km**
+## **Day 12 – 27 June – 95 km**
 
 **Cagliari – Villasimius – Costa del Rei – Capo Ferrato – Torre delle
 Saline**
 
 Another very hilly day along the scenic south coast to
-Villasimius, though its dream beach was so full you could hardly see the
+Villasimius, though its picture-perfect beach was so full you could hardly see the
 sand for sun loungers.
 
 <div class="photo-row">
@@ -661,12 +661,12 @@ good sanitary facilities (German-run), and exceptionally expensive (€13).
   <em>Capo Ferrato</em>
 </figure>
 
-## **Day 13 — 28 June — 90 km**
+## **Day 13 – 28 June – 90 km**
 
 **Muravera – Villaputzu – Tertenia – Tortolì – Lotzorai**
 
 By Sardinian standards, today was fairly relaxed: a gently rolling route
-through the lonely Salto di Quirra valley, away from the coast.
+through the remote Salto di Quirra valley, away from the coast.
 
 <figure>
   <img src="photos/CyclingSarde05-0237.jpg" alt="Salto di Quirra Valley">
@@ -686,7 +686,7 @@ The beach itself wasn’t particularly attractive, but it offered great
 views of the cliffs of the Golfo di Orosei and the Supramonte, the
 dramatic coastal mountains I’ll have to cross tomorrow.
 
-## **Day 14 — 29 June — 61 km**
+## **Day 14 – 29 June – 61 km**
 
 **Lotzorai – Baunei – Genna Silana – Cala Gonone**
 
@@ -738,7 +738,7 @@ o’clock.
 
 The views on the way up were already impressive, but the descent
 was absolutely spectacular: vistas over Gola su Gorruppu (at 500 metres,
-Europe’s deepest gorge), lonely mountain scenery as far as the eye could
+Europe’s deepest gorge), empty mountain scenery as far as the eye could
 see, and a 23-kilometre drop all the way down to the coast at Cala
 Gonone, the tourist centre of the Golfo di Orosei, hemmed in by high
 mountains.
@@ -751,7 +751,7 @@ mountains.
 The campsite was expensive but cosy, and at the harbour I
 booked a boat trip along the cliffs for the next day.
 
-## **Day 15 — 30 June**
+## **Day 15 – 30 June**
 
 A rest day, then, after yesterday’s pass crossing. I have to say,
 though: after the boat trip, with swimming and constant sun exposure, I
@@ -868,7 +868,7 @@ unforgettable moments that make a trip.
   <em>Golfo di Orosei</em>
 </figure>
 
-## **Day 16 — 1 July — 62 km**
+## **Day 16 – 1 July – 62 km**
 
 **Cala Gonone – Dorgali – Orosei – Santa Lucia**
 
@@ -901,7 +901,7 @@ night at Camping La Mandragola in the pine forest near the quiet little
 fishing village of Santa Lucia, right by a long, dazzling white-sand
 beach that stretches for four kilometres to the next town, La Caletta.
 
-## **Day 17 — 2 July — 60 km**
+## **Day 17 – 2 July – 60 km**
 
 **Santa Lucia – La Caletta – Posada – Budoni – San Teodoro – Lu Impostu
 – Porto della Taverna**
@@ -909,8 +909,7 @@ beach that stretches for four kilometres to the next town, La Caletta.
 My plan today was to leave the bike behind again and head inland for a
 bit, but I wasn’t prepared to pay €40 for a battered 125cc scooter, so I
 carried on towards Olbia, with plenty of stops. First in the old town of
-Posada, picturesquely crowned by a castle on a hill, a genuinely
-original, cosy place, despite its proximity to the tourist centres of
+Posada, picturesquely crowned by a castle on a hill, a truly original, cosy place, despite its proximity to the tourist centres of
 Baronia.
 
 <figure>
@@ -959,7 +958,7 @@ I made my last stop before Olbia at
 the cosy Camping Tavolara, which also had an above-average
 restaurant, with fantastic mussels (€5.50) and wood-fired pizza.
 
-## **Day 18 — 3 July — 28 km**
+## **Day 18 – 3 July – 28 km**
 
 **Porto della Taverna – Olbia – Cugnana**
 
@@ -981,7 +980,7 @@ rest of the time at the pool, but most of it. I do still have a few aims,
 though: a thorough exploration of the Costa Smeralda and the Aranci
 peninsula, plus Olbia.
 
-## **Days 19–23 — 4 July – 8 July — 102 km**
+## **Days 19–23 – 4 July – 8 July – 102 km**
 
 The last days were exactly as I’d imagined. I spent two days by the
 pool, reading and doing absolutely nothing else. On Monday I cycled the
