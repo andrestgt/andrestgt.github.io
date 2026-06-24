@@ -50,13 +50,13 @@ best-preserved ancient sites anywhere.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0003.jpg" alt="Pompei">
-      <em>Pompei</em>
+      <img src="photos/CyclingSouthernItaly2004-0003.jpg" alt="Pompeii">
+      <em>Pompeii</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0004.jpg" alt="Pompei">
-      <em>Pompei</em>
+      <img src="photos/CyclingSouthernItaly2004-0004.jpg" alt="Pompeii">
+      <em>Pompeii</em>
     </figure>
 
 </div>
@@ -67,13 +67,13 @@ of Europe’s most important sights.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0005.jpg" alt="Pompei">
-      <em>Pompei</em>
+      <img src="photos/CyclingSouthernItaly2004-0005.jpg" alt="Pompeii">
+      <em>Pompeii</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0006.jpg" alt="Pompei">
-      <em>Pompei</em>
+      <img src="photos/CyclingSouthernItaly2004-0006.jpg" alt="Pompeii">
+      <em>Pompeii</em>
     </figure>
 
 </div>
@@ -81,13 +81,13 @@ of Europe’s most important sights.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0007.jpg" alt="Pompei">
-      <em>Pompei</em>
+      <img src="photos/CyclingSouthernItaly2004-0007.jpg" alt="Pompeii">
+      <em>Pompeii</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0008.jpg" alt="Pompei">
-      <em>Pompei</em>
+      <img src="photos/CyclingSouthernItaly2004-0008.jpg" alt="Pompeii">
+      <em>Pompeii</em>
     </figure>
 
 </div>
@@ -97,8 +97,8 @@ commercial sprawl to Castellammare, where the coastal road along the
 Sorrento Peninsula begins.
 
 <figure>
-  <img src="photos/CyclingSouthernItaly2004-0009.jpg" alt="Castellamare">
-  <em>Castellamare</em>
+  <img src="photos/CyclingSouthernItaly2004-0009.jpg" alt="Castellammare">
+  <em>Castellammare</em>
 </figure>
 
 The coastline here may not be quite as
@@ -669,8 +669,8 @@ Spiaggia di Arco Naturale, a natural rock arch where the coast almost
 felt like the Algarve.
 
 <figure>
-  <img src="photos/CyclingSouthernItaly2004-0053.jpg" alt="Cilento - Spaggia di Arco Naturale">
-  <em>Cilento - Spaggia di Arco Naturale</em>
+  <img src="photos/CyclingSouthernItaly2004-0053.jpg" alt="Cilento - Spiaggia di Arco Naturale">
+  <em>Cilento - Spiaggia di Arco Naturale</em>
 </figure>
 
 After Marina di Camerota the route turned into tight, steep hairpins for
@@ -736,13 +736,13 @@ picturesque little bays of black sand.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0058.jpg" alt="Basilikata Coast">
-      <em>Basilikata Coast</em>
+      <img src="photos/CyclingSouthernItaly2004-0058.jpg" alt="Basilicata Coast">
+      <em>Basilicata Coast</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0059.jpg" alt="Basilikata Coast">
-      <em>Basilikata Coast</em>
+      <img src="photos/CyclingSouthernItaly2004-0059.jpg" alt="Basilicata Coast">
+      <em>Basilicata Coast</em>
     </figure>
 
 </div>
@@ -755,13 +755,13 @@ Italian regions, starting in Campania and finishing in Calabria.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0060.jpg" alt="Basilikata Coast">
-      <em>Basilikata Coast</em>
+      <img src="photos/CyclingSouthernItaly2004-0060.jpg" alt="Basilicata Coast">
+      <em>Basilicata Coast</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0061.jpg" alt="Basilikata Coast">
-      <em>Basilikata Coast</em>
+      <img src="photos/CyclingSouthernItaly2004-0061.jpg" alt="Basilicata Coast">
+      <em>Basilicata Coast</em>
     </figure>
 
 </div>
@@ -771,8 +771,8 @@ almost endless stretch of grey beach, unfortunately not particularly
 attractive, with the Isola di Dino just offshore.
 
 <figure>
-  <img src="photos/CyclingSouthernItaly2004-0062.jpg" alt="Basilikata Coast">
-  <em>Basilikata Coast</em>
+  <img src="photos/CyclingSouthernItaly2004-0062.jpg" alt="Basilicata Coast">
+  <em>Basilicata Coast</em>
 </figure>
 
 Behind the narrow
@@ -1011,7 +1011,7 @@ Bagnara itself, unfortunately, was far less pleasing to the eye.
 </div>
 
 The
-SS18 then ran right along the (genuinely beautiful) Costa Viola to
+SS18 then ran right along the (truly beautiful) Costa Viola to
 Scilla, by far the prettiest place in this area.
 
 <figure>
@@ -1447,7 +1447,7 @@ over Lipari Town and the whole bay.
 </div>
 
 To finish we went down to Lipari’s picturesque little harbour for a
-cappuccino. While the island is genuinely beautiful in places, Lipari
+cappuccino. While the island is really beautiful in places, Lipari
 Town itself is the big attraction here (surely one of the prettiest
 harbour towns in Italy, if not Europe) with its picture-perfect harbour
 setting, fine architecture and its castle perched on a rock above the
@@ -1666,8 +1666,8 @@ fairly unspoilt; both Aci Trezza and Aci Castello are pleasant little
 harbour towns with fishing fleets.
 
 <figure>
-  <img src="photos/CyclingSouthernItaly2004-0133.jpg" alt="Acitrezza">
-  <em>Acitrezza</em>
+  <img src="photos/CyclingSouthernItaly2004-0133.jpg" alt="Aci Trezza">
+  <em>Aci Trezza</em>
 </figure>
 
 In Aci Trezza we ate lunch at the seafood place La Combusa del Capitan.
@@ -1814,8 +1814,7 @@ views towards the cape in the west.
 
 The next town, Forio, is the favourite haunt of German package tourists:
 there are more signs in German than in Italian, and currywurst and
-filter coffee appear on more than one café menu. Even so, Forio is a
-genuinely pretty little harbour town, with a nice beach, few building
+filter coffee appear on more than one café menu. Even so, Forio is a lovely little harbour town, with a nice beach, few building
 horrors, and lovely piazzas lined with street cafés. If all
 package-holiday resorts looked like this, the world would be a better
 place. The setting is terrific too, beneath the green Monte Epomeo,
@@ -1909,8 +1908,7 @@ rain began, we decided to stop for lunch.
   <em>Ischia</em>
 </figure>
 
-Da Pasquale was a simple village pizzeria, but of course we ate
-extremely well here too: sautéed mussels (€8), a huge portion of
+Da Pasquale was a simple village pizzeria, but we ate extremely well here too: sautéed mussels (€8), a huge portion of
 marinated anchovies (€6.50) and a porcini pizza from the wood-fired
 oven.
 
@@ -1922,20 +1920,20 @@ the blue sea make the scene feel made for postcards.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0152.jpg" alt="Ischia - Spaggia di Maronti">
-      <em>Ischia - Spaggia di Maronti</em>
+      <img src="photos/CyclingSouthernItaly2004-0152.jpg" alt="Ischia - Spiaggia di Maronti">
+      <em>Ischia - Spiaggia di Maronti</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0153.jpg" alt="Ischia - Spaggia di Maronti">
-      <em>Ischia - Spaggia di Maronti</em>
+      <img src="photos/CyclingSouthernItaly2004-0153.jpg" alt="Ischia - Spiaggia di Maronti">
+      <em>Ischia - Spiaggia di Maronti</em>
     </figure>
 
 </div>
 
 <figure>
-  <img src="photos/CyclingSouthernItaly2004-0154.jpg" alt="Ischia - Spaggia di Maronti">
-  <em>Ischia - Spaggia di Maronti</em>
+  <img src="photos/CyclingSouthernItaly2004-0154.jpg" alt="Ischia - Spiaggia di Maronti">
+  <em>Ischia - Spiaggia di Maronti</em>
 </figure>
 
 Far less well-known, and not easy to reach at all, is Spiaggia di
@@ -1947,8 +1945,8 @@ beach too, one of them on stilts over the sea. Very atmospheric, a
 shame it was too cold for a quick swim.
 
 <figure>
-  <img src="photos/CyclingSouthernItaly2004-0155.jpg" alt="Ischia - Spaggia di Cartaromana">
-  <em>Ischia - Spaggia di Cartaromana</em>
+  <img src="photos/CyclingSouthernItaly2004-0155.jpg" alt="Ischia - Spiaggia di Cartaromana">
+  <em>Ischia - Spiaggia di Cartaromana</em>
 </figure>
 
 <figure>
@@ -2053,32 +2051,32 @@ sit mending nets or fixing their boats.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0168.jpg" alt="Procida - Corriccella">
-      <em>Procida - Corriccella</em>
+      <img src="photos/CyclingSouthernItaly2004-0168.jpg" alt="Procida - Corricella">
+      <em>Procida - Corricella</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0169.jpg" alt="Procida - Corriccella">
-      <em>Procida - Corriccella</em>
+      <img src="photos/CyclingSouthernItaly2004-0169.jpg" alt="Procida - Corricella">
+      <em>Procida - Corricella</em>
     </figure>
 
 </div>
 
-Procida’s jewel, the wonderfully sited fishing harbour of Corricella,
-brings all of that together in a way that’s genuinely fascinating. You
+Procida’s jewel, the wonderfully located fishing harbour of Corricella,
+brings all of that together in a way that’s absolutely fascinating. You
 can reach the waterfront only via steps or by boat, 1950s vibes in a
 postcard setting.
 
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0164.jpg" alt="Procida - Corriccella">
-      <em>Procida - Corriccella</em>
+      <img src="photos/CyclingSouthernItaly2004-0164.jpg" alt="Procida - Corricella">
+      <em>Procida - Corricella</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0165.jpg" alt="Procida - Corriccella">
-      <em>Procida - Corriccella</em>
+      <img src="photos/CyclingSouthernItaly2004-0165.jpg" alt="Procida - Corricella">
+      <em>Procida - Corricella</em>
     </figure>
 
 </div>
@@ -2090,13 +2088,13 @@ other to death here. Quite the opposite: Corricella is an oasis of calm.
 <div class="photo-row">
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0166.jpg" alt="Procida - Corriccella">
-      <em>Procida - Corriccella</em>
+      <img src="photos/CyclingSouthernItaly2004-0166.jpg" alt="Procida - Corricella">
+      <em>Procida - Corricella</em>
     </figure>
 
   <figure>
-      <img src="photos/CyclingSouthernItaly2004-0167.jpg" alt="Procida - Corriccella">
-      <em>Procida - Corriccella</em>
+      <img src="photos/CyclingSouthernItaly2004-0167.jpg" alt="Procida - Corricella">
+      <em>Procida - Corricella</em>
     </figure>
 
 </div>
@@ -2107,8 +2105,8 @@ excellent starters (octopus bruschetta, antipasto di mare) it was simply
 very solid, middle-of-the-road cooking at standard prices.
 
 <figure>
-  <img src="photos/CyclingSouthernItaly2004-0170.jpg" alt="Procida - Corriccella">
-  <em>Procida - Corriccella</em>
+  <img src="photos/CyclingSouthernItaly2004-0170.jpg" alt="Procida - Corricella">
+  <em>Procida - Corricella</em>
 </figure>
 
 As ever:
@@ -2291,7 +2289,7 @@ in full flood, hectic and loud, exactly as you imagine Naples.
 Back on
 Via Toledo at nearby Piazza Dante, we began our tour of the Centro
 Storico: first with a proper Neapolitan pizza and tasty antipasti at the
-long-established Port'Alba, by the city gate of the same name.
+long-established Port’Alba, by the city gate of the same name.
 
 We had our coffee in an expensive pavement café on Piazza Bellini, the
 prettiest square in the old town just around the corner. When you wander
@@ -2333,8 +2331,7 @@ one of Europe’s most beautiful and most interesting cities.
 
 </div>
 
-I actually
-liked it better than Rome or London. Naples still seems to suffer a
+I liked it even better than Rome or London. Naples still seems to suffer a
 little from its grubby image: in other cities of this calibre, hordes of
 tourists practically trample each other to death; in Naples, by
 contrast, tourists mostly pass through, so the city is still firmly in
