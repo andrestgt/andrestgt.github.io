@@ -14,17 +14,7 @@ A cycling journey from Bilbao through the South of France, then across Corsica.
 
 ---
 
-## Day 1 — 16 June
-...# Cycling Corsica
-**16 June – 6 July 2004**
-
-A cycling journey from Bilbao through the South of France, then across Corsica.
-
----
-
-16 June–6 July 2004
-
-## Day 1 — 16 June
+## Day 1 – 16 June
 
 HLX flight to Bilbao (€19.99). The holiday got off to a stressful start,
 because one of my bike panniers didn’t arrive at the airport. After
@@ -61,14 +51,14 @@ have to try a few bits and pieces. We chose the venerable, beautifully
 fitted-out Café Iruña.
 
 <figure>
-  <img src="photos/CyclingCorse2004-0003.jpg" alt="Bilbao - Café Iruna">
-  <em>Bilbao - Café Iruna</em>
+  <img src="photos/CyclingCorse2004-0003.jpg" alt="Bilbao - Café Iruña">
+  <em>Bilbao - Café Iruña</em>
 </figure>
 
-## Day 2 — 17 June
+## Day 2 – 17 June
 
 By car along the coast to San Sebastián. The coastal scenery of Biscay
-is, at times, dreamlike: green, forested headlands and unbelievably
+is, at times, magical: green, forested headlands and unbelievably
 beautiful bays with golden sand. For me, the stand-out spots were
 Urdaibai Biosphere Reserve at the mouth of the Ría de Gernika, with its
 great beaches, and the postcard-perfect, undeveloped Playa de Laga.
@@ -182,7 +172,7 @@ town.
   <em>San Sebastian - Casa Alcalde</em>
 </figure>
 
-## Day 3 — 18 June (88 km)
+## Day 3 – 18 June (88 km)
 
 San Sebastián — Irun — Biarritz — Hossegor\
 Thankfully my bike panniers were delivered during the night, so the tour
@@ -221,14 +211,13 @@ picturesque Lac de Hossegor, where excellent oysters are
 farmed, something we had already confirmed for ourselves in a restaurant
 in Hossegor.
 
-## Day 4 — 19 June (144 km)
+## Day 4 – 19 June (144 km)
 
 Hossegor — Lit-et-Mixe — Escources — Sabres — Roquefort\
 We had a tailwind across the flat emptiness of the Landes. Kilometre
 after kilometre of straight road, with forest or fields on either side,
 hardly any settlements; at least we made good time. At the start there
-were cycle paths as far as Lit-et-Mixe. Overnight at the rather lonely
-Camping Municipal in Roquefort (grass, very clean and good facilities),
+were cycle paths as far as Lit-et-Mixe. Overnight at the rather remote Camping Municipal in Roquefort (grass, very clean and good facilities),
 the only pretty little town for miles around.
 
 <figure>
@@ -236,7 +225,7 @@ the only pretty little town for miles around.
   <em>Roquefort</em>
 </figure>
 
-## Day 5 — 20 June (148 km)
+## Day 5 – 20 June (148 km)
 
 Roquefort — St Gor — Lavardac — Agen — Valence d’Agen — Moissac\
 Today was fairly flat again and, thanks to the favourable wind, pleasant
@@ -256,7 +245,7 @@ large grassy pitches with space to lie around.
   <em>Moissac</em>
 </figure>
 
-## Day 6 — 21 June (124 km)
+## Day 6 – 21 June (124 km)
 
 Moissac — Toulouse — Avignonet\
 Another mostly flat stage without much in the way of scenery. We covered
@@ -287,7 +276,7 @@ Midi, familiar territory by now, and pitched our tent at Camping du Radel
 near Avignonet. Nice grassy pitches, but basic, rather outdated
 facilities (only squat toilets). €8.30.
 
-## Day 7 — 22 June (100 km)
+## Day 7 – 22 June (100 km)
 
 Avignonet — Castelnaudary — Bram — Carcassonne — Homps — Oupia\
 Today was hilly almost the whole way, and a strong headwind made
@@ -323,7 +312,7 @@ through the gentle hills and vineyards of the Languedoc, via the pretty
 Canal du Midi village of Homps, to Oupia, where we stayed with Karin and
 Michael.
 
-## Day 8 — 23 June (114 km)
+## Day 8 – 23 June (114 km)
 
 Oupia — Béziers — Agde — Sète — Frontignan-Plage — Vic\
 Up to Béziers we continued through the lovely gentle hills of the
@@ -372,7 +361,7 @@ From Frontignan-Plage a pleasant
 cycle path led to our destination, Vic. Overnight at the simple Camping
 Clos Fleuri.
 
-## Day 9 — 24 June (147 km)
+## Day 9 – 24 June (147 km)
 
 Vic — Palavas — La Grande-Motte — Le Grau-du-Roi — Aigues-Mortes —
 Salin-de-Giraud — Fos — Port-de-Bouc\
@@ -425,7 +414,7 @@ progress, and there was a wide hard shoulder. Overnight at the Camping
 Municipal in Port-de-Bouc. Poor, dusty pitches, but good facilities and
 cheap (€6).
 
-## Day 10 — 25 June (82 km)
+## Day 10 – 25 June (82 km)
 
 Port-de-Bouc — Martigues — Sausset — Carry — Marseille\
 First we headed to Martigues, a fairly pretty Mediterranean town whose
@@ -549,7 +538,7 @@ ferry to Bastia on the sleek Danielle Casanova (with a pool!).
 
 </div>
 
-## Day 11 — 26 June (84 km)
+## Day 11 – 26 June (84 km)
 
 Bastia — Plage de la Marana — Ponte Leccia — Corte\
 We reached Bastia early in the morning and started with a bit of
@@ -619,7 +608,7 @@ the 2,000-metre peaks in our view still had patches of snow. A long
 climb took us up to 550 metres and through a tunnel. After the descent,
 Corte lay at our feet, the only significant town in the island’s
 interior, and also Corsica’s only university town. And yet Corte is
-hardly more than a large village in a dream setting: below sheer rock
+hardly more than a large village in a magnificent setting: below sheer rock
 faces and above the confluence of three rivers.
 
 <div class="photo-row">
@@ -669,7 +658,7 @@ Overnight at the pleasant Camping O Sognu with decent pitches (€14.50)
 and a great view of the town. Nice restaurant and good, rustic
 facilities in converted farm buildings.
 
-## Day 12 — 27 June (113 km)
+## Day 12 – 27 June (113 km)
 
 Corte — Aleria — Solenzara — Pinarellu\
 The morning stage to Aleria was, with few exceptions, a 50-kilometre
@@ -729,7 +718,7 @@ Camping Pinarellu, a little away from the beach but with decent pitches,
 good facilities and wood-fired pizza in the restaurant. Cheap by
 Corsican standards (€12.40).
 
-## Day 13 — 28 June (72 km)
+## Day 13 – 28 June (72 km)
 
 Pinarellu — Porto-Vecchio — Bonifacio — Pianottoli\
 After a coffee in the beautiful bay of Pinarellu, the day started off
@@ -808,7 +797,7 @@ pitched our tent at Camping Le Domier, unfortunately quite a long way off
 our route down towards the beach. Average pitches, decent facilities,
 fairly cheap (€9.20).
 
-## Day 14 — 29 June (75 km)
+## Day 14 – 29 June (75 km)
 
 Pianottoli — Sartène — Propriano — Serra-di-Ferro\
 Breakfast came in the form of a long climb from the campsite back up to
@@ -869,11 +858,11 @@ sits on a hill high above the sea and offers lovely views, good pitches
 and decent solar-powered facilities; sadly, it was far too expensive
 (€20.60).
 
-## Day 15 — 30 June (74 km)
+## Day 15 – 30 June (74 km)
 
 Serra-di-Ferro — Portiglio — Ajaccio\
 The first part of the day was all about long, steep climbs and descents
-through lonely, beautiful coastal mountains on the narrow D155, which
+through empty, beautiful coastal mountains on the narrow D155, which
 was in miserable condition in places. First we climbed to a belvedere
 with wonderful views over the Anse d’Orzo; then we climbed again, past
 Aqua Doria, followed by a long descent down to Portiglio, the first town
@@ -897,8 +886,7 @@ beautiful was the long Plage d’Agosta with views of Ajaccio. To get into
 the city we had to take a four-lane approach road, but it wasn’t a
 problem. We first cycled through Ajaccio and continued along the
 Corniche by the coast towards the Îles Sanguinaires. Here as well, the
-coastal scenery was wonderful with plenty of beaches, Ajaccio’s own local
-beach. Because we didn’t like the campsite (and it was also quite far
+coastal scenery was wonderful with plenty of beaches, effectively Ajaccio’s local beaches. Because we didn’t like the campsite (and it was also quite far
 from the centre), we rode back into Ajaccio and took a room at Hôtel Le
 Dauphin by the harbour: €60 with breakfast for a simple but pleasant
 room with an en-suite bathroom, balcony and TV. In the afternoon we set
@@ -933,7 +921,7 @@ the kefimi (€8.50), but the Corsican charcuterie (€12) and especially
 the cheese with fig jam were outstanding too. Very attentive, friendly
 service.
 
-## Day 16 — 1 July (84 km)
+## Day 16 – 1 July (84 km)
 
 Ajaccio — Cargèse — Piana — Porto\
 To begin with, it was uphill for a long time, over two cols, to more
@@ -998,7 +986,7 @@ the dark-blue shimmering sea.
 
 After leaving the Calanches behind, the
 road passed through forest and opened up almost equally magnificent
-views over the dreamlike Gulf of Porto. We spent the night at the simple
+views over the glorious Gulf of Porto. We spent the night at the simple
 but beautifully located Camping Le Porto (€12) on the D81.
 
 <figure>
@@ -1006,12 +994,12 @@ but beautifully located Camping Le Porto (€12) on the D81.
   <em>Camping Le Porto</em>
 </figure>
 
-## Day 17 — 2 July (92 km)
+## Day 17 – 2 July (92 km)
 
 Porto — Calvi\
 Today was all long climbs and descents on narrow, rough mountain and
 coastal lanes through the spectacular wild landscape of north-west
-Corsica. The views were fantastic: Highlights included the red rocks of
+Corsica. The views were fantastic: highlights included the red rocks of
 the Scandola peninsula and Girolata, Corsica’s only village without a
 road connection.
 
@@ -1129,7 +1117,7 @@ Overnight at Camping Le Castor (\*\*\*) very close to town and beach.
 Expensive (€20) as high season had begun, but with beautiful grassy
 pitches and excellent facilities.
 
-## Day 18 — 3 July (85 km)
+## Day 18 – 3 July (85 km)
 
 Calvi — Île-Rousse — St Florent — Marina de Farinole\
 From Calvi we took the very hilly national road to Île-Rousse. First we
@@ -1195,7 +1183,7 @@ and average facilities (€15).
   <em>Cap Corse</em>
 </figure>
 
-## Day 19 — 4 July (82 km)
+## Day 19 – 4 July (82 km)
 
 Marina de Farinole — Nonza — Pino — Luri — Erbalunga — Bastia\
 The first 35 kilometres were on fantastic roads carved into the rock
@@ -1255,7 +1243,7 @@ had an excellent Moroccan dinner at Le Zagora on a little balcony
 overlooking the old harbour: pastilla with pigeon (€13.50) and couscous
 royal (€20.50). Not cheap, but delicious, and very friendly service.
 
-## Day 20 — 5 July (Epilogue — 33 km)
+## Day 20 – 5 July (Epilogue – 33 km)
 
 Bastia — Nice — Cagnes\
 We took the 08:00 ferry (Corsica Ferries) to Nice and reached the
@@ -1290,6 +1278,6 @@ crêpes (€7.90) and dim sum. Main courses: moules au basilic piquantes
 (€13) and a duo of scallops and beef prepared on a sizzling platter
 (€15.50).
 
-## Day 21 — 6 July
+## Day 21 – 6 July
 
 Return flight with dba from Nice to Stuttgart (€66 including the bike).
