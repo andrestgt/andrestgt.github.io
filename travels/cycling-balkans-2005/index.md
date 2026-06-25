@@ -14,7 +14,7 @@ A bicycle journey from Venice through the western Balkans to Hungary.
 ---
 
 
-## Day 1 — 1 Aug — 54 km
+## Day 1 – 1 Aug – 54 km
 
 *Venice Airport – Jesolo – Cortellazzo – Caorle*
 
@@ -36,7 +36,7 @@ new.
   <em>Around Jesolo</em>
 </figure>
 
-## Day 2 — 2 Aug — 94 km
+## Day 2 – 2 Aug – 94 km
 
 *Caorle – Latisana – Ronchi – Monfalcone*
 
@@ -50,7 +50,7 @@ We spent the night in the very basic Hotel alla Carlina on the SS14 at
 the entrance to Monfalcone. The room (€48) was old-fashioned but
 functional, and came with a large balcony.
 
-## Day 3 — 3 Aug — 75 km
+## Day 3 – 3 Aug – 75 km
 
 *Monfalcone – Trieste – Basovizza – Kozina – Obrov*
 
@@ -88,8 +88,8 @@ chard and a potato-and-rocket salad (€13). And Ice Café served some of
 the best ice cream I’ve ever eaten.
 
 <figure>
-  <img src="photos/CyclingBalkans2005-0026.jpg" alt="Bassovizza - Trattoria alla Pesa">
-  <em>Bassovizza - Trattoria alla Pesa</em>
+  <img src="photos/CyclingBalkans2005-0026.jpg" alt="Basovizza - Trattoria alla Pesa">
+  <em>Basovizza - Trattoria alla Pesa</em>
 </figure>
 
 Across the border the road ran through green, rolling hills, mostly
@@ -105,7 +105,7 @@ suckling pig (1100 SIT) and grilled calamari (1300 SIT).
   <em>Slovenian Countryside</em>
 </figure>
 
-## Day 4 — 4 Aug — 98 km
+## Day 4 – 4 Aug – 98 km
 
 *Obrov – Rijeka – Crikvenica*
 
@@ -115,9 +115,9 @@ to Rijeka, hilly and generally uphill to the Croatian border, followed
 by a long descent down to the coast.
 
 Once we reached Rijeka, the rain stopped for the first time and it was
-just about warm enough to sit in a street café. The big, hectic port
+just about warm enough to sit in a outdoor café. The big, hectic port
 city isn’t much to look at overall, except for Korzo: a long, wide
-pedestrian zone with a few handsome façades and cosy street cafés that
+pedestrian zone with a few handsome façades and cosy outdoor cafés that
 were packed even in this miserable weather.
 
 <figure>
@@ -144,7 +144,7 @@ Crikvenica: 200 Kuna for a simple room with kitchen and bathroom.
   <em>Kvarner Gulf - Adria Magistrale</em>
 </figure>
 
-## Day 5 — 5 Aug — 105 km
+## Day 5 – 5 Aug – 105 km
 
 *Crikvenica – Senj – Jablanac – Rab*
 
@@ -187,7 +187,7 @@ pleasant, thanks to the busy main road running right along the water.
 We ate tasty mussels (50 K) and a very average risotto nero (50 K) in
 friendly Konoba Stari Grad. The next 40 kilometres to Jablanac were much
 more demanding than the earlier stretch, and just as spectacular. It
-was kilometres of climbing, with dream views of Rab, Krk, Pag and almost
+was kilometres of climbing, with spectacular views of Rab, Krk, Pag and almost
 the whole Kvarner island world.
 
 <div class="photo-row">
@@ -253,7 +253,7 @@ Finding a room was a bit of a challenge: many places were full, and most
 wouldn’t rent for just one night. After some asking around we did manage
 to find something decent and close to the old town for 120 K p.p.
 
-## Day 6 — 6 Aug — 69 km
+## Day 6 – 6 Aug – 69 km
 
 *Rab – Lun – Pag – Dinjista*
 
@@ -325,7 +325,7 @@ Kamp Milka: more the garden of a private house than a campsite, tiny,
 with grassy pitches right by the sea and good toilet and shower
 facilities (100 K). Beautiful.
 
-## Day 7 — 7 Aug — 74 km
+## Day 7 – 7 Aug – 74 km
 
 *Dinjista – Zadar – Preko – Tkon – Biograd*
 
@@ -340,7 +340,7 @@ old town, enclosed and largely ringed by fortifications, is one of
 Dalmatia’s tourist highlights, and on this August Sunday it was
 accordingly packed and busy. The whole area is car-free, with paths
 partly paved in polished marble. The prettiest piazzas and lanes are
-blessed with countless street cafés: ideal for people-watching.
+blessed with countless outdoor cafés: ideal for people-watching.
 
 <figure>
   <img src="photos/CyclingBalkans2005-0137.jpg" alt="Zadar">
@@ -375,7 +375,7 @@ Dinner at friendly and very popular Restaurant Guste around the corner
 was excellent: both the mussels (60 K/kg) and the very generous seafood
 platter (90 K).
 
-## Day 8 — 8 Aug — 120 km
+## Day 8 – 8 Aug – 120 km
 
 *Biograd – Šibenik – Primošten – Marina – Seget Donji*
 
@@ -459,7 +459,7 @@ We also ate very well at the friendly Konoba Rico with a large grill:
 delicious ćevapčići (32 K) and a whole grilled fish (70 K). Cheap and
 good, and in a great atmosphere.
 
-## Day 9 — 9 Aug — 98 km
+## Day 9 – 9 Aug – 98 km
 
 *Seget Donji – Kaštela – Omiš – Makarska*
 
@@ -561,7 +561,7 @@ We had another excellent dinner at Gostionica Mondo, a friendly grill
 place near the beach: calf’s liver (45 K) and grilled calamari (60 K),
 plus Šopska salad (20 K) and mussels (50 K).
 
-## Day 10 — 10 Aug — 39 km
+## Day 10 – 10 Aug – 39 km
 
 *Makarska – Sumartin – Bol – Jelsa*
 
@@ -613,7 +613,7 @@ must be rather picturesque.
 
 Bol itself is picturesque even in high season: one of those typically
 secluded coastal towns that give Croatia its particular charm. Naturally
-it also has plenty of street cafés along the waterfront. In the nicest
+it also has plenty of outdoor cafés along the waterfront. In the nicest
 of them, the chic, extremely comfortable cocktail bar Varadero, I spent
 almost the whole afternoon nursing a good but expensive cappuccino.
 
@@ -641,7 +641,7 @@ twist. Fine frog’s legs Thai-style (48 K), a mixed fish platter (140 K),
 and leg of lamb in rosemary sauce (110 K). Not cheap, but a welcome
 change from Dalmatian standard cooking.
 
-## Day 11 — 11 Aug — 50 km
+## Day 11 – 11 Aug – 50 km
 
 *Jelsa – Stari Grad – Hvar – Split – Kaštela*
 
@@ -713,7 +713,7 @@ simple private room for €10 per person.
   <em>Split</em>
 </figure>
 
-## Day 12 — 12 Aug — 37 km
+## Day 12 – 12 Aug – 37 km
 
 *Kaštela – Trogir – Marina*
 
@@ -738,7 +738,7 @@ delicious whole grilled fish (135 K).
   <em>Marina</em>
 </figure>
 
-## Day 13 — 26 Aug — 50 km
+## Day 13 – 26 Aug – 50 km
 
 *Split – Vela Luka – Korčula*
 
@@ -782,7 +782,7 @@ Overnight in a very central private room, too expensive at 300 Kuna,
 but with a splendid view of the old-town core and the Pelješac peninsula
 opposite.
 
-## Day 14 — 27 Aug — 62 km
+## Day 14 – 27 Aug – 62 km
 
 *Korčula – Orebić – Trstenik – Polače – Babino Polje*
 
@@ -830,7 +830,7 @@ up to 500 metres, in full sun with little shade, tough.
   <em>Peljesac Island</em>
 </figure>
 
-A wonderful descent into dreamily situated Trstenik compensated a little
+A wonderful descent into beautifully situated Trstenik compensated a little
 for the effort. From the small town a car ferry left at 14:30 for Polače
 on Mljet. I used the waiting time for a swim in the crystal-clear sea,
 followed by a small lunch snack, a wonderful risotto nero (60 Kuna) at
@@ -888,7 +888,7 @@ Aside from the topography it was pleasant enough: hardly any traffic and
 plenty of shade. I camped at a cosy little campsite in Babino Polje high
 up on the mountain (45 Kuna).
 
-## Day 15 — 28 Aug — 70 km
+## Day 15 – 28 Aug – 70 km
 
 *Babino Polje – Sobra – Dubrovnik – Cavtat – Dubrovnik*
 
@@ -968,7 +968,7 @@ the Placa must be magical.
 
 </div>
 
-## Day 16 — 29 Aug — 73 km
+## Day 16 – 29 Aug – 73 km
 
 *Dubrovnik – Neum*
 
@@ -977,7 +977,7 @@ as a few weeks ago. The entire stretch between Dubrovnik and the Bosnian
 corridor ran through very deserted country, without a single larger town
 along the way.
 
-Scenically the coast is gorgeous here as well: lonely pebble bays, views
+Scenically the coast is gorgeous here as well: deserted pebble bays, views
 of the Elaphiti and Pelješac. The road, as expected, was hilly
 throughout, though without huge height differences.
 
@@ -1013,7 +1013,7 @@ person.
   <em>Hercegovina - Neum</em>
 </figure>
 
-## Day 17 — 30 Aug — 80 km
+## Day 17 – 30 Aug – 80 km
 
 *Neum – Opuzen – Metković – Počitelj – Mostar*
 
@@ -1131,7 +1131,7 @@ the Croatian coastal towns, that was an unusual experience.
 
 </div>
 
-We had dinner on the dream terrace of Restaurant Mlinica above the
+We had dinner on the magnificent terrace of Restaurant Mlinica above the
 river: grilled mushrooms (6 KM) and Bosnian gurmanak, an extremely
 hearty dish of mixed meats and mushrooms baked in a huge pita (13 KM).
 Very tasty, but far too much.
@@ -1150,7 +1150,7 @@ Very tasty, but far too much.
 
 </div>
 
-## Day 18 — 31 Aug — 80 km
+## Day 18 – 31 Aug – 80 km
 
 *Mostar – Jablanica – Konjic – Sarajevo*
 
@@ -1236,7 +1236,7 @@ mind. A solid Šopska salad (5 KM), a huge platter of grilled vegetables
 (9 KM), and some equally generous portions of Kapten Kuk: calamari
 skewers with chard and black risotto (15 KM).
 
-## Day 19 — 1 Sep — Rest day
+## Day 19 – 1 Sep – Rest day
 
 *Sarajevo*
 
@@ -1268,7 +1268,7 @@ Ottomans, the Habsburgs and Yugoslav socialism.
 Food-wise, Sarajevo still has some catching up to do compared with other
 metropolises. Yes, it has the best börek and ćevapčići in the Balkans, 
 the simple little places where you can devour these specialities are
-institutions, everywhere), but in terms of international and fusion
+institutions everywhere, but in terms of international and fusion
 cooking the city still lags a bit. Still, things are moving: at Mash Eat
 Club, outwardly inconspicuous on the first floor of a shabby socialist
 building but styled inside in a chic big-city look, I got a generous
@@ -1302,7 +1302,7 @@ The best cappuccino cost a steep 3 KM at Caffè Vatra in prime location
 on Ferhadija. Lovely interior; good macchiato and very cheap cakes and
 tortes at Wiener Café (Baščaršija).
 
-## Day 20 — 2 Sep — 115 km
+## Day 20 – 2 Sep – 115 km
 
 *Sarajevo – Visoko – Zenica – Topčić Polje*
 
@@ -1357,9 +1357,9 @@ for 30 KM it was fine. The food here was also quite decent and cheap.
   <em>Bosna Valley</em>
 </figure>
 
-## Day 21 — 3 Sep — 130 km
+## Day 21 – 3 Sep – 130 km
 
-*Topčić Polje – Zepče – Zavidoviči – Moglaj – Doboj – Jakeš*
+*Topčić Polje – Žepče – Zavidoviči – Maglaj – Doboj – Jakeš*
 
 Another day following the Bosna: up to Žepče on the M17, then through
 very rural country on a quiet side road with poor surface along the
@@ -1394,13 +1394,13 @@ salads, a huge pljeskavica stuffed with sheep’s cheese, grilled
 mushrooms, delicious homemade chips, noodle soup, water, and a small
 bottle of Montenegrin Chardonnay, all together for 28 marks.
 
-## Day 22 — 4 Sep — 94 km
+## Day 22 – 4 Sep – 94 km
 
 *Jakeš – Modriča – Bosanska Šamac – Vinkovci – Vukovar*
 
 After about 20 kilometres along the Bosna, Bosanska Šamac, the border
 town to Croatia, appeared. It at least has a pleasant little pedestrian
-zone with lots of street cafés.
+zone with lots of outdoor cafés.
 
 <figure>
   <img src="photos/CyclingBalkans2005-0741.jpg" alt="Bosanska Samac">
@@ -1412,8 +1412,8 @@ to Vinkovci, a rather pretty Baroque town where we stopped for lunch.
 After Bosnia everything suddenly felt very Central European and tidy.
 
 <figure>
-  <img src="photos/CyclingBalkans2005-0743.jpg" alt="Vincovci">
-  <em>Vincovci</em>
+  <img src="photos/CyclingBalkans2005-0743.jpg" alt="Vinkovci">
+  <em>Vinkovci</em>
 </figure>
 
 After a good lunch (grilled chicken, mushrooms and Šopska salad for 62
@@ -1446,7 +1446,7 @@ some ruins are often used as cafés.
 </figure>
 
 Yet despite being a ruined city, life goes on here as normal: the usual
-supermarkets, boutiques and street cafés, and even a nice riverside
+supermarkets, boutiques and outdoor cafés, and even a nice riverside
 excursion restaurant.
 
 We stayed in the brand-new 4-star Hotel Luv right next to a burnt-out
@@ -1460,7 +1460,7 @@ cappuccino for 5 Kuna and a Long Island Iced Tea for 22 Kuna. If we
 hadn’t had such a lovely room, I could have spent the whole evening
 there.
 
-## Day 23 — 5 Sep — 92 km
+## Day 23 – 5 Sep – 92 km
 
 *Vukovar – Ilok – Bačka Palanka – Novi Sad*
 
@@ -1516,12 +1516,12 @@ renovated old town completely closed to cars.
   <em>Novi Sad</em>
 </figure>
 
-Prices are very low: in a street café you pay just 60 dinars for a large
+Prices are very low: in a outdoor café you pay just 60 dinars for a large
 beer. There are also some good bars tucked into side streets off the
 pedestrian zone, like Martha’s Pub, very bohemian, where in the
 evening I had a cheap piña colada for 200 dinars.
 
-## Day 24 — 6 Sep — 84 km
+## Day 24 – 6 Sep – 84 km
 
 *Novi Sad – Petrovaradin – Sremski Karlovci – Inđija – Belgrade*
 
@@ -1592,7 +1592,7 @@ minutes’ walk from Belgrade’s main promenade and shopping street, Knez
 Mihailova. Simple but good rooms with bathroom and satellite TV, 
 excellent value for money at €33.
 
-## Day 25 — 7 Sep — 37 km
+## Day 25 – 7 Sep – 37 km
 
 *Belgrade (city day)*
 
@@ -1620,7 +1620,7 @@ has been damaged in so many wars that you can’t really call it beautiful
 as a whole. That doesn’t mean there aren’t pretty corners in the centre.
 
 Knez Mihailova really is lovely, with handsome façades and dozens of
-street cafés. Also very nice is the large city park with the medieval
+outdoor cafés. Also very nice is the large city park with the medieval
 citadel on the hill above the rivers, offering fine views. The old
 bohemian quarter Skadarlija is pleasant too, with cobbled lanes and many
 restaurants and cafés.
@@ -1669,7 +1669,7 @@ away and even got a few cocktails on the house, but even the paid
 cocktails were very cheap (195 dinars) and competently mixed. Very nice
 people, these Serbs.
 
-## Day 26 — 8 Sep — 140 km
+## Day 26 – 8 Sep – 140 km
 
 *Belgrade – Zrenjanin – Srpska Crnja*
 
@@ -1685,7 +1685,7 @@ standards, so we made good progress.
 
 The only real attraction was the pleasant provincial town of Zrenjanin,
 where we stopped for lunch. A tidy, agreeable place with a long
-pedestrian zone and a respectable number of cosy street cafés.
+pedestrian zone and a respectable number of cosy outdoor cafés.
 
 <div class="photo-row">
 
@@ -1728,7 +1728,7 @@ spacious, atmospheric rooms for a good-value 2,200 dinars with
 breakfast. Dinner and drinks were also very cheap, though of course it
 was only the usual stuff: grilled meat, naturally.
 
-## Day 27 — 9 Sep — 57 km
+## Day 27 – 9 Sep – 57 km
 
 *Srpska Crnja – Jimbolia – Timişoara*
 
@@ -1825,11 +1825,11 @@ We stayed at Hotel Central (true to its name, perfectly located fifty
 metres from the pedestrian zone) with good, newly renovated rooms for
 €47 including breakfast.
 
-## Day 28 — 10 Sep — 120 km
+## Day 28 – 10 Sep – 120 km
 
 *Timişoara – Sânnicolau Mare – Szeged*
 
-Another flat stage through lonely agricultural country, with a tailwind
+Another flat stage through empty agricultural country, with a tailwind
 and very good roads, at least up to the border. On the Hungarian side
 it was less pleasant.
 
@@ -1851,7 +1851,7 @@ Tisza into the centre.
 Szeged is a splendid little town with many architecturally impressive
 buildings from the Austro-Hungarian era. It feels very well kept and
 tranquil, it lacks, perhaps, the slightly shabby charm of Eastern
-Europe. The street cafés along the beautiful pedestrian zone are more in
+Europe. The outdoor cafés along the beautiful pedestrian zone are more in
 a Central European café tradition, in a kind of Viennese coffeehouse
 style.
 
@@ -1885,7 +1885,7 @@ forints) and fish soup (700 forints), grilled goose liver (2,500
 forints), veal fillet with goose liver (1,900 forints), and a divine
 Szeged crêpe for dessert, plus excellent Hungarian Chardonnay.
 
-## Day 29 — 11 Sep — 108 km
+## Day 29 – 11 Sep – 108 km
 
 *Szeged – Baja*
 
@@ -1919,7 +1919,7 @@ a half-litre of beer was 250 Ft, plus a generous portion of tasty,
 viciously hot tacos for 1,290 Ft. We had a nice modern room at Pension
 Kaiser for 9,000 Ft.
 
-## Day 30 — 12 Sep — 93 km
+## Day 30 – 12 Sep – 93 km
 
 *Baja – Mohács – Pécs*
 
@@ -1999,7 +1999,7 @@ We stayed at the charming little Kishotel Ábrahám in a quiet corner of
 the old town. The pretty room with every comfort cost 9,800 Ft, a good
 deal.
 
-## Day 31 — 13 Sep — 83 km
+## Day 31 – 13 Sep – 83 km
 
 *Pécs – Barcs – Koprivnica*
 
@@ -2025,7 +2025,7 @@ accommodation. The room was perfectly fine, but at almost 500 kuna it
 was definitely too expensive. At least we won’t have far to go for the
 train tomorrow.
 
-## Days 31–32 — 14–15 Sep — 25 km
+## Days 31–32 – 14–15 Sep – 25 km
 
 *Koprivnica – Zagreb – Stuttgart*
 
