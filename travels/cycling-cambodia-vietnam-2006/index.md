@@ -20,7 +20,7 @@ We arrived in Bangkok in the afternoon and took a taxi to Prince Hotel on New Pe
 
 ## Day 2 – March 4
 
-In the morning we took an AirAsia flight to Phnom Penh (€20). It was a short flight; the bicycles were transported at no extra charge and arrived without any issues. Visa formalities at the airport were surprisingly quick, and before nine o’clock we were already back on our bikes, cycling the ten kilometres into the city. Traffic in Phnom Penh has increased noticeably in recent years, but the roads have also become wider and better. Official traffic rules do not really exist in Cambodia, yet beneath the apparent chaos there are unwritten ones. If you keep to them and ride in a relaxed but alert way, cycling in Phnom Penh isn’t a problem at all. We took a room at River Star Hotel on Sisowath Quay, roughly comparable in standard to the night before, but in a prime spot: spacious, with air-conditioning and TV. The building is already a little past its prime and our room had no window, but at US$20 it was the best room we could find along the riverfront.
+In the morning we took an AirAsia flight to Phnom Penh (€20). It was a short flight; the bicycles were transported at no extra charge and arrived without any issues. Visa formalities at the airport were surprisingly quick, and before nine o’clock we were already back on our bikes, cycling the ten kilometres into the city. Traffic in Phnom Penh has increased noticeably in recent years, but the roads have also become wider and better. Official traffic rules do not really exist in Cambodia, yet beneath the apparent chaos there are unwritten ones. If you keep to them and ride in a relaxed but alert way, cycling in Phnom Penh isn’t a problem at all. We took a room at River Star Hotel on Sisowath Quay, roughly comparable in standard to the night before, but in a prime spot: spacious, with air-conditioning and TV. The building is already a little past its prime and our room had no window, but at US$20 it was the best room we could find along the riverfront; I’d already looked at several others.
 
 <div class="photo-row">
 
@@ -104,7 +104,7 @@ The day continued with two-for-one cocktails (US$4.50) on the terrace of the atm
 
 ## Day 3 – March 5 (48 km)
 
-Today we were properly riding for the first time and headed out to the Killing Fields of Choeung Ek, well out in the countryside beyond the city. Phnom Penh’s main roads are now in very good shape, but the final stretch to the memorial is a rough, dusty back road. Since I’d already visited the far less touristy Killing Field near Battambang six years ago, the sight of the Khmer Rouge’s bones and rags was nothing new to me, and yet you still can’t really grasp what must have happened here, not so very long ago. What was shocking too was the number of package tourists and the thoughtless idiocy with which they handed out money and sweets to the begging children. On the way back into town we took a slightly different route and approached from the south along the river, then recovered with a refreshing pomelo-and-mint juice in the wonderfully shady garden of Boddhi Tree opposite S-21. After yesterday’s dolce vita, today was more sobering, because that, too, is Cambodia. The former Khmer Rouge prison and interrogation centre is a disturbing place, full of images that stay with you, both on the walls and in your head as you walk through the cells.
+Today we were properly riding for the first time and headed out to the Killing Fields of Choeung Ek, well out in the countryside beyond the city. Phnom Penh’s main roads are now in very good shape, but the final stretch to the memorial is a rough, dusty back road. Since I’d already visited the far less touristy Killing Field near Battambang six years ago, the sight of the bones and rags left from the Khmer Rouge years was nothing new to me, and yet you still can’t really grasp what must have happened here, not so very long ago. What was shocking too was the number of package tourists and the thoughtless idiocy with which they handed out money and sweets to the begging children. On the way back into town we took a slightly different route and approached from the south along the river, then recovered with a refreshing pomelo-and-mint juice in the wonderfully shady garden of Boddhi Tree opposite S-21. After yesterday’s dolce vita, today was more sobering, because that, too, is Cambodia. The former Khmer Rouge prison and interrogation centre is a disturbing place, full of images that stay with you, both on the walls and in your head as you walk through the cells.
 
 <div class="photo-row">
 
@@ -252,7 +252,7 @@ We left Kampong Cham via the huge new Mekong bridge and followed Highway 7 for a
   <em><a href="https://maps.google.com/?q=11.51254,106.01199" target="_blank" rel="noopener">Tay Ninh Province</a></em>
 </figure>
 
-The remaining stretch to Tay Ninh was pancake-flat and, apart from a few short sections with roadworks, fast and easy. Tay Ninh felt fairly prosperous: a modern provincial city with broad boulevards and many new shopfronts, a pleasant enough place with nice street cafés, though not much charm otherwise. We took a room at Anh Dao Hotel. It was a bit worn, but spacious, reasonably clean and good value at 140,000 dong, more than enough for a night. Our first meal in Vietnam, a true gourmet paradise, immediately made us want more. Even though Than Thuy was a simple, standard place, “standard” in Vietnam is a pleasure. There was no English menu; we ordered more or less at random and ended up with, among other things, a very fine beef hotpot with good-quality meat, for very little money.
+The remaining stretch to Tay Ninh was pancake-flat and, apart from a few short sections with roadworks, fast and easy. Tay Ninh felt fairly prosperous: a modern provincial city with broad boulevards and many new shopfronts, a pleasant enough place with nice outdoor cafés, though not much charm otherwise. We took a room at Anh Dao Hotel. It was a bit worn, but spacious, reasonably clean and good value at 140,000 dong, more than enough for a night. Our first meal in Vietnam, a true gourmet paradise, immediately made us want more. Even though Than Thuy was a simple, standard place, “standard” in Vietnam is a pleasure. There was no English menu; we ordered more or less at random and ended up with, among other things, a very fine beef hotpot with good-quality meat, for very little money.
 
 <figure>
   <img src="photos/CyclingVietnam06-0115.jpg" alt="Tay Ninh - Thanh Thuy">
@@ -411,7 +411,7 @@ In the afternoon we explored the centre again on foot in daylight. Saigon is a s
 
 To reach the place I’d chosen for dinner we had to head back into District 3. It was a long trek up Pasteur Street, quite a way from the city centre, but this area has a number of open-air places that look very inviting and are frequented almost exclusively by locals. I’d picked Huong Dong because it’s known for unusual meat dishes; at the entrance we were greeted by an iguana on the grill. Still, the real highlights were the “standard” dishes, prepared to exceptionally high standards. The roasted pigeon (45,000 dong) and the grilled field mouse (50,000 d) were good, but the absolute stars were the homemade sesame-coated spring rolls (60,000 d) and the raw fish in rice-paper wraps (90,000 d). Prices are high for Saigon, but even here, with drinks, we paid only €15 between the two of us for four dishes, our most expensive meal so far.
 
-## Day 8 — 10 March (104 km)
+## Day 8 – 10 March (104 km)
 
 *Saigon – Mỹ Tho – Bến Tre – Mỹ Tho*
 
@@ -450,7 +450,7 @@ Back in Mỹ Tho we explored the town itself. Guidebooks often dismiss it as dul
   <em><a href="https://maps.google.com/?q=10.35521,106.36804" target="_blank" rel="noopener">Mytho - Song Tien</a></em>
 </figure>
 
-## Day 9 — 11 March (90 km)
+## Day 9 – 11 March (90 km)
 
 *Mỹ Tho – Sa Đéc*
 
@@ -523,7 +523,7 @@ The next twenty kilometres on Highway 1 were dull but quick, and soon we were ov
 
 We ended up eating twice, because our first choice, a Lonely Planet recommendation, was disappointing. Thuy, a tiny hole-in-the-wall place (the author clearly has a thing for them), was cheap and the food was fine: fried fish Vietnamese-style (25,000 dong) and something undefined translated as “black pudding” that tasted better than it sounded (15,000 dong). But the service was dreadful: bored, unfriendly, and the portions for foreigners noticeably smaller than those for locals. So we trusted our own noses and found Restaurant 125 by the canal: friendly, no English menu, and the thickest, juiciest frog legs I’ve ever eaten (20,000 dong), plus eel in satay sauce (20,000 dong). The beef luc lac was merely average, but the prices were rock-bottom.
 
-## Day 10 — 12 March (105 km)
+## Day 10 – 12 March (105 km)
 
 *Sa Đéc – Chợ Mới – Châu Đốc*
 
@@ -588,7 +588,7 @@ Dinner was a hit too. In a courtyard surrounded by splendid colonial ambience op
   <em><a href="https://maps.google.com/?q=10.70807,105.12343" target="_blank" rel="noopener">Mekong Delta - Chau Doc - Quan Mekong</a></em>
 </figure>
 
-## Day 11 — 13 March (123 km)
+## Day 11 – 13 March (123 km)
 
 *Châu Đốc – Tri Tôn – Núi Sập – Rạch Giá*
 
@@ -660,7 +660,7 @@ Rạch Giá looks like a comparatively well-off port city, with many new buildin
   <em><a href="https://maps.google.com/?q=10.01914,105.09321" target="_blank" rel="noopener">Mekong Delta - Rach Gia</a></em>
 </figure>
 
-## Day 12 — 14 March (34 km)
+## Day 12 – 14 March (34 km)
 
 *Phú Quốc*
 
@@ -725,7 +725,7 @@ Around three kilometres south of Dương Đông, where the road leaves the coast
 
 </div>
 
-The beach really is superb. The southern stretches are quiet and unspoilt, though not quite as breathtaking as the section just south of Dương Đông. Here, where several resorts already stand and more are being built, Long Beach delivers proper tropical postcard scenery: white sand and coconut palms. The worry is the developers’ grandiose ambitions; I’d read there are already plans for a “second Phuket” in some investor’s drawer. For now, tourism is still fairly gentle and, crucially, the resorts at least clear away the rubbish that piles up on the sand, something the undeveloped stretches don’t benefit from. Whatever the island’s future, Phú Quốc is absolutely worth the detour now (and probably for the next few years), not least for the dreamy sunset we watched through the palms from the Seastar Resort veranda.
+The beach really is superb. The southern stretches are quiet and unspoilt, though not quite as breathtaking as the section just south of Dương Đông. Here, where several resorts already stand and more are being built, Long Beach delivers proper tropical postcard scenery: white sand and coconut palms. The worry is the developers’ grandiose ambitions; I’d read there are already plans for a “second Phuket” in some investor’s drawer. For now, tourism is still fairly gentle and, crucially, the resorts at least clear away the rubbish that piles up on the sand, something the undeveloped stretches don’t benefit from. Whatever the island’s future, Phú Quốc is absolutely worth the detour now (and probably for the next few years), not least for the magical sunset we watched through the palms from the Seastar Resort veranda.
 
 <div class="photo-row">
 
@@ -757,7 +757,7 @@ For sundowners you want to be on a beachfront veranda; for dinner, the best rest
 
 </div>
 
-## Day 13 — 15 March (79 km)
+## Day 13 – 15 March (79 km)
 
 *Phú Quốc – Rạch Giá – Tan Hiep*
 
@@ -803,7 +803,7 @@ I slept through almost the entire ferry ride back to Rạch Giá. When we arrive
   <em><a href="https://maps.google.com/?q=10.11387,105.28249" target="_blank" rel="noopener">Mekong Delta - Tan Hiep - Tung GH</a></em>
 </figure>
 
-## Day 14 — 16 March (87 km)
+## Day 14 – 16 March (87 km)
 
 *Tan Hiep – Cần Thơ*
 
@@ -847,7 +847,7 @@ For dinner we had even better views of river life than from Nam Bo’s balcony, 
   <em><a href="https://maps.google.com/?q=10.03548,105.78971" target="_blank" rel="noopener">Mekong Delta - Cantho - Nha Hang Du Thuyen</a></em>
 </figure>
 
-## Day 15 — 17 March (13 km)
+## Day 15 – 17 March (13 km)
 
 To round off our Mekong Delta loop, we went out this morning on a long-tail boat to see the Cái Răng floating market and the quiet canals around Cần Thơ from the water. Cycling is the perfect way to explore the Delta in depth, but the real highlight of any Delta trip is time in these little long-tails: suddenly you’re in it rather than watching it, right in the bustle of the floating markets and on the tropical green waterways. In Cần Thơ a boat costs only 3 dollars an hour, money well spent, even for cyclists.
 
@@ -922,7 +922,7 @@ We bought our tickets for tomorrow’s hydrofoil to Vũng Tàu at the pier and, 
   <em><a href="https://maps.google.com/?q=10.77991,106.70315" target="_blank" rel="noopener">Saigon - Bo Tung Xeo</a></em>
 </figure>
 
-## Day 16 — 18 March (85 km)
+## Day 16 – 18 March (85 km)
 
 *Saigon – Vũng Tàu – Bình Châu*
 
@@ -937,7 +937,7 @@ By the time I could finally continue cycling it was half past one. A lightly tra
 
 We arrived at the resort at dusk, so the “wellness programme” had to wait until morning. The resort is a real oasis in the middle of nowhere. Our suite was spacious, almost luxurious, with a great bathroom and a big tub. The package price of 49 dollars for two people included a breakfast buffet, a private pool for thermal and mud baths, tennis, fishing, and, best of all, four eggs to cook yourself in an 82°C hot spring pool. Compared with what European spa resorts charge, this is basically free; you could even get a massage for about €2 an hour. Dinner in the restaurant was fine, very much “Vietnam with Vietnamese” (we were the only Western guests). We had spring rolls (34,000 dong) and tasty grilled squid (45,000 dong) at reasonable prices. The seafood hotpot, however, was overpriced at 130,000 dong, decent, but not quite living up to its potential.
 
-## Day 17 — 19 March (110 km)
+## Day 17 – 19 March (110 km)
 
 *Bình Châu – La Gi – Phan Thiết*
 
@@ -960,7 +960,7 @@ According to Lonely Planet, Phan Thiết isn’t necessarily worth a visit. I li
   <em><a href="https://maps.google.com/?q=10.94125,108.10607" target="_blank" rel="noopener">Phan Thiet - Quan Thuy Phuong</a></em>
 </figure>
 
-## Day 18 — 20 March (43 km)
+## Day 18 – 20 March (43 km)
 
 *Phan Thiết – Mũi Né*
 
@@ -1043,7 +1043,7 @@ We took a break at the stylish Moonfish Café & Restaurant around kilometre 16. 
   <em><a href="https://maps.google.com/?q=10.95248,108.24601" target="_blank" rel="noopener">Mui Ne - Moonfish</a></em>
 </figure>
 
-## Day 19 — 21 March (130 km)
+## Day 19 – 21 March (130 km)
 
 *Mũi Né – Phan Thiết – Cà Ná – Phan Rang*
 
@@ -1109,7 +1109,7 @@ Achim had arrived long before me and had already found us accommodation, this ti
 
 </div>
 
-## Day 20 — 22 March (113 km)
+## Day 20 – 22 March (113 km)
 
 *Phan Rang – Nha Trang*
 
@@ -1133,7 +1133,7 @@ Six years ago I wrote about Vietnam’s most popular beach resort: “you can pr
 
 Culinarily, Nha Trang is both dream and nightmare: the choice is overwhelming. On every corner someone is advertising fish, lobster, and prawns; the same goes for bars and cafés, many attractive and competing with drink specials. The capacity here would cope with five times the number of tourists. We headed straight for the Sailing Club, whose Sandals restaurant served us the best meal of our entire trip six years ago. The setting is still superb: comfortable chairs under coconut palms right on the sand, lounge atmosphere with discreet Buddha Bar music, competent friendly service, and the food remains fantastic. On top of the Vietnamese, Japanese, and Italian dishes that were already on offer back then, they now also serve Indian, Malaysian, even Moroccan food. That kind of “global” concept can go badly wrong with mediocre chefs, but everything we tried was perfectly cooked with excellent ingredients: a Mediterranean-Asian mango salad with warm goat’s cheese (80,000), Vietnamese mackerel in a clay pot (65,000), Indian lobster-crab curry (84,000), and Japanese tenzoru soba, prawn tempura with chilled noodles (115,000). High-end for Vietnam, but more than justified by the setting and the cooking.
 
-## Day 21 — 23 March (31 km)
+## Day 21 – 23 March (31 km)
 
 We used today’s rest day for practicalities: buying train tickets for Huế–Hà Nội, getting the bikes cleaned and scrubbed (10,000 dong per bicycle), and doing laundry. We also explored a bit of the area around Nha Trang by bike. The beautiful lagoon with Cham ruins in the background is ridiculously photogenic. To the north, a new four-lane corniche runs about ten kilometres along the sea, almost empty of traffic, past more attractive, still uncommercialised beaches and with fine views back over the city and bay. Then, in classic Vietnam fashion, it simply ends at a building site.
 
@@ -1200,7 +1200,7 @@ That was enough seafood for one evening, and I fancied pizza. No problem: the Sa
   <em><a href="https://maps.google.com/?q=12.2358,109.19702" target="_blank" rel="noopener">Nha Trang</a></em>
 </figure>
 
-## Day 22 — 24 March (133 km)
+## Day 22 – 24 March (133 km)
 
 *Nha Trang – Tuy Hòa*
 
@@ -1252,7 +1252,7 @@ Tuy Hòa is a small, unremarkable provincial city, but it feels relatively prosp
   <em><a href="https://maps.google.com/?q=13.08268,109.3038" target="_blank" rel="noopener">Tuy Hoa - Quan Cay Man</a></em>
 </figure>
 
-## Day 23 — 25 March (113 km)
+## Day 23 – 25 March (113 km)
 
 *Tuy Hòa – Quy Nhơn*
 
@@ -1329,7 +1329,7 @@ Across the road from our hotel was a simple but pleasant beach restaurant, Binh 
   <em><a href="https://maps.google.com/?q=13.75433,109.21815" target="_blank" rel="noopener">Quy Nhon - Binh Dan Restaurant</a></em>
 </figure>
 
-## Day 24 — 26 March (122 km)
+## Day 24 – 26 March (122 km)
 
 *Quy Nhơn – Sa Huỳnh*
 
@@ -1366,7 +1366,7 @@ Our destination was Sa Huỳnh, a small place with a long beach in a bay where H
   <em><a href="https://maps.google.com/?q=14.6407,109.06641" target="_blank" rel="noopener">Sa Huynh - Ha Lan GH</a></em>
 </figure>
 
-## Day 25 — 27 March (132 km)
+## Day 25 – 27 March (132 km)
 
 *Sa Huỳnh – Quảng Ngãi – Tam Kỳ*
 
@@ -1388,7 +1388,7 @@ The highlight of the day was dinner at Quan Gio: an utterly simple place with ti
 
 </div>
 
-## Day 26 — 28 March (62 km)
+## Day 26 – 28 March (62 km)
 
 *Tam Kỳ – Hội An*
 
@@ -1497,7 +1497,7 @@ That you can eat well even in the traveller cafés of the new district was prove
   <em><a href="https://maps.google.com/?q=15.87611,108.33037" target="_blank" rel="noopener">Hoi An - Café des Amis</a></em>
 </figure>
 
-## Day 27 — 29 March (40 km)
+## Day 27 – 29 March (40 km)
 
 We had breakfast in the pretty courtyard of Hai Scout Café in the old town. It’s comfortable, the fruit shakes are good and, by Hội An standards, reasonably priced (12,000 dong), and the food is solid. We ate white rose dumplings (25,000), fish fillet steamed in banana leaf (40,000), and a delicious banana-blossom seafood salad (40,000). The countryside around Hội An is perfect for cycling: the quietest province begins the moment you leave town. Narrow lanes run past small villages through green rice fields and usually end at a river or canal. You don’t necessarily get anywhere this way, but it’s gentle riding through rural idyll.
 
@@ -1571,7 +1571,7 @@ For dinner we returned to Mango Rooms, having only tried starters last time. The
   <em><a href="https://maps.google.com/?q=15.87613,108.32918" target="_blank" rel="noopener">Hoi An - Hai San Restaurant</a></em>
 </figure>
 
-## Day 28 — 30 March (80 km)
+## Day 28 – 30 March (80 km)
 
 *Hội An – Đà Nẵng*
 
@@ -1612,7 +1612,7 @@ The culinary highlight of the day, and one of the best (and most expensive) meal
 
 </div>
 
-## Day 29 — 31 March (112 km)
+## Day 29 – 31 March (112 km)
 
 *Đà Nẵng – Huế*
 
@@ -1644,7 +1644,7 @@ Huế is considered Vietnam’s culinary capital, but our first meal, an afterno
   <em><a href="https://maps.google.com/?q=16.46995,107.59546" target="_blank" rel="noopener">Hue - Tropical Garden Restaurant</a></em>
 </figure>
 
-## Day 30 — 1 April (70 km)
+## Day 30 – 1 April (70 km)
 
 *Huế – Hà Nội*
 
@@ -1879,7 +1879,7 @@ In pouring rain we cycled to the station in the afternoon and learned that our e
   <em><a href="https://maps.google.com/?q=16.45663,107.57773" target="_blank" rel="noopener">Hue</a></em>
 </figure>
 
-## Days 31–33 — 2–4 April (72 km)
+## Days 31–33 – 2–4 April (72 km)
 
 After roughly twelve hours on the train, and a delay of just over an hour, we arrived in Hà Nội early in the morning. As we didn’t yet have the bikes and many hotels weren’t open at that hour, our options were limited, so we took a taxi straight to Viet Anh in the Old Quarter. This fairly new, well-located hotel is constantly full as an “Author’s Choice” in the new Lonely Planet, and has raised its prices accordingly. On the plus side: free internet, a lift, and a decent breakfast buffet, though in Hà Nội breakfast buffets are almost unnecessary. The hotel even has doormen, unusual at this price level. The room itself was nothing special: modern and reasonably comfortable, with parquet flooring, satellite TV and air-con, but rather small for Hà Nội, and the bathroom, despite a tub, was basic and tight. So perhaps a bit expensive at 20 dollars, but they clearly don’t need to charge less.
 
@@ -2017,7 +2017,7 @@ This morning we had breakfast at Café 69 on Mã Mây. Again, solid and fairly c
 
 </div>
 
-## Days 34–35 — 5–6 April
+## Days 34–35 – 5–6 April
 
 We spent our last two days in Bangkok shopping and eating, as you do in Bangkok. The sushi at Taketei was still excellent, as were the curries and tandoori dishes at Royal India. We ate fantastic dim sum (35 baht per portion) at Shangri La on Yaowarat, and superb seafood at Somboon Seafood, one of Bangkok’s biggest and most popular restaurants. The interior, spread over four floors, is canteen-ugly, but the service and food are excellent, though not exactly cheap: crab curry (250 baht), raw marinated crab meat (150 baht), and scallops with green asparagus (150 baht). To round off a successful trip, we treated ourselves to a final gourmet meal at Blue Elephant.
 
