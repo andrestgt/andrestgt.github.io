@@ -4,6 +4,7 @@ section: travels
 title: "USA Road Trip"
 subtitle: "California | Arizona | Utah | Nevada | Hawaii"
 date: 2000-09-12
+photos_locked: true
 ---
 
 # USA Road Trip

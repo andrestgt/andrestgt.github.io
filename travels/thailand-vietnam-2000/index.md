@@ -4,6 +4,7 @@ section: travels
 title: "Thailand & Vietnam"
 subtitle: "Thailand | Vietnam"
 date: 2000-02-26
+photos_locked: true
 ---
 
 # Thailand & Vietnam

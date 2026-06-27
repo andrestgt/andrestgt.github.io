@@ -4,6 +4,7 @@ section: travels
 title: "Cycling Southern Italy"
 subtitle: "Italy"
 date: 2004-03-25
+photos_locked: true
 ---
 
 # Cycling Southern Italy

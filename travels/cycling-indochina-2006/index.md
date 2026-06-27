@@ -1,9 +1,10 @@
 ---
 layout: default
 section: travels
-title: Cycling Indochina
+title: "Cycling Indochina"
+subtitle: "Thailand · Laos · Cambodia · Vietnam"
+date: 2006-07-13
 photos_locked: true
----
 ---
 <div id="top"></div>
 <div class="travelogue" markdown="1">
@@ -55,8 +56,6 @@ Back at the airport, we used our Biman vouchers, and it genuinely seemed like we
 
 The night wasn’t very long, as for some mysterious reason, we were summoned for breakfast before six. The onward flight to Bangkok was scheduled for 10:25 AM. After breakfast, we were informed that the flight had been moved to 2:30 PM. All the better: since we were already in Dhaka, we had plenty of time to have a look around, though strangely, all the other travellers preferred to stay put in the hotel. We hired a taxi for three hours (750 TK) and had him drive us around the area with a few stops along the way. Apart from the architecturally, well, adventurous Parliament House, Dhaka doesn’t really have any tourist sights; it’s a vast sprawl of featureless, often half-finished, buildings. There doesn’t seem to be a proper old town like in Lahore or Delhi. However, the city is by no means uninteresting. The sheer number of partly ornate rickshaws, the main mode of transport here, is quite a sight, as are the old double-decker buses. Besides, tropical cities, even if they’re not pretty, always have a special atmosphere.
 
-</div>
-
 <figure>
   <img src="photos/CyclingIndochine06-0029.jpg" alt="Dhaka">
   <em>Dhaka</em>
@@ -98,6 +97,7 @@ We eventually got away around 3 PM and finally arrived in Bangkok after a two-ho
 
 </div>
 
+<div class="country thailand" markdown="1">
 ## Thailand
 
 ### Day 4 | 16.7 | 90 km  
@@ -1741,8 +1741,6 @@ The first 30 kilometres to Krek were still hilly, but the climbs became shorter 
 
 </div>
 
-</div>
-
 <figure>
   <img src="photos/CyclingIndochine06-1029.jpg" alt="Along Hwy 7 - Kompong Cham">
   <em>Along Hwy 7 - Kompong Cham</em>
@@ -2184,8 +2182,6 @@ Highway 5 between Battambang and Phnom Penh used to be the worst road I’d ever
 
 Pursat, if you only see it from the highway, isn’t particularly attractive, but the centre is a good distance off the main road and is quite pleasant. Besides strolling through the exotic and chaotic market, there isn’t much to do, but Pursat offers some beautiful photo opportunities: colonial villas by the river, traditional wooden houses under coconut palms, and the sight of snakes and skinned eels in the market.
 
-</div>
-
 <div class="photo-row">
 
   <figure>
@@ -2219,6 +2215,8 @@ It also has good accommodation and numerous restaurants. We stayed in a room at 
       <img src="photos/CyclingIndochine06-1317.jpg" alt="Pursat - Community Villa">
       <em>Pursat - Community Villa</em>
     </figure>
+
+</div>
 
 We also had a decent dinner at Reaksmey Angkor Restaurant. This eatery is part of Phnom Pech Hotel, a popular place whose rooms are too expensive for what they offer (which is why we skipped staying there). However, the food prices are fair. They serve the usual standards like fried fish (7,000r) and Beef Luc Lac with fries (5,000r), and they are quite good.
 
@@ -2665,6 +2663,7 @@ In the evening, we ate on Sisowath Quay again, this time in the northern part, a
 
 </div>
 
+<div class="country vietnam" markdown="1">
 ## Vietnam
 ### Day 44 | 25.8. | 95 km  
 
@@ -2729,7 +2728,6 @@ In Chau Doc, we stayed again at Trung Nguyen Hotel for $15 in the same room as w
   <em>Mekong Delta - Chau Doc</em>
 </figure>
 
-<div class="country vietnam" markdown="1">
 ### Day 45 | 26.8. | 125 km  
 
 **Chau Doc – Long Xuyen – Sa Dec – Vinh Long**
@@ -3493,4 +3491,5 @@ After walking past this truly pretty, inviting Old Quarter café on Ma May count
 | Lao Kip (Kip) | 12,500 |
 | Cambodian Riel (Riel) | 5,000 |
 | Vietnamese Dong (Dong) | 19,500 |
+</div>
 </div>

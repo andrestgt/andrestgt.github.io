@@ -4,6 +4,7 @@ section: travels
 title: "South Africa"
 subtitle: "Johannesburg | Kruger | Drakensberg | Garden Route | Cape Town"
 date: 2002-09-03
+photos_locked: true
 ---
 
 # South Africa

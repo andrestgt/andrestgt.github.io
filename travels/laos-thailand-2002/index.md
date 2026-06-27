@@ -4,6 +4,7 @@ section: travels
 title: "Laos & Thailand"
 subtitle: "Laos | Thailand"
 date: 2002-03-07
+photos_locked: true
 ---
 
 # Laos & Thailand

@@ -4,6 +4,7 @@ section: travels
 title: "Melbourne, Tasmania & the Great Ocean Road"
 subtitle: "Australia"
 date: 2005-02-09
+photos_locked: true
 ---
 
 # Melbourne, Tasmania & the Great Ocean Road

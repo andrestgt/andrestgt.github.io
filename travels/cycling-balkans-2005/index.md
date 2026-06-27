@@ -4,6 +4,7 @@ section: travels
 title: "Cycling Southeast Europe"
 subtitle: "Italy | Slovenia | Croatia | Bosnia | Serbia | Romania | Hungary"
 date: 2005-08-01
+photos_locked: true
 ---
 
 # Cycling Southeast Europe

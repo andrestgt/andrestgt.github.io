@@ -4,6 +4,7 @@ section: travels
 title: "Fiji"
 subtitle: "Fiji"
 date: 2004-11-07
+photos_locked: true
 ---
 
 # Fiji

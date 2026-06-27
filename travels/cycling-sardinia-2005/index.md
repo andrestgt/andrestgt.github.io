@@ -4,6 +4,7 @@ section: travels
 title: "Cycling Sardinia"
 subtitle: "Italy | Sardinia"
 date: 2005-06-01
+photos_locked: true
 ---
 
 # Cycling Sardinia

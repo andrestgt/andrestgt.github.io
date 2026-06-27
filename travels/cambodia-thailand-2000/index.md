@@ -4,6 +4,7 @@ section: travels
 title: "Cambodia & Thailand"
 subtitle: "Cambodia | Thailand"
 date: 2000-08-09
+photos_locked: true
 ---
 
 # Cambodia & Thailand

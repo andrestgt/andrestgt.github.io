@@ -4,6 +4,7 @@ section: travels
 title: "Pakistan & India"
 subtitle: "Pakistan | India"
 date: 2001-03-01
+photos_locked: true
 ---
 
 # Pakistan & India

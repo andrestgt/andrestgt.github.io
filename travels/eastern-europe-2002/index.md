@@ -4,6 +4,7 @@ section: travels
 title: "Eastern Europe"
 subtitle: "Hungary | Romania | Bulgaria | Greece | Croatia | Venice"
 date: 2002-07-21
+photos_locked: true
 ---
 
 # Eastern Europe

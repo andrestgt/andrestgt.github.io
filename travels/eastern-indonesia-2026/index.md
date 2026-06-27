@@ -4,6 +4,7 @@ section: travels
 title: "Eastern Indonesia"
 subtitle: "Raja Ampat · Banda Islands · Kei Islands"
 date: 2026-02-14
+photos_locked: true
 ---
 
 # Eastern Indonesia

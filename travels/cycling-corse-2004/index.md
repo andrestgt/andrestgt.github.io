@@ -4,6 +4,7 @@ section: travels
 title: "Cycling Corsica"
 subtitle: "South of France | Corsica"
 date: 2004-06-16
+photos_locked: true
 ---
 
 

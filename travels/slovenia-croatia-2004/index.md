@@ -4,6 +4,7 @@ section: travels
 title: "Slovenia & Croatia"
 subtitle: "Slovenia | Croatia"
 date: 2004-06-02
+photos_locked: true
 ---
 
 # Slovenia & Croatia

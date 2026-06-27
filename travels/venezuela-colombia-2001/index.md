@@ -4,6 +4,7 @@ section: travels
 title: "Venezuela & Colombia"
 subtitle: "Venezuela | Colombia"
 date: 2001-09-10
+photos_locked: true
 ---
 
 # Venezuela & Colombia
