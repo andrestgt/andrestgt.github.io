@@ -14,8 +14,6 @@ photos_locked: true
 
 This attractive café is a great place to break the journey between Chiang Mai and Pai. The Thai food here is very good, especially the soups like tom kha gai and tom yum goong. Nice pad Thai, too.
 
-</div>
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/32-coffee-hill-4.jpg" alt="32 Coffee Hill & Resort">
@@ -33,7 +31,7 @@ This attractive café is a great place to break the journey between Chiang Mai a
   <figcaption>32 Coffee Hill & Resort</figcaption>
 </figure>
 
-# Ratings
+## Ratings
 
 | Category        | Score  |
 | ---             | ---    |

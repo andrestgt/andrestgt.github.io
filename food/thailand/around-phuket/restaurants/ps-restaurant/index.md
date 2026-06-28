@@ -7,9 +7,7 @@ subtitle: Patong · Restaurant
 photos_locked: true
 ---
 <figure>
-  <a href="/photos/thailand/phuket/ps-restaurantmain.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/ps-restaurantmain.jpg" alt="Seafood fried rice at P.S. Restaurant">
-  </a>
+  <img src="/photos/thailand/phuket/ps-restaurantmain.jpg" alt="Seafood fried rice at P.S. Restaurant">
   <figcaption>Seafood fried rice</figcaption>
 </figure>
 
@@ -20,9 +18,7 @@ The menu is huge and runs the full tourist-restaurant gamut, from Thai standards
 What really helps is the pricing. P.S. Restaurant is one of the most reasonably priced places right in the centre of Patong. Nothing here is fancy, and it doesn’t try to be. But for what it is — simple, reliable Thai food in a hyper-touristy area — there’s very little to complain about. 
 
 <figure>
-  <a href="/photos/thailand/phuket/ps-restaurant1.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/ps-restaurant1.jpg" alt="Chicken Massaman curry at P.S. Restaurant">
-  </a>
+  <img src="/photos/thailand/phuket/ps-restaurant1.jpg" alt="Chicken Massaman curry at P.S. Restaurant">
   <figcaption>Chicken Massaman curry</figcaption>
 </figure>
 

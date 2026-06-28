@@ -8,7 +8,7 @@ photos_locked: true
 ---
 
 <figure>
-  <img src="/photos/thailand/koh-samui/sst1.jpg" alt="">
+  <img src="/photos/thailand/koh-samui/sst1.jpg" alt="Sasatorn">
 </figure>
 
 This is not only a very nicely decorated and friendly café, they also serve the best flat white I've so far encountered on the island, it's rather expensive though, for 95 Baht. The food menu is very interesting and varied and the tom kha gai was delicious. The croissant I had for breakfast was good, rather than excellent.

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Origami Café
-section: food thailand phuket-town review
+subtitle: Phuket Town · Café
+section: food
+review: true
 ---
 
 <figure>
@@ -9,8 +11,6 @@ section: food thailand phuket-town review
   <figcaption>Origami Café</figcaption>
 </figure>
 
-## Origami Café
-*Phuket Town · Café*
 
 <figure>
   <img src="/photos/thailand/phuket/origami-cafe-2.jpg" alt="Origami Café">

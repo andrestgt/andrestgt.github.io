@@ -8,7 +8,7 @@ photos_locked: true
 ---
 
 <figure>
-  <img src="/photos/thailand/chiang-rai/crnb1.jpg" alt="">
+  <img src="/photos/thailand/chiang-rai/crnb1.jpg" alt="Chiang Rai Night Bazaar">
 </figure>
 
 The Chiang Rai Night Market is a local institution: a large, daily market that, while it has become quite touristy in recent years, remains one of the best places in town for an inexpensive, satisfying meal. You'll find almost everything here, from fried insects and spicy tom yum to grilled meat dishes and classic Thai comfort food.

@@ -8,9 +8,7 @@ photos_locked: true
 ---
 
 <figure>
-  <a href="/photos/thailand/phuket/sabaicornermain.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/sabaicornermain.jpg" alt="View from the restaurant at Sabai Corner">
-  </a>
+  <img src="/photos/thailand/phuket/sabaicornermain.jpg" alt="View from the restaurant at Sabai Corner">
   <figcaption>View from the restaurant</figcaption>
 </figure>
 
@@ -21,16 +19,12 @@ The menu is long and covers the usual Thai standards, with a strong focus on sea
 Prices are on the higher side, though that’s fairly normal for such a secluded spot with views like these. You are clearly paying in part for the location, but it helps that the food is perfectly decent. Not cheap, but still affordable, and a pleasant place to spend some time.
 
 <figure>
-  <a href="/photos/thailand/phuket/sabaicorner1.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/sabaicorner1.jpg" alt="Sabai Corner">
-  </a>
+  <img src="/photos/thailand/phuket/sabaicorner1.jpg" alt="Sabai Corner">
   <figcaption>Sabai Corner</figcaption>
 </figure>
 
 <figure>
-  <a href="/photos/thailand/phuket/sabaicorner2.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/sabaicorner2.jpg" alt="Sabai Corner">
-  </a>
+  <img src="/photos/thailand/phuket/sabaicorner2.jpg" alt="Sabai Corner">
   <figcaption>Sabai Corner</figcaption>
 </figure>
 

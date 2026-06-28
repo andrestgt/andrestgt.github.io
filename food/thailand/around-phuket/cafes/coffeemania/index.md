@@ -6,9 +6,7 @@ title: COFFEEMANIA
 subtitle: Patong · Café & Bakery
 ---
 <figure>
-  <a href="/photos/thailand/phuket/coffeemania.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/coffeemania.jpg" alt="Cappuccino and wrap at Coffeemania">
-  </a>
+  <img src="/photos/thailand/phuket/coffeemania.jpg" alt="Cappuccino and wrap at Coffeemania">
   <figcaption>Cappuccino and wrap</figcaption>
 </figure>
 

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Xi Mian Chinese Noodles
-section: food thailand phuket-town review
+subtitle: Phuket Old Town · Chinese · Noodles · Restaurant
+section: food
+review: true
 ---
 
 <figure>
@@ -9,8 +11,6 @@ section: food thailand phuket-town review
   <figcaption>Xi Mian Chinese Noodles</figcaption>
 </figure>
 
-## Xi Mian Chinese Noodles
-*Phuket Old Town · Chinese · Noodles · Restaurant*
 
 <figure>
   <img src="/photos/thailand/phuket/xi-mian-chinese-noodles-2.jpg" alt="Xi Mian Chinese Noodles">

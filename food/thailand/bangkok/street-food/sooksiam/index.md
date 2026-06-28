@@ -42,7 +42,7 @@ This place is absolutely stunning, and you get pretty much all your favourite st
 <figure>
   <img src="/photos/thailand/bangkok/sooksiam-6.jpg" alt="SOOKSIAM">
   <figcaption>SOOKSIAM</figcaption>
-
+</figure>
 </div>
 
 <figure>

@@ -28,7 +28,8 @@ I wasn’t completely convinced by some of their other dishes, which didn’t se
 <figure>
   <img src="/photos/philippines/el-nido/SEA25-0464.jpg" alt="Carinderia by the Bay">
   <figcaption>Carinderia by the Bay</figcaption>
-<figure>
+</figure>
+
 ## Ratings
 
 | Category        | Score  |

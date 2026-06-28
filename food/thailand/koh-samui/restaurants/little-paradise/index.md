@@ -17,11 +17,11 @@ Little Paradise feels like a throwback to a different era, set on an almost absu
 <div class="photo-row">
 
   <figure>
-    <img src="/photos/thailand/koh-samui/lp2.jpg" alt="">
+    <img src="/photos/thailand/koh-samui/lp2.jpg" alt="Little Paradise">
   </figure>
 
   <figure>
-    <img src="/photos/thailand/koh-samui/lp3.jpg" alt="">
+    <img src="/photos/thailand/koh-samui/lp3.jpg" alt="Little Paradise">
   </figure>
 
 </div>

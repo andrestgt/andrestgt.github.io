@@ -1,17 +1,14 @@
 ---
 layout: default
 title: Lao Pa Sat
-section: food thailand phuket-town review
+subtitle: Phuket Town · Singaporean / Malaysian · Restaurant
+section: food
+review: true
 ---
 
 
-## Lao Pa Sat
-*Phuket Town · Singaporean / Malaysian · Restaurant*
-
 <figure>
-  <a href="/photos/thailand/phuket/laopasatfood.jpg" target="_blank">
-    <img src="/photos/thailand/phuket/laopasatfood.jpg" alt="Laksa and Char Kway Teow at Lao Pa Sat">
-  </a>
+  <img src="/photos/thailand/phuket/laopasatfood.jpg" alt="Laksa and Char Kway Teow at Lao Pa Sat">
   <figcaption>Laksa and Char Kway Teow</figcaption>
 </figure>
 
