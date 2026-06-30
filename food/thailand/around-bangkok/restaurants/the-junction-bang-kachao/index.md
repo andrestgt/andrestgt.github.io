@@ -3,7 +3,7 @@ layout: default
 section: food
 review: true
 title: The Junction – Bang Kachao
-subtitle: Bang Kachao, Samut Prakan · Bar & Pub
+subtitle: Bang Kachao, Samut Prakan · Pizza & Craft Beer
 photos_locked: true
 ---
 
@@ -32,5 +32,5 @@ I came across this place near the pier after seeing a sign for craft beer and Ne
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa478163cad8b32a9)
-🍺 **Type:** Bar & Pub
-💰 **Price level:** moderate
+🍽️ **Type:** Pizza, Craft Beer
+💰 **Price level:** ฿200–300

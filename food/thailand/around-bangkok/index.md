@@ -4,7 +4,7 @@ section: food
 city: around-bangkok
 slug: around-bangkok
 title: Around Bangkok – Food & Drink
-subtitle: Street food, cafés, and bars around Bangkok
+subtitle: Street food, cafés, and restaurants around Bangkok
 ---
 
 # Around Bangkok
@@ -17,5 +17,5 @@ Reviews grouped by category.
 ## Cafés
 - [Cafés](/food/thailand/around-bangkok/cafes/)
 
-## Bars & pubs
-- [Bars & pubs](/food/thailand/around-bangkok/bars-pubs/)
+## Restaurants
+- [Restaurants](/food/thailand/around-bangkok/restaurants/)
