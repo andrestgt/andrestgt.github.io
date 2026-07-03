@@ -11,7 +11,7 @@ subtitle: D'Mall, Boracay · International
   <figcaption>Wokeria</figcaption>
 </figure>
 
-Inviting restaurant in DMall, unfortunately, while the international menu sounds mouthwatering, the food here is not good enough — out of 6 dishes not a single one was up to standards. Either too bland or too salty, or too dry. Simply poor culinary craftmanship.
+Inviting restaurant in DMall, unfortunately, while the international menu sounds mouthwatering, the food here is not good enough, out of 6 dishes not a single one was up to standards. Either too bland or too salty, or too dry. Simply poor culinary craftmanship.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

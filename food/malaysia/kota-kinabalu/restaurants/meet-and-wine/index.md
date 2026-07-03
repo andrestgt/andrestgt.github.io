@@ -11,7 +11,7 @@ subtitle: Signal Hill Park, Kota Kinabalu · Mediterranean
   <figcaption>Meet+Wine</figcaption>
 </figure>
 
-Fantastic little bistro and wine bar. Small menu of delicious Mediterranean dishes — pulpitos, lamb ragout pasta, cheeses, charcuterie — and a great wine selection, all reasonably priced for Malaysia. NZ Sauvignon Blanc for under RM150. Love this place.
+Fantastic little bistro and wine bar. Small menu of delicious Mediterranean dishes, pulpitos, lamb ragout pasta, cheeses, charcuterie, and a great wine selection, all reasonably priced for Malaysia. NZ Sauvignon Blanc for under RM150. Love this place.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

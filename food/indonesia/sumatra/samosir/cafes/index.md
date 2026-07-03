@@ -14,5 +14,5 @@ subtitle: Cafés on Samosir Island, Lake Toba
 
 ## Coffee2Go
 *Tuktuk Siadong · Café*
-The only place in Tuktuk capable of preparing a proper cappuccino — inexpensive and easy to recommend for coffee lovers.
+The only place in Tuktuk capable of preparing a proper cappuccino - inexpensive and easy to recommend for coffee lovers.
 → [Read the full review](/food/indonesia/sumatra/samosir/cafes/coffee2go/)

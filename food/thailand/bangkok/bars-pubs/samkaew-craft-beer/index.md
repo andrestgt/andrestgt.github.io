@@ -22,7 +22,7 @@ photos_locked: true
 
 A bit of a journey out to Thonburi, but worthwhile if you're looking for good-value craft beer.
 
-There's a buy-one-get-one offer, which seems to run daily, bringing the price down to around 150 baht for two half-litre glasses — very good value by Bangkok standards.
+There's a buy-one-get-one offer, which seems to run daily, bringing the price down to around 150 baht for two half-litre glasses, very good value by Bangkok standards.
 
 The beers are not the most refined, but they are enjoyable and definitely better than Singha or Leo.
 

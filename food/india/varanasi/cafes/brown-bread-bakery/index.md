@@ -12,7 +12,7 @@ subtitle: Bangali Tola, Varanasi · Bakery, Café
   <figcaption>Brown Bread Bakery Varanasi</figcaption>
 </figure>
 
-Varanasi's most famous traveller café should be thought of as a bakery rather than a café, for while they do offer food and coffees, neither is very good. The omelette is rather bland, the spinach-mushroom patty dry and thin, and the coffee — the less said the better. Not wanting to sound too negative, the bread here is fantastic and the real reason to come here.
+Varanasi's most famous traveller café should be thought of as a bakery rather than a café, for while they do offer food and coffees, neither is very good. The omelette is rather bland, the spinach-mushroom patty dry and thin, and the coffee, the less said the better. Not wanting to sound too negative, the bread here is fantastic and the real reason to come here.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

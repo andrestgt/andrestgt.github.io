@@ -7,7 +7,7 @@ title: Mingle
 subtitle: Ubud · Café
 ---
 
-Comfy and inviting corner café. Their coffees are well prepared, but the slightly burnt roast espresso is not the best in town — though it's quite inexpensive at 25K. Still, there are better places in town for coffee. I didn't try the food.
+Comfy and inviting corner café. Their coffees are well prepared, but the slightly burnt roast espresso is not the best in town - though it's quite inexpensive at 25K. Still, there are better places in town for coffee. I didn't try the food.
 
 ## Ratings
 

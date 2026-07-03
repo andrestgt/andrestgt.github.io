@@ -13,14 +13,14 @@ subtitle: Cafés in Langkawi
 
 ## Yam Yam Chinese Restaurant
 *Pantai Tengah · Café*
-Despite the misleading name, probably the best place for coffee in Langkawi — the cappuccinos are genuinely very good.
+Despite the misleading name, probably the best place for coffee in Langkawi; the cappuccinos are genuinely very good.
 → [Read the full review](/food/malaysia/langkawi/cafes/yam-yam-restaurant/)
 
 ---
 
 ## Starbucks – Cenang Mall
 *Pantai Cenang · Café*
-Serving everything in disposable cups even for dine-in immediately ruins the experience — the coffee itself is unremarkable too.
+Serving everything in disposable cups even for dine-in immediately ruins the experience; the coffee itself is unremarkable too.
 → [Read the full review](/food/malaysia/langkawi/cafes/starbucks-cenang-mall/)
 
 ---

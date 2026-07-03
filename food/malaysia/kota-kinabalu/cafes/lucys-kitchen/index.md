@@ -11,7 +11,7 @@ subtitle: Kota Kinabalu · Café
   <figcaption>Lucy's Kitchen</figcaption>
 </figure>
 
-This one looks like just another generic mall café, but looks can be deceiving. Their cappuccinos are up there with the best — perfect smoothness. And their Asian comfort food is super tasty. Must-tries are buntut percik (oxtail stew) and the nasi lemak beef rendang, but leave some room for their divine durian pancakes. Reasonable prices, gorgeous food. I came back the very next day.
+This one looks like just another generic mall café, but looks can be deceiving. Their cappuccinos are up there with the best, perfect smoothness. And their Asian comfort food is super tasty. Must-tries are buntut percik (oxtail stew) and the nasi lemak beef rendang, but leave some room for their divine durian pancakes. Reasonable prices, gorgeous food. I came back the very next day.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

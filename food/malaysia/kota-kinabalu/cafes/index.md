@@ -13,7 +13,7 @@ subtitle: Cafés in Kota Kinabalu
 
 ## Lucy's Kitchen
 *Kota Kinabalu · Café*
-Looks like a generic mall café but delivers outstanding cappuccinos and superb Asian comfort food — the durian pancakes are divine.
+Looks like a generic mall café but delivers outstanding cappuccinos and superb Asian comfort food; the durian pancakes are divine.
 → [Read the full review](/food/malaysia/kota-kinabalu/cafes/lucys-kitchen/)
 
 ---

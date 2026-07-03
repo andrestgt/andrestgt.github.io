@@ -55,7 +55,7 @@ Neustadt · Excursion Restaurant
 Weinbiethaus 
  
 
-A pleasant excursion restaurant in the Pfälzerwald — though genuinely complicated to reach by car. T...
+A pleasant excursion restaurant in the Pfälzerwald, though genuinely complicated to reach by car. T...
 → [Read the full review](./weinbiethaus/)
 
 ## NATURFREUNDEHAUS EDENKOBEN

@@ -14,7 +14,7 @@ photos_locked: true
 
 Lovely restaurant in an old wooden villa. Stepping inside takes you from the city straight into the countryside. Service was quick and friendly and the menu prices very reasonable for such a nice place with a Bib Gourmand.
 
-But, to be honest, I wasn't very impressed with the food. Especially the Michelin-praised larb pla khua was not to my taste. There was a slightly bitter note to it, and just a chunk of cabbage and a bunch of rau ram as sides — a rather loveless presentation.
+But, to be honest, I wasn't very impressed with the food. Especially the Michelin-praised larb pla khua was not to my taste. There was a slightly bitter note to it, and just a chunk of cabbage and a bunch of rau ram as sides, a rather loveless presentation.
 
 The pork omelette was very tasty, but also quite oily.
 

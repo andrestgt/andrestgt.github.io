@@ -13,7 +13,7 @@ subtitle: Cafés in El Nido
 
 ## Masa
 *El Nido Town · Bakery, Café*
-Modern minimalist bakery with the most expensive flat white in the Philippines — good coffee, though the milk foam texture isn't quite right.
+Modern minimalist bakery with the most expensive flat white in the Philippines, good coffee, though the milk foam texture isn't quite right.
 → [Read the full review](/food/philippines/el-nido/cafes/masa/)
 
 ---

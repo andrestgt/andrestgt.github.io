@@ -12,7 +12,7 @@ subtitle: Bangali Tola, Varanasi · Café
   <figcaption>Mona Lisa Cafe</figcaption>
 </figure>
 
-Not the original "real" German Bakery opposite, but this place is comfier and friendlier than the competition, and a good place to hang out for a while with some masala chai and Indian snacks. It's very cheap — a big pot of chai goes for 60 Rs, a plate of veg pakoras big enough for two for 90 Rs. Make sure to ask for their homemade chili sauce with your snacks — it's super delicious.
+Not the original "real" German Bakery opposite, but this place is comfier and friendlier than the competition, and a good place to hang out for a while with some masala chai and Indian snacks. It's very cheap; a big pot of chai goes for 60 Rs, a plate of veg pakoras big enough for two for 90 Rs. Make sure to ask for their homemade chili sauce with your snacks; it's super delicious.
 
 ## Ratings
 

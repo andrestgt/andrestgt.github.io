@@ -11,9 +11,9 @@ subtitle: Nha Trang · Vietnamese
   <figcaption>Bún Chả Obama – Bún Ốc Hà Nội</figcaption>
 </figure>
 
-This basic alley eatery came recommended by locals, and I’m not surprised—it really caters to Southern taste buds. The broth is on the sweeter side, and they use calamansi instead of lime. The grilled meat is good, though it could use a stronger charcoal flavor — probably healthier that way, though.
+This basic alley eatery came recommended by locals, and I’m not surprised, it really caters to Southern taste buds. The broth is on the sweeter side, and they use calamansi instead of lime. The grilled meat is good, though it could use a stronger charcoal flavor, probably healthier that way, though.
 
-There’s no nem on the side, which is a pity. For me, bún chả and nem go together, but that’s just personal preference. That said, it’s very cheap—35k for a good portion—so I won’t complain too much. Many other places around town charge much more these days.
+There’s no nem on the side, which is a pity. For me, bún chả and nem go together, but that’s just personal preference. That said, it’s very cheap, 35k for a good portion, so I won’t complain too much. Many other places around town charge much more these days.
 
 ## Ratings
 

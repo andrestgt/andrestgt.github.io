@@ -12,7 +12,7 @@ subtitle: Shivarampet, Mysore · South Indian
   <figcaption>Abiruchi Pure Veg Restaurant</figcaption>
 </figure>
 
-Good place for a quick breakfast. It's self-service but easy to navigate and friendly enough. Quality dosas and other Southern breakfast items. The open butter masala dosa (55 Rs) is very beautiful and rather massive. Cheap as chips, although if you're really skint, there are even cheaper breakfast places around — just less hygienic and neat than this.
+Good place for a quick breakfast. It's self-service but easy to navigate and friendly enough. Quality dosas and other Southern breakfast items. The open butter masala dosa (55 Rs) is very beautiful and rather massive. Cheap as chips, although if you're really skint, there are even cheaper breakfast places around, just less hygienic and neat than this.
 
 <figure>
   <img src="/photos/india/mysore/abiruchi-pure-veg-2.jpg" alt="Abiruchi Pure Veg Restaurant">

@@ -12,7 +12,7 @@ subtitle: Toul Tompoung · Café
   <figcaption>Xotique Coffee</figcaption>
 </figure>
 
-The coffees are decent but if my smoked salmon sandwich is in any way representative of the quality of their food I'd stay far away — it was a disgrace. Plenty of nice cafés in Phnom Penh. No return visit planned.
+The coffees are decent but if my smoked salmon sandwich is in any way representative of the quality of their food I'd stay far away; it was a disgrace. Plenty of nice cafés in Phnom Penh. No return visit planned.
 
 ## Ratings
 

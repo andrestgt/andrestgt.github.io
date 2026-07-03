@@ -14,5 +14,5 @@ subtitle: Restaurants around Bangkok
 
 ## The Junction – Bang Kachao
 *Bang Kachao, Samut Prakan · Pizza & Craft Beer*
-Craft beer sign near the pier leads to excellent wood-fired pizzas — the larb moo pizza is spicy and very satisfying at under 300 Bt.
+Craft beer sign near the pier leads to excellent wood-fired pizzas; the larb moo pizza is spicy and very satisfying at under 300 Bt.
 → [Read the full review](/food/thailand/around-bangkok/restaurants/the-junction-bang-kachao/)

@@ -14,7 +14,7 @@ subtitle: Cafés in Siem Reap
 
 ## Crane
 *Siem Reap · Specialty Coffee*
-Probably the best coffee in Siem Reap — properly prepared cappuccino at around 3$, artsy café, though seating is not especially comfortable.
+Probably the best coffee in Siem Reap, properly prepared cappuccino at around 3$, artsy café, though seating is not especially comfortable.
 → [Read the full review](/food/cambodia/siem-reap/cafes/crane/)
 
 ---
@@ -28,28 +28,28 @@ Fantastic décor and one of the most comfortable café-lounge spaces in Siem Rea
 
 ## Footprint Cafes
 *Wat Bo · Café*
-Friendly book café with excellent coffee and decent Khmer bistro food — the river fish dishes are particularly good.
+Friendly book café with excellent coffee and decent Khmer bistro food; the river fish dishes are particularly good.
 → [Read the full review](/food/cambodia/siem-reap/cafes/footprint-cafes/)
 
 ---
 
 ## Common Grounds Café
 *Street 14 · Café*
-Fair prices and good ingredients, but my cappuccino was served so excessively hot it burnt my tongue — inconsistent training.
+Fair prices and good ingredients, but my cappuccino was served so excessively hot it burnt my tongue, inconsistent training.
 → [Read the full review](/food/cambodia/siem-reap/cafes/common-grounds-cafe/)
 
 ---
 
 ## Café Central
 *Street 08 · Café, Bar*
-Used to be a favourite but standards have slipped — the cappuccino was watery and served scalding hot.
+Used to be a favourite but standards have slipped; the cappuccino was watery and served scalding hot.
 → [Read the full review](/food/cambodia/siem-reap/cafes/cafe-central/)
 
 ---
 
 ## Blue Pumpkin
 *Siem Reap · Café*
-At 3.50$ a cappuccino you would expect better — somehow manages to produce one of the blandest cups imaginable.
+At 3.50$ a cappuccino you would expect better, somehow manages to produce one of the blandest cups imaginable.
 → [Read the full review](/food/cambodia/siem-reap/cafes/blue-pumpkin/)
 
 ---

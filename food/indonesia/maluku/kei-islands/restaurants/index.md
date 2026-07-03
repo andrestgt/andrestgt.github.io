@@ -16,7 +16,7 @@ The best seafood restaurants are concentrated around Langgur, the main town, whe
 
 ## Forganza Resto & Cafe
 *Kelanit, Kei Kecil · Seafood, Indonesian*
-The best restaurant on the island — deservedly popular, with superb grilled squid and seafood cooked over coconut shells...
+The best restaurant on the island - deservedly popular, with superb grilled squid and seafood cooked over coconut shells...
 → [Read the full review](/food/indonesia/maluku/kei-islands/restaurants/forganza-resto/)
 
 ---
@@ -30,7 +30,7 @@ A beautiful seaside restaurant with harbour views, excellent grilled fish with c
 
 ## Ten Cafe
 *Ngilngof, Ngurbloat · Seafood, Indonesian*
-The only proper restaurant around Ngurbloat beach — a godsend for anyone staying in the area, with a great setting and decent seafood, though prices are higher than in town...
+The only proper restaurant around Ngurbloat beach - a godsend for anyone staying in the area, with a great setting and decent seafood, though prices are higher than in town...
 → [Read the full review](/food/indonesia/maluku/kei-islands/restaurants/ten-cafe/)
 
 ---

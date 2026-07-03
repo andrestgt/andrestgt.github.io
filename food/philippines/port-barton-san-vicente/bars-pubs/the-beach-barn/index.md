@@ -11,7 +11,7 @@ subtitle: San Vicente Beach · Bar
   <figcaption>The Beach Barn</figcaption>
 </figure>
 
-This place is anything but stylish — the décor is pretty awful. But if you can look past that, it's the cheapest spot for drinks and food right on the beach. Perfect for grabbing a few beers, enjoying the sunset, and having a quick snack without breaking the bank. Just don't expect any aesthetic charm!
+This place is anything but stylish; the décor is pretty awful. But if you can look past that, it's the cheapest spot for drinks and food right on the beach. Perfect for grabbing a few beers, enjoying the sunset, and having a quick snack without breaking the bank. Just don't expect any aesthetic charm!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">

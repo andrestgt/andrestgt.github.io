@@ -12,7 +12,7 @@ subtitle: Mahanagar, Lucknow · Indian
   <figcaption>Coffee Culture</figcaption>
 </figure>
 
-What is meant to be a stylish, chic lounge already looks a bit tired and worn, but it's nevertheless a nice refuge from the noisy, polluted street — spacious and comfortable. The name is a bit of a misnomer since they don't seem to have trained baristas here; my double-shot cappuccino (165 Rs) came almost without foam, which is a pity since the coffee quality was otherwise excellent. They were out of mutton, so we went for butter chicken, which here is a tasty sizzling version on rice. Portions are generous and a small portion (around 250 Rs) is enough for two.
+What is meant to be a stylish, chic lounge already looks a bit tired and worn, but it's nevertheless a nice refuge from the noisy, polluted street, spacious and comfortable. The name is a bit of a misnomer since they don't seem to have trained baristas here; my double-shot cappuccino (165 Rs) came almost without foam, which is a pity since the coffee quality was otherwise excellent. They were out of mutton, so we went for butter chicken, which here is a tasty sizzling version on rice. Portions are generous and a small portion (around 250 Rs) is enough for two.
 
 ## Ratings
 

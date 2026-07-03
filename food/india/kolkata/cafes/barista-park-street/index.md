@@ -7,7 +7,7 @@ title: Barista – Park Street
 subtitle: Park Street, Kolkata · Café
 ---
 
-I went to this place a couple of times since it was the closest café to my hotel. I don't really have a strong preference between CCD or Barista — they both offer decent quality espresso drinks at very similar prices. This shop has some very comfy seating and an OK toilet, and the WiFi works fine. What's annoying, however, is that the staff always serves and charges for a regular size cup even when you clearly order a small size.
+I went to this place a couple of times since it was the closest café to my hotel. I don't really have a strong preference between CCD or Barista, they both offer decent quality espresso drinks at very similar prices. This shop has some very comfy seating and an OK toilet, and the WiFi works fine. What's annoying, however, is that the staff always serves and charges for a regular size cup even when you clearly order a small size.
 
 ## Ratings
 

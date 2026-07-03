@@ -11,7 +11,7 @@ subtitle: San Vicente Town · Café
   <figcaption>Milano Café</figcaption>
 </figure>
 
-Very good Italian coffee in a modern, fan-cooled setting. The cappuccino is well prepared, though the milk quality isn't the best — not really their fault, as even the "fresh" milk in Palawan has that distinct UHT aftertaste. Prices are on par with Europe or Manila, but then again, Port Barton is generally expensive.
+Very good Italian coffee in a modern, fan-cooled setting. The cappuccino is well prepared, though the milk quality isn't the best, not really their fault, as even the "fresh" milk in Palawan has that distinct UHT aftertaste. Prices are on par with Europe or Manila, but then again, Port Barton is generally expensive.
 
 ## Ratings
 

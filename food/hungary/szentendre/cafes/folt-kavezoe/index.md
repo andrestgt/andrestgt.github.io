@@ -12,7 +12,7 @@ subtitle: Szentendre · Coffee Shop
   <figcaption>Folt Kávézó</figcaption>
 </figure>
 
-Fantastic and slightly eclectic coffee shop serving Italian-style coffee, craft beer, and — unusually for Hungary — genuinely friendly English-speaking service. The local craft beers are very good value. The coffee itself is only average, though.
+Fantastic and slightly eclectic coffee shop serving Italian-style coffee, craft beer, and, unusually for Hungary, genuinely friendly English-speaking service. The local craft beers are very good value. The coffee itself is only average, though.
 
 ## Ratings
 

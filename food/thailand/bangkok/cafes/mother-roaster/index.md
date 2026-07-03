@@ -20,7 +20,7 @@ photos_locked: true
 
 One of several hipster coffee shops in the now very popular Talad Noi area, the wall outside this café is probably one of the most photographed spots around. The café itself is on the second floor, and getting there means walking through what is basically a junk garage and then up a set of wooden stairs.
 
-The place is extremely popular with the selfie crowd. The café itself isn't anything special, although the prices are a bit on the high side — 100 baht for an admittedly well-prepared caffè latte.
+The place is extremely popular with the selfie crowd. The café itself isn't anything special, although the prices are a bit on the high side, 100 baht for an admittedly well-prepared caffè latte.
 
 Worth a visit at least once for the photos and the atmosphere.
 

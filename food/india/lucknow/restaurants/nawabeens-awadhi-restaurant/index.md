@@ -12,7 +12,7 @@ subtitle: Lalbagh, Lucknow · Awadhi
   <figcaption>Nawabeens Awadhi Restaurant</figcaption>
 </figure>
 
-One of the best places to enjoy traditional Awadhi food in nice surroundings without breaking the bank. The atmosphere is nice and the service is attentive. Awadhi food is undeniably very tasty, almost too rich and heavy to fully enjoy. Great without regrets are the grilled meats and kababs — done really well here with a perfect taste of meat and charcoal. The Afghani chicken was fantastic. The nihari was predictably oily but had a lot of nice mutton inside. All in all a very good meal for under 1000 Rs in nice surroundings.
+One of the best places to enjoy traditional Awadhi food in nice surroundings without breaking the bank. The atmosphere is nice and the service is attentive. Awadhi food is undeniably very tasty, almost too rich and heavy to fully enjoy. Great without regrets are the grilled meats and kababs, done really well here with a perfect taste of meat and charcoal. The Afghani chicken was fantastic. The nihari was predictably oily but had a lot of nice mutton inside. All in all a very good meal for under 1000 Rs in nice surroundings.
 
 <figure>
   <img src="/photos/india/lucknow/nawabeens-awadhi-restaurant-2.jpg" alt="Nawabeens Awadhi Restaurant">

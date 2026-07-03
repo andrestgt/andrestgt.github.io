@@ -13,7 +13,7 @@ subtitle: Restaurants in Sipalay
 
 ## Driftwood Village Resort Restaurant
 *Sugar Beach, Sipalay · Filipino, International*
-Great food at the end of the world — Thai, Filipino and Western at fair prices, worth going even if you don't stay.
+Great food at the end of the world; Thai, Filipino and Western at fair prices, worth going even if you don't stay.
 → [Read the full review](/food/philippines/sipalay/restaurants/driftwood-village-resort/)
 
 ---

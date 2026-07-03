@@ -12,8 +12,8 @@ photos_locked: true
   <figcaption>Coconut Shell Thai Food</figcaption>
 </figure>
 
-This little tourist restaurant is an easy recommendation. They offer a solid menu of Thai classics, only mildly toned down for foreign palates. The red curry had a nice kick and came with a generous portion of tender pork. I also really enjoyed their signature dish — coconut eggs with sausage and basil. The larb moo was maybe a bit on the dry side, but still full of flavour.
-Quality-wise, it's right up there with your typical local Thai spot, and the prices are just as fair — most non-seafood mains and curries go for around 60 Bt. Everything, including the excellent mango shakes, is beautifully presented.
+This little tourist restaurant is an easy recommendation. They offer a solid menu of Thai classics, only mildly toned down for foreign palates. The red curry had a nice kick and came with a generous portion of tender pork. I also really enjoyed their signature dish, coconut eggs with sausage and basil. The larb moo was maybe a bit on the dry side, but still full of flavour.
+Quality-wise, it's right up there with your typical local Thai spot, and the prices are just as fair, most non-seafood mains and curries go for around 60 Bt. Everything, including the excellent mango shakes, is beautifully presented.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

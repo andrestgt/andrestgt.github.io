@@ -19,7 +19,7 @@ Convenient café in central Cenang serving standard dishes at reasonable prices 
 
 ## Bella Restaurant
 *Pantai Cenang · Malay, International*
-Simple tourist restaurant right on the Cenang strip — decent food, fair prices,>
+Simple tourist restaurant right on the Cenang strip, decent food, fair prices,>
 → [Read the full review](/food/malaysia/langkawi/street-food/bella-restaurant/)
 
 **Price level note:**

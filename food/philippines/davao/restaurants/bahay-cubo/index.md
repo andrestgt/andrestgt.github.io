@@ -11,7 +11,7 @@ subtitle: Samal Island, Davao del Norte · Filipino
   <figcaption>Bahay Cubo</figcaption>
 </figure>
 
-Samal island is not a place for foodies, but Alphonse and Jaqueline's Bahay Kubo is a hidden gem and a must for everyone visiting. It's only open Friday to Sunday, and there's no menu — Alphonse will offer you whatever is available. Whatever is served is not fancy food, but the quality, preparation and freshness is simply outstanding. The tuna steak was perfectly cooked and truly divine, the roast beef melted in your mouth and the beef meatballs with fried potatoes were some of the best I had in Asia. They also have a nice variety of good value wines, mainly from Chile, perfectly chilled.
+Samal island is not a place for foodies, but Alphonse and Jaqueline's Bahay Kubo is a hidden gem and a must for everyone visiting. It's only open Friday to Sunday, and there's no menu; Alphonse will offer you whatever is available. Whatever is served is not fancy food, but the quality, preparation and freshness is simply outstanding. The tuna steak was perfectly cooked and truly divine, the roast beef melted in your mouth and the beef meatballs with fried potatoes were some of the best I had in Asia. They also have a nice variety of good value wines, mainly from Chile, perfectly chilled.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">

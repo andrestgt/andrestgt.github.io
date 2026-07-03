@@ -13,7 +13,7 @@ subtitle: Street food in Mysore
 
 ## Abiruchi Pure Veg Restaurant
 *Shivarampet · South Indian*
-Self-service breakfast institution — beautiful open butter masala dosa at 55 Rs, clean and friendly.
+Self-service breakfast institution, beautiful open butter masala dosa at 55 Rs, clean and friendly.
 → [Read the full review](/food/india/mysore/street-food/abiruchi-pure-veg/)
 
 ---

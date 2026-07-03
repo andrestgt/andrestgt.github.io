@@ -11,7 +11,7 @@ subtitle: Nha Trang · Vietnamese
     </figure>
 
 
-This place has existed for a long time and is clearly geared towards Russian tourists, with an international menu that's inexpensive but pretty underwhelming. The food actually used to be better a few years ago, but quality has sadly gone down. Just take a look at the difference between goi cuon in 2022 and 2025 below. The saving grace? Beer is ridiculously cheap—just 9k for a bottle of Saigon. Plus, it's open very late, which is a bonus.
+This place has existed for a long time and is clearly geared towards Russian tourists, with an international menu that's inexpensive but pretty underwhelming. The food actually used to be better a few years ago, but quality has sadly gone down. Just take a look at the difference between goi cuon in 2022 and 2025 below. The saving grace? Beer is ridiculously cheap, just 9k for a bottle of Saigon. Plus, it's open very late, which is a bonus.
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">

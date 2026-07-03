@@ -13,7 +13,7 @@ subtitle: Restaurants in Mysore
 
 ## Dicky Tibet Restaurant
 *Devaraja Mohalla · Tibetan*
-A little corner of Tibet in Southern India — super cheap dishes under 80 Rs, meat dumplings, noodle soups and excellent homemade chili sauce.
+A little corner of Tibet in Southern India, super cheap dishes under 80 Rs, meat dumplings, noodle soups and excellent homemade chili sauce.
 → [Read the full review](/food/india/mysore/restaurants/dicky-tibet-restaurant/)
 
 ---

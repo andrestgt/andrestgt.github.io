@@ -13,7 +13,7 @@ subtitle: Restaurants in Mallorca
 
 ## SA FARINERA
 S'Horta · Restaurant
-Beautiful restaurant with good house wine and genuinely excellent food — grilled rabbit, pig tongues, blood sausage, snails, and liver, all very well done. Probably the best food on Mallorca.
+Beautiful restaurant with good house wine and genuinely excellent food - grilled rabbit, pig tongues, blood sausage, snails, and liver, all very well done. Probably the best food on Mallorca.
 → [Read the full review](./sa-farinera/)
 
 ## ANTIC CELLER SAN TOREÓ

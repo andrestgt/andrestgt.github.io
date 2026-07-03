@@ -13,7 +13,7 @@ photos_locked: true
 </figure>
 
 
-The tea plantations here are genuinely beautiful, although during high season the place can become overrun with tourists. Even so, it’s still worth visiting for the café, which serves very photogenic — but also genuinely tasty — tea drinks and cakes.
+The tea plantations here are genuinely beautiful, although during high season the place can become overrun with tourists. Even so, it’s still worth visiting for the café, which serves very photogenic, but also genuinely tasty, tea drinks and cakes.
 
 <figure>
   <img src="/photos/thailand/chiang-rai/cft2.jpg"

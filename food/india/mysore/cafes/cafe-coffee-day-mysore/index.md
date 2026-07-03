@@ -7,7 +7,7 @@ title: Café Coffee Day – Mysore
 subtitle: Hyderali Road, Mysore · Café
 ---
 
-CCD really is a terrible franchise. It seems their classic cold coffee is never available, and they don't offer any other iced regular coffee versions — only sugary coffee shakes and frappes. And it's obviously overpriced.
+CCD really is a terrible franchise. It seems their classic cold coffee is never available, and they don't offer any other iced regular coffee versions, only sugary coffee shakes and frappes. And it's obviously overpriced.
 
 ## Ratings
 

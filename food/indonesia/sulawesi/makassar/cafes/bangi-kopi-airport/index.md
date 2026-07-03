@@ -12,7 +12,7 @@ subtitle: Makassar Airport · Café-Bistro
   <figcaption>Bangi Kopi – Hasanuddin Airport</figcaption>
 </figure>
 
-This place is better than people tend to give it credit for, especially for what is basically an airport café-bistro. Prices are okay overall, although the coffees are quite expensive — the cappuccino was actually pretty good. I also had the Kuay Teow Goreng with chicken, which came with a nicely spicy sambal. Nothing gourmet, obviously, but that’s not really the point at a basic airport eatery. Perfectly fine if you need something quick.
+This place is better than people tend to give it credit for, especially for what is basically an airport café-bistro. Prices are okay overall, although the coffees are quite expensive - the cappuccino was actually pretty good. I also had the Kuay Teow Goreng with chicken, which came with a nicely spicy sambal. Nothing gourmet, obviously, but that’s not really the point at a basic airport eatery. Perfectly fine if you need something quick.
 
 ## Ratings
 

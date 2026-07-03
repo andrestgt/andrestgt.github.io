@@ -12,7 +12,7 @@ subtitle: Palolem, South Goa · Goan, International
   <figcaption>Boom Shankar Resort</figcaption>
 </figure>
 
-Quiet resort with a pleasant seaview terrace. It's more basic than most resorts in Patnem and Palolem, but beers and food prices are similar — the only reason to come here is for solitude. They do nice squid balls with wasabi and soy sauce.
+Quiet resort with a pleasant seaview terrace. It's more basic than most resorts in Patnem and Palolem, but beers and food prices are similar; the only reason to come here is for solitude. They do nice squid balls with wasabi and soy sauce.
 
 <figure>
   <img src="/photos/india/south-goa/boom-shankar-resort-2.jpg" alt="Boom Shankar Resort">

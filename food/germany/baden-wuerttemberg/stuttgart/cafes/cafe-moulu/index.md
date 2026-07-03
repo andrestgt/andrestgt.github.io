@@ -10,7 +10,7 @@ A really lovely café in Stuttgart West, housed in a charming Gründerzeit build
 
 The coffee beans and roast are fundamentally of very good quality. My flat white, however, was a little too milky, almost drifting into latte territory. At nearly €5, I would have expected more convincing barista technique.
 
-Still, Café Moulu is a very pleasant place that I can comfortably recommend, whether for coffee or just a small bite to eat — even if it’s only a buttered pretzel.
+Still, Café Moulu is a very pleasant place that I can comfortably recommend, whether for coffee or just a small bite to eat, even if it’s only a buttered pretzel.
 
 ## Ratings
 

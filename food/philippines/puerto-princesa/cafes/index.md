@@ -13,7 +13,7 @@ subtitle: Cafés in Puerto Princesa City
 
 ## Capheinated
 *Puerto Princesa City · Café*
-Very authentic Vietnamese cà phê phin — the iced black coffee is strong enough to curl your toenails.
+Very authentic Vietnamese cà phê phin; the iced black coffee is strong enough to curl your toenails.
 → [Read the full review](/food/philippines/puerto-princesa/cafes/capheinated/)
 
 ---

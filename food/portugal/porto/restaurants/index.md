@@ -13,7 +13,7 @@ subtitle: Restaurants in Porto
 
 ## CHURRASQUEIRA MOURA
 Porto · Restaurant
-Cafeteria-style local restaurant — not winning awards for atmosphere, but the grilled meat with their homemade spicy sauce is genuinely very good. Prices are low.
+Cafeteria-style local restaurant, not winning awards for atmosphere, but the grilled meat with their homemade spicy sauce is genuinely very good. Prices are low.
 → [Read the full review](./churrasqueira-moura/)
 
 ## MARISCARIA BOM SUCESSO

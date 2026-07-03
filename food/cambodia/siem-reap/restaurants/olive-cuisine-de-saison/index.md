@@ -12,7 +12,7 @@ subtitle: Old Town, Siem Reap · Mediterranean, French
   <figcaption>Olive Cuisine de Saison</figcaption>
 </figure>
 
-Olive is a very attractive fine dining restaurant in Siem Reap's Old Town, with a nicely designed dining room that is fancy yet casual. The menu is Mediterranean with emphasis on French and some Asian influences. We ordered four dishes: a fantastic beef carpaccio with rucola and parmesan, tuna avocado tartare that tasted very fresh, pasta with sweetbreads and morilles at an excellent price, and perfectly cooked oven-baked prawns. I simply couldn't find any fault in the food — everything was impeccable, generous and well priced.
+Olive is a very attractive fine dining restaurant in Siem Reap's Old Town, with a nicely designed dining room that is fancy yet casual. The menu is Mediterranean with emphasis on French and some Asian influences. We ordered four dishes: a fantastic beef carpaccio with rucola and parmesan, tuna avocado tartare that tasted very fresh, pasta with sweetbreads and morilles at an excellent price, and perfectly cooked oven-baked prawns. I simply couldn't find any fault in the food; everything was impeccable, generous and well priced.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

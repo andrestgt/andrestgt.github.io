@@ -13,5 +13,5 @@ subtitle: Cafés in Brno
 
 ## MOMENTA CAFE
 Brno · Café
-Probably the nicest café in Brno — a modern take on a traditional Kaffeehaus. Excellent coffee, friendly service, and homemade meat pâtés worth trying.
+Probably the nicest café in Brno, a modern take on a traditional Kaffeehaus. Excellent coffee, friendly service, and homemade meat pâtés worth trying.
 → [Read the full review](./momenta-cafe/)

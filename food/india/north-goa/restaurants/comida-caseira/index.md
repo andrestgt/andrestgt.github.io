@@ -11,7 +11,7 @@ subtitle: Vagator, North Goa · Goan
   <figcaption>Comida Caseira</figcaption>
 </figure>
 
-A very good option if you'd like to try Goan food with a bit of a twist in a slightly more upscale style but without shelling out thousands of rupees in the fancy beach club restaurants. It's a friendly place with a very good atmosphere and competent service. I found the food here good, but not excellent — hence only 4 stars. The pork poppers were a bit too salty, the taste of Goa sampler was nice.
+A very good option if you'd like to try Goan food with a bit of a twist in a slightly more upscale style but without shelling out thousands of rupees in the fancy beach club restaurants. It's a friendly place with a very good atmosphere and competent service. I found the food here good, but not excellent, hence only 4 stars. The pork poppers were a bit too salty, the taste of Goa sampler was nice.
 
 
 <figure>

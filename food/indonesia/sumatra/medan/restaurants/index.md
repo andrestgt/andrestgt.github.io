@@ -14,7 +14,7 @@ subtitle: Restaurants in Medan
 
 ## Batiks
 *Merdeka Walk · Indonesian*
-One of the better restaurants around Merdeka Walk — stylish, good for people watching, and serving very good Indonesian classics including an especially tasty gado-gado.
+One of the better restaurants around Merdeka Walk - stylish, good for people watching, and serving very good Indonesian classics including an especially tasty gado-gado.
 → [Read the full review](/food/indonesia/sumatra/medan/restaurants/batiks/)
 
 ---

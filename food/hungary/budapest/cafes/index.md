@@ -18,5 +18,5 @@ A very nice-looking café, but the coffee does not justify the prices. Cappuccin
 
 ## TAMP & PULL ESPRESSO BAR
 Budapest · Espresso Bar
-Nice espresso bar out in the outskirts. The cappuccino is expertly prepared and cost 540 Ft — the best coffee I found in Budapest.
+Nice espresso bar out in the outskirts. The cappuccino is expertly prepared and cost 540 Ft, the best coffee I found in Budapest.
 → [Read the full review](./tamp-and-pull-espresso-bar/)

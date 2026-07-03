@@ -21,7 +21,7 @@ Very cute alley café with a smooth cappuccino at 90 NT$ and a sinful matcha lav
 
 ## Beefcake Coffee Roasters
 *Anping · Café*
-Strangely named but rather chic café with very nice coffees and teas — a bit pricey for Tainan.
+Strangely named but rather chic café with very nice coffees and teas, a bit pricey for Tainan.
 → [Read the full review](/food/taiwan/tainan/cafes/beefcake-coffee-roasters/)
 
 ---

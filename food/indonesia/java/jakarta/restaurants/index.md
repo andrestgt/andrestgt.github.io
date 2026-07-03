@@ -14,7 +14,7 @@ subtitle: Restaurants in Jakarta
 
 ## Café Batavia
 *Kota · Restaurant, Bar*
-A Jakarta institution with an extraordinary colonial interior — come for the atmosphere, stay for the food and drinks.
+A Jakarta institution with an extraordinary colonial interior - come for the atmosphere, stay for the food and drinks.
 → [Read the full review](/food/indonesia/java/jakarta/restaurants/cafe-batavia/)
 
 ---
@@ -35,42 +35,42 @@ Elegant Chinese restaurant where the signature duck and frog legs are both excel
 
 ## JJ Royal Brasserie
 *Kuningan · Brasserie, Indonesian*
-One of Jakarta’s best restaurants — foie gras and pempek done equally well, with remarkably fair prices for the quality.
+One of Jakarta’s best restaurants - foie gras and pempek done equally well, with remarkably fair prices for the quality.
 → [Read the full review](/food/indonesia/java/jakarta/restaurants/jj-royal-brasserie/)
 
 ---
 
 ## Lamian Palace – Grand Indonesia
 *Grand Indonesia · Chinese, Noodles*
-Budget-friendly noodle and dumpling restaurant inside one of Jakarta’s fanciest malls — consistently good with excellent value.
+Budget-friendly noodle and dumpling restaurant inside one of Jakarta’s fanciest malls - consistently good with excellent value.
 → [Read the full review](/food/indonesia/java/jakarta/restaurants/lamian-palace-grand-indonesia/)
 
 ---
 
 ## Ninety Nine
 *Grand Indonesia · Bistro, Indonesian*
-Reliable bistro in comfortable surroundings — food prices fair, beverages less so.
+Reliable bistro in comfortable surroundings - food prices fair, beverages less so.
 → [Read the full review](/food/indonesia/java/jakarta/restaurants/ninety-nine/)
 
 ---
 
 ## Lara Djonggrang
 *Menteng · Indonesian, Fine Dining*
-Quite possibly Jakarta’s most atmospheric restaurant — the extraordinary interior alone makes it worth visiting, and the food delivers too.
+Quite possibly Jakarta’s most atmospheric restaurant - the extraordinary interior alone makes it worth visiting, and the food delivers too.
 → [Read the full review](/food/indonesia/java/jakarta/restaurants/lara-djonggrang/)
 
 ---
 
 ## Sushi Groove – Grand Indonesia
 *Grand Indonesia · Japanese, Fusion Sushi*
-Playful fusion sushi that works surprisingly well — affordable and easy to recommend for casual dining.
+Playful fusion sushi that works surprisingly well - affordable and easy to recommend for casual dining.
 → [Read the full review](/food/indonesia/java/jakarta/restaurants/sushi-groove/)
 
 ---
 
 ## Taste Paradise
 *Plaza Indonesia · Cantonese, Dim Sum*
-Elegant Cantonese restaurant with excellent dim sum — more refined than nearby competitors at similar prices, with memorable scallop dumplings.
+Elegant Cantonese restaurant with excellent dim sum - more refined than nearby competitors at similar prices, with memorable scallop dumplings.
 → [Read the full review](/food/indonesia/java/jakarta/restaurants/taste-paradise/)
 
 ---

@@ -27,4 +27,4 @@ Blugre is a pleasant enough café, but putting cinnamon on a cappuccino remains 
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf8d3c6bcc55048ab)
 ☕ **Type:** Café
-💰 **Price level:** — moderate
+💰 **Price level:**, moderate

@@ -27,4 +27,4 @@ Charging more than 160 Php for a cappuccino would already require highest standa
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xde37e3913eaf37b3)
 ☕ **Type:** Café
-💰 **Price level:** —expensive
+💰 **Price level:**, expensive

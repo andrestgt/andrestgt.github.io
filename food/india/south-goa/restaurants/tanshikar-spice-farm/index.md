@@ -12,7 +12,7 @@ subtitle: Netravli, South Goa · Goan
   <figcaption>Tanshikar Spice Farm</figcaption>
 </figure>
 
-A great place to visit — the bike ride from the southern beaches is very beautiful. Make sure to be there in time for a tour, best to call ahead. The tours are highly informative and entertaining. Prices for their organic spices are fair. I only found the lunch buffet a little disappointing — it was very basic and nothing special. It's included in the 550 Rs for the tour, so at that price I would have expected more delicious food.
+A great place to visit; the bike ride from the southern beaches is very beautiful. Make sure to be there in time for a tour, best to call ahead. The tours are highly informative and entertaining. Prices for their organic spices are fair. I only found the lunch buffet a little disappointing; it was very basic and nothing special. It's included in the 550 Rs for the tour, so at that price I would have expected more delicious food.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

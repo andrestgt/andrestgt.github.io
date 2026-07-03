@@ -11,7 +11,7 @@ subtitle: Nha Trang · Greek
   <figcaption>Greek Cuisine</figcaption>
 </figure>
 
-Of all the Greek souvlaki places that have popped up around Pho Tay, this one opposite Rainbow is my favourite. It’s the most basic—just a couple of (usually sticky) tables outside on the pavement. Their 55k pork or chicken souvlakis are the second-best snack you can have in Nha Trang, right after your favorite banh mi. This branch is also, thankfully, devoid of Korean tourists, and service tends to be quick.
+Of all the Greek souvlaki places that have popped up around Pho Tay, this one opposite Rainbow is my favourite. It’s the most basic, just a couple of (usually sticky) tables outside on the pavement. Their 55k pork or chicken souvlakis are the second-best snack you can have in Nha Trang, right after your favorite banh mi. This branch is also, thankfully, devoid of Korean tourists, and service tends to be quick.
 
 <figure>
   <img src="/photos/vietnam/nha-trang/greek-cuisine-2.jpg" alt="Greek Cuisine">

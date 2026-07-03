@@ -42,7 +42,7 @@ subtitle: Park Street, Kolkata · Bar
   <figcaption>Olypub</figcaption>
 </figure>
 
-This old-school boozer seems fallen out of time — it looks like a cheap cafeteria yet still manages to be charming with its grumpy waiters and big variety of booze. They have Bira 91 and Simba beers which I didn't find in any other bars I visited in town. Much better than Kingfisher or Heineken. Plus, they serve great grub — everyone orders the beef steak which is legendary, tasty and at 250 Rs an absolute steal. Drink prices are OK for the location, but there's no happy hour and most cheaper pours are "out of stock".
+This old-school boozer seems fallen out of time; it looks like a cheap cafeteria yet still manages to be charming with its grumpy waiters and big variety of booze. They have Bira 91 and Simba beers which I didn't find in any other bars I visited in town. Much better than Kingfisher or Heineken. Plus, they serve great grub; everyone orders the beef steak which is legendary, tasty and at 250 Rs an absolute steal. Drink prices are OK for the location, but there's no happy hour and most cheaper pours are "out of stock".
 
 ## Ratings
 

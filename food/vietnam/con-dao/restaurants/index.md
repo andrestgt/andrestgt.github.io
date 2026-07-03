@@ -19,7 +19,7 @@ We stayed just next door so this became our go to restaurant during our time in 
 
 ## Gia Minh Hand-made Noodle Bistro
 *Côn Đảo · Vietnamese, Noodles*
-An absolute must on Côn Đảo — deceptively basic-looking garden eatery with outstanding handmade noodles, excellent wonton soup, and superb grilled squid.
+An absolute must on Côn Đảo, deceptively basic-looking garden eatery with outstanding handmade noodles, excellent wonton soup, and superb grilled squid.
 → [Read the full review](/food/vietnam/con-dao/restaurants/gia-minh-hand-made-noodle-bistro/)
 
 ---

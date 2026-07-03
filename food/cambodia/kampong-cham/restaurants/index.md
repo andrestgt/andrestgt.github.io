@@ -13,7 +13,7 @@ subtitle: Restaurants in Kampong Cham
 
 ## Smile Restaurant
 *Riverside, Kampong Cham · Khmer*
-Touristy riverside restaurant with fair prices and perfectly decent food — the beef salad is especially good.
+Touristy riverside restaurant with fair prices and perfectly decent food; the beef salad is especially good.
 → [Read the full review](/food/cambodia/kampong-cham/restaurants/smile-restaurant/)
 
 ---

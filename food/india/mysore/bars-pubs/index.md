@@ -13,7 +13,7 @@ subtitle: Bars and pubs in Mysore
 
 ## Pelican Pub & Grub House Restaurant
 *Vinoba Road · Bar*
-Part pub, part family garden restaurant — only Kingfisher draft available, but a varied menu with meat options including pork.
+Part pub, part family garden restaurant, only Kingfisher draft available, but a varied menu with meat options including pork.
 → [Read the full review](/food/india/mysore/bars-pubs/pelican-pub/)
 
 ---

@@ -16,14 +16,14 @@ Chiang Mai has one of the best café scenes in Southeast Asia, with dozens of qu
 
 ## 32 Coffee Hill & Resort
 *Pa Pae, Mae Taeng · Café*
-A great place to break the journey between Chiang Mai and Pai — attractive setting, good Thai food, and decent coffees...
+A great place to break the journey between Chiang Mai and Pai, attractive setting, good Thai food, and decent coffees...
 → [Read the full review](/food/thailand/chiang-mai/cafes/32-coffee-hill/)
 
 ---
 
 ## Akha Ama Phrasingh
 *Si Phum, Old Town · Specialty Coffee*
-Minimalist coffee shop from one of Chiang Mai's most renowned roasters — very good coffees at reasonable prices...
+Minimalist coffee shop from one of Chiang Mai's most renowned roasters, very good coffees at reasonable prices...
 → [Read the full review](/food/thailand/chiang-mai/cafes/akha-ama/)
 
 ---
@@ -37,7 +37,7 @@ Bright, air-conditioned café with very good lattes for 65 Bt...
 
 ## The Baristro Asian Style
 *Suthep · Café*
-An Instagram-first café that actually delivers — the Japanese-inspired architecture and garden create a genuine sense of calm...
+An Instagram-first café that actually delivers, the Japanese-inspired architecture and garden create a genuine sense of calm...
 → [Read the full review](/food/thailand/chiang-mai/cafes/baristro-asian-style/)
 
 ---
@@ -72,14 +72,14 @@ Nicely designed café with a big garden with good coffees and shakes at reasonab
 
 ## Coffee Waan
 *Chang Khlan · Café*
-A rare find — a smooth latte for just 45 Bt without the bitter cheap-roast quality common at this price point...
+A rare find, a smooth latte for just 45 Bt without the bitter cheap-roast quality common at this price point...
 → [Read the full review](/food/thailand/chiang-mai/cafes/coffee-waan/)
 
 ---
 
 ## Dee Cafe
 *Chang Phueak · Café*
-Small, bright and air-conditioned — flat whites at 45 Bt in pleasant setting...
+Small, bright and air-conditioned, flat whites at 45 Bt in pleasant setting...
 → [Read the full review](/food/thailand/chiang-mai/cafes/dee-cafe/)
 
 ---
@@ -107,7 +107,7 @@ A quieter alternative to Stories with the same excellent coffee quality...
 
 ## Herb Basics
 *Si Phum, Old Town · Café*
-A lovely shop that doubles as a café — decent quality latte in a nice atmosphere...
+A lovely shop that doubles as a café, decent quality latte in a nice atmosphere...
 → [Read the full review](/food/thailand/chiang-mai/cafes/herb-basics/)
 
 ---
@@ -136,14 +136,14 @@ An arty little café in a great Old Town location...
 
 ## Lung Pud Pa Peng Coffee
 *Mae On · Café*
-A lovely wooden house on a small creek — very popular with local tourists...
+A lovely wooden house on a small creek, very popular with local tourists...
 → [Read the full review](/food/thailand/chiang-mai/cafes/lung-pud-pa-peng-coffee/)
 
 ---
 
 ## Ombra Caffe
 *Chang Phueak · Café*
-Excellent flat whites — more co-working space than café...
+Excellent flat whites, more co-working space than café...
 → [Read the full review](/food/thailand/chiang-mai/cafes/ombra-caffe/)
 
 ---

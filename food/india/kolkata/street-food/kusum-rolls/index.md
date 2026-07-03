@@ -12,7 +12,7 @@ subtitle: Park Street, Kolkata · Indian
   <figcaption>Kusum Roll's</figcaption>
 </figure>
 
-This is the Kolkata version of a doner kebab — you know you want it, and it's really delicious even sober. Go for egg mutton with extra cheese. I imagine it's even better after a couple of Kingfishers at Oly's next door.
+This is the Kolkata version of a doner kebab; you know you want it, and it's really delicious even sober. Go for egg mutton with extra cheese. I imagine it's even better after a couple of Kingfishers at Oly's next door.
 
 <figure>
   <img src="/photos/india/kolkata/kusum-rolls-2.jpg" alt="Kusum Roll's">

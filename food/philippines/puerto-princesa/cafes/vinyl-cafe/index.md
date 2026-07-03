@@ -18,7 +18,7 @@ subtitle: Rizal Ave, Puerto Princesa · Café
   <figcaption>Vinyl Cafe Palawan</figcaption>
 </figure>
 
-Vinyl is an oasis of calm — you wouldn't believe a place this peaceful exists just off noisy Rizal Ave. It's set around a charming courtyard with plenty of flowers and greenery, and even has working WiFi. The beef tapsilog was pretty good too. However, I can't really recommend it because of the issue I had with my flat white — they used UHT milk instead of fresh milk, and the result tasted like feet.
+Vinyl is an oasis of calm; you wouldn't believe a place this peaceful exists just off noisy Rizal Ave. It's set around a charming courtyard with plenty of flowers and greenery, and even has working WiFi. The beef tapsilog was pretty good too. However, I can't really recommend it because of the issue I had with my flat white; they used UHT milk instead of fresh milk, and the result tasted like feet.
 
 <figure>
   <img src="/photos/philippines/puerto-princesa/vinyl-cafe-2.jpg" alt="Vinyl Cafe Palawan">

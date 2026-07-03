@@ -11,7 +11,7 @@ subtitle: Pantai Cenang, Langkawi · Fusion, Tapas
   <figcaption>Tapaz Langkawi</figcaption>
 </figure>
 
-Shocking service and very limited wine selection, which is a shame, because this marina-side restaurant serves really good, reasonably priced food in a great location. Chicken liver, squid salad, lamb balls — all wonderful. Cheap happy hour beers. Maybe during high season the staff are less sleepy. Still, recommended.
+Shocking service and very limited wine selection, which is a shame, because this marina-side restaurant serves really good, reasonably priced food in a great location. Chicken liver, squid salad, lamb balls, all wonderful. Cheap happy hour beers. Maybe during high season the staff are less sleepy. Still, recommended.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

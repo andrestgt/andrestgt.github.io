@@ -20,7 +20,7 @@ Lovely chill-out place with good food, Tibetan momos, excellent cakes and potent
 
 ## Bombay Coffee Roasters – Palolem
 *Palolem · Café*
-Best value espresso in Goa at 90 Rs a cappuccino — preparation quality varies, but still the most reliable option in South Goa.
+Best value espresso in Goa at 90 Rs a cappuccino, preparation quality varies, but still the most reliable option in South Goa.
 → [Read the full review](/food/india/south-goa/cafes/bombay-coffee-roasters-palolem/)
 
 ---

@@ -13,7 +13,7 @@ subtitle: Cafés in Dresden
 
 ## COMBO
 Dresden Neustadt · Café
-Very funky 70s decor with reasonable prices. The coffee is on the burnt side — which is ei...
+Very funky 70s decor with reasonable prices. The coffee is on the burnt side, which is ei...
 → [Read the full review](./combo/)
 
 ## OSWALDZ

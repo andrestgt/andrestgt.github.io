@@ -12,7 +12,7 @@ subtitle: City Centre Mall, Kolkata · International
   <figcaption>Afraa Lounge</figcaption>
 </figure>
 
-There are very few culinary options in City Centre Mall and this small and cramped deli is probably the best. It seems to fancy itself as a chic dining establishment, but it's really just a decent bistro. The dishes I was interested in were out of stock, so we settled for masala wedges (very good — perfectly crunchy and fluffy) and an aloo tikki burger which was unexciting and too dry.
+There are very few culinary options in City Centre Mall and this small and cramped deli is probably the best. It seems to fancy itself as a chic dining establishment, but it's really just a decent bistro. The dishes I was interested in were out of stock, so we settled for masala wedges (very good, perfectly crunchy and fluffy) and an aloo tikki burger which was unexciting and too dry.
 
 <figure>
   <img src="/photos/india/kolkata/afraa-lounge-2.jpg" alt="Afraa Lounge">

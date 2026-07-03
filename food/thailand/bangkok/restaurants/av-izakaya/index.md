@@ -12,7 +12,7 @@ photos_locked: true
   <figcaption>AV Izakaya Saphan Khwai</figcaption>
 </figure>
 
-Definitely not your standard izakaya. This one has a clear adult theme throughout. Female guests are offered a free cake in a rather suggestive shape, which tastes better than you might think — I know because I was allowed to take a bite.
+Definitely not your standard izakaya. This one has a clear adult theme throughout. Female guests are offered a free cake in a rather suggestive shape, which tastes better than you might think; I know because I was allowed to take a bite.
 
 But it's not just style over substance. They do what a proper izakaya should, and they do it well. There's a good selection of skewers, along with more refined dishes like beef yukke. You can go for cheaper Asahi or more expensive Sapporo, so the evening can be as affordable or as expensive as you want.
 

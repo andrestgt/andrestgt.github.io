@@ -12,7 +12,7 @@ subtitle: Hampi · Indian, International
   <figcaption>Mango Tree Restaurant</figcaption>
 </figure>
 
-I'll go with the majority opinion here and say this is a great place with friendly service and very good food. I don't agree that it's too expensive — prices are in line with the rest of Hampi's traveller cafés, with veg meals around 120 Rs and thalis around 200 Rs. Thalis, both North and South style, are very tasty. The reason I deduct one star is their "Lavazza" cappuccino — it's everything but. Milky dishwater more like, for the same price as a full meal. Avoid!
+I'll go with the majority opinion here and say this is a great place with friendly service and very good food. I don't agree that it's too expensive; prices are in line with the rest of Hampi's traveller cafés, with veg meals around 120 Rs and thalis around 200 Rs. Thalis, both North and South style, are very tasty. The reason I deduct one star is their "Lavazza" cappuccino; it's everything but. Milky dishwater more like, for the same price as a full meal. Avoid!
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

@@ -12,7 +12,7 @@ subtitle: Hampi · Indian
   <figcaption>Ravi's Rose Restaurant</figcaption>
 </figure>
 
-Another one of Hampi's same-same rooftop traveller cafés. It's a decent place for a rest stop — comfy seats, slow WiFi and sockets. Had an aubergine masala (130 Rs) with naan (40 Rs), which was fine. One star deducted for the inconvenience of letting a map/postcard vendor up to the restaurant to pester customers — that kind of defeats the purpose of a chill-out rooftop.
+Another one of Hampi's same-same rooftop traveller cafés. It's a decent place for a rest stop, comfy seats, slow WiFi and sockets. Had an aubergine masala (130 Rs) with naan (40 Rs), which was fine. One star deducted for the inconvenience of letting a map/postcard vendor up to the restaurant to pester customers, that kind of defeats the purpose of a chill-out rooftop.
 
 ## Ratings
 

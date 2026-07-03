@@ -12,7 +12,7 @@ subtitle: Sihanoukville · Café, Italian
   <figcaption>Enoteca</figcaption>
 </figure>
 
-Their Italian cappuccino is actually not better than at some of the other coffee shops in town, but it's OK for $2. Sandwiches such as the parma ham one are very nice, if rather expensive — though imported ingredients are obviously not cheap to get here.
+Their Italian cappuccino is actually not better than at some of the other coffee shops in town, but it's OK for $2. Sandwiches such as the parma ham one are very nice, if rather expensive, though imported ingredients are obviously not cheap to get here.
 
 ## Ratings
 

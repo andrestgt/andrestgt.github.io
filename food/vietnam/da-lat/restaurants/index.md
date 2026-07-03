@@ -33,7 +33,7 @@ They do a good job of creating a proper German Gasthof vibe with the wooden inte
 
 ## Primavera Italian Restaurant
 *Đà Lạt*
-I loved everything about Primavera — from the well-stocked deli and wood-fired oven downstairs to the cozy trattoria vib
+I loved everything about Primavera, from the well-stocked deli and wood-fired oven downstairs to the cozy trattoria vib
 → [Read the full review](/food/vietnam/da-lat/restaurants/primavera-italian-restaurant/)
 
 ---

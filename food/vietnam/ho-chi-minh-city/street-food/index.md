@@ -12,7 +12,7 @@ subtitle: Street Food in Ho Chi Minh City
 
 ## Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)
 *Ho Chi Minh City*
-Small, upmarket food court in a prime location—perfect for sampling a wide variety of Vietnamese dishes.
+Small, upmarket food court in a prime location, perfect for sampling a wide variety of Vietnamese dishes.
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/)
 
 ---

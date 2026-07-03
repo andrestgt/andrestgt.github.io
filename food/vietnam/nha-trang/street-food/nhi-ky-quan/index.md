@@ -11,9 +11,9 @@ subtitle: Nha Trang · Vietnamese
   <figcaption>Nhi Ký Quán</figcaption>
 </figure>
 
-A basic eatery in an untouristy part of town behind Dam Market, this place is curiously popular with Russians—presumably expats. It bills itself as a Singaporean restaurant, but in reality, it specializes in smoked and roasted meats—think char siu or roasted duck.
+A basic eatery in an untouristy part of town behind Dam Market, this place is curiously popular with Russians, presumably expats. It bills itself as a Singaporean restaurant, but in reality, it specializes in smoked and roasted meats, think char siu or roasted duck.
 
-Prices are rock bottom: a full combo meal for two, including wonton soup, rice, noodles, a drink, and three kinds of meat, costs just 135k. They also offer homemade dumplings (60k for 10), but they’re not great—the dough is too thick and gelatinous.
+Prices are rock bottom: a full combo meal for two, including wonton soup, rice, noodles, a drink, and three kinds of meat, costs just 135k. They also offer homemade dumplings (60k for 10), but they’re not great; the dough is too thick and gelatinous.
 
 That said, I’d totally recommend it for their meat platters, which I doubt you’ll find cheaper at this quality anywhere else in Nha Trang.
 

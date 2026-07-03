@@ -11,7 +11,7 @@ subtitle: El Nido Town · Filipino
   <figcaption>Pong's Pares El Nido</figcaption>
 </figure>
 
-Don't get me wrong — the food here is very tasty, but it's best enjoyed as a hangover cure or a solid base before a binge. Healthy? Definitely not. Pungent, heavy, oily, delicious — yes. Both the pares mami and the tofu sisig would make your PT cry. 170 Php for a pares might sound steep, but for El Nido, it's pretty standard.
+Don't get me wrong; the food here is very tasty, but it's best enjoyed as a hangover cure or a solid base before a binge. Healthy? Definitely not. Pungent, heavy, oily, delicious, yes. Both the pares mami and the tofu sisig would make your PT cry. 170 Php for a pares might sound steep, but for El Nido, it's pretty standard.
 
 
 <figure>

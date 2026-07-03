@@ -11,7 +11,7 @@ subtitle: Nha Trang · Coffee
   <figcaption>Mango Coffee</figcaption>
 </figure>
 
-More of a photo spot for Instagram victims than just a café, Mango has seen better days. Some of the furniture looks a bit worn, and the nicest seats—the ones you see in most pictures—are usually occupied by wannabe influencers striking poses (or sleeping). That said, drink prices are reasonable, and it’s a spacious, comfy spot with fast WiFi, so if you don’t mind the constant photo shoots, it’s not a bad choice for a coffee break.
+More of a photo spot for Instagram victims than just a café, Mango has seen better days. Some of the furniture looks a bit worn, and the nicest seats, the ones you see in most pictures, are usually occupied by wannabe influencers striking poses (or sleeping). That said, drink prices are reasonable, and it’s a spacious, comfy spot with fast WiFi, so if you don’t mind the constant photo shoots, it’s not a bad choice for a coffee break.
 
 ## Ratings
 

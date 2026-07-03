@@ -30,7 +30,7 @@ A wonderful seaside restaurant on a wooden veranda overlooking the fishing harbo
 
 ## Restaurant Terrazza di Sorong
 *Sorong Barat · Italian*
-The default dinner spot for foreign visitors — a large open-air place with a proper Italian menu, good pizza and pasta...
+The default dinner spot for foreign visitors - a large open-air place with a proper Italian menu, good pizza and pasta...
 → [Read the full review](/food/indonesia/west-papua/sorong/restaurants/terrazza-di-sorong/)
 
 ---

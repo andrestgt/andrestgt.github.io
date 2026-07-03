@@ -12,7 +12,7 @@ subtitle: Kefali · Taverna
   <figcaption>Panorama Cafe – Taverna</figcaption>
 </figure>
 
-Small village taverna with gorgeous mountain views and very friendly service. The moussaka here was probably the best I had in Crete — rich, creamy, and generously filled with meat. Even ordering a small snack comes with smooth complimentary raki.
+Small village taverna with gorgeous mountain views and very friendly service. The moussaka here was probably the best I had in Crete, rich, creamy, and generously filled with meat. Even ordering a small snack comes with smooth complimentary raki.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

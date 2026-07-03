@@ -21,7 +21,7 @@ Friendly café-bakery with a wide variety of Indonesian coffees and an excellent
 
 ## Move On Cafe
 *Prawirotaman · Specialty Coffee*
-Excellent espresso drinks, genuinely comfortable seating and cappuccinos below 25k — easily the best café in Yogyakarta.
+Excellent espresso drinks, genuinely comfortable seating and cappuccinos below 25k - easily the best café in Yogyakarta.
 → [Read the full review](/food/indonesia/java/yogyakarta/cafes/move-on-cafe/)
 
 ---

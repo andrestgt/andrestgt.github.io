@@ -12,7 +12,7 @@ subtitle: Bowbazar, Kolkata · Bar
   <figcaption>Broadway Bar & Restaurant</figcaption>
 </figure>
 
-Super popular boozer completely fallen out of time — it's worth just coming to see this place for the atmosphere. The draft beer is quite expensive and tastes horribly of barrel and metal, so best to go for spirits here.
+Super popular boozer completely fallen out of time; it's worth just coming to see this place for the atmosphere. The draft beer is quite expensive and tastes horribly of barrel and metal, so best to go for spirits here.
 
 <figure>
   <img src="/photos/india/kolkata/broadway-bar-2.jpg" alt="Broadway Bar & Restaurant">

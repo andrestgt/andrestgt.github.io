@@ -13,14 +13,14 @@ subtitle: Restaurants in Port Barton and San Vicente
 
 ## Kitzmon Food House
 *Port Barton, San Vicente · Filipino*
-Much neater and cleaner than your average provincial Foodhaus — the best food option outside the resorts for many miles.
+Much neater and cleaner than your average provincial Foodhaus, the best food option outside the resorts for many miles.
 → [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/)
 
 ---
 
 ## Ayette's Bamboo Balai
 *Port Barton, San Vicente · Filipino, International*
-A Port Barton stalwart since 2009 — good quality food and the cheapest beer in Port Barton.
+A Port Barton stalwart since 2009, good quality food and the cheapest beer in Port Barton.
 → [Read the full review](/food/philippines/port-barton-san-vicente/restaurants/ayettes-bamboo-balai/)
 
 ---

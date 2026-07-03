@@ -11,8 +11,8 @@ subtitle: Nha Trang · Craft Beer
   <figcaption>Craft Beer UB Eatrang</figcaption>
 </figure>
 
-I first visited this place a couple of years ago when they had just opened. I’m always curious about and happy to support microbreweries, but back then, I wasn’t too impressed—neither with the beer nor the food.
-Seeing that they now have a larger selection of beers and a new menu, I decided to give it another shot. Their regular pilsner and dark beers are decent for the price (around 30k per glass), but the so-called "wheat" beer was pretty awful — nothing like an actual wheat beer.
+I first visited this place a couple of years ago when they had just opened. I’m always curious about and happy to support microbreweries, but back then, I wasn’t too impressed, neither with the beer nor the food.
+Seeing that they now have a larger selection of beers and a new menu, I decided to give it another shot. Their regular pilsner and dark beers are decent for the price (around 30k per glass), but the so-called "wheat" beer was pretty awful, nothing like an actual wheat beer.
 Food is on the pricey side, and portions are small, but it’s decent. A place you can check out, but not a must.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">

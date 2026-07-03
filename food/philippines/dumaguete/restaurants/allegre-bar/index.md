@@ -11,7 +11,7 @@ subtitle: Rizal Boulevard, Dumaguete · Tapas Bar
   <figcaption>Allegre Bar</figcaption>
 </figure>
 
-This tiny, yet elegant hole-in-the-wall is elevating the gastronomic options of Dumaguete to new standards, with their authentic tapas bar atmosphere, very good food and inexpensive cocktails. Stepping into Allegre feels like stepping into a little piece of Spain on what used to be the Philippines' most attractive seafront boulevard. There's not much room inside but sitting at the bar is perfectly fine. The daily specials are the real winners — delicious ceviche, lovely chorizo, croquetas, and home-made Spanish blood sausage (morcilla). Prices are very reasonable with all dishes under 200 Php and cocktails are tasty and downright cheap.
+This tiny, yet elegant hole-in-the-wall is elevating the gastronomic options of Dumaguete to new standards, with their authentic tapas bar atmosphere, very good food and inexpensive cocktails. Stepping into Allegre feels like stepping into a little piece of Spain on what used to be the Philippines' most attractive seafront boulevard. There's not much room inside but sitting at the bar is perfectly fine. The daily specials are the real winners, delicious ceviche, lovely chorizo, croquetas, and home-made Spanish blood sausage (morcilla). Prices are very reasonable with all dishes under 200 Php and cocktails are tasty and downright cheap.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

@@ -7,7 +7,7 @@ subtitle: Si Phum, Old Town · Bar
 photos_locked: true
 ---
 
-I used to stay around the corner from this place for a month in 2008 and it was my go-to place whenever I felt like meeting other travellers. Fast forward to 2025, new owner, but the look and vibes are exactly the same — it's still the most friendly and sociable bar in town with a great mix of people of all ages and walks of life. There is no food available here, but you can simply order delivery if you are feeling peckish.
+I used to stay around the corner from this place for a month in 2008 and it was my go-to place whenever I felt like meeting other travellers. Fast forward to 2025, new owner, but the look and vibes are exactly the same; it's still the most friendly and sociable bar in town with a great mix of people of all ages and walks of life. There is no food available here, but you can simply order delivery if you are feeling peckish.
 
 ## Ratings
 

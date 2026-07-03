@@ -11,7 +11,7 @@ subtitle: Stuttgart · Indian
   <figcaption>Athidhi Restaurant Stuttgart</figcaption>
 </figure>
 
-As someone who has been to India several times and considers himself a friend and connoisseur of Indian cuisine, I was both delighted and surprised by Athidhi. The menu is well put together, with dishes from both north and south India — and it shows in the food: precisely the kind of cooking you rarely encounter in Germany.
+As someone who has been to India several times and considers himself a friend and connoisseur of Indian cuisine, I was both delighted and surprised by Athidhi. The menu is well put together, with dishes from both north and south India, and it shows in the food: precisely the kind of cooking you rarely encounter in Germany.
 The Mysore dosa was outstanding, and so was the lamb curry, beautifully seasoned, with tender meat and a properly spiced gravy. Fair prices for the quality.
 Clear recommendation with a slight caveat. On my second visit the chicken tikka were a bit dry and came with cocktail dipping sauce. I do hope thatwas just a one-off.
 

@@ -13,7 +13,7 @@ subtitle: Restaurants in Olomouc
 
 ## SUNRISE VIETNAMESE
 Olomouc · Vietnamese Restaurant
-A large, modern Vietnamese restaurant — much fancier than what you usually find in Czechia. The pho bo was the best I've had outside Vietnam, and the sizzling duck was superb as well.
+A large, modern Vietnamese restaurant, much fancier than what you usually find in Czechia. The pho bo was the best I've had outside Vietnam, and the sizzling duck was superb as well.
 → [Read the full review](./sunrise-vietnamese/)
 
 ---

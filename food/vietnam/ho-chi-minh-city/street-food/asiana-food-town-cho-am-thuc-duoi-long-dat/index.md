@@ -11,8 +11,8 @@ subtitle: Phạm Ngũ Lão · Vietnamese
   <figcaption>Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)</figcaption>
 </figure>
 
-Small, upmarket food court in a prime location—perfect for sampling a wide variety of Vietnamese dishes. The selection is fantastic, the prices are good, and the food is generally excellent. A highly recommended one-stop option for everything delicious in Saigon, whether you're a first-time visitor or a local foodie.
-2025 Update: The original Asiana Food Town is gone. In its place, there’s a new food court—more spacious but with fewer stalls and less variety. That said, this is still Saigon, so there’s no shortage of great food, and the prices remain very reasonable.
+Small, upmarket food court in a prime location, perfect for sampling a wide variety of Vietnamese dishes. The selection is fantastic, the prices are good, and the food is generally excellent. A highly recommended one-stop option for everything delicious in Saigon, whether you're a first-time visitor or a local foodie.
+2025 Update: The original Asiana Food Town is gone. In its place, there’s a new food court, more spacious but with fewer stalls and less variety. That said, this is still Saigon, so there’s no shortage of great food, and the prices remain very reasonable.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

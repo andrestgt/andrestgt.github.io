@@ -14,5 +14,5 @@ subtitle: Cafés in Makassar
 
 ## Bangi Kopi – Hasanuddin Airport
 *Makassar Airport · Café-Bistro*
-Better than its airport location suggests — decent cappuccino and a nicely spiced Kuay Teow Goreng.
+Better than its airport location suggests - decent cappuccino and a nicely spiced Kuay Teow Goreng.
 → [Read the full review](/food/indonesia/sulawesi/makassar/cafes/bangi-kopi-airport/)

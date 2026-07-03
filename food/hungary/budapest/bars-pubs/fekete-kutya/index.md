@@ -12,7 +12,7 @@ subtitle: Budapest · Pub
   <figcaption>Fekete Kutya</figcaption>
 </figure>
 
-Really nice pub with decent prices and a selection of what they call tapas — actually closer to Hungarian beer snacks such as liver pâté and sausage. A good place to sit for a few drinks.
+Really nice pub with decent prices and a selection of what they call tapas, actually closer to Hungarian beer snacks such as liver pâté and sausage. A good place to sit for a few drinks.
 
 ## Ratings
 

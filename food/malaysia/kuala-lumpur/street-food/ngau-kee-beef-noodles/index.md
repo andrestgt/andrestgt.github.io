@@ -11,7 +11,7 @@ subtitle: Bukit Bintang, KL · Chinese, Noodles
   <figcaption>Ngau Kee Beef Noodles</figcaption>
 </figure>
 
-Simple late-night beef noodle spot that is perfect after drinks around Changkat. The menu is minimal — basically just beef or pork with either minced meat or meatballs — but everything is flavourful and satisfying.
+Simple late-night beef noodle spot that is perfect after drinks around Changkat. The menu is minimal, basically just beef or pork with either minced meat or meatballs, but everything is flavourful and satisfying.
 
 ## Ratings
 

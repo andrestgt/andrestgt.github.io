@@ -11,7 +11,7 @@ subtitle: Datong, Taipei · Café
   <figcaption>Mr. Brown Coffee</figcaption>
 </figure>
 
-The local Starbucks. Not very atmospheric and quite expensive (110 NT$ for a cappuccino). But the coffee was excellent — smooth and perfectly prepared.
+The local Starbucks. Not very atmospheric and quite expensive (110 NT$ for a cappuccino). But the coffee was excellent, smooth and perfectly prepared.
 
 ## Ratings
 

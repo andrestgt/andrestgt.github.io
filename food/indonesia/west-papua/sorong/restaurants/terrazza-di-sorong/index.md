@@ -12,7 +12,7 @@ subtitle: Sorong Barat · Italian
   <figcaption>Pizzeria La Terrazza di Sorong</figcaption>
 </figure>
 
-The default dinner spot for foreign tourists and returnees from Raja Ampat — and for good reason.
+The default dinner spot for foreign tourists and returnees from Raja Ampat - and for good reason.
 
 Large, nicely decorated open-air setting on a small hill, lots of space, good atmosphere, cold beers and a proper Italian menu heavy on pizza and pasta. After days of fish and rice, it's a welcome change.
 

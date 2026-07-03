@@ -26,4 +26,4 @@ Great beer garden on the old airfield, complete with loungers. It's expensive, t
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x881227db856e1d)
 📍 Tempelhofer Park, Columbiadamm, 12049 Berlin, Germany
-💰 **Price level:** —expensive
+💰 **Price level:**, expensive

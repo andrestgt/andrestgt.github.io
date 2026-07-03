@@ -14,7 +14,7 @@ subtitle: Restaurants in Udon Thani
 
 ## Rabiang Phatchani Restaurant
 *Udon Thani · Thai*
-Wonderful lakeshore restaurant with views over the lake at sunset — a delicious hors d'oeuvre platter and authentically spicy dishes.
+Wonderful lakeshore restaurant with views over the lake at sunset, a delicious hors d'oeuvre platter and authentically spicy dishes.
 → [Read the full review](/food/thailand/udon-thani/restaurants/rabiang-phatchani-restaurant/)
 
 **Price level note:**

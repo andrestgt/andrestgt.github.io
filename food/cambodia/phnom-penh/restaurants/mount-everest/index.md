@@ -7,7 +7,7 @@ title: Mount Everest
 subtitle: Street 294, Phnom Penh · Indian
 ---
 
-I still haven't found truly superb Indian food in Phnom Penh, but this is one of the better options — curries are good and generous, prices standard at 5–$7 for mains. They don't serve alcohol, so if you want to enjoy some red wine with your curry, get a takeaway.
+I still haven't found truly superb Indian food in Phnom Penh, but this is one of the better options, curries are good and generous, prices standard at 5–$7 for mains. They don't serve alcohol, so if you want to enjoy some red wine with your curry, get a takeaway.
 
 ## Ratings
 

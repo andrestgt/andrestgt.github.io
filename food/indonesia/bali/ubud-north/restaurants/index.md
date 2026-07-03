@@ -58,14 +58,14 @@ Once Ubud's best Japanese address, now seriously diminished...
 
 ## Taco Casa Fresh Mexican Grill & Bar
 *Mas · Mexican*
-Some of the best Tex-Mex in South East Asia — huge portions, excellent value...
+Some of the best Tex-Mex in South East Asia - huge portions, excellent value...
 → [Read the full review](/food/indonesia/bali/ubud-north/restaurants/taco-casa/)
 
 ---
 
 ## Tutmak Warung Kopi
 *Ubud · Indonesian*
-Still going after all these years — the tuna spring rolls remain a personal favourite...
+Still going after all these years - the tuna spring rolls remain a personal favourite...
 → [Read the full review](/food/indonesia/bali/ubud-north/restaurants/tutmak/)
 
 ---

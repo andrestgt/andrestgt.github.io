@@ -14,7 +14,7 @@ subtitle: Cafés in Nong Khiaw
 
 ## Delilah's Café and Hostel
 *Nong Khiaw · Café*
-Very comfortable place to spend a lazy afternoon with a good breakfast — service leaves something to be desired, but the aubergine dip is worth the visit.
+Very comfortable place to spend a lazy afternoon with a good breakfast; service leaves something to be desired, but the aubergine dip is worth the visit.
 → [Read the full review](/food/laos/nong-khiaw/cafes/delilahs-cafe/)
 
 ---

@@ -13,7 +13,7 @@ subtitle: Cafés in Dumaguete City
 
 ## Bo's Coffee – Rizal Boulevard
 *Rizal Boulevard, Dumaguete · Café*
-Quality varies wildly from day to day — one of the very few tolerable coffee options in town, which admittedly says a lot.
+Quality varies wildly from day to day, one of the very few tolerable coffee options in town, which admittedly says a lot.
 → [Read the full review](/food/philippines/dumaguete/cafes/bos-coffee-dumaguete/)
 
 ---
@@ -27,7 +27,7 @@ A lot cheaper than the stylish interior suggests, but unfortunately the coffee i
 
 ## Cafe Racer Diner
 *EJ Blanco Drive, Dumaguete · Café, Diner*
-Funky retro-style diner better suited for beers than coffee — pleasant atmosphere and acceptable food.
+Funky retro-style diner better suited for beers than coffee, pleasant atmosphere and acceptable food.
 → [Read the full review](/food/philippines/dumaguete/cafes/cafe-racer-diner/)
 
 ---

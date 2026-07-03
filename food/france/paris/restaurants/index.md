@@ -18,7 +18,7 @@ The archetypal Parisian bistro on one of the city's prettiest squares. Not cheap
 
 ## LOULOU
 Paris · Bistro
-Good wine and classic bistro food in the middle of Saint-Germain. The steak tartare costs 17€ and is enormous — easily enough for two people.
+Good wine and classic bistro food in the middle of Saint-Germain. The steak tartare costs 17€ and is enormous - easily enough for two people.
 → [Read the full review](./loulou/)
 
 ## LE MOUFFETARD

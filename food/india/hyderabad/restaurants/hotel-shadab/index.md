@@ -12,7 +12,7 @@ subtitle: Charminar, Hyderabad · Hyderabadi
   <figcaption>Hotel Shadab</figcaption>
 </figure>
 
-At first glance, this seems to be a shabby men-only canteen, but go upstairs and you find a comfortable air-conditioned dining room — a chic oasis in the hustle of Hyderabad's Old Town. Service is attentive and the food is so delicious that we went there two days in a row. The mutton biryani (290 Rs) is obviously a must and will fill two hungry people easily. They also do superb Northern and Mughal food such as Palak Kashmiri Kofta, mutton saagwala (320 Rs) and chicken tikka kababs. Great food at good prices.
+At first glance, this seems to be a shabby men-only canteen, but go upstairs and you find a comfortable air-conditioned dining room; a chic oasis in the hustle of Hyderabad's Old Town. Service is attentive and the food is so delicious that we went there two days in a row. The mutton biryani (290 Rs) is obviously a must and will fill two hungry people easily. They also do superb Northern and Mughal food such as Palak Kashmiri Kofta, mutton saagwala (320 Rs) and chicken tikka kababs. Great food at good prices.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

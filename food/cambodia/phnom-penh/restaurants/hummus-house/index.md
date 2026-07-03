@@ -12,7 +12,7 @@ subtitle: Phnom Penh · Lebanese
   <figcaption>Hummus House</figcaption>
 </figure>
 
-Real Lebanese food in Phnom Penh — one of the best cuisines in the world. The restaurant itself is very simple, but the food they serve is sumptuous. It's not cheap but good value. Highly recommended, especially for their meze platters. And they have cheap beer too.
+Real Lebanese food in Phnom Penh, one of the best cuisines in the world. The restaurant itself is very simple, but the food they serve is sumptuous. It's not cheap but good value. Highly recommended, especially for their meze platters. And they have cheap beer too.
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/hummus-house-2.jpg" alt="Hummus House">

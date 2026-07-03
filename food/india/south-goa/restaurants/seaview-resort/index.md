@@ -12,7 +12,7 @@ subtitle: Patnem Beach, South Goa · Goan, Indian
   <figcaption>Seaview Resort Restaurant</figcaption>
 </figure>
 
-Roadside resort restaurant. For the lack of location they try to make up with a nice candlelit atmosphere and slightly lower prices. Their malai kofta was excellent — melt in the mouth delicious. The tandoori masala squid was very good too, but the amount of squid was a little disappointing for a 450 Rs dish.
+Roadside resort restaurant. For the lack of location they try to make up with a nice candlelit atmosphere and slightly lower prices. Their malai kofta was excellent, melt in the mouth delicious. The tandoori masala squid was very good too, but the amount of squid was a little disappointing for a 450 Rs dish.
 
 <figure>
   <img src="/photos/india/south-goa/seaview-resort-2.jpg" alt="Seaview Resort Restaurant">

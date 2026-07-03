@@ -12,7 +12,7 @@ subtitle: Stuttgart · International, Swabian
 </figure>
 
 
-Goldener Adler combines creative, international starters with main courses of hearty, traditional Swabian cooking — an interesting mix. The atmosphere is stylish but laid-back, the service professional and friendly. Prices are absolutely appropriate for Stuttgart. A deserved Bib Gourmand and a clear recommendation.
+Goldener Adler combines creative, international starters with main courses of hearty, traditional Swabian cooking, an interesting mix. The atmosphere is stylish but laid-back, the service professional and friendly. Prices are absolutely appropriate for Stuttgart. A deserved Bib Gourmand and a clear recommendation.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

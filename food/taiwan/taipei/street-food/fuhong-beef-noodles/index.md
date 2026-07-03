@@ -11,7 +11,7 @@ subtitle: Wanhua, Taipei · Taiwanese
   <figcaption>Fuhong Beef Noodles</figcaption>
 </figure>
 
-Insanely good beef noodles. The broth, the meat, the noodles — it's all just delicious. 90 NT$ a bowl. Possibly the best meal I had in Taiwan. Amazing. Expect to queue though.
+Insanely good beef noodles. The broth, the meat, the noodles; it's all just delicious. 90 NT$ a bowl. Possibly the best meal I had in Taiwan. Amazing. Expect to queue though.
 
 <figure>
   <img src="/photos/taiwan/taipei/fuhong-beef-noodles-2.jpg" alt="Fuhong Beef Noodles">

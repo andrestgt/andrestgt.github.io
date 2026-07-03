@@ -13,7 +13,7 @@ subtitle: Street food in Varanasi
 
 ## Balu Natural Lassi Shop
 *Bangali Tola · Indian*
-Delicious lassis made from pure buffalo milk, lots of choices — very atmospheric hole-in-the-wall with a friendly owner.
+Delicious lassis made from pure buffalo milk, lots of choices, very atmospheric hole-in-the-wall with a friendly owner.
 → [Read the full review](/food/india/varanasi/street-food/balu-natural-lassi-shop/)
 
 ---

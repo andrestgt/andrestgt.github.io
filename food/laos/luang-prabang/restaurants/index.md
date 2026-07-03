@@ -14,21 +14,21 @@ subtitle: Restaurants in Luang Prabang
 
 ## Tamarind
 *Kingkitsarath Rd · Lao*
-Genuinely excellent Lao cuisine without the tourist-trap feeling — if you eat at only one restaurant in Luang Prabang, make it this one.
+Genuinely excellent Lao cuisine without the tourist-trap feeling, if you eat at only one restaurant in Luang Prabang, make it this one.
 → [Read the full review](/food/laos/luang-prabang/restaurants/tamarind/)
 
 ---
 
 ## Secret Pizza
 *Luang Prabang · Italian*
-Open only twice a week but absolutely worth planning around — pizzas as good as Italy, excellent lasagne, very fair prices.
+Open only twice a week but absolutely worth planning around, pizzas as good as Italy, excellent lasagne, very fair prices.
 → [Read the full review](/food/laos/luang-prabang/restaurants/secret-pizza/)
 
 ---
 
 ## Pizza Phan Luang
 *Kingkitsarath Rd · Italian*
-Proper wood-fired pizzas at fair prices — the anchovy version is the most traditionally Italian.
+Proper wood-fired pizzas at fair prices; the anchovy version is the most traditionally Italian.
 → [Read the full review](/food/laos/luang-prabang/restaurants/pizza-phan-luang/)
 
 ---

@@ -11,7 +11,7 @@ subtitle: Old Town, Ipoh · Café
   <figcaption>Burps & Giggles</figcaption>
 </figure>
 
-The quirkiest and most attractive of the several Old Town cafés — this one also does the best flat white and has free WiFi. The menu is less varied than at some neighbours, all Western comfort food, but the quality is high.
+The quirkiest and most attractive of the several Old Town cafés; this one also does the best flat white and has free WiFi. The menu is less varied than at some neighbours, all Western comfort food, but the quality is high.
 
 ## Ratings
 

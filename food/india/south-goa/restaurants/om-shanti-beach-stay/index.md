@@ -12,7 +12,7 @@ subtitle: Patnem Beach, South Goa · Goan, International
   <figcaption>Om Shanti Beach Stay</figcaption>
 </figure>
 
-Good beach shack in Patnem. They have Bira White and inexpensive cocktails along with decent food. I like their version of calamari chili fry — a very nice dish for under 300 Rs.
+Good beach shack in Patnem. They have Bira White and inexpensive cocktails along with decent food. I like their version of calamari chili fry, a very nice dish for under 300 Rs.
 
 <figure>
   <img src="/photos/india/south-goa/om-shanti-beach-stay-2.jpg" alt="Om Shanti Beach Stay">

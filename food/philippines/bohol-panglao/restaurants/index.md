@@ -13,14 +13,14 @@ subtitle: Restaurants in Bohol and Panglao
 
 ## Bougainvillea Spanish Restaurant
 *Alona Beach, Panglao · Spanish*
-Outside of fancy tapas bars in the big cities you will not find better Spanish food in Asia — this place is worth travelling to Panglao for.
+Outside of fancy tapas bars in the big cities you will not find better Spanish food in Asia; this place is worth travelling to Panglao for.
 → [Read the full review](/food/philippines/bohol-panglao/restaurants/bougainvillea/)
 
 ---
 
 ## Nuts & Huts
 *Loboc, Bohol · Filipino*
-A beautiful peaceful riverside spot with surprisingly good and very reasonably priced food — very easy to stay longer than planned.
+A beautiful peaceful riverside spot with surprisingly good and very reasonably priced food, very easy to stay longer than planned.
 → [Read the full review](/food/philippines/bohol-panglao/restaurants/nuts-and-huts/)
 
 ---
@@ -69,21 +69,21 @@ A quiet oasis away from the beach crowds with solid international comfort food a
 
 ## Boholhanuri
 *Alona Beach, Panglao · Korean*
-Standard Korean canteen atmosphere but good food at more reasonable prices than most Alona spots — spicy squid recommended.
+Standard Korean canteen atmosphere but good food at more reasonable prices than most Alona spots, spicy squid recommended.
 → [Read the full review](/food/philippines/bohol-panglao/restaurants/boholhanuri/)
 
 ---
 
 ## Gerarda's Place
 *Tagbilaran City · Filipino*
-Widely considered the best Filipino food in Tagbilaran — classy atmosphere, reasonable prices, and an old-world feel.
+Widely considered the best Filipino food in Tagbilaran, classy atmosphere, reasonable prices, and an old-world feel.
 → [Read the full review](/food/philippines/bohol-panglao/restaurants/gerardas-place/)
 
 ---
 
 ## La Familia
 *Poblacion, Panglao · Filipino, European*
-A pleasant-looking place that disappoints — overfried cordon bleu and average pasta, though friendly and inexpensive.
+A pleasant-looking place that disappoints, overfried cordon bleu and average pasta, though friendly and inexpensive.
 → [Read the full review](/food/philippines/bohol-panglao/restaurants/la-familia/)
 
 ---

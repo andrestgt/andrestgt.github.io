@@ -11,7 +11,7 @@ subtitle: Évora · Bar
   <figcaption>Moi-te</figcaption>
 </figure>
 
-Moi-te has a very picturesque patio shaded by lemon trees, and prices are quite reasonable considering the surroundings. On a hot day, a refreshing tango — beer mixed with gooseberry juice — works remarkably well.
+Moi-te has a very picturesque patio shaded by lemon trees, and prices are quite reasonable considering the surroundings. On a hot day, a refreshing tango, beer mixed with gooseberry juice, works remarkably well.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

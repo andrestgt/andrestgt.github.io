@@ -14,7 +14,7 @@ subtitle: Mas · Café
 
 
 
-Nice place for a coffee — an expertly prepared, pleasant flat white at 28K++. Didn't try the food.
+Nice place for a coffee - an expertly prepared, pleasant flat white at 28K++. Didn't try the food.
 
 ## Ratings
 

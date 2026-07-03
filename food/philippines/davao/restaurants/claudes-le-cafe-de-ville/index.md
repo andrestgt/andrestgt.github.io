@@ -11,7 +11,7 @@ subtitle: Poblacion, Davao City · French
   <figcaption>Claude's Le Café de Ville</figcaption>
 </figure>
 
-Claude's Café de Ville is a magnificent restaurant housed in an old mansion right in the busy city centre. It's a beautiful and tasteful oasis in a dusty, chaotic area of town. The quality of the food actually matches the surroundings — it's such a pleasant surprise to find authentic, classy French food in this little corner of the world. The foie gras is small and pricey but truly sublime. Service is competent and attentive, a rarity in this country, and Claude himself watches over everything. The only negative is the wine list, which is exclusively French and therefore bad value.
+Claude's Café de Ville is a magnificent restaurant housed in an old mansion right in the busy city centre. It's a beautiful and tasteful oasis in a dusty, chaotic area of town. The quality of the food actually matches the surroundings; it's such a pleasant surprise to find authentic, classy French food in this little corner of the world. The foie gras is small and pricey but truly sublime. Service is competent and attentive, a rarity in this country, and Claude himself watches over everything. The only negative is the wine list, which is exclusively French and therefore bad value.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

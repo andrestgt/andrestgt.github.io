@@ -16,7 +16,7 @@ Coffee options on Banda Neira are limited but improving, with Serenade bringing 
 
 ## Cilu Bintang Estate
 *Banda Neira · Café & Bar*
-The most atmospheric spot in Banda Neira — a second-floor veranda with superb views toward the fort and Gunung Api, excellent fruit juices, and a very good buffet dinner when the chef is in town...
+The most atmospheric spot in Banda Neira - a second-floor veranda with superb views toward the fort and Gunung Api, excellent fruit juices, and a very good buffet dinner when the chef is in town...
 → [Read the full review](/food/indonesia/maluku/banda-islands/cafes/cilu-bintang-estate/)
 
 ---

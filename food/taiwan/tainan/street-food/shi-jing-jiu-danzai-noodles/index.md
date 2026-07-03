@@ -11,7 +11,7 @@ subtitle: West Central District, Tainan · Taiwanese
   <figcaption>Shi Jing Jiu Danzai Noodles</figcaption>
 </figure>
 
-Danzai noodles (50 NT$) and century egg (15 NT$) — a tasty combination for a noodle soup breakfast.
+Danzai noodles (50 NT$) and century egg (15 NT$), a tasty combination for a noodle soup breakfast.
 
 ## Ratings
 

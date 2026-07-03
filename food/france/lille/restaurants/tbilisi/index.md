@@ -12,7 +12,7 @@ subtitle: Lille · Georgian Restaurant
   <figcaption>Tbilisi</figcaption>
 </figure>
 
-This is a tiny Georgian restaurant with just a few tables, and it's quite hard to get a reservation if you don't book in time. There's a reason why it's so popular, though. The food is quite simply excellent. You get sumptuous starters such as pkhali, wonderfully greasy khachapuri, and delicious stews. I still find Georgian cuisine to be one of the most underrated in the world. If I had anything to complain about, it would be the wine list — the dry red Saperavi offered here for a hefty 25 euros isn't really worth the price.
+This is a tiny Georgian restaurant with just a few tables, and it's quite hard to get a reservation if you don't book in time. There's a reason why it's so popular, though. The food is quite simply excellent. You get sumptuous starters such as pkhali, wonderfully greasy khachapuri, and delicious stews. I still find Georgian cuisine to be one of the most underrated in the world. If I had anything to complain about, it would be the wine list - the dry red Saperavi offered here for a hefty 25 euros isn't really worth the price.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

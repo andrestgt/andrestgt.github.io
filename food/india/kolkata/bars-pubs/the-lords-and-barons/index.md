@@ -12,7 +12,7 @@ subtitle: Park Street, Kolkata · Bar
   <figcaption>The Lords and Barons</figcaption>
 </figure>
 
-Dark and atmospheric pub — all wood and cushions. It seems fancy but they actually have what is probably the best happy hour in town with selected long drinks and beers going for only 169 Rs from Monday to Thursday until 8pm. The food is very good too — Harissa chicken deserves a special mention. Sadly they were out of stock of all but the boring mainstream beers, a common occurrence here, but at least the Kingfishers are ice cold.
+Dark and atmospheric pub, all wood and cushions. It seems fancy but they actually have what is probably the best happy hour in town with selected long drinks and beers going for only 169 Rs from Monday to Thursday until 8pm. The food is very good too, Harissa chicken deserves a special mention. Sadly they were out of stock of all but the boring mainstream beers, a common occurrence here, but at least the Kingfishers are ice cold.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

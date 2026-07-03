@@ -12,7 +12,7 @@ subtitle: Kampot · Khmer, International
   <figcaption>Veronica's Garden</figcaption>
 </figure>
 
-Good place at the refurbished old market. Pretty nice set-up, standard fare but very decent food with nice touches such as amok served in a coconut. I didn't try their Western food but the Khmer dishes are quality. It's a bit too pricey for the provinces — Phnom Penh prices — but generally recommended. Good value wines.
+Good place at the refurbished old market. Pretty nice set-up, standard fare but very decent food with nice touches such as amok served in a coconut. I didn't try their Western food but the Khmer dishes are quality. It's a bit too pricey for the provinces, Phnom Penh prices, but generally recommended. Good value wines.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

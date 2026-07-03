@@ -13,5 +13,5 @@ subtitle: Cafés in Esztergom
 
 ## ETTORE CONFECTIONARY
 Esztergom · Café
-Despite the Italian name, the coffee is anything but — cappuccino comes with whipped cream. Very slow wifi. At least the service is nice.
+Despite the Italian name, the coffee is anything but; cappuccino comes with whipped cream. Very slow wifi. At least the service is nice.
 → [Read the full review](./ettore-confectionary/)

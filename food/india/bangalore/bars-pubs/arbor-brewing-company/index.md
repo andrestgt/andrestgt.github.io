@@ -12,7 +12,7 @@ subtitle: Ashok Nagar, Bangalore · Craft Beer Bar
   <figcaption>Arbor Brewing Company</figcaption>
 </figure>
 
-For casual visitors to Bangalore, this is the most conveniently located of the city's craft beer breweries — in the centre near the metro station. It's friendly and nicely designed with reasonable prices. The only downside are actually the beers themselves. Out of 6 home brews, 2 were rather boring, 2 were good and 2 were excellent. I especially liked the Smooth Criminal and the seasonal pumpkin ale. Their Hefeweizen was a bit disappointing. Good pub grub.
+For casual visitors to Bangalore, this is the most conveniently located of the city's craft beer breweries, in the centre near the metro station. It's friendly and nicely designed with reasonable prices. The only downside are actually the beers themselves. Out of 6 home brews, 2 were rather boring, 2 were good and 2 were excellent. I especially liked the Smooth Criminal and the seasonal pumpkin ale. Their Hefeweizen was a bit disappointing. Good pub grub.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

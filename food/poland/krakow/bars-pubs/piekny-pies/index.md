@@ -7,7 +7,7 @@ subtitle: Kraków · Bar
 ---
 
 
-Big, spacious bar/club with a very casual feel. Drinks are pretty cheap, and it's an good place to spend an evening without much ceremony. Not fancy, and not trying to be — which is exactly the point.
+Big, spacious bar/club with a very casual feel. Drinks are pretty cheap, and it's an good place to spend an evening without much ceremony. Not fancy, and not trying to be - which is exactly the point.
 
 ## Ratings
 

@@ -24,7 +24,7 @@ An absolute nightmare for anyone trying to be on a diet...
 
 ## Big Big Shabu
 *Santitham · Mookata Buffet*
-All-you-can-eat mookata for just over 200 baht — great value...
+All-you-can-eat mookata for just over 200 baht, great value...
 → [Read the full review](/food/thailand/chiang-mai/restaurants/big-big-shabu/)
 
 ---
@@ -59,7 +59,7 @@ Recommended Old Town tourist restaurant serving Thai classics at fair prices...
 
 ## Dao Chinese Restaurant
 *Chang Phueak · Sichuan*
-Don't be put off by the sterile condo lobby setting — this is one of the most recommendable Chinese restaurants in Chiang Mai..
+Don't be put off by the sterile condo lobby setting; this is one of the most recommendable Chinese restaurants in Chiang Mai..
 → [Read the full review](/food/thailand/chiang-mai/restaurants/dao-chinese-restaurant/)
 
 ---
@@ -73,7 +73,7 @@ One of Chiang Mai's more reasonably priced izakayas...
 
 ## David's Kitchen at 909
 *Chang Moi · French-Thai Fine Dining*
-A real surprise outside of town — impeccable French-Thai influenced cooking...
+A real surprise outside of town, impeccable French-Thai influenced cooking...
 → [Read the full review](/food/thailand/chiang-mai/restaurants/davids-kitchen/)
 
 ---
@@ -101,7 +101,7 @@ Moderately priced but unconvincing Indian restaurant...
 
 ## THE HOUSE by Ginger
 *Si Phum, Old Town · International, Thai*
-Fancy and super comfortable — one of the best restaurants in Chiang Mai...
+Fancy and super comfortable, one of the best restaurants in Chiang Mai...
 → [Read the full review](/food/thailand/chiang-mai/restaurants/house-by-ginger/)
 
 ---
@@ -151,7 +151,7 @@ A few plastic tables under a shady mango tree for an authentic Thai experience..
 
 ## Kinphak Café – Vegan Food
 *Chang Phueak · Vegan, Thai*
-A very good vegan eatery — no hipster surcharges, just honest prices...
+A very good vegan eatery, no hipster surcharges, just honest prices...
 → [Read the full review](/food/thailand/chiang-mai/restaurants/kinphak-cafe-vegan/)
 
 ---

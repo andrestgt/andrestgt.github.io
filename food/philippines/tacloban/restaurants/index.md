@@ -13,7 +13,7 @@ subtitle: Restaurants in Tacloban City
 
 ## Dream Cafe
 *Downtown, Tacloban City · Filipino*
-Tacloban is genuinely lucky to have this place — consistently very good and reasonably priced Filipino and Western food.
+Tacloban is genuinely lucky to have this place, consistently very good and reasonably priced Filipino and Western food.
 → [Read the full review](/food/philippines/tacloban/restaurants/dream-cafe/)
 
 ---

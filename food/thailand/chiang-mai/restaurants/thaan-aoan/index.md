@@ -12,7 +12,7 @@ photos_locked: true
   <figcaption>Thaan Aoan</figcaption>
 </figure>
 
-Nice, inexpensive AC café in the old town, great for a coffee break. It's not cheap by Chiang Mai standards, but for the touristy old town area, prices are fair. Don't forget to ask them not to put cinnamon on the cappuccino — it comes by default, but without it, the coffee is actually very good. The Thai food, however, is toned down way too much for tourists, to the point of blandness… pity.
+Nice, inexpensive AC café in the old town, great for a coffee break. It's not cheap by Chiang Mai standards, but for the touristy old town area, prices are fair. Don't forget to ask them not to put cinnamon on the cappuccino; it comes by default, but without it, the coffee is actually very good. The Thai food, however, is toned down way too much for tourists, to the point of blandness… pity.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

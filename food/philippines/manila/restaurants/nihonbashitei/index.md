@@ -11,7 +11,7 @@ subtitle: Antonio Arnaiz Ave, Makati · Japanese
   <figcaption>Nihonbashitei</figcaption>
 </figure>
 
-Nihonbashitei, whether the Makati or the Malate branches, is THE place in Manila if you're looking for great value sushi and sashimi. It's not a sophisticated Japanese restaurant in any way — it's noisy, smoky and cheerful, but the fish quality is high and the price almost unbeatable. Portions are huge, almost three times the size of more upmarket Japanese restaurants, at half the price. Apart from maguro and sake sashimi, a must try is the toro spicy maki. The gyozas are tasty too.
+Nihonbashitei, whether the Makati or the Malate branches, is THE place in Manila if you're looking for great value sushi and sashimi. It's not a sophisticated Japanese restaurant in any way; it's noisy, smoky and cheerful, but the fish quality is high and the price almost unbeatable. Portions are huge, almost three times the size of more upmarket Japanese restaurants, at half the price. Apart from maguro and sake sashimi, a must try is the toro spicy maki. The gyozas are tasty too.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

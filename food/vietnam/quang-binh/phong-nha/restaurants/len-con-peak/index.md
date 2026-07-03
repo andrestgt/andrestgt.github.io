@@ -14,7 +14,7 @@ subtitle: Phong Nha · Vietnamese
 
 This is a pleasant countryside restaurant just a short bike ride from the village. It’s worth the trip for the grilled chicken, their signature dish and clearly the thing to order. They use native chickens, so the meat is a bit firm but very flavourful, just the way it should be. The herb marinade adds a lot of flavour and works very well with the chicken.
 
-Prices are a little on the high side—higher than expected for the location—but it’s still a worthwhile stop, especially for lunch. In the village itself, the really good roasted duck is only available in the evenings, so this makes for a good alternative earlier in the day.
+Prices are a little on the high side, higher than expected for the location, but it’s still a worthwhile stop, especially for lunch. In the village itself, the really good roasted duck is only available in the evenings, so this makes for a good alternative earlier in the day.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">

@@ -11,7 +11,7 @@ subtitle: San Vicente Town · Café
   <figcaption>Kape San Vicente</figcaption>
 </figure>
 
-Great to find something resembling a modern coffee shop with an espresso machine outside the main tourist centres. Prices are about half of what you'd pay in Port Barton, both for food and coffee. If you're a coffee purist, I'd probably avoid the milk-based drinks — the milk they use seems to be sweetened or flavoured. But for the price, it's well worth a stop on the way north.
+Great to find something resembling a modern coffee shop with an espresso machine outside the main tourist centres. Prices are about half of what you'd pay in Port Barton, both for food and coffee. If you're a coffee purist, I'd probably avoid the milk-based drinks; the milk they use seems to be sweetened or flavoured. But for the price, it's well worth a stop on the way north.
 
 ## Ratings
 
@@ -27,4 +27,4 @@ Great to find something resembling a modern coffee shop with an espresso machine
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4d63e60df818207d)
 ☕ **Type:** Café
-💰 **Price level:** —inexpensive
+💰 **Price level:**, inexpensive

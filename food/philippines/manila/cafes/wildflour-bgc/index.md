@@ -11,7 +11,7 @@ subtitle: BGC, Taguig · Café, Bistro
   <figcaption>Wildflour – BGC</figcaption>
 </figure>
 
-Knowing the average Filipino palate, I am seriously surprised by the ridiculous popularity of this place. The bread is absolutely delicious — crispy without a hint of doughy sweetness. The cappuccino is perfectly prepared and super strong, with no cinnamon or other atrocities done to it. This is so fundamentally different from what you usually get in this country. The food menu is interesting if expensive bistro fare and the chorizo-figs-bacon wraps are excellent. Service staff try hard but struggle to cope with the masses — best to visit during off-hours.
+Knowing the average Filipino palate, I am seriously surprised by the ridiculous popularity of this place. The bread is absolutely delicious, crispy without a hint of doughy sweetness. The cappuccino is perfectly prepared and super strong, with no cinnamon or other atrocities done to it. This is so fundamentally different from what you usually get in this country. The food menu is interesting if expensive bistro fare and the chorizo-figs-bacon wraps are excellent. Service staff try hard but struggle to cope with the masses, best to visit during off-hours.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

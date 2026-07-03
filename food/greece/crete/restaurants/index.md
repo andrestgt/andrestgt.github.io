@@ -13,12 +13,12 @@ subtitle: Restaurants in Crete
 
 ## ΑΘΙΒΟΛΕΣ ΤΟΥ ΚΑΡΑ
 Kalamaki · Taverna
-Very friendly family-run taverna with excellent food at genuinely fair prices — most dishes around 5–7€. The escargots and spicy baked feta are particularly good.
+Very friendly family-run taverna with excellent food at genuinely fair prices, most dishes around 5–7€. The escargots and spicy baked feta are particularly good.
 → [Read the full review](./ativoles-tou-kara/)
 
 ## BLUE HOUSE
 Loutro · Restaurant
-A highly recommended restaurant in a wonderful setting. The food is simple, honest, and home cooked — the octopus with spinach and the snails are especially good.
+A highly recommended restaurant in a wonderful setting. The food is simple, honest, and home cooked; the octopus with spinach and the snails are especially good.
 → [Read the full review](./blue-house/)
 
 ## KOUZOUMAMA
@@ -33,7 +33,7 @@ Looks slightly touristy but felt very local when we visited. Proper hearty Creta
 
 ## PANORAMA CAFE – TAVERNA
 Kefali · Taverna
-Small village taverna with gorgeous mountain views and very friendly service. The moussaka was probably the best in Crete — rich, creamy, and generously filled.
+Small village taverna with gorgeous mountain views and very friendly service. The moussaka was probably the best in Crete, rich, creamy, and generously filled.
 → [Read the full review](./panorama-cafe-taverna/)
 
 ## PLATANOS

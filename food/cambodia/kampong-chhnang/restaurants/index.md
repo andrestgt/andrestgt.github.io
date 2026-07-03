@@ -13,7 +13,7 @@ subtitle: Restaurants in Kampong Chhnang
 
 ## Angkor Thmey Restaurant
 *Kampong Chhnang · Khmer*
-A solid option if you find yourself in Kampong Chhnang — good variety of standard Khmer dishes with an English menu and drinkable wine.
+A solid option if you find yourself in Kampong Chhnang, good variety of standard Khmer dishes with an English menu and drinkable wine.
 → [Read the full review](/food/cambodia/kampong-chhnang/restaurants/angkor-thmey-restaurant/)
 
 ---

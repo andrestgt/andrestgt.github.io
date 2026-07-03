@@ -14,14 +14,14 @@ subtitle: Coffee shops around Bangkok
 
 ## Devaree Boutique
 *Amphawa, Samut Songkhram · Café*
-Over the top uber chic café in a beautiful wooden building along the canal — 80 Bt for good coffee with canal views.
+Over the top uber chic café in a beautiful wooden building along the canal, 80 Bt for good coffee with canal views.
 → [Read the full review](/food/thailand/around-bangkok/cafes/devaree-boutique/)
 
 ---
 
 ## Bread & Brew Coffee Shop
 *Maha Chai Market, Samut Sakhon · Café*
-Air-conditioned oasis in the bustle of Maha Chai Market — inexpensive, well-prepared coffees, sofas and fast WiFi.
+Air-conditioned oasis in the bustle of Maha Chai Market, inexpensive, well-prepared coffees, sofas and fast WiFi.
 → [Read the full review](/food/thailand/around-bangkok/cafes/bread-and-brew-coffee-shop/)
 
 ---

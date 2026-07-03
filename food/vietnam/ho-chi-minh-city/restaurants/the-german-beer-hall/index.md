@@ -11,7 +11,7 @@ subtitle: Gò Vấp · Vietnamese
   <figcaption>The German Beer Hall</figcaption>
 </figure>
 
-If you're expecting an authentic German beer hall experience in Ho Chi Minh City, this place only vaguely delivers. Yes, there are wooden benches and a beer hall setup, but that's where the similarities mostly end. The menu does feature a few token German dishes, but the majority of the food is Vietnamese—and even the "German" dishes have a distinctly local twist.
+If you're expecting an authentic German beer hall experience in Ho Chi Minh City, this place only vaguely delivers. Yes, there are wooden benches and a beer hall setup, but that's where the similarities mostly end. The menu does feature a few token German dishes, but the majority of the food is Vietnamese, and even the "German" dishes have a distinctly local twist.
 But honestly? That’s not a bad thing. The food is good, and so is the beer, especially considering the more than reasonable prices. Just go in with the right expectations, and you’ll have a great time.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">

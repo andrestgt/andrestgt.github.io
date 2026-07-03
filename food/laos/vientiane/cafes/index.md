@@ -14,14 +14,14 @@ subtitle: Cafés in Vientiane
 
 ## Naked Espresso
 *Dongpalan Rd · Specialty Coffee*
-Probably the best cappuccino in Vientiane — nice and smooth, great Old Town location, with tasty sandwiches too.
+Probably the best cappuccino in Vientiane, nice and smooth, great Old Town location, with tasty sandwiches too.
 → [Read the full review](/food/laos/vientiane/cafes/naked-espresso/)
 
 ---
 
 ## Benoni Café
 *Vientiane · Café*
-Friendly café, deli and wine shop with good wifi and air conditioning — the cappuccino is not bad either.
+Friendly café, deli and wine shop with good wifi and air conditioning; the cappuccino is not bad either.
 → [Read the full review](/food/laos/vientiane/cafes/benoni-cafe/)
 
 ---

@@ -11,7 +11,7 @@ subtitle: Anping, Tainan · Taiwanese
   <figcaption>Win Chang Beef Soup</figcaption>
 </figure>
 
-Bone broth with fresh beef — most famous in town and tasty for sure. Some carbs on the side, rice with minced beef. A nice meal for 120 NT$, but I don't think I'd queue for it like the locals do.
+Bone broth with fresh beef, most famous in town and tasty for sure. Some carbs on the side, rice with minced beef. A nice meal for 120 NT$, but I don't think I'd queue for it like the locals do.
 
 ## Ratings
 

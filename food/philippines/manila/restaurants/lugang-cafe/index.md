@@ -11,7 +11,7 @@ subtitle: SM Aura, BGC · Chinese, Dim Sum
   <figcaption>Lugang Café</figcaption>
 </figure>
 
-This outlet in SM Aura's Skypark looks very inviting with its chandeliers and show kitchen. The menu is very extensive but the problem is that there are no samplers or small orders available, and every serving consists of 8 big dumplings — not a place for solo diners or couples unless you're absolutely starved. The dumplings are nice and the prices reasonable considering the portion size, but the service is very poor and quite unable to cope during busy times.
+This outlet in SM Aura's Skypark looks very inviting with its chandeliers and show kitchen. The menu is very extensive but the problem is that there are no samplers or small orders available, and every serving consists of 8 big dumplings, not a place for solo diners or couples unless you're absolutely starved. The dumplings are nice and the prices reasonable considering the portion size, but the service is very poor and quite unable to cope during busy times.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

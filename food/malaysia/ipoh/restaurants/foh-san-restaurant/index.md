@@ -11,7 +11,7 @@ subtitle: Kampung Jawa, Ipoh · Chinese, Dim Sum
   <figcaption>Foh San Restaurant</figcaption>
 </figure>
 
-Fantastic old school dim sum place — a lot less frightening and confusing than the even more old-school Hong Kong dim sum opposite. Popular and busy but less chaotic. Order from a picture menu with one of the elderly ladies who will come to your table. The dim sum are lovely, really good quality and reasonably priced. A feast of dumplings cost us around RM40.
+Fantastic old school dim sum place, a lot less frightening and confusing than the even more old-school Hong Kong dim sum opposite. Popular and busy but less chaotic. Order from a picture menu with one of the elderly ladies who will come to your table. The dim sum are lovely, really good quality and reasonably priced. A feast of dumplings cost us around RM40.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

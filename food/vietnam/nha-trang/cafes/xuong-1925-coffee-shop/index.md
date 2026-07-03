@@ -9,7 +9,7 @@ I’ve always wondered why this basic little coffee shop on Biet Thu is so popul
 
 Well, the answer is simple: value!
 
-You get a very good cappuccino for 32k and a Vietnamese coffee for under 20k—a great price for a spot right in the heart of the tourist area.
+You get a very good cappuccino for 32k and a Vietnamese coffee for under 20k, a great price for a spot right in the heart of the tourist area.
 
 ## Ratings
 

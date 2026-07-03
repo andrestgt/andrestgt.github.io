@@ -13,7 +13,7 @@ subtitle: Restaurants in Lisbon
 
 ## SUPER MÁRIO
 Lisbon · Restaurant
-Initially looks like a tourist trap but still feels rooted in its working-class origins. Simple, genuinely tasty food at very fair prices — a large jug of vinho verde with seafood rice comes to around 20€.
+Initially looks like a tourist trap but still feels rooted in its working-class origins. Simple, genuinely tasty food at very fair prices; a large jug of vinho verde with seafood rice comes to around 20€.
 → [Read the full review](./super-mario/)
 
 ## TASCARDOSO

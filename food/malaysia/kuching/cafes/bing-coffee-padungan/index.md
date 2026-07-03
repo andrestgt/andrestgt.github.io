@@ -27,4 +27,4 @@ This café has been around forever and used to be considered the best in town. I
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd80e4b2c38fe6d26)
 ☕ **Type:** Café
-💰 **Price level:** —moderate
+💰 **Price level:**, moderate

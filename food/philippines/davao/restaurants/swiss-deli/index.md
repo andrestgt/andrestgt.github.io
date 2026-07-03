@@ -11,7 +11,7 @@ subtitle: Matina, Davao City · European
   <figcaption>The Swiss Deli & Restaurant</figcaption>
 </figure>
 
-The Swiss Deli is an absolute godsend in Davao — their deli shop is the only place where you can find quality European delicacies in this part of the world, some at a fraction of the European price. The restaurant food is simple, unpretentious pan-European fare: nothing outstanding but inexpensive, tasty and good value. We tried the ravioli, a nice seafood risotto, fish terrine and very tasty French onion soup — all with a bottle of Chilean white for less than 1500 Php.
+The Swiss Deli is an absolute godsend in Davao; their deli shop is the only place where you can find quality European delicacies in this part of the world, some at a fraction of the European price. The restaurant food is simple, unpretentious pan-European fare: nothing outstanding but inexpensive, tasty and good value. We tried the ravioli, a nice seafood risotto, fish terrine and very tasty French onion soup, all with a bottle of Chilean white for less than 1500 Php.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

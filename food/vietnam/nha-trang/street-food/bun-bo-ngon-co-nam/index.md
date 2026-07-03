@@ -11,7 +11,7 @@ subtitle: Nha Trang · Vietnamese · Bún Bò
   <figcaption>Bún Bò Ngon Cô Nam</figcaption>
 </figure>
 
-Clean and spacious Bun Bo place, conveniently located on Ngo Gia Thu. The broth is very good, and they serve a generous amount of meat. The tendons could be a bit softer, but overall, it's a solid bowl. 40k for a big portion—definitely worth it. Recommended!
+Clean and spacious Bun Bo place, conveniently located on Ngo Gia Thu. The broth is very good, and they serve a generous amount of meat. The tendons could be a bit softer, but overall, it's a solid bowl. 40k for a big portion, definitely worth it. Recommended!
 
 ## Ratings
 

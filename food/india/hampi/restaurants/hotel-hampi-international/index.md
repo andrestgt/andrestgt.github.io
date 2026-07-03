@@ -12,7 +12,7 @@ subtitle: Hosapete, Hampi · Indian
   <figcaption>Hotel Hampi International – Steps Restaurant</figcaption>
 </figure>
 
-Their chic Steps restaurant is the perfect place to wait for a train or have one last feast before going to meat-and-booze-free Hampi. It's fancy with elegant waiters, cushioned wicker chairs and Beethoven playing in the background, yet it's not more expensive than the scruffy backpacker cafés in Hampi — excellent value. Szechuan wok tossed chicken noodles may not sound terribly exciting, but the chicken was stunningly flavourful. Mutton Rogan Josh, rich and buttery, was just as it should be. The most memorable meals can happen at the most unexpected places.
+Their chic Steps restaurant is the perfect place to wait for a train or have one last feast before going to meat-and-booze-free Hampi. It's fancy with elegant waiters, cushioned wicker chairs and Beethoven playing in the background, yet it's not more expensive than the scruffy backpacker cafés in Hampi, excellent value. Szechuan wok tossed chicken noodles may not sound terribly exciting, but the chicken was stunningly flavourful. Mutton Rogan Josh, rich and buttery, was just as it should be. The most memorable meals can happen at the most unexpected places.
 
 ## Ratings
 

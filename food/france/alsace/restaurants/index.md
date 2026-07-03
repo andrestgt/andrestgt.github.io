@@ -18,12 +18,12 @@ Hearty and genuinely excellent Alsatian food such as choucroute and baeckeoffe. 
 
 ## AUBERGE DES SAUTERELLES
 Sermersheim · Alsatian Restaurant
-Simple, honest, and very good food — tête de veau, escargots, and a proper roasted pork knuckle with fries. Affordable and well worth trying your luck without a reservation.
+Simple, honest, and very good food - tête de veau, escargots, and a proper roasted pork knuckle with fries. Affordable and well worth trying your luck without a reservation.
 → [Read the full review](./auberge-des-sauterelles/)
 
 ## HÔTEL RESTAURANT FALLER EMMEBUCKEL
 Itterswiller · Restaurant
-Quite simply a wonderful place on any Alsace trip — spectacular food for a non-Michelin hotel restaurant. Pan-fried melt-in-your-mouth foie gras and Munster filled beignets. Magnifique.
+Quite simply a wonderful place on any Alsace trip - spectacular food for a non-Michelin hotel restaurant. Pan-fried melt-in-your-mouth foie gras and Munster filled beignets. Magnifique.
 → [Read the full review](./hotel-restaurant-faller-emmebuckel/)
 
 ## A L'ARBRE VERT

@@ -37,7 +37,7 @@ Old-school canteen-style eatery in the Old Town, serving tasty East Javan cuisin
 
 ## Sushi Tei Pakuwon Mall
 *Pakuwon Mall · Japanese*
-Consistent Sushi Tei quality in a mall setting — the food is excellent, though the atmosphere is the weaker of the two branches...
+Consistent Sushi Tei quality in a mall setting - the food is excellent, though the atmosphere is the weaker of the two branches...
 → [Read the full review](/food/indonesia/java/surabaya/restaurants/sushi-tei-pakuwon/)
 
 ---

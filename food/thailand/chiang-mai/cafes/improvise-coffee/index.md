@@ -12,7 +12,7 @@ photos_locked: true
   <figcaption>Improvise Coffee</figcaption>
 </figure>
 
-In a city full of small coffee shops, it's not easy to stand out — but if you're into strong yet balanced espresso drinks, Improvise is worth a visit. They offer a range of roasts, from light to bold, and the very reasonably priced strong roast cappuccino, served in a small cup and perfectly prepared, really hits the spot. With AC, WiFi, and a relatively spacious setting, it's a winner.
+In a city full of small coffee shops, it's not easy to stand out, but if you're into strong yet balanced espresso drinks, Improvise is worth a visit. They offer a range of roasts, from light to bold, and the very reasonably priced strong roast cappuccino, served in a small cup and perfectly prepared, really hits the spot. With AC, WiFi, and a relatively spacious setting, it's a winner.
 
 ## Ratings
 

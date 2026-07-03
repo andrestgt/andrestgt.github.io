@@ -11,7 +11,7 @@ subtitle: Old Town, Ipoh · Bar
   <figcaption>Kafe Yoon Wah</figcaption>
 </figure>
 
-Their food menu is longer than some phone books, but their prime attraction is snow beer coupled with the open-air Old Town location. The perfect place for a couple of chilled beers on a hot afternoon. Relatively inexpensive — a large Tiger goes for RM18 — and the chicken wings at RM25 for a big portion are good too.
+Their food menu is longer than some phone books, but their prime attraction is snow beer coupled with the open-air Old Town location. The perfect place for a couple of chilled beers on a hot afternoon. Relatively inexpensive; a large Tiger goes for RM18, and the chicken wings at RM25 for a big portion are good too.
 
 
 <figure>

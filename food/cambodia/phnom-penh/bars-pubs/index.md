@@ -14,7 +14,7 @@ subtitle: Bars and pubs in Phnom Penh
 
 ## Doors Music + Tapas
 *Street 47 · Bar, Tapas*
-Hard to define — club, live music venue, tapas bar — but the set lunch menu is a real bargain and the mojito was great.
+Hard to define, club, live music venue, tapas bar, but the set lunch menu is a real bargain and the mojito was great.
 → [Read the full review](/food/cambodia/phnom-penh/bars-pubs/doors-music-tapas/)
 
 ---
@@ -28,7 +28,7 @@ Lovely lounge bar with seriously good cocktails, service with a smile, and fair 
 
 ## Aroma Chef Restaurant and Bar
 *Street 172 · Bar, Khmer*
-Worth stopping for the excellent 1.50$ passion fruit mojitos alone — the Khmer food is decent and very reasonably priced.
+Worth stopping for the excellent 1.50$ passion fruit mojitos alone; the Khmer food is decent and very reasonably priced.
 
 ---
 

@@ -18,7 +18,7 @@ Classic tapas bar where locals clearly outnumber tourists. The tapas and house w
 
 ## EL PINTXO DE PETRITXOL
 Barcelona · Pintxos Bar
-Pintxos really do not get much better than this — the morcilla and foie gras are outstanding, the cheese platters excellent. Prices are very fair. My favourite place in Barcelona.
+Pintxos really do not get much better than this - the morcilla and foie gras are outstanding, the cheese platters excellent. Prices are very fair. My favourite place in Barcelona.
 → [Read the full review](./el-pintxo-de-petritxol/)
 
 ## LA FONDA

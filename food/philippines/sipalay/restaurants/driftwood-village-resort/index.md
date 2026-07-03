@@ -11,7 +11,7 @@ subtitle: Sugar Beach, Sipalay · Filipino, International
   <figcaption>Driftwood Village Resort</figcaption>
 </figure>
 
-Great food at the end of the world — Thai, Filipino and Western. Worth going there even if you don't stay at the resort. Fair prices, quality food. Wonderful beach, too, you may never want to leave. I've travelled through more than 70 countries on five continents and this is the place I always dream about going back to
+Great food at the end of the world, Thai, Filipino and Western. Worth going there even if you don't stay at the resort. Fair prices, quality food. Wonderful beach, too, you may never want to leave. I've travelled through more than 70 countries on five continents and this is the place I always dream about going back to
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">

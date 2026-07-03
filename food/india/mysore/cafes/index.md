@@ -13,7 +13,7 @@ subtitle: Cafés in Mysore
 
 ## Café Coffee Day – Mysore
 *Hyderali Road · Café*
-A terrible franchise — classic cold coffee never available, only sugary frappes, and obviously overpriced.
+A terrible franchise, classic cold coffee never available, only sugary frappes, and obviously overpriced.
 → [Read the full review](/food/india/mysore/cafes/cafe-coffee-day-mysore/)
 
 ---

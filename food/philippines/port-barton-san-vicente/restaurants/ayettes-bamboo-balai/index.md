@@ -11,7 +11,7 @@ subtitle: Port Barton, San Vicente · Filipino, International
   <figcaption>Ayette's Bamboo Balai</figcaption>
 </figure>
 
-I stayed here back in 2009 when Port Barton was still a quiet, off-the-beaten-path village. While the accommodation has gotten much more expensive, the restaurant is still a great place to eat. Food prices are similar to other spots in town — on the pricey side — but the quality is good. Plus, they serve the cheapest beer in Port Barton.
+I stayed here back in 2009 when Port Barton was still a quiet, off-the-beaten-path village. While the accommodation has gotten much more expensive, the restaurant is still a great place to eat. Food prices are similar to other spots in town, on the pricey side, but the quality is good. Plus, they serve the cheapest beer in Port Barton.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">

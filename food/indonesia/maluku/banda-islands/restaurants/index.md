@@ -16,7 +16,7 @@ Banda Neira has a small but decent selection of places to eat. Many restaurants 
 
 ## Cafe Terapung
 *Kampung Baru, Banda Neira · Seafood, Indonesian*
-The best meal in Banda Neira — a simple place on stilts above the water in the fishermen's quarter, serving perfectly grilled ikan bakar with excellent sambal...
+The best meal in Banda Neira - a simple place on stilts above the water in the fishermen's quarter, serving perfectly grilled ikan bakar with excellent sambal...
 → [Read the full review](/food/indonesia/maluku/banda-islands/restaurants/cafe-terapung/)
 
 ---

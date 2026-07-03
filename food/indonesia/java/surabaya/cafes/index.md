@@ -16,14 +16,14 @@ A selection of cafés across Surabaya, from specialty coffee in the Old Town to 
 
 ## Coffee Toffee Apsari Grahadi
 *Genteng · Café*
-Set in a beautiful old colonial building near the Alun-Alun — the location is the real draw, and prices are very reasonable...
+Set in a beautiful old colonial building near the Alun-Alun - the location is the real draw, and prices are very reasonable...
 → [Read the full review](/food/indonesia/java/surabaya/cafes/coffee-toffee-apsari/)
 
 ---
 
 ## Dewata & Monsieur Spoon Préféré
 *Comunale West Market · Café & Patisserie*
-An over-the-top Parisian setup right opposite Pakuwon Mall — slightly ridiculous, but fun, with good cheesecakes and decent coffee...
+An over-the-top Parisian setup right opposite Pakuwon Mall - slightly ridiculous, but fun, with good cheesecakes and decent coffee...
 → [Read the full review](/food/indonesia/java/surabaya/cafes/dewata-monsieur-spoon/)
 
 ---
@@ -37,7 +37,7 @@ A nicely designed café with a rooftop terrace in the Old Town, with well-made c
 
 ## Le Petit Jemma
 *Juanda Airport · Café*
-A surprisingly good and inexpensive flat white for an airport café — just don't expect a proper mug...
+A surprisingly good and inexpensive flat white for an airport café - just don't expect a proper mug...
 → [Read the full review](/food/indonesia/java/surabaya/cafes/le-petit-jemma/)
 
 ---
@@ -51,7 +51,7 @@ A well-known café in West Surabaya with good service, though starting to show i
 
 ## The Library Coffee & Pastries
 *Wiyung · Book Café*
-A pleasant book café inside the Waterplace complex — mornings are quiet and relaxed and the coffees are good...
+A pleasant book café inside the Waterplace complex - mornings are quiet and relaxed and the coffees are good...
 → [Read the full review](/food/indonesia/java/surabaya/cafes/the-library/)
 
 ---

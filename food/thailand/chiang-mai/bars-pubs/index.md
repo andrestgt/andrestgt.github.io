@@ -28,7 +28,7 @@ An inexplicably empty bar with very friendly staff, a free pool table and cheap 
 
 ## TC Bar & Grill
 *Si Phum, Chang Phueak · Bar*
-Chiang Mai's version of a late-night comfort food place — cheap beers and inexpensive bites.
+Chiang Mai's version of a late-night comfort food place, cheap beers and inexpensive bites.
 → [Read the full review](/food/thailand/chiang-mai/bars-pubs/tc-bar/)
 
 ---

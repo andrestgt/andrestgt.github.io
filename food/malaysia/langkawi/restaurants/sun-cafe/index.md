@@ -11,7 +11,7 @@ subtitle: Pantai Tengah, Langkawi · Café, International
   <figcaption>Sun Cafe</figcaption>
 </figure>
 
-One of Cenang/Tengah's classiest eateries — slightly let down by the strip mall location, but inside it's quite tastefully decorated and pleasant. The Asian dishes we ordered, such as beef rendang and yum neua, were all very good, though nothing extraordinary. Good choice and reasonable prices.
+One of Cenang/Tengah's classiest eateries, slightly let down by the strip mall location, but inside it's quite tastefully decorated and pleasant. The Asian dishes we ordered, such as beef rendang and yum neua, were all very good, though nothing extraordinary. Good choice and reasonable prices.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

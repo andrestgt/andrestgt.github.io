@@ -13,7 +13,7 @@ subtitle: Restaurants at KLIA2, Sepang
 
 ## Nyonya Colors – Gateway@KLIA2
 *KLIA2 · Nyonya*
-Perfectly acceptable budget Nyonya chain food at reasonable airport prices — not the most pleasant dining area, but better than most airport options.
+Perfectly acceptable budget Nyonya chain food at reasonable airport prices, not the most pleasant dining area, but better than most airport options.
 → [Read the full review](/food/malaysia/sepang/restaurants/nyonya-colors-klia2/)
 
 ---

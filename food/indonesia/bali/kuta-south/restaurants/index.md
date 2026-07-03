@@ -16,7 +16,7 @@ Covering Canggu, Kuta, and Seminyak.
 
 ## KU DE TA
 *Seminyak · Beach Club*
-A legendary Bali beach club — scene-y in the evenings but with genuinely great food at reasonable prices...
+A legendary Bali beach club - scene-y in the evenings but with genuinely great food at reasonable prices...
 → [Read the full review](/food/indonesia/bali/kuta-south/restaurants/ku-de-ta/)
 
 ---

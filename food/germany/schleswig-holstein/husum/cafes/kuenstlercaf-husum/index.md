@@ -32,4 +32,4 @@ Künstlercafé is a nice old-fashioned café in the pedestrianised centre of Hus
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc80a93abfa4ac197)
 📍 Neustadt 13, 25813 Husum, Germany
-💰 **Price level:** —moderate to expensive
+💰 **Price level:**, moderate to expensive

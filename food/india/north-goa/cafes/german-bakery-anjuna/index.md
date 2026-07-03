@@ -12,7 +12,7 @@ subtitle: Anjuna, North Goa · Café
   <figcaption>German Bakery Anjuna</figcaption>
 </figure>
 
-This place has to be seen to be believed. It's a huge garden space with lots of comfy floor cushion seating and extravagant decor. The service is fast and very friendly. It's so much more than just a standard German bakery — there's great bread, craft beers, local food and surprisingly tasty hipster health food. And even that rare thing in Goa, a fast WiFi connection. It's a bit pricier than you would expect, but it's such a fantastic place it's all worth it.
+This place has to be seen to be believed. It's a huge garden space with lots of comfy floor cushion seating and extravagant decor. The service is fast and very friendly. It's so much more than just a standard German bakery; there's great bread, craft beers, local food and surprisingly tasty hipster health food. And even that rare thing in Goa, a fast WiFi connection. It's a bit pricier than you would expect, but it's such a fantastic place it's all worth it.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

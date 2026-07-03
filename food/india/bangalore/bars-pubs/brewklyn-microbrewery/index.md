@@ -12,7 +12,7 @@ subtitle: Kalyan Nagar, Bangalore · Craft Beer Bar
 </figure>
 
 
-A long way from the city centre and more downscale than the other brew pubs we visited in Bangalore, this place still draws a crowd with some very good home brews and long weekday happy hours until 7pm. They only have five brews on tap — we tried and enjoyed all of them, with special mentions to Ale Capone. For grub there's some seriously spicy Harissa wings and a deliciously cheesy chicken tikka "pizza". Good place. If you visit for happy hour you can eat and drink a lot for under 1000 Rs per head.
+A long way from the city centre and more downscale than the other brew pubs we visited in Bangalore, this place still draws a crowd with some very good home brews and long weekday happy hours until 7pm. They only have five brews on tap, we tried and enjoyed all of them, with special mentions to Ale Capone. For grub there's some seriously spicy Harissa wings and a deliciously cheesy chicken tikka "pizza". Good place. If you visit for happy hour you can eat and drink a lot for under 1000 Rs per head.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

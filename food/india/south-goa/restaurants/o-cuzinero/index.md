@@ -12,7 +12,7 @@ subtitle: Chandor, South Goa · Goan
   <figcaption>O' Cuzinero</figcaption>
 </figure>
 
-Large, slightly upmarket countryside restaurant in Goa's heartland. Possibly because of its non-touristy location, the prices here are very reasonable for food of high quality. Their special chicken pariwar — a huge portion for 270 Rs — was really sumptuous, and the calamari chili fry (300 Rs, for a lot of squid) was fresh and tasty.
+Large, slightly upmarket countryside restaurant in Goa's heartland. Possibly because of its non-touristy location, the prices here are very reasonable for food of high quality. Their special chicken pariwar, a huge portion for 270 Rs, was really sumptuous, and the calamari chili fry (300 Rs, for a lot of squid) was fresh and tasty.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

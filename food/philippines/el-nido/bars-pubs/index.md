@@ -13,7 +13,7 @@ subtitle: Bars in El Nido
 
 ## Yacht Wreck Bar
 *El Nido Town · Bar*
-The cheapest beachfront bar in El Nido with a prime seaside location — pleasant vibes of old El Nido, but no food served.
+The cheapest beachfront bar in El Nido with a prime seaside location, pleasant vibes of old El Nido, but no food served.
 → [Read the full review](/food/philippines/el-nido/bars-pubs/yacht-wreck-bar/)
 
 ---

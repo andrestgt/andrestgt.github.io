@@ -12,7 +12,7 @@ subtitle: Palolem, South Goa · Goan, International
   <figcaption>Mollu's Classic Multicuisine Restaurant</figcaption>
 </figure>
 
-Away from the beach on the coastal highway, this unassuming looking restaurant is actually nicer and bigger than you would think, with attentive service and a varied menu. The food is very good here — better than most places on the beach and slightly cheaper. I especially liked their veg pulao which comes with paneer and mushrooms. The chili squid was predictably good too. Prices for seafood dishes around 250–300 Rs.
+Away from the beach on the coastal highway, this unassuming looking restaurant is actually nicer and bigger than you would think, with attentive service and a varied menu. The food is very good here, better than most places on the beach and slightly cheaper. I especially liked their veg pulao which comes with paneer and mushrooms. The chili squid was predictably good too. Prices for seafood dishes around 250–300 Rs.
 
 ## Ratings
 

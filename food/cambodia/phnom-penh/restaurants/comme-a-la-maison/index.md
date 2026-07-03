@@ -12,7 +12,7 @@ subtitle: Street 57, Phnom Penh · French
   <figcaption>Comme à la Maison</figcaption>
 </figure>
 
-Whenever I'm in Phnom Penh, the deli at CALM is my first choice for baguette — they're still really good and inexpensive. The restaurant itself is a nice, charming al fresco dining space, perfect for a good French meal. The salade chèvre chaud was delicious, with crispy greens and excellent goat cheese. The boudin noir, however, was a disappointment — bland and dry when it should have been juicy with herbs. Hit and miss, but I'll still go back for the baguette.
+Whenever I'm in Phnom Penh, the deli at CALM is my first choice for baguette; they're still really good and inexpensive. The restaurant itself is a nice, charming al fresco dining space, perfect for a good French meal. The salade chèvre chaud was delicious, with crispy greens and excellent goat cheese. The boudin noir, however, was a disappointment, bland and dry when it should have been juicy with herbs. Hit and miss, but I'll still go back for the baguette.
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/comme-a-la-maison-2.jpg" alt="Comme à la Maison">

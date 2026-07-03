@@ -12,7 +12,7 @@ subtitle: Deidesheim · Forest Restaurant
     </figure>
 
 
-Very pleasant countryside inn with a large beer garden in the woods. About 15 minutes on foot from the car park, or 45 minutes from the centre of Deidesheim. Self-service only, unfortunately, but with good Pfälzer cooking — sausages, Leberknödel and so on. Not cheap by regional standards (€13.90 for the Pfälzer Platte), but the quality is good and you'll definitely leave full. Very dog-friendly. Recommended.
+Very pleasant countryside inn with a large beer garden in the woods. About 15 minutes on foot from the car park, or 45 minutes from the centre of Deidesheim. Self-service only, unfortunately, but with good Pfälzer cooking, sausages, Leberknödel and so on. Not cheap by regional standards (€13.90 for the Pfälzer Platte), but the quality is good and you'll definitely leave full. Very dog-friendly. Recommended.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">

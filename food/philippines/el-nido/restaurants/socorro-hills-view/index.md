@@ -11,7 +11,7 @@ subtitle: Route 490, El Nido · Filipino
   <figcaption>Socorro Hills View</figcaption>
 </figure>
 
-The nicest pit stop along Route 490 to El Nido, this viewpoint resto offers more than just sweeping sea views. The shakes are tasty, the food is solid, and the prices are moderate — making it a great place to take a break and enjoy the scenery.
+The nicest pit stop along Route 490 to El Nido, this viewpoint resto offers more than just sweeping sea views. The shakes are tasty, the food is solid, and the prices are moderate, making it a great place to take a break and enjoy the scenery.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

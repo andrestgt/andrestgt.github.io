@@ -12,7 +12,7 @@ subtitle: Assi Ghat, Varanasi · Café
   <figcaption>Open Hand Café & Shop Varanasi</figcaption>
 </figure>
 
-They make the best coffees in town — go for a double-shot cappuccino (110 Rs) — and it's generally a nice, good value and very comfy hangout. There's some simple food at good prices too. I wouldn't recommend their cheesecake, though, and service is very slow.
+They make the best coffees in town, go for a double-shot cappuccino (110 Rs), and it's generally a nice, good value and very comfy hangout. There's some simple food at good prices too. I wouldn't recommend their cheesecake, though, and service is very slow.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

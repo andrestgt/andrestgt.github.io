@@ -12,7 +12,7 @@ subtitle: Budapest · Ruin Pub
   <figcaption>Szimpla Kert</figcaption>
 </figure>
 
-The best of the ruin pubs — quite an amazing place to visit. Less cool, however, is the fact that they serve their house wine at room temperature, including the white. A bad idea at 34 degrees.
+The best of the ruin pubs, quite an amazing place to visit. Less cool, however, is the fact that they serve their house wine at room temperature, including the white. A bad idea at 34 degrees.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

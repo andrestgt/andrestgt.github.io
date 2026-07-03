@@ -16,14 +16,14 @@ Ubud has a thriving café scene, from hipster specialty roasters to old-school w
 
 ## Café Des Artistes
 *Ubud · Café & Bistro*
-One of Ubud's nicest cafés — good Western bistro food and a pleasant atmosphere...
+One of Ubud's nicest cafés - good Western bistro food and a pleasant atmosphere...
 → [Read the full review](/food/indonesia/bali/ubud-north/cafes/cafe-des-artistes/)
 
 ---
 
 ## Gangga Coffee Ubud
 *Peliatan · Specialty Coffee*
-Possibly the best café in town — modern and comfortable, with excellently prepared coffees...
+Possibly the best café in town - modern and comfortable, with excellently prepared coffees...
 → [Read the full review](/food/indonesia/bali/ubud-north/cafes/gangga-coffee/)
 
 ---

@@ -14,7 +14,7 @@ subtitle: Restaurants in Vientiane
 
 ## Tyson Kitchen
 *Vientiane · Pizza, Lao Fusion*
-Fantastic gastro bar with wood-fired pizzas — the Lao pizza with larb and basil is mouth-wateringly good and prices are very fair.
+Fantastic gastro bar with wood-fired pizzas; the Lao pizza with larb and basil is mouth-wateringly good and prices are very fair.
 → [Read the full review](/food/laos/vientiane/restaurants/tyson-kitchen/)
 
 ---

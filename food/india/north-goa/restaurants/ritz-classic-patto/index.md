@@ -12,7 +12,7 @@ subtitle: Patto Plaza, Panaji · Goan
   <figcaption>Ritz Classic – Patto</figcaption>
 </figure>
 
-Large mid-range family restaurant absolutely packed during lunch time. Everyone seems to order their special Goan fish thali which despite being reasonably priced at around 200 Rs is massive and quite spectacular — best I had. It would have been enough for two, but I'm glad I also ordered the squid balchao, which was nice and spicy without being too sour. Highly recommended.
+Large mid-range family restaurant absolutely packed during lunch time. Everyone seems to order their special Goan fish thali which despite being reasonably priced at around 200 Rs is massive and quite spectacular, best I had. It would have been enough for two, but I'm glad I also ordered the squid balchao, which was nice and spicy without being too sour. Highly recommended.
 
 <figure>
   <img src="/photos/india/north-goa/ritz-classic-patto-2.jpg" alt="Ritz Classic – Patto">

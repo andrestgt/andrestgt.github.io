@@ -18,7 +18,7 @@ Excellent place for breakfast or a quick snack. A plate costs around 3€, is su
 
 ## COFFEE ISLAND
 Hersonissos · Café
-Serves decent coffee at very fair prices — cappuccino only around 1,60€. Mainly designed as a takeaway café, so don't expect proper mugs or comfortable seating.
+Serves decent coffee at very fair prices, cappuccino only around 1,60€. Mainly designed as a takeaway café, so don't expect proper mugs or comfortable seating.
 → [Read the full review](./coffee-island/)
 
 ## HUB CAFE+LOUNGE
@@ -28,10 +28,10 @@ Relaxed Old Town lounge with very good coffee. Prices are high by Cretan standar
 
 ## KOSTA KOSTA CAFE
 Malia · Café
-Modern-looking café with comfortable sofas and outdoor seating. Cappuccino costs around 2,50€ — slightly expensive for the area, though the quality is decent enough.
+Modern-looking café with comfortable sofas and outdoor seating. Cappuccino costs around 2,50€, slightly expensive for the area, though the quality is decent enough.
 → [Read the full review](./kosta-kosta-cafe/)
 
 ## ΖΕΜΠΊΛΗΣ
 Rethymno · Café
-Mostly a takeaway coffee place near the bus station. All coffees cost only 1€ — very convenient if you're waiting around.
+Mostly a takeaway coffee place near the bus station. All coffees cost only 1€, very convenient if you're waiting around.
 → [Read the full review](./zemilis/)

@@ -82,7 +82,7 @@ The best Northern style Bun Ca I've had in Nha Trang.
 
 ## BUN CHA OBAMA . BUN OC HA NOI
 *Nha Trang*
-This basic alley eatery came recommended by locals, and I’m not surprised—it really caters to Southern taste buds.
+This basic alley eatery came recommended by locals, and I’m not surprised, it really caters to Southern taste buds.
 → [Read the full review](/food/vietnam/nha-trang/street-food/bun-cha-obama-bun-oc-ha-noi/)
 
 ---
@@ -159,7 +159,7 @@ Delivery only, but this is the best value pizza in town.
 
 ## NEM NƯỚNG HƯNG HÒA ( THE LOCAL RESTAURANT)
 *Nha Trang*
-Nem nướng is my favorite regional specialty—it’s essentially a gourmet version of summer rolls.
+Nem nướng is my favorite regional specialty, it’s essentially a gourmet version of summer rolls.
 → [Read the full review](/food/vietnam/nha-trang/street-food/nem-nuong-hung-hoa-the-local-restaurant/)
 
 ---
@@ -187,7 +187,7 @@ Old-school hole-in-the-wall travellers eatery with outside tables in a quiet all
 
 ## Nhị Ký Quán
 *Nha Trang*
-A basic eatery in an untouristy part of town behind Dam Market, this place is curiously popular with Russians—presumably
+A basic eatery in an untouristy part of town behind Dam Market, this place is curiously popular with Russians, presumably
 → [Read the full review](/food/vietnam/nha-trang/street-food/nhi-ky-quan/)
 
 ---
@@ -229,7 +229,7 @@ This basic street eatery serves one of the best bowls of Bun Bo Hue in town.
 
 ## Quán Hải Sản Thanh Sương
 *Nha Trang*
-This is your quintessential Vietnamese seafood restaurant—a massive place with a large al fresco area offering views of 
+This is your quintessential Vietnamese seafood restaurant, a massive place with a large al fresco area offering views of 
 → [Read the full review](/food/vietnam/nha-trang/street-food/quan-hai-san-thanh-suong/)
 
 ---
@@ -271,7 +271,7 @@ This alley street food place has deservedly become popular for their specialty d
 
 ## WHALE Napoli Pizza
 *Nha Trang*
-This place is really cute—essentially a pizza oven in someone’s living room, with just a couple of tables out front.
+This place is really cute, essentially a pizza oven in someone’s living room, with just a couple of tables out front.
 → [Read the full review](/food/vietnam/nha-trang/street-food/whale-napoli-pizza/)
 
 ---

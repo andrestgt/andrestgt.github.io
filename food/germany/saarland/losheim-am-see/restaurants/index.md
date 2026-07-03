@@ -13,7 +13,7 @@ subtitle: Restaurants in Losheim am See
 
 ## HOCHWÄLDER BRAUHAUS
 Losheim am See · Microbrewery, Beer Garden
-Hochwälder Brauhaus on Losheim Lake is beautifully put together — stylish, modern, in the...
+Hochwälder Brauhaus on Losheim Lake is beautifully put together, stylish, modern, in the...
 → [Read the full review](./hochwaelder-brauhaus/)
 
 **Price level note:**  

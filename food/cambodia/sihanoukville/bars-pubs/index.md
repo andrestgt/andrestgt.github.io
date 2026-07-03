@@ -14,7 +14,7 @@ subtitle: Bars in Sihanoukville
 
 ## Moorea Beach
 *Otres Beach · Bar*
-My favourite place around Otres Beach — comfortable cushions, tasteful design, chilled wine, and reasonably priced food.
+My favourite place around Otres Beach, comfortable cushions, tasteful design, chilled wine, and reasonably priced food.
 → [Read the full review](/food/cambodia/sihanoukville/bars-pubs/moorea-beach/)
 
 ---
@@ -28,14 +28,14 @@ Excellent beachfront location with comfortable cushions, relaxed atmosphere, and
 
 ## Stray Cats Guesthouse
 *Otres Village · Bar*
-Relaxed lounge atmosphere with cheap drinks and a surprisingly good local restaurant — stick to the Khmer dishes.
+Relaxed lounge atmosphere with cheap drinks and a surprisingly good local restaurant, stick to the Khmer dishes.
 → [Read the full review](/food/cambodia/sihanoukville/bars-pubs/stray-cats-guesthouse/)
 
 ---
 
 ## The Big Easy
 *Mittapheap St · Bar*
-Cheap drinks, long happy hours, and good music — somehow more popular than the similar bar next door.
+Cheap drinks, long happy hours, and good music, somehow more popular than the similar bar next door.
 → [Read the full review](/food/cambodia/sihanoukville/bars-pubs/the-big-easy/)
 
 ---

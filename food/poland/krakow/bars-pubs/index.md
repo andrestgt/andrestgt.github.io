@@ -18,12 +18,12 @@ This place oozes atmosphere. A little pricey by local standards, but popular for
 
 ## ESZEWERIA
 Kraków · Pub
-Dark, cavernous, and pleasantly moody — a proper little pub. Drinks are reasonably priced. Service can be painfully slow when busy.
+Dark, cavernous, and pleasantly moody - a proper little pub. Drinks are reasonably priced. Service can be painfully slow when busy.
 → [Read the full review](./eszeweria/)
 
 ## JAZZ ROCK CAFE
 Kraków · Rock Club
-There's no jazz here and it isn't a café either — it's a full-blown rock club. Busy, loud, and with a surprisingly young crowd.
+There's no jazz here and it isn't a café either - it's a full-blown rock club. Busy, loud, and with a surprisingly young crowd.
 → [Read the full review](./jazz-rock-cafe/)
 
 ## PIĘKNY PIES

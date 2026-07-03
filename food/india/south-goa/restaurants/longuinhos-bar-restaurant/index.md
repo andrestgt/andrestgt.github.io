@@ -12,7 +12,7 @@ subtitle: Madgaon, Margao · Goan
   <figcaption>Longuinhos Bar, Restaurant & Confectioners</figcaption>
 </figure>
 
-Margao's most atmospheric place to eat is straight out of a long-gone era — it looks like it operated in essentially the same way when Goa was still a Portuguese colony. Waiters are quick and polite. The beer is cold and cheap (90 Rs for a large Kingfisher) and the food is tasty. I really liked the chili pork, fatty and melt in the mouth, perfect with the beer. Non-veg dishes mostly around 200–300 Rs.
+Margao's most atmospheric place to eat is straight out of a long-gone era; it looks like it operated in essentially the same way when Goa was still a Portuguese colony. Waiters are quick and polite. The beer is cold and cheap (90 Rs for a large Kingfisher) and the food is tasty. I really liked the chili pork, fatty and melt in the mouth, perfect with the beer. Non-veg dishes mostly around 200–300 Rs.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>

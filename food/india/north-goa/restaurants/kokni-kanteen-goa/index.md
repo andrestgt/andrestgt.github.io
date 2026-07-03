@@ -11,7 +11,7 @@ subtitle: Panaji, North Goa · Goan
   <figcaption>Kokni Kanteen Goa</figcaption>
 </figure>
 
-Nice restaurant with good food and bad customer service — they didn't honour our confirmed reservation with a Dineout discount, so one star deducted for that. Apart from that, it's quite a lovely little restaurant with Goan specialties and a pleasant ambiance. We had a Goan pulao and a chicken xacuti which both were very good, while the prawn curry was a little disappointing. All 3 dishes cost 265 Rs, which is reasonable.
+Nice restaurant with good food and bad customer service; they didn't honour our confirmed reservation with a Dineout discount, so one star deducted for that. Apart from that, it's quite a lovely little restaurant with Goan specialties and a pleasant ambiance. We had a Goan pulao and a chicken xacuti which both were very good, while the prawn curry was a little disappointing. All 3 dishes cost 265 Rs, which is reasonable.
 
 
 

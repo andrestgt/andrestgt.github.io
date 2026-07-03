@@ -12,7 +12,7 @@ photos_locked: true
   <figcaption>Chan Khanom Wan</figcaption>
 </figure>
 
-Beautifully decorated, old-fashioned dessert café right opposite the Chinatown gate. We came across this place looking for a coffee that costs less than 100 Bt — not an easy find in an area where most cafés with seating seem to double as Instagram spots and charge obscene prices.
+Beautifully decorated, old-fashioned dessert café right opposite the Chinatown gate. We came across this place looking for a coffee that costs less than 100 Bt, not an easy find in an area where most cafés with seating seem to double as Instagram spots and charge obscene prices.
 
 Here a cappuccino, though misspelled on the menu, goes for 69 Bt and is actually pretty good. Not the bitter roast you often get in cheaper Thai cafés, but smooth and pleasant.
 

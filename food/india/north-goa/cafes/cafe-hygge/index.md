@@ -12,7 +12,7 @@ subtitle: Fontainhas, Panaji · Café
   <figcaption>Cafe Hygge</figcaption>
 </figure>
 
-In Panaji's prettiest neighbourhood, this beautifully air-conditioned little café does good espresso drinks at reasonable prices. A cappuccino goes for 100 Rs which makes it just a little bit more expensive than Bombay Coffee Roasters around the corner, but I preferred the one here. A minus is the lack of WiFi — the mobile internet connection inside is rather weak.
+In Panaji's prettiest neighbourhood, this beautifully air-conditioned little café does good espresso drinks at reasonable prices. A cappuccino goes for 100 Rs which makes it just a little bit more expensive than Bombay Coffee Roasters around the corner, but I preferred the one here. A minus is the lack of WiFi; the mobile internet connection inside is rather weak.
 
 <figure>
   <img src="/photos/india/north-goa/cafe-hygge-2.jpg" alt="Cafe Hygge">

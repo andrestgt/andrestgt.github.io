@@ -28,10 +28,10 @@ Really nice pub with decent prices and a selection of Hungarian beer snacks such
 
 ## PÉPI SÖRÖZŐ
 Budapest · Neighbourhood Pub
-Good selection of beers and wines, and very tasty home-cooked meals. A very local place — no English spoken.
+Good selection of beers and wines, and very tasty home-cooked meals. A very local place, no English spoken.
 → [Read the full review](./pepi-soeroezoe/)
 
 ## SZIMPLA KERT
 Budapest · Ruin Pub
-The best of the ruin pubs — quite an amazing place to visit. The house wine is inexpensive, though unfortunately served at room temperature.
+The best of the ruin pubs, quite an amazing place to visit. The house wine is inexpensive, though unfortunately served at room temperature.
 → [Read the full review](./szimpla-kert/)

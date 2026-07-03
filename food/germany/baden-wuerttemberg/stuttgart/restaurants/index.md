@@ -18,7 +18,7 @@ As someone who has been to India several times and considers himself a genuine f
 
 ## BESENWIRTSCHAFT RAUSCHER
 Obertürkheim · Besenwirtschaft, Swabian
-A classic Besenwirtschaft in Obertürkheim, open only a few weeks a year. As you'd expect,...
+A classic Besenwirtschaft in Obertürkheim, open only a few weeks a year. As you'd expect...
 → [Read the full review](./besenwirtschaft-rauscher/)
 
 ## BIERGARTEN KILLESBERG
@@ -43,12 +43,12 @@ With its prime location, modern interior, and a very nice alfresco area overlook
 
 ## CQ FLAVOUR
 Stuttgart · Chinese, Sichuan
-Despite its location in the backyard of a rather dreary shopping complex on the outskirts,...
+Despite its location in the backyard of a rather dreary shopping complex on the outskirts...
 → [Read the full review](./cq-flavour/)
 
 ## DILGELAY - DER STUTTGARTER DÖNER
 Stuttgart · Döner, Turkish
-A bit pricier than average — a yufka costs just under €10 — but in return you get one of t...
+A bit pricier than average, a yufka costs just under €10, but in return you get one of t...
 → [Read the full review](./dilgelay-der-stuttgarter-doener/)
 
 ## FOUR BROTHERS BURGER
@@ -63,7 +63,7 @@ Goldener Adler combines creative international starters with main courses of hea
 
 ## HARMONIE GRIECHISCHES RESTAURANT
 Stuttgart · Greek
-This is quite an oddity — a simple Gaststätte in a quiet East End residential area serving...
+This is quite an oddity, a simple Gaststätte in a quiet East End residential area serving...
 → [Read the full review](./harmonie-griechisches-restaurant/)
 
 ## HUONG VIET - VIETNAMESISCHE SPEZIALITÄTEN
@@ -88,12 +88,12 @@ A vast old-school feeding temple with a generous buffet at €25 not including d
 
 ## RISTORANTE LA SCALA
 Stuttgart · Italian
-The food is very good — honest Italian cooking at a decent level. I found the prices on th...
+The food is very good, honest Italian cooking at a decent level. I found the prices on th...
 → [Read the full review](./ristorante-la-scala/)
 
 ## SAI GON ASIAN STREET FOOD
 Bad Cannstatt · Vietnamese
-Sai Gon looks like a basic local eatery — but there are two menus. The regular German menu...
+Sai Gon looks like a basic local eatery, but there are two menus. The regular German menu...
 → [Read the full review](./sai-gon-asian-street-food/)
 
 ## TAGESBISTRO HERR KÄCHELE
@@ -103,7 +103,7 @@ For Stuttgart, this is well worth a visit, both in terms of price and quality. W
 
 ## TAVERNA BEI KOSTA
 Stuttgart · Greek
-A pretty taverna in greenery on the outskirts — a pleasant find. Solid Greek food at fair...
+A pretty taverna in greenery on the outskirts, a pleasant find. Solid Greek food at fair...
 → [Read the full review](./taverna-bei-kosta/)
 
 ## THAI PALACE RESTAURANT

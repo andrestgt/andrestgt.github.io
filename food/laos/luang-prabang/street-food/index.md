@@ -14,7 +14,7 @@ subtitle: Street food in Luang Prabang
 
 ## Local Noodle Shop
 *Chao Fa Ngum Rd · Lao*
-A surviving relic of old Luang Prabang — simple, cheap noodle soup eaten in front of a crumbling colonial building is a genuinely wonderful experience.
+A surviving relic of old Luang Prabang, simple, cheap noodle soup eaten in front of a crumbling colonial building is a genuinely wonderful experience.
 → [Read the full review](/food/laos/luang-prabang/street-food/local-noodle-shop/)
 
 ---

@@ -12,7 +12,7 @@ subtitle: Old Market · Mexican, Khmer
   <figcaption>¡Viva! Fine Mexican and Khmer Cuisine</figcaption>
 </figure>
 
-Viva is an institution. They've been serving their $5 mango margarita pitchers in Siem Reap and Phnom Penh for well over a decade without raising their prices. Their Khmer food is tasty and reliable — I like their version of fish amok a lot. The 'Mexican' is basic Tex-Mex, but it's alright, filling, and goes well with cold beers or margaritas. I never miss an opportunity to visit Viva when I'm in town.
+Viva is an institution. They've been serving their $5 mango margarita pitchers in Siem Reap and Phnom Penh for well over a decade without raising their prices. Their Khmer food is tasty and reliable, I like their version of fish amok a lot. The 'Mexican' is basic Tex-Mex, but it's alright, filling, and goes well with cold beers or margaritas. I never miss an opportunity to visit Viva when I'm in town.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 

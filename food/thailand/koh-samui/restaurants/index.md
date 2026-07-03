@@ -16,7 +16,7 @@ A selection of restaurants across Koh Samui, mostly concentrated along the Mae N
 
 ## The Fish Restaurant
 *Mae Nam · Thai, Seafood*
-A modest ring road location that belies very good Thai food — beautifully presented and entirely delicious...
+A modest ring road location that belies very good Thai food, beautifully presented and entirely delicious...
 → [Read the full review](/food/thailand/koh-samui/restaurants/the-fish-restaurant/)
 
 ---
@@ -30,7 +30,7 @@ Wood-fired thin-crust pizzas with high quality toppings...
 
 ## Little Paradise
 *Mae Nam · Thai*
-A magical spot on a ridiculously picturesque empty beach — a throwback to a different era...
+A magical spot on a ridiculously picturesque empty beach, a throwback to a different era...
 → [Read the full review](/food/thailand/koh-samui/restaurants/little-paradise/)
 
 ---

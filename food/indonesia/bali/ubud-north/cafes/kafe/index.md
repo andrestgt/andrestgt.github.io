@@ -7,7 +7,7 @@ title: KAFE
 subtitle: Ubud · Café
 ---
 
-Very popular for many years. Their coffees come in generous mugs, but are strong and well prepared — great value at 24K++. Wi-Fi and comfy seats available. Can't comment on the food.
+Very popular for many years. Their coffees come in generous mugs, but are strong and well prepared - great value at 24K++. Wi-Fi and comfy seats available. Can't comment on the food.
 
 ## Ratings
 

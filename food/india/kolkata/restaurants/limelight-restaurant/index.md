@@ -12,7 +12,7 @@ subtitle: BBD Bagh, Kolkata · Indian
   <figcaption>Limelight Restaurant & Bar</figcaption>
 </figure>
 
-The only place we found open in the deserted streets of BBD Bagh on a Sunday afternoon seems rather fallen out of time — old-fashioned furniture, a big chandelier, all very 70s and not in a fashionable retro kind of way. Service is friendly though, and the food is absolutely fine. Chingri malai curry wasn't cheap for 450 Rs but contained six big king prawns. The palak paneer was sumptuous. Limelight is a really good address and so lovably unconsciously uncool.
+The only place we found open in the deserted streets of BBD Bagh on a Sunday afternoon seems rather fallen out of time, old-fashioned furniture, a big chandelier, all very 70s and not in a fashionable retro kind of way. Service is friendly though, and the food is absolutely fine. Chingri malai curry wasn't cheap for 450 Rs but contained six big king prawns. The palak paneer was sumptuous. Limelight is a really good address and so lovably unconsciously uncool.
 
 <figure>
   <img src="/photos/india/kolkata/limelight-restaurant-2.jpg" alt="Limelight Restaurant & Bar">
