@@ -13,7 +13,7 @@ subtitle: Nha Trang · Bar & Pub
 
 You can't accuse the owners of this bar of pandering to the zeitgeist. In the 2020s, a Michael Jackson themed bar that allows indoor smoking is a bold enterprise.
 
-The place is elegant, expensive and dedicated to making actual quality cocktails, which is very rare in this country. I didn't expect to find something as exotic as a Sazerac on a menu in Nha Trang. Hats off to that. There's live music on the weekends and no cheap beer option (Tiger is 50k) which keeps the riff-raff out. It's not exactly my kind of place, but I can see what they're trying to go for and they're successful at it.
+The place is elegant, expensive and dedicated to making actual quality cocktails, which is very rare in this country. I didn't expect to find something as exotic as a Sazerac on a menu in Nha Trang. Hats off to that. There's live music at the weekend and no cheap beer option (Tiger is 50k) which keeps the riff-raff out. It's not exactly my kind of place, but I can see what they're trying to go for and they're successful at it.
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam20-2641.jpg" alt="Mijack Bar Nha Trang">
