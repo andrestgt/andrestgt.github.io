@@ -12,7 +12,7 @@ subtitle: Street Food in Quảng Ngãi
 
 ## Ram thịt nướng Loan
 *Quảng Ngãi*
-Ram Thit Nuong is a Quang Ngai specialty dish consisting of several grilled meats including Bo la lot and nem nuong whic
+Quang Ngai specialty grilled meats wrapped in rice paper with salad; 70k a dish, worth every Dong...
 → [Read the full review](/food/vietnam/quang-ngai/quang-ngai/street-food/ram-thit-nuong-loan/)
 
 ---

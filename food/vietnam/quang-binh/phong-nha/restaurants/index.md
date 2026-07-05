@@ -12,14 +12,14 @@ subtitle: Restaurants in Phong Nha
 
 ## Len Con Peak
 *Phong Nha*
-This is a pleasant countryside restaurant just a short bike ride from the village.
+Pleasant countryside restaurant a short bike ride away; grilled native chicken is the signature dish, worth the trip...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/restaurants/len-con-peak/)
 
 ---
 
 ## Phong Nha Underground Restaurant
 *Phong Nha*
-Very nice and welcoming air conditioned restaurant with good international food and very refreshing home made ginger bee
+Welcoming air conditioned restaurant with good international food; upmarket for Phong Nha but most dishes under 100k...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/restaurants/phong-nha-underground-restaurant/)
 
 ---

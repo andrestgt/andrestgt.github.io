@@ -12,7 +12,7 @@ subtitle: Street Food in Bát Xát
 
 ## Quan Giang Nguyen
 *Bát Xát*
-The small town of Muang Hum is surrounded by absolutely gorgeous scenery, but there's not a whole lot of food options he
+Surrounded by gorgeous scenery but not many food options; only sit-down restaurant, decent Pho Ga big bowl for 30k...
 → [Read the full review](/food/vietnam/lao-cai/muong-hum/street-food/quan-giang-nguyen/)
 
 ---

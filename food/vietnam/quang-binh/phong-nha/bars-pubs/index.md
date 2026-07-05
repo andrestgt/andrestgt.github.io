@@ -12,7 +12,7 @@ subtitle: Bars & Pubs in Phong Nha
 
 ## Momma D
 *Phong Nha*
-Fantastic rooftop bar with stunning views and great drink specials such as G&T for 40k.
+Fantastic rooftop bar with stunning views; great drink specials, G&T just 40k...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/bars-pubs/momma-d/)
 
 ---

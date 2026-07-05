@@ -14,14 +14,14 @@ subtitle: Restaurants in Tuy Hòa
 
 ## Quán Bà Tám - Cá ngừ đại dương
 *Tuy Hòa*
-Basic tuna speciality restaurant serving everything from unusual delicacies such as steamed tuna eye to classics like be
+Basic tuna speciality restaurant, steamed tuna eye to grilled tuna belly; cheap, delicious, an absolute must...
 → [Read the full review](/food/vietnam/phu-yen/tuy-hoa/restaurants/quan-ba-tam-ca-ngu-dai-duong/)
 
 ---
 
 ## Quan Binh Xin
 *Tuy Hòa*
-We stopped here because the place was super busy full of locals even past lunch time so we thought it would be a good pl
+Super busy with locals even past lunch; Goi Ca Mai raw anchovy salad gorgeous and generous for just 60k...
 → [Read the full review](/food/vietnam/phu-yen/tuy-hoa/restaurants/quan-binh-xin/)
 
 ---

@@ -12,7 +12,7 @@ subtitle: Restaurants in Đồng Hới
 
 ## Hoàng Linh Sushi – Nhà hàng Nhật Bản
 *Đồng Hới*
-This is the only sushi restaurant in Dong Hoi and it's perfectly adequate.
+Only sushi restaurant in Dong Hoi, perfectly adequate; fish quality fine, minimum 200k per head...
 → [Read the full review](/food/vietnam/quang-binh/dong-hoi/restaurants/hoang-linh-sushi-nha-hang-nhat-ban/)
 
 ---

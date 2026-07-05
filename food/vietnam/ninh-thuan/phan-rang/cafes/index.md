@@ -12,7 +12,7 @@ subtitle: Cafés in Ninh Thuận
 
 ## Jo Garden Coffee
 *Ninh Thuận*
-Fancy and comfy garden café with great cappuccino for just 38k a cup.
+Fancy comfy garden café with great cappuccino just 38k; friendly service, worth a stop...
 → [Read the full review](/food/vietnam/ninh-thuan/phan-rang/cafes/jo-garden-coffee/)
 
 ---

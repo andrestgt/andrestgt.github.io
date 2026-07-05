@@ -12,7 +12,7 @@ subtitle: Bars & Pubs in Vũng Tàu
 
 ## Numpty's bar
 *Vũng Tàu*
-Friendly pub with a pool table, cold San Miguel on tap and good prices.
+Friendly pub with a pool table; cold San Miguel on tap, good prices...
 → [Read the full review](/food/vietnam/ba-ria-vung-tau/vung-tau/bars-pubs/numptys-bar/)
 
 ---

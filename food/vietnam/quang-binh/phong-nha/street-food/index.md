@@ -12,35 +12,35 @@ subtitle: Street Food in Phong Nha
 
 ## Nam Định Quán (PHỞ-BÚN BÒ)
 *Phong Nha*
-This is a classic noodle soup place and often very busy for breakfast.
+Classic noodle soup place, busy for breakfast; broth fine, stick to Phở Tái, still one of the better options...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/street-food/nam-dinh-quan-pho-bun-bo/)
 
 ---
 
 ## Quán Phở Bắc
 *Phong Nha*
-Considering the name of this place simply means Northern style beef noodle soup eatery, I never expected to experience o
+Simple Pho joint by day, drinking place by night with stunning river views; smoked roasted duck the best I've had...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/street-food/quan-pho-bac/)
 
 ---
 
 ## RIVER SON QUAN
 *Phong Nha*
-We went here during corona times as it was the only place that was not just open for lunch in this part of town, but eve
+Only place open beyond lunch during corona times; fried rice and river fish good, simple cheap family spot...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/street-food/river-son-quan/)
 
 ---
 
 ## Thang Nhung - Spit Roast Pork & Noodle Shop
 *Phong Nha*
-I doubt that you'll find a better Banh Mi Heo Quay (roasted pork baguette) anywhere in Vietnam if you're a meat lover.
+Doubt you'll find a better Banh Mi Heo Quay anywhere in Vietnam; 50k, packed with crispy grilled pork belly...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/street-food/thang-nhung-spit-roast-pork-noodle-shop/)
 
 ---
 
 ## YOUandME restaurant
 *Phong Nha*
-I generally don't dislike little traveller restaurants with their watered down versions of local specialties, quite ofte
+Little traveller restaurant with watered down local specialties; Bun Cha poor quality, spring rolls fine, at least cheap...
 → [Read the full review](/food/vietnam/quang-binh/phong-nha/street-food/youandme-restaurant/)
 
 ---

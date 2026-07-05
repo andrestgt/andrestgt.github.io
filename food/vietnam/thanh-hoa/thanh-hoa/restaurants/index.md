@@ -12,7 +12,7 @@ subtitle: Restaurants in Thanh Hóa
 
 ## Quán Lượng Vần
 *Thanh Hóa*
-Thanh Hoa's most popular Bia hoi joint is worth a visit for the local specialty Nem nuong, which is grilled fermented po
+Thanh Hoa's most popular Bia hoi joint; try Nem nuong grilled fermented pork, not as cheap as it looks...
 → [Read the full review](/food/vietnam/thanh-hoa/thanh-hoa/restaurants/quan-luong-van/)
 
 ---

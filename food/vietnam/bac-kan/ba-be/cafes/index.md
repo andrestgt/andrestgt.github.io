@@ -12,7 +12,7 @@ subtitle: Cafés in Ba Bể
 
 ## Café sân vườn 279
 *Ba Bể*
-If we were anywhere south of the Northern mountain area, I wouldn't even review this place, let alone give five stars.
+Rare oasis of a café in the Northern mountains; real Daklak filter coffee just 20k, friendly with WiFi...
 → [Read the full review](/food/vietnam/bac-kan/ba-be/cafes/cafe-san-vuon-279/)
 
 ---

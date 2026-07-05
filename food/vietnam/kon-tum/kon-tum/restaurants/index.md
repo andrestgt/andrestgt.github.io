@@ -12,7 +12,7 @@ subtitle: Restaurants in Kon Tum
 
 ## Gỏi lá Út Cưng
 *Kon Tum*
-Possibly Kontum's most famous restaurant, this large open air place has a very popular version of Goi La, literally leaf
+Possibly Kontum's most famous restaurant; massive leaf salad plate with prawns, pork skin and lovely dipping sauce, under 100k for two...
 → [Read the full review](/food/vietnam/kon-tum/kon-tum/restaurants/goi-la-ut-cung/)
 
 ---

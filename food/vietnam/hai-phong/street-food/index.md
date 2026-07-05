@@ -12,7 +12,7 @@ subtitle: Street Food in Hải Phòng
 
 ## Bánh Đa Da Liễu
 *Hải Phòng*
-The bánh đa cua here is good without being particularly memorable, but the very central location makes it a convenient s
+Good but unmemorable bánh đa cua; central, convenient, fair at 30k...
 → [Read the full review](/food/vietnam/hai-phong/street-food/banh-da-da-lieu/)
 
 ---

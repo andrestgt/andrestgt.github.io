@@ -12,7 +12,7 @@ subtitle: Cafés in Cần Thơ
 
 ## Spa Gony
 *Cần Thơ*
-Nice to see a modern comfy lounge cafe in the Delta.
+Modern comfy lounge cafe in the Delta; cappuccino not nice, but good Vietnamese bistro food...
 → [Read the full review](/food/vietnam/can-tho/cafes/spa-gony/)
 
 ---

@@ -12,14 +12,14 @@ subtitle: Cafés in Vinh
 
 ## Coffee Hoàng Mai
 *Vinh*
-Surprisingly fancy café right on Highway 1, though prices are far less expensive than the setting suggests, just 20k for
+Surprisingly fancy café right on Highway 1; just 20k for Vietnamese coffee, fast wifi and clean bathroom...
 → [Read the full review](/food/vietnam/nghe-an/vinh/cafes/coffee-hoang-mai/)
 
 ---
 
 ## Nocenco coffee
 *Vinh*
-Unique café with a stunningly designed interior decoration and views over the city.
+Unique café with stunningly designed interior and views over the city; a definite must do in Vinh...
 → [Read the full review](/food/vietnam/nghe-an/vinh/cafes/nocenco-coffee/)
 
 ---

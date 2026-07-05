@@ -12,7 +12,7 @@ subtitle: Cafés in Đông Giang
 
 ## Cafe Minh Thắng
 *Đông Giang*
-This basic café is worth a stop for its attached bakery where they bake baguettes in an old school wood fired oven.
+Basic café worth a stop for its wood fired bakery; banh mi and coffee just 10k each...
 → [Read the full review](/food/vietnam/quang-nam/dong-giang/cafes/cafe-minh-thang/)
 
 ---

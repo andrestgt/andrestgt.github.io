@@ -12,7 +12,7 @@ subtitle: Cafés in Quản Bạ
 
 ## Quan Ba ​​Heaven Gate
 *Quản Bạ*
-Beautiful views, and you can have a coffee or beer here, too.
+Beautiful views over Quản Bạ; coffee or beer here too, but can get busy...
 → [Read the full review](/food/vietnam/ha-giang/quan-ba/cafes/quan-ba-heaven-gate/)
 
 ---

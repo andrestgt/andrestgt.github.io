@@ -12,7 +12,7 @@ subtitle: Street Food in Cam Ranh
 
 ## Quán Nhậu Thanh Nguyệt
 *Cam Ranh*
-Accidentally finding a place like this is one of the reasons why travelling around Vietnam is still one of a foodie's li
+Doesn't look like a proper eatery from a grim highway stretch; one of the best meals in a long time, sun-dried grilled beef with chili ants...
 → [Read the full review](/food/vietnam/khanh-hoa/cam-ranh/street-food/quan-nhau-thanh-nguyet/)
 
 ---

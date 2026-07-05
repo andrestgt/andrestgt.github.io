@@ -12,7 +12,7 @@ subtitle: Street Food in Pleiku
 
 ## Phở khô Hồng
 *Pleiku*
-The pho here is special because it comes in separate bowls with dry noodles in one bowl and broth in the other.
+Special pho served in separate bowls, dry noodles and broth apart; generous meat, big enough for sharing at 50k...
 → [Read the full review](/food/vietnam/gia-lai/pleiku/street-food/pho-kho-hong/)
 
 ---

@@ -12,7 +12,7 @@ subtitle: Cafés in Vạn Ninh
 
 ## Giọt đắng coffee
 *Vạn Ninh*
-Very pleasant, spacious garden café in an area that's not exactly blessed with them.
+Pleasant, spacious garden café in an area not exactly blessed with them; good rest stop...
 → [Read the full review](/food/vietnam/khanh-hoa/van-ninh/cafes/giot-dang-coffee/)
 
 ---

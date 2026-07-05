@@ -12,7 +12,7 @@ subtitle: Restaurants in Cần Thơ
 
 ## Phuong Nam Restaurant
 *Cần Thơ*
-At first glance it may look like a typical Riverside tourist trap with inflated prices, especially for drinks.
+Looks like a Riverside tourist trap with inflated drink prices; but varied menu, food top notch...
 → [Read the full review](/food/vietnam/can-tho/restaurants/phuong-nam-restaurant/)
 
 ---

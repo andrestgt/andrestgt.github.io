@@ -12,7 +12,7 @@ subtitle: Cafés in Ninh Bình
 
 ## Time Cafe
 *Ninh Bình*
-Fanciest and comfiest café in town, really nice, and surprisingly inexpensive place, but stick to Vietnamese coffees, th
+Fanciest, comfiest café in town, surprisingly inexpensive; but cappuccino uses sweetened milk...
 → [Read the full review](/food/vietnam/ninh-binh/ninh-binh/cafes/time-cafe/)
 
 ---

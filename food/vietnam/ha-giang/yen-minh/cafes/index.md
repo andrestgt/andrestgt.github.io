@@ -12,7 +12,7 @@ subtitle: Cafés in Yên Minh
 
 ## August Coffee & Restaurant
 *Yên Minh*
-More coffee shop than restaurant, this nice little place is a good pitstop on the Ha Giang loop.
+Good pitstop on the Ha Giang loop, more coffee shop than restaurant; sinfully delicious egg coffee, simple egg breakfasts...
 → [Read the full review](/food/vietnam/ha-giang/yen-minh/cafes/august-coffee-restaurant/)
 
 ---

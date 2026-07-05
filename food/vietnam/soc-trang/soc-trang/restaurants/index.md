@@ -12,7 +12,7 @@ subtitle: Restaurants in Sóc Trăng
 
 ## Nhà Hàng Hằng Ký
 *Sóc Trăng*
-If you can look past the atrocious decor, the stale atmosphere and the fact that half the huge menu was unavailable, you
+Look past the atrocious decor and stale atmosphere for excellent food; frog curry is delicious...
 → [Read the full review](/food/vietnam/soc-trang/soc-trang/restaurants/nha-hang-hang-ky/)
 
 ---

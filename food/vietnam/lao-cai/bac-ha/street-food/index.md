@@ -12,14 +12,14 @@ subtitle: Street Food in Bắc Hà
 
 ## Phở Bắc Hà Lý Thi
 *Bắc Hà*
-Eating at this place is quite a special experience.
+Old school local experience with communal wooden tables; try the pho tron dry noodles, 20-30k and good value...
 → [Read the full review](/food/vietnam/lao-cai/bac-ha/street-food/pho-bac-ha-ly-thi/)
 
 ---
 
 ## Quán Bia Quý Diễn
 *Bắc Hà*
-Old school, noisy bia hoi joint near the market.
+Old school noisy bia hoi joint near the market; spicy fried tofu here is the best I've ever had...
 → [Read the full review](/food/vietnam/lao-cai/bac-ha/street-food/quan-bia-quy-dien/)
 
 ---

@@ -12,7 +12,7 @@ subtitle: Street Food in Quản Bạ
 
 ## Tu Trang Bia
 *Quản Bạ*
-This is the only bia hoi joint I saw in the centre of Tam Son.
+Only bia hoi joint in the centre of Tam Son; friendly family place, cheap beer, limited basic grub...
 → [Read the full review](/food/vietnam/ha-giang/quan-ba/street-food/tu-trang-bia/)
 
 ---

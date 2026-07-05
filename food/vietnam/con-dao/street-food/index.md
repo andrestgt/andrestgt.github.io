@@ -12,14 +12,14 @@ subtitle: Street Food in Côn Đảo
 
 ## CocoDeli Kem Dừa Côn Đảo
 *Côn Đảo*
-This is another one dish only ice cream shop, new and less famous than the one up the road where all the tourist cars st
+One-dish ice cream shop in a shady palm grove; delicious coconut ice cream, but no drinks, pricier than up the road...
 → [Read the full review](/food/vietnam/con-dao/street-food/cocodeli-kem-dua-con-dao/)
 
 ---
 
 ## Coconut ice cream stall
 *Côn Đảo*
-Only one dish available here, not even coffee.
+Only one dish here; delicious coconut ice cream in half a coconut, creamy bliss for 40k...
 → [Read the full review](/food/vietnam/con-dao/street-food/coconut-ice-cream-stall/)
 
 ---

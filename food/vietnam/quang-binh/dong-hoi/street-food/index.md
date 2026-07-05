@@ -12,7 +12,7 @@ subtitle: Street Food in Đồng Hới
 
 ## Quan Nuoc Mam Ca Den
 *Đồng Hới*
-We had originally planned to go to the more modern looking and well reviewed B52 next door.
+Turned out to be an absolute winner over the fancier place next door; cheap bia hoi 50k for 2 litres, massive portions...
 → [Read the full review](/food/vietnam/quang-binh/dong-hoi/street-food/quan-nuoc-mam-ca-den/)
 
 ---

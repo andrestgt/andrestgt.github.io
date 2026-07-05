@@ -12,7 +12,7 @@ subtitle: Street Food in Đông Hà
 
 ## Phở Hằng
 *Đông Hà*
-This neat, modern eatery serves very good bowl of Northern style Pho (both beef a n D chicken) at very moderate prices, 
+Neat modern eatery for Northern style Pho at moderate prices; large Dac Biet with soft beef tendons just 35k...
 → [Read the full review](/food/vietnam/quang-tri/dong-ha/street-food/pho-hang/)
 
 ---

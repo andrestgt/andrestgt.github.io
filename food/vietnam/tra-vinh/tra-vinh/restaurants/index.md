@@ -12,7 +12,7 @@ subtitle: Restaurants in Trà Vinh
 
 ## Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)
 *Trà Vinh*
-Looks like the swankiest place in town, huge menu with English Google translation which is good for a laugh.
+Swankiest place in town, huge menu with English Google translation good for a laugh; cheaper than it looks, grilled snakehead fish a good choice...
 → [Read the full review](/food/vietnam/tra-vinh/tra-vinh/restaurants/nha-hang-la-vang-tra-vinh-com-trua-com-tour/)
 
 ---

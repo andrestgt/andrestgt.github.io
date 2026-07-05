@@ -9,4 +9,10 @@ subtitle: Coffee and casual spots
 
 # Cafés
 
-- [Phúc Ban Mẹ](./phuc-ban-me/)
+## Phúc Ban Mẹ
+*Bắc Hà*
+Nicest coffee shop in town by far; Vietnamese coffees only, excellent quality but not cheap from 25k...
+→ [Read the full review](/food/vietnam/lao-cai/bac-ha/cafes/phuc-ban-me/)
+
+---
+

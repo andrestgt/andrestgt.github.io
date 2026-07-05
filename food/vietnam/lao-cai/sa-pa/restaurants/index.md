@@ -12,21 +12,21 @@ subtitle: Restaurants in Sa Pa
 
 ## Little Vietnam Restaurant
 *Sa Pa*
-It's usually a good sign if a restaurant is just as popular with domestic tourists as it is with overseas visitors.
+Busy with locals and tourists alike; black pig meat sizzling platter excellent, but rather pricey...
 → [Read the full review](/food/vietnam/lao-cai/sa-pa/restaurants/little-vietnam-restaurant/)
 
 ---
 
 ## Paradise Restaurant
 *Sa Pa*
-One of the few old traveller cafés still standing after Covid19, Paradise offers spectacular views of Fansipan and the r
+Old traveller café with spectacular views of Fansipan; excellent pork spring rolls just 60k...
 → [Read the full review](/food/vietnam/lao-cai/sa-pa/restaurants/paradise-restaurant/)
 
 ---
 
 ## A Phủ Restaurant
 *Sa Pa*
-Attractive restaurant with a hill tribe theme that caters to both tourists and locals with a menu of all the usual Sapa 
+Hill tribe themed restaurant popular with tourists and locals; grilled horse 180k, one of the better value spots in Sapa...
 → [Read the full review](/food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/)
 
 ---

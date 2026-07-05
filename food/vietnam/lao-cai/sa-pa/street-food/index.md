@@ -12,7 +12,7 @@ subtitle: Street Food in Sa Pa
 
 ## Cốn Sủi Ông Há
 *Sa Pa*
-There's nothing better for breakfast on a cool Sapa morning than a hot bowl of noodle soup.
+Best breakfast spot for noodle soup by the lake; try the pho con sui broad noodles or pork wonton dumpling soup...
 → [Read the full review](/food/vietnam/lao-cai/sa-pa/street-food/con-sui-ong-ha/)
 
 ---

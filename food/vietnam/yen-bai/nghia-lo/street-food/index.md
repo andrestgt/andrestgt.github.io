@@ -13,7 +13,7 @@ subtitle: Street Food in Nghĩa Lộ
 ## Phở Lý Quốc Sư
 *Nghĩa Lộ*
 
-Pretty good Pho Bo for only 25k.
+Pretty good Pho Bo just 25k, only place in town serving it at lunch; good stop on the way into the mountains...
 
 → [Read the full review](/food/vietnam/yen-bai/nghia-lo/street-food/pho-ly-quoc-su/)
 

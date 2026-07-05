@@ -12,7 +12,7 @@ subtitle: Street Food in Đồng Văn
 
 ## Pho Co
 *Đồng Văn*
-There are several sidewalk bbq joints on this street, but Pho Co is by far the most popular.
+By far the most popular sidewalk BBQ joint on the street; buckwheat craft beer, farmer's meat sausages, reasonable for the quality...
 → [Read the full review](/food/vietnam/ha-giang/dong-van/street-food/pho-co/)
 
 ---

@@ -12,7 +12,7 @@ subtitle: Restaurants in Quy Nhơn
 
 ## Quán Năm Thêm
 *Quy Nhơn*
-Large and busy drinking place in the new part of town.
+Large busy drinking place in the new part of town; food very good and reasonable, local beer just 7k...
 → [Read the full review](/food/vietnam/binh-dinh/quy-nhon/restaurants/quan-nam-them/)
 
 ---

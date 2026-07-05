@@ -12,7 +12,7 @@ subtitle: Street Food in Kon Tum
 
 ## Quan Cay Sung
 *Kon Tum*
-Large simple beer garden and eatery with nice river views.
+Large simple beer garden with nice river views; one of the few spots serving fresh beer in an undeveloped region...
 → [Read the full review](/food/vietnam/kon-tum/kon-tum/street-food/quan-cay-sung/)
 
 ---

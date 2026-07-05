@@ -11,5 +11,5 @@ subtitle: Casual eateries
 
 ## Quán A Chín
 *Tuy Hòa*
-Basic, but very popular Bia Hoi place with a surprisingly varied food menu.
+Basic but very popular bia hoi place; cheap beer 20k for two litres, Bo la lot possibly the best I've ever had...
 → [Read the full review](/food/vietnam/phu-yen/tuy-hoa/street-food/quan-a-chin/)

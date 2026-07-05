@@ -12,7 +12,7 @@ subtitle: Street Food in Hà Tĩnh
 
 ## Quán Bia Hơi
 *Hà Tĩnh*
-This is everything a bia hoi joint should be, cheap, cheerful, friendly and delicious.
+Everything a bia hoi joint should be, cheap, cheerful, friendly; beer just 6k, crispy fried pig cheeks porkalicious...
 → [Read the full review](/food/vietnam/ha-tinh/ha-tinh/street-food/quan-bia-hoi/)
 
 ---

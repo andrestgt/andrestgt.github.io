@@ -14,7 +14,7 @@ subtitle: Street Food in Cát Bà
 
 ## Diều Tô Quán
 *Cát Bà*
-One of several basic harbour view sidewalk bia hoi joints in this area.
+Basic harbour view sidewalk bia hoi joint; cheap bia hoi and oysters, slow service...
 → [Read the full review](/food/vietnam/hai-phong/cat-ba/street-food/dieu-to-quan/)
 
 ---

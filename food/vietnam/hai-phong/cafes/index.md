@@ -12,7 +12,7 @@ subtitle: Cafés in Hải Phòng
 
 ## Luka's Café
 *Hải Phòng*
-Very nice little café in the Old Town.
+Nice little café in the Old Town; great espresso at very low prices...
 → [Read the full review](/food/vietnam/hai-phong/cafes/lukas-cafe/)
 
 ---

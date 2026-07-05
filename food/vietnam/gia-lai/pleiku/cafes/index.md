@@ -12,7 +12,7 @@ subtitle: Cafés in Pleiku
 
 ## L’amant Café Gia Lai
 *Pleiku*
-This might be the fanciest café I've ever been to.
+Fanciest café around, decor straight out of a grand colonial hotel; prices barely higher, cappuccino just 40k...
 → [Read the full review](/food/vietnam/gia-lai/pleiku/cafes/lamant-cafe-gia-lai/)
 
 ---

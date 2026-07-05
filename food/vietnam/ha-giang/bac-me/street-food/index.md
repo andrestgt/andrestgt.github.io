@@ -12,7 +12,7 @@ subtitle: Street Food in Bắc Mê
 
 ## Bia Hoi Dang Le
 *Bắc Mê*
-It's the only bia hoi place we found in Bac Me.
+Only bia hoi place found in Bac Me; large fresh jugs, great rau tron mixed veg with rice cake and fries...
 → [Read the full review](/food/vietnam/ha-giang/bac-me/street-food/bia-hoi-dang-le/)
 
 ---

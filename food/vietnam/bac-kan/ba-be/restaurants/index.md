@@ -12,7 +12,7 @@ subtitle: Restaurants in Ba Bể
 
 ## Nhà Hàng Văn Khoa 2
 *Ba Bể*
-We ended up having lunch here simply because is was the only place that was open on a Monday during Covid19.
+Only place open on a Monday during Covid; food alright but pricy, nice views...
 → [Read the full review](/food/vietnam/bac-kan/ba-be/restaurants/nha-hang-van-khoa-2/)
 
 ---

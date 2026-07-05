@@ -12,7 +12,7 @@ subtitle: Street Food in Bảo Thắng
 
 ## Quan Cuong Tich
 *Bảo Thắng*
-Ideal pit stop almost exactly halfway between Sapa and Bac Ha taking the scenic back road.
+Ideal pit stop halfway between Sapa and Bac Ha; huge beef fried rice and three beers just 65k, relief after Sapa prices...
 → [Read the full review](/food/vietnam/lao-cai/bao-thang/street-food/quan-cuong-tich/)
 
 ---

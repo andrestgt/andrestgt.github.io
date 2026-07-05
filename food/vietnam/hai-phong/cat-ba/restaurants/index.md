@@ -12,7 +12,7 @@ subtitle: Restaurants in Cát Bà
 
 ## Yummy 2 Restaurant
 *Cát Bà*
-There's a good reason why Yummy is the most popular traveller café in Cat Ba.
+Most popular traveller café in Cat Ba; friendly, inexpensive, good food...
 → [Read the full review](/food/vietnam/hai-phong/cat-ba/restaurants/yummy-2-restaurant/)
 
 ---

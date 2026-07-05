@@ -12,7 +12,7 @@ subtitle: Street Food in Hà Giang
 
 ## Quan Ngoc Anh
 *Hà Giang*
-Come to this friendly noodle joint for a large bowl of tasty Sot Vang (beef noodle stew) for 35k with tender beef and a 
+Friendly noodle joint for a large bowl of Sot Vang beef stew; tender beef, mountain of noodles, good value at 35k...
 → [Read the full review](/food/vietnam/ha-giang/ha-giang/street-food/quan-ngoc-anh/)
 
 ---

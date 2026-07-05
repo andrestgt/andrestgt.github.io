@@ -12,14 +12,14 @@ subtitle: Street Food in Châu Đốc
 
 ## Quán Mekong
 *Châu Đốc*
-I visit this place every time I'm in Chau Doc for almost fifteen years now.
+Brilliant courtyard spot by an old colonial villa; basic but never a bad meal in fifteen years...
 → [Read the full review](/food/vietnam/an-giang/chau-doc/street-food/quan-mekong/)
 
 ---
 
 ## Quán Phở Dũng
 *Châu Đốc*
-This is the place to come when a proper bowl of phở is what you are after in Châu Đốc.
+Simple eatery for a proper bowl of phở; large bowl just 30k, deeply satisfying...
 → [Read the full review](/food/vietnam/an-giang/chau-doc/street-food/quan-pho-dung/)
 
 ---

@@ -12,7 +12,7 @@ subtitle: Street Food in Ninh Bình
 
 ## Phở bò 24
 *Ninh Bình*
-Deservedly popular local pho place that serves not only very good bowls of the eponymous beef noodle soup, but unusual f
+Deservedly popular pho place; also good fried rice with chicken or beef...
 → [Read the full review](/food/vietnam/ninh-binh/ninh-binh/street-food/pho-bo-24/)
 
 ---
