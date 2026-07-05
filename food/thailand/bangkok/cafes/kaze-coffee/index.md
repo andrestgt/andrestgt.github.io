@@ -7,6 +7,11 @@ subtitle: Bang Rak · Café
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/kaze-coffee-1.png" alt="Kaze Coffee">
+  <figcaption>Kaze Coffee</figcaption>
+</figure>
+
 One of the hundreds or thousands of tiny little cafés that have sprung up in Bangkok's coffee craze over the past 15 years. Any good cup for less than 100 Bt is very much appreciated, so have a recommendation. A well prepared latte goes for 85 Bt here.
 
 ## Ratings
