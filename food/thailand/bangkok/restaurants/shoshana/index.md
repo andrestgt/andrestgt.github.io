@@ -7,6 +7,11 @@ subtitle: Phra Nakhon · Middle Eastern
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/shoshana-1.png" alt="Shoshana">
+  <figcaption>Shoshana</figcaption>
+</figure>
+
 Shoshana has been serving large portions of reliable Middle Eastern comfort food around Khao San for many years and remains one of the better places nearby for falafel and similar dishes. Just make sure you arrive hungry.
 
 ## Ratings
