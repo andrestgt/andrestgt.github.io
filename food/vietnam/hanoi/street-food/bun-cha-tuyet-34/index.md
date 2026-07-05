@@ -41,7 +41,6 @@ My personal favourite place for bún chả in Hanoi since long before they got M
 </figure>
 </div>
 
-My personal favourite place for bún chả in Hanoi since long before they got Michelin recognition. The dipping sauce is perfectly balanced, the grilled meat carries a wonderful smoky barbecue flavour, and the portion is remarkably generous for just 35k. Nem on the side is, naturally, non-negotiable. Very popular, so visiting outside peak meal times is advisable.
 
 ## Ratings
 
