@@ -234,7 +234,7 @@ Your quintessential Vietnamese seafood restaurant, a massive place packed every 
 
 ---
 
-## Quán Hải Sản Thanh Sương
+## Quán Hải Sản Thanh Sương 2
 *Nha Trang*
 Started as a small hole in the wall seafood eatery visited mostly by locals, now one of the best remaining places for good, fresh seafood at decent prices...
 → [Read the full review](/food/vietnam/nha-trang/street-food/quan-hai-san-thanh-suong-2/)
