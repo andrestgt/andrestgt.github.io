@@ -138,6 +138,13 @@ Famous for its rotisserie-style grilled chicken...
 A casual spot offering a mix of Thai-Chinese favourites with friendly service and good value...  
 → [Read the full review](/food/thailand/chiang-mai/street-food/yuis-eatery/)
 
+## Coconut Shell Thai Food
+*Phra Sing, Old Town · Thai*
+Recommended Old Town tourist spot serving Thai classics at fair prices, most mains around 60 Bt.
+→ [Read the full review](/food/thailand/chiang-mai/street-food/coconut-shell-thai-food/)
+
+---
+
 ---
 
 **Price level note:**

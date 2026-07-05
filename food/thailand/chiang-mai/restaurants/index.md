@@ -50,13 +50,6 @@ Small portions for the price, but very juicy and well-seasoned chicken...
 
 ---
 
-## Coconut Shell Thai Food
-*Phra Sing, Old Town · Thai*
-Recommended Old Town tourist restaurant serving Thai classics at fair prices...
-→ [Read the full review](/food/thailand/chiang-mai/restaurants/coconut-shell-thai-food/)
-
----
-
 ## Dao Chinese Restaurant
 *Chang Phueak · Sichuan*
 Don't be put off by the sterile condo lobby setting; this is one of the most recommendable Chinese restaurants in Chiang Mai..

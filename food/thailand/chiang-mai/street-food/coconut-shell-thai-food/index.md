@@ -41,5 +41,5 @@ Quality-wise, it's right up there with your typical local Thai spot, and the pri
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa4dd96fe0626afac)
-🍽️ **Type:** Thai
+🥢 **Type:** Thai
 💰 **Price level:** ฿120-180
