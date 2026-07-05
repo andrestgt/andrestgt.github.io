@@ -8,7 +8,7 @@ photos_locked: true
 ---
 
 <figure>
-  <img src="/photos/thailand/chiang-mai/Screenshot%202026-05-31%20231425.png" alt="Bake n Wake">
+  <img src="/photos/thailand/chiang-mai/bake-n-wake-1.png" alt="Bake n Wake">
   <figcaption>Bake n Wake</figcaption>
 </figure>
 
