@@ -12,47 +12,42 @@ subtitle: Restaurants in Đà Lạt
 
 ## Barn House BBQ And Beer
 *Đà Lạt*
-Best place for beers in Dalat.
+Best place for beers in Dalat; Hoegaarden on tap for a mere 40k, cheaper beer cocktails than the bars around the market; Western food is alright but not a reason to come...
 → [Read the full review](/food/vietnam/da-lat/restaurants/barn-house-bbq-and-beer/)
 
 ---
 
 ## Cut Kit
 *Đà Lạt*
-This is an odd place.
+Odd but well-designed and attractive place; large selection of Vietnamese craft beers, tasty sausage sampler platter, but the beef salad is a complete scam...
 → [Read the full review](/food/vietnam/da-lat/restaurants/cut-kit/)
 
 ---
 
 ## German Beer House Dalat
 *Đà Lạt*
-They do a good job of creating a proper German Gasthof vibe with the wooden interior and cozy layout.
+Proper German Gasthof vibe with wooden interior and cozy layout; pricey but really delicious beers, food doesn't quite hit the mark for authenticity...
 → [Read the full review](/food/vietnam/da-lat/restaurants/german-beer-house-dalat/)
 
 ---
 
 ## Primavera Italian Restaurant
 *Đà Lạt*
-I loved everything about Primavera, from the well-stocked deli and wood-fired oven downstairs to the cozy trattoria vib
+Proper Italian food going far beyond pizza and pasta, from the well-stocked deli and wood-fired oven downstairs to the cozy trattoria vibes upstairs; not budget but excellent value...
 → [Read the full review](/food/vietnam/da-lat/restaurants/primavera-italian-restaurant/)
 
 ---
 
 ## Quán Gió
 *Đà Lạt*
-Climbing up the narrow stairs to Quan Gio, this place certainly feels like a bit of a hidden gem, away from the tourist 
+Hidden gem up narrow stairs, away from the tourist restaurants of Dalat; flavourful dried buffalo meat and delicious craft rice wine, but the barbecue beef was fat and chewy...
 → [Read the full review](/food/vietnam/da-lat/restaurants/quan-gio/)
 
 ---
 
 ## Vcafe Restaurant Dalat
 *Đà Lạt*
-Cosy bar/bistro hybrid that's been around for a long time.
+Cosy bar/bistro hybrid for comfy quiet afternoon drinks; happy hour cocktails are a steal, frozen strawberry margaritas especially tasty, lasagne decent...
 → [Read the full review](/food/vietnam/da-lat/restaurants/vcafe-restaurant-dalat/)
 
 ---
-
-
-
-**Price level note:**  
-Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  
