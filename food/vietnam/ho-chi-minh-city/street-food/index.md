@@ -12,138 +12,136 @@ subtitle: Street Food in Ho Chi Minh City
 
 ## Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)
 *Ho Chi Minh City*
-Small, upmarket food court in a prime location, perfect for sampling a wide variety of Vietnamese dishes.
+Upmarket, prime-location food court for sampling Vietnamese dishes at reasonable prices...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/)
 
 ---
 
 ## Bo Tung Xeo
 *Ho Chi Minh City*
-I have been coming to this restaurant for almost two decades.
+A two-decade favourite; now expensive, but the grilled marinated beef is still great...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/bo-tung-xeo/)
 
 ---
 
 ## Bún bò Ô Sỹ
 *Ho Chi Minh City*
-My go to place for Bun Bo Hue in the tourist area.
+Go-to Bun Bo Hue in the tourist area; local, authentic and well-priced at 50k...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/bun-bo-o-sy/)
 
 ---
 
 ## Chilli Bbq Hotpot Restaurant
 *Ho Chi Minh City*
-One of many BBQ places on this street, Chilli stands out for its passion fruit beer mix which is quite tasty.
+Cheap, good grill-your-own BBQ with a tasty passion-fruit beer mix, but terrible service...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/chilli-bbq-hotpot-restaurant/)
 
 ---
 
 ## Cơm Tấm Ngon Sài Gòn
 *Ho Chi Minh City*
-Great cơm tấm spot in a lively, very local neighborhood in District 3.
+Great cơm tấm in a local District 3 neighbourhood; good value at 57k...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/com-tam-ngon-sai-gon/)
 
 ---
 
 ## Học Lạc Dimsum
 *Ho Chi Minh City*
-This hole-in-the-wall dim sum spot in Cho Lon is a hidden gem.
+A Cho Lon hole-in-the-wall gem with tasty homemade dim sum at very affordable prices...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/hoc-lac-dimsum/)
 
 ---
 
 ## Nam Giao
 *Ho Chi Minh City*
-Very good bowls of soup, bun bo and my quang.
+Very good bún bò and mì quảng; pricey for the location, but locals still come...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/nam-giao/)
 
 ---
 
 ## Phở Hòa Pasteur
 *Ho Chi Minh City*
-This famous pho restaurant has been my go-to for the last 20 years, and in all that time, I’ve never had a bad bowl.
+A 20-year favourite that never disappoints; rich broth, tender meat, consistently excellent...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/pho-hoa-pasteur/)
 
 ---
 
 ## Pho Hung
 *Ho Chi Minh City*
-Pho Hung has several outlets in town, they're all super popular and crowded most of the time.
+Several always-crowded outlets; some of the best pho in town. Very recommended...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/pho-hung/)
 
 ---
 
 ## Phở Ông Cát Gia Truyền Since 1988
 *Ho Chi Minh City*
-Not impressed by the pho served here.
+Not impressed; very salty broth and chewy beef, better options around...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/pho-ong-cat-gia-truyen-since-1988/)
 
 ---
 
 ## Phở Phú Vương
 *Ho Chi Minh City*
-The phở here is very good, with a rich and flavorful broth, and the location is convenient.
+Very good phở with a rich broth, clean and friendly, at typical D1 prices...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/pho-phu-vuong/)
 
 ---
 
 ## Pho Phuong
 *Ho Chi Minh City*
-One of the more famous Pho joints in town and always busy with locals and visitors.
+Famous and always busy; darker Southern-style broth, not cheap but feeds two...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/pho-phuong/)
 
 ---
 
 ## Pho Quynh
 *Ho Chi Minh City*
-This is not the best Pho in Saigon, but it's the most conveniently located for travellers right in the middle of backpac
+Not the best pho, but the most convenient for travellers in backpacker central...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/pho-quynh/)
 
 ---
 
 ## Quán 37th Street
 *Ho Chi Minh City*
-Excellent place to sample a broad range of Vietnamese street food in cleaner, quieter, air-conditioned surroundings.
+A broad range of street food in clean, air-conditioned surroundings at reasonable prices...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/quan-37th-street/)
 
 ---
 
 ## Quán Bà Dạng - Bánh Canh Cua Bột Lọc
 *Ho Chi Minh City*
-Simple local eatery specialising in Huế cuisine at very fair prices.
+Simple local Huế eatery; good dumplings and tasty bún bò at just 42k...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/quan-ba-dang-banh-canh-cua-bot-loc/)
 
 ---
 
 ## Sài Gòn Xưa và Nay
 *Ho Chi Minh City*
-Authentic drinking place with a large food menu.
+Authentic drinking spot with good food, especially hotpot, but downtown prices...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/sai-gon-xua-va-nay/)
 
 ---
 
 ## Thóc Grill & Craft Beer
 *Ho Chi Minh City*
-This place is a relatively recent opening, and it's a gem.
+A gem: proper Vietnamese drinking food and nice local craft beers...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/thoc-grill-craft-beer/)
 
 ---
 
 ## Út Huệ
 *Ho Chi Minh City*
-For such a short road, little Đỗ Quang Đẩu in the heart of Saigon's backpacker area, has a good deal of authentic Vietna
+Basic hole-in-the-wall for excellent Bún Bò Huế at a reasonable 50k...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/ut-hue/)
 
 ---
 
 ## Xúc Xích Đức Anh Ba Tây
 *Ho Chi Minh City*
-Small sausage eatery with rather mediocre homemade sausages, mostly German style.
+Small sausage eatery with rather mediocre, mostly German-style homemade sausages...
 → [Read the full review](/food/vietnam/ho-chi-minh-city/street-food/xuc-xich-duc-anh-ba-tay/)
 
 ---
-
-
 
 **Price level note:**  
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  
