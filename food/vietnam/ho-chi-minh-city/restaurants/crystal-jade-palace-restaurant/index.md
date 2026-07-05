@@ -17,7 +17,7 @@ It's a particularly upmarket affair located on the premises of a 5 star hotel, b
 
 The selection is not as extensive as in some other CJ outlets but the usual supects, such as Hakao, Siomai, Xiao Long Bao are all there and all excellent.
 
-The big drawback is that they only serve Dim Sum between 11am and 2.30pm and the service is too obtrusive for my taste.
+The big drawback is that they only serve Dim Sum between 11am and 2.30pm and the service is too obstrusive for my taste.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">
