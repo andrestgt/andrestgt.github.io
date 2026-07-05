@@ -121,7 +121,7 @@ Very good coffee and a welcome specialist option at Terminal 21, though 120 Bt f
 
 ## D'ARK
 *Watthana · Specialty Coffee*
-The 115+ Bt cappuccino is genuinely the best in the city, smooth yet strong, in one of Bangkok's nicest café spaces, which is about as close to value for money as expensive gets.
+The 115+ Bt cappuccino is one of the best in the city, smooth yet strong, in one of Bangkok's nicest café spaces, which is about as close to value for money as expensive gets.
 → [Read the full review](/food/thailand/bangkok/cafes/dark/)
 
 ---
