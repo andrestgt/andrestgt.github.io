@@ -21,9 +21,7 @@ Service was good, with friendly English speaking staff.
   <figcaption>Somtam Rong Pla Daek Santitham</figcaption>
 </figure>
 
-The duck larb came without even a hint of spiciness, with barely any fresh herbs and without roasted rice powder. The minced duck was nice, but it wasn't what I expected.
 
-Service was good, with friendly English speaking staff.
 
 ## Ratings
 
