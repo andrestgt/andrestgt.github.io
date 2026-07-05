@@ -7,6 +7,11 @@ subtitle: Khlong Toei · Specialty Coffee
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/artis-coffee-1.png" alt="Artis Coffee Bangkok">
+  <figcaption>Artis Coffee Bangkok</figcaption>
+</figure>
+
 Artis serves very good espresso drinks, although 110 Bt for a flat white is definitely on the expensive side, even if expected in this area. Seating inside is limited, but there’s a pleasant veranda outside if you can tolerate the heat and traffic noise on Sukhumvit.
 ## Ratings
 
