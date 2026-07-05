@@ -11,11 +11,11 @@ subtitle: Patong · Café & Bakery
 </figure>
 
 
-COFFEEMANIA is a welcoming neighbourhood café in Patong that offers genuine quality at fair prices.
-        The coffee is properly made with good beans.
-        Food focuses on fresh, in-house sandwiches, wraps, and baked goods, all generously portioned.
+COFFEEMANIA is a welcoming neighbourhood café in Patong that offers quality at fair prices.
+        The coffee is properly prepared with good beans.
+        Food focuses on fresh sandwiches, wraps, and baked goods, all generously portioned.
         The atmosphere is relaxed, with friendly and efficient service.
-        A nice stop for good coffee and light meals in Patong.
+        A nice stop for good coffee and light meals in Patong away from the crowds.
 
 ## Ratings
 
