@@ -12,16 +12,15 @@ subtitle: Bars & Pubs in Hội An
 
 ## Bungalow Beach Bar
 *Hội An*
-Not strictly a beach bar, as it's not right on the beach, but it does have the vibes of a beach bar and there's a nice p
+Not strictly a beach bar, but it has the vibes of one, with a nice pool free for guests and a good variety of craft beers on tap...
 → [Read the full review](/food/vietnam/hoi-an/bars-pubs/bungalow-beach-bar/)
 
 ---
 
 ## Hoi An Brewing Company
 *Hội An*
-Now, this is my kind of place.
+Now, this is my kind of place; a microbrewery brewing some seriously good craft beers, plus very tasty Thai food...
 → [Read the full review](/food/vietnam/hoi-an/bars-pubs/hoi-an-brewing-company/)
 
 ---
-
 
