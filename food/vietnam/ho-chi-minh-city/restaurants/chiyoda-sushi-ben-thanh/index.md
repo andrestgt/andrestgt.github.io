@@ -11,7 +11,7 @@ subtitle: Bến Thành · Japanese
   <figcaption>Chiyoda Sushi Bến Thành</figcaption>
 </figure>
 
-This Japanese restaurant serves very solid sushi, sashimi, okonomiyaki, and other standard dishes. It's located in the heart of District 1, but the prices are surprisingly moderate for such a central spot. They also offer ice-cold draft Sapporo, which is always a nice touch. If you're in the area, it's definitely worth a visit.
+This Japanese restaurant serves good sushi, sashimi, okonomiyaki, and other standard dishes. It's located in the heart of District 1, but the prices are surprisingly moderate for such a central spot. They also offer ice-cold draft Sapporo, which is always a nice touch. If you're in the area, it's definitely worth a visit.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
