@@ -7,6 +7,11 @@ subtitle: Pom Prap · Noodles
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/yok-saeng-beef-noodle-1.png" alt="Yok Saeng Beef Noodle">
+  <figcaption>Yok Saeng Beef Noodle</figcaption>
+</figure>
+
 Old-school beef noodle shop serving tender marinated meat in a clear broth. A bowl costs around 70 Bt. Little English is spoken, although there is an English menu available.
 
 ## Ratings
