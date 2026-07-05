@@ -6,6 +6,11 @@ title: Bánh Khọt cây Sung
 subtitle: Vũng Tàu · Bánh Khọt
 ---
 
+<figure>
+  <img src="/photos/vietnam/vung-tau/banh-khot-cay-sung-1.jpg" alt="Bánh Khọt cây Sung">
+  <figcaption>Bánh Khọt cây Sung</figcaption>
+</figure>
+
 A basic local eatery that specialises in one dish, the regional specialty called bánh khọt—small deep-fried rice flour cakes, served with seafood or meat toppings of your choice.
 
 This is not health food, but it’s cheap and very tasty, and it comes with plenty of fresh leaves and pickles, which makes it feel slightly lighter than it is.

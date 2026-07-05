@@ -6,11 +6,27 @@ title: Restaurant Altes Jagdhaus
 subtitle: Neustadt · Excursion Restaurant, Beer Garden
 ---
 
+<figure>
+  <img src="/photos/germany/rheinland-pfalz/weinstrasse/restaurant-altes-jagdhaus-1.jpg" alt="Restaurant Altes Jagdhaus">
+  <figcaption>Restaurant Altes Jagdhaus</figcaption>
+</figure>
+
 This is a particularly lovely half-timbered hut in the middle of the Palatinate Forest, with an adjoining beer garden. That said, it's just as worth stopping in during autumn or on cold days, as the cosy interior makes it a very pleasant place to linger.
 
 Everything here is agreeably old-fashioned, as is the traditional, simple Palatinate cooking with Leberknödel and Saumagen. But that's exactly why you come here in the first place.
 
 And you can walk off the calories afterwards with a stroll through the woods; dogs welcome.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/rheinland-pfalz/weinstrasse/restaurant-altes-jagdhaus-2.jpg" alt="Restaurant Altes Jagdhaus">
+  <figcaption>Restaurant Altes Jagdhaus</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/rheinland-pfalz/weinstrasse/restaurant-altes-jagdhaus-3.jpg" alt="Restaurant Altes Jagdhaus">
+  <figcaption>Restaurant Altes Jagdhaus</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

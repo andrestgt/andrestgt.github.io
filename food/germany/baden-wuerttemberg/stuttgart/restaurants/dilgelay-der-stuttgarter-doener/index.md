@@ -18,6 +18,13 @@ A bit pricier (a yufka costs just under €10), but in return you get one of the
   <figcaption>Dilgelay - Der Stuttgarter Döner</figcaption>
 </figure>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/stuttgart/dilgelay-der-stuttgarter-doener-3.jpg" alt="Dilgelay - Der Stuttgarter Döner">
+  <figcaption>Dilgelay - Der Stuttgarter Döner</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

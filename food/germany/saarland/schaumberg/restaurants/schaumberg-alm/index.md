@@ -18,6 +18,17 @@ High up on a hill in the lovely Sankt Wendel countryside stands this place, buil
   <figcaption>Schaumberg Alm</figcaption>
 </figure>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/tholey/schaumberg-alm-3.jpg" alt="Schaumberg Alm">
+  <figcaption>Schaumberg Alm</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/tholey/schaumberg-alm-4.jpg" alt="Schaumberg Alm">
+  <figcaption>Schaumberg Alm</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

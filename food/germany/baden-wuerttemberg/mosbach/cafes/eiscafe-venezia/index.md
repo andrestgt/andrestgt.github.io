@@ -6,11 +6,23 @@ title: Eiscafé Venezia
 subtitle: Mosbach · Ice-Cream Parlour, Café
 ---
 
+<figure>
+  <img src="/photos/germany/baden-wuerttemberg/mosbach/eiscafe-venezia-1.jpg" alt="Eiscafé Venezia">
+  <figcaption>Eiscafé Venezia</figcaption>
+</figure>
+
 With its lovely large outdoor seating in the old town, you can usually still find a spot here even on busy days for a relaxed coffee break.
 
 As befits a proper Italian ice-cream parlour, they serve a decent cappuccino; well prepared, made from good-quality beans and, at 3.60 euros, fairly priced too.
 
 Another plus: as one of the few places in Mosbach's old town, they also accept card payment, which I definitely count in their favour.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/baden-wuerttemberg/mosbach/eiscafe-venezia-2.jpg" alt="Eiscafé Venezia">
+  <figcaption>Eiscafé Venezia</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

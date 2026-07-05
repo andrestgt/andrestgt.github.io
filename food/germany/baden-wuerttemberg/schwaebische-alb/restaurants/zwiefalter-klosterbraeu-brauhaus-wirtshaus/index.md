@@ -18,6 +18,13 @@ The smart, spacious dining hall of the brewery offers a fine selection of freshl
   <figcaption>Zwiefalter Klosterbräu Brauhaus Wirtshaus</figcaption>
 </figure>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/schwaebische-alb/zwiefalter-klosterbraeu-brauhaus-wirtshaus-3.jpg" alt="Zwiefalter Klosterbräu Brauhaus Wirtshaus">
+  <figcaption>Zwiefalter Klosterbräu Brauhaus Wirtshaus</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

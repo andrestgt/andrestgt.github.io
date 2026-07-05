@@ -92,7 +92,6 @@ food/france/paris/cafes/le-moliere/index.md
 food/france/paris/index.md
 food/france/paris/restaurants/index.md
 food/germany/baden-wuerttemberg/aulendorf/index.md
-food/germany/baden-wuerttemberg/aulendorf/restaurants/esv-sportgaststaette-aulendorf/index.md
 food/germany/baden-wuerttemberg/aulendorf/restaurants/index.md
 food/germany/baden-wuerttemberg/backnang/cafes/index.md
 food/germany/baden-wuerttemberg/backnang/index.md
@@ -106,7 +105,6 @@ food/germany/baden-wuerttemberg/lauffen-am-neckar/index.md
 food/germany/baden-wuerttemberg/lauffen-am-neckar/restaurants/index.md
 food/germany/baden-wuerttemberg/leutkirch/index.md
 food/germany/baden-wuerttemberg/leutkirch/restaurants/index.md
-food/germany/baden-wuerttemberg/mosbach/cafes/eiscafe-venezia/index.md
 food/germany/baden-wuerttemberg/mosbach/cafes/index.md
 food/germany/baden-wuerttemberg/mosbach/index.md
 food/germany/baden-wuerttemberg/schwaebische-alb/index.md
@@ -121,7 +119,6 @@ food/germany/baden-wuerttemberg/stuttgart/cafes/index.md
 food/germany/baden-wuerttemberg/stuttgart/index.md
 food/germany/baden-wuerttemberg/stuttgart/restaurants/four-brothers-burger/index.md
 food/germany/baden-wuerttemberg/stuttgart/restaurants/index.md
-food/germany/baden-wuerttemberg/stuttgart/restaurants/l-ulivo/index.md
 food/germany/baden-wuerttemberg/tuebingen/index.md
 food/germany/baden-wuerttemberg/tuebingen/restaurants/index.md
 food/germany/bayern/bamberg/index.md
@@ -174,7 +171,6 @@ food/germany/rheinland-pfalz/moseltal/index.md
 food/germany/rheinland-pfalz/moseltal/restaurants/index.md
 food/germany/rheinland-pfalz/weinstrasse/index.md
 food/germany/rheinland-pfalz/weinstrasse/restaurants/index.md
-food/germany/rheinland-pfalz/weinstrasse/restaurants/restaurant-altes-jagdhaus/index.md
 food/germany/rheinland-pfalz/zweibruecken/index.md
 food/germany/rheinland-pfalz/zweibruecken/restaurants/index.md
 food/germany/saarland/illingen/index.md
@@ -444,12 +440,9 @@ food/philippines/dumaguete/restaurants/index.md
 food/philippines/dumaguete/restaurants/senoritas-mexican-grill/index.md
 food/philippines/dumaguete/restaurants/sta-teresa-resto/index.md
 food/philippines/el-nido/bars-pubs/index.md
-food/philippines/el-nido/cafes/hama-coffee-el-nido/index.md
 food/philippines/el-nido/cafes/index.md
 food/philippines/el-nido/index.md
 food/philippines/el-nido/restaurants/index.md
-food/philippines/el-nido/restaurants/nacpan-grill/index.md
-food/philippines/el-nido/street-food/caliente-el-nido/index.md
 food/philippines/el-nido/street-food/index.md
 food/philippines/index.md
 food/philippines/manila/bars-pubs/index.md
@@ -865,15 +858,10 @@ food/vietnam/thanh-hoa/thanh-hoa/restaurants/index.md
 food/vietnam/tra-vinh/index.md
 food/vietnam/tra-vinh/tra-vinh/index.md
 food/vietnam/tra-vinh/tra-vinh/restaurants/index.md
-food/vietnam/vung-tau/bars-pubs/cask-bar/index.md
 food/vietnam/vung-tau/bars-pubs/index.md
-food/vietnam/vung-tau/cafes/cariban-coffee/index.md
 food/vietnam/vung-tau/cafes/index.md
 food/vietnam/vung-tau/index.md
-food/vietnam/vung-tau/restaurants/co-ba-restaurant/index.md
-food/vietnam/vung-tau/restaurants/ganh-hao-2-seafood-restaurant/index.md
 food/vietnam/vung-tau/restaurants/index.md
-food/vietnam/vung-tau/street-food/banh-khot-cay-sung/index.md
 food/vietnam/vung-tau/street-food/index.md
 food/vietnam/yen-bai/index.md
 food/vietnam/yen-bai/mu-cang-chai/index.md

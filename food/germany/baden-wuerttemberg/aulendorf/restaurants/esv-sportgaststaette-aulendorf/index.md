@@ -6,6 +6,11 @@ title: ESV Sportgaststätte Aulendorf
 subtitle: Aulendorf · Gaststätte, Sports Pub
 ---
 
+<figure>
+  <img src="/photos/germany/baden-wuerttemberg/aulendorf/esv-sportgaststaette-aulendorf-1.jpg" alt="ESV Sportgaststätte Aulendorf">
+  <figcaption>ESV Sportgaststätte Aulendorf</figcaption>
+</figure>
+
 As an out-of-towner, you probably only end up in this sports pub with its bowling alley if, thanks to Deutsche Bahn, you get stranded in Aulendorf and have to wait several hours for the next train. Its ideal location right opposite the station makes it a remarkably good place to bridge the wait, though. The place seems to have been frozen in time somewhere in the 1980s, something you rarely come across anymore. The people, however, are extremely friendly, and there's excellent Kristallweizen along with huge portions of Swabian Wurstsalat for very little money.
 
 ## Ratings

@@ -6,9 +6,21 @@ title: Gành Hào 2 Seafood Restaurant
 subtitle: Vũng Tàu · Seafood
 ---
 
+<figure>
+  <img src="/photos/vietnam/vung-tau/ganh-hao-2-seafood-restaurant-1.jpg" alt="Gành Hào 2 Seafood Restaurant">
+  <figcaption>Gành Hào 2 Seafood Restaurant</figcaption>
+</figure>
+
 This is a massive seafood restaurant right by the sea, next to the jetty where the fast boats leave for Con Dao. And where else would you want to be while waiting for the ferry, enjoying sea views and good food?
 
 It’s not a budget place, obviously, but prices are reasonable, as you would expect in a spot mainly frequented by domestic tourists and locals.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/vung-tau/ganh-hao-2-seafood-restaurant-2.jpg" alt="Gành Hào 2 Seafood Restaurant">
+  <figcaption>Gành Hào 2 Seafood Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

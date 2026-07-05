@@ -6,6 +6,11 @@ title: Cask Bar
 subtitle: Vũng Tàu · Craft Beer Bar
 ---
 
+<figure>
+  <img src="/photos/vietnam/vung-tau/cask-bar-1.jpg" alt="Cask Bar">
+  <figcaption>Cask Bar</figcaption>
+</figure>
+
 Cask Bar has a large selection of Vietnamese craft beers in bottles, and even the best of them, Pasteur Street, on tap. Their happy hour coincides with sunset, so sitting on the west-facing balcony with sea views and enjoying a sundowner beer is highly recommended, and should definitely be on your bucket list of things to do in Vung Tau.
 
 ## Ratings

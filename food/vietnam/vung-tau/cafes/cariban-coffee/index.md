@@ -6,9 +6,21 @@ title: CARIBAN COFFEE
 subtitle: Vũng Tàu · Coffee Shop
 ---
 
+<figure>
+  <img src="/photos/vietnam/vung-tau/cariban-coffee-1.jpg" alt="CARIBAN COFFEE">
+  <figcaption>CARIBAN COFFEE</figcaption>
+</figure>
+
 If you're looking for a perfectly prepared flat white made with quality beans, served in a beautifully decorated coffee shop with cool air conditioning, look no further than Cariban. It's the only place you'll need in Vung Tau to satisfy those cravings.
 
 A welcome refuge from the heat, and at 60k, very reasonably priced.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/vung-tau/cariban-coffee-2.jpg" alt="CARIBAN COFFEE">
+  <figcaption>CARIBAN COFFEE</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

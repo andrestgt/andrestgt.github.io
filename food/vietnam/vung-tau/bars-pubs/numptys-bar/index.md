@@ -13,6 +13,17 @@ subtitle: Vũng Tàu · Bar & Pub
 
 Friendly pub with a pool table, cold San Miguel on tap and good prices.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/ba-ria-vung-tau/numptys-bar-2.jpg" alt="Numpty's bar">
+  <figcaption>Numpty's bar</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/ba-ria-vung-tau/numptys-bar-3.jpg" alt="Numpty's bar">
+  <figcaption>Numpty's bar</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

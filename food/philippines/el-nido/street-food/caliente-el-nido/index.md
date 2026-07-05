@@ -6,6 +6,11 @@ title: Caliente El Nido
 subtitle: El Nido · Filipino-Mexican, Snack Bar
 ---
 
+<figure>
+  <img src="/photos/philippines/el-nido/caliente-el-nido-1.jpg" alt="Caliente El Nido">
+  <figcaption>Caliente El Nido</figcaption>
+</figure>
+
 More snack bar than restaurant, with just a few uncomfortable stools and tables, Caliente serves perfect pre-drinking snacks in Filipino-Mexican style. Their tacos are very tasty, but if you eat a lot of them, and you could, since they are just two bites each, they might blow your budget. It may look like a cheap place, but it is not.
 
 ## Ratings

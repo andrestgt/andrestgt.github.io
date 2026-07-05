@@ -6,9 +6,25 @@ title: Cô Ba Restaurant
 subtitle: Vũng Tàu · Bánh Khọt, Vietnamese
 ---
 
+<figure>
+  <img src="/photos/vietnam/vung-tau/co-ba-restaurant-1.jpg" alt="Cô Ba Restaurant">
+  <figcaption>Cô Ba Restaurant</figcaption>
+</figure>
+
 This is probably Vũng Tàu’s most popular eatery, a large, busy place specialising in the regional specialty bánh khọt, the number one local dish, but also offering other options such as bánh xèo and com tam.
 
 It’s better than some of the reviews suggest. As a matter of fact, I really enjoyed the food here a lot. Prices are good, too.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/vietnam/vung-tau/co-ba-restaurant-2.jpg" alt="Cô Ba Restaurant">
+  <figcaption>Cô Ba Restaurant</figcaption>
+</figure>
+<figure>
+  <img src="/photos/vietnam/vung-tau/co-ba-restaurant-3.jpg" alt="Cô Ba Restaurant">
+  <figcaption>Cô Ba Restaurant</figcaption>
+</figure>
+</div>
 
 ## Ratings
 
