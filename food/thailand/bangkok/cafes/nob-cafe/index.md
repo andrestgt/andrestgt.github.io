@@ -7,6 +7,11 @@ subtitle: Bang Rak · Specialty Coffee
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/nob-cafe-1.png" alt="NOB café">
+  <figcaption>NOB café</figcaption>
+</figure>
+
 Friendly café with fair prices and a choice of different coffee roasts. The medium roast cappuccino I tried tasted slightly bitter and unsubtle, though perhaps the lighter roast works better.
 
 
