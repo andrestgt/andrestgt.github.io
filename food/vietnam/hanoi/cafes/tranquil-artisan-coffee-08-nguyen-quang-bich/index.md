@@ -7,14 +7,14 @@ subtitle: Hoàn Kiếm · Coffee
 ---
 
 <figure>
-  <img src="/photos/vietnam/hanoi/Viet22-0626.jpg" alt="Tranquil Artisan Coffee">
+  <img src="/photos/vietnam/hanoi/tranquil-artisan-coffee-08-nguyen-quang-bich-1.jpg" alt="Tranquil Artisan Coffee">
   <figcaption>Tranquil Artisan Coffee</figcaption>
 </figure>
 
 In a city full of beautiful cafés, this is one of the cutest. Interesting concoctions, such as coco Kombucha are served alongside more regular coffee drinks. Excellent quality, and prepared with utmost care. Quite pricey, but well worth it.
 
 <figure>
-  <img src="/photos/vietnam/hanoi/tranquil-artisan-coffee-08-nguyen-quang-bich-1.jpg" alt="Tranquil Artisan Coffee>
+  <img src="/photos/vietnam/hanoi/Viet22-0626.jpg" alt="Tranquil Artisan Coffee">
   <figcaption>Tranquil Artisan Coffee</figcaption>
 </figure>
 
