@@ -7,6 +7,10 @@ subtitle: Phra Nakhon · Café
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/art-cafe-1.png" alt="Art Cafe & Bistro">
+  <figcaption>Art Cafe & Bistro</figcaption>
+</figure>
 
 Very cosy and comfortable little café with strong, well-prepared cappuccino at a very reasonable price. A great find in this part of Bangkok.
 
