@@ -7,6 +7,11 @@ subtitle: Bang Rak · Specialty Coffee
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/times-coffee-1.png" alt="Time's Coffee">
+  <figcaption>Time's Coffee</figcaption>
+</figure>
+
 Tiny coffee shop with only a few tables, so not really somewhere for a long lazy afternoon. The espresso drinks are excellent, though, and 70 Bt for a cappuccino is very good value.
 ## Ratings
 
