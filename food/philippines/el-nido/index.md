@@ -19,3 +19,6 @@ Reviews grouped by category. Also covers the route to El Nido (including Leonida
 
 ## Bars & pubs
 - [Bars & pubs](/food/philippines/el-nido/bars-pubs/)
+
+## Street food
+- [Street food](/food/philippines/el-nido/street-food/)

@@ -23,11 +23,11 @@ hero: /photos/background/vietnamhero.jpg
 - [Hải Phòng](/food/vietnam/hai-phong/)
 - [Cần Thơ](/food/vietnam/can-tho/)
 - [Côn Đảo](/food/vietnam/con-dao/)
+- [Vũng Tàu](/food/vietnam/vung-tau/)
 
 ## Provinces
 
 - [An Giang](/food/vietnam/an-giang/)
-- [Bà Rịa – Vũng Tàu](/food/vietnam/ba-ria-vung-tau/)
 - [Bắc Kạn](/food/vietnam/bac-kan/)
 - [Bình Định](/food/vietnam/binh-dinh/)
 - [Đắk Lắk](/food/vietnam/dak-lak/)

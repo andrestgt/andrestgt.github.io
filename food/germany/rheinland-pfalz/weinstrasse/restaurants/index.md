@@ -10,6 +10,14 @@ subtitle: Restaurants und Weinstuben an der Weinstraße
 
 # Restaurants in der Weinstraße
 
+## RESTAURANT ALTES JAGDHAUS
+Neustadt · Excursion Restaurant, Beer Garden
+Restaurant Altes Jagdhaus 
+ 
+
+A lovely half-timbered hut with a beer garden deep in the Palatinate Forest, cosy inside, serving traditional Pfälzer classics.
+→ [Read the full review](./restaurant-altes-jagdhaus/)
+
 ## FORSTHAUS LINDEMANNSRUHE
 Bad Dürkheim · Excursion Restaurant, Beer Garden
 Forsthaus Lindemannsruhe 

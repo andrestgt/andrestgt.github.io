@@ -12,11 +12,13 @@ hero_overlay: false
 
 # Baden-Württemberg
 
+- [Aulendorf](/food/germany/baden-wuerttemberg/aulendorf/)
 - [Backnang](/food/germany/baden-wuerttemberg/backnang/)
 - [Heidelberg](/food/germany/baden-wuerttemberg/heidelberg/)
 - [Karlsruhe](/food/germany/baden-wuerttemberg/karlsruhe/)
 - [Lauffen am Neckar](/food/germany/baden-wuerttemberg/lauffen-am-neckar/)
 - [Leutkirch im Allgäu](/food/germany/baden-wuerttemberg/leutkirch/)
+- [Mosbach](/food/germany/baden-wuerttemberg/mosbach/)
 - [Schwarzwald](/food/germany/baden-wuerttemberg/schwarzwald/)
 - [Stuttgart](/food/germany/baden-wuerttemberg/stuttgart/)
 - [Tübingen](/food/germany/baden-wuerttemberg/tuebingen/)

@@ -11,6 +11,13 @@ subtitle: Restaurants in El Nido and northern Palawan
 
 ---
 
+## Nacpan Grill
+*Nacpan Beach, El Nido · Filipino, Grill*
+Friendly beachfront spot on stunning Nacpan Beach for a cold beer, a coconut or sinuglaw, at reasonable prices.
+→ [Read the full review](/food/philippines/el-nido/restaurants/nacpan-grill/)
+
+---
+
 ## Leonida's
 *Taytay, Palawan · Filipino*
 An unexpected gem in the middle of nowhere, beautifully decorated garden café with outstanding Filipino food and fair prices.

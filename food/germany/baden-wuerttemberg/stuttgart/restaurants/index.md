@@ -76,6 +76,11 @@ Stuttgart · Italian
 Really good Italian food in the east end with friendly service and reasonable prices. The...
 → [Read the full review](./krone-trattoria-pizzeria/)
 
+## L´ULIVO
+Stuttgart-Ost · Sardinian, Pizza
+Unassuming Sardinian spot in Stuttgart-Ost serving some of the best Neapolitan pizza in the city, at very fair prices.
+→ [Read the full review](./l-ulivo/)
+
 ## MARTHA'S
 Stuttgart · Café-Restaurant
 Fantastic location on one of Germany's most beautiful squares. Quick and friendly service....
