@@ -11,7 +11,7 @@ subtitle: Tân Định · Vietnamese
   <figcaption>Bếp Huế</figcaption>
 </figure>
 
-Tiny, and massively popular Hue food restaurant. It is Hard to get a table here, even at lunchtime. Fancy Hue dishes, nicely presented, yet quite affordable. No wonder it's so busy. The frog mi quang is superb. sadly some dishes are only available for dinner.
+Tiny, and massively popular Hue food restaurant. It is hard to get a table here, even at lunchtime. Fancy Hue dishes, nicely presented, yet quite affordable. No wonder it's so busy. The frog mi quang is superb. sadly some dishes are only available for dinner.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">
