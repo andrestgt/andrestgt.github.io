@@ -10,18 +10,16 @@ subtitle: Restaurants in Huế
 
 # Restaurants
 
----
-
 ## Gecko
 *Huế*
-This friendly traveller café is still open during corona times and offers really good Huda draft beer for 9k a glass.
+Friendly traveller café still open during corona times, offering really good Huda draft beer for 9k a glass...
 → [Read the full review](/food/vietnam/hue/restaurants/gecko/)
 
 ---
 
 ## HotTuna Restaurant - nha hang Hottuna
 *Huế*
-Tourist restaurant in a prime backpacker central location.
+Tourist restaurant in a prime backpacker central location; food is clearly for tourists only, but you can't fault them for it...
 → [Read the full review](/food/vietnam/hue/restaurants/hottuna-restaurant-nha-hang-hottuna/)
 
 ---

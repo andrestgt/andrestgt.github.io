@@ -12,7 +12,7 @@ subtitle: Cafés in Huế
 
 ## Hue Roastery
 *Huế*
-Don't be put off by the dark stairway for getting to this second floor coffee shop.
+Don't be put off by the dark stairway; upstairs is a nicely decorated air conditioned space with decent espresso drinks...
 → [Read the full review](/food/vietnam/hue/cafes/hue-roastery/)
 
 ---
