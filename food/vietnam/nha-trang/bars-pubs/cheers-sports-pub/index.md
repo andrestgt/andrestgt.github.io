@@ -12,7 +12,7 @@ subtitle: Nha Trang · Bar & Pub
 </figure>
 
 Classic expat hangout and not the easiest place to track down, but once you do, you can happily indulge your inner Brit: meat pies with chips, ice-cold draught beer and The Smiths on the speakers. Not a Russian in sight, which in Nha Trang counts as a selling point.
-Update : thez moved to a main road location, but nothing else has changed, it is still a good place to visit for a cold beer and tasty grub.
+Update : they moved to a main road location, but nothing else has changed, it is still a good place to visit for a cold beer and tasty grub.
 
 <figure>
   <img src="/photos/vietnam/nha-trang/cheers-sports-pub-2.jpg" alt="Cheers Sports Pub">
