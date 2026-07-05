@@ -12,21 +12,21 @@ subtitle: Bars & Pubs in Da Nang
 
 ## 7 Bridges
 *Da Nang*
-When in Da Nang, why not go for the local craft beer microbrewery?
+Local craft beer microbrewery, native to Da Nang, with a very varied selection of styles...
 → [Read the full review](/food/vietnam/da-nang/bars-pubs/7-bridges/)
 
 ---
 
 ## Hops & Crust - Craft beer and Pizza
 *Da Nang*
-Expat Central and a fun place to be, especially when they have live music.
+Expat Central and a fun place to be, especially when they have live music...
 → [Read the full review](/food/vietnam/da-nang/bars-pubs/hops-crust-craft-beer-and-pizza/)
 
 ---
 
 ## Section 30 - Craft Beer & Cocktail Pub
 *Da Nang*
-This is an attractive expat hangout, but I wasn't entirely convinced mainly because the food was a bit disappointing and
+Attractive expat hangout, but the food was a bit disappointing and happy hour was only for a limited selection of bland industrial beers...
 → [Read the full review](/food/vietnam/da-nang/bars-pubs/section-30-craft-beer-cocktail-pub/)
 
 ---

@@ -12,28 +12,28 @@ subtitle: Restaurants in Da Nang
 
 ## Bushido restaurant
 *Da Nang*
-Korean and Japanese food available here.
+Korean and Japanese food with excellent grilled meat dishes, from meat quality to the marinade...
 → [Read the full review](/food/vietnam/da-nang/restaurants/bushido-restaurant/)
 
 ---
 
 ## Dim Sum
 *Da Nang*
-Superb, high quality dim sum at very affordable prices.
+Superb, high quality dim sum at very affordable prices...
 → [Read the full review](/food/vietnam/da-nang/restaurants/dim-sum/)
 
 ---
 
 ## Nhà hàng Madame Lân
 *Da Nang*
-Madame Lan is one of Da Nang’s best-known restaurants and popular with both tourists and locals.
+One of Da Nang's best-known restaurants, popular with both tourists and locals...
 → [Read the full review](/food/vietnam/da-nang/restaurants/nha-hang-madame-lan/)
 
 ---
 
 ## Waterfront Restaurant & Bar Da Nang
 *Da Nang*
-Prime location, great space.
+Prime location, great space; pricey, but you also get good quality food and drinks for your money...
 → [Read the full review](/food/vietnam/da-nang/restaurants/waterfront-restaurant-bar-da-nang/)
 
 ---
