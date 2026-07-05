@@ -5,6 +5,12 @@ review: true
 title: Argento Coffee Takeaway
 subtitle: Hoàn Kiếm · Coffee
 ---
+
+<figure>
+  <img src="/photos/vietnam/hanoi/argento-coffee-1.png" alt="Argento Coffee Takeaway">
+  <figcaption>Argento Coffee Takeaway</figcaption>
+</figure>
+
 Very good cappuccino here for 35k. Inexpensive. Just a pity that the café is not comfy, but at least you can sit on stools watching the street through the big window.
 
 ## Ratings
