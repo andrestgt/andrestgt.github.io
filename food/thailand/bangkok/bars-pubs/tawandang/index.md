@@ -12,7 +12,7 @@ photos_locked: true
   <figcaption>Tawandang German Brewery</figcaption>
 </figure>
 
-Beer here is indeed very good, and by Bangkok standards, reasonably priced with a glass of Weizen going for 140Bt. The food is nothing special and not cheap, but this huge beer hall should be visited as a cultural experience and considering there is no entrance fee for the shows thez are staging, the whole evening becomes great value. 
+Beer here is indeed very good, and by Bangkok standards, reasonably priced with a glass of Weizen going for 140Bt. The food is nothing special and not cheap, but this huge beer hall should be visited as a cultural experience and considering there is no entrance fee for the shows they are staging, the whole evening becomes great value. 
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
