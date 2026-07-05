@@ -16,7 +16,7 @@ The name is clearly a reference to Singapore’s Lau Pa Sat, but Lao Pa Sat in P
 
 We had the laksa and the char kway teow, and both were really excellent: rich, well-balanced, and full of flavour. The laksa had real depth without being overly heavy, while the char kway teow was properly smoky and well seasoned.
 
-Prices are very reasonable and roughly in line with what you’d pay at a hawker centre in Singapore, which makes this place particularly good value given the quality. An easy recommendation and one of the strongest restaurant options in Phuket Town.
+Prices are very reasonable and roughly in line with what you’d pay at a hawker centre in Singapore, which makes this place particularly good value given the quality. An easy recommendation and one of the best restaurant options in Phuket Town.
 
 ## Ratings
 
