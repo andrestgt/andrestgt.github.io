@@ -7,6 +7,11 @@ subtitle: Mae Suai · Café
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/chiang-rai/charin-garden-resort-1.png" alt="Charin Garden Resort">
+  <figcaption>Charin Garden Resort</figcaption>
+</figure>
+
 The cakes and pies here are really delicious and surprisingly inexpensive. The coffee is fairly mediocre, unfortunately, but the desserts alone still make this place worth stopping for.
 ## Ratings
 
