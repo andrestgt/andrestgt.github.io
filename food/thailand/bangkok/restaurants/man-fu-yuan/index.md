@@ -7,7 +7,17 @@ subtitle: Watthana · Chinese, Dim Sum
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/man-fu-yuan-1.png" alt="Man Fu Yuan">
+  <figcaption>Man Fu Yuan</figcaption>
+</figure>
+
 Very high-quality dim sum inside the impressive Helix complex at EmQuartier. Prices are obviously high, around 100–150 Bt for a basket of three pieces, but the quality justifies it and the atmosphere is excellent.
+
+<figure>
+  <img src="/photos/thailand/bangkok/man-fu-yuan-2.png" alt="Man Fu Yuan">
+  <figcaption>Man Fu Yuan</figcaption>
+</figure>
 
 ## Ratings
 
