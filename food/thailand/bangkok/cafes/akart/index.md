@@ -7,6 +7,11 @@ subtitle: Sathon · Specialty Coffee
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/akart-1.png" alt="AKART Bistro & Bar">
+  <figcaption>AKART Bistro & Bar</figcaption>
+</figure>
+
 AKART serves excellent cappuccino for under 100 Bt, has free drinking water, and a nicely designed interior. Very easy place to recommend if you need a coffee break in this part of Bangkok.
 
 ## Ratings
