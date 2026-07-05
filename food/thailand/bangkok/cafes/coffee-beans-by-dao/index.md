@@ -7,9 +7,17 @@ subtitle: Pathum Wan · Café
 photos_locked: true
 ---
 
+<figure>
+  <img src="/photos/thailand/bangkok/coffee-beans-by-dao-1.png" alt="Coffee Beans By Dao">
+  <figcaption>Coffee Beans By Dao</figcaption>
+</figure>
 
 This branch is beautifully designed and has extremely comfortable armchairs. The coffee is good, although not really worth the 100+ Bt price tag, and the international bistro menu is similarly expensive but quality.
 
+<figure>
+  <img src="/photos/thailand/bangkok/coffee-beans-by-dao-2.png" alt="Coffee Beans By Dao">
+  <figcaption>Coffee Beans By Dao</figcaption>
+</figure>
 
 ## Ratings
 
