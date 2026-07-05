@@ -12,103 +12,101 @@ subtitle: Street Food in Hanoi
 
 ## Banh Mi 25
 *Hanoi*
-Arguably the most famous banh mi in Hanoi, but I don't get the hype to be honest.
+Hanoi's most famous banh mi, tasty but overhyped; doesn't merit a special trip...
 → [Read the full review](/food/vietnam/hanoi/street-food/banh-mi-25/)
 
 ---
 
 ## Bún Bò Nam Bộ Bách Phương
 *Hanoi*
-Bun Bo Nam Bo is one of these Vietnamese dishes that is particularly suited to Western sensibilities without needing to 
+A very good beef noodle salad with generous meat, reasonable at 65k; a local favourite...
 → [Read the full review](/food/vietnam/hanoi/street-food/bun-bo-nam-bo-bach-phuong/)
 
 ---
 
 ## Bún Cá Chấm An Viên
 *Hanoi*
-Small Old Town drinking place specialising in Bun Ca Cham, fish noodle soup, with deep fried fish served on the side.
+A really good fish noodle soup with dill and pineapple for 50k...
 → [Read the full review](/food/vietnam/hanoi/street-food/bun-ca-cham-an-vien/)
 
 ---
 
 ## Bun Ca Sam Cay Si
 *Hanoi*
-One of the best bowls of soup I found in Hanoi.
+One of the best bowls of soup in Hanoi; excellent value at 40k, get the spring rolls...
 → [Read the full review](/food/vietnam/hanoi/street-food/bun-ca-sam-cay-si/)
 
 ---
 
 ## Bun cha Tuyet 34
 *Hanoi*
-My personal favourite bun cha in Hanoi.
+A pre-Michelin favourite bún chả; perfect sauce, smoky meat, generous at 35k...
 → [Read the full review](/food/vietnam/hanoi/street-food/bun-cha-tuyet-34/)
 
 ---
 
 ## Bún đậu Hương 55 Phất Lộc
 *Hanoi*
-This one is for adventurous eaters.
+For adventurous eaters; perfect tofu and blood sausage, but not cheap...
 → [Read the full review](/food/vietnam/hanoi/street-food/bun-dau-huong-55-phat-loc/)
 
 ---
 
 ## Bún Miến Ngan Minh Thu
 *Hanoi*
-Tasty duck/goose soup with clear broth and meatballs, 35k a bowl
+Tasty duck/goose soup with clear broth and meatballs, 35k a bowl...
 → [Read the full review](/food/vietnam/hanoi/street-food/bun-mien-ngan-minh-thu/)
 
 ---
 
 ## Nhà Hàng Bia Sửu
 *Hanoi*
-12k a glass for good bia hoi, classic Hanoi street drinking joint with very tasty grilled pork belly to accompany the be
+Classic street bia hoi at 12k a glass with tasty grilled pork belly; service could be better...
 → [Read the full review](/food/vietnam/hanoi/street-food/nha-hang-bia-suu/)
 
 ---
 
 ## Pho 10 Ly Quoc Su
 *Hanoi*
-Most famous Pho place in the Old Town so you can imagine it's packed with locals and tourists alike most of the time.
+The Old Town's most famous pho; a very fine Northern-style bowl at 60k...
 → [Read the full review](/food/vietnam/hanoi/street-food/pho-10-ly-quoc-su/)
 
 ---
 
 ## Phở Biên
 *Hanoi*
-Very popular local hole in the wall place.
+Popular hole-in-the-wall; the meaty Pho Sot Vang at 50k is well worth it...
 → [Read the full review](/food/vietnam/hanoi/street-food/pho-bien/)
 
 ---
 
 ## pho ga tu lun
 *Hanoi*
-Of all the soups i tried in Hanoi, the Bun Thang here was my least favourite.
+Popular for Pho Ga, but the Bun Thang was bland, my least favourite in Hanoi...
 → [Read the full review](/food/vietnam/hanoi/street-food/pho-ga-tu-lun/)
 
 ---
 
 ## Phở Gia Truyền Bát Đàn
 *Hanoi*
-This place is an institution and a visit here is an experience.
+A no-frills institution; queue for your delicious 60k bowl, the experience is priceless...
 → [Read the full review](/food/vietnam/hanoi/street-food/pho-gia-truyen-bat-dan/)
 
 ---
 
 ## Thịt xiên dồi sụn nướng Hà Nguyệt
 *Hanoi*
-Tasty homemade sausage, grilled over charcoal and served on a stick, exactly the sort of straightforward street food tha
+Tasty charcoal-grilled homemade sausage on a stick; cheap and worthwhile...
 → [Read the full review](/food/vietnam/hanoi/street-food/thit-xien-doi-sun-nuong-ha-nguyet/)
 
 ---
 
 ## Tuệ An | Bánh Cuốn Nóng & Phở Bò Bảo Khánh
 *Hanoi*
-My go to place for banh cuon in Hanoi for almost two decades.
+A two-decade go-to for banh cuon; still cheap and cheerful at 35k...
 → [Read the full review](/food/vietnam/hanoi/street-food/tue-an-banh-cuon-nong-pho-bo-bao-khanh/)
 
 ---
-
-
 
 **Price level note:**  
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

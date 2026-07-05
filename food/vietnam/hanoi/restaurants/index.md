@@ -12,75 +12,73 @@ subtitle: Restaurants in Hanoi
 
 ## Anita's Cantina Old Quarter
 *Hanoi*
-Simple little Mexican café that's not terribly charming and quite pricey, but their Brothers Grimm draft beer is tasty a
+Pricey, not very charming Mexican with tasty draft beer, but disastrous service...
 → [Read the full review](/food/vietnam/hanoi/restaurants/anitas-cantina-old-quarter/)
 
 ---
 
 ## Chaka Restaurant
 *Hanoi*
-Very attractive restaurant in an old converted French villa.
+Attractive converted French villa; some spectacular dishes at very reasonable prices...
 → [Read the full review](/food/vietnam/hanoi/restaurants/chaka-restaurant/)
 
 ---
 
 ## Meiwei
 *Hanoi*
-Reasonably good Chinese franchise in Lotte Centre.
+Reasonably good but expensive Chinese in Lotte Centre; delicious dim sum...
 → [Read the full review](/food/vietnam/hanoi/restaurants/meiwei/)
 
 ---
 
 ## Nét Huế Restaurant
 *Hanoi*
-Considering it's just a budget franchise for Hué cuisine, the food here isn't half bad.
+A budget Hué franchise that isn't half bad; fair prices, mostly very tasty...
 → [Read the full review](/food/vietnam/hanoi/restaurants/net-hue-restaurant/)
 
 ---
 
 ## Nhà hàng La Place
 *Hanoi*
-Perfect location on Cathedral square.
+A cute bistro in a perfect Cathedral-square spot; good food at affordable prices...
 → [Read the full review](/food/vietnam/hanoi/restaurants/nha-hang-la-place/)
 
 ---
 
 ## Pateta
 *Hanoi*
-Friendly place with a big balcony overlooking an old town street.
+Friendly spot with a balcony, cheap Larue draft and tasty baguettes...
 → [Read the full review](/food/vietnam/hanoi/restaurants/pateta/)
 
 ---
 
 ## Phượng Tường dimsum
 *Hanoi*
-Good dim sum in a very convenient old town location.
+Good dim sum in a convenient old-town spot; docked for a sneaky 5% service charge...
 → [Read the full review](/food/vietnam/hanoi/restaurants/phuong-tuong-dimsum/)
 
 ---
 
 ## Quán Ăn Gia Đình Minh Thủy's
 *Hanoi*
-Tried both a Vietnamese and a German dish here.
+Delicious marinated chicken, unconvincing currywurst, but very fair prices...
 → [Read the full review](/food/vietnam/hanoi/restaurants/quan-an-gia-dinh-minh-thuys/)
 
 ---
 
 ## Quan An Ngon
 *Hanoi*
-I've been coming here for almost two decades.
+Stunning villa setting for street food from all over the country; still good, if not what it was...
 → [Read the full review](/food/vietnam/hanoi/restaurants/quan-an-ngon/)
 
 ---
 
 ## Vietstreet
 *Hanoi*
-Can you find better food hunting the streets of Hanoi?
+Decent Vietnamese standards in neat, air-conditioned surroundings at reasonable prices...
 → [Read the full review](/food/vietnam/hanoi/restaurants/vietstreet/)
 
 ---
-
-
 
 **Price level note:**  
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.  

@@ -12,71 +12,70 @@ subtitle: Cafés in Hanoi
 
 ## Argento Coffee Takeaway
 *Hanoi*
-Very good cappuccino here for 35k.
+Very good, inexpensive 35k cappuccino, but the café isn't comfy...
 → [Read the full review](/food/vietnam/hanoi/cafes/argento-coffee-takeaway/)
 
 ---
 
 ## Le Beret Cafe
 *Hanoi*
-Friendly modern café with strong air conditioning, reliable wifi and properly prepared coffee drinks.
+Friendly modern café with strong AC, reliable wifi and a well-made 45k flat white...
 → [Read the full review](/food/vietnam/hanoi/cafes/le-beret-cafe/)
 
 ---
 
 ## Blackbird Coffee
 *Hanoi*
-Hipster coffee shop where bespectacled baristas prepare some of the best brews in town.
+Hipster shop with some of the best brews in town; excellent 55k cappuccino...
 → [Read the full review](/food/vietnam/hanoi/cafes/blackbird-coffee/)
 
 ---
 
 ## Dream Beans Coffee Roastery
 *Hanoi*
-The less comfy the seats, the better the coffee.
+Uncomfortable chairs but delicious flat white at a reasonable 45k...
 → [Read the full review](/food/vietnam/hanoi/cafes/dream-beans-coffee-roastery/)
 
 ---
 
 ## Joma Bakery Cafe • Lý Quốc Sư
 *Hanoi*
-I loved Joma in Laos all those years ago, but this one must have had a bad day.
+Spacious but had a bad day: weak AC, no wifi, and cinnamon on the cappuccino...
 → [Read the full review](/food/vietnam/hanoi/cafes/joma-bakery-cafe-ly-quoc-su/)
 
 ---
 
 ## Little Tranquil Coffee - 3 Hang Manh
 *Hanoi*
-Tiny but cute coffee shop where you can get an excellent cup of flat white for 50k
+Tiny but cute, with an excellent flat white for 50k...
 → [Read the full review](/food/vietnam/hanoi/cafes/little-tranquil-coffee-3-hang-manh/)
 
 ---
 
 ## Runam Bistro
 *Hanoi*
-Very beautiful decor and presentation, excellent coffees, but, my god, their prices are hideously over the top.
+Beautiful decor and excellent coffees, but hideously over-the-top prices...
 → [Read the full review](/food/vietnam/hanoi/cafes/runam-bistro/)
 
 ---
 
 ## The Rustics Coffee Shop
 *Hanoi*
-Nicely decorated coffee shop with good Vietnamese coffees.
+Nicely decorated with good Vietnamese coffees, but avoid the UHT-milk espresso drinks...
 → [Read the full review](/food/vietnam/hanoi/cafes/the-rustics-coffee-shop/)
 
 ---
 
 ## Tranquil Artisan Coffee - 08 Nguyen Quang Bich
 *Hanoi*
-In a city full of beautiful cafés, this is one of the cutest.
+One of the cutest cafés in town; excellent, carefully made coffee, pricey but worth it...
 → [Read the full review](/food/vietnam/hanoi/cafes/tranquil-artisan-coffee-08-nguyen-quang-bich/)
 
 ---
 
 ## Xofa Cafe
 *Hanoi*
-Large café in a beautiful old town courtyard with good service and great breakfast combos.
+Large café in a beautiful courtyard with good service and great breakfast combos...
 → [Read the full review](/food/vietnam/hanoi/cafes/xofa-cafe/)
 
 ---
-
