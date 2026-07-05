@@ -21,10 +21,7 @@ This used to be the best farang breakfast place in town a decade ago, and is sti
   <img src="/photos/thailand/chiang-mai/blue-diamond-breakfast-club-2.jpg" alt="Blue Diamond The Breakfast Club">
   <figcaption>Blue Diamond The Breakfast Club</figcaption>
 </figure>
-<figure>
-  <img src="/photos/thailand/chiang-mai/blue-diamond-breakfast-club-3.jpg" alt="Blue Diamond The Breakfast Club">
-  <figcaption>Blue Diamond The Breakfast Club</figcaption>
-</figure>
+
 </div>
 
 ## Ratings
