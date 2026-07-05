@@ -14,7 +14,7 @@ photos_locked: true
 
 
 Moonshine has cheap draft beer and a lively atmosphere, but surprisingly bland food considering everything is cooked fresh in front of you in Bangkok. Both the seafood noodles and cashew pork were fairly forgettable.
-
+Both the cashewnut pork and the seafood noodles were so so at best.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -27,7 +27,7 @@ Moonshine has cheap draft beer and a lively atmosphere, but surprisingly bland f
 </figure>
 </div>
 
-Both the cashewnut pork and the seafood noodles were so so at best.
+
 
 ## Ratings
 
