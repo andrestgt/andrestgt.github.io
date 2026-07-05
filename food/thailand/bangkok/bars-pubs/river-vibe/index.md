@@ -14,6 +14,11 @@ photos_locked: true
 
 We stayed just downstairs in the hotel, so this rooftop bar was the obvious place to spend a beautiful happy hour with great views over the river. That said, it's a standalone spot and well worth coming here even if you're not staying nearby.
 
+There aren't that many rooftop bars in Bangkok that don't break the bank, and this one, while not cheap, is quite affordable. The menu is standard Thai fare, portions are on the smaller side, but the food is good quality and properly spicy.
+
+For around 500 baht, you can have two dishes and a couple of happy hour beers, which is very good value for a sunset with views like this.
+
+
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/river-vibe-1.jpg" alt="River Vibe Bar & Restaurant">
@@ -30,9 +35,6 @@ We stayed just downstairs in the hotel, so this rooftop bar was the obvious plac
   <figcaption>River Vibe Bar & Restaurant</figcaption>
 </figure>
 
-There aren't that many rooftop bars in Bangkok that don't break the bank, and this one, while not cheap, is quite affordable. The menu is standard Thai fare, portions are on the smaller side, but the food is good quality and properly spicy.
-
-For around 500 baht, you can have two dishes and a couple of happy hour beers, which is very good value for a sunset with views like this.
 
 ## Ratings
 
