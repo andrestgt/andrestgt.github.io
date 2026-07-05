@@ -7,12 +7,6 @@ review: true
 ---
 
 <figure>
-  <img src="/photos/thailand/phuket/origami-cafe-1.jpg" alt="Origami Café">
-  <figcaption>Origami Café</figcaption>
-</figure>
-
-
-<figure>
   <img src="/photos/thailand/phuket/origami-cafe-2.jpg" alt="Origami Café">
   <figcaption>Origami Café</figcaption>
 </figure>
@@ -22,6 +16,12 @@ Origami is not located in Phuket Old Town, but in a rather drab area near the bu
 The interior feels more ornate and personal, with old ceramics, vases, small tables, and a lot of character. It’s a genuinely pleasant place to sit, calm and relaxed rather than trendy.
 
 They serve good coffee at reasonable prices, and the atmosphere makes it an excellent spot for a proper break. Even if you’re not catching a bus, Origami is worth seeking out as a quieter alternative to the often crowded cafés in the Old Town.
+
+<figure>
+  <img src="/photos/thailand/phuket/origami-cafe-1.jpg" alt="Origami Café">
+  <figcaption>Origami Café</figcaption>
+</figure>
+
 
 ## Ratings
 
