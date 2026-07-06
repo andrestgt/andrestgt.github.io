@@ -20,7 +20,7 @@ More snack bar than restaurant, with just a few uncomfortable stools and tables,
 | Food            | 8/10 |
 | Service         | 7/10 |
 | Value for money | 6.5/10 |
-| Atmosphere      | 6/10 |
+| Atmosphere      | 6.5/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
