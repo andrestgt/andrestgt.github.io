@@ -17,11 +17,11 @@ Cask Bar has a large selection of Vietnamese craft beers in bottles, and even th
 
 | Category        | Score  |
 | --------------- | ------ |
-| Food and Drinks | 8.5/10 |
-| Service         | 8/10 |
+| Drinks          | 8.5/10 |
+| Service         | 7.5/10 |
 | Value for money | 8/10 |
-| Atmosphere      | 9/10 |
-| Overall         | 8.5/10 |
+| Atmosphere      | 8/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
