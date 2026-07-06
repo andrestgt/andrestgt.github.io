@@ -15,13 +15,13 @@ hero: /photos/background/singapore-restaurants.jpg
 
 ## Mouth Restaurant - 地茂馆
 *Maxwell / Chinatown · Dim Sum, Cantonese*
-Very good upscale dim sum in Chinatown with an impressive variety of steamed dumplings; pricey, but the quality justifies it.
+Very good upscale dim sum in Chinatown with an impressive variety of steamed dumplings...
 → [Read the full review](/food/singapore/restaurants/mouth-restaurant-di-mao-guan/)
 
 ---
 ## Singapore Zam Zam Restaurant
 *Kampong Glam · Indian-Muslim*
-Old-school Indian-Muslim spot with huge portions at reasonable prices; a generous mutton biryani and a filling murtabak.
+Old-school Indian-Muslim spot with huge portions at reasonable prices...
 → [Read the full review](/food/singapore/restaurants/singapore-zam-zam-restaurant/)
 
 ---
