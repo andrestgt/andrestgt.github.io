@@ -26,14 +26,14 @@ A welcome refuge from the heat, and at 60k, very reasonably priced.
 
 | Category        | Score  |
 | --------------- | ------ |
-| Food and Drinks | 9/10 |
-| Service         | 8/10 |
-| Value for money | 8.5/10 |
+| Coffee          | 9/10 |
+| Service         | 7.5/10 |
+| Value for money | 8/10 |
 | Atmosphere      | 8.5/10 |
-| Overall         | 9/10 |
+| Overall         | 8.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x13f56fc768b35d21)
 ☕ **Type:** Coffee
-💰 **Price level:** inexpensive
+💰 **Price level:** moderate
