@@ -17,3 +17,10 @@ More snack bar than restaurant, serving very tasty two-bite Filipino-Mexican tac
 → [Read the full review](/food/philippines/el-nido/street-food/caliente-el-nido/)
 
 ---
+
+## Socorro Hills View
+*Route 490, El Nido · Filipino*
+The nicest pit stop along Route 490, sweeping sea views, tasty shakes, and solid food at moderate prices.
+→ [Read the full review](/food/philippines/el-nido/street-food/socorro-hills-view/)
+
+---

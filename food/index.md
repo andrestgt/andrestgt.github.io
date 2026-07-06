@@ -22,6 +22,7 @@ Countries covered
 - [Cambodia](/food/cambodia/)
 - [India](/food/india/)
 - [Taiwan](/food/taiwan/)
+- [Singapore](/food/singapore/)
 
 ## Europe
 

@@ -512,6 +512,10 @@ food/portugal/porto/restaurants/index.md
 food/portugal/vila-vicosa/index.md
 food/portugal/vila-vicosa/restaurants/index.md
 food/portugal/vila-vicosa/restaurants/restauracao/index.md
+food/singapore/index.md
+food/singapore/restaurants/index.md
+food/singapore/restaurants/mouth-restaurant-di-mao-guan/index.md
+food/singapore/restaurants/singapore-zam-zam-restaurant/index.md
 food/slovakia/index.md
 food/slovakia/kosice/bars-pubs/index.md
 food/slovakia/kosice/cafes/cup-of-coffee/index.md

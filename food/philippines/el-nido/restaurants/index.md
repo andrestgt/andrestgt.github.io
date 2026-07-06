@@ -25,13 +25,6 @@ An unexpected gem in the middle of nowhere, beautifully decorated garden café w
 
 ---
 
-## Socorro Hills View
-*Route 490, El Nido · Filipino*
-The nicest pit stop along Route 490, sweeping sea views, tasty shakes, and solid food at moderate prices.
-→ [Read the full review](/food/philippines/el-nido/restaurants/socorro-hills-view/)
-
----
-
 ## El Nido Boutique Artcafe
 *El Nido Town · International*
 No longer the focal point for travellers but still gets things right, solid food, nicer décor, and a pleasant second-floor terrace.
