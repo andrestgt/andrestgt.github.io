@@ -36,14 +36,14 @@ Prices are still reasonable, and of all the places along the beach, this was the
 
 | Category        | Score  |
 | --------------- | ------ |
-| Food            | 8/10 |
+| Food            | 7.5/10 |
 | Service         | 8/10 |
-| Value for money | 8/10 |
-| Atmosphere      | 8.5/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 9/10 |
 | Overall         | 8.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc2a5bf462775c6c9)
 🍽️ **Type:** Filipino
-💰 **Price level:** ₱200–400
+💰 **Price level:** ₱600-800
