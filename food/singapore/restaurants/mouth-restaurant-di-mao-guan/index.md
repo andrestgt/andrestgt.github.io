@@ -6,7 +6,27 @@ title: Mouth Restaurant - 地茂馆 (Di Mao Guan)
 subtitle: Maxwell / Chinatown · Dim Sum, Cantonese
 ---
 
+<figure>
+  <img src="/photos/singapore/mouth-restaurant-di-mao-guan-1.jpg" alt="Mouth Restaurant - 地茂馆 (Di Mao Guan)">
+  <figcaption>Mouth Restaurant - 地茂馆 (Di Mao Guan)</figcaption>
+</figure>
+
 Very good choice for upscale dim sum in Chinatown with a particularly impressive variety of steamed dumplings. Prices are definitely on the high side, but the quality justifies them. The siomai are especially excellent.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/singapore/mouth-restaurant-di-mao-guan-2.jpg" alt="Mouth Restaurant - 地茂馆 (Di Mao Guan)">
+  <figcaption>Mouth Restaurant - 地茂馆 (Di Mao Guan)</figcaption>
+</figure>
+<figure>
+  <img src="/photos/singapore/mouth-restaurant-di-mao-guan-3.jpg" alt="Mouth Restaurant - 地茂馆 (Di Mao Guan)">
+  <figcaption>Mouth Restaurant - 地茂馆 (Di Mao Guan)</figcaption>
+</figure>
+<figure>
+  <img src="/photos/singapore/mouth-restaurant-di-mao-guan-4.jpg" alt="Mouth Restaurant - 地茂馆 (Di Mao Guan)">
+  <figcaption>Mouth Restaurant - 地茂馆 (Di Mao Guan)</figcaption>
+</figure>
+</div>
 
 ## Ratings
 

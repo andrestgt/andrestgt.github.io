@@ -6,6 +6,7 @@ category: restaurants
 slug: singapore restaurants
 title: Restaurants
 subtitle: Restaurants in Singapore
+hero: /photos/background/singapore-restaurants.jpg
 ---
 
 # Restaurants in Singapore
