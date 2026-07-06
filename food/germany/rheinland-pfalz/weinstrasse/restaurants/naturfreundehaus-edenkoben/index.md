@@ -13,15 +13,6 @@ subtitle: Edenkoben · Pfälzerwald, Excursion Restaurant
 
 This Naturfreundehaus is both easy to reach by car and a lovely walk. The interior has its own particular charm, somewhere between the seventies and eighties, an aquired taste, for sure. In good weather you'll be sitting outside on the large terrace in the middle of the woods anyway. The menu carries the usual Pfälzer classics like Leberknödel or Saumagen with sauerkraut, in big portions at very reasonable prices and there are delicious home make cakes. The wine spritzers are poured generously here too. Highly recommended.
 
-<figure>
-  <img src="/photos/germany/weinstrasse/naturfreundehaus-edenkoben-2.jpg" alt="Naturfreundehaus Edenkoben">
-  <figcaption>Naturfreundehaus Edenkoben</figcaption>
-</figure>
-
-<figure>
-  <img src="/photos/germany/weinstrasse/naturfreundehaus-edenkoben-1.jpg" alt="Naturfreundehaus Edenkoben">
-  <figcaption>Naturfreundehaus Edenkoben</figcaption>
-</figure>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
