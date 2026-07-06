@@ -7,9 +7,10 @@ subtitle: Neustadt · Excursion Restaurant, Beer Garden
 ---
 
 <figure>
-  <img src="/photos/germany/rheinland-pfalz/weinstrasse/restaurant-altes-jagdhaus-1.jpg" alt="Restaurant Altes Jagdhaus">
+  <img src="/photos/germany/rheinland-pfalz/weinstrasse/restaurant-altes-jagdhaus-3.jpg" alt="Restaurant Altes Jagdhaus">
   <figcaption>Restaurant Altes Jagdhaus</figcaption>
 </figure>
+
 
 This is a particularly lovely half-timbered hut in the middle of the Palatinate Forest, with an adjoining beer garden. That said, it's just as worth stopping in during autumn or on cold days, as the cosy interior makes it a very pleasant place to linger.
 
@@ -23,7 +24,7 @@ And you can walk off the calories afterwards with a stroll through the woods; do
   <figcaption>Restaurant Altes Jagdhaus</figcaption>
 </figure>
 <figure>
-  <img src="/photos/germany/rheinland-pfalz/weinstrasse/restaurant-altes-jagdhaus-3.jpg" alt="Restaurant Altes Jagdhaus">
+  <img src="/photos/germany/rheinland-pfalz/weinstrasse/restaurant-altes-jagdhaus-1.jpg" alt="Restaurant Altes Jagdhaus">
   <figcaption>Restaurant Altes Jagdhaus</figcaption>
 </figure>
 </div>
@@ -32,14 +33,14 @@ And you can walk off the calories afterwards with a stroll through the woods; do
 
 | Category        | Score  |
 | --------------- | ------ |
-| Food            | 8/10 |
+| Food            | 7.5/10 |
 | Service         | 7.5/10 |
 | Value for money | 8/10 |
-| Atmosphere      | 9/10 |
-| Overall         | 8.5/10 |
+| Atmosphere      | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x80b0dff8bd8481a)
 🍽️ **Type:** Palatinate, German
-💰 **Price level:** €20–25
+💰 **Price level:** €25-30
