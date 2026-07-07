@@ -515,7 +515,40 @@ If you spend the whole day out on the boat and on the islands, it’s no problem
 
 My dive shop, Scuba Junkie, is the main hub for budget travellers. It’s large and busy, but very well organised, and offers a cheap hostel opposite, with beds in an air-conditioned dorm for 20 RM including breakfast. In the same building is Ground Zero, Semporna’s nightlife hub, where at least twice a week there’s a wild party with a live band and drinks that are still reasonably priced by Malaysian standards.
 
+<figure>
+  <img src="photos/Borneo2009-0064.jpg" alt="Semporna - Scuba Junkie">
+  <em>Semporna - Scuba Junkie</em>
+</figure>
+
 I did my Open Water (800 RM) and Advanced (750 RM) courses on the islands of Sibuan, Mantabuan and Mabul, all dream islands with great dive sites, where turtles and barracudas abound, along with most of the big-name reef fish. Sibuan also has a wonderful coral reef that’s still largely intact.
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Borneo2009-0024.jpg" alt="Sibuan">
+      <em>Sibuan</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Borneo2009-0029.jpg" alt="Sibuan">
+      <em>Sibuan</em>
+    </figure>
+
+</div>
+
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Borneo2009-0032.jpg" alt="Sibuan">
+      <em>Sibuan</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Borneo2009-0036.jpg" alt="Sibuan">
+      <em>Sibuan</em>
+    </figure>
+
+</div>
 
 The most famous island in the area, however, is Sipadan, which regularly features in top-ten lists of the world’s best dive sites. For several years now, diving around Sipadan has unfortunately been heavily regulated and very expensive due to mass tourism; waiting lists are long (weeks with some operators), and a day trip costs 500 RM, twice as much as on the other islands. So I had to skip Sipadan, with a heavy heart, but the diving on the other islands was also excellent.
 
