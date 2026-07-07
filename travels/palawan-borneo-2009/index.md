@@ -169,6 +169,11 @@ The boat trip (1.5 km each way) takes about 45 minutes and is definitely a highl
 
 From Sabang I took a jeepney back to the highway (2 h, PHP 75), where I quickly found a connection to Roxas. I got off shortly before town at the junction to Port Barton (1 h, PHP 50), where I had to wait a good half-hour for the Roxas–Port Barton jeepney. For the last 22 km to Port Barton the jeepney took more than an hour and a half. Even in the dry season the road is in a terrible state, but it also stops sleepy Port Barton from turning into a tourist centre, because the potential is definitely there.
 
+<figure>
+  <img src="photos/Palawan2009-0108.jpg" alt="Jeepney to Port Barton">
+  <em>Jeepney to Port Barton</em>
+</figure>
+
 The beach, in a crescent-shaped bay, is picturesque and good for swimming. Dozens of islands lie offshore and are said to be excellent for island hopping, something I couldn’t verify because there weren’t enough tourists in town to share a boat with (PHP 1,500 is a bit much for a solo traveller for one day on the islands).
 
 Even so I had a wonderful time in Port Barton, one of the most relaxed places in the Philippines. There’s only one paved road; the whole village stretches over just a few blocks and, despite its remoteness, is extremely neat and tidy. Electricity is available only for a few hours in the evening, but the locals are very friendly, and more than once I ended the night in a group with a few bottles of Matador on the beach under palm trees. So instead of the planned two nights I stayed six, also because it’s not that easy to leave Port Barton. There’s only one daily jeepney, and it leaves fairly early in the morning; after that there’s no way to get out of the village by public transport.
