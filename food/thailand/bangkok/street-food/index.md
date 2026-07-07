@@ -91,7 +91,7 @@ A tidy hole-in-the-wall near Don Mueang with delicious, cheap Thai standards...
 
 ---
 
-## Pan Kham Hom – The Street Ratchada
+## Food Court – The Street Ratchada
 *Din Daeng · Food Court*
 A pleasant, uncrowded food court; the Khao Soi stall is the highlight...
 → [Read the full review](/food/thailand/bangkok/street-food/pan-kham-hom/)
