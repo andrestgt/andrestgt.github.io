@@ -47,6 +47,11 @@ The highway heading south is in reasonably passable condition for the first 60 k
 
 Quezon is a pleasant, quiet little town with the feel of a large fishing village. It sits on an attractive natural harbour dotted with offshore islands, and many of the town’s houses stand on stilts over the water. As the ‘tourist’ hub of southern Palawan, Quezon has a whole range of basic accommodation, though that evening I was probably the only Westerner in town.
 
+<figure>
+  <img src="photos/Palawan2009-0035.jpg" alt="Quezon">
+  <em>Quezon</em>
+</figure>
+
 I spent the night just north of the centre at Villa Esperanza, which sounds far more luxurious than it was. The resort looks well kept and has a wonderful seafront location with lovely views over Quezon Bay, but the huts were very basic and run-down, and neither the shower nor the toilet flush worked; at 350 pesos it wasn’t expensive, though.
 
 Unfortunately I couldn’t visit the area’s two main attractions, the archaeologically significant Tabon Caves and the Robinson Islands off the coast, because they can only be reached by an expensive charter boat, and there were no other tourists around to share the hire with. But the area around Quezon has a few pretty spots on land too, especially along the dusty track that follows the coast northwards.
@@ -60,6 +65,11 @@ After 8 km you can leave the motorbike at Tamerbong Bridge and take a pleasant h
   </figure>
 
 Back at the bridge I followed the road for a few more kilometres until a turn-off led to Lasyap Beach, a stunning, deserted bay, its grey sand fringed by coconut palms. This is definitely one of the least developed regions of the Philippines, and as a tourist, people still stare at you in disbelief.
+
+<figure>
+  <img src="photos/Palawan2009-0048.jpg" alt="Lasyap Beach">
+  <em>Lasyap Beach</em>
+</figure>
 
 On the way back to Puerto I made a short stop at the hot springs of San Isidro (KM 112). The place is dusty and poorly maintained, but I had the pool, warm as bathwater, entirely to myself, and a quick dip felt great after the long, bumpy motorbike ride.
 
