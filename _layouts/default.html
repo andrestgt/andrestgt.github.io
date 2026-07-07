@@ -31,6 +31,11 @@
     }
 
     html,body { height: 100%; }
+    
+    /* Smooth Scrolling */
+    html {
+      scroll-behavior: smooth;
+    }
 
     /* ---------------------------
        GLOBAL BASE
@@ -66,9 +71,13 @@
     figure { margin: 1.5rem auto; text-align: center; }
     figcaption { font-family: "DM Sans", sans-serif; font-size: .82rem; color: var(--text-muted); margin-top: .5rem; letter-spacing: 0.01em; }
 
+    /* ---------------------------
+       SITE NAVIGATION (CLASSY REFINEMENTS)
+       --------------------------- */
+
     nav.site-nav {
       border-bottom: 1px solid var(--rule);
-      padding: .6rem 0 .8rem;
+      padding: .8rem 0;
       margin-bottom: 2.5rem;
       text-align: right;
       position: relative;
@@ -78,14 +87,41 @@
 
     nav.site-nav a {
       font-family: "DM Sans", system-ui, sans-serif;
-      font-size: .92rem;
-      font-weight: 500;
-      margin-left: 1rem;
+      font-size: 0.75rem; /* Refined size */
+      font-weight: 600;
+      margin-left: 1.5rem;
       color: var(--text-primary);
-      letter-spacing: -0.01em;
-      transition: color 0.2s ease;
+      letter-spacing: 0.08em; /* Editorial tracking */
+      text-transform: uppercase; /* Magazine style */
+      text-decoration: none;
+      transition: color 0.3s ease;
+      position: relative;
+      display: inline-block;
+      padding-bottom: 4px; /* Room for underline */
     }
-    nav.site-nav a:hover { color: var(--accent); text-decoration: none; }
+
+    /* Smooth animated underline */
+    nav.site-nav a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 0;
+      height: 1px;
+      background-color: currentColor; /* Adapts to text color */
+      transition: width 0.35s ease-in-out;
+    }
+
+    nav.site-nav a:hover,
+    nav.site-nav a.active {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    nav.site-nav a:hover::after,
+    nav.site-nav a.active::after {
+      width: 100%;
+    }
 
     main#top {
       max-width: var(--content-max);
@@ -671,29 +707,39 @@
     body.food.food-city.tainan .site-hero                  { background-image: url("/photos/background/tainanhero.jpg"); }
     body.food.food-city.taipei .site-hero                  { background-image: url("/photos/background/taipeihero.jpg"); }
 
-    /* Floating nav */
+    /* ---------------------------
+       FROSTED GLASS PILL NAV (HERO PAGES)
+       --------------------------- */
+
     body.food.index nav.site-nav,
     body.food.food-country nav.site-nav,
     body.food.food-city nav.site-nav,
     body.food.food-category nav.site-nav,
     body.travels.index nav.site-nav {
       position: absolute;
-      top: 1.1rem;
+      top: 1.5rem;
       right: 1.5rem;
       left: auto;
       text-align: right;
       border-bottom: none;
       z-index: 30;
-      background: transparent;
-      padding: 0;
+      background: rgba(28, 25, 23, 0.18); /* Subtle dark tint */
+      backdrop-filter: blur(12px); /* Frosted glass effect */
+      -webkit-backdrop-filter: blur(12px);
+      padding: 0.5rem 1.5rem;
+      border-radius: 50px; /* Pill shape */
       margin: 0;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.05);
     }
 
     body.food.index nav.site-nav a,
     body.food.food-country nav.site-nav a,
     body.food.food-city nav.site-nav a,
     body.food.food-category nav.site-nav a,
-    body.travels.index nav.site-nav a { color: #fff; }
+    body.travels.index nav.site-nav a { 
+      color: #fff; 
+    }
 
     .site-hero *,
     .site-hero *::before,
@@ -867,12 +913,13 @@
         line-height: 1.6;
       }
 
+      /* Desktop Adjustments for Hero Nav */
       body.food.index nav.site-nav,
       body.food.food-country nav.site-nav,
       body.food.food-city nav.site-nav,
       body.food.food-category nav.site-nav,
       body.travels.index nav.site-nav {
-        top: 3rem;
+        top: 2.5rem;
         right: 3rem;
       }
 
@@ -881,9 +928,7 @@
       body.food.food-city nav.site-nav a,
       body.food.food-category nav.site-nav a,
       body.travels.index nav.site-nav a {
-        font-size: 1rem;
-        margin-left: 1.5rem;
-        font-weight: 500;
+        font-size: 0.8rem;
       }
 
       .page-body {
@@ -935,10 +980,10 @@
 }">
 
   <nav class="site-nav">
-    <a href="/">Home</a>
-    <a href="/travels/">Travels</a>
-    <a href="/food/">Food</a>
-    <a href="/about/">About</a>
+    <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+    <a href="/travels/" class="{% if page.url contains '/travels/' %}active{% endif %}">Travels</a>
+    <a href="/food/" class="{% if page.url contains '/food/' %}active{% endif %}">Food</a>
+    <a href="/about/" class="{% if page.url contains '/about/' %}active{% endif %}">About</a>
   </nav>
 
 {% unless page.review or page.section == 'about' %}
