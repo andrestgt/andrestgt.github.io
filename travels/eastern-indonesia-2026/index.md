@@ -493,19 +493,10 @@ A round-the-island snorkelling trip that includes these sites as well as another
 Everything changed on the 5th of March with the year’s first arrival of the speedboat from Ambon. As it happened, not just the speedboat arrived that day, but three ships in total. Two large Pelni vessels came into the harbour as well. It seemed that this date marked the beginning of the peak tourist season, and it also appeared to change the attitude of the locals almost overnight.
 Suddenly it became much easier to find something to eat or drink during the day. People welcomed you instead of ignoring you. It also seemed that the chef at Cilu Bintang had returned from his holiday, because we joined the evening buffet there.
 
-<div class="photo-row">
-
-  <figure>
-    <img src="/photos/travelogues/banda14.jpg" alt="Bandaneira">
-    <em>Bandaneira</em>
-  </figure>
-
-  <figure>
-    <img src="/photos/travelogues/banda15.jpg" alt="Bandaneira">
-    <em>Bandaneira</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="/photos/travelogues/banda14.jpg" alt="Bandaneira">
+  <em>Bandaneira</em>
+</figure>
 
 Cilu Bintang is the most atmospheric place in town anyway, but the quality of the buffet was considerably better than I expected. For 200K you get an all-you-can-eat spread that includes a delicious tuna ball soup, several kinds of grilled fish, prawns, satay lilit, juicy beef satay, tempeh goreng, aubergines with kenari nut sauce, salad, rice and fried rice. It was a really great buffet.
 The place was also quite busy, which made it clear that the arrival of those boats had changed things dramatically. In a single day, the number of tourists on the island seemed to have tripled, if not more.
