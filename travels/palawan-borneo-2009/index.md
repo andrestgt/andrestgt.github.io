@@ -211,6 +211,11 @@ The bus ride up to El Nido is notorious among travellers, and for good reason. B
 
 Accommodation in El Nido is mercilessly overpriced by Palawan standards; on the beach you can hardly find anything under 800 pesos, even though the standard isn’t any better than elsewhere. I didn’t give up and eventually found a sea-view room in a prime spot for 400 pesos at Ralfs Bar. The room itself was extremely basic, and in the ground-floor bathroom the shower water was pumped from a well, but the views were fantastic.
 
+<figure>
+  <img src="photos/Palawan2009-0136.jpg" alt="El Nido - Ralf's">
+  <em>El Nido - Ralf's</em>
+</figure>
+
 El Nido itself is a typically Filipino small town in a magnificent setting, framed by high limestone cliffs with views out to the islands of the Bacuit Archipelago. Thanks to tourism there are a few pleasant cafés and beach restaurants, though prices are fairly high. Here a San Miguel costs from 50 pesos upwards, and a meal is about twice as expensive as in Puerto.
 
 Alternative is absolutely worth visiting for the view and the cosy open-air cubicles with seat cushions, by far the prettiest place in El Nido, with a creative menu. The views and the atmosphere are better than the food, though.
