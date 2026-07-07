@@ -383,6 +383,11 @@ Since by far the cheapest way back from Palawan to Manila was a Zest Air flight 
 
 The boat trip from El Nido to Coron took seven hours and was very expensive (PHP 2,200), because it was a medium-sized bangka carrying tourists only. That said, it was a very pleasant crossing: there were only five of us on the boat, the sea was calm in perfect sunshine, and all the way you had views of the many islands of the archipelago, some little more than sparsely vegetated rocks, others beautiful with palm-lined beaches.
 
+<figure>
+  <img src="photos/Palawan2009-0294.jpg" alt="Boat Trip to Coron">
+  <em>Boat Trip to Coron</em>
+</figure>
+
 Coron town itself, despite the flight connection to Manila, has the wonderful atmosphere of a place at the end of the world and is one of the more attractive little towns in the country, with very friendly locals and an authentic feel. Prices here are also very low. Coron would be well off most tourists’ radar if there weren’t numerous shipwrecks off the coast drawing a steadily growing community of divers. That’s also why this unspoilt, remote place has two surprisingly good expat-run restaurants: La Sirenetta, an Italian with perfectly decent pizzas, and Bistro Coron, which serves delicacies such as sashimi and mousse au chocolat.
 
 <figure>
