@@ -129,6 +129,20 @@ The easy way, chosen by 90% of the mostly local tourists who are brought in by t
 
 The far nicer, if more strenuous, way is to hike through the national park to the cave entrance about 5 km away. Two trails have been laid out so you don’t have to return the same way. Neither is a stroll: they’re sweaty hikes on occasionally steep jungle paths. The difference between the easier Monkey Trail, which I took on the way there, and the more demanding Jungle Trail, which I chose for the return, is that the Monkey Trail is fitted out with steps, railings and concrete stairways, while the Jungle Trail follows rough, bumpy and, in places, very steep paths in a more natural state, which I wouldn’t recommend after a downpour. Both trails run through dense vegetation: the Monkey Trail stays near the coast, where you pass a beautiful, deserted bay with white sand, while the Jungle Trail cuts inland through a sea of lianas and roots.
 
+<div class="photo-row">
+
+  <figure>
+      <img src="photos/Palawan2009-0093.jpg" alt="Sabang">
+      <em>Sabang</em>
+    </figure>
+
+  <figure>
+      <img src="photos/Palawan2009-0097.jpg" alt="Sabang">
+      <em>Sabang</em>
+    </figure>
+
+</div>
+
 First, though, you have to walk about two kilometres along the beach and over a headland to the park office and register before the trails split.
 
 From there it’s a steep flight of steps down to the cave entrance, through an impressive karst forest.
