@@ -16,11 +16,11 @@ One of the few remnants of old Malate, this cozy little pub still has its charm,
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/oarhouse-pub-2.jpg" alt="Oarhouse Pub">
-  <figcaption>Oarhouse Pub</figcaption>
+  <figcaption>Sizzling Sisig</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/oarhouse-pub-3.jpg" alt="Oarhouse Pub">
-  <figcaption>Oarhouse Pub</figcaption>
+  <figcaption>Kinilaw</figcaption>
 </figure>
 </div>
 

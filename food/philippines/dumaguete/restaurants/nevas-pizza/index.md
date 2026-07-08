@@ -8,7 +8,7 @@ subtitle: Hibbard Ave, Dumaguete · Italian
 
 <figure>
   <img src="/photos/philippines/dumaguete/nevas-pizza-1.jpg" alt="Neva's Pizza">
-  <figcaption>Neva's Pizza</figcaption>
+  <figcaption>Beef Pizza</figcaption>
 </figure>
 
 I already loved Neva's back in my backpacker days, when their wood-fired kuripot pizzas were probably among the cheapest on earth and still really tasty. Nowadays it remains excellent value and a recommendation for anyone travelling on a budget.

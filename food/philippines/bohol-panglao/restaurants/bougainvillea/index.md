@@ -20,40 +20,40 @@ Outside of fancy tapas bars in the big cities you will not find better Spanish f
 </figure>
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-3.jpg" alt="Bougainvillea Spanish Restaurant">
-  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+  <figcaption>Gambas al Ajillo</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-4.jpg" alt="Bougainvillea Spanish Restaurant">
-  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+  <figcaption>Croquetas</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-5.jpg" alt="Bougainvillea Spanish Restaurant">
-  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+  <figcaption>Calamares</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-6.jpg" alt="Bougainvillea Spanish Restaurant">
-  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+  <figcaption>Chorizo al Ajillo</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-7.jpg" alt="Bougainvillea Spanish Restaurant">
-  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+  <figcaption>Sardinas</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-8.jpg" alt="Bougainvillea Spanish Restaurant">
-  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+  <figcaption>Patatas Bravas</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/bohol-panglao/bougainvillea-9.jpg" alt="Bougainvillea Spanish Restaurant">
-  <figcaption>Bougainvillea Spanish Restaurant</figcaption>
+  <figcaption>Jamón Ibérico</figcaption>
 </figure>
 </div>
 

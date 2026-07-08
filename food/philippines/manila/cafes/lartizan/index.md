@@ -15,7 +15,7 @@ Lartizan goes heavily for the rococo aesthetic, all ornate crockery, silver cutl
 
 <figure>
   <img src="/photos/philippines/manila/lartizan-2.jpg" alt="Lartizan">
-  <figcaption>Lartizan</figcaption>
+  <figcaption>Fatty Chicken Liver Paté</figcaption>
 </figure>
 
 ## Ratings

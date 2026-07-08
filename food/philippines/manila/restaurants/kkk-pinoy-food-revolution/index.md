@@ -8,7 +8,7 @@ subtitle: SM North EDSA, Quezon City · Filipino
 
 <figure>
   <img src="/photos/philippines/manila/kkk-pinoy-food-revolution-1.jpg" alt="KKK Pinoy Food Revolution">
-  <figcaption>KKK Pinoy Food Revolution</figcaption>
+  <figcaption>Prawn Pinakbet</figcaption>
 </figure>
 
 Despite the dramatic name, there is nothing particularly revolutionary here. The food is decent enough but fairly forgettable, and the prices feel slightly too high for what arrives on the table. The sinuglaw in particular was underwhelming.

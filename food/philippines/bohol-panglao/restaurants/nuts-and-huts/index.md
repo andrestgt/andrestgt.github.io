@@ -28,7 +28,7 @@ Nuts & Huts is a beautiful, peaceful place in a lush riverside setting. Consider
 </figure>
 <figure>
   <img src="/photos/philippines/bohol-panglao/nuts-and-huts-5.jpg" alt="Nuts & Huts">
-  <figcaption>Nuts & Huts</figcaption>
+  <figcaption>Chicken Curry</figcaption>
 </figure>
 </div>
 

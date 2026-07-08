@@ -8,7 +8,7 @@ subtitle: Rizal Boulevard, Dumaguete · International
 
 <figure>
   <img src="/photos/philippines/dumaguete/casablanca-1.jpg" alt="Casablanca Restaurant">
-  <figcaption>Casablanca Restaurant</figcaption>
+  <figcaption>Lamb with Mashed Potatoes</figcaption>
 </figure>
 
 I have been frequenting Casablanca for more than a decade now and never had a bad meal. The Austrian owner is a proper restaurateur and knows his business.
@@ -28,18 +28,18 @@ Casablanca is quite simply a must visit for everyone who likes wine and good foo
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/casablanca-2.jpg" alt="Casablanca Restaurant">
-  <figcaption>Casablanca Restaurant</figcaption>
+  <figcaption>Seared Tuna</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/dumaguete/casablanca-3.jpg" alt="Casablanca Restaurant">
-  <figcaption>Casablanca Restaurant</figcaption>
+  <figcaption>Lasagne</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/casablanca-4.jpg" alt="Casablanca Restaurant">
-  <figcaption>Casablanca Restaurant</figcaption>
+  <figcaption>Tuna steak</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/dumaguete/casablanca-5.jpg" alt="Casablanca Restaurant">

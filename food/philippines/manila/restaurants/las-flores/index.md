@@ -20,22 +20,22 @@ With tapas prices around 400 Php, Las flores is pricey even by BGC standards but
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/las-flores-2.jpg" alt="Las Flores">
-  <figcaption>Las Flores</figcaption>
+  <figcaption>Scallop Ceviche with Jamón Ibérico</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/las-flores-3.jpg" alt="Las Flores">
-  <figcaption>Las Flores</figcaption>
+  <figcaption>Tuna Escabeche</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/las-flores-4.jpg" alt="Las Flores">
-  <figcaption>Las Flores</figcaption>
+  <figcaption>Pulpo Gallega</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/las-flores-5.jpg" alt="Las Flores">
-  <figcaption>Las Flores</figcaption>
+  <figcaption>Beef with porcini and pine nuts</figcaption>
 </figure>
 </div>
 

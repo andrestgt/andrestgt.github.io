@@ -16,11 +16,11 @@ By local standards this should be the ideal café: comfortable seating, quiet at
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/bohol-panglao/tamper-coffee-2.jpg" alt="Tamper Coffee & Brunch">
-  <figcaption>Tamper Coffee & Brunch</figcaption>
+  <figcaption>Eggs Benedict</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/bohol-panglao/tamper-coffee-3.jpg" alt="Tamper Coffee & Brunch">
-  <figcaption>Tamper Coffee & Brunch</figcaption>
+  <figcaption>Longsilog</figcaption>
 </figure>
 </div>
 

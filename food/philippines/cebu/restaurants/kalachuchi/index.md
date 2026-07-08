@@ -8,7 +8,7 @@ subtitle: Mactan, Cebu · Asian, Filipino
 
 <figure>
   <img src="/photos/philippines/cebu/kalachuchi-4.jpg" alt="Kalachuchi Fusion Cuisine & Grill">
-  <figcaption>Kalachuchi Fusion Cuisine & Grill</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 
 Kalachuchi is a pleasant little garden restaurant serving reasonably priced pan-Asian food in an area not exactly overflowing with good dining options. The stuffed squid is excellent, the Taiwanese dumplings are very good too, and overall it's an easy place to recommend around Mactan.
@@ -16,11 +16,11 @@ Kalachuchi is a pleasant little garden restaurant serving reasonably priced pan-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/cebu/kalachuchi-2.jpg" alt="Kalachuchi Fusion Cuisine & Grill">
-  <figcaption>Kalachuchi Fusion Cuisine & Grill</figcaption>
+  <figcaption>Xiao Long Bao</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/cebu/kalachuchi-3.jpg" alt="Kalachuchi Fusion Cuisine & Grill">
-  <figcaption>Kalachuchi Fusion Cuisine & Grill</figcaption>
+  <figcaption>Calamari Rings</figcaption>
 </figure>
 </div>
 

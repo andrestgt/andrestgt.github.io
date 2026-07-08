@@ -16,7 +16,7 @@ Claude's Café de Ville is a magnificent restaurant housed in an old mansion rig
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/claudes-le-cafe-de-ville-2.jpg" alt="Claude's Le Café de Ville">
-  <figcaption>Claude's Le Café de Ville</figcaption>
+  <figcaption>Paté Forestier</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/claudes-le-cafe-de-ville-3.jpg" alt="Claude's Le Café de Ville">
@@ -27,17 +27,17 @@ Claude's Café de Ville is a magnificent restaurant housed in an old mansion rig
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/claudes-le-cafe-de-ville-4.jpg" alt="Claude's Le Café de Ville">
-  <figcaption>Claude's Le Café de Ville</figcaption>
+  <figcaption>Foie Gras Poêlé</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/claudes-le-cafe-de-ville-5.jpg" alt="Claude's Le Café de Ville">
-  <figcaption>Claude's Le Café de Ville</figcaption>
+  <figcaption>Tête de Veau</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/davao/claudes-le-cafe-de-ville-6.jpg" alt="Claude's Le Café de Ville">
-  <figcaption>Claude's Le Café de Ville</figcaption>
+  <figcaption>Couscous Royale</figcaption>
 </figure>
 
 ## Ratings

@@ -7,7 +7,7 @@ subtitle: Rizal Boulevard, Dumaguete · Bakery, Café
 ---
 <figure>
   <img src="/photos/philippines/dumaguete/sans-rival-boulevard-4.jpg" alt="Sans Rival – Boulevard">
-  <figcaption>Sans Rival – Boulevard</figcaption>
+  <figcaption>Mango  Crêpes</figcaption>
 </figure>
 
 Nice boulevard location and the cakes are perfectly acceptable, but almost everything else is disappointing. The breakfasts, savoury food and coffees are all underwhelming. Best treated purely as a cake stop.
@@ -15,11 +15,11 @@ Nice boulevard location and the cakes are perfectly acceptable, but almost every
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/sans-rival-boulevard-2.jpg" alt="Sans Rival – Boulevard">
-  <figcaption>Sans Rival – Boulevard</figcaption>
+  <figcaption>Filipino Breakfast</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/dumaguete/sans-rival-boulevard-3.jpg" alt="Sans Rival – Boulevard">
-  <figcaption>Sans Rival – Boulevard</figcaption>
+  <figcaption>Bangsilog</figcaption>
 </figure>
 </div>
 

@@ -21,14 +21,14 @@ More spacious and comfortable than the BGC and Salcedo branches. The WiFi is poo
 </figure>
 <figure>
   <img src="/photos/philippines/manila/wildflour-rada-5.jpg" alt="Wildflour – Legazpi Village">
-  <figcaption>Wildflour – Legazpi Village</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/wildflour-rada-6.jpg" alt="Wildflour – Legazpi Village">
-  <figcaption>Wildflour – Legazpi Village</figcaption>
+  <figcaption>Albondigas</figcaption>
 </figure>
 
 ## Ratings

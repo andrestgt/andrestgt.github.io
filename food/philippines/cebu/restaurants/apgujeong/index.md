@@ -8,7 +8,7 @@ subtitle: Mactan, Cebu · Korean
 
 <figure>
   <img src="/photos/philippines/cebu/apgujeong-1.jpg" alt="Apgujeong">
-  <figcaption>Apgujeong</figcaption>
+  <figcaption>Korean Appetisers</figcaption>
 </figure>
 
 Apgujeong serves very authentic Korean food and is clearly popular with the local Korean community as well. Prices are a little on the high side, but the seafood pancake and mandu are excellent and worth coming for.
@@ -16,33 +16,33 @@ Apgujeong serves very authentic Korean food and is clearly popular with the loca
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/cebu/apgujeong-2.jpg" alt="Apgujeong">
-  <figcaption>Apgujeong</figcaption>
+  <figcaption>Spicy Squid</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/cebu/apgujeong-3.jpg" alt="Apgujeong">
-  <figcaption>Apgujeong</figcaption>
+  <figcaption>Bibimbap</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/cebu/apgujeong-4.jpg" alt="Apgujeong">
-  <figcaption>Apgujeong</figcaption>
+  <figcaption>Crab Stew</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/cebu/apgujeong-5.jpg" alt="Apgujeong">
-  <figcaption>Apgujeong</figcaption>
+  <figcaption>Spicy Squid</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/cebu/apgujeong-6.jpg" alt="Apgujeong">
-  <figcaption>Apgujeong</figcaption>
+  <figcaption>Haemul Pajeon</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/cebu/apgujeong-7.jpg" alt="Apgujeong">
-  <figcaption>Apgujeong</figcaption>
+  <figcaption>Mandu</figcaption>
 </figure>
 </div>
 

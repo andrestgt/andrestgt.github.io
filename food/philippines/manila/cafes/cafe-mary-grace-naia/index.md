@@ -8,7 +8,7 @@ subtitle: NAIA Terminal 3, Pasay · Café
 
 <figure>
   <img src="/photos/philippines/manila/cafe-mary-grace-naia-1.jpg" alt="Café Mary Grace – NAIA Terminal 3">
-  <figcaption>Café Mary Grace – NAIA Terminal 3</figcaption>
+  <figcaption>Apple Crumble</figcaption>
 </figure>
 
 One of the more comfortable airport cafés around and a good place to wait for a flight. The food is surprisingly decent, the cappuccino perfectly acceptable, and the prices reasonable for an airport. The Vigan longganisa is particularly good and refreshingly unsweetened.
@@ -16,11 +16,11 @@ One of the more comfortable airport cafés around and a good place to wait for a
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/cafe-mary-grace-naia-2.jpg" alt="Café Mary Grace – NAIA Terminal 3">
-  <figcaption>Café Mary Grace – NAIA Terminal 3</figcaption>
+  <figcaption>Goat Cheese Sandwich</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/cafe-mary-grace-naia-3.jpg" alt="Café Mary Grace – NAIA Terminal 3">
-  <figcaption>Café Mary Grace – NAIA Terminal 3</figcaption>
+  <figcaption>Longsilog</figcaption>
 </figure>
 </div>
 

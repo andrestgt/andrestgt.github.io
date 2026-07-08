@@ -8,7 +8,7 @@ subtitle: Kalibo, Aklan · Café
 
 <figure>
   <img src="/photos/philippines/boracay/latte-coffee-cafe-1.jpg" alt="Latte Coffee Cafe">
-  <figcaption>Latte Coffee Cafe</figcaption>
+  <figcaption>Lechon Kawali</figcaption>
 </figure>
 
 Air conditioned oasis in trike congested Kalibo. Part café, part resto. Prices are steep for the province, but you can't sneeze at a decent cup of coffee in this part of the world. Good food too, crispy lechon kawali is a winner.
@@ -16,11 +16,11 @@ Air conditioned oasis in trike congested Kalibo. Part café, part resto. Prices 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/boracay/latte-coffee-cafe-2.jpg" alt="Latte Coffee Cafe">
-  <figcaption>Latte Coffee Cafe</figcaption>
+  <figcaption>Chicken Curry</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/boracay/latte-coffee-cafe-3.jpg" alt="Latte Coffee Cafe">
-  <figcaption>Latte Coffee Cafe</figcaption>
+  <figcaption>Lechon Kawali</figcaption>
 </figure>
 </div>
 

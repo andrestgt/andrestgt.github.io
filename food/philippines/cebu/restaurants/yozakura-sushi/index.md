@@ -8,14 +8,14 @@ subtitle: Lapu-Lapu City, Mactan · Japanese
 
 <figure>
   <img src="/photos/philippines/cebu/yozakura-sushi-1.jpg" alt="Yozakura Sushi Bar">
-  <figcaption>Yozakura Sushi Bar</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 
 Yozakura left me with mixed feelings. The sashimi portions were small, fairly expensive, and not especially memorable. On the other hand, the eel "pizza" spring rolls were super delicious and excellent value.
 
 <figure>
   <img src="/photos/philippines/cebu/yozakura-sushi-2.jpg" alt="Yozakura Sushi Bar">
-  <figcaption>Yozakura Sushi Bar</figcaption>
+  <figcaption>Unagi Tempura</figcaption>
 </figure>
 
 ## Ratings

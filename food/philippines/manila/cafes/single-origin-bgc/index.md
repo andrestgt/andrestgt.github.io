@@ -14,7 +14,7 @@ subtitle: BGC, Taguig · Specialty Coffee
 
 <figure>
   <img src="/photos/philippines/manila/single-origin-bgc-2.jpg" alt="Single Origin – Bonifacio High Street">
-  <figcaption>Single Origin – Bonifacio High Street</figcaption>
+  <figcaption>Anchovy Flatbread</figcaption>
 </figure>
 
 The first time I visited here, they had just newly opened. It had a lot of potential, as well as some teething problems. Good service , quality products , but the cappuccino was served too hot and the flat bread dough should have been crispier.

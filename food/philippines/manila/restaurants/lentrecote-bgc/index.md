@@ -16,17 +16,17 @@ The food at L'entrecôte is good and the wine list is thoughtfully put together,
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/lentrecote-bgc-2.jpg" alt="L'entrecôte">
-  <figcaption>L'entrecôte</figcaption>
+  <figcaption>Fresh Oysters</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/lentrecote-bgc-3.jpg" alt="L'entrecôte">
-  <figcaption>L'entrecôte</figcaption>
+  <figcaption>Foie Gras Poêlé</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/manila/lentrecote-bgc-4.jpg" alt="L'entrecôte">
-  <figcaption>L'entrecôte</figcaption>
+  <figcaption>Crêpe Suzette</figcaption>
 </figure>
 
 ## Ratings

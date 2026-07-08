@@ -20,36 +20,36 @@ Belito's Vineyard is located just off busy Laurel St, but its rustic garden sett
 </figure>
 <figure>
   <img src="/photos/philippines/davao/belitos-3.jpg" alt="Belito's Vineyard">
-  <figcaption>Belito's Vineyard</figcaption>
+  <figcaption>Chicken Liver Paté</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/belitos-4.jpg" alt="Belito's Vineyard">
-  <figcaption>Belito's Vineyard</figcaption>
+  <figcaption>Prawn Kinilaw</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/belitos-5.jpg" alt="Belito's Vineyard">
-  <figcaption>Belito's Vineyard</figcaption>
+  <figcaption>Squid in its Ink</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/belitos-6.jpg" alt="Belito's Vineyard">
-  <figcaption>Belito's Vineyard</figcaption>
+  <figcaption>Lengua Estofado</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/belitos-7.jpg" alt="Belito's Vineyard">
-  <figcaption>Belito's Vineyard</figcaption>
+  <figcaption>Seafood salad</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/belitos-8.jpg" alt="Belito's Vineyard">
-  <figcaption>Belito's Vineyard</figcaption>
+  <figcaption>Lamb Stew</figcaption>
 </figure>
 </div>
 

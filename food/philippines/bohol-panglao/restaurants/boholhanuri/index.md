@@ -9,7 +9,7 @@ subtitle: Alona Beach, Panglao · Korean
 
 <figure>
   <img src="/photos/philippines/bohol-panglao/PH17-0023.jpg" alt="Boholhanuri">
-  <figcaption>Boholhanuri</figcaption>
+  <figcaption>Spicy Squid</figcaption>
 </figure>
 
 This is a fairly standard Korean restaurant with more of a canteen atmosphere than a cosy one, but the food is good and prices are more reasonable than at many other places around Alona. Free appetisers are included, mains hover around 300 Php, and the spicy squid is an easy recommendation.

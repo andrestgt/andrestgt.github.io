@@ -16,7 +16,7 @@ The Buzzz Café mostly caters to the local palate, so many dishes lean heavily t
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/bohol-panglao/the-buzzz-cafe-galleria-2.jpg" alt="The Buzzz Café – Galleria Luisa">
-  <figcaption>The Buzzz Café – Galleria Luisa</figcaption>
+  <figcaption>Squid Adobo</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/bohol-panglao/the-buzzz-cafe-galleria-3.jpg" alt="The Buzzz Café – Galleria Luisa">
@@ -26,7 +26,7 @@ The Buzzz Café mostly caters to the local palate, so many dishes lean heavily t
 
 <figure>
   <img src="/photos/philippines/bohol-panglao/the-buzzz-cafe-galleria-4.jpg" alt="The Buzzz Café – Galleria Luisa">
-  <figcaption>The Buzzz Café – Galleria Luisa</figcaption>
+  <figcaption>Chicken Noodle Soup</figcaption>
 </figure>
 
 ## Ratings

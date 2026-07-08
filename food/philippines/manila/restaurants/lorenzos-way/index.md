@@ -8,7 +8,7 @@ subtitle: BGC, Taguig · Filipino
 
 <figure>
   <img src="/photos/philippines/manila/lorenzos-way-1.jpg" alt="Lorenzo's Way">
-  <figcaption>Lorenzo's Way</figcaption>
+  <figcaption>Lengua Estofado</figcaption>
 </figure>
 
 Lorenzo's Way has been serving tasty upscale Filipino food for years and remains deservedly popular. Prices are high, but the quality is there. The lengua was excellent, although the callos leaned a little too salty for my taste. Best visited outside peak hours when the atmosphere is more relaxed.

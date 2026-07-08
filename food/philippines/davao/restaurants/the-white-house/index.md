@@ -34,7 +34,7 @@ Prices for food and wine are reasonable for such a fancy restaurant and the qual
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/the-white-house-4.jpg" alt="The White House">
-  <figcaption>The White House</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/the-white-house-5.jpg" alt="The White House">
@@ -45,7 +45,7 @@ Prices for food and wine are reasonable for such a fancy restaurant and the qual
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/the-white-house-6.jpg" alt="The White House">
-  <figcaption>The White House</figcaption>
+  <figcaption>Trio of Foie Gras</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/the-white-house-7.jpg" alt="The White House">
@@ -56,17 +56,17 @@ Prices for food and wine are reasonable for such a fancy restaurant and the qual
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/the-white-house-8.jpg" alt="The White House">
-  <figcaption>The White House</figcaption>
+  <figcaption>Honey Glazed Pork Belly</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/the-white-house-9.jpg" alt="The White House">
-  <figcaption>The White House</figcaption>
+  <figcaption>Grilled Seabass on Mushrooms</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/davao/the-white-house-10.jpg" alt="The White House">
-  <figcaption>The White House</figcaption>
+  <figcaption>Japanese Cheesecake</figcaption>
 </figure>
 
 ## Ratings

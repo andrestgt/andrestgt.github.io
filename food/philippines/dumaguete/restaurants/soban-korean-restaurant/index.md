@@ -18,17 +18,17 @@ I'm generally not too impressed with their appetisers (dry pancake, slightly too
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/soban-korean-restaurant-2.jpg" alt="Soban Korean Restaurant">
-  <figcaption>Soban Korean Restaurant</figcaption>
+  <figcaption>Korean Appetisers</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/dumaguete/soban-korean-restaurant-3.jpg" alt="Soban Korean Restaurant">
-  <figcaption>Soban Korean Restaurant</figcaption>
+  <figcaption>Kimchi Stew</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/dumaguete/soban-korean-restaurant-4.jpg" alt="Soban Korean Restaurant">
-  <figcaption>Soban Korean Restaurant</figcaption>
+  <figcaption>Kimbap</figcaption>
 </figure>
 
 ## Ratings

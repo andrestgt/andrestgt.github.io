@@ -15,7 +15,7 @@ Hole In The Wall is one of the most attractive food courts I've come across anyw
 
 <figure>
   <img src="/photos/philippines/manila/hole-in-the-wall-2.jpg" alt="Hole In The Wall">
-  <figcaption>Hole In The Wall</figcaption>
+  <figcaption>Pho Bo</figcaption>
 </figure>
 
 ## Ratings

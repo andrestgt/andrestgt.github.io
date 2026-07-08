@@ -25,8 +25,19 @@ PHOTOS_DIR = os.path.join(REPO_ROOT, "photos", "philippines")
 FOOD_DIR = os.path.join(REPO_ROOT, "food", "philippines")
 CACHE_FILE = r"C:\Users\andre\Desktop\ph_metadata_final.json"
 
+# Source photo folders for Philippines across different years
+PH_SOURCE_FOLDERS = [
+    r"I:\Pictures\Südostasien 2013\Philippines 2013",
+    r"I:\Pictures\Südostasien 2014\Philippines 2014",
+    r"I:\Pictures\Südostasien 2015\Philippines 2015",
+    r"I:\Pictures\Südostasien 2016\Philippines 2016",
+    r"I:\Pictures\Südostasien 2017\Philippines 2017",
+    r"I:\Pictures\Südostasien 2018\Philippines 2018",
+    r"I:\Pictures\Südostasien 2025\Philippines 2025",
+]
+
 # People names to filter out from dish names
-PEOPLE_NAMES = {"Linh Truong", "André", "Andre", "Linh", "Truong"}
+PEOPLE_NAMES = {"Linh Truong", "André", "Andre", "Linh", "Truong", "Achim Mohr", "Jen Salcedo"}
 
 
 def load_cache():

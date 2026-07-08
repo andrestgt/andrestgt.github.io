@@ -38,11 +38,11 @@ Nihonbashitei, whether the Makati or the Malate branches, is THE place in Manila
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/nihonbashitei-6.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
+  <figcaption>Spicy Tuna Roll</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/nihonbashitei-7.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
+  <figcaption>Salmon and Maguro Nigiri</figcaption>
 </figure>
 </div>
 
@@ -53,29 +53,29 @@ Nihonbashitei, whether the Makati or the Malate branches, is THE place in Manila
 </figure>
 <figure>
   <img src="/photos/philippines/manila/nihonbashitei-9.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
+  <figcaption>Salmon and Maguro Nigiri</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/nihonbashitei-10.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
+  <figcaption>Salmon and Maguro Nigiri</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/nihonbashitei-11.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
+  <figcaption>Takoyaki</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/nihonbashitei-14.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
+  <figcaption>Takoyaki</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/nihonbashitei-13.jpg" alt="Nihonbashitei">
-  <figcaption>Nihonbashitei</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Rockwell, Makati · Café
 
 <figure>
   <img src="/photos/philippines/manila/refinery-1.jpg" alt="Refinery">
-  <figcaption>Refinery</figcaption>
+  <figcaption>Salmon eggs benedict</figcaption>
 </figure>
 
 Refinery is probably the best place in the area for a proper cappuccino. The café itself is attractive and comfortable, though definitely expensive. The food menu is fairly short and safe, but the salmon Benedict is very well done.
@@ -20,7 +20,7 @@ Refinery is probably the best place in the area for a proper cappuccino. The caf
 </figure>
 <figure>
   <img src="/photos/philippines/manila/refinery-3.jpg" alt="Refinery">
-  <figcaption>Refinery</figcaption>
+  <figcaption>Salmon eggs benedict</figcaption>
 </figure>
 </div>
 

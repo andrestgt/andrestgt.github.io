@@ -8,7 +8,7 @@ subtitle: EJ Blanco Drive, Dumaguete · Filipino
 
 <figure>
   <img src="/photos/philippines/dumaguete/lantaw-native-restaurant-1.jpg" alt="Lantaw Native Restaurant">
-  <figcaption>Lantaw Native Restaurant</figcaption>
+  <figcaption>Roasted Pork Belly</figcaption>
 </figure>
 
 Large menu of Filipino favourites served at very fair prices considering the quality and location. The squid sisig and tuna belly are particularly good, and even the halo-halo is nicely done. Probably the best place for Filipino food in Dumaguete.
@@ -16,11 +16,11 @@ Large menu of Filipino favourites served at very fair prices considering the qua
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/lantaw-native-restaurant-2.jpg" alt="Lantaw Native Restaurant">
-  <figcaption>Lantaw Native Restaurant</figcaption>
+  <figcaption>Grilled Tuna Belly</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/dumaguete/lantaw-native-restaurant-3.jpg" alt="Lantaw Native Restaurant">
-  <figcaption>Lantaw Native Restaurant</figcaption>
+  <figcaption>Lechon Kawali</figcaption>
 </figure>
 </div>
 

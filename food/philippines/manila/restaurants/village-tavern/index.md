@@ -16,17 +16,17 @@ Village Tavern is a surprisingly good option on Bonifacio High Street. It's a cl
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/village-tavern-2.jpg" alt="Village Tavern">
-  <figcaption>Village Tavern</figcaption>
+  <figcaption>Goat Cheese Cigars</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/village-tavern-3.jpg" alt="Village Tavern">
-  <figcaption>Village Tavern</figcaption>
+  <figcaption>Chorizo Croquettes</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/manila/village-tavern-4.jpg" alt="Village Tavern">
-  <figcaption>Village Tavern</figcaption>
+  <figcaption>Braised Lamb on Mash</figcaption>
 </figure>
 
 ## Ratings

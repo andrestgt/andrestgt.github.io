@@ -25,11 +25,11 @@ Easily the best restaurant on Siquijor and proof that the island's dining scene 
 
 <figure>
   <img src="/photos/philippines/siquijor/baha-bar-6.jpg" alt="Baha Ba'r">
-  <figcaption>Baha Ba'r</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/siquijor/baha-bar-7.jpg" alt="Baha Ba'r">
-  <figcaption>Baha Ba'r</figcaption>
+  <figcaption>Seared tuna with Red Rice</figcaption>
 </figure>
 </div>
 

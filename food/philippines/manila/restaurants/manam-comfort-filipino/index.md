@@ -8,7 +8,7 @@ subtitle: Mall of Asia, Pasay · Filipino
 
 <figure>
   <img src="/photos/philippines/manila/manam-comfort-filipino-1.jpg" alt="Manam Comfort Filipino">
-  <figcaption>Manam Comfort Filipino</figcaption>
+  <figcaption>Laing</figcaption>
 </figure>
 
 Good choice for Filipino food in MOA. They have good versions of all the local favourites such as laing, kinilaw, sisig and even lengua estufada, all at mid range prices. This is a good place to get acquainted with Filipino food which doesn't need to be as bad as its reputation, so it is a good introduction to Filipino cuisine for anyone still sceptical about it.
@@ -16,11 +16,11 @@ Good choice for Filipino food in MOA. They have good versions of all the local f
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/manam-comfort-filipino-2.jpg" alt="Manam Comfort Filipino">
-  <figcaption>Manam Comfort Filipino</figcaption>
+  <figcaption>Kinilaw</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/manam-comfort-filipino-3.jpg" alt="Manam Comfort Filipino">
-  <figcaption>Manam Comfort Filipino</figcaption>
+  <figcaption>Kare- Kare</figcaption>
 </figure>
 </div>
 

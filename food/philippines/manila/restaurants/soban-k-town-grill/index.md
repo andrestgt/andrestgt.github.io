@@ -8,7 +8,7 @@ subtitle: SM North EDSA, Quezon City · Korean BBQ
 
 <figure>
   <img src="/photos/philippines/manila/soban-k-town-grill-1.jpg" alt="Soban K-Town Grill">
-  <figcaption>Soban K-Town Grill</figcaption>
+  <figcaption>Korean Barbecue</figcaption>
 </figure>
 
 Good Korean barbecue restaurant with fair mid-range pricing and a generous spread of unlimited side dishes. Around 2000 Php is enough to feed four hungry people quite comfortably.

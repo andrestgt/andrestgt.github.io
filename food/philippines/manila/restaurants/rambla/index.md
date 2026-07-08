@@ -20,18 +20,18 @@ Stylish and rather upscale Rockwell restaurant serving creative food, affordable
 </figure>
 <figure>
   <img src="/photos/philippines/manila/rambla-3.jpg" alt="Rambla">
-  <figcaption>Rambla</figcaption>
+  <figcaption>Foie Gras Empanadas</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/rambla-4.jpg" alt="Rambla">
-  <figcaption>Rambla</figcaption>
+  <figcaption>Foie Gras Empanadas</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/rambla-5.jpg" alt="Rambla">
-  <figcaption>Rambla</figcaption>
+  <figcaption>Croquetas de Jamón</figcaption>
 </figure>
 </div>
 
@@ -42,13 +42,13 @@ Stylish and rather upscale Rockwell restaurant serving creative food, affordable
 </figure>
 <figure>
   <img src="/photos/philippines/manila/rambla-7.jpg" alt="Rambla">
-  <figcaption>Rambla</figcaption>
+  <figcaption>Fresh Oysters</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/manila/rambla-8.jpg" alt="Rambla">
-  <figcaption>Rambla</figcaption>
+  <figcaption>Truffle Ice Cream</figcaption>
 </figure>
 
 ## Ratings

@@ -15,7 +15,7 @@ Some dishes are a little too sweet in typical Filipino fashion, but overall the 
 
 <figure>
   <img src="/photos/philippines/bohol-panglao/the-buzzz-cafe-island-city-mall-2.jpg" alt="The Buzzz Café – Island City Mall">
-  <figcaption>The Buzzz Café – Island City Mall</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 
 ## Ratings

@@ -17,7 +17,7 @@ Looks like a tourist trap but looks can be deceiving. This is one of the best pl
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/boracay/aria-restaurant-1.jpg" alt="Aria Restaurant">
-  <figcaption>Aria Restaurant</figcaption>
+  <figcaption>Pizza Quattro Formaggi</figcaption>
 </figure>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="flex: 1; min-width: 200px;">

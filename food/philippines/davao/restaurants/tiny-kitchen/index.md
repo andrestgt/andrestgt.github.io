@@ -20,11 +20,11 @@ They don't seem to serve wine there, but i didn't ask for corkage fees, so if yo
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/davao/tiny-kitchen-2.jpg" alt="Tiny Kitchen & Dulce Vida">
-  <figcaption>Tiny Kitchen & Dulce Vida</figcaption>
+  <figcaption>Tripe Stew</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/davao/tiny-kitchen-3.jpg" alt="Tiny Kitchen & Dulce Vida">
-  <figcaption>Tiny Kitchen & Dulce Vida</figcaption>
+  <figcaption>Lengua Estofado</figcaption>
 </figure>
 </div>
 

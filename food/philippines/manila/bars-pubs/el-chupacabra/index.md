@@ -16,11 +16,11 @@ El Chupacabra remains one of the best hangouts in Makati and is deservedly popul
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/el-chupacabra-2.jpg" alt="El Chupacabra">
-  <figcaption>El Chupacabra</figcaption>
+  <figcaption>Lengua Taco</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/el-chupacabra-3.jpg" alt="El Chupacabra">
-  <figcaption>El Chupacabra</figcaption>
+  <figcaption>Sisig Taco</figcaption>
 </figure>
 </div>
 

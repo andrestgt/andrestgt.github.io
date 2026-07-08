@@ -15,7 +15,7 @@ Cafe del Sol serves good coffee, although the espresso is slightly on the weak s
 
 <figure>
   <img src="/photos/philippines/boracay/cafe-del-sol-2.jpg" alt="Cafe del Sol">
-  <figcaption>Cafe del Sol</figcaption>
+  <figcaption>Mango Cheese Cake</figcaption>
 </figure>
 
 ## Ratings

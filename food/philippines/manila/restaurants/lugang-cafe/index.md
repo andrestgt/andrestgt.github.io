@@ -16,17 +16,17 @@ This outlet in SM Aura's Skypark looks very inviting with its chandeliers and sh
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/manila/lugang-cafe-2.jpg" alt="Lugang Café">
-  <figcaption>Lugang Café</figcaption>
+  <figcaption>Xiao Long Bao</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/manila/lugang-cafe-3.jpg" alt="Lugang Café">
-  <figcaption>Lugang Café</figcaption>
+  <figcaption>Jiaozi</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/manila/lugang-cafe-4.jpg" alt="Lugang Café">
-  <figcaption>Lugang Café</figcaption>
+  <figcaption>Spicy Wonton</figcaption>
 </figure>
 
 ## Ratings

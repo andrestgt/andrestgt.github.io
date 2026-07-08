@@ -16,11 +16,11 @@ Most people probably come to Giligan's for the cheap beer promotions, but the fo
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/cebu/gilligans-2.jpg" alt="Giligan's">
-  <figcaption>Giligan's</figcaption>
+  <figcaption>Sizzling Squid</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/cebu/gilligans-3.jpg" alt="Giligan's">
-  <figcaption>Giligan's</figcaption>
+  <figcaption>Sinuglaw</figcaption>
 </figure>
 </div>
 

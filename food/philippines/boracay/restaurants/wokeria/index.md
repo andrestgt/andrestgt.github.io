@@ -20,24 +20,24 @@ Inviting restaurant in DMall, unfortunately, while the international menu sounds
 </figure>
 <figure>
   <img src="/photos/philippines/boracay/wokeria-3.jpg" alt="Wokeria">
-  <figcaption>Wokeria</figcaption>
+  <figcaption>Gazpacho</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/boracay/wokeria-4.jpg" alt="Wokeria">
-  <figcaption>Wokeria</figcaption>
+  <figcaption>Squid Ink Spaghetti</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/boracay/wokeria-5.jpg" alt="Wokeria">
-  <figcaption>Wokeria</figcaption>
+  <figcaption>Roasted Zucchini and Aubergines</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/philippines/boracay/wokeria-6.jpg" alt="Wokeria">
-  <figcaption>Wokeria</figcaption>
+  <figcaption>Chorizo Stew</figcaption>
 </figure>
 
 ## Ratings

@@ -7,7 +7,7 @@ subtitle: Dumaguete City · European, International
 ---
 <figure>
   <img src="/photos/philippines/dumaguete/andys-golden-grill-4.jpg" alt="Andy's Golden Grill">
-  <figcaption>Andy's Golden Grill</figcaption>
+  <figcaption>Schweizer Geschnetzeltes</figcaption>
 </figure>
 
 Formerly Andy's, with very good proper European home cooked dishes in a pleasant candlelit atmosphere. There's a good selection of food and drinks. Wines are reasonably priced. Dinner here is not inexpensive, but with all the imported ingredients it's good value overall. One of the better places in Dumaguete.
@@ -15,11 +15,11 @@ Formerly Andy's, with very good proper European home cooked dishes in a pleasant
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/dumaguete/andys-golden-grill-2.jpg" alt="Andy's Golden Grill">
-  <figcaption>Andy's Golden Grill</figcaption>
+  <figcaption>Lasagne</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/dumaguete/andys-golden-grill-3.jpg" alt="Andy's Golden Grill">
-  <figcaption>Andy's Golden Grill</figcaption>
+  <figcaption>Cheese Schnitzel with Spätzle</figcaption>
 </figure>
 </div>
 

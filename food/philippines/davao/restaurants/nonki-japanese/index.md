@@ -8,7 +8,7 @@ subtitle: Poblacion District, Davao City · Japanese
 
 <figure>
   <img src="/photos/philippines/davao/nonki-japanese-1.jpg" alt="Nonki Japanese Restaurant">
-  <figcaption>Nonki Japanese Restaurant</figcaption>
+  <figcaption>Sushi Platter</figcaption>
 </figure>
 
 Nonki is probably the most popular Japanese restaurant in Davao, but I found the quality rather average considering the prices. The sashimi and rolls were perfectly acceptable, just not nearly good enough to justify what they charge.
