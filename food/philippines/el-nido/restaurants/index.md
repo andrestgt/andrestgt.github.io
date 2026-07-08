@@ -53,12 +53,6 @@ Hard to beat for pure beach restaurant atmosphere, cheap cocktails, seafood sizz
 
 ---
 
-## Bhabah's Chaolong
-*El Nido Town · Vietnamese-Filipino*
-Extremely basic and right by the busy road, but cheap and with very tasty noodle soup, and seemingly the only chaolong in town.
-→ [Read the full review](/food/philippines/el-nido/restaurants/bhabahs-chaolong/)
-
----
-
 **Price level note:**
+
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

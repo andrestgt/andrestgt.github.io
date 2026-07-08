@@ -24,3 +24,10 @@ The nicest pit stop along Route 490, sweeping sea views, tasty shakes, and solid
 → [Read the full review](/food/philippines/el-nido/street-food/socorro-hills-view/)
 
 ---
+
+## Bhabah's Chaolong
+*El Nido Town · Vietnamese-Filipino*
+Extremely basic and right by the busy road, but cheap and with very tasty noodle soup, and seemingly the only chaolong in town.
+→ [Read the full review](/food/philippines/el-nido/street-food/bhabahs-chaolong/)
+
+---
