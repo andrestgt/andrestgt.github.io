@@ -5,6 +5,7 @@ country: philippines
 city: taytay
 title: Taytay – Food & Drink
 subtitle: Restaurants on the road between El Nido and Puerto Princesa
+hero: /photos/background/taytayhero.jpg
 ---
 
 # Taytay
