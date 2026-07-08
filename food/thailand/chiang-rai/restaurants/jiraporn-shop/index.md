@@ -18,12 +18,12 @@ Jiraporn Shop serves delicious local food in a beautiful non-touristy riverside 
 
   <figure>
     <img src="/photos/thailand/chiang-rai/js2.jpg" alt="Fried fish">
-    <figcaption>Fried fish</figcaption>
+  <figcaption>Grilled Fish</figcaption>
   </figure>
 
   <figure>
     <img src="/photos/thailand/chiang-rai/js3.jpg" alt="Grilled cockles">
-    <figcaption>Grilled cockles</figcaption>
+  <figcaption>Blood Cockles</figcaption>
   </figure>
 
 </div>

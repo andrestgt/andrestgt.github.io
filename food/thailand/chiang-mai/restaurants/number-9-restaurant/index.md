@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/number-9-restaurant-1.jpg" alt="Number 9 Restaurant">
-  <figcaption>Number 9 Restaurant</figcaption>
+  <figcaption>Pad Pak Kana Moo Krob</figcaption>
 </figure>
 
 A large, basic eatery that has been around for many years and which I'd always ignored, mainly because of the many other options nearby and because it clearly caters to tourists, which is understandable given its location in the old town backpacker area.
@@ -17,7 +17,7 @@ That said, it's still a place I'd recommend for a quick, tasty Thai meal. The fo
 
 <figure>
   <img src="/photos/thailand/chiang-mai/number-9-restaurant-2.jpg" alt="Number 9 Restaurant">
-  <figcaption>Number 9 Restaurant</figcaption>
+  <figcaption>Tom Yum Noodles</figcaption>
 </figure>
 
 

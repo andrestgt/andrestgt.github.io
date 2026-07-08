@@ -9,14 +9,14 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/house-by-ginger-1.jpg" alt="THE HOUSE by Ginger">
-  <figcaption>THE HOUSE by Ginger</figcaption>
+  <figcaption>Thai Appetisers</figcaption>
 </figure>
 
 Very fancy and super comfortable restaurant. Dishes are about 50% more expensive than at other places, but the quality is good and the presentation is nice. One of the best restaurants in Chiang Mai. Worth a visit for both the food and the ambiance.
 
 <figure>
   <img src="/photos/thailand/chiang-mai/house-by-ginger-2.jpg" alt="THE HOUSE by Ginger">
-  <figcaption>THE HOUSE by Ginger</figcaption>
+  <figcaption>Massaman Beef Curry</figcaption>
 </figure>
 
 ## Ratings

@@ -36,11 +36,11 @@ Friendly place on Rambuttri, although there's nothing stand out about it. We wer
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/gastro-kafe-5.jpg" alt="Gastro Kafe">
-  <figcaption>Gastro Kafe</figcaption>
+  <figcaption>Pad Kra Pao</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/gastro-kafe-6.jpg" alt="Gastro Kafe">
-  <figcaption>Gastro Kafe</figcaption>
+  <figcaption>Pineapple Fried Rice</figcaption>
 </figure>
 </div>
 

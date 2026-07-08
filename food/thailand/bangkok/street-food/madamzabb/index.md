@@ -21,13 +21,13 @@ Madamzabb is a tiny and very tidy hole-in-the-wall restaurant serving delicious 
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/madamzabb-3.jpg" alt="Madamzabb">
-  <figcaption>Madamzabb</figcaption>
+  <figcaption>Pad Krapao</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/thailand/bangkok/madamzabb-4.jpg" alt="Madamzabb">
-  <figcaption>Madamzabb</figcaption>
+  <figcaption>Chicken Sukiyaki</figcaption>
 </figure>
 
 ## Ratings

@@ -19,11 +19,11 @@ Free water is provided, ordering is easy via QR code, and there are cheap beers 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/neng-roasted-pork-2.jpg" alt="Neng Roasted Pork">
-  <figcaption>Neng Roasted Pork</figcaption>
+  <figcaption>Gai Yang</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/neng-roasted-pork-3.jpg" alt="Neng Roasted Pork">
-  <figcaption>Neng Roasted Pork</figcaption>
+  <figcaption>Roasted Pork Mimosa</figcaption>
 </figure>
 </div>
 
@@ -34,13 +34,13 @@ Free water is provided, ordering is easy via QR code, and there are cheap beers 
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/neng-roasted-pork-5.jpg" alt="Neng Roasted Pork">
-  <figcaption>Neng Roasted Pork</figcaption>
+  <figcaption>Roasted Pork Belly</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/thailand/chiang-mai/neng-roasted-pork-6.jpg" alt="Neng Roasted Pork">
-  <figcaption>Neng Roasted Pork</figcaption>
+  <figcaption>Gai Yang</figcaption>
 </figure>
 
 

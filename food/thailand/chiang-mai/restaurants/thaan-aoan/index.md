@@ -21,13 +21,13 @@ Nice, inexpensive AC café in the old town, great for a coffee break. It's not c
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/thaan-aoan-3.jpg" alt="Thaan Aoan">
-  <figcaption>Thaan Aoan</figcaption>
+  <figcaption>Thai Spicy Salad</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/thailand/chiang-mai/thaan-aoan-4.jpg" alt="Thaan Aoan">
-  <figcaption>Thaan Aoan</figcaption>
+  <figcaption>Thai spring rolls</figcaption>
 </figure>
 
 ## Ratings

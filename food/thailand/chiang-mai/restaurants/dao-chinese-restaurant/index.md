@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/dao-chinese-restaurant-1.jpg" alt="Dao Chinese Restaurant">
-  <figcaption>Dao Chinese Restaurant</figcaption>
+  <figcaption>Beef Noodles</figcaption>
 </figure>
 
 What initially looks like a sterile cafeteria in a rather desolate, mostly empty condo lobby turns out to be one of the most recommendable Chinese restaurants in Chiang Mai, more specifically a Sichuan restaurant. You order cafeteria-style at the counter, but the food itself has restaurant quality.
@@ -21,11 +21,11 @@ Oh and don't miss the spicy free pickles on the counter, they're delicious.
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/dao-chinese-restaurant-2.jpg" alt="Dao Chinese Restaurant">
-  <figcaption>Dao Chinese Restaurant</figcaption>
+  <figcaption>Beef and Tomato Stew</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/dao-chinese-restaurant-3.jpg" alt="Dao Chinese Restaurant">
-  <figcaption>Dao Chinese Restaurant</figcaption>
+  <figcaption>Fried Dumplings</figcaption>
 </figure>
 </div>
 

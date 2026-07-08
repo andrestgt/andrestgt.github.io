@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/woo-cafe-1.jpg" alt="Woo Cafe Art Gallery">
-  <figcaption>Woo Cafe Art Gallery</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Stylish café with striking décor, very comfortable sofas and the kind of polished setting that invites you to linger over a coffee. The cappuccino is very good and comes in a satisfyingly large cup for 80 baht. ood prices, however, feel decidedly inflated for Chiang Mai.

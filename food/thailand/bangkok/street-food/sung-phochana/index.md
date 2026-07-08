@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/sung-phochana-1.jpg" alt="Sung Phochana">
-  <figcaption>Sung Phochana</figcaption>
+  <figcaption>Beef Noodle Soup</figcaption>
 </figure>
 
 Excellent beef noodle soup served in a lovely setting beside the canal. A generous bowl with several different cuts of beef costs only around 70 Bt.

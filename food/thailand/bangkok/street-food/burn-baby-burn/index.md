@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/burn-baby-burn-1.jpg" alt="Burn Baby Burn">
-  <figcaption>Burn Baby Burn</figcaption>
+  <figcaption>Charcoal Bun Burger with Fries</figcaption>
 </figure>
 
 Cool place in Rot Fai weekend market, good craft beer. Their burgers are okay, very photogenic, but nothing great and not worth the price tag, maybe that's why the place is rarely busy.

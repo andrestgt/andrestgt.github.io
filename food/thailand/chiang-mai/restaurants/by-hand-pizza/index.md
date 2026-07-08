@@ -15,7 +15,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/by-hand-pizza-1.jpg" alt="By Hand Pizza Cafe">
-  <figcaption>By Hand Pizza Cafe</figcaption>
+  <figcaption>Pizza</figcaption>
 </figure>
 
 Superb pizzas from the wood fired oven. I had the one with lamb merguez and capers. The crust was perfect and I'd absolutely recommend this place.

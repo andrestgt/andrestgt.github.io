@@ -17,11 +17,11 @@ This attractive café is a great place to break the journey between Chiang Mai a
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/32-coffee-hill-4.jpg" alt="32 Coffee Hill & Resort">
-  <figcaption>32 Coffee Hill & Resort</figcaption>
+  <figcaption>Tom Yam Kung</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/32-coffee-hill-5.jpg" alt="32 Coffee Hill & Resort">
-  <figcaption>32 Coffee Hill & Resort</figcaption>
+  <figcaption>Tom Kha Gai</figcaption>
 </figure>
 </div>
 

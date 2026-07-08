@@ -19,12 +19,12 @@ Because of its popularity, prices are a few baht higher than at very local neigh
 
   <figure>
     <img src="/photos/thailand/chiang-rai/crnb2.jpg" alt="Fried insects">
-    <figcaption>Fried insects</figcaption>
+  <figcaption>Fried Insects</figcaption>
   </figure>
 
   <figure>
     <img src="/photos/thailand/chiang-rai/crnb3.jpg" alt="Thai curry and grilled pork belly">
-    <figcaption>Thai curry and grilled pork belly</figcaption>
+  <figcaption>Tom Yam Kung</figcaption>
   </figure>
 
 </div>

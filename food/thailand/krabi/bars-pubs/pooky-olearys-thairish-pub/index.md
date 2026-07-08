@@ -9,14 +9,14 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/krabi/pooky-olearys-thairish-pub-1.jpg" alt="Pooky O'Leary's Thairish Pub">
-  <figcaption>Pooky O'Leary's Thairish Pub</figcaption>
+  <figcaption>Pad Thai Kung</figcaption>
 </figure>
 
 Pooky's is basically just a nice quiet resto-pub with air con and a few tables. They have a small menu of Western comfort food and standard Thai dishes. The food is very good indeed, they certainly focus on quality and high standards, which kind of justifies the rather high price. My burger was pretty damn delicious with a succulent, juicy patty and good bun. It came with proper home made chips. The Pad Thai was nothing extraordinary but it contained three fat king prawns which was a nice touch. They serve Dark Lao here which made me happy, but drink prices are really high for a simple pub and I don't think they have any drink specials compared to most other bars in Ao Nang. Worth a visit for high quality comfort food but not to spend a night drinking unless money is no issue.
 
 <figure>
   <img src="/photos/thailand/krabi/pooky-olearys-thairish-pub-2.jpg" alt="Pooky O'Leary's Thairish Pub">
-  <figcaption>Pooky O'Leary's Thairish Pub</figcaption>
+  <figcaption>Cheese Burger with Handcut Fries</figcaption>
 </figure>
 
 ## Ratings

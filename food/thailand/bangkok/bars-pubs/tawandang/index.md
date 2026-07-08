@@ -27,7 +27,7 @@ Beer here is indeed very good, and by Bangkok standards, reasonably priced with 
 
 <figure>
   <img src="/photos/thailand/bangkok/tawandang-4.jpg" alt="Tawandang German Brewery">
-  <figcaption>Tawandang German Brewery</figcaption>
+  <figcaption>Pork with Cashewnuts</figcaption>
 </figure>
 
 ## Ratings

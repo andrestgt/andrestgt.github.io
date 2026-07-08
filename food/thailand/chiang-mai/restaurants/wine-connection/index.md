@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/Thai17-0127.jpg" alt="Wine Connection">
-  <figcaption>Wine Connection</figcaption>
+  <figcaption>Lasagne</figcaption>
 </figure>
 
 The most affordable place for wine and deli food in Thailand. Wine Connection is an absolute winner for wine and food lovers who don't want to spend a fortune. Some excellent specials here too.

@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/daruma-izakaya-1.jpg" alt="Daruma Izakaya">
-  <figcaption>Daruma Izakaya</figcaption>
+  <figcaption>Yakitori</figcaption>
 </figure>
 
 I'm generally a fan of the Japanese izakaya concept, mostly because Japanese food pairs very well with a couple of after-hours beers. Chiang Mai has a surprisingly large number of small, Japanese-style places, and Daruma happened to be the one closest to our hotel, so we stopped by.
@@ -20,7 +20,7 @@ If you're in the area and in the mood for a few cold beers with izakaya vibes, D
 
 <figure>
   <img src="/photos/thailand/chiang-mai/daruma-izakaya-2.jpg" alt="Daruma Izakaya">
-  <figcaption>Daruma Izakaya</figcaption>
+  <figcaption>Takoyaki</figcaption>
 </figure>
 
 

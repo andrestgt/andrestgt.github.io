@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/h-roaster-1.jpg" alt="H-Roasters">
-  <figcaption>H-Roasters</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 H-Roasters feels like a calm oasis in the middle of Chinatown chaos. It’s a rather elegant and  comfortable café serving very good coffee at prices lower than you’d expect. A latte costs around 85 Bt, and they also stock some craft beer and light food.

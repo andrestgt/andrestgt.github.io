@@ -32,11 +32,11 @@ Excellent little Taiwanese dumpling place serving huge portions at surprisingly 
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/yong-he-dou-jiang-5.jpg" alt="Yong He Dou Jiang">
-  <figcaption>Yong He Dou Jiang</figcaption>
+  <figcaption>Xiao Long Bao</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/yong-he-dou-jiang-6.jpg" alt="Yong He Dou Jiang">
-  <figcaption>Yong He Dou Jiang</figcaption>
+  <figcaption>Beef Pancakes</figcaption>
 </figure>
 </div>
 

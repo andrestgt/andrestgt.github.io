@@ -43,17 +43,17 @@ Update: It has become extremely popular. Even outside of peak hours, it's now ha
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sushiro-6.jpg" alt="SUSHIRO ICONSIAM">
-  <figcaption>SUSHIRO ICONSIAM</figcaption>
+  <figcaption>Sushi</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/sushiro-7.jpg" alt="SUSHIRO ICONSIAM">
-  <figcaption>SUSHIRO ICONSIAM</figcaption>
+  <figcaption>Sushi</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/thailand/bangkok/sushiro-8.jpg" alt="SUSHIRO ICONSIAM">
-  <figcaption>SUSHIRO ICONSIAM</figcaption>
+  <figcaption>Sushi</figcaption>
 </figure>
 
 

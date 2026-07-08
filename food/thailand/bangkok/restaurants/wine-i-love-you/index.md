@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/wine-i-love-you-1.jpg" alt="Wine I Love You">
-  <figcaption>Wine I Love You</figcaption>
+  <figcaption>Fried Green Mussels</figcaption>
 </figure>
 
 The food here is fairly generic Bangkok bistro fare, although by global standards it would still count as very good. The wine list is reasonably priced, with some bottles under 800 Bt, and the Thai dishes remain properly spicy.
@@ -17,22 +17,22 @@ The food here is fairly generic Bangkok bistro fare, although by global standard
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/wine-i-love-you-2.jpg" alt="Wine I Love You">
-  <figcaption>Wine I Love You</figcaption>
+  <figcaption>Crispy Pork</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/wine-i-love-you-3.jpg" alt="Wine I Love You">
-  <figcaption>Wine I Love You</figcaption>
+  <figcaption>Spicy Tuna Tartare</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/wine-i-love-you-4.jpg" alt="Wine I Love You">
-  <figcaption>Wine I Love You</figcaption>
+  <figcaption>Calamari Rings</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/wine-i-love-you-5.jpg" alt="Wine I Love You">
-  <figcaption>Wine I Love You</figcaption>
+  <figcaption>Spicy Salmon Salad</figcaption>
 </figure>
 </div>
 

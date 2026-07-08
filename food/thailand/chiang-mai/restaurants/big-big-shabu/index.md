@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/SEA25-0830.jpg" alt="Big Big Shabu">
-  <figcaption>Big Big Shabu</figcaption>
+  <figcaption>Mookata</figcaption>
 </figure>
 
 I'm generally not a big fan of buffet-style eating. That has less to do with quality, which can be hit or miss, but is often perfectly fine, and more with the fact that I always feel compelled to try everything and usually leave these places feeling overstuffed. For that reason alone, I rarely go. Unfortunately for me, my better half is a big fan, so I occasionally give in.

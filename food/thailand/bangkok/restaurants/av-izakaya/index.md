@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/av-izakaya-1.jpg" alt="AV Izakaya Saphan Khwai">
-  <figcaption>AV Izakaya Saphan Khwai</figcaption>
+  <figcaption>Yukke</figcaption>
 </figure>
 
 Definitely not your standard izakaya. This one has a clear adult theme throughout. Female guests are offered a free cake in a rather suggestive shape, which tastes better than you might think; I know because I was allowed to take a bite.
@@ -21,11 +21,11 @@ A fun place to visit.
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/av-izakaya-2.jpg" alt="AV Izakaya Saphan Khwai">
-  <figcaption>AV Izakaya Saphan Khwai</figcaption>
+  <figcaption>Crispy Salmon Roll</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/av-izakaya-3.jpg" alt="AV Izakaya Saphan Khwai">
-  <figcaption>AV Izakaya Saphan Khwai</figcaption>
+  <figcaption>Chicken skewers</figcaption>
 </figure>
 </div>
 

@@ -16,7 +16,7 @@ Off the beaten track Thai restaurant with a lovely garden setting, and good serv
 
 <figure>
   <img src="/photos/thailand/bangkok/le-reve-2.jpg" alt="Le Rêve Garden & Eatery">
-  <figcaption>Le Rêve Garden & Eatery</figcaption>
+  <figcaption>Thai Green Curry</figcaption>
 </figure>
 
 ## Ratings

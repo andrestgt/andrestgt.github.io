@@ -9,14 +9,14 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/hongkong-dimsum-1.jpg" alt="HongKong Dimsum and Noodle">
-  <figcaption>HongKong Dimsum and Noodle</figcaption>
+  <figcaption>Golden Custard Bun</figcaption>
 </figure>
 
 Convenient modern noodle and dim sum place on Phra Sumen Road. Unfortunately, prices are fairly high for what you get and the overall quality is only average.
 
 <figure>
   <img src="/photos/thailand/bangkok/Thai15-0027.jpg" alt="Hong Kong Dimsum">
-  <figcaption>Hong Kong Dimsum</figcaption>
+  <figcaption>Roasted Duck Wonton Soup</figcaption>
 </figure>
 
 ## Ratings

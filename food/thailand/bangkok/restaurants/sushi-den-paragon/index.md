@@ -18,11 +18,11 @@ This particular Sushi Den branch is noticeably weaker than others. The fish was 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-paragon-2.jpg" alt="Sushi Den – Siam Paragon">
-  <figcaption>Sushi Den – Siam Paragon</figcaption>
+  <figcaption>Unagi Roll</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-paragon-3.jpg" alt="Sushi Den – Siam Paragon">
-  <figcaption>Sushi Den – Siam Paragon</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 </div>
 

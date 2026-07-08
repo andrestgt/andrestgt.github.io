@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/Thai19-0283.jpg" alt="Food Court">
-  <figcaption>Food Court</figcaption>
+  <figcaption>Beef Noodle Soup</figcaption>
 </figure>
 
 Pleasant food court that somehow never feels overcrowded, making it one of the more comfortable places to eat during lunch hours. Prices are reasonable, quality is good, and the khao soi stall is particularly worth trying.

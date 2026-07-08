@@ -18,7 +18,7 @@ Food and drinks are 4 stars but the view, oh the view, it's just breathtaking. W
 
 <figure>
   <img src="/photos/thailand/bangkok/fallabella-4.jpg" alt="Fallabella River Front">
-  <figcaption>Fallabella River Front</figcaption>
+  <figcaption>Beef tongue</figcaption>
 </figure>
 
 ## Ratings

@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/laab-ubon-1.jpg" alt="Laab Ubon Kontrakran">
-  <figcaption>Laab Ubon Kontrakran</figcaption>
+  <figcaption>Gai Yang</figcaption>
 </figure>
 
 Pricey Sathorn/Surasak is not exactly the place where you would expect to find this inexpensive, cheerful Isaan-style open-air eatery and drinking place. They do a nice gai yang (half for 100 Bt), larb ped (80 Bt) and a good variety of som tum, including one with roasted pork. As in most North Eastern restaurants in Bangkok, the level of spiciness is a bit toned down in exchange for more sugar, but that's not necessarily a bad thing for most palates.
@@ -17,11 +17,11 @@ Pricey Sathorn/Surasak is not exactly the place where you would expect to find t
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/laab-ubon-2.jpg" alt="Laab Ubon Kontrakran">
-  <figcaption>Laab Ubon Kontrakran</figcaption>
+  <figcaption>Larb Ped</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/laab-ubon-3.jpg" alt="Laab Ubon Kontrakran">
-  <figcaption>Laab Ubon Kontrakran</figcaption>
+  <figcaption>Som Tam</figcaption>
 </figure>
 </div>
 

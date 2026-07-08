@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/coffee-club-sathorn-1.jpg" alt="THE COFFEE CLUB – Mode Sathorn">
-  <figcaption>THE COFFEE CLUB – Mode Sathorn</figcaption>
+  <figcaption>Calamari Rings</figcaption>
 </figure>
 
 One of the few cafés in Bangkok that opens very early and consistently serves very good coffee. The downside is the pricing, with a flat white costing well over 130 Bt. Seating is comfortable and the wifi fast, though there are no power sockets.
@@ -17,7 +17,7 @@ One of the few cafés in Bangkok that opens very early and consistently serves v
 
 <figure>
   <img src="/photos/thailand/bangkok/coffee-club-sathorn-3.jpg" alt="THE COFFEE CLUB – Mode Sathorn">
-  <figcaption>THE COFFEE CLUB – Mode Sathorn</figcaption>
+  <figcaption>Salmon Sandwich</figcaption>
 </figure>
 
 

@@ -23,17 +23,17 @@ Very fancy riverside place with good views and atmosphere. Food is okay, nothing
 
 <figure>
   <img src="/photos/thailand/chiang-mai/deck-1-4.jpg" alt="Deck 1">
-  <figcaption>Deck 1</figcaption>
+  <figcaption>Sausage and Meat Platter</figcaption>
 </figure>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/deck-1-5.jpg" alt="Deck 1">
-  <figcaption>Deck 1</figcaption>
+  <figcaption>Sausage and Meat Platter</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/deck-1-6.jpg" alt="Deck 1">
-  <figcaption>Deck 1</figcaption>
+  <figcaption>Crispy Pork Rice</figcaption>
 </figure>
 </div>
 

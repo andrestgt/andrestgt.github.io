@@ -23,13 +23,13 @@ The sausages in particular stood out. Prices are reasonable, and if you happen t
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/huen-jai-yong-3.jpg" alt="Huen Jai Yong">
-  <figcaption>Huen Jai Yong</figcaption>
+  <figcaption>Lanna Food</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/thailand/chiang-mai/huen-jai-yong-4.jpg" alt="Huen Jai Yong">
-  <figcaption>Huen Jai Yong</figcaption>
+  <figcaption>Lanna Fish Curry</figcaption>
 </figure>
 
 

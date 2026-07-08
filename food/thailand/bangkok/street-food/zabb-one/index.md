@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/zabb-one-1.jpg" alt="Zabb One Ratchada">
-  <figcaption>Zabb One Ratchada</figcaption>
+  <figcaption>Som Tam</figcaption>
 </figure>
 
 Zabb One serves Isaan food adapted slightly for Bangkok tastes, meaning less chilli heat and a bit more sweetness. That probably makes it easier for many foreign visitors to enjoy. Prices are low, the place is very popular, and the grilled chicken is definitely the highlight.
@@ -17,7 +17,7 @@ Zabb One serves Isaan food adapted slightly for Bangkok tastes, meaning less chi
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/zabb-one-2.jpg" alt="Zabb One Ratchada">
-  <figcaption>Zabb One Ratchada</figcaption>
+  <figcaption>Larb Ped</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/zabb-one-3.jpg" alt="Zabb One Ratchada">
@@ -27,7 +27,7 @@ Zabb One serves Isaan food adapted slightly for Bangkok tastes, meaning less chi
 
 <figure>
   <img src="/photos/thailand/bangkok/zabb-one-4.jpg" alt="Zabb One Ratchada">
-  <figcaption>Zabb One Ratchada</figcaption>
+  <figcaption>Gai Yang</figcaption>
 </figure>
 
 ## Ratings

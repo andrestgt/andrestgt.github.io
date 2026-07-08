@@ -16,7 +16,7 @@ One of my favourite breakfasts in the world. Gai yang, or grilled chicken with s
 
 <figure>
   <img src="/photos/thailand/bangkok/Thai19-0193.jpg" alt="Kai Yang Wichian Buri">
-  <figcaption>Kai Yang Wichian Buri</figcaption>
+  <figcaption>Gai Yang</figcaption>
 </figure>
 
 ## Ratings

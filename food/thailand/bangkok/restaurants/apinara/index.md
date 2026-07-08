@@ -15,7 +15,7 @@ Apinara is a very upmarket Thai restaurant at Groove with stylish interiors, goo
 
 <figure>
   <img src="/photos/thailand/bangkok/apinara-2.jpg" alt="Apinara">
-  <figcaption>Apinara</figcaption>
+  <figcaption>Thai appetizers</figcaption>
 </figure>
 
 

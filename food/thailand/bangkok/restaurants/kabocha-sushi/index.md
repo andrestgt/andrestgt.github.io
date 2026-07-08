@@ -28,33 +28,33 @@ Ranks high on my personal "favourite restaurants in the world" list. Unbeatable 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/kabocha-sushi-4.jpg" alt="Kabocha Sushi at the Street">
-  <figcaption>Kabocha Sushi at the Street</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/kabocha-sushi-5.jpg" alt="Kabocha Sushi at the Street">
-  <figcaption>Kabocha Sushi at the Street</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/kabocha-sushi-6.jpg" alt="Kabocha Sushi at the Street">
-  <figcaption>Kabocha Sushi at the Street</figcaption>
+  <figcaption>Foie Gras Don</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/kabocha-sushi-7.jpg" alt="Kabocha Sushi at the Street">
-  <figcaption>Kabocha Sushi at the Street</figcaption>
+  <figcaption>Unagi Don</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/kabocha-sushi-8.jpg" alt="Kabocha Sushi at the Street">
-  <figcaption>Kabocha Sushi at the Street</figcaption>
+  <figcaption>Pork Katsu</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/kabocha-sushi-9.jpg" alt="Kabocha Sushi at the Street">
-  <figcaption>Kabocha Sushi at the Street</figcaption>
+  <figcaption>Unagi Nigiri</figcaption>
 </figure>
 </div>
 

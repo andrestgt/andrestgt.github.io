@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/at-thaifoods-1.jpg" alt="A.T. Thaifoods">
-  <figcaption>A.T. Thaifoods</figcaption>
+  <figcaption>Chicken Krapao</figcaption>
 </figure>
 
 Another inexpensive local place on Santitham Road that comes highly recommended is AT Thai Foods. One of the reasons I came here is that they do a good version of one of my favourite dishes, khao kha moo, a sweet-and-sour stewed pork leg.
@@ -18,7 +18,7 @@ Simple and satisfying local food.
 
 <figure>
   <img src="/photos/thailand/chiang-mai/at-thaifoods-2.jpg" alt="A.T. Thaifoods">
-  <figcaption>A.T. Thaifoods</figcaption>
+  <figcaption>Khao Ka Moo</figcaption>
 </figure>
 
 

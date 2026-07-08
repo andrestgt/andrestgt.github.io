@@ -18,7 +18,7 @@ Places like this exist for exactly those moments before you go home, when all yo
 
 <figure>
   <img src="/photos/thailand/chiang-mai/SEA25-0845.jpg" alt="TC Bar">
-  <figcaption>TC Bar</figcaption>
+  <figcaption>Teriyaki Chicken</figcaption>
 </figure>
 
 ## Ratings

@@ -32,7 +32,7 @@ For some reason this place is incredibly popular with local tourists. It's a lov
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/lung-pud-pa-peng-coffee-5.jpg" alt="Lung Pud Pa Peng Coffee">
-  <figcaption>Lung Pud Pa Peng Coffee</figcaption>
+  <figcaption>Fried Dumplings</figcaption>
 </figure>
 </div>
 

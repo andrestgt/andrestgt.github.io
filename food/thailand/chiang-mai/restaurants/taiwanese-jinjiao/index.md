@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/taiwanese-jinjiao-1.jpg" alt="Taiwanese Food Jinjiao Dumplings">
-  <figcaption>Taiwanese Food Jinjiao Dumplings</figcaption>
+  <figcaption>Spicy Wonton</figcaption>
 </figure>
 
 I think the Santitham area is one of the best parts of Chiang Mai for good, inexpensive food. Prices are noticeably lower than in the Old Town, while the quality is at least comparable. This small Taiwanese dumpling place became one of my regular stops while staying in the area.

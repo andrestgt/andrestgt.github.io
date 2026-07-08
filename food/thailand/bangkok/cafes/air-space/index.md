@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/air-space-1.jpg" alt="Air Space">
-  <figcaption>Air Space</figcaption>
+  <figcaption>Flat White</figcaption>
 </figure>
 
 Air Space is spacious and comfortable, with professionally prepared coffee at fairly reasonable prices for this area. A flat white costs around 90++ Bt. Wifi is available as well. I can’t comment on the food.

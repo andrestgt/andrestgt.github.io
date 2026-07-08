@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/ristr8to-1.jpg" alt="Ristr8to Original">
-  <figcaption>Ristr8to Original</figcaption>
+  <figcaption>Flat White</figcaption>
 </figure>
 
 This has been my go-to coffee shop in the Nimman area for well over a decade, back when it was one of the few quality roasters in town. These days, Chiang Mai has more good cafés than you can poke a stick at, but an honourable mention goes to the fact that they haven't changed their menu or prices since I first came here. That said, on my most recent visit, my flat white was a bit blander and milkier than it should've been. I believe that was just a one-off, though, and I'm keeping the 5 stars for now.
@@ -21,7 +21,7 @@ This has been my go-to coffee shop in the Nimman area for well over a decade, ba
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/ristr8to-4.jpg" alt="Ristr8to Original">
-  <figcaption>Ristr8to Original</figcaption>
+  <figcaption>Flat White</figcaption>
 </figure>
 </div>
 

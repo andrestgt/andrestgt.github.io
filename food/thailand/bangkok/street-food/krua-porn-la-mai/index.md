@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/krua-porn-la-mai-3.jpg" alt="Krua Porn La Mai">
-  <figcaption>Krua Porn La Mai</figcaption>
+  <figcaption>Oyster Omelette</figcaption>
 </figure>
 
 Very good street food. Yes, it's popular, and yes, there's probably a queue and possibly some YouTubers filming but the food is spot on. Not too many dishes on the menu but still varied enough to try different things. Seafood is fresh and portions are good. 500 Baht will easily feed a table of four. Most dishes come out on a hot plate. They make a very nice Tom Yum soup, too.
@@ -18,7 +18,7 @@ Edited update: on my second visit the food was still good, but the seafood wasn'
 
 <figure>
   <img src="/photos/thailand/bangkok/krua-porn-la-mai-2.jpg" alt="Krua Porn La Mai">
-  <figcaption>Krua Porn La Mai</figcaption>
+  <figcaption>Seafood Sukiyaki</figcaption>
 </figure>
 
 

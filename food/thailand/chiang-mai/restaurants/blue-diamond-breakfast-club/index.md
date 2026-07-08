@@ -19,7 +19,7 @@ This used to be the best farang breakfast place in town a decade ago, and is sti
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/blue-diamond-breakfast-club-2.jpg" alt="Blue Diamond The Breakfast Club">
-  <figcaption>Blue Diamond The Breakfast Club</figcaption>
+  <figcaption>Kuay Tiaw Nam</figcaption>
 </figure>
 
 </div>

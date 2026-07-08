@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/Bkk16-0056.jpg" alt="Have a Zeed">
-  <figcaption>Have a Zeed</figcaption>
+  <figcaption>Spicy Thai Salad</figcaption>
 </figure>
 
 Comfortable and slightly upmarket mall restaurant serving reliable Isaan food along with a few fusion dishes. Prices are reasonable and the food is tasty. A good option for mall dining.

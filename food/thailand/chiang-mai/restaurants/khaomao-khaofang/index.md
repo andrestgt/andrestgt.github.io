@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/khaomao-khaofang-2.jpg" alt="Khaomao-Khaofang Imaginary Jungle">
-  <figcaption>Khaomao-Khaofang Imaginary Jungle</figcaption>
+  <figcaption>Northern Thai Appetizers</figcaption>
 </figure>
 
 This is a jaw-droppingly gorgeous restaurant. We arrived quite early for lunch on a rainy day and had the place almost to ourselves at first, which made it especially pleasant to walk around and take in the setting. The tropical scenery is impressive, and the decoration is tasteful throughout, from the pondside terrace all the way to the surprisingly elaborate restrooms. We also managed to get a table right by the water, which certainly didn't hurt.
@@ -40,12 +40,12 @@ We had the northern hors d'oeuvre platter, a minced catfish salad, and a red cur
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/khaomao-khaofang-1.jpg" alt="Khaomao-Khaofang Imaginary Jungle">
-  <figcaption>Khaomao-Khaofang Imaginary Jungle</figcaption>
+  <figcaption>Northern Thai Appetizers</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/thailand/chiang-mai/khaomao-khaofang-3.jpg" alt="Khaomao-Khaofang Imaginary Jungle">
-  <figcaption>Khaomao-Khaofang Imaginary Jungle</figcaption>
+  <figcaption>Deep Fried Catfish</figcaption>
 </figure>
 </div>
 

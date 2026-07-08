@@ -32,7 +32,7 @@ Wine Connection remains probably the best place for oenophiles in Thailand when 
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/Bkk16-0078.jpg" alt="Wine Connection">
-  <figcaption>Wine Connection</figcaption>
+  <figcaption>Foie Gras Salad</figcaption>
 </figure>>
 </div>
 

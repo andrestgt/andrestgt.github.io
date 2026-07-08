@@ -17,7 +17,7 @@ The tea plantations here are genuinely beautiful, although during high season th
 
 <figure>
   <img src="/photos/thailand/chiang-rai/cft2.jpg" alt="Choui Fong Tea">
-  <figcaption>Choui Fong Tea</figcaption>
+  <figcaption>Matcha Cake</figcaption>
 </figure>
 
 ## Ratings

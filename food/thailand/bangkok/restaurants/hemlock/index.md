@@ -9,14 +9,14 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/hemlock-2.jpg" alt="Hemlock">
-  <figcaption>Hemlock</figcaption>
+  <figcaption>Fried Pork</figcaption>
 </figure>
 
 The Khao San area is not the backpacker food desert it used to be with lots of good eateries having opened in the past few years, but Hemlock is still worth a visit. It's one of the best places for traditional Thai food and has been for many years. Very reasonable prices for such an atmospheric place.
 
 <figure>
   <img src="/photos/thailand/bangkok/hemlock-3.jpg" alt="Hemlock">
-  <figcaption>Hemlock</figcaption>
+  <figcaption>Red Chicken Curry</figcaption>
 </figure>
 
 

@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-1.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Takoyaki</figcaption>
 </figure>
 
 My favourite sushi bar in Chiang Mai. They have a lot of interesting fusion dishes (scallop crème brûlée anyone?) but they do the traditional stuff really well too. Actually their salmon sashimi, cut out of a whole fresh salmon in front of us, were probably the best I've ever tasted. Super value for the quality.
@@ -17,11 +17,11 @@ My favourite sushi bar in Chiang Mai. They have a lot of interesting fusion dish
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-2.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Chciken Katsu</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-3.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Tuna Tartare</figcaption>
 </figure>
 </div>
 
@@ -32,35 +32,35 @@ My favourite sushi bar in Chiang Mai. They have a lot of interesting fusion dish
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-5.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Scallop Crème Brûlée</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-6.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Sushi</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-7.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Calamari</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-8.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Dragon Roll</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-9.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Udon Tonkatsu</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/thailand/chiang-mai/musashi-sushi-bar-10.jpg" alt="Musashi Sushi Bar">
-  <figcaption>Musashi Sushi Bar</figcaption>
+  <figcaption>Salmon Gunkan Sushi</figcaption>
 </figure>
 
 ## Ratings

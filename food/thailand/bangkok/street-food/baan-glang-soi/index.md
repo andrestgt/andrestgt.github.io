@@ -8,7 +8,7 @@ photos_locked: true
 ---
 <figure>
   <img src="/photos/thailand/bangkok/baan-glang-soi-2.jpg" alt="Baan Glang Soi">
-  <figcaption>Baan Glang Soi</figcaption>
+  <figcaption>Yentafo Noodle Soup</figcaption>
 </figure>
 
 

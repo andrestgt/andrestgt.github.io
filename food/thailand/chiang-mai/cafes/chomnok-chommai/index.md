@@ -28,7 +28,7 @@ Has the best view of the village, nice veranda, good coffees at 50 Bt, decent ca
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/chiang-mai/chomnok-chommai-4.jpg" alt="Chomnok Chommai">
-  <figcaption>Chomnok Chommai</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/chomnok-chommai-5.jpg" alt="Chomnok Chommai">

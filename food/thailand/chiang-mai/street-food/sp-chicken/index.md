@@ -33,7 +33,7 @@ Prices are reasonable and other dishes such as larb moo and nam tok neua are tas
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/sp-chicken-5.jpg" alt="SP Chicken">
-  <figcaption>SP Chicken</figcaption>
+  <figcaption>Gai Yang</figcaption>
 </figure>
 </div>
 

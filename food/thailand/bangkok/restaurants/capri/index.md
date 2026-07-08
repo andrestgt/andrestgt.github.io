@@ -18,11 +18,11 @@ If you come during the weekday two-for-one promotion, Capri offers very good Ita
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/capri-2.jpg" alt="Capri">
-  <figcaption>Capri</figcaption>
+  <figcaption>Italian Antipasti</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/capri-3.jpg" alt="Capri">
-  <figcaption>Capri</figcaption>
+  <figcaption>Pizza Quattro Formaggi</figcaption>
 </figure>
 </div>
 

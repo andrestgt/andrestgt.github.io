@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/kubkao-kubpla-1.jpg" alt="KubKao' KubPla Emquartier">
-  <figcaption>KubKao' KubPla Emquartier</figcaption>
+  <figcaption>Ox Tongue Stew</figcaption>
 </figure>
 
 If you manage to get a seat with a view, EmQuartier´s KubKao’ KubPla, becomes a very attractive place to eat. The Thai dishes are tasty, well presented and prices are fair for the Helix, plus the menu includes some less common items such as ox tongue stew.

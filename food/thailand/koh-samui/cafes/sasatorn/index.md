@@ -17,12 +17,12 @@ This is not only a very nicely decorated and friendly café, they also serve the
 
   <figure>
     <img src="/photos/thailand/koh-samui/sst2.jpg" alt="Flat white and croissant">
-    <figcaption>Flat white and croissant</figcaption>
+  <figcaption>Croissant</figcaption>
   </figure>
 
   <figure>
     <img src="/photos/thailand/koh-samui/sst3.jpg" alt="Tom kha">
-    <figcaption>Tom kha</figcaption>
+  <figcaption>Coconut Ginger Chicken Ramen</figcaption>
   </figure>
 
 </div>

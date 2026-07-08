@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/koh-samui/le1.jpg" alt="Lucky Elephant pad thai">
-  <figcaption>Lucky Elephant pad thai</figcaption>
+  <figcaption>Pad Thai Kung</figcaption>
 </figure>
 
 A general rule of thumb in most beach resort towns or islands is that restaurants in less prime locations, away from the beach, have to work harder and offer better value than beach establishments. So they tend to be preferable if you value quality and cheaper prices over atmosphere.
@@ -18,7 +18,7 @@ Lucky Elephant fits this rule quite well, it makes up for its noisy ring road lo
 
 <figure>
   <img src="/photos/thailand/koh-samui/le2.jpg" alt="Stir-fried prawns">
-  <figcaption>Stir-fried prawns</figcaption>
+  <figcaption>Stir fried prawns and veggies</figcaption>
 </figure>
 
 ## Ratings

@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/black-canyon-bang-rak-1.jpg" alt="Black Canyon – Robinson Bang Rak">
-  <figcaption>Black Canyon – Robinson Bang Rak</figcaption>
+  <figcaption>Pad Thai Kung</figcaption>
 </figure>
 
 Not the nicest Black Canyon branch in terms of atmosphere, and they may put cinnamon on your cappuccino if you don’t specifically ask otherwise. The rather expensive pad thai is still very good, though.

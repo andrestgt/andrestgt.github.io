@@ -21,7 +21,7 @@ Nicely designed place with a big garden. Reasonably priced drinks and food. Good
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/clay-studio-coffee-3.jpg" alt="Clay Studio Coffee in the Garden">
-  <figcaption>Clay Studio Coffee in the Garden</figcaption>
+  <figcaption>Summer Rolls</figcaption>
 </figure>
 </div>
 

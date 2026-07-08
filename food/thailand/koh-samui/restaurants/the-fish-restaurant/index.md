@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/koh-samui/the-fish-restaurant-1.jpg" alt="The Fish Restaurant">
-  <figcaption>The Fish Restaurant</figcaption>
+  <figcaption>Pineapple Fried Rice</figcaption>
 </figure>
 
 Don't be deceived by the modest ring road location and simple decor. The Thai food at The Fish is beautifully presented and entirely delicious. Prices are moderate for most dishes although I found the prices for drinks quite high. Count on roughly 1000 Bt for 4 people including drinks. The steamed seabass is a must, and the seafood rice served in a pineapple is not only very instagrammable, but also tasty.
@@ -17,11 +17,11 @@ Don't be deceived by the modest ring road location and simple decor. The Thai fo
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/koh-samui/the-fish-restaurant-2.jpg" alt="The Fish Restaurant">
-  <figcaption>The Fish Restaurant</figcaption>
+  <figcaption>Pineapple Fried Rice</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/koh-samui/the-fish-restaurant-3.jpg" alt="The Fish Restaurant">
-  <figcaption>The Fish Restaurant</figcaption>
+  <figcaption>Green Thai Curry</figcaption>
 </figure>
 </div>
 

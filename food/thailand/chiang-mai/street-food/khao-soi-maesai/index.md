@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/khao-soi-maesai-1.jpg" alt="Khao Soi Maesai">
-  <figcaption>Khao Soi Maesai</figcaption>
+  <figcaption>Khao Soi</figcaption>
 </figure>
 
 This is one of Chiang Mai's best-known khao soi spots and has long been extremely popular, often with long queues during busy hours. The hype has eased a bit recently, though, and if you come outside the breakfast and lunch rush, getting a table is no longer much of a problem.
@@ -18,7 +18,7 @@ The khao soi itself is on the lighter side, but full of flavour and very enjoyab
 
 <figure>
   <img src="/photos/thailand/chiang-mai/khao-soi-maesai-2.jpg" alt="Khao Soi Maesai">
-  <figcaption>Khao Soi Maesai</figcaption>
+  <figcaption>Goy Tiaw Nam Nao</figcaption>
 </figure>
 
 

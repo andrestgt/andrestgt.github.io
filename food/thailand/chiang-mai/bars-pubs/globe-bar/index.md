@@ -22,7 +22,7 @@ They have very friendly staff, a free pool table and draft Tiger for only 45 Bt.
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/globe-bar-3.jpg" alt="The Globe Bar & Restaurant">
-  <figcaption>The Globe Bar & Restaurant</figcaption>
+  <figcaption>Isaan Sausage</figcaption>
 </figure>
 </div>
 

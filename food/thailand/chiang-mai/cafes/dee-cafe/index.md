@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/SEA25-0702.jpg" alt="Dee Cafe">
-  <figcaption>Dee Cafe</figcaption>
+  <figcaption>Flat White</figcaption>
 </figure>
 
 Dee is wee, bright, and air-conditioned. Their flat white may not be made with the most premium beans you can find in Chiang Mai, but at just 45 Bt in a comfortable, cool setting, it's one of the best value cups around.

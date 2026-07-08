@@ -17,12 +17,12 @@ BADMOTEL attracts the usual Thonglor crowd, so naturally it isn’t cheap. Still
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/badmotel-1.jpg" alt="BADMOTEL">
-  <figcaption>BADMOTEL</figcaption>
+  <figcaption>Yum Neua</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/thailand/bangkok/badmotel-3.jpg" alt="BADMOTEL">
-  <figcaption>BADMOTEL</figcaption>
+  <figcaption>Pad Thai Kung</figcaption>
 </figure>
 </div>
 

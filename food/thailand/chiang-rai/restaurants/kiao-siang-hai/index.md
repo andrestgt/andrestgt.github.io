@@ -18,12 +18,12 @@ Finding homemade Shanghai-style dumplings in sleepy Chiang Saen is slightly unex
 
   <figure>
     <img src="/photos/thailand/chiang-rai/ksh2.jpg" alt="Dumplings">
-    <figcaption>Dumplings</figcaption>
+  <figcaption>Xiao Long Bao</figcaption>
   </figure>
 
   <figure>
     <img src="/photos/thailand/chiang-rai/ksh3.jpg" alt="Larb moo">
-    <figcaption>Larb moo</figcaption>
+  <figcaption>Szechuan Fried Rice</figcaption>
   </figure>
 
 </div>

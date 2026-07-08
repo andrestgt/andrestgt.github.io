@@ -21,7 +21,7 @@ Apart from the unfortunate habit of putting cinnamon on cappuccino, Brainwake is
 
 <figure>
   <img src="/photos/thailand/bangkok/Thai17-0244.jpg" alt="Brainwake">
-  <figcaption>Brainwake</figcaption>
+  <figcaption>Beef Noodle Soup</figcaption>
 </figure>
 
 ## Ratings

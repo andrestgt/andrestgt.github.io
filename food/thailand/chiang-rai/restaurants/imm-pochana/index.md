@@ -23,7 +23,7 @@ Imm Pochana serves excellent Yunnan-influenced food with generous portions and f
 
   <figure>
     <img src="/photos/thailand/chiang-rai/ip3.jpg" alt="Wild mushrooms">
-    <figcaption>Wild mushrooms</figcaption>
+  <figcaption>Fried Mushrooms with Vegetables</figcaption>
   </figure>
 
 </div>

@@ -9,14 +9,14 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/al-hussain-1.jpg" alt="Al-Hussain Restaurant">
-  <figcaption>Al-Hussain Restaurant</figcaption>
+  <figcaption>Chicken Hummus</figcaption>
 </figure>
 
 Al-Hussain is a great place for authentic Muslim Indian and Middle Eastern food. Portions are large and clearly designed for sharing, so it’s best to come with a group. The brain masala is especially good.
 
 <figure>
   <img src="/photos/thailand/bangkok/al-hussain-2.jpg" alt="Al-Hussain Restaurant">
-  <figcaption>Al-Hussain Restaurant</figcaption>
+  <figcaption>Mutton Brain Masala</figcaption>
 </figure>
 
 ## Ratings

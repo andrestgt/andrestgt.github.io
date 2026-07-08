@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/ochatee-1.jpg" alt="Ochatee">
-  <figcaption>Ochatee</figcaption>
+  <figcaption>Samosa</figcaption>
 </figure>
 
 Set in a quiet, almost rural-feeling neighbourhood just south of the moat, Ochatee is a small Burmese bistro. I was particularly pleased to find mohinga on the menu, one of my favourite breakfast soups. They do a very good version here.
@@ -17,7 +17,7 @@ You can also order tea snacks such as samosas, which makes this a good option fo
 
 <figure>
   <img src="/photos/thailand/chiang-mai/ochatee-2.jpg" alt="Ochatee">
-  <figcaption>Ochatee</figcaption>
+  <figcaption>Mohinga</figcaption>
 </figure>
 
 

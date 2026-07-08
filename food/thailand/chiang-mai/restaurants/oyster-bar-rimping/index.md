@@ -9,19 +9,19 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/oyster-bar-rimping-1.jpg" alt="The Oyster Bar at Rimping Supermarket">
-  <figcaption>The Oyster Bar at Rimping Supermarket</figcaption>
+  <figcaption>Fresh Oysters</figcaption>
 </figure>
 
 Wine at retail prices and delicious fresh oysters. Their Thai food menu is extensive and cheap but could be better. Best to go for affordable wine and oysters.
 
 <figure>
   <img src="/photos/thailand/chiang-mai/Thai17-0197.jpg" alt="Oyster Bar Rim Ping">
-  <figcaption>Oyster Bar Rim Ping</figcaption>
+  <figcaption>Pad Thai Kung</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/thailand/chiang-mai/Thai17-0195.jpg" alt="Oyster Bar Rim Ping">
-  <figcaption>Oyster Bar Rim Ping</figcaption>
+  <figcaption>Tord Mun Kung</figcaption>
 </figure>
 
 ## Ratings

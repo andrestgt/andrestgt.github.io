@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/next-level-som-tum-1.jpg" alt="Next-Level Som Tum">
-  <figcaption>Next-Level Som Tum</figcaption>
+  <figcaption>Pad Krapao</figcaption>
 </figure>
 
 Santitham Road is, for those who know the city, one of the best places to eat in Chiang Mai. It's lined with very inexpensive local eateries serving properly authentic Thai food and cold beers at rock-bottom prices, without cutting corners on quality. Next Level Somtum is one of them.

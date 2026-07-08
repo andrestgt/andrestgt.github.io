@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/chiang-mai/bear-hug-cafe-1.jpg" alt="Bear Hug Café">
-  <figcaption>Bear Hug Café</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Very pretty and cosy bear themed café. The cappuccino with bear latte art looks prettier than it tastes. It's good, but not excellent, but at 45 baht, it's perfectly fine. AC and good WiFi too.
@@ -21,7 +21,7 @@ Very pretty and cosy bear themed café. The cappuccino with bear latte art looks
 </figure>
 <figure>
   <img src="/photos/thailand/chiang-mai/bear-hug-cafe-3.jpg" alt="Bear Hug Café">
-  <figcaption>Bear Hug Café</figcaption>
+  <figcaption>Ham and Cheese Croissant</figcaption>
 </figure>
 </div>
 

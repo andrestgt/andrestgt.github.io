@@ -8,7 +8,7 @@ photos_locked: true
 ---
 <figure>
   <img src="/photos/thailand/bangkok/krua-apsorn-5.jpg" alt="Krua Apsorn">
-  <figcaption>Krua Apsorn</figcaption>
+  <figcaption>Spicy Seafood Salad</figcaption>
 </figure>
 
 
@@ -17,22 +17,22 @@ You don't come here for atmosphere, it has a cheap canteen feel to it. But the p
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/krua-apsorn-2.jpg" alt="Krua Apsorn">
-  <figcaption>Krua Apsorn</figcaption>
+  <figcaption>Tom Yam Kung</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/krua-apsorn-3.jpg" alt="Krua Apsorn">
-  <figcaption>Krua Apsorn</figcaption>
+  <figcaption>Crab Omelette</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/krua-apsorn-4.jpg" alt="Krua Apsorn">
-  <figcaption>Krua Apsorn</figcaption>
+  <figcaption>Crab Omelette</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/krua-apsorn-1.jpg" alt="Krua Apsorn">
-  <figcaption>Krua Apsorn</figcaption>
+  <figcaption>Massaman Beef Curry</figcaption>
 </figure>
 </div>
 

@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/koh-samui/Thai19-0130.jpg" alt="Siriphoca Mr. Adul">
-  <figcaption>Siriphoca Mr. Adul</figcaption>
+  <figcaption>Seafood Soup</figcaption>
 </figure>
 
 This place seems fallen out of time. A big simple shack by the beach serving a huge variety of Thai food at rock bottom prices. It feels a bit like time travelling back to the Samui of the 90s. Fruit shakes go for 40 Bt. The food here is solid four stars, with generous portions of prawns on every seafood plate, but the prices and the views make it deserving of a 5 star rating.

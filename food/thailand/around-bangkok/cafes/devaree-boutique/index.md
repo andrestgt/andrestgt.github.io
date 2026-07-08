@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/around-bangkok/Thai19-0270.jpg" alt="Devaree Boutique">
-  <figcaption>Devaree Boutique</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Over the top uber chic café in one of the beautiful wooden buildings along the canal. It's a luxurious pleasure to take a coffee break here, lounging on their Thai cushions, watching the traffic on the canal. It's obviously not a cheap place, especially compared to most other cafés in this surprisingly inexpensive town, but 80 Bt for a good cup of coffee is rather reasonable for the surroundings.

@@ -9,7 +9,7 @@ photos_locked: true
 
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-ctw-1.jpg" alt="Sushi Den @ CentralWorld">
-  <figcaption>Sushi Den @ CentralWorld</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 
 The sashimi here is fresh and reasonably priced, although some of the cooked dishes are less convincing. The salmon head was very good, the unagi roll acceptable, while the chicken balls unfortunately still contained bits of bone.
@@ -18,11 +18,11 @@ The sashimi here is fresh and reasonably priced, although some of the cooked dis
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-ctw-2.jpg" alt="Sushi Den @ CentralWorld">
-  <figcaption>Sushi Den @ CentralWorld</figcaption>
+  <figcaption>Unagi Nigiri</figcaption>
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-ctw-3.jpg" alt="Sushi Den @ CentralWorld">
-  <figcaption>Sushi Den @ CentralWorld</figcaption>
+  <figcaption>Tsukune</figcaption>
 </figure>
 </div>
 
@@ -33,13 +33,13 @@ The sashimi here is fresh and reasonably priced, although some of the cooked dis
 </figure>
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-ctw-5.jpg" alt="Sushi Den @ CentralWorld">
-  <figcaption>Sushi Den @ CentralWorld</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/thailand/bangkok/sushi-den-ctw-6.jpg" alt="Sushi Den @ CentralWorld">
-  <figcaption>Sushi Den @ CentralWorld</figcaption>
+  <figcaption>Salmon Gunkan Sushi</figcaption>
 </figure>
 
 | Category        | Score  |

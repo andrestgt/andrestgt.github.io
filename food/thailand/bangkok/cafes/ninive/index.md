@@ -16,7 +16,7 @@ This should be your pizza place of choice around Phra Khanong. Baked freshly rig
 
 <figure>
   <img src="/photos/thailand/bangkok/ninive-2.jpg" alt="Ninive – Wood-Fired Pizza">
-  <figcaption>Ninive – Wood-Fired Pizza</figcaption>
+  <figcaption>Pizza Quattro Formaggi</figcaption>
 </figure>
 
 ## Ratings
