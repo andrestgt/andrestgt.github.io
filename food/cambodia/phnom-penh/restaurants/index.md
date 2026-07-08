@@ -17,6 +17,8 @@ subtitle: Restaurants in Phnom Penh
 Real Lebanese food in Phnom Penh, sumptuous meze platters, simple setting, not cheap but genuinely good value.
 → [Read the full review](/food/cambodia/phnom-penh/restaurants/hummus-house/)
 
+---
+
 ## Aroma Chef
 *Street 172 · Khmer, Bar*
 Street 172 favourite for cheap, excellent passion fruit mojitos and reliable, well-priced Khmer food.
