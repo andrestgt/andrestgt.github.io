@@ -9,14 +9,14 @@ subtitle: Nong Khiaw · Indian
 
 <figure>
   <img src="/photos/laos/nong-khiaw/chennai-restaurant-1.jpg" alt="Chennai Restaurant">
-  <figcaption>Chennai Restaurant</figcaption>
+  <figcaption>Samosa</figcaption>
 </figure>
 
 The chicken keema curry, garlic naan, and samosas were decent enough, although the food could have used more spice. Prices are low, the mango lassi is good, and overall it's not a bad option if you suddenly crave Indian food in Nong Khiaw.
 
 <figure>
   <img src="/photos/laos/nong-khiaw/chennai-restaurant-2.jpg" alt="Chennai Restaurant">
-  <figcaption>Chennai Restaurant</figcaption>
+  <figcaption>Garlc Naan</figcaption>
 </figure>
 
 ## Ratings

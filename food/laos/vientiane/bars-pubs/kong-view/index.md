@@ -27,7 +27,7 @@ This place is expensive, with 20k beer and even most snacks around 50k. But the 
 
 <figure>
   <img src="/photos/laos/vientiane/kong-view-4.jpg" alt="Kong View">
-  <figcaption>Kong View</figcaption>
+  <figcaption>Sweet and sour fried chicken</figcaption>
 </figure>
 
 ## Ratings

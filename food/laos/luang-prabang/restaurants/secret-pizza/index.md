@@ -17,11 +17,11 @@ Secret Pizza is only open twice a week, but it's absolutely worth planning aroun
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/laos/luang-prabang/secret-pizza-2.jpg" alt="Secret Pizza">
-  <figcaption>Secret Pizza</figcaption>
+  <figcaption>Pizza Napoli</figcaption>
 </figure>
 <figure>
   <img src="/photos/laos/luang-prabang/secret-pizza-3.jpg" alt="Secret Pizza">
-  <figcaption>Secret Pizza</figcaption>
+  <figcaption>Lasagne</figcaption>
 </figure>
 </div>
 

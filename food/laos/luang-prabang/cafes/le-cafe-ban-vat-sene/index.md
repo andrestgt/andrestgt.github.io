@@ -21,7 +21,7 @@ Le Café serves the best cappuccino I managed to find in Luang Prabang, which ad
 </figure>
 <figure>
   <img src="/photos/laos/luang-prabang/le-cafe-ban-vat-sene-3.jpg" alt="Le Café Ban Vat Sene">
-  <figcaption>Le Café Ban Vat Sene</figcaption>
+  <figcaption>Tartine au magret de canard</figcaption>
 </figure>
 </div>
 

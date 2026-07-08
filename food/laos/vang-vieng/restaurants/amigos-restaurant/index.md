@@ -9,14 +9,14 @@ subtitle: Vang Vieng · Mexican
 
 <figure>
   <img src="/photos/laos/vang-vieng/amigos-restaurant-1.jpg" alt="Amigo's Restaurant">
-  <figcaption>Amigo's Restaurant</figcaption>
+  <figcaption>Burrito</figcaption>
 </figure>
 
 For a backpacker-oriented Mexican restaurant in Southeast Asia, Amigo's serves surprisingly good food. The burritos are nicely presented and the mango salsa in particular works very well.
 
 <figure>
   <img src="/photos/laos/vang-vieng/amigos-restaurant-2.jpg" alt="Amigo's Restaurant">
-  <figcaption>Amigo's Restaurant</figcaption>
+  <figcaption>Mexican Bruschette</figcaption>
 </figure>
 
 ## Ratings

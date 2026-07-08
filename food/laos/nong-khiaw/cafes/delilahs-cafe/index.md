@@ -16,7 +16,7 @@ Very comfortable place to spend a lazy afternoon. It gets busy at breakfast time
 
 <figure>
   <img src="/photos/laos/nong-khiaw/delilahs-cafe-2.jpg" alt="Delilah's Café and Hostel">
-  <figcaption>Delilah's Café and Hostel</figcaption>
+  <figcaption>Shakshouka</figcaption>
 </figure>
 
 ## Ratings

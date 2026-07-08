@@ -17,11 +17,11 @@ Pizza Phan Luang serves proper wood-fired pizzas at fair prices. The anchovy ver
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/laos/luang-prabang/pizza-phan-luang-2.jpg" alt="Pizza Phan Luang">
-  <figcaption>Pizza Phan Luang</figcaption>
+  <figcaption>Pizza Napoli</figcaption>
 </figure>
 <figure>
   <img src="/photos/laos/luang-prabang/pizza-phan-luang-3.jpg" alt="Pizza Phan Luang">
-  <figcaption>Pizza Phan Luang</figcaption>
+  <figcaption>Chicken Curry Pizza</figcaption>
 </figure>
 </div>
 

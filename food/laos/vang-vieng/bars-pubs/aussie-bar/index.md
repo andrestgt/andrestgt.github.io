@@ -9,7 +9,7 @@ subtitle: Vang Vieng · Bar
 
 <figure>
   <img src="/photos/laos/vang-vieng/aussie-bar-2.jpg" alt="Aussie Bar">
-  <figcaption>Aussie Bar</figcaption>
+  <figcaption>Pork Larb</figcaption>
 </figure>
 
 

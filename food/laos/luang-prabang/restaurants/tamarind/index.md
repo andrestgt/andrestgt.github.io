@@ -17,17 +17,17 @@ If you only eat at one Lao restaurant in Luang Prabang, Tamarind is probably the
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/laos/luang-prabang/tamarind-2.jpg" alt="Tamarind">
-  <figcaption>Tamarind</figcaption>
+  <figcaption>Koy Pa</figcaption>
 </figure>
 <figure>
   <img src="/photos/laos/luang-prabang/tamarind-3.jpg" alt="Tamarind">
-  <figcaption>Tamarind</figcaption>
+  <figcaption>Beer Lao Snack Plate</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/laos/luang-prabang/tamarind-4.jpg" alt="Tamarind">
-  <figcaption>Tamarind</figcaption>
+  <figcaption>Bamboo Shoot Soup</figcaption>
 </figure>
 
 ## Ratings

@@ -9,7 +9,7 @@ subtitle: Vang Vieng · German, Thai
 
 <figure>
   <img src="/photos/laos/vang-vieng/viman-german-restaurant-1.jpg" alt="Viman Vang Vieng German Restaurant">
-  <figcaption>Viman Vang Vieng German Restaurant</figcaption>
+  <figcaption>Green Chicken Curry</figcaption>
 </figure>
 
 Unusual little restaurant serving both Thai and German home-style food, and surprisingly doing both rather well. The Thai curry was very good, and the German meatballs with fried potatoes were really satisfying too.

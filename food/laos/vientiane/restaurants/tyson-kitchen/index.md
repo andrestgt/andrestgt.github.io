@@ -9,7 +9,7 @@ subtitle: Vientiane · Pizza, Lao Fusion
 
 <figure>
   <img src="/photos/laos/vientiane/tyson-kitchen-1.jpg" alt="Tyson Kitchen">
-  <figcaption>Tyson Kitchen</figcaption>
+  <figcaption>Lao Pizza</figcaption>
 </figure>
 
 Fantastic gastro bar with pizza from the wood-fired oven. Choose a classic, create your own, or go for the Lao pizza with larb and basil. Mouth-wateringly good fusion food. Prices are perfectly fair for the area and the quality.

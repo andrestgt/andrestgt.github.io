@@ -9,7 +9,7 @@ subtitle: Vang Vieng · Indian
 
 <figure>
   <img src="/photos/laos/vang-vieng/nazim-indian-restaurant-1.jpg" alt="Nazim Indian Restaurant">
-  <figcaption>Nazim Indian Restaurant</figcaption>
+  <figcaption>Garlic Naan</figcaption>
 </figure>
 
 Almost two decades ago, on my first trips to Laos, Nazim always delivered a big, tasty meal of dishes that closely resembled the food I had eaten in India. Not amazing but cheap, good and filling. Coming back, I still wanted to give it another chance, bad idea. The chicken saag tasted of nothing and had the cheapest cut of meat inside. A real disappointment, and quite expensive for what it was. Two stars only for the naan, which was okay.

@@ -16,7 +16,7 @@ In a town increasingly filled with expensive cafés and tourist-oriented restaur
 
 <figure>
   <img src="/photos/laos/luang-prabang/local-noodle-shop-2.jpg" alt="Local Noodle Shop">
-  <figcaption>Local Noodle Shop</figcaption>
+  <figcaption>Lao Chicken Noodle Soup</figcaption>
 </figure>
 
 ## Ratings
