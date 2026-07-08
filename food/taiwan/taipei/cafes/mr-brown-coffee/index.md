@@ -8,7 +8,7 @@ subtitle: Datong, Taipei · Café
 
 <figure>
   <img src="/photos/taiwan/taipei/mr-brown-coffee-1.jpg" alt="Mr. Brown Coffee">
-  <figcaption>Mr. Brown Coffee</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 The local Starbucks. Not very atmospheric and quite expensive (110 NT$ for a cappuccino). But the coffee was excellent, smooth and perfectly prepared.

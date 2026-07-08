@@ -16,11 +16,11 @@ Very cute little alley café with just a few seats. A smooth, nicely prepared ca
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/taiwan/tainan/lazy-day-2.jpg" alt="Lazy Day">
-  <figcaption>Lazy Day</figcaption>
+  <figcaption>Matcha Lava Cake and Ice Cream</figcaption>
 </figure>
 <figure>
   <img src="/photos/taiwan/tainan/lazy-day-3.jpg" alt="Lazy Day">
-  <figcaption>Lazy Day</figcaption>
+  <figcaption>Matcha Lava Cake and Ice Cream</figcaption>
 </figure>
 </div>
 

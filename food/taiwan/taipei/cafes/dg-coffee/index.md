@@ -8,7 +8,7 @@ subtitle: Dihua St, Datong, Taipei · Specialty Coffee
 
 <figure>
   <img src="/photos/taiwan/taipei/Taiwan18-0029.jpg" alt="D&G Coffee">
-  <figcaption>D&G Coffee</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Possibly the prettiest café in town, although the prices really are over the top (200 NT$ for a cappuccino). At least the quality is good and you get a complimentary lime water with your cup.

@@ -8,7 +8,7 @@ subtitle: West Central District, Tainan · Taiwanese
 
 <figure>
   <img src="/photos/taiwan/tainan/shi-jing-jiu-danzai-noodles-1.jpg" alt="Shi Jing Jiu Danzai Noodles">
-  <figcaption>Shi Jing Jiu Danzai Noodles</figcaption>
+  <figcaption>Danzai Noodles</figcaption>
 </figure>
 
 Danzai noodles (50 NT$) and century egg (15 NT$), a tasty combination for a noodle soup breakfast.

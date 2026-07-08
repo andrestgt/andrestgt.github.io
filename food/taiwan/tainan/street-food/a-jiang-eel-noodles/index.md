@@ -15,7 +15,7 @@ Eel noodles, very tasty. 120 NT$ for a pretty big portion. Must try when in Tain
 
 <figure>
   <img src="/photos/taiwan/tainan/a-jiang-eel-noodles-2.jpg" alt="A-Jiang Eel Noodles">
-  <figcaption>A-Jiang Eel Noodles</figcaption>
+  <figcaption>Eel Noodles</figcaption>
 </figure>
 
 ## Ratings

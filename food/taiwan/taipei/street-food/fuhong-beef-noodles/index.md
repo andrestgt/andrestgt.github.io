@@ -15,7 +15,7 @@ Insanely good beef noodles. The broth, the meat, the noodles; it's all just deli
 
 <figure>
   <img src="/photos/taiwan/taipei/fuhong-beef-noodles-2.jpg" alt="Fuhong Beef Noodles">
-  <figcaption>Fuhong Beef Noodles</figcaption>
+  <figcaption>Beef Noodle Soup</figcaption>
 </figure>
 
 ## Ratings
