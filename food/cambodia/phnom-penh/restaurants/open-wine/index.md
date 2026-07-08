@@ -21,14 +21,14 @@ Semi-fancy French restaurant with great lunch deals and fine dining for dinner. 
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/open-wine-3.jpg" alt="Open Wine">
-  <figcaption>Open Wine</figcaption>
+  <figcaption>Boudin Noir</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/open-wine-4.jpg" alt="Open Wine">
-  <figcaption>Open Wine</figcaption>
+  <figcaption>Salmon Carpaccio</figcaption>
 </figure>
 </div>
 

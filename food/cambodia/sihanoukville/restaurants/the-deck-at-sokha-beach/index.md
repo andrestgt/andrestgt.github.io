@@ -18,11 +18,11 @@ This is probably Sihanoukville's fanciest and best restaurant, but given the ama
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/the-deck-at-sokha-beach-6.jpg" alt="The Deck at Sokha Beach">
-  <figcaption>The Deck at Sokha Beach</figcaption>
+  <figcaption>Deck Bites</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/sihanoukville/the-deck-at-sokha-beach-7.jpg" alt="The Deck at Sokha Beach">
-  <figcaption>The Deck at Sokha Beach</figcaption>
+  <figcaption>Deck Bites</figcaption>
 </figure>
 </div>
 
@@ -43,11 +43,11 @@ This is probably Sihanoukville's fanciest and best restaurant, but given the ama
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/the-deck-at-sokha-beach-10.jpg" alt="The Deck at Sokha Beach">
-  <figcaption>The Deck at Sokha Beach</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/sihanoukville/the-deck-at-sokha-beach-11.jpg" alt="The Deck at Sokha Beach">
-  <figcaption>The Deck at Sokha Beach</figcaption>
+  <figcaption>Wonton Shiitake Consommé</figcaption>
 </figure>
 </div>
 ## Ratings

@@ -47,7 +47,7 @@ Moorea is probably my favourite place around Otres Beach. Very comfortable cushi
 </figure>
 <figure>
   <img src="/photos/cambodia/sihanoukville/moorea-beach-9.jpg" alt="Moorea Beach">
-  <figcaption>Moorea Beach</figcaption>
+  <figcaption>Fish Carpaccio</figcaption>
 </figure>
 </div>
 

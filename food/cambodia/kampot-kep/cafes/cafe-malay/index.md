@@ -17,11 +17,11 @@ The former Malay at the Old Market moved to new bigger premises with the eponymo
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/kampot-kep/cafe-malay-2.jpg" alt="Café Malay – The Garden Café">
-  <figcaption>Café Malay – The Garden Café</figcaption>
+  <figcaption>Khmer Chicken Curry</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/kampot-kep/cafe-malay-3.jpg" alt="Café Malay – The Garden Café">
-  <figcaption>Café Malay – The Garden Café</figcaption>
+  <figcaption>German cheese cake</figcaption>
 </figure>
 </div>
 

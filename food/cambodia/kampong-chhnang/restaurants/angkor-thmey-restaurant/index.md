@@ -9,7 +9,7 @@ subtitle: Kampong Chhnang · Khmer
 
 <figure>
   <img src="/photos/cambodia/kampong-chhnang/angkor-thmey-restaurant-1.jpg" alt="Angkor Thmey Restaurant">
-  <figcaption>Angkor Thmey Restaurant</figcaption>
+  <figcaption>Pork with Pineapple</figcaption>
 </figure>
 
 If you happen to find yourself stuck in Kampong Chhnang, Angkor Thmey is a solid option. They serve a good variety of standard Khmer dishes, have an English menu, and even manage a bottle of red wine that is at least reasonably drinkable.
@@ -17,11 +17,11 @@ If you happen to find yourself stuck in Kampong Chhnang, Angkor Thmey is a solid
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/kampong-chhnang/angkor-thmey-restaurant-2.jpg" alt="Angkor Thmey Restaurant">
-  <figcaption>Angkor Thmey Restaurant</figcaption>
+  <figcaption>Fried Fish</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/kampong-chhnang/angkor-thmey-restaurant-3.jpg" alt="Angkor Thmey Restaurant">
-  <figcaption>Angkor Thmey Restaurant</figcaption>
+  <figcaption>Stir-fried Beef</figcaption>
 </figure>
 </div>
 

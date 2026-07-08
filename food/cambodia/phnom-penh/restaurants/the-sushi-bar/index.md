@@ -32,7 +32,7 @@ The Sushi Bar serves fresh sashimi, very decent rolls, and keeps prices relative
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-5.jpg" alt="The Sushi Bar">
-  <figcaption>Salmon Roll</figcaption>
+  <figcaption>Salmon Gunkan Sushi</figcaption>
 </figure>
 </div>
 
@@ -43,24 +43,24 @@ The Sushi Bar serves fresh sashimi, very decent rolls, and keeps prices relative
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-7.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Seared Tuna</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-8.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Salmon and Maguro Sashimi</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-9.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Salmon Ikura Roll</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-10.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Futomaki</figcaption>
 </figure>
 
 ## Ratings

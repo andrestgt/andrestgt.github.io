@@ -9,7 +9,7 @@ subtitle: Sisowath Quay, Phnom Penh · Café
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/cafe-fresco-bakery-1.jpg" alt="Cafe Fresco Bakery">
-  <figcaption>Cafe Fresco Bakery</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Cafe Fresco used to be one of the best cafés in Phnom Penh back in the 2000s, with genuinely good coffee and excellent sandwiches. Sadly the place has declined dramatically since then, and nowadays there is really no reason to visit when there are so many far better cafés nearby.

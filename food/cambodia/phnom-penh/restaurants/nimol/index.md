@@ -21,7 +21,7 @@ Local outdoor eatery with a good, varied English menu of Khmer classics and pers
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/nimol-3.jpg" alt="Nimol">
-  <figcaption>Khmer Beef Salad</figcaption>
+  <figcaption>Plua Sait Ko</figcaption>
 </figure>
 </div>
 

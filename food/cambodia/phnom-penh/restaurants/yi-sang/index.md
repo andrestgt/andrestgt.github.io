@@ -17,22 +17,22 @@ There used to be a time when Yi Sang was pretty much the only option for quality
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/yi-sang-2.jpg" alt="Yi Sang">
-  <figcaption>Yi Sang</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/yi-sang-3.jpg" alt="Yi Sang">
-  <figcaption>Yi Sang</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/yi-sang-4.jpg" alt="Yi Sang">
-  <figcaption>Yi Sang</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/yi-sang-5.jpg" alt="Yi Sang">
-  <figcaption>Yi Sang</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 </div>
 
@@ -43,13 +43,13 @@ There used to be a time when Yi Sang was pretty much the only option for quality
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/yi-sang-7.jpg" alt="Yi Sang">
-  <figcaption>Yi Sang</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/yi-sang-8.jpg" alt="Yi Sang">
-  <figcaption>Yi Sang</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 ## Ratings

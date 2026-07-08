@@ -28,14 +28,14 @@ Khmer Delight is a pleasant little tourist restaurant with a surprisingly decent
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/battambang/khmer-delight-restaurant-5.jpg" alt="Khmer Delight Restaurant">
-  <figcaption>Khmer Delight Restaurant</figcaption>
+  <figcaption>Shrimp Tempura</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/battambang/khmer-delight-restaurant-6.jpg" alt="Khmer Delight Restaurant">
-  <figcaption>Khmer Delight Restaurant</figcaption>
+  <figcaption>Khmer Chicken Curry</figcaption>
 </figure>
 </div>
 
