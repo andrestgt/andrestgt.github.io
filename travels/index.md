@@ -9,6 +9,10 @@ index: true
 
 Long-form travel writing, organised by journey and country.
 
+## Palawan Revisited (2025)
+Puerto Princesa &middot; Port Barton &middot; San Vicente &middot; El Nido
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/palawan-2025/)
+
 ## Eastern Indonesia (2026)
 Raja Ampat &middot; Banda Islands &middot; Kei Islands
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/eastern-indonesia-2026/)
@@ -128,4 +132,3 @@ Thailand &middot; Vietnam
 ## USA Road Trip (2000)
 California &middot; Arizona &middot; Utah &middot; Nevada &middot; Hawaii
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/usa-2000/)
-
