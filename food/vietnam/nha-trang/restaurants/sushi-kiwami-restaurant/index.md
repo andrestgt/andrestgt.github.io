@@ -8,7 +8,7 @@ subtitle: Nha Trang · Japanese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam16-0004.jpg" alt="Sushi Kiwami Restaurant">
-  <figcaption>Sushi Kiwami Restaurant</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 
 Lucky to have this excellent Japanese run sushi joint in Nha Trang. This competently Japanese-run place is hands down the best sushi place in town. The location is a bit away from the main tourist area, and the place is tiny, but the place has an authentic feel to it, which includes a Japanese chef behind the counter and smoking Japanese patrons in front.
@@ -26,17 +26,17 @@ Only drawback is that it has become so popular, it's getting hard to get a table
 
 <figure>
   <img src="/photos/vietnam/nha-trang/sushi-kiwami-restaurant-2.jpg" alt="Sushi Kiwami Restaurant">
-  <figcaption>Sushi Kiwami Restaurant</figcaption>
+  <figcaption>Bento Box</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/sushi-kiwami-restaurant-3.jpg" alt="Sushi Kiwami Restaurant">
-  <figcaption>Sushi Kiwami Restaurant</figcaption>
+  <figcaption>Wasabi Octopus</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/sushi-kiwami-restaurant-4.jpg" alt="Sushi Kiwami Restaurant">
-  <figcaption>Sushi Kiwami Restaurant</figcaption>
+  <figcaption>Sass Roll</figcaption>
 </figure>
 
 

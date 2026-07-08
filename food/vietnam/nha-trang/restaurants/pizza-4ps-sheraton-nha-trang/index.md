@@ -17,33 +17,33 @@ They serve craft beers from the tap for less than you'd pay in most local bars (
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-2.jpg" alt="Pizza 4P's Sheraton Nha Trang">
-  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+  <figcaption>Pizza Quattro Formaggi</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-3.jpg" alt="Pizza 4P's Sheraton Nha Trang">
-  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+  <figcaption>Cheese Fondue</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-4.jpg" alt="Pizza 4P's Sheraton Nha Trang">
-  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+  <figcaption>Pizza con Burrata</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-5.jpg" alt="Pizza 4P's Sheraton Nha Trang">
-  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+  <figcaption>Burrata Salad</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-6.jpg" alt="Pizza 4P's Sheraton Nha Trang">
-  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+  <figcaption>Cheese Platter</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/pizza-4ps-sheraton-nha-trang-7.jpg" alt="Pizza 4P's Sheraton Nha Trang">
-  <figcaption>Pizza 4P's Sheraton Nha Trang</figcaption>
+  <figcaption>Pizza Prosciutto e Rucola</figcaption>
 </figure>
 </div>
 

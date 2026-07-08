@@ -8,7 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/da-lat/cary-vit-1.jpg" alt="Cary Vịt">
-  <figcaption>Cary Vịt</figcaption>
+  <figcaption>Ca Ri Vit</figcaption>
 </figure>
 
 This place is a must on any street food tour of Dalat. Duck curry with either baguette or noodles. It's a rare dish and they're doing a really nice version for only 30k. The duck meat here is very flavourful

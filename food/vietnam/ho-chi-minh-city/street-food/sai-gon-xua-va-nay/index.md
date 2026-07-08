@@ -8,7 +8,7 @@ subtitle: Bến Thành · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sai-gon-xua-va-nay-3.jpg" alt="Sài Gòn Xưa và Nay">
-  <figcaption>Sài Gòn Xưa và Nay</figcaption>
+  <figcaption>Grilled Pork Ribs</figcaption>
 </figure>
 
 Authentic drinking place with a large food menu. The food here is good, especially the hotpot but prices are Saigon downtown, which means it's not cheap for a basic place with small plastic chairs on the pavement
@@ -16,7 +16,7 @@ Authentic drinking place with a large food menu. The food here is good, especial
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sai-gon-xua-va-nay-2.jpg" alt="Sài Gòn Xưa và Nay">
-  <figcaption>Sài Gòn Xưa và Nay</figcaption>
+  <figcaption>Seafood Hotpot</figcaption>
 </figure>
 
 

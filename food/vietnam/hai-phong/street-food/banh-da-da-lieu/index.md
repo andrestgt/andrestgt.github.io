@@ -8,7 +8,7 @@ subtitle: Ngô Quyền · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hai-phong/banh-da-da-lieu-1.jpg" alt="Bánh Đa Da Liễu">
-  <figcaption>Bánh Đa Da Liễu</figcaption>
+  <figcaption>Banh Da Cua</figcaption>
 </figure>
 
 The bánh đa cua here is good without being particularly memorable, but the very central location makes it a convenient stop when exploring Hải Phòng. Seating consists of the usual tiny plastic stools in a narrow alley, which is all part of the experience. At 30k a bowl, the pricing is perfectly fair.

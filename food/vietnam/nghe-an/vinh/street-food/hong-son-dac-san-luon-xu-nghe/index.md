@@ -8,7 +8,7 @@ subtitle: Vinh · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/vinh/hong-son-dac-san-luon-xu-nghe-1.jpg" alt="HỒNG SƠN (đặc sản lươn xứ Nghệ)">
-  <figcaption>HỒNG SƠN (đặc sản lươn xứ Nghệ)</figcaption>
+  <figcaption>Mien Luon</figcaption>
 </figure>
 
 Nghe An is famous for its eel dishes and this clean, well run restaurant is one of the most popular places to try sup luon, or eel soup. It's 55k a bowl but you get a very generous amount of eel for this. The quality of the fish is indeed excellent, eel can be problematic taste wise, but here it tastes absolutely fresh and clean. The broth could do with a bit more flavour, but that's a matter of taste. They also do a good, and more flavourful, Sot Vang with generous beef for 40k

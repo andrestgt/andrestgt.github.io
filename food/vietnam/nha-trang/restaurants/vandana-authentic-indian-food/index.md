@@ -8,7 +8,7 @@ subtitle: Nha Trang · Indian
 
 <figure>
   <img src="/photos/vietnam/nha-trang/vandana-authentic-indian-food-1.jpg" alt="Vandana Authentic Indian Food">
-  <figcaption>Vandana Authentic Indian Food</figcaption>
+  <figcaption>Samosas</figcaption>
 </figure>
 
 Tasty and authentic Indian food served on a lovely rooftop terrace that doubles as a cocktail bar.
@@ -21,7 +21,7 @@ Prices are affordable with most mains around 100-150k.
 
 <figure>
   <img src="/photos/vietnam/nha-trang/vandana-authentic-indian-food-2.jpg" alt="Vandana Authentic Indian Food">
-  <figcaption>Vandana Authentic Indian Food</figcaption>
+  <figcaption>Chicken Korma</figcaption>
 </figure>
 
 

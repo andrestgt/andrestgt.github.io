@@ -8,14 +8,14 @@ subtitle: A Lưới · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hue/venus-beer-garden-1.jpg" alt="Venus Beer Garden">
-  <figcaption>Venus Beer Garden</figcaption>
+  <figcaption>Cha Gio</figcaption>
 </figure>
 
 A bit more upmarket than A Luoi's other eateries, this beer garden still sells Huda for 10k a bottle and has a good varied menu of drinking food, including items that are quite rare to be found such as raw beef salad or fish spring rolls (90k each). The food here is good rather than great, but the location is very convenient, just next door to the town's most popular guesthouse
 
 <figure>
   <img src="/photos/vietnam/hue/venus-beer-garden-2.jpg" alt="Venus Beer Garden">
-  <figcaption>Venus Beer Garden</figcaption>
+  <figcaption>Raw Beef Salad</figcaption>
 </figure>
 
 ## Ratings

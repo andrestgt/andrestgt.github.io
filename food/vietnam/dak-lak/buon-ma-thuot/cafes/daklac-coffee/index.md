@@ -14,7 +14,7 @@ subtitle: Dak Lak · Coffee
 
 <figure>
   <img src="/photos/vietnam/buon-ma-thuot/daklac-coffee-1.jpg" alt="DakLac Coffee">
-  <figcaption>DakLac Coffee</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 It shouldn't come as a surprise that it's easy to get great coffee in Vietnam's coffee capital where it seems almost every other house is a coffee shop. And the coffee in BMT is indeed inexpensive and of great quality pretty much wherever you choose to go. Even in a fancier café such as this one with cushioned seats and local art on the walls, you get a beautiful cappuccino for just 30k and a Vietnamese filter coffee for half.

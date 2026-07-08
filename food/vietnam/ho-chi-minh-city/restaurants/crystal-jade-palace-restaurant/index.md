@@ -8,7 +8,7 @@ subtitle: Sài Gòn · Chinese · Dim Sum
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Cycling14-0016.jpg" alt="Crystal Jade Palace Restaurant">
-  <figcaption>Crystal Jade Palace Restaurant</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 Throughout South East Asia, the Crystal Jade franchise stands for high quality dumplings, and its only outlet in Vietnam is no exception to the rule.

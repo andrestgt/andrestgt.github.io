@@ -17,7 +17,7 @@ Small, upmarket food court in a prime location, perfect for sampling a wide vari
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/asiana-food-town-cho-am-thuc-duoi-long-dat-2.jpg" alt="Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)">
-  <figcaption>Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)</figcaption>
+  <figcaption>Bun Cha</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/asiana-food-town-cho-am-thuc-duoi-long-dat-3.jpg" alt="Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)">
@@ -32,18 +32,18 @@ Small, upmarket food court in a prime location, perfect for sampling a wide vari
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/asiana-food-town-cho-am-thuc-duoi-long-dat-5.jpg" alt="Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)">
-  <figcaption>Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)</figcaption>
+  <figcaption>Steamed Fish</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/asiana-food-town-cho-am-thuc-duoi-long-dat-6.jpg" alt="Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)">
-  <figcaption>Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)</figcaption>
+  <figcaption>Steamed Fish</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/asiana-food-town-cho-am-thuc-duoi-long-dat-7.jpg" alt="Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)">
-  <figcaption>Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)</figcaption>
+  <figcaption>Steamed Fish Roll</figcaption>
 </figure>
 </div>
 
@@ -54,13 +54,13 @@ Small, upmarket food court in a prime location, perfect for sampling a wide vari
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/asiana-food-town-cho-am-thuc-duoi-long-dat-9.jpg" alt="Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)">
-  <figcaption>Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/asiana-food-town-cho-am-thuc-duoi-long-dat-10.jpg" alt="Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)">
-  <figcaption>Asiana Food Town (Chợ Ẩm Thực Dưới Lòng Đất)</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 
 

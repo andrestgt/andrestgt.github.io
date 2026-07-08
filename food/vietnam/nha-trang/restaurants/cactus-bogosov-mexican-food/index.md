@@ -8,7 +8,7 @@ subtitle: Nha Trang · Mexican
 
 <figure>
   <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-1.jpg" alt="Cactus Bogosov Mexican Food">
-  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+  <figcaption>Burritos</figcaption>
 </figure>
 
 This is currently the only place in Nha Trang serving food that at least somewhat resembles Mexican (or rather Tex Mex) food. And as such, I'm glad it exists even though the food is not always top notch and portions are rather small for the prices they charge. Its 180k for a smallish beef burrito that comes without sour cream and guacamole is seasonally available only. The taste is fine though and I really like their tuna tacos (130k)
@@ -16,28 +16,28 @@ This is currently the only place in Nha Trang serving food that at least somewha
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-2.jpg" alt="Cactus Bogosov Mexican Food">
-  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+  <figcaption>Tuna Tacos</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-3.jpg" alt="Cactus Bogosov Mexican Food">
-  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+  <figcaption>Quesadilla</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-4.jpg" alt="Cactus Bogosov Mexican Food">
-  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+  <figcaption>Mexican Burger with Purple Yam Fries</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-5.jpg" alt="Cactus Bogosov Mexican Food">
-  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+  <figcaption>Tuna Fajitas</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/cactus-bogosov-mexican-food-6.jpg" alt="Cactus Bogosov Mexican Food">
-  <figcaption>Cactus Bogosov Mexican Food</figcaption>
+  <figcaption>Tuna Fajitas</figcaption>
 </figure>
 
 ## Ratings

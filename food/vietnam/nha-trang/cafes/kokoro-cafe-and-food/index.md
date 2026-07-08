@@ -8,7 +8,7 @@ subtitle: Nha Trang · Coffee
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Viet21-0028.jpg" alt="Kokoro Cafe & Food">
-  <figcaption>Kokoro Cafe & Food</figcaption>
+  <figcaption>Goi Cuon</figcaption>
 </figure>
 
 A throwback to Nha Trang's better days as a backpacker haven, Kokoro offers cold beers, good coffees and tasty traveller fare in a shady courtyard at very fair prices.

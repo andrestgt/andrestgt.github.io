@@ -17,7 +17,7 @@ There's a rather pricey menu of international dishes, but we only ever came here
 
 <figure>
   <img src="/photos/vietnam/con-dao/Viet22-0944.jpg" alt="Infiniti Cafe Restaurant">
-  <figcaption>Infiniti Cafe Restaurant</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 ## Ratings

@@ -21,7 +21,7 @@ My go to place for banh cuon in Hanoi for almost two decades. Almost unchanged s
 </figure>
 <figure>
   <img src="/photos/vietnam/hanoi/tue-an-banh-cuon-nong-pho-bo-bao-khanh-4.jpg" alt="Tuệ An | Bánh Cuốn Nóng & Phở Bò Bảo Khánh">
-  <figcaption>Tuệ An | Bánh Cuốn Nóng & Phở Bò Bảo Khánh</figcaption>
+  <figcaption>Banh Cuon</figcaption>
 </figure>
 </div>
 

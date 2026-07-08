@@ -15,7 +15,7 @@ The nicest and comfiest Western-style coffee shop in Hội An, and an ideal stop
 
 <figure>
   <img src="/photos/vietnam/hoi-an/hoi-an-roastery-roastery-2-1.jpg" alt="Hoi An Roastery - Roastery 2">
-  <figcaption>Hoi An Roastery - Roastery 2</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 ## Ratings

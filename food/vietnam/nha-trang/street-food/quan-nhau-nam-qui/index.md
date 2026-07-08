@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam16-0153.jpg" alt="Quan Nhau Nam Qui">
-  <figcaption>Quan Nhau Nam Qui</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 
 Tourists go to Lac Canh, connoisseurs go to this place for their Vietnamese BBQ, although it's a bit out of the way and there's no English menu.

@@ -8,7 +8,7 @@ subtitle: Nha Trang · Bar & Distillery
 
 <figure>
   <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-1.jpg" alt="Kilo Distillery & Bar">
-  <figcaption>Kilo Distillery & Bar</figcaption>
+  <figcaption>Merguez Pizza</figcaption>
 </figure>
 
 Lovely off the beaten track bar and distillery only open at the weekend and for special events which makes it all the more intriguing. There's tasty homemade pick and mix pizzas with quality ingredients that are rather exotic in Vietnam such as capers, merguez or smoked salmon. Prices are very reasonable with beers starting from 20k, pizzas from around 100k, and the spirits from the on site distillery are inexpensive, too. Highly recommended
@@ -17,28 +17,28 @@ Lovely off the beaten track bar and distillery only open at the weekend and for 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-2.jpg" alt="Kilo Distillery & Bar">
-  <figcaption>Kilo Distillery & Bar</figcaption>
+  <figcaption>Salmon Pizza</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-3.jpg" alt="Kilo Distillery & Bar">
-  <figcaption>Kilo Distillery & Bar</figcaption>
+  <figcaption>Blue Cheese Pizza</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-4.jpg" alt="Kilo Distillery & Bar">
-  <figcaption>Kilo Distillery & Bar</figcaption>
+  <figcaption>Bluecheese Pizza</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-5.jpg" alt="Kilo Distillery & Bar">
-  <figcaption>Kilo Distillery & Bar</figcaption>
+  <figcaption>Salmon Pizza</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/kilo-distillery-bar-6.jpg" alt="Kilo Distillery & Bar">
-  <figcaption>Kilo Distillery & Bar</figcaption>
+  <figcaption>Ice Cream Cake</figcaption>
 </figure>
 
 

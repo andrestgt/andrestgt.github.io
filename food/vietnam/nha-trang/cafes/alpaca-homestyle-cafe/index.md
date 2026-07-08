@@ -8,7 +8,7 @@ subtitle: Nha Trang · Coffee
 
 <figure>
   <img src="/photos/vietnam/nha-trang/alpaca-homestyle-cafe-1.jpg" alt="Alpaca homestyle cafe">
-  <figcaption>Alpaca homestyle cafe</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 New location, still a cute café, but standards have slipped noticeably. What the menu describes as a cappuccino turned out to be a 60k cup of hot, bitter broth with cinnamon on top, which is simply indefensible. Better head to Time House instead for coffee that is both far superior and better value.

@@ -8,7 +8,7 @@ subtitle: Hải Châu · Japanese
 
 <figure>
   <img src="/photos/vietnam/da-nang/bushido-restaurant-1.jpg" alt="Bushido restaurant">
-  <figcaption>Bushido restaurant</figcaption>
+  <figcaption>Korean Barbecue</figcaption>
 </figure>
 
 Korean and Japanese food available here. The grilled meat dishes are excellent, from meat quality and to the marinade. Sashimi and sushi rolls are fresh and tasty, but portions are a bit stingy. Still it is good value in general. 10$/pax for a feast
@@ -16,28 +16,28 @@ Korean and Japanese food available here. The grilled meat dishes are excellent, 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-nang/bushido-restaurant-2.jpg" alt="Bushido restaurant">
-  <figcaption>Bushido restaurant</figcaption>
+  <figcaption>Korean Barbecue</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/da-nang/bushido-restaurant-3.jpg" alt="Bushido restaurant">
-  <figcaption>Bushido restaurant</figcaption>
+  <figcaption>Grilled Octopus</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-nang/bushido-restaurant-4.jpg" alt="Bushido restaurant">
-  <figcaption>Bushido restaurant</figcaption>
+  <figcaption>Grilled Octopus</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/da-nang/bushido-restaurant-5.jpg" alt="Bushido restaurant">
-  <figcaption>Bushido restaurant</figcaption>
+  <figcaption>Unagi Roll</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/da-nang/bushido-restaurant-6.jpg" alt="Bushido restaurant">
-  <figcaption>Bushido restaurant</figcaption>
+  <figcaption>Bibimbap</figcaption>
 </figure>
 
 ## Ratings

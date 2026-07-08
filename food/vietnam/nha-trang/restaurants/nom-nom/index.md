@@ -16,17 +16,17 @@ Cute little place tucked away in an alley, serving nicely presented bistro food 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/nom-nom-2.jpg" alt="Nom nom">
-  <figcaption>Nom nom</figcaption>
+  <figcaption>Tom Yam Soup</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/nom-nom-3.jpg" alt="Nom nom">
-  <figcaption>Nom nom</figcaption>
+  <figcaption>Duck Leg on a bed of Lentils</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/nom-nom-4.jpg" alt="Nom nom">
-  <figcaption>Nom nom</figcaption>
+  <figcaption>Seabass on Mash</figcaption>
 </figure>
 
 ## Ratings

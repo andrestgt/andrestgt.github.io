@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-1.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Vietnamese Beef Salad</figcaption>
 </figure>
 
 Lanterns has been Nha Trang's most popular tourist restaurant for many years now but i never really saw why, as i was slightly underwhelmed by my first visit, and especially disappointed by their signature claypot dish, which tasted sweet and boring with medium quality fish.
@@ -33,50 +33,50 @@ Good service by Nha Trang standards.
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-2.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Fish Braised in Claypot</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-3.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Muc Nuong</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-4.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-5.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Bo La Lot</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-6.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Goi Buoi</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-7.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Vietnamese Chicken Curry</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-8.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Goi Cuon</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-9.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/lanterns-10.jpg" alt="Lanterns">
-  <figcaption>Lanterns</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 
 

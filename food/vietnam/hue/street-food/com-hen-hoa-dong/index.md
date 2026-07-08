@@ -8,7 +8,7 @@ subtitle: Huế · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hue/com-hen-hoa-dong-1.jpg" alt="Com Hen Hoa Dong">
-  <figcaption>Com Hen Hoa Dong</figcaption>
+  <figcaption>Mi Hen</figcaption>
 </figure>
 
 Not to be confused with its namesake further down the alley (spot the different accent in the name). This is neither a copycat nor some rip off scam, you get perfectly decent mussel rice and Hue cakes here for very little money, the problem is there's no real reason to eat here when just 50 metres down the road you get an excellent version of the same dishes for the same price
@@ -16,11 +16,11 @@ Not to be confused with its namesake further down the alley (spot the different 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hue/com-hen-hoa-dong-2.jpg" alt="Com Hen Hoa Dong">
-  <figcaption>Com Hen Hoa Dong</figcaption>
+  <figcaption>Mi Hen</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hue/com-hen-hoa-dong-3.jpg" alt="Com Hen Hoa Dong">
-  <figcaption>Com Hen Hoa Dong</figcaption>
+  <figcaption>Banh Loc</figcaption>
 </figure>
 </div>
 

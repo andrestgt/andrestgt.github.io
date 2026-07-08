@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/mon-ngon-ha-noi-1.jpg" alt="Món ngon Hà Nội">
-  <figcaption>Món ngon Hà Nội</figcaption>
+  <figcaption>Bun Ca</figcaption>
 </figure>
 
 Very good little hole in the wall place with authentic Hanoi food at fair prices.
@@ -17,7 +17,7 @@ Food presentation is surprisingly nice for an inexpensive basic eatery.
 
 <figure>
   <img src="/photos/vietnam/nha-trang/mon-ngon-ha-noi-2.jpg" alt="Món ngon Hà Nội">
-  <figcaption>Món ngon Hà Nội</figcaption>
+  <figcaption>Bun Cha</figcaption>
 </figure>
 
 

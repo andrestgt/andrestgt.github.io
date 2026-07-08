@@ -16,11 +16,11 @@ This is an odd place. It's actually well designed and attractive. They have a la
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-lat/cut-kit-2.jpg" alt="Cut Kit">
-  <figcaption>Cut Kit</figcaption>
+  <figcaption>Vietnamese Beef Salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/da-lat/cut-kit-4.jpg" alt="Cut Kit">
-  <figcaption>Cut Kit</figcaption>
+  <figcaption>Sausage Platter</figcaption>
 </figure>
 </div>
 

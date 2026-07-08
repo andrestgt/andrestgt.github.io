@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/time-house-bistro-1.jpg" alt="Time House Bistro">
-  <figcaption>Time House Bistro</figcaption>
+  <figcaption>Swiss Mushroom Burger</figcaption>
 </figure>
 
 Charming old-fashioned European style coffee house. They serve one of the best cappuccinos in town at a reasonable 50k. Comfy seating is available, but the colonial theme means there's no ac. Wifi is good though.
@@ -17,11 +17,11 @@ Food is rather pricey and rather hit and miss. While I love their merguez sandwi
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/time-house-bistro-2.jpg" alt="Time House Bistro">
-  <figcaption>Time House Bistro</figcaption>
+  <figcaption>Merguez Sandwich</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/time-house-bistro-3.jpg" alt="Time House Bistro">
-  <figcaption>Time House Bistro</figcaption>
+  <figcaption>Bo Ne</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Nha Trang · Korean
 
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-1.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Korean Appetisers</figcaption>
 </figure>
 
 Jejuga is currently my favourite Korean restaurant in Nha Trang. Quite a few Korean places in the tourist area have not survived the corona times, and whenever we came here we were the only customers, so I really hope they can keep going.
@@ -22,11 +22,11 @@ Their combos are great value so it's a good idea to bring friends, this is not a
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-2.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Koean Barbecue</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-3.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Kimbap</figcaption>
 </figure>
 </div>
 
@@ -37,35 +37,35 @@ Their combos are great value so it's a good idea to bring friends, this is not a
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-5.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Korean Pancake</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-6.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Korean Appetisers</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-7.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Kimbap</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-8.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Spicy Octopus</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-9.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Korean Appetisers</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/jejuga-10.jpg" alt="Jejuga">
-  <figcaption>Jejuga</figcaption>
+  <figcaption>Bibimbap</figcaption>
 </figure>
 
 

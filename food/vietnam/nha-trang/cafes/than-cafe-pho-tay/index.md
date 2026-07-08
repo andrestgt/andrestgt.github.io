@@ -15,8 +15,7 @@ subtitle: Nha Trang · Coffee
 <figure>
 
   <img src="/photos/vietnam/nha-trang/than-cafe-pho-tay-1.jpg" alt="THAN Cafe - PHỐ TÂY">
-
-  <figcaption>THAN Cafe - PHỐ TÂY</figcaption>
+  <figcaption>Cappuccino</figcaption>
 
 </figure>
 

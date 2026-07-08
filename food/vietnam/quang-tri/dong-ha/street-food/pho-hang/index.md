@@ -16,11 +16,11 @@ This neat, modern eatery serves very good bowl of Northern style Pho (both beef 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/dong-ha/pho-hang-2.jpg" alt="Phở Hằng">
-  <figcaption>Phở Hằng</figcaption>
+  <figcaption>Pho Bo</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/dong-ha/pho-hang-3.jpg" alt="Phở Hằng">
-  <figcaption>Phở Hằng</figcaption>
+  <figcaption>Pho Tron</figcaption>
 </figure>
 </div>
 

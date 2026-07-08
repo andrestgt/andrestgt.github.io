@@ -31,17 +31,17 @@ If you fancy Indian in Nha Trang, Ganesh is the place to go.
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-6.jpg" alt="Ganesh Indian Restaurant">
-  <figcaption>Ganesh Indian Restaurant</figcaption>
+  <figcaption>Chicken Tikka Masala</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-7.jpg" alt="Ganesh Indian Restaurant">
-  <figcaption>Ganesh Indian Restaurant</figcaption>
+  <figcaption>Chicken 65</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/ganesh-indian-restaurant-8.jpg" alt="Ganesh Indian Restaurant">
-  <figcaption>Ganesh Indian Restaurant</figcaption>
+  <figcaption>Palak Paneer</figcaption>
 </figure>
 
 

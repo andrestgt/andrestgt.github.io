@@ -16,17 +16,17 @@ The new premises are super nice and fancier than the prices would suggest. The q
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cheng-an-dimsum-2.jpg" alt="Cheng An Dimsum">
-  <figcaption>Cheng An Dimsum</figcaption>
+  <figcaption>Wonton soup</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/cheng-an-dimsum-3.jpg" alt="Cheng An Dimsum">
-  <figcaption>Cheng An Dimsum</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/cheng-an-dimsum-4.jpg" alt="Cheng An Dimsum">
-  <figcaption>Cheng An Dimsum</figcaption>
+  <figcaption>Mushroom Fried Noodles</figcaption>
 </figure>
 
 Most dim sum dishes are around 50k.

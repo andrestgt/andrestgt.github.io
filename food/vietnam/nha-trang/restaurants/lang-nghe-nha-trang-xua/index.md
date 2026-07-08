@@ -24,11 +24,11 @@ But if you want something truly local and even better food in equally beautiful 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-2.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
-  <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
+  <figcaption>Baby Zucchini Stir-fry</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-3.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
-  <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 </div>
 
@@ -39,13 +39,13 @@ But if you want something truly local and even better food in equally beautiful 
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-5.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
-  <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
+  <figcaption>Lotus Fried Rice</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/lang-nghe-nha-trang-xua-6.jpg" alt="LÀNG NGHỀ NHA TRANG XƯA">
-  <figcaption>LÀNG NGHỀ NHA TRANG XƯA</figcaption>
+  <figcaption>Minced Snail Skewers</figcaption>
 </figure>
 
 

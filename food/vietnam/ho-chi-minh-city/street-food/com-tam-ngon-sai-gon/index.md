@@ -17,7 +17,7 @@ It’s just about walking distance from Pham Ngu Lao, making it a great option i
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/com-tam-ngon-sai-gon-1.jpg" alt="Cơm Tấm Ngon Sài Gòn">
-  <figcaption>Cơm Tấm Ngon Sài Gòn</figcaption>
+  <figcaption>Com Tam</figcaption>
 </figure>
 
 

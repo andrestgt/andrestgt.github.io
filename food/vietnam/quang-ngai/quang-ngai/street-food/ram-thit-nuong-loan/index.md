@@ -8,7 +8,7 @@ subtitle: Trần Hưng Đạo · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/quang-ngai/ram-thit-nuong-loan-1.jpg" alt="Ram thịt nướng Loan">
-  <figcaption>Ram thịt nướng Loan</figcaption>
+  <figcaption>Ram thịt nướng</figcaption>
 </figure>
 
 Ram Thit Nuong is a Quang Ngai specialty dish consisting of several grilled meats including Bo la lot and nem nuong which are then wrapped and rolled in rice paper with salad and herbs. It's everything that is great about Vietnamese cuisine and while 70k for a dish in a basic eatery might seem steep, you get a lot of meat including deliciously marinated beef and it's worth every Dong. They also do a nice Bun Thit Nuong, but Ram Thit Nuong is the star here.
@@ -16,11 +16,11 @@ Ram Thit Nuong is a Quang Ngai specialty dish consisting of several grilled meat
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/quang-ngai/ram-thit-nuong-loan-2.jpg" alt="Ram thịt nướng Loan">
-  <figcaption>Ram thịt nướng Loan</figcaption>
+  <figcaption>Ram thịt nướng</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/quang-ngai/ram-thit-nuong-loan-3.jpg" alt="Ram thịt nướng Loan">
-  <figcaption>Ram thịt nướng Loan</figcaption>
+  <figcaption>Bun Thit Nuong</figcaption>
 </figure>
 </div>
 

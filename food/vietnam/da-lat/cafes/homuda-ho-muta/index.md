@@ -8,7 +8,7 @@ subtitle: Đà Lạt · Coffee
 
 <figure>
   <img src="/photos/vietnam/da-lat/homuda-ho-muta-1.jpg" alt="Homuda ホームだ">
-  <figcaption>Homuda ホームだ</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 This Japanese-themed café is a bit of a tourist attraction in itself. With multiple seating areas designed in different styles, it’s worth coming back more than once just to explore. The coffee might not be the main reason people visit, but it’s actually very good, and reasonably priced for such an attractive place.
@@ -54,7 +54,7 @@ This Japanese-themed café is a bit of a tourist attraction in itself. With mult
 
 <figure>
   <img src="/photos/vietnam/da-lat/homuda-ho-muta-2.jpg" alt="Homuda ホームだ">
-  <figcaption>Homuda ホームだ</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 ## Ratings

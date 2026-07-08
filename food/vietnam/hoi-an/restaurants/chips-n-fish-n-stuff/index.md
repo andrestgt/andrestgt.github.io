@@ -18,13 +18,13 @@ I deduct one star from my previous review. This used to be my favourite place in
 
 <figure>
   <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-1.jpg" alt="Chips 'N' Fish 'N' Stuff">
-  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+  <figcaption>White Rose</figcaption>
 </figure>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-2.jpg" alt="Chips 'N' Fish 'N' Stuff">
-  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+  <figcaption>Cao Lau</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-3.jpg" alt="Chips 'N' Fish 'N' Stuff">
@@ -61,13 +61,13 @@ I deduct one star from my previous review. This used to be my favourite place in
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-9.jpg" alt="Chips 'N' Fish 'N' Stuff">
-  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+  <figcaption>Seafood Fried Rice</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/hoi-an/chips-n-fish-n-stuff-10.jpg" alt="Chips 'N' Fish 'N' Stuff">
-  <figcaption>Chips 'N' Fish 'N' Stuff</figcaption>
+  <figcaption>White Rose</figcaption>
 </figure>
 
 

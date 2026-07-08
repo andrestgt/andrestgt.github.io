@@ -14,7 +14,7 @@ subtitle: Nha Trang · Coffee
 
 <figure>
   <img src="/photos/vietnam/nha-trang/amemoir-cafe-kitchen-1.jpg" alt="A’memoir Cafe & Kitchen">
-  <figcaption>A’memoir Cafe & Kitchen</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 This is a review of the café only.

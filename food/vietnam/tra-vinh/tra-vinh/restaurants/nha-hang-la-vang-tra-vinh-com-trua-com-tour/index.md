@@ -8,7 +8,7 @@ subtitle: Trà Vinh · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/tra-vinh/nha-hang-la-vang-tra-vinh-com-trua-com-tour-2.jpg" alt="Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)">
-  <figcaption>Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)</figcaption>
+  <figcaption>Spring rolls</figcaption>
 </figure>
 
 
@@ -17,18 +17,18 @@ Looks like the swankiest place in town, huge menu with English Google translatio
 
 <figure>
   <img src="/photos/vietnam/tra-vinh/nha-hang-la-vang-tra-vinh-com-trua-com-tour-3.jpg" alt="Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)">
-  <figcaption>Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)</figcaption>
+  <figcaption>Luoi Vit</figcaption>
 </figure>
 
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/tra-vinh/nha-hang-la-vang-tra-vinh-com-trua-com-tour-4.jpg" alt="Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)">
-  <figcaption>Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)</figcaption>
+  <figcaption>Duck sausage</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/tra-vinh/nha-hang-la-vang-tra-vinh-com-trua-com-tour-5.jpg" alt="Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)">
-  <figcaption>Nhà hàng La VANG - Trà Vinh (cơm trưa, cơm tour)</figcaption>
+  <figcaption>Grilled Snakehead Fish</figcaption>
 </figure>
 </div>
 

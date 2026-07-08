@@ -8,14 +8,14 @@ subtitle: Bến Nghé · Coffee
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/cafe-terrace-1.jpg" alt="Café Terrace">
-  <figcaption>Café Terrace</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Prime location, very nice café. Very expensive, but at least the quality is right. Very good cappuccino with cute latte art, and tasty Vietnamese favourites, nicely presented
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/cafe-terrace-2.jpg" alt="Café Terrace">
-  <figcaption>Café Terrace</figcaption>
+  <figcaption>Pork Skewers</figcaption>
 </figure>
 
 ## Ratings

@@ -8,7 +8,7 @@ subtitle: Nha Trang · Seafood
 
 <figure>
   <img src="/photos/vietnam/nha-trang/quan-hai-san-thanh-suong-2-1.jpg" alt="Quán Hải Sản Thanh Sương 2">
-  <figcaption>Quán Hải Sản Thanh Sương 2</figcaption>
+  <figcaption>Steamed Clams in Lemongrass</figcaption>
 </figure>
 
 When I first started coming here, just a few years back, this was a small hole in the wall seafood eatery, visited mostly by locals in the know. An insider tip for fresh, inexpensive seafood away from the tourist hot spots.
@@ -22,17 +22,17 @@ Prices have gone up, predictably, but it's still affordable
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/quan-hai-san-thanh-suong-2-2.jpg" alt="Quán Hải Sản Thanh Sương 2">
-  <figcaption>Quán Hải Sản Thanh Sương 2</figcaption>
+  <figcaption>Rau Muong</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/quan-hai-san-thanh-suong-2-3.jpg" alt="Quán Hải Sản Thanh Sương 2">
-  <figcaption>Quán Hải Sản Thanh Sương 2</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/quan-hai-san-thanh-suong-2-4.jpg" alt="Quán Hải Sản Thanh Sương 2">
-  <figcaption>Quán Hải Sản Thanh Sương 2</figcaption>
+  <figcaption>Grilled Barramundi</figcaption>
 </figure>
 
 

@@ -8,7 +8,7 @@ subtitle: Hoàn Kiếm · Vietnamese · Bún Bò
 
 <figure>
   <img src="/photos/vietnam/hanoi/bun-bo-nam-bo-bach-phuong-1.jpg" alt="Bún Bò Nam Bộ Bách Phương">
-  <figcaption>Bún Bò Nam Bộ Bách Phương</figcaption>
+  <figcaption>Bun Bo Nam Bo</figcaption>
 </figure>
 
 Bun Bo Nam Bo is one of these Vietnamese dishes that is particularly suited to Western sensibilities without needing to be altered or toned down. It's a typical Hanoi dish with very subtle flavours (Vietnamese from further south might just call it bland ;) and it's rarely found elsewhere in the country outside of tourist restaurants. Having said that, I do like this beef noodle salad a lot personally, and this place does a very good job with a generous amount of marinated meat and a nicely balanced sauce. It's 65k for a big bowl which is reasonable for a quality beef dish. Packed every day even in corona times, so it's definitely a local favourite.
@@ -16,11 +16,11 @@ Bun Bo Nam Bo is one of these Vietnamese dishes that is particularly suited to W
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/bun-bo-nam-bo-bach-phuong-2.jpg" alt="Bún Bò Nam Bộ Bách Phương">
-  <figcaption>Bún Bò Nam Bộ Bách Phương</figcaption>
+  <figcaption>Nem Chua</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hanoi/bun-bo-nam-bo-bach-phuong-3.jpg" alt="Bún Bò Nam Bộ Bách Phương">
-  <figcaption>Bún Bò Nam Bộ Bách Phương</figcaption>
+  <figcaption>Bun Bo Nam Bo</figcaption>
 </figure>
 </div>
 

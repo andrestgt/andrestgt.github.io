@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese · Bánh Mì
 
 <figure>
   <img src="/photos/vietnam/nha-trang/banh-mi-1-1.jpg" alt="Banh Mi #1">
-  <figcaption>Banh Mi #1</figcaption>
+  <figcaption>Banh Mi</figcaption>
 </figure>
 
 I went there to try their Banh mi thap cam, the gold standard of the Vietnamese sandwich and my reference when comparing them. At #1 you get them generously filled with various meats and herbs and tasty sauce. The filling is excellent. Now the bread itself is good but not great, which is not their fault, most bakeries in Nha Trang are not up there with best in the country. There's only one bakery in town that makes baguettes as good as those you get in Hoi An and Da Nang. On a positive note they're better than the ones you get in Saigon.

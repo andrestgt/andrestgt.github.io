@@ -15,7 +15,7 @@ subtitle: Bố Trạch District · Bar & Pub
 
 <figure>
   <img src="/photos/vietnam/phong-nha/momma-d-1.jpg" alt="Momma D">
-  <figcaption>Momma D</figcaption>
+  <figcaption>Loaded Nachos</figcaption>
 </figure>
 
 Fantastic rooftop bar with stunning views and great drink specials such as G&T for 40k. There's even a decent variety of craft beers at reasonable prices. There's a small selection of food from their own kitchen, mostly inexpensive pub grub such as nachos or homemade sausages. For more substantial meals you can order from a couple of other restaurants in town including Indian from Omar's. Spending a night out at Momma D is an absolute must in Phong Nha
@@ -23,7 +23,7 @@ Fantastic rooftop bar with stunning views and great drink specials such as G&T f
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/phong-nha/momma-d-2.jpg" alt="Momma D">
-  <figcaption>Momma D</figcaption>
+  <figcaption>Chicken Parmesan</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/phong-nha/momma-d-3.jpg" alt="Momma D">
@@ -33,7 +33,7 @@ Fantastic rooftop bar with stunning views and great drink specials such as G&T f
 
 <figure>
   <img src="/photos/vietnam/phong-nha/momma-d-4.jpg" alt="Momma D">
-  <figcaption>Momma D</figcaption>
+  <figcaption>Grilled Sausages</figcaption>
 </figure>
 
 ## Ratings

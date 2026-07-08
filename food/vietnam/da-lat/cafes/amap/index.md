@@ -19,7 +19,7 @@ A nice trip out of town.
 
 <figure>
   <img src="/photos/vietnam/da-lat/amap-2.jpg" alt="AMAP">
-  <figcaption>AMAP</figcaption>
+  <figcaption>Avocado Salad</figcaption>
 </figure>
 
 

@@ -8,14 +8,14 @@ subtitle: Hoàn Kiếm · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hanoi/bun-ca-cham-an-vien-1.jpg" alt="Bún Cá Chấm An Viên">
-  <figcaption>Bún Cá Chấm An Viên</figcaption>
+  <figcaption>Bun Ca</figcaption>
 </figure>
 
 Small Old Town drinking place specialising in Bun Ca Cham, fish noodle soup, with deep fried fish served on the side. And with dill and pineapple, they serve a really good version here for 50k. Their other soups are good, too, but nothing special, best to come for the bun ca cham
 
 <figure>
   <img src="/photos/vietnam/hanoi/bun-ca-cham-an-vien-2.jpg" alt="Bún Cá Chấm An Viên">
-  <figcaption>Bún Cá Chấm An Viên</figcaption>
+  <figcaption>Bun Ca</figcaption>
 </figure>
 
 ## Ratings

@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/tony-teo-sup-cua-1.jpg" alt="Tony Tèo Súp Cua">
-  <figcaption>Tony Tèo Súp Cua</figcaption>
+  <figcaption>Sup Cua</figcaption>
 </figure>
 
 This alley street food place has deservedly become popular for their specialty dish Sup Cua or Crab soup. This kind of soup is very popular with locals all over Vietnam, but it's not very well known among foreigners. This is a pity, and I believe almost anyone trying a bowl here will enjoy it.
@@ -18,7 +18,7 @@ If you want to drink some cold beers with your grill and fry platters, they're v
 
 <figure>
   <img src="/photos/vietnam/nha-trang/tony-teo-sup-cua-2.jpg" alt="Tony Tèo Súp Cua">
-  <figcaption>Tony Tèo Súp Cua</figcaption>
+  <figcaption>Mixed Barbecue</figcaption>
 </figure>
 
 T

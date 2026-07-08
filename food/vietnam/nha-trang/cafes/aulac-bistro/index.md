@@ -15,7 +15,7 @@ Beautiful café, nicely decorated with sofas and cushions, making it a very comf
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam18-0072.jpg" alt="Aulac Bistro">
-  <figcaption>Aulac Bistro</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 ## Ratings

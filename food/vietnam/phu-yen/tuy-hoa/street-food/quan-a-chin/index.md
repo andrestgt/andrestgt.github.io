@@ -8,7 +8,7 @@ subtitle: Tuy Hòa · Bia Hơi
 
 <figure>
   <img src="/photos/vietnam/tuy-hoa/quan-a-chin-1.jpg" alt="Quán A Chín">
-  <figcaption>Quán A Chín</figcaption>
+  <figcaption>Bo La Lot</figcaption>
 </figure>
 
 Basic, but very popular Bia Hoi place with a surprisingly varied food menu. The fresh beer is good and cheap, 20k for two litres. Their Bo la lot was great, possibly the best I've ever had. Instead of the usual rolls it came pancake sized on a plate (70k). Delicious

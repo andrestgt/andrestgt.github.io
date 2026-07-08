@@ -8,7 +8,7 @@ subtitle: Ho Chi Minh City · Vietnamese · Phở
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/pho-phuong-1.jpg" alt="Pho Phuong">
-  <figcaption>Pho Phuong</figcaption>
+  <figcaption>Pho Bo Dac Biet</figcaption>
 </figure>
 
 One of the more famous Pho joints in town and always busy with locals and visitors. The Pho Bo here is Southern style with a darker and very flavourful broth which suits my tastes well. A big bowl with mixed meats is not cheap (80k) but it feeds 2.

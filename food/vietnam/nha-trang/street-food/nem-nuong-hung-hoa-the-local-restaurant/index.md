@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/nem-nuong-hung-hoa-the-local-restaurant-1.jpg" alt="NEM NƯỚNG HƯNG HÒA ( THE LOCAL RESTAURANT)">
-  <figcaption>NEM NƯỚNG HƯNG HÒA ( THE LOCAL RESTAURANT)</figcaption>
+  <figcaption>Nem Nuong</figcaption>
 </figure>
 
 Nem nướng is my favorite regional specialty, it’s essentially a gourmet version of summer rolls. The dish consists of grilled pork paste, crunchy deep-fried dough, fresh noodles, green mango, pickles, and plenty of herbs and leaves, all wrapped in rice paper.

@@ -8,7 +8,7 @@ subtitle: Pleiku · Coffee
 
 <figure>
   <img src="/photos/vietnam/pleiku/lamant-cafe-gia-lai-1.jpg" alt="L’amant Café Gia Lai">
-  <figcaption>L’amant Café Gia Lai</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 This might be the fanciest café I've ever been to. The decor and service is straight out of some grand colonial five star hotel. Luckily, the prices are barely higher than in most standard coffee shops and the quality of the coffees is as good as you would expect in a renowned coffee growing region. A perfect cup of cappuccino is 40k. Anyone visiting Pleiku should definitely plan a coffee break at this place.

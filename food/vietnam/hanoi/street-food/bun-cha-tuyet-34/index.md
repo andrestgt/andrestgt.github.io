@@ -14,7 +14,7 @@ subtitle: Hanoi · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-1.jpg" alt="Bun cha Tuyet 34">
-  <figcaption>Bun cha Tuyet 34</figcaption>
+  <figcaption>Bun Cha</figcaption>
 </figure>
 
 My personal favourite place for bún chả in Hanoi since long before they got Michelin recognition.  The dipping sauce is perfectly balanced, the grilled meat carries a wonderful smoky barbecue flavour, and the portion is remarkably generous for just 35k. Nem on the side is, naturally, non-negotiable. Very popular, so visiting outside peak meal times is advisable.
@@ -33,7 +33,7 @@ My personal favourite place for bún chả in Hanoi since long before they got M
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-4.jpg" alt="Bun cha Tuyet 34">
-  <figcaption>Bun cha Tuyet 34</figcaption>
+  <figcaption>Bun Cha</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hanoi/bun-cha-tuyet-34-5.jpg" alt="Bun cha Tuyet 34">

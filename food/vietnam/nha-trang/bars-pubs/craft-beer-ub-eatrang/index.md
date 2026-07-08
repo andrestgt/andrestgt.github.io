@@ -8,7 +8,7 @@ subtitle: Nha Trang · Craft Beer
 
 <figure>
   <img src="/photos/vietnam/nha-trang/craft-beer-ub-eatrang-1.jpg" alt="Craft Beer UB Eatrang">
-  <figcaption>Craft Beer UB Eatrang</figcaption>
+  <figcaption>Nem Chua</figcaption>
 </figure>
 
 I first visited this place a couple of years ago when they had just opened. I’m always curious about and happy to support microbreweries, but back then, I wasn’t too impressed, neither with the beer nor the food.
@@ -18,11 +18,11 @@ Food is on the pricey side, and portions are small, but it’s decent. A place y
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/craft-beer-ub-eatrang-2.jpg" alt="Craft Beer UB Eatrang">
-  <figcaption>Craft Beer UB Eatrang</figcaption>
+  <figcaption>Com Chien E</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/craft-beer-ub-eatrang-3.jpg" alt="Craft Beer UB Eatrang">
-  <figcaption>Craft Beer UB Eatrang</figcaption>
+  <figcaption>Bach Tuoc Nuong</figcaption>
 </figure>
 </div>
 

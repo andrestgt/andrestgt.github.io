@@ -26,13 +26,13 @@ One of the best bowls of Pho in Nha Trang for several reasons. The main one is t
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/pho-hanh-phuc-3.jpg" alt="Phở Hạnh Phúc">
-  <figcaption>Phở Hạnh Phúc</figcaption>
+  <figcaption>Pho Bo To Da</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/pho-hanh-phuc-4.jpg" alt="Phở Hạnh Phúc">
-  <figcaption>Phở Hạnh Phúc</figcaption>
+  <figcaption>Pho Bo</figcaption>
 </figure>
 
 ## Ratings

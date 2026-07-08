@@ -16,7 +16,7 @@ This splendidly decorated wine bar and restaurant is the to go place in Nha Tran
 
 <figure>
   <img src="/photos/vietnam/nha-trang/la-villa-boutique-hotel-1.jpg" alt="La Villa Boutique Hotel">
-  <figcaption>La Villa Boutique Hotel</figcaption>
+  <figcaption>Duck Pizza</figcaption>
 </figure>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">

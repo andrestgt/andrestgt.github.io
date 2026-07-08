@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam16-0020.jpg" alt="Un In BBQ">
-  <figcaption>Un In BBQ</figcaption>
+  <figcaption>Bap Xao</figcaption>
 </figure>
 
 One of my favourite and best places in NT but for a five star review it lacks consistency.

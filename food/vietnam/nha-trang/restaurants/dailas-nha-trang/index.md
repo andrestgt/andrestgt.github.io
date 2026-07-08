@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/dailas-nha-trang-1.jpg" alt="Dailas Nha Trang">
-  <figcaption>Dailas Nha Trang</figcaption>
+  <figcaption>Foie Gras Canapés</figcaption>
 </figure>
 
 Newly opened beer restaurant with excellent, friendly service, even during Tet.
@@ -20,7 +20,7 @@ Prices are not terribly expensive, although portions could be a bit more generou
 
 <figure>
   <img src="/photos/vietnam/nha-trang/dailas-nha-trang-2.jpg" alt="Dailas Nha Trang">
-  <figcaption>Dailas Nha Trang</figcaption>
+  <figcaption>Fish & Chips</figcaption>
 </figure>
 
 

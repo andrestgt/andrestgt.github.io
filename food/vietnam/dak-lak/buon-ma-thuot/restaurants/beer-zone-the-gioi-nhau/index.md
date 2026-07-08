@@ -13,7 +13,7 @@ subtitle: Buôn Ma Thuột · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/buon-ma-thuot/beer-zone-the-gioi-nhau-1.jpg" alt="Beer Zone - Thế Giới Nhậu">
-  <figcaption>Beer Zone - Thế Giới Nhậu</figcaption>
+  <figcaption>Doi Sun</figcaption>
 </figure>
 
 Huge beer garden with dishes from all over Vietnam. The food is good, staff almost too attentive and prices are reasonable. Sadly for a beer zone, their variety of beers is very limited, and they seem to serve only Bia Saigon and only bottles and cans.
@@ -25,7 +25,7 @@ Huge beer garden with dishes from all over Vietnam. The food is good, staff almo
 </figure>
 <figure>
   <img src="/photos/vietnam/buon-ma-thuot/beer-zone-the-gioi-nhau-3.jpg" alt="Beer Zone - Thế Giới Nhậu">
-  <figcaption>Beer Zone - Thế Giới Nhậu</figcaption>
+  <figcaption>Kho Quet</figcaption>
 </figure>
 </div>
 

@@ -15,7 +15,7 @@ Pretty good Pho Bo for only 25k. And the only place in town serving it at lunch 
 
 <figure>
   <img src="/photos/vietnam/yen-bai/pho-ly-quoc-su-2.jpg" alt="Phở Lý Quốc Sư">
-  <figcaption>Phở Lý Quốc Sư</figcaption>
+  <figcaption>Pho Bo</figcaption>
 </figure>
 
 ## Ratings

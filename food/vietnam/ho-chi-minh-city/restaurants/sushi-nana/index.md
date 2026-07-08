@@ -8,7 +8,7 @@ subtitle: Phạm Ngũ Lão · Japanese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sushi-nana-1.jpg" alt="Sushi Nana">
-  <figcaption>Sushi Nana</figcaption>
+  <figcaption>Octopus salad</figcaption>
 </figure>
 
 Small budget sushi place in the backpacker area. The sashimi are fresh enough, but the portions are on the meagre side. Not a bad option if you happen to be nearby, though Saigon has plenty of better Japanese choices.

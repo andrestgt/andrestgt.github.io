@@ -8,7 +8,7 @@ subtitle: Nha Trang · Bar & Pub
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam20-0133.jpg" alt="Jelly Brew Pub">
-  <figcaption>Jelly Brew Pub</figcaption>
+  <figcaption>Beer Cocktail</figcaption>
 </figure>
 
 
@@ -38,7 +38,7 @@ Now, in 2025, the beer cocktails are still 90k, and I still enjoy them. The food
 
 <figure>
   <img src="/photos/vietnam/nha-trang/jelly-brew-pub-1.jpg" alt="Jelly Brew Pub">
-  <figcaption>Jelly Brew Pub</figcaption>
+  <figcaption>Seafood Fried Rice</figcaption>
 </figure>
 
 ## Ratings

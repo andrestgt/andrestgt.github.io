@@ -8,7 +8,7 @@ subtitle: Ho Chi Minh City · Vietnamese · Bún Bò
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/nam-giao-1.jpg" alt="Nam Giao">
-  <figcaption>Nam Giao</figcaption>
+  <figcaption>Mi Quang</figcaption>
 </figure>
 
 

@@ -40,7 +40,7 @@ I visit this place every time I'm in Chau Doc, and I've been doing so for almost
 </figure>
 <figure>
   <img src="/photos/vietnam/an-giang/quan-mekong-7.jpg" alt="Quán Mekong">
-  <figcaption>Quán Mekong</figcaption>
+  <figcaption>Lemongrass Eel</figcaption>
 </figure>
 </div>
 

@@ -22,13 +22,13 @@ Happy hour cocktails are a good deal, quality concoctions, from noon until 7 pm.
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/mango-rooms-3.jpg" alt="Mango Rooms">
-  <figcaption>Mango Rooms</figcaption>
+  <figcaption>Fish Mango Ceviche</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/hoi-an/mango-rooms-4.jpg" alt="Mango Rooms">
-  <figcaption>Mango Rooms</figcaption>
+  <figcaption>Calamari Rings</figcaption>
 </figure>
 
 

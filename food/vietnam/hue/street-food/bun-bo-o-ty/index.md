@@ -8,7 +8,7 @@ subtitle: Huế · Vietnamese · Bún Bò
 
 <figure>
   <img src="/photos/vietnam/hue/bun-bo-o-ty-1.jpg" alt="Bún bò O Ty">
-  <figcaption>Bún bò O Ty</figcaption>
+  <figcaption>Bun Bo Hue</figcaption>
 </figure>
 
 There's lots of overpriced tourist bun bo joints in Hue, this is definitely not one of them. A friendly local neighbourhood place which sells excellent bowls for a mere 25k. Well worth finding out before spending double for a mediocre soup on the other side of the river. The broth is very smooth and balanced and the quality of the meat and meat balls is outstanding for such a cheap bowl

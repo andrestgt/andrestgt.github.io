@@ -16,7 +16,7 @@ One of the lesser known craft beer breweries in Vietnam, but they have an impres
 
 <figure>
   <img src="/photos/vietnam/hanoi/turtle-lake-brewing-company-1.jpg" alt="Turtle Lake Brewing Company">
-  <figcaption>Turtle Lake Brewing Company</figcaption>
+  <figcaption>Falafel Sandwich</figcaption>
 </figure>
 
 <figure>

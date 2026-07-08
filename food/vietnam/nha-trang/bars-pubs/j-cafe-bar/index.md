@@ -15,8 +15,7 @@ subtitle: Nha Trang · Bar & Pub
 <figure>
 
   <img src="/photos/vietnam/nha-trang/j-cafe-bar-1.jpg" alt="J Cafe & Bar">
-
-  <figcaption>J Cafe & Bar</figcaption>
+  <figcaption>Seagrape Salad</figcaption>
 
 </figure>
 
@@ -32,16 +31,14 @@ Friendly and competent service, reasonable prices and a fun atmosphere make this
 <figure>
 
   <img src="/photos/vietnam/nha-trang/j-cafe-bar-2.jpg" alt="J Cafe & Bar">
-
-  <figcaption>J Cafe & Bar</figcaption>
+  <figcaption>Salmon Roll</figcaption>
 
 </figure>
 
 <figure>
 
   <img src="/photos/vietnam/nha-trang/j-cafe-bar-3.jpg" alt="J Cafe & Bar">
-
-  <figcaption>J Cafe & Bar</figcaption>
+  <figcaption>Seagrape Salad</figcaption>
 
 </figure>
 
@@ -50,8 +47,7 @@ Friendly and competent service, reasonable prices and a fun atmosphere make this
 <figure>
 
   <img src="/photos/vietnam/nha-trang/j-cafe-bar-4.jpg" alt="J Cafe & Bar">
-
-  <figcaption>J Cafe & Bar</figcaption>
+  <figcaption>Sushi Cake</figcaption>
 
 </figure>
 

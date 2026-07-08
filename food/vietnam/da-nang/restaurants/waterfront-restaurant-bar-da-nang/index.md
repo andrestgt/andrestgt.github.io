@@ -31,7 +31,7 @@ Prime location, great space. For sure it's pricey, but on top of the views and t
 </figure>
 <figure>
   <img src="/photos/vietnam/da-nang/waterfront-restaurant-bar-da-nang-6.jpg" alt="Waterfront Restaurant & Bar Da Nang">
-  <figcaption>Waterfront Restaurant & Bar Da Nang</figcaption>
+  <figcaption>Meze Platter</figcaption>
 </figure>
 </div>
 

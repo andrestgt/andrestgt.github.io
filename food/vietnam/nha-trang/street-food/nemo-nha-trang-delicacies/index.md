@@ -18,7 +18,7 @@ Just like Bong crazy next door, Nemo is an old school traveller eatery that does
   <div style="flex: 1; min-width: 200px;">
     <figure>
   <img src="/photos/vietnam/nha-trang/nemo-nha-trang-delicacies-1.jpg" alt="Nemo Nha Trang Delicacies">
-  <figcaption>Nemo Nha Trang Delicacies</figcaption>
+  <figcaption>Tuna sashimi with sea grapes</figcaption>
 </figure>
   </div>
   <div style="flex: 1; min-width: 200px;">

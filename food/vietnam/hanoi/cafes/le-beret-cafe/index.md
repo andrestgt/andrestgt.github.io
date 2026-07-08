@@ -8,7 +8,7 @@ subtitle: Hoàn Kiếm · Coffee
 
 <figure>
   <img src="/photos/vietnam/hanoi/le-beret-cafe-1.jpg" alt="Le Beret Cafe">
-  <figcaption>Le Beret Cafe</figcaption>
+  <figcaption>Flat White</figcaption>
 </figure>
 
 Friendly modern café with strong air conditioning, reliable wifi and properly prepared coffee drinks. The flat white was smooth, strong and well made at 45k, while their Vietnamese coffees are full of of flavour and caffeine.

@@ -24,11 +24,11 @@ Eating at this place is quite a special experience. With many places in Bac Ha c
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/lao-cai/pho-bac-ha-ly-thi-2.jpg" alt="Phở Bắc Hà Lý Thi">
-  <figcaption>Phở Bắc Hà Lý Thi</figcaption>
+  <figcaption>Pho Chua</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/lao-cai/pho-bac-ha-ly-thi-3.jpg" alt="Phở Bắc Hà Lý Thi">
-  <figcaption>Phở Bắc Hà Lý Thi</figcaption>
+  <figcaption>Pho Tron</figcaption>
 </figure>
 </div>
 

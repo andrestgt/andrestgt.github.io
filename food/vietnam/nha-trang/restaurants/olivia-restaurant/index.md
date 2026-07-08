@@ -8,7 +8,7 @@ subtitle: Nha Trang · Italian
 
 <figure>
   <img src="/photos/vietnam/nha-trang/olivia-restaurant-1.jpg" alt="Olivia Restaurant">
-  <figcaption>Olivia Restaurant</figcaption>
+  <figcaption>Beef Carpaccio</figcaption>
 </figure>
 
 Olivia has been around and busy for many years which means they must be doing something right.
@@ -29,7 +29,7 @@ On a positive note, the service here is good and friendly and the menu is still 
 
 <figure>
   <img src="/photos/vietnam/nha-trang/olivia-restaurant-2.jpg" alt="Olivia Restaurant">
-  <figcaption>Olivia Restaurant</figcaption>
+  <figcaption>Ravioli</figcaption>
 </figure>
 
 

@@ -39,7 +39,7 @@ Count on spending 200k per pax for a good meal with a few beers.
 </div>
 <figure>
   <img src="/photos/vietnam/nha-trang/hurra-beer-1.jpg" alt="Hurra Beer">
-  <figcaption>Hurra Beer</figcaption>
+  <figcaption>Fish Egg Soup</figcaption>
 </figure>
 
 ## Ratings

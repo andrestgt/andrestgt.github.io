@@ -23,17 +23,17 @@ Their grilled teriyaki octopus was a bit underwhelming to be honest and their tw
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/cui-quan-an-ngon-re-sach-se-2.jpg" alt="Củi Quán ăn ngon, rẻ, sạch sẽ">
-  <figcaption>Củi Quán ăn ngon, rẻ, sạch sẽ</figcaption>
+  <figcaption>Raw shrimp salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/cui-quan-an-ngon-re-sach-se-3.jpg" alt="Củi Quán ăn ngon, rẻ, sạch sẽ">
-  <figcaption>Củi Quán ăn ngon, rẻ, sạch sẽ</figcaption>
+  <figcaption>Bo La Lot</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/cui-quan-an-ngon-re-sach-se-4.jpg" alt="Củi Quán ăn ngon, rẻ, sạch sẽ">
-  <figcaption>Củi Quán ăn ngon, rẻ, sạch sẽ</figcaption>
+  <figcaption>Glass Noodles with mushrooms</figcaption>
 </figure>
 
 P

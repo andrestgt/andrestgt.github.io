@@ -8,7 +8,7 @@ subtitle: Hoàn Kiếm · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hanoi/bun-mien-ngan-minh-thu-1.jpg" alt="Bún Miến Ngan Minh Thu">
-  <figcaption>Bún Miến Ngan Minh Thu</figcaption>
+  <figcaption>Bun Ngan</figcaption>
 </figure>
 
 Tasty duck/goose soup with clear broth and meatballs, 35k a bowl

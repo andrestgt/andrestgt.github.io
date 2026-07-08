@@ -16,17 +16,17 @@ This place is located right next to Cococha, party backpacker Central in Hoi An,
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/madamquan-2.jpg" alt="Madamquan">
-  <figcaption>Madamquan</figcaption>
+  <figcaption>Cha Gio Hai San</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/madamquan-3.jpg" alt="Madamquan">
-  <figcaption>Madamquan</figcaption>
+  <figcaption>Oc Huong</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/hoi-an/madamquan-4.jpg" alt="Madamquan">
-  <figcaption>Madamquan</figcaption>
+  <figcaption>Goi Ca Trich</figcaption>
 </figure>
 
 ## Ratings

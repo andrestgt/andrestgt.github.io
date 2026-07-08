@@ -8,7 +8,7 @@ subtitle: Hoàn Kiếm · Chinese · Dim Sum
 
 <figure>
   <img src="/photos/vietnam/hanoi/phuong-tuong-dimsum-1.jpg" alt="Phượng Tường dimsum">
-  <figcaption>Phượng Tường dimsum</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 Good dim sum in a very convenient old town location. Prices are okay for the area with baskets of 3 costing mostly under 50k.

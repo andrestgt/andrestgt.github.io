@@ -8,14 +8,14 @@ subtitle: Nha Trang · Coffee
 
 <figure>
   <img src="/photos/vietnam/nha-trang/rainforest-1.jpg" alt="Rainforest">
-  <figcaption>Rainforest</figcaption>
+  <figcaption>Bo Kho</figcaption>
 </figure>
 
 Eye-catching café with a very well executed jungle theme. The cappuccino is perfectly prepared at 55k, and the whole place looks beautiful. The food, however, is no reason to come here; the bò kho I tried was disappointingly bland.
 
 <figure>
   <img src="/photos/vietnam/nha-trang/rainforest-2.jpg" alt="Rainforest">
-  <figcaption>Rainforest</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 ## Ratings

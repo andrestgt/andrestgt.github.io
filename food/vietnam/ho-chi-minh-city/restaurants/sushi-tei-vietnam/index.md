@@ -16,22 +16,22 @@ It is Sushi Tei, so quality is reliably good and consistent, exactly as expected
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sushi-tei-vietnam-2.jpg" alt="Sushi Tei Vietnam">
-  <figcaption>Sushi Tei Vietnam</figcaption>
+  <figcaption>Salmon Sushi</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sushi-tei-vietnam-3.jpg" alt="Sushi Tei Vietnam">
-  <figcaption>Sushi Tei Vietnam</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sushi-tei-vietnam-4.jpg" alt="Sushi Tei Vietnam">
-  <figcaption>Sushi Tei Vietnam</figcaption>
+  <figcaption>Softshell Crab and Tuna Maki</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/sushi-tei-vietnam-5.jpg" alt="Sushi Tei Vietnam">
-  <figcaption>Sushi Tei Vietnam</figcaption>
+  <figcaption>Fish Tataki</figcaption>
 </figure>
 </div>
 

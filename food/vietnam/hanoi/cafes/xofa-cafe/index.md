@@ -20,13 +20,13 @@ But for Xofa I'll make an excellent exception since they offered us a love mango
 
 <figure>
   <img src="/photos/vietnam/hanoi/xofa-cafe-1.jpg" alt="Xofa Cafe">
-  <figcaption>Xofa Cafe</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 
 <figure>
   <img src="/photos/vietnam/hanoi/Viet22-0693.jpg" alt="Xofa Cafe">
-  <figcaption>Xofa Cafe</figcaption>
+  <figcaption>Eggs Benedict Croissant</figcaption>
 </figure>
 
 ## Ratings

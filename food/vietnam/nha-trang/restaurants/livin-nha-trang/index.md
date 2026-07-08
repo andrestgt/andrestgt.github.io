@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/livin-nha-trang-1.jpg" alt="LIVIN - Nha Trang">
-  <figcaption>LIVIN - Nha Trang</figcaption>
+  <figcaption>Meat Platter</figcaption>
 </figure>
 
 I've given this place a few chances because I like the concept and I really wanted to like it, but it simply should be much better than it is. Ribs were rather dry, burgers are quite small and the bread for the wraps was chewy. On a positive note, they have good craft beers and a nice outdoor yard...
@@ -22,17 +22,17 @@ If you're into meat and beer and you're looking for a splurge, LIVIN is a good c
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/livin-nha-trang-2.jpg" alt="LIVIN - Nha Trang">
-  <figcaption>LIVIN - Nha Trang</figcaption>
+  <figcaption>Pulled Pork Burger</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/livin-nha-trang-3.jpg" alt="LIVIN - Nha Trang">
-  <figcaption>LIVIN - Nha Trang</figcaption>
+  <figcaption>Cheeseburger and Fries</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/livin-nha-trang-4.jpg" alt="LIVIN - Nha Trang">
-  <figcaption>LIVIN - Nha Trang</figcaption>
+  <figcaption>Veggie Burger</figcaption>
 </figure>
 
 

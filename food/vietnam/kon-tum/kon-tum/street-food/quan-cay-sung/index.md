@@ -8,7 +8,7 @@ subtitle: Đắk Tô · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/kon-tum/quan-cay-sung-1.jpg" alt="Quan Cay Sung">
-  <figcaption>Quan Cay Sung</figcaption>
+  <figcaption>Kimbap</figcaption>
 </figure>
 
 Large simple beer garden and eatery with nice river views. One of the very few places in the area that serves fresh beer. There's some simple dishes, too. Excellent pit stop in a very undeveloped region

@@ -8,7 +8,7 @@ subtitle: Bến Nghé · Coffee
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Viet15-0695.jpg" alt="The Coffee Factory Nguyen Du">
-  <figcaption>The Coffee Factory Nguyen Du</figcaption>
+  <figcaption>Caphe Den Da</figcaption>
 </figure>
 
 Cute, fashionably run-down and agreeably urban in style. The coffee here is very good, whether you go for Italian-style espresso drinks or traditional Vietnamese coffee. Prices are perfectly reasonable for this part of town.

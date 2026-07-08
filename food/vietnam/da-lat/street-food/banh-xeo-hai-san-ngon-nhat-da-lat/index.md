@@ -8,7 +8,7 @@ subtitle: Đà Lạt · Seafood
 
 <figure>
   <img src="/photos/vietnam/da-lat/banh-xeo-hai-san-ngon-nhat-da-lat-1.jpg" alt="Bánh xèo Hải sản ngon nhất Đà Lạt">
-  <figcaption>Bánh xèo Hải sản ngon nhất Đà Lạt</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 
 They've just moved a couple of doors up the alley. A simple, yet popular neighbourhood eatery doing one thing only, but doing it well. Medium sized 'Phan Rang' style seafood pancakes that are crispier than your regular banh xeo. Nicely balanced fish sauce and plenty of fresh leaves. 8-10k a piece

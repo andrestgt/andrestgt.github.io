@@ -8,7 +8,7 @@ subtitle: Nha Trang · Indian
 
 <figure>
   <img src="/photos/vietnam/nha-trang/yashoda-indian-restaurant-1.jpg" alt="YASHODA INDIAN RESTAURANT">
-  <figcaption>YASHODA INDIAN RESTAURANT</figcaption>
+  <figcaption>Samosa</figcaption>
 </figure>
 
 For some reason Nha Trang has always been blessed with good quality Indian restaurants, and this relative newcomer is no exception. You can't go wrong here with their curries and tikkas. Breads are nice, too. Its bare bones restaurant decoration and food presentation is unusual for an Indian restaurant, but as long as the food is tasty, I'm fine with it (2019).
@@ -16,7 +16,7 @@ Update 2025 : Yashoda had been closed for several years during the pandemic, but
 
 <figure>
   <img src="/photos/vietnam/nha-trang/yashoda-indian-restaurant-2.jpg" alt="YASHODA INDIAN RESTAURANT">
-  <figcaption>YASHODA INDIAN RESTAURANT</figcaption>
+  <figcaption>Garlic Naan</figcaption>
 </figure>
 
 

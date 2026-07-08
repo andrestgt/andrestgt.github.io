@@ -8,7 +8,7 @@ subtitle: Nha Trang · Craft Beer
 
 <figure>
   <img src="/photos/vietnam/nha-trang/schulz-beer-brewery-vietnam-1.jpg" alt="Schulz Beer Brewery Vietnam">
-  <figcaption>Schulz Beer Brewery Vietnam</figcaption>
+  <figcaption>Pelmeni</figcaption>
 </figure>
 
 Schulz is a small Russian run microbrewery with the best value craft beer in Nha Trang. Their German style Hefeweizen (it's called Belgian Blanche on the menu, but it tastes 100% like German Hefe) is the real deal for only 35k a glass.

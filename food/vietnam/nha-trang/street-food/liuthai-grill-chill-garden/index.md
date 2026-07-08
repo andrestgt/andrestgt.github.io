@@ -8,7 +8,7 @@ subtitle: Nha Trang · Thai
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Viet21-0072.jpg" alt="Liuthai Grill Chill Garden">
-  <figcaption>Liuthai Grill Chill Garden</figcaption>
+  <figcaption>Thai Hotpot</figcaption>
 </figure>
 
 Simple street food place with small chairs and plastic tables on a busy road. So the Bangkok feeling is there.

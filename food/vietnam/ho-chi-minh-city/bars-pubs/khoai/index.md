@@ -25,7 +25,7 @@ It's very much an expat place and, strangely given the great prices and good vib
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/khoai-3.jpg" alt="Khoai">
-  <figcaption>Khoai</figcaption>
+  <figcaption>Bun Thit Xao</figcaption>
 </figure>
 </div>
 

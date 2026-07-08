@@ -17,7 +17,7 @@ Their home brews are amazing. Some of the best beer I've ever tasted. They can b
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Vietnam16-0115.jpg" alt="Pasteur Street Brewing Co">
-  <figcaption>Pasteur Street Brewing Co</figcaption>
+  <figcaption>Beer sampler</figcaption>
 </figure>
 
 ## Ratings

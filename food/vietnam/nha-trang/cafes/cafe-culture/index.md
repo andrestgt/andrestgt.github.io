@@ -15,8 +15,7 @@ subtitle: Nha Trang · Coffee
 <figure>
 
   <img src="/photos/vietnam/nha-trang/cafe-culture-1.jpg" alt="Cafe Culture">
-
-  <figcaption>Cafe Culture</figcaption>
+  <figcaption>Cappuccino</figcaption>
 
 </figure>
 
@@ -36,16 +35,14 @@ Edit 2022: they moved to a better and bigger location, the whole place is nicer 
 <figure>
 
   <img src="/photos/vietnam/nha-trang/cafe-culture-2.jpg" alt="Cafe Culture">
-
-  <figcaption>Cafe Culture</figcaption>
+  <figcaption>Philly Steak Pizza</figcaption>
 
 </figure>
 
 <figure>
 
   <img src="/photos/vietnam/nha-trang/cafe-culture-3.jpg" alt="Cafe Culture">
-
-  <figcaption>Cafe Culture</figcaption>
+  <figcaption>Chicken Blue Cheese Pizza</figcaption>
 
 </figure>
 
@@ -56,16 +53,14 @@ Edit 2022: they moved to a better and bigger location, the whole place is nicer 
 <figure>
 
   <img src="/photos/vietnam/nha-trang/cafe-culture-4.jpg" alt="Cafe Culture">
-
-  <figcaption>Cafe Culture</figcaption>
+  <figcaption>Goat Cheese Pizza</figcaption>
 
 </figure>
 
 <figure>
 
   <img src="/photos/vietnam/nha-trang/cafe-culture-5.jpg" alt="Cafe Culture">
-
-  <figcaption>Cafe Culture</figcaption>
+  <figcaption>Meat Pizza</figcaption>
 
 </figure>
 
@@ -84,8 +79,7 @@ Edit 2022: they moved to a better and bigger location, the whole place is nicer 
 <figure>
 
   <img src="/photos/vietnam/nha-trang/cafe-culture-7.jpg" alt="Cafe Culture">
-
-  <figcaption>Cafe Culture</figcaption>
+  <figcaption>Grumpy</figcaption>
 
 </figure>
 
@@ -94,8 +88,7 @@ Edit 2022: they moved to a better and bigger location, the whole place is nicer 
 <figure>
 
   <img src="/photos/vietnam/nha-trang/cafe-culture-8.jpg" alt="Cafe Culture">
-
-  <figcaption>Cafe Culture</figcaption>
+  <figcaption>Chicken Blue Cheese Burger</figcaption>
 
 </figure>
 

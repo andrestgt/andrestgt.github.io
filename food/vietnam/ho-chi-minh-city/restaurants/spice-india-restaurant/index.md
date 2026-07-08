@@ -8,7 +8,7 @@ subtitle: Bến Thành · Indian
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/spice-india-restaurant-1.jpg" alt="Spice India restaurant">
-  <figcaption>Spice India restaurant</figcaption>
+  <figcaption>Palak Paneer</figcaption>
 </figure>
 
 Got a delivery from this place. Special lamb curry. Spicy, authentic, and it came with Raita. Very reasonable prices. Recommended

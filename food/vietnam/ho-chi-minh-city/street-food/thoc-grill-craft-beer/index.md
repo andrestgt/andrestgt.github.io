@@ -17,40 +17,40 @@ This place is a relatively recent opening, and it's a gem. It might be close to 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Viet22-0199.jpg" alt="Thóc Grill Craft Beer">
-  <figcaption>Thóc Grill Craft Beer</figcaption>
+  <figcaption>Bap Xao</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Viet22-0238.jpg" alt="Thóc Grill Craft Beer">
-  <figcaption>Thóc Grill Craft Beer</figcaption>
+  <figcaption>Goi Hai San</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Viet22-0237.jpg" alt="Thóc Grill Craft Beer">
-  <figcaption>Thóc Grill Craft Beer</figcaption>
+  <figcaption>Bo Luc Lac</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Vietnam20-2535.jpg" alt="Thóc Grill Craft Beer">
-  <figcaption>Thóc Grill Craft Beer</figcaption>
+  <figcaption>Sauteed Mushrooms with Garlic</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Vietnam18-0157.jpg" alt="Thóc Grill Craft Beer">
-  <figcaption>Thóc Grill Craft Beer</figcaption>
+  <figcaption>Trung Ga Non Chay Tieu Xanh</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Vietnam18-0144.jpg" alt="Thóc Grill Craft Beer">
-  <figcaption>Thóc Grill Craft Beer</figcaption>
+  <figcaption>Grilled Beef with Flying Fish Egg</figcaption>
 </figure>
 </div>
 
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/thoc-grill-craft-beer-1.jpg" alt="Thóc Grill & Craft Beer">
-  <figcaption>Thóc Grill & Craft Beer</figcaption>
+  <figcaption>Kho Quet</figcaption>
 </figure>
 
 

@@ -15,14 +15,14 @@ subtitle: Bến Nghé · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-original-1.jpg" alt="Quan Bui - Original">
-  <figcaption>Quan Bui - Original</figcaption>
+  <figcaption>Vietnamese Appetisers</figcaption>
 </figure>
 
 This restaurant is popular with both locals and tourists. It offers a good variety of classic Vietnamese dishes, all well-prepared, at moderate prices. The appetizer platter is a little inconsistent, but the main dishes are generally very good. The atmosphere is nice, making it a good choice for first-time visitors looking to try local food. They have an even nicer garden restaurant in Thao Dien.
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-original-2.jpg" alt="Quan Bui - Original">
-  <figcaption>Quan Bui - Original</figcaption>
+  <figcaption>Deep Fried Tofu</figcaption>
 </figure>
 
 ## Ratings

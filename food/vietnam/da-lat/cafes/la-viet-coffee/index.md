@@ -8,7 +8,7 @@ subtitle: Đà Lạt · Coffee
 
 <figure>
   <img src="/photos/vietnam/da-lat/la-viet-coffee-1.jpg" alt="La Viet Coffee">
-  <figcaption>La Viet Coffee</figcaption>
+  <figcaption>Cold Brew</figcaption>
 </figure>
 
 A coffee shop with the look and feel of a beer hall, a massive space with long wooden benches. It's all a bit strange. That said, however, they're very serious about coffee here, with a long menu including everything from classic lattes to cold brew coffee cocktails, all made from locally sourced beans.

@@ -8,7 +8,7 @@ subtitle: Nha Trang · Italian
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam20-2498.jpg" alt="Nam's House Food Delivery">
-  <figcaption>Nam's House Food Delivery</figcaption>
+  <figcaption>Pizza Hawaii</figcaption>
 </figure>
 
 Delivery only, but this is the best value pizza in town. I only order from them. Topping wise it's not authentic Italian pizza, but the dough and crust are excellent and I love their sour cream, ham and mushroom topping. They also do a nice seafood pizza. 100k or less for a big pizza

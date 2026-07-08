@@ -8,7 +8,7 @@ subtitle: Nha Trang · Seafood
 
 <figure>
   <img src="/photos/vietnam/nha-trang/roly-buffet-1.jpg" alt="Roly Buffet">
-  <figcaption>Roly Buffet</figcaption>
+  <figcaption>Buffet BBQ</figcaption>
 </figure>
 
 As someone who is not a fan of buffet restaurants, I must admit that I quite liked Roly. It's a huge and busy place with a rather sterile atmosphere, but quality and value are both good.
@@ -18,17 +18,17 @@ The freshly prepared banh xeo are quite nice, but the precooked dishes are not b
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/roly-buffet-2.jpg" alt="Roly Buffet">
-  <figcaption>Roly Buffet</figcaption>
+  <figcaption>Buffet BBQ</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/roly-buffet-3.jpg" alt="Roly Buffet">
-  <figcaption>Roly Buffet</figcaption>
+  <figcaption>Buffet Hotpot</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/roly-buffet-4.jpg" alt="Roly Buffet">
-  <figcaption>Roly Buffet</figcaption>
+  <figcaption>Grilled Bacon on praens cracker</figcaption>
 </figure>
 
 

@@ -8,7 +8,7 @@ subtitle: Bến Thành · Japanese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/chiyoda-sushi-ben-thanh-1.jpg" alt="Chiyoda Sushi Bến Thành">
-  <figcaption>Chiyoda Sushi Bến Thành</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 
 This Japanese restaurant serves good sushi, sashimi, okonomiyaki, and other standard dishes. It's located in the heart of District 1, but the prices are surprisingly moderate for such a central spot. They also offer ice-cold draft Sapporo, which is always a nice touch. If you're in the area, it's definitely worth a visit.
@@ -16,17 +16,17 @@ This Japanese restaurant serves good sushi, sashimi, okonomiyaki, and other stan
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/chiyoda-sushi-ben-thanh-2.jpg" alt="Chiyoda Sushi Bến Thành">
-  <figcaption>Chiyoda Sushi Bến Thành</figcaption>
+  <figcaption>Octopus</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/chiyoda-sushi-ben-thanh-3.jpg" alt="Chiyoda Sushi Bến Thành">
-  <figcaption>Chiyoda Sushi Bến Thành</figcaption>
+  <figcaption>Unagi Roll</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/chiyoda-sushi-ben-thanh-4.jpg" alt="Chiyoda Sushi Bến Thành">
-  <figcaption>Chiyoda Sushi Bến Thành</figcaption>
+  <figcaption>Okonomiyaki</figcaption>
 </figure>
 
 ## Ratings

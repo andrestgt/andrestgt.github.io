@@ -8,7 +8,7 @@ subtitle: Hội An · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hoi-an/nocturnal-artist-2.jpg" alt="Nocturnal Artist">
-  <figcaption>Nocturnal Artist</figcaption>
+  <figcaption>Fish in Banana Leaf</figcaption>
 </figure>
 
 Cute, artsy little hole in the wall serving inexpensive but delicious home-cooked food. The smaller portions work well if you want to share and sample several dishes, such as the juicy ribs or the fish grilled in coconut leaves.

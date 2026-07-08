@@ -8,7 +8,7 @@ subtitle: Thảo Điền · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/relish-sons-1.jpg" alt="Relish & Sons">
-  <figcaption>Relish & Sons</figcaption>
+  <figcaption>Lamb Burger</figcaption>
 </figure>
 
 Great concept, very good burgers and fries, craft beers on tap. One of my favourite lunch places in Saigon for western food. The lamb burger is my go to meal, but more classic burgers are available. The set meal is good value at 180k, unfortunately it doesn't include the beer anymore, but you can get a nice glass of IPA for a little extra. I only deduct one star for not having net prices. This bad habit of charging ++ is blissfully rare in Vietnam outside of five star hotels and I hope it will stay this way.

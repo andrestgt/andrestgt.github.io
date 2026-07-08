@@ -18,12 +18,12 @@ Perfect location on Cathedral square. Very cute little bistro with good Vietname
 
 <figure>
   <img src="/photos/vietnam/hanoi/nha-hang-la-place-3.jpg" alt="Nhà hàng La Place">
-  <figcaption>Nhà hàng La Place</figcaption>
+  <figcaption>Cha Ca La Vong</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/vietnam/hanoi/nha-hang-la-place-4.jpg" alt="Nhà hàng La Place">
-  <figcaption>Nhà hàng La Place</figcaption>
+  <figcaption>Goi Ga</figcaption>
 </figure>
 
 

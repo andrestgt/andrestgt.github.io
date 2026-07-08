@@ -27,18 +27,18 @@ With several outlets around HCMC Tokyo Deli is one of the best places for a quic
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-4.jpg" alt="Tokyo Deli Crescent">
-  <figcaption>Tokyo Deli Crescent</figcaption>
+  <figcaption>Japanese Beef Rolls</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-5.jpg" alt="Tokyo Deli Crescent">
-  <figcaption>Tokyo Deli Crescent</figcaption>
+  <figcaption>Salmon and Maguro Nigiri</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-6.jpg" alt="Tokyo Deli Crescent">
-  <figcaption>Tokyo Deli Crescent</figcaption>
+  <figcaption>Salmon Maki</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-7.jpg" alt="Tokyo Deli Crescent">
@@ -48,7 +48,7 @@ With several outlets around HCMC Tokyo Deli is one of the best places for a quic
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/tokyo-deli-crescent-8.jpg" alt="Tokyo Deli Crescent">
-  <figcaption>Tokyo Deli Crescent</figcaption>
+  <figcaption>Maguro Salmon Ikura Don</figcaption>
 </figure>
 
 ## Ratings

@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/com-nha-goc-ha-noi-1.jpg" alt="Cơm nhà Góc Hà Nội">
-  <figcaption>Cơm nhà Góc Hà Nội</figcaption>
+  <figcaption>Bun Cha</figcaption>
 </figure>
 
 Pleasant courtyard restaurant just outside the main tourist area. Worth a visit if a trip to the north is not on the cards, as the food is very authentic as far as I can tell,  and prices are perfectly fair.
@@ -20,7 +20,7 @@ Pleasant courtyard restaurant just outside the main tourist area. Worth a visit 
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/com-nha-goc-ha-noi-3.jpg" alt="Cơm nhà Góc Hà Nội">
-  <figcaption>Cơm nhà Góc Hà Nội</figcaption>
+  <figcaption>Bun Cha</figcaption>
 </figure>
 </div>
 

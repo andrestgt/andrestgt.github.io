@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/lac-canh-beef-restaurant-1.jpg" alt="Lac Canh Beef Restaurant">
-  <figcaption>Lac Canh Beef Restaurant</figcaption>
+  <figcaption>Bo Nuong</figcaption>
 </figure>
 
 I've been eating at this place since the year 2000 and it used to be the single best BBQ joint in Nha Trang, one of my favourite places to eat in town. But over the years quality and portion size has gone down substantially, as prices has gone up. It's okay for tourists, with an English menu, but there are definitely better BBQ places in Nha Trang for those in the know (2016)
@@ -24,7 +24,7 @@ Still good, but the beef was sweeter and chewier than last time. Squid was excel
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lac-canh-beef-restaurant-2.jpg" alt="Lac Canh Beef Restaurant">
-  <figcaption>Lac Canh Beef Restaurant</figcaption>
+  <figcaption>Marinated grilled beef and squid</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lac-canh-beef-restaurant-3.jpg" alt="Lac Canh Beef Restaurant">

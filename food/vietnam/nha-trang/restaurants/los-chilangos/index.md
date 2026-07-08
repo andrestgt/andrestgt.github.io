@@ -8,7 +8,7 @@ subtitle: Nha Trang · Mexican
 
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-1.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Tacos</figcaption>
 </figure>
 
 It's really rare to find real Mexican flavours anywhere in South East Asia, even in the biggest cities. Most 'Mexican' restaurants are of the generic Tex-Mex burritos and nachos variety. So finding a place like Los Chilangos in Nha Trang is a pleasant surprise. Sure, they only sell tacos, but these are proper ones, on homemade tortillas with three kinds of salsa, all prepared by actual Mexicans. It's a bit hidden in a newly built residential area by the old airport, but well worth seeking out.
@@ -17,44 +17,44 @@ Update: they now have a more extensive menu including burritos and rice meals wh
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-2.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Tacos</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-3.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Shrimp Tacos</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-10.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Veg Taco</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-5.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Veg Taco</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-6.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Tacos</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-7.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Reforma prawns with sri racha mayo</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-8.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Mexican spicy fried chicken</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/los-chilangos-9.jpg" alt="Los Chilangos">
-  <figcaption>Los Chilangos</figcaption>
+  <figcaption>Reforma prawns with sri racha mayo</figcaption>
 </figure>
 </div>
 

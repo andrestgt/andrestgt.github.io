@@ -16,17 +16,17 @@ We had originally planned to go to the more modern looking and well reviewed B52
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/phong-nha/quan-nuoc-mam-ca-den-2.jpg" alt="Quan Nuoc Mam Ca Den">
-  <figcaption>Quan Nuoc Mam Ca Den</figcaption>
+  <figcaption>Bap Chuoi Xao</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/phong-nha/quan-nuoc-mam-ca-den-3.jpg" alt="Quan Nuoc Mam Ca Den">
-  <figcaption>Quan Nuoc Mam Ca Den</figcaption>
+  <figcaption>Oc Nghoi Ong Nua</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/phong-nha/quan-nuoc-mam-ca-den-4.jpg" alt="Quan Nuoc Mam Ca Den">
-  <figcaption>Quan Nuoc Mam Ca Den</figcaption>
+  <figcaption>Nai Xao</figcaption>
 </figure>
 
 ## Ratings

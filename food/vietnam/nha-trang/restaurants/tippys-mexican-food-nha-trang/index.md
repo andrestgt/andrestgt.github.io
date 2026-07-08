@@ -8,7 +8,7 @@ subtitle: Nha Trang · Mexican
 
 <figure>
   <img src="/photos/vietnam/nha-trang/tippys-mexican-food-nha-trang-1.jpg" alt="Tippy's Mexican Food Nha Trang">
-  <figcaption>Tippy's Mexican Food Nha Trang</figcaption>
+  <figcaption>Tacos</figcaption>
 </figure>
 
 With the sad closure of Los Chilangos, Nha Trang’s only real Mexican restaurant, Tippy’s steps in to fill the gap with decent Tex-Mex, better than many places in Vietnam. Their tacos are solid, and the burritos can be great, especially the breakfast burrito. The margaritas could be a bit stronger, but they’re alright.

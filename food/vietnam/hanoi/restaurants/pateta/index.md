@@ -21,18 +21,18 @@ Friendly place with a big balcony overlooking an old town street. Cheap Larue dr
 </figure>
 <figure>
   <img src="/photos/vietnam/hanoi/pateta-3.jpg" alt="Pateta">
-  <figcaption>Pateta</figcaption>
+  <figcaption>Banh Mi</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/pateta-4.jpg" alt="Pateta">
-  <figcaption>Pateta</figcaption>
+  <figcaption>Nem Chua</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hanoi/pateta-5.jpg" alt="Pateta">
-  <figcaption>Pateta</figcaption>
+  <figcaption>Nem Chua</figcaption>
 </figure>
 </div>
 

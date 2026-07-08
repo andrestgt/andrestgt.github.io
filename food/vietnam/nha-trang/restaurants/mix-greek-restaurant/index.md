@@ -8,7 +8,7 @@ subtitle: Nha Trang · Greek
 
 <figure>
   <img src="/photos/vietnam/nha-trang/mix-greek-restaurant-1.jpg" alt="Mix Greek Restaurant">
-  <figcaption>Mix Greek Restaurant</figcaption>
+  <figcaption>Greek Meze</figcaption>
 </figure>
 
 When they first opened, it instantly became one of my favourite restaurants in town and I wrote a glowing 5 star review on Tripadvisor.
@@ -17,17 +17,17 @@ When they first opened, it instantly became one of my favourite restaurants in t
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/mix-greek-restaurant-2.jpg" alt="Mix Greek Restaurant">
-  <figcaption>Mix Greek Restaurant</figcaption>
+  <figcaption>Zucchini Fritters</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/mix-greek-restaurant-3.jpg" alt="Mix Greek Restaurant">
-  <figcaption>Mix Greek Restaurant</figcaption>
+  <figcaption>Calamari</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/mix-greek-restaurant-4.jpg" alt="Mix Greek Restaurant">
-  <figcaption>Mix Greek Restaurant</figcaption>
+  <figcaption>Moussaka</figcaption>
 </figure>
 
 

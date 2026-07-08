@@ -14,7 +14,7 @@ subtitle: Nha Trang · Coffee
 
 <figure>
   <img src="/photos/vietnam/nha-trang/k-cafe-1.jpg" alt="K cafe">
-  <figcaption>K cafe</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Nha Trang's most charming café looks much more Hoi An or Melaka Old Town than you'd expect in this brash tourist city. This particular area between Dam market and the beach still retains some old school charm with scattered French era buildings and quiet streets. K is one of the few places that take advantage of this. The old fashioned decor, the breezy backyard, it's a lovely place to while some time away with one of their well prepared espresso drinks (45k for a smooth cappuccino) or a cold draft beer.

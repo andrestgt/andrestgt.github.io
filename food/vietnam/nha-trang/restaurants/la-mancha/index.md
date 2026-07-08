@@ -27,7 +27,7 @@ Just moved to a new location, but still with the same menu. One of the few place
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/la-mancha-4.jpg" alt="La Mancha">
-  <figcaption>La Mancha</figcaption>
+  <figcaption>Mejillones</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/la-mancha-5.jpg" alt="La Mancha">
@@ -38,28 +38,28 @@ Just moved to a new location, but still with the same menu. One of the few place
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/la-mancha-6.jpg" alt="La Mancha">
-  <figcaption>La Mancha</figcaption>
+  <figcaption>Cazuela</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/la-mancha-7.jpg" alt="La Mancha">
-  <figcaption>La Mancha</figcaption>
+  <figcaption>Leg of Lamb</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/la-mancha-8.jpg" alt="La Mancha">
-  <figcaption>La Mancha</figcaption>
+  <figcaption>Grilled Cobia Skewer</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/la-mancha-9.jpg" alt="La Mancha">
-  <figcaption>La Mancha</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/la-mancha-10.jpg" alt="La Mancha">
-  <figcaption>La Mancha</figcaption>
+  <figcaption>Lamb Chops</figcaption>
 </figure>
 
 ## Ratings

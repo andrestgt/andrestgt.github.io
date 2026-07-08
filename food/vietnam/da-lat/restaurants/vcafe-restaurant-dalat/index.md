@@ -15,7 +15,7 @@ Cosy bar/bistro hybrid that's been around for a long time. It's a great place fo
 
 <figure>
   <img src="/photos/vietnam/da-lat/Viet19-0314.jpg" alt="Vcafe Restaurant Dalat">
-  <figcaption>Vcafe Restaurant Dalat</figcaption>
+  <figcaption>Lasagne</figcaption>
 </figure>
 
 ## Ratings

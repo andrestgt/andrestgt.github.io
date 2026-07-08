@@ -8,7 +8,7 @@ subtitle: Hội An · Coffee
 
 <figure>
   <img src="/photos/vietnam/hoi-an/roving-chill-house-1.jpg" alt="Roving Chill house">
-  <figcaption>Roving Chill house</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 This is the most exciting newcomer to Hoi An's already impressive café scene. With a magical location, surrounded by rice paddies and lotus, it's not surprising then that the "chill house" has quickly fallen victim of its own success. We were here for an early breakfast coffee and most customers seemed to be either instazombies, spending their entire time in the place taking photos of themselves without actually chilling out, or annoying nouveau riche city people from Danang with huge cars and small brains blocking the traffic on the narrow roads through the fields in order to come here, not a very chilled out sight either.

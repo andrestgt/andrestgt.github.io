@@ -8,7 +8,7 @@ subtitle: island · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-1.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Fish salad</figcaption>
 </figure>
 
 We stayed just next door so this became our go to restaurant during our time in Con Dao. But it's well worth a visit no matter where you're staying as Beach House is certainly one of the best restaurants on the island. It's run by a young couple and has a surprisingly international menu of home-cooked, mostly healthy dishes from squid tagliatelle to a delicious vegan naan sandwich. Prices are really good and there's cold beer for 20k.
@@ -16,39 +16,39 @@ We stayed just next door so this became our go to restaurant during our time in 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-2.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Squid Tagliatelle</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-3.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Calamari Salad</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-4.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Minestrone</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-5.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Sweet Potato Fries</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-6.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Vegan Naan Sandwich</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-7.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Chicken Tagliatelle</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/con-dao/beach-house-restaurant-cocktails-con-dao-8.jpg" alt="Beach House Restaurant & Cocktails Côn Đảo">
-  <figcaption>Beach House Restaurant & Cocktails Côn Đảo</figcaption>
+  <figcaption>Pesto Tagliatelle</figcaption>
 </figure>
 
 Highly recommended

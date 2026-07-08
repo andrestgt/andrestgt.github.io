@@ -8,7 +8,7 @@ subtitle: Thủ Đức · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-1.jpg" alt="Quán Bụi Garden">
-  <figcaption>Quán Bụi Garden</figcaption>
+  <figcaption>Mixed Vietnamese Appetisers</figcaption>
 </figure>
 
 This branch has a lovely garden setting and serves a variety of Vietnamese dishes from all over the country. It’s a great choice for tourists wanting to try classic, familiar flavors without anything too adventurous. The food is tasty, the prices are moderate, and it’s a nice spot for a relaxed meal with regional dishes.
@@ -16,11 +16,11 @@ This branch has a lovely garden setting and serves a variety of Vietnamese dishe
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-2.jpg" alt="Quán Bụi Garden">
-  <figcaption>Quán Bụi Garden</figcaption>
+  <figcaption>Aloe Vera Salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-bui-garden-3.jpg" alt="Quán Bụi Garden">
-  <figcaption>Quán Bụi Garden</figcaption>
+  <figcaption>Lemongrass Beef Skewers</figcaption>
 </figure>
 </div>
 

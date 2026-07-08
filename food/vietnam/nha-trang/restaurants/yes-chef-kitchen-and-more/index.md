@@ -23,7 +23,7 @@ I'd definitely come back for the ribs, though
 
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-1.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Tuna Tartare</figcaption>
 </figure>
 
 
@@ -31,44 +31,44 @@ I'd definitely come back for the ribs, though
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-2.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Wonton soup</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-3.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Ribs</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-4.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Beer Platter</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-5.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Tuna Salad</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-6.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Cha Ca La Vong</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-7.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Seafood Pasta</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-8.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Fried Oysters</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/yes-chef-kitchen-and-more-9.jpg" alt="Yes chef: Kitchen and more">
-  <figcaption>Yes chef: Kitchen and more</figcaption>
+  <figcaption>Cha Ca La Vong</figcaption>
 </figure>
 </div>
 

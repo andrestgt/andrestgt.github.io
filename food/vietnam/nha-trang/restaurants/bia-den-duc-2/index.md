@@ -8,7 +8,7 @@ subtitle: Nha Trang · Bia Hơi
 
 <figure>
   <img src="/photos/vietnam/nha-trang/bia-den-duc-2-1.jpg" alt="Bia Den Duc 2">
-  <figcaption>Bia Den Duc 2</figcaption>
+  <figcaption>Nai Xao</figcaption>
 </figure>
 
 A mere 10 kilometres outside of Nha Trang City, this simple beer garden offers two things that are sorely missing from drinking places in downtown : good bia hoi and good value food. First, they serve proper fresh Bia Hoi Saigon (15k per litre), almost impossible to find in Nha Trang where bia hoi usually tastes flat and metallic. Second, they serve big portions of tasty meat dishes at extremely moderate prices. I'm wondering if they didn't just forget to change the menu since about 2012. A large plate of stir fried venison with lemongrass goes for 80k. That alone makes the trip out here worthwhile.

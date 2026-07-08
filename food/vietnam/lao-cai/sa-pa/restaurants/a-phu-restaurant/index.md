@@ -16,7 +16,7 @@ Attractive restaurant with a hill tribe theme that caters to both tourists and l
 
 <figure>
   <img src="/photos/vietnam/lao-cai/a-phu-restaurant-1.jpg" alt="A Phủ Restaurant">
-  <figcaption>A Phủ Restaurant</figcaption>
+  <figcaption>Grilled Horse Meat</figcaption>
 </figure>
 
 
@@ -24,11 +24,11 @@ Attractive restaurant with a hill tribe theme that caters to both tourists and l
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/lao-cai/a-phu-restaurant-2.jpg" alt="A Phủ Restaurant">
-  <figcaption>A Phủ Restaurant</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/lao-cai/a-phu-restaurant-3.jpg" alt="A Phủ Restaurant">
-  <figcaption>A Phủ Restaurant</figcaption>
+  <figcaption>Salmon Rice Paper Roll</figcaption>
 </figure>
 </div>
 

@@ -16,7 +16,7 @@ subtitle: Sa Pa · Coffee
 
 <figure>
   <img src="/photos/vietnam/lao-cai/le-gecko-cafe-1.jpg" alt="Le Gecko Café">
-  <figcaption>Le Gecko Café</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Beautiful little café with a few sofas and pavement seating. Prices are rather high, but that's not unusual in expensive Sapa. A Lavazza cappuccino costs 60k and it was merely good, not great, and I detected just a hint of cinnamon where there shouldn't be any. Vietnamese coffees are good, too. They do, however, not come in a traditional filter, and the iced ones come with plastic straws which is a bit poor judgment for an expensive coffee shop

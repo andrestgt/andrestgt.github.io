@@ -23,7 +23,7 @@ Story and Mangal haven't survived the pandemic, so this is hands down the best b
 
 <figure>
   <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-1.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
+  <figcaption>Okonomiyaki</figcaption>
 </figure>
 
 
@@ -32,17 +32,17 @@ Story and Mangal haven't survived the pandemic, so this is hands down the best b
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-2.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
+  <figcaption>Appetiser plate</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-3.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
+  <figcaption>Smoked German Sausages with Mashed Potatoes</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/nha-trang/lousiane-brewhouse-nha-trang-restaurant-craft-beer-4.jpg" alt="Louisiane Brewhouse Nha Trang Restaurant & Craft Beer">
-  <figcaption>Louisiane Brewhouse Nha Trang Restaurant & Craft Beer</figcaption>
+  <figcaption>Pizza Quattro Formaggi</figcaption>
 </figure>
 
 

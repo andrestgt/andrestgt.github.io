@@ -8,7 +8,7 @@ subtitle: KĐT · Korean
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Viet21-0088.jpg" alt="Anjirang">
-  <figcaption>Anjirang</figcaption>
+  <figcaption>Spicy Squid</figcaption>
 </figure>
 
 More drinking place than restaurant, Anjirang is very basic, but quite pricy given the location, service and decor.

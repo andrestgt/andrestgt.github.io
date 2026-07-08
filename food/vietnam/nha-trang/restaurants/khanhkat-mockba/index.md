@@ -24,7 +24,7 @@ This place has existed for a long time and is clearly geared towards Russian tou
   <div style="flex: 1; min-width: 200px;">
     <figure>
   <img src="/photos/vietnam/nha-trang/khanhkat-mockba-1.jpg" alt="KhanhKat Mockba">
-  <figcaption>KhanhKat Mockba</figcaption>
+  <figcaption>Goi Cuon</figcaption>
 </figure>
   </div>
 </div>

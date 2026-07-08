@@ -19,7 +19,7 @@ they reshuffled their menu, so now the sandwich to order is #3 thap cam, with a 
 
 <figure>
   <img src="/photos/vietnam/hoi-an/Vietnam20-0344.jpg" alt="Bánh Mì Phượng">
-  <figcaption>Bánh Mì Phượng</figcaption>
+  <figcaption>Banh Mi Thap Cam</figcaption>
 </figure>
 
 ## Ratings

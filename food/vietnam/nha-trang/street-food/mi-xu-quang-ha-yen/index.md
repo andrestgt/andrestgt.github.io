@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/mi-xu-quang-ha-yen-1.jpg" alt="Mì Xứ Quảng Hà Yên">
-  <figcaption>Mì Xứ Quảng Hà Yên</figcaption>
+  <figcaption>Mi Quang</figcaption>
 </figure>
 
 Very good My Quang, the original taste from Central Vietnam, which is a rare find in Nha Trang. 30k for a (smallish) bowl

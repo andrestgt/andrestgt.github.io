@@ -16,39 +16,39 @@ They do nice fried spring rolls and the steamed vegetables for their Rau Kho Que
 
 <figure>
   <img src="/photos/vietnam/hoi-an/baby-mustard-1.jpg" alt="Baby Mustard">
-  <figcaption>Baby Mustard</figcaption>
+  <figcaption>Spring rolls</figcaption>
 </figure>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/baby-mustard-2.jpg" alt="Baby Mustard">
-  <figcaption>Baby Mustard</figcaption>
+  <figcaption>Kho Quet</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/baby-mustard-3.jpg" alt="Baby Mustard">
-  <figcaption>Baby Mustard</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/baby-mustard-4.jpg" alt="Baby Mustard">
-  <figcaption>Baby Mustard</figcaption>
+  <figcaption>Beef salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/baby-mustard-5.jpg" alt="Baby Mustard">
-  <figcaption>Baby Mustard</figcaption>
+  <figcaption>Grilled fish in banana leaf</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/baby-mustard-6.jpg" alt="Baby Mustard">
-  <figcaption>Baby Mustard</figcaption>
+  <figcaption>Nem Lui</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/baby-mustard-7.jpg" alt="Baby Mustard">
-  <figcaption>Baby Mustard</figcaption>
+  <figcaption>Grilled Squid in Banana Leaf</figcaption>
 </figure>
 </div>
 

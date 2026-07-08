@@ -8,7 +8,7 @@ subtitle: Thảo Điền · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/mekong-merchant-saigon-2.jpg" alt="Mekong Merchant Saigon">
-  <figcaption>Mekong Merchant Saigon</figcaption>
+  <figcaption>Gnocchi Pomodoro</figcaption>
 </figure>
 
 Ground zero for Saigon's expat crowd, but an agreeable one, with a lovely outdoor setting that makes it a nice place to chill out. The cappuccino was excellent, the gnocchi with chorizo very enjoyable, and while prices sit towards the upper end of reasonable, they do not feel outrageous.

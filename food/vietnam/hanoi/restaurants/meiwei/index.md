@@ -8,14 +8,14 @@ subtitle: Ba Đình · Chinese · Dim Sum
 
 <figure>
   <img src="/photos/vietnam/hanoi/meiwei-1.jpg" alt="Meiwei">
-  <figcaption>Meiwei</figcaption>
+  <figcaption>Sweet and Sour Chicken</figcaption>
 </figure>
 
 Reasonably good Chinese franchise in Lotte Centre. It's rather expensive, but the dim sum here were quite delicious, and the sweet and sour pork was tasty as well. Service has room for improvement
 
 <figure>
   <img src="/photos/vietnam/hanoi/meiwei-2.jpg" alt="Meiwei">
-  <figcaption>Meiwei</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 ## Ratings

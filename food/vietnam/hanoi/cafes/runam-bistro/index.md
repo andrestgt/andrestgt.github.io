@@ -8,7 +8,7 @@ subtitle: Hanoi · Coffee
 
 <figure>
   <img src="/photos/vietnam/hanoi/runam-bistro-1.jpg" alt="Runam Bistro">
-  <figcaption>Runam Bistro</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Very beautiful decor and presentation, excellent coffees, but, my god, their prices are hideously over the top. Over 100k for a cappuccino

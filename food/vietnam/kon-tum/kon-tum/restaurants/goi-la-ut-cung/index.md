@@ -8,7 +8,7 @@ subtitle: Thống Nhất · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/kon-tum/goi-la-ut-cung-1.jpg" alt="Gỏi lá Út Cưng">
-  <figcaption>Gỏi lá Út Cưng</figcaption>
+  <figcaption>Goi La</figcaption>
 </figure>
 
 Possibly Kontum's most famous restaurant, this large open air place has a very popular version of Goi La, literally leaf salad, which is a specialty in this area. This dish consists of a massive plate of different edible leaves, plus some fillings to wrap around. There's some lard, some prawns, some pork skin, peanuts...and a lovely dipping sauce. Not all the leaves are very tasty, but some have surprisingly distinct and interesting flavours. The whole dish costs less than 100k for 2 and is a must try when you're in the area.
@@ -17,22 +17,22 @@ For carbs, however, better just order some rice dish, we made the mistake of ord
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/kon-tum/goi-la-ut-cung-2.jpg" alt="Gỏi lá Út Cưng">
-  <figcaption>Gỏi lá Út Cưng</figcaption>
+  <figcaption>Goi La</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/kon-tum/goi-la-ut-cung-3.jpg" alt="Gỏi lá Út Cưng">
-  <figcaption>Gỏi lá Út Cưng</figcaption>
+  <figcaption>Bo 1 Nang</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/kon-tum/goi-la-ut-cung-4.jpg" alt="Gỏi lá Út Cưng">
-  <figcaption>Gỏi lá Út Cưng</figcaption>
+  <figcaption>Goi La</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/kon-tum/goi-la-ut-cung-5.jpg" alt="Gỏi lá Út Cưng">
-  <figcaption>Gỏi lá Út Cưng</figcaption>
+  <figcaption>Goi La</figcaption>
 </figure>
 </div>
 

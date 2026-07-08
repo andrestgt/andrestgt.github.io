@@ -15,7 +15,7 @@ Attractive and deservedly popular drinking spot in a prime central location. The
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/5ku-station-2.jpg" alt="5KU Station">
-  <figcaption>5KU Station</figcaption>
+  <figcaption>Chicken Wings</figcaption>
 </figure>
 
 ## Ratings

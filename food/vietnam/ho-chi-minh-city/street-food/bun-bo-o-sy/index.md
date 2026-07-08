@@ -15,7 +15,7 @@ My go to place for Bun Bo Hue in the tourist area. It's local, authentic, well p
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/bun-bo-o-sy-2.jpg" alt="Bún bò Ô Sỹ">
-  <figcaption>Bún bò Ô Sỹ</figcaption>
+  <figcaption>Bun Bo Hue</figcaption>
 </figure>
 
 ## Ratings

@@ -8,7 +8,7 @@ subtitle: Cầu Giấy · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hanoi/bun-ca-sam-cay-si-1.jpg" alt="Bun Ca Sam Cay Si">
-  <figcaption>Bun Ca Sam Cay Si</figcaption>
+  <figcaption>Ca Cuon</figcaption>
 </figure>
 
 One of the best bowls of soup I found in Hanoi. The fish soup here is deeply satisfying, generously portioned and excellent value at just 40k. Be sure to order the fish spring rolls on the side as well, they are every bit as good.
@@ -16,11 +16,11 @@ One of the best bowls of soup I found in Hanoi. The fish soup here is deeply sat
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hanoi/bun-ca-sam-cay-si-2.jpg" alt="Bun Ca Sam Cay Si">
-  <figcaption>Bun Ca Sam Cay Si</figcaption>
+  <figcaption>Bun Ca</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hanoi/bun-ca-sam-cay-si-3.jpg" alt="Bun Ca Sam Cay Si">
-  <figcaption>Bun Ca Sam Cay Si</figcaption>
+  <figcaption>Bun Ca</figcaption>
 </figure>
 </div>
 

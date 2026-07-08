@@ -8,7 +8,7 @@ subtitle: Hội An · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hoi-an/morning-glory-original-1.jpg" alt="Morning Glory Original">
-  <figcaption>Morning Glory Original</figcaption>
+  <figcaption>Spring rolls</figcaption>
 </figure>
 
 The concept here is sanitised 'Street food', and it's the most popular tourist restaurant in Hoi An. My advice, get your street food on the street (cheaper and at least as good) and order their specialties.
@@ -17,11 +17,11 @@ The specialties here are pricier but really delicious. Try the clam curry and th
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/morning-glory-original-2.jpg" alt="Morning Glory Original">
-  <figcaption>Morning Glory Original</figcaption>
+  <figcaption>Nheu Hap</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/morning-glory-original-3.jpg" alt="Morning Glory Original">
-  <figcaption>Morning Glory Original</figcaption>
+  <figcaption>Vietnamese Roasted Duck Salad</figcaption>
 </figure>
 </div>
 

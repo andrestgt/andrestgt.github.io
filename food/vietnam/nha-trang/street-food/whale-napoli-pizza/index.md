@@ -8,7 +8,7 @@ subtitle: Nha Trang · Italian · Pizza
 
 <figure>
   <img src="/photos/vietnam/nha-trang/whale-napoli-pizza-1.jpg" alt="WHALE Napoli Pizza">
-  <figcaption>WHALE Napoli Pizza</figcaption>
+  <figcaption>Pizza Parma e Rucola</figcaption>
 </figure>
 
 This place is really cute, essentially a pizza oven in someone’s living room, with just a couple of tables out front. And they do serve proper Neapolitan-style pizzas here, with a thin bottom and thick crust. Even the toppings are authentic, you get a choice of anchovies, Parma ham, pepperoni, etc., just like in Italy.
@@ -17,7 +17,7 @@ That said, the amount of toppings was just right, and the quality was great. So 
 
 <figure>
   <img src="/photos/vietnam/nha-trang/whale-napoli-pizza-2.jpg" alt="WHALE Napoli Pizza">
-  <figcaption>WHALE Napoli Pizza</figcaption>
+  <figcaption>Pizza Diavoli</figcaption>
 </figure>
 
 

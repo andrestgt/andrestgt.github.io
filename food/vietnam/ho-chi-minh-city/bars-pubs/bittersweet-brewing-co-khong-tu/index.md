@@ -32,17 +32,17 @@ It’s just a 10-minute walk from the metro station, and the ride from District 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/bittersweet-brewing-co-khong-tu-2.jpg" alt="BITTERSWEET BREWING CO. - KHỔNG TỬ">
-  <figcaption>BITTERSWEET BREWING CO. - KHỔNG TỬ</figcaption>
+  <figcaption>Seared Tuna</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/bittersweet-brewing-co-khong-tu-3.jpg" alt="BITTERSWEET BREWING CO. - KHỔNG TỬ">
-  <figcaption>BITTERSWEET BREWING CO. - KHỔNG TỬ</figcaption>
+  <figcaption>spring rolls</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/bittersweet-brewing-co-khong-tu-1.jpg" alt="BITTERSWEET BREWING CO. - KHỔNG TỬ">
-  <figcaption>BITTERSWEET BREWING CO. - KHỔNG TỬ</figcaption>
+  <figcaption>Squid Wasabi Salad</figcaption>
 </figure>
 
 

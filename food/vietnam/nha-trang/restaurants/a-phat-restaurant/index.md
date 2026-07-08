@@ -8,7 +8,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/a-phat-restaurant-1.jpg" alt="A Phát Restaurant">
-  <figcaption>A Phát Restaurant</figcaption>
+  <figcaption>Crispy Fried Rice</figcaption>
 </figure>
 
 As one of the most upmarket restaurants in the Big C area, this large open air establishment caters mostly to big groups, families or company parties, but is still very welcoming to foreign guests and smaller parties.
@@ -18,22 +18,22 @@ The Vinh Diem Trung / Phu Nong area of Nha Trang has seen recent openings of som
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/a-phat-restaurant-2.jpg" alt="A Phát Restaurant">
-  <figcaption>A Phát Restaurant</figcaption>
+  <figcaption>Goi Hai San</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/a-phat-restaurant-3.jpg" alt="A Phát Restaurant">
-  <figcaption>A Phát Restaurant</figcaption>
+  <figcaption>Eel Soup</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/a-phat-restaurant-4.jpg" alt="A Phát Restaurant">
-  <figcaption>A Phát Restaurant</figcaption>
+  <figcaption>Lime cured fresh goat meat</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/a-phat-restaurant-5.jpg" alt="A Phát Restaurant">
-  <figcaption>A Phát Restaurant</figcaption>
+  <figcaption>Eel Sausage</figcaption>
 </figure>
 </div>
 

@@ -14,7 +14,7 @@ subtitle: Hội An · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hoi-an/cao-lau-khong-gian-xanh-1.jpg" alt="Cao lầu Không Gian Xanh">
-  <figcaption>Cao lầu Không Gian Xanh</figcaption>
+  <figcaption>Cao Lau</figcaption>
 </figure>
 
 Come to this basic, authentic place for delicious Hen Tron (35k) with Banh Trang, essentially tiny mussels with rice bread, and yes, it's much better than it sounds. They also do what I consider the best Cao Lau in town, an almost dry version with delicious saté and crunchy chicharon (40k). The strategic location essentially at the entrance of the best part of the Old Town makes it look like a tourist trap, but it's definitely not. The few dishes they serve are great and prices are very moderate by 2020s Hoi An standards
@@ -22,11 +22,11 @@ Come to this basic, authentic place for delicious Hen Tron (35k) with Banh Trang
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/cao-lau-khong-gian-xanh-2.jpg" alt="Cao lầu Không Gian Xanh">
-  <figcaption>Cao lầu Không Gian Xanh</figcaption>
+  <figcaption>Hen Tron</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/cao-lau-khong-gian-xanh-3.jpg" alt="Cao lầu Không Gian Xanh">
-  <figcaption>Cao lầu Không Gian Xanh</figcaption>
+  <figcaption>Stir-fried Baby Clams</figcaption>
 </figure>
 </div>
 

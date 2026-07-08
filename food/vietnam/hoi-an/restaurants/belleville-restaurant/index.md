@@ -15,7 +15,7 @@ The happy hour cocktails are disappointingly watered down which is a shame becau
 
 <figure>
   <img src="/photos/vietnam/hoi-an/Vietnam16-0079.jpg" alt="Belleville Restaurant">
-  <figcaption>Belleville Restaurant</figcaption>
+  <figcaption>Goat cheese Zucchini</figcaption>
 </figure>
 
 

@@ -17,7 +17,7 @@ Possibly the best option in the area.
 
 <figure>
   <img src="/photos/vietnam/yen-bai/tram-pa-pinh-top-2.jpg" alt="Grilled river fish">
-  <figcaption>Grilled river fish</figcaption>
+  <figcaption>Ca Nuong</figcaption>
 </figure>
 
 ## Ratings

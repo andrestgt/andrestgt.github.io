@@ -8,14 +8,14 @@ subtitle: Hoàn Kiếm · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/hanoi/quan-an-gia-dinh-minh-thuys-1.jpg" alt="Quán Ăn Gia Đình Minh Thủy's">
-  <figcaption>Quán Ăn Gia Đình Minh Thủy's</figcaption>
+  <figcaption>Fried Chicken Leg with Sticky Rice</figcaption>
 </figure>
 
 Tried both a Vietnamese and a German dish here. The marinated chicken leg with sticky rice and herbs was really delicious, full of flavour and easily the highlight of the meal. The Currywurst, on the other hand, was not particularly convincing. Prices are very fair though, making this a good-value option overall.
 
 <figure>
   <img src="/photos/vietnam/hanoi/quan-an-gia-dinh-minh-thuys-2.jpg" alt="Quán Ăn Gia Đình Minh Thủy's">
-  <figcaption>Quán Ăn Gia Đình Minh Thủy's</figcaption>
+  <figcaption>Currywurst</figcaption>
 </figure>
 
 ## Ratings

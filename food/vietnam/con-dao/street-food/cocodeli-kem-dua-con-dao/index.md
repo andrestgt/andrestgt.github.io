@@ -8,7 +8,7 @@ subtitle: Côn Đảo · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/con-dao/cocodeli-kem-dua-con-dao-1.jpg" alt="CocoDeli Kem Dừa Côn Đảo">
-  <figcaption>CocoDeli Kem Dừa Côn Đảo</figcaption>
+  <figcaption>Coconut Ice Cream</figcaption>
 </figure>
 
 This is another one dish only ice cream shop, new and less famous than the one up the road where all the tourist cars stop.

@@ -44,7 +44,7 @@ Prices have risen considerably since then and it's quite an expensive restaurant
 </figure>
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/bo-tung-xeo-7.jpg" alt="Bo Tung Xeo">
-  <figcaption>Bo Tung Xeo</figcaption>
+  <figcaption>Frog BBQ</figcaption>
 </figure>
 </div>
 

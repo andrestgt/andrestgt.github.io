@@ -17,7 +17,7 @@ Classic Vietnamese barbecue chaos: noisy, smoky and packed with locals. There is
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-lat/quan-cu-duc-3.jpg" alt="Quan Cu Duc">
-  <figcaption>Quan Cu Duc</figcaption>
+  <figcaption>Grilled Horse</figcaption>
 </figure>
   <figure>
   <img src="/photos/vietnam/da-lat/quan-cu-duc-4.jpg" alt="Quan Cu Duc">

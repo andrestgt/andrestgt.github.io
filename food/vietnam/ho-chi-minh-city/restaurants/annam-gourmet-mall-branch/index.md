@@ -8,7 +8,7 @@ subtitle: Ho Chi Minh City · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/annam-gourmet-mall-branch-1.jpg" alt="Annam Gourmet (mall branch)">
-  <figcaption>Annam Gourmet (mall branch)</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 I love Annam Gourmet and this mall branch is even better than their original branch. Coffees are better, there's more comfortable seating and the prices for imported Western food and wines in their bistro are unbeatable

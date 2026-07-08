@@ -8,7 +8,7 @@ subtitle: Sóc Trăng · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/soc-trang/nha-hang-hang-ky-1.jpg" alt="Nhà Hàng Hằng Ký">
-  <figcaption>Nhà Hàng Hằng Ký</figcaption>
+  <figcaption>Beef salad</figcaption>
 </figure>
 
 If you can look past the atrocious decor, the stale atmosphere and the fact that half the huge menu was unavailable, you'll then be able to enjoy the excellent food here, the frog curry is delicious
@@ -16,11 +16,11 @@ If you can look past the atrocious decor, the stale atmosphere and the fact that
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/soc-trang/nha-hang-hang-ky-2.jpg" alt="Nhà Hàng Hằng Ký">
-  <figcaption>Nhà Hàng Hằng Ký</figcaption>
+  <figcaption>Ca Ri Ech</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/soc-trang/nha-hang-hang-ky-3.jpg" alt="Nhà Hàng Hằng Ký">
-  <figcaption>Nhà Hàng Hằng Ký</figcaption>
+  <figcaption>Ca Ri Luon</figcaption>
 </figure>
 </div>
 

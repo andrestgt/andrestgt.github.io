@@ -8,7 +8,7 @@ subtitle: Côn Đảo · International
 
 <figure>
   <img src="/photos/vietnam/con-dao/the-secret-restaurant-1.jpg" alt="The Secret Restaurant">
-  <figcaption>The Secret Restaurant</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 The Secret Restaurant is part of one of Con Dao's fancier hotels along the promenade, and its terrace offers beautiful views over the deep blue sea and the sweeping bay.

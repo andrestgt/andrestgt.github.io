@@ -8,7 +8,7 @@ subtitle: Đà Lạt · Coffee
 
 <figure>
   <img src="/photos/vietnam/da-lat/bittersweet-coffee-main.jpg" alt="Bittersweet Coffee">
-  <figcaption>Bittersweet Coffee</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Cute little café bang in the centre of town. The cappuccino as well as the Vietnamese coffees are excellent if a bit on the expensive side for Dalat.

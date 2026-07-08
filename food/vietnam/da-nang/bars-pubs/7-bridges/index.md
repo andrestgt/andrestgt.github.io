@@ -16,7 +16,7 @@ Their pizzas are the thick crust, cheese overload variety, so they're not for pu
 
 <figure>
   <img src="/photos/vietnam/da-nang/7-bridges-1.jpg" alt="7 Bridges">
-  <figcaption>7 Bridges</figcaption>
+  <figcaption>Korean Mandu Pizza</figcaption>
 </figure>
 
 
@@ -24,17 +24,17 @@ Their pizzas are the thick crust, cheese overload variety, so they're not for pu
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-nang/7-bridges-2.jpg" alt="7 Bridges">
-  <figcaption>7 Bridges</figcaption>
+  <figcaption>Korean Mandu Pizza</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/da-nang/7-bridges-3.jpg" alt="7 Bridges">
-  <figcaption>7 Bridges</figcaption>
+  <figcaption>Pho Pizza</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/da-nang/7-bridges-4.jpg" alt="7 Bridges">
-  <figcaption>7 Bridges</figcaption>
+  <figcaption>Beer sampler</figcaption>
 </figure>
 
 

@@ -8,14 +8,14 @@ subtitle: Hoàn Kiếm · Vietnamese · Phở
 
 <figure>
   <img src="/photos/vietnam/hanoi/pho-ga-tu-lun-1.jpg" alt="pho ga tu lun">
-  <figcaption>pho ga tu lun</figcaption>
+  <figcaption>Bun Thang</figcaption>
 </figure>
 
 Of all the soups i tried in Hanoi, the Bun Thang here was my least favourite. It was pretty good but a bit more bland than i'm used to when eating Vietnamese noodle soup. It's a popular shop for Pho Ga which i haven't tried here.
 
 <figure>
   <img src="/photos/vietnam/hanoi/pho-ga-tu-lun-2.jpg" alt="pho ga tu lun">
-  <figcaption>pho ga tu lun</figcaption>
+  <figcaption>Bun Thang</figcaption>
 </figure>
 
 ## Ratings

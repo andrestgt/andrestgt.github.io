@@ -8,7 +8,7 @@ subtitle: Đà Lạt · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/da-lat/barn-house-bbq-and-beer-1.jpg" alt="Barn House BBQ And Beer">
-  <figcaption>Barn House BBQ And Beer</figcaption>
+  <figcaption>Charcoal Bun Burger</figcaption>
 </figure>
 
 Best place for beers in Dalat. A Hoegaarden on tap goes for a mere 40k. They also do beer cocktails for 45k, a lot cheaper than the bars around the market. Large food menu of mostly Western food, which is alright and goes well with beer, but is not a reason to come here, really. Portions are quite small, but so are the prices, so that's OK.

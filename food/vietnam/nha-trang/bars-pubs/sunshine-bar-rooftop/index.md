@@ -14,7 +14,7 @@ subtitle: Nha Trang · Bar & Pub
 
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-1.jpg" alt="Sunshine Bar Rooftop">
-  <figcaption>Sunshine Bar Rooftop</figcaption>
+  <figcaption>Okonomiyaki</figcaption>
 </figure>
 
 Well hidden, down by the river, this basic place is the most scenic bar in Nha Trang. While it caters mostly to expats in the know, it's well worth seeking out for the views and some delicious home made Japanese food (Sunshine Bar is run by a young Japanese couple) such as ramen and okonomiyaki. Cheap beers, nice people. Don't miss out.
@@ -24,7 +24,7 @@ Well hidden, down by the river, this basic place is the most scenic bar in Nha T
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-2.jpg" alt="Sunshine Bar Rooftop">
-  <figcaption>Sunshine Bar Rooftop</figcaption>
+  <figcaption>Spicy Ramen</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-3.jpg" alt="Sunshine Bar Rooftop">
@@ -35,7 +35,7 @@ Well hidden, down by the river, this basic place is the most scenic bar in Nha T
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-4.jpg" alt="Sunshine Bar Rooftop">
-  <figcaption>Sunshine Bar Rooftop</figcaption>
+  <figcaption>Okonomiyaki</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-5.jpg" alt="Sunshine Bar Rooftop">
@@ -46,7 +46,7 @@ Well hidden, down by the river, this basic place is the most scenic bar in Nha T
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-6.jpg" alt="Sunshine Bar Rooftop">
-  <figcaption>Sunshine Bar Rooftop</figcaption>
+  <figcaption>Okonomiyaki</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-7.jpg" alt="Sunshine Bar Rooftop">
@@ -57,11 +57,11 @@ Well hidden, down by the river, this basic place is the most scenic bar in Nha T
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-8.jpg" alt="Sunshine Bar Rooftop">
-  <figcaption>Sunshine Bar Rooftop</figcaption>
+  <figcaption>Ramen</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/nha-trang/sunshine-bar-rooftop-9.jpg" alt="Sunshine Bar Rooftop">
-  <figcaption>Sunshine Bar Rooftop</figcaption>
+  <figcaption>Ramen</figcaption>
 </figure>
 </div>
 

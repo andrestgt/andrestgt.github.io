@@ -20,7 +20,7 @@ Prices are a little on the high side, higher than expected for the location, but
   <div style="flex: 1; min-width: 200px;">
     <figure>
   <img src="/photos/vietnam/phong-nha/len-con-peak-1.jpg" alt="Len Con Peak">
-  <figcaption>Len Con Peak</figcaption>
+  <figcaption>Roasted Duck</figcaption>
 </figure>
   </div>
   <div style="flex: 1; min-width: 200px;">

@@ -8,7 +8,7 @@ subtitle: Thủ Đức · Coffee
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/wau-haus-coffee-1.jpg" alt="Wau Haus Coffee">
-  <figcaption>Wau Haus Coffee</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Good coffees in a pleasantly quiet setting. At 55k for a cappuccino, prices are not unreasonable by Thảo Điền standards, making this a good option when you want a proper coffee in quiet surroundings.

@@ -8,7 +8,7 @@ subtitle: Tân Định · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/Vietnam18-0100.jpg" alt="Bếp Huế">
-  <figcaption>Bếp Huế</figcaption>
+  <figcaption>Banh Hue</figcaption>
 </figure>
 
 Tiny, and massively popular Hue food restaurant. It is hard to get a table here, even at lunchtime. Fancy Hue dishes, nicely presented, yet quite affordable. No wonder it's so busy. The frog mi quang is superb. sadly some dishes are only available for dinner.

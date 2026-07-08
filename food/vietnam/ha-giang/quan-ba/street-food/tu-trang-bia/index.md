@@ -15,7 +15,7 @@ This is the only bia hoi joint I saw in the centre of Tam Son. It's a friendly, 
 
 <figure>
   <img src="/photos/vietnam/ha-giang/tu-trang-bia-2.jpg" alt="Tu Trang Bia">
-  <figcaption>Tu Trang Bia</figcaption>
+  <figcaption>Fried Noodles</figcaption>
 </figure>
 
 ## Ratings

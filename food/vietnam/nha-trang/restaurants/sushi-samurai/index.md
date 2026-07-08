@@ -8,7 +8,7 @@ subtitle: Nha Trang · Japanese · Sushi
 
 <figure>
   <img src="/photos/vietnam/nha-trang/sushi-samurai-1.jpg" alt="Sushi Samurai">
-  <figcaption>Sushi Samurai</figcaption>
+  <figcaption>Salmon Sushi</figcaption>
 </figure>
 
 This Western-owned place has a prime location in the tourist area, is surprisingly inexpensive, and looks good from the outside.
@@ -23,7 +23,7 @@ Go to Kiwami instead, a bit more expensive, but light years ahead in terms of qu
 
 <figure>
   <img src="/photos/vietnam/nha-trang/sushi-samurai-2.jpg" alt="Sushi Samurai">
-  <figcaption>Sushi Samurai</figcaption>
+  <figcaption>Dragon Roll</figcaption>
 </figure>
 
 

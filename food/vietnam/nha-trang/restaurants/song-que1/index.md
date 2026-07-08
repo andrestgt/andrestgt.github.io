@@ -9,7 +9,7 @@ subtitle: Nha Trang · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Vietnam18-0053.jpg" alt="Song Que1">
-  <figcaption>Song Que1</figcaption>
+  <figcaption>Minced Snake</figcaption>
 </figure>
 
 Large, simple restaurant on a stilt terrace on Cai River. It looks a little run down, but actually offers a nice menu (Vietnamese only) of local standards plus a few less common options such as Ran Xuc Banh Trang (minced snake meat on rice paper bread).

@@ -19,7 +19,7 @@ I loved this place when they were in soft opening, but sadly since they had thei
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Viet21-0064.jpg" alt="Z Beach Nha Trang">
-  <figcaption>Z Beach Nha Trang</figcaption>
+  <figcaption>Grumpy</figcaption>
 </figure>
 ## Ratings
 

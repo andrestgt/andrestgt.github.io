@@ -8,7 +8,7 @@ subtitle: Nha Trang · Bia Hơi
 
 <figure>
   <img src="/photos/vietnam/nha-trang/cay-xoai-quan-1.jpg" alt="Cây Xoài Quán">
-  <figcaption>Cây Xoài Quán</figcaption>
+  <figcaption>Goi Hai San</figcaption>
 </figure>
 
 Classic drinking place with cheap bia hoi and an extensive menu of the usual suspects plus a selection of less common bush meats. Portions are big, prices are slightly lower than in downtown Nha Trang.

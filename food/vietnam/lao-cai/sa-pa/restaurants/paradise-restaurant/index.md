@@ -16,7 +16,7 @@ One of the few old traveller cafés still standing after Covid, Paradise offers 
 
 <figure>
   <img src="/photos/vietnam/lao-cai/paradise-restaurant-1.jpg" alt="Paradise Restaurant">
-  <figcaption>Paradise Restaurant</figcaption>
+  <figcaption>Spring rolls</figcaption>
 </figure>
 
 

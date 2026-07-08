@@ -26,7 +26,7 @@ I still quite liked it and keep coming back
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/hoa-vien-brauhaus-tan-binh-2.jpg" alt="Hoa Vien Brauhaus Tan Binh">
-  <figcaption>Hoa Vien Brauhaus Tan Binh</figcaption>
+  <figcaption>Goi Hai San Thai</figcaption>
 </figure>
 
 

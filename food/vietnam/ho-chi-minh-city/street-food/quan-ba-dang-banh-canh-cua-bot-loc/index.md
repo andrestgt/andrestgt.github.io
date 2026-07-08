@@ -8,14 +8,14 @@ subtitle: Phú Nhuận · Vietnamese · Bún Bò
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-ba-dang-banh-canh-cua-bot-loc-1.jpg" alt="Quán Bà Dạng - Bánh Canh Cua Bột Lọc">
-  <figcaption>Quán Bà Dạng - Bánh Canh Cua Bột Lọc</figcaption>
+  <figcaption>Banh Hue</figcaption>
 </figure>
 
 Simple local eatery specialising in Huế cuisine at very fair prices. There is a nice variety of dumplings on offer, and the bún bò is particularly tasty at just 42k.
 
 <figure>
   <img src="/photos/vietnam/ho-chi-minh-city/quan-ba-dang-banh-canh-cua-bot-loc-2.jpg" alt="Quán Bà Dạng - Bánh Canh Cua Bột Lọc">
-  <figcaption>Quán Bà Dạng - Bánh Canh Cua Bột Lọc</figcaption>
+  <figcaption>Bun Bo Hue</figcaption>
 </figure>
 
 ## Ratings

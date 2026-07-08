@@ -8,7 +8,7 @@ subtitle: Quy Nhơn · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/quy-nhon/quan-nhau-97-1.jpg" alt="Quan Nhau 97">
-  <figcaption>Quan Nhau 97</figcaption>
+  <figcaption>Chicken Wings</figcaption>
 </figure>
 
 In the mostly rather upmarket area around the lake this simple and always packed drinking place stands out for being super welcoming and atmospheric. The local Qui Nhon beer is dirt cheap at 7k a bottle and the food they serve is top notch, well above the usual drinking place average. Especially the grilled dishes are outstanding. Tender octopus, a big portion for only 85k, they also do very tasty fried chicken that goes perfectly with the light Qui Nhon lager. My favourite place in town
@@ -20,13 +20,13 @@ In the mostly rather upmarket area around the lake this simple and always packed
 </figure>
 <figure>
   <img src="/photos/vietnam/quy-nhon/quan-nhau-97-3.jpg" alt="Quan Nhau 97">
-  <figcaption>Quan Nhau 97</figcaption>
+  <figcaption>Bach Tuoc Nuong</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/quy-nhon/quan-nhau-97-4.jpg" alt="Quan Nhau 97">
-  <figcaption>Quan Nhau 97</figcaption>
+  <figcaption>Seafood Vermicelli</figcaption>
 </figure>
 
 ## Ratings

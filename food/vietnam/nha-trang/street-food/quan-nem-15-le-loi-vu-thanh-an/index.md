@@ -15,7 +15,7 @@ This is my favourite nem nuong place in Nha Trang, it's a noisy and busy simple 
 
 <figure>
   <img src="/photos/vietnam/nha-trang/Viet19-0031.jpg" alt="Quán Nem 15 Lê Lợi (Vũ Thành An)">
-  <figcaption>Quán Nem 15 Lê Lợi</figcaption>
+  <figcaption>Bun Thit Nuong</figcaption>
 </figure>
 
 ## Ratings

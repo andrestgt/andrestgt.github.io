@@ -25,11 +25,11 @@ The food here is very good though. A perfectly prepared piece of foie gras goes 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/hoi-an/green-mango-restaurant-2.jpg" alt="Green Mango Restaurant">
-  <figcaption>Green Mango Restaurant</figcaption>
+  <figcaption>Cao Lau</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/green-mango-restaurant-3.jpg" alt="Green Mango Restaurant">
-  <figcaption>Green Mango Restaurant</figcaption>
+  <figcaption>White Rose</figcaption>
 </figure>
 </div>
 
@@ -40,13 +40,13 @@ The food here is very good though. A perfectly prepared piece of foie gras goes 
 </figure>
 <figure>
   <img src="/photos/vietnam/hoi-an/green-mango-restaurant-5.jpg" alt="Green Mango Restaurant">
-  <figcaption>Green Mango Restaurant</figcaption>
+  <figcaption>Vietnamese Appetisers</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/hoi-an/green-mango-restaurant-6.jpg" alt="Green Mango Restaurant">
-  <figcaption>Green Mango Restaurant</figcaption>
+  <figcaption>Fried Wonton</figcaption>
 </figure>
 
 

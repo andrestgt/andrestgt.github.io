@@ -23,17 +23,17 @@ I loved everything about Primavera, from the well-stocked deli and wood-fired ov
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/vietnam/da-lat/primavera-italian-restaurant-2.jpg" alt="Primavera Italian Restaurant">
-  <figcaption>Primavera Italian Restaurant</figcaption>
+  <figcaption>Mediterranean Salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/vietnam/da-lat/primavera-italian-restaurant-3.jpg" alt="Primavera Italian Restaurant">
-  <figcaption>Primavera Italian Restaurant</figcaption>
+  <figcaption>Pizza Provolone</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/da-lat/primavera-italian-restaurant-4.jpg" alt="Primavera Italian Restaurant">
-  <figcaption>Primavera Italian Restaurant</figcaption>
+  <figcaption>Venison Tagliatelle</figcaption>
 </figure>
 
 ## Ratings

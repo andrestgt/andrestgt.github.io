@@ -8,7 +8,7 @@ subtitle: Hải Châu · Vietnamese
 
 <figure>
   <img src="/photos/vietnam/da-nang/nha-hang-madame-lan-1.jpg" alt="Nhà hàng Madame Lân">
-  <figcaption>Nhà hàng Madame Lân</figcaption>
+  <figcaption>Goi Xoai Tom</figcaption>
 </figure>
 
 Madame Lan is one of Da Nang’s best-known restaurants and popular with both tourists and locals. It’s a large, tastefully designed open-air space and a very pleasant place to eat. The menu offers a good selection of Vietnamese dishes, both regional and from elsewhere in the country. 
@@ -23,13 +23,13 @@ Prices are very reasonable for such a popular and attractively designed restaura
 </figure>
 <figure>
   <img src="/photos/vietnam/da-nang/nha-hang-madame-lan-3.jpg" alt="Nhà hàng Madame Lân">
-  <figcaption>Nhà hàng Madame Lân</figcaption>
+  <figcaption>Cuon Ca</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/vietnam/da-nang/nha-hang-madame-lan-4.jpg" alt="Nhà hàng Madame Lân">
-  <figcaption>Nhà hàng Madame Lân</figcaption>
+  <figcaption>Mi Quang</figcaption>
 </figure>
 
 
