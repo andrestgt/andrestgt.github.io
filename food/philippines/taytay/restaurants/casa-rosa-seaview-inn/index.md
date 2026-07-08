@@ -42,4 +42,4 @@ A very quiet resort on a hill above Taytay, with beautiful views over the town a
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Casa%20Rosa%20Seaview%20Inn%20Taytay%20Palawan)
 🍽️ **Type:** Filipino
-💰 **Price level:** moderate
+💰 **Price level:** ₱600
