@@ -18,16 +18,16 @@ I wasn’t completely convinced by some of their other dishes, which didn’t se
 
 <figure>
   <img src="/photos/philippines/el-nido/carinderia-by-the-bay-1.jpg" alt="Carinderia by the Bay">
-  <figcaption>Carinderia by the Bay</figcaption>
+  <figcaption>Grilled Jackfish</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/philippines/el-nido/carinderia-by-the-bay-2.jpg" alt="Carinderia by the Bay">
-  <figcaption>Carinderia by the Bay</figcaption>
+  <figcaption>Grilled Jackfish</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/el-nido/SEA25-0464.jpg" alt="Carinderia by the Bay">
-  <figcaption>Carinderia by the Bay</figcaption>
+  <figcaption>Tortang Talong</figcaption>
 </figure>
 
 ## Ratings

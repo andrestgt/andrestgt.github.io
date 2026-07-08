@@ -27,11 +27,11 @@ This place is much neater and cleaner than your average provincial Foodhaus, off
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/port-barton-san-vicente/kitzmon-food-house-4.jpg" alt="Kitzmon Food House">
-  <figcaption>Kitzmon Food House</figcaption>
+  <figcaption>Beef Stew</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/port-barton-san-vicente/kitzmon-food-house-5.jpg" alt="Kitzmon Food House">
-  <figcaption>Kitzmon Food House</figcaption>
+  <figcaption>Lumpiasilog</figcaption>
 </figure>
 </div>
 

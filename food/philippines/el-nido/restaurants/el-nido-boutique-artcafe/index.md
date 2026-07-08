@@ -15,11 +15,11 @@ Nowadays, it feels like a relic; a dinosaur, its sheer size making it stand out 
 
 <figure>
   <img src="/photos/philippines/el-nido/el-nido-boutique-artcafe-1.jpg" alt="El Nido Boutique Artcafe">
-  <figcaption>El Nido Boutique Artcafe</figcaption>
+  <figcaption>Kinilaw</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/el-nido/el-nido-boutique-artcafe-2.jpg" alt="El Nido Boutique Artcafe">
-  <figcaption>El Nido Boutique Artcafe</figcaption>
+  <figcaption>Kinilaw</figcaption>
 </figure>
 
 ## Ratings

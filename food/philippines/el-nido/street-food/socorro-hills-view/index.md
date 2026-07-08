@@ -16,11 +16,11 @@ The nicest pit stop along Route 490 to El Nido, this viewpoint resto offers more
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/philippines/el-nido/socorro-hills-view-2.jpg" alt="Socorro Hills View">
-  <figcaption>Socorro Hills View</figcaption>
+  <figcaption>Chicksilog</figcaption>
 </figure>
 <figure>
   <img src="/photos/philippines/el-nido/socorro-hills-view-3.jpg" alt="Socorro Hills View">
-  <figcaption>Socorro Hills View</figcaption>
+  <figcaption>Chicksilog</figcaption>
 </figure>
 </div>
 

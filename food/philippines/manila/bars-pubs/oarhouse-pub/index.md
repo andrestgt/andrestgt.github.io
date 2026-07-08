@@ -8,7 +8,7 @@ subtitle: Malate, Manila · Pub
 
 <figure>
   <img src="/photos/philippines/manila/oarhouse-pub-1.jpg" alt="Oarhouse Pub">
-  <figcaption>Oarhouse Pub</figcaption>
+  <figcaption>Nachos</figcaption>
 </figure>
 
 One of the few remnants of old Malate, this cozy little pub still has its charm, with good grub, interesting patrons, and affordable drinks. They continue to serve cocktails by the pitcher, but now there's also a selection of craft beers. The pulutan, like sisig and kinilaw, are reliably tasty.

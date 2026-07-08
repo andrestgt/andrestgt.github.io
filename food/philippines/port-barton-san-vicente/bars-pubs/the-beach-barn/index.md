@@ -8,7 +8,7 @@ subtitle: San Vicente Beach · Bar
 
 <figure>
   <img src="/photos/philippines/port-barton/the-beach-barn-1.jpg" alt="The Beach Barn">
-  <figcaption>The Beach Barn</figcaption>
+  <figcaption>Pork Curry</figcaption>
 </figure>
 
 This place is anything but stylish; the décor is pretty awful. But if you can look past that, it's the cheapest spot for drinks and food right on the beach. Perfect for grabbing a few beers, enjoying the sunset, and having a quick snack without breaking the bank. Just don't expect any aesthetic charm!
