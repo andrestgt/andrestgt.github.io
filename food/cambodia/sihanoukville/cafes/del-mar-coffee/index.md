@@ -16,7 +16,7 @@ Out of the many modern air-conditioned cafés that have opened in Sihanoukville 
 
 <figure>
   <img src="/photos/cambodia/sihanoukville/del-mar-coffee-2.jpg" alt="Del Mar Pastry & Coffee">
-  <figcaption>Del Mar Pastry & Coffee</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 ## Ratings

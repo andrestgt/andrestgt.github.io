@@ -9,7 +9,7 @@ subtitle: Sisowath area, Phnom Penh · Khmer
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/khmer-fungus-noodle-1.jpg" alt="Khmer Fungus Noodle">
-  <figcaption>Khmer Fungus Noodle</figcaption>
+  <figcaption>Mushroom Noodle Soup</figcaption>
 </figure>
 
 Despite the unfortunate name, this small, immaculately clean noodle shop just off Sisowath serves some of the best bowls of noodle soup you could wish for. $2 buys you a large bowl of delicious mushroom noodles topped with fish, blood, chicken feet and prawns.

@@ -44,7 +44,7 @@ Viva is an institution. They've been serving their $5 mango margarita pitchers i
 
 <figure>
   <img src="/photos/cambodia/siem-reap/viva-mexican-khmer-10.jpg" alt="¡Viva! Fine Mexican and Khmer Cuisine">
-  <figcaption>¡Viva! Fine Mexican and Khmer Cuisine</figcaption>
+  <figcaption>Fish Amok</figcaption>
 </figure>
 
 ## Ratings

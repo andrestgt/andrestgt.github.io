@@ -28,7 +28,7 @@ The old Café Espresso downtown used to offer the best coffee in provincial Camb
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/kampot-kep/cafe-espresso-roastery-4.jpg" alt="Cafe Espresso Roastery">
-  <figcaption>Cafe Espresso Roastery</figcaption>
+  <figcaption>Espresso Macchiato</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/kampot-kep/cafe-espresso-roastery-5.jpg" alt="Cafe Espresso Roastery">
@@ -38,7 +38,7 @@ The old Café Espresso downtown used to offer the best coffee in provincial Camb
 
 <figure>
   <img src="/photos/cambodia/kampot-kep/cafe-espresso-roastery-6.jpg" alt="Cafe Espresso Roastery">
-  <figcaption>Cafe Espresso Roastery</figcaption>
+  <figcaption>Gnocchi</figcaption>
 </figure>
 
 ## Ratings

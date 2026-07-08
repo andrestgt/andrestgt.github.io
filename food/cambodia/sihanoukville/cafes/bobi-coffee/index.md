@@ -9,7 +9,7 @@ subtitle: Sihanoukville · Café
 
 <figure>
   <img src="/photos/cambodia/sihanoukville/bobi-coffee-1.jpg" alt="BoBi Coffee & Green Tea">
-  <figcaption>BoBi Coffee & Green Tea</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 BoBi is a spacious and comfortable café with modern Asian-style décor and plenty of colourful seating. It works better as a tea place than as a coffee shop, though. The espresso drinks are competently prepared, but the beans and milk quality let them down a bit.

@@ -17,24 +17,24 @@ Rikitikitavi is one of Kampot's more upscale dining spots, with a fantastic terr
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/kampot-kep/rikitikitavi-2.jpg" alt="Rikitikitavi">
-  <figcaption>Rikitikitavi</figcaption>
+  <figcaption>Wonton Chicken Stacks</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/kampot-kep/rikitikitavi-3.jpg" alt="Rikitikitavi">
-  <figcaption>Rikitikitavi</figcaption>
+  <figcaption>Touk Sait Ko</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/kampot-kep/rikitikitavi-5.jpg" alt="Rikitikitavi">
-  <figcaption>Rikitikitavi</figcaption>
+  <figcaption>Khmer beef curry</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/cambodia/kampot-kep/rikitikitavi-6.jpg" alt="Rikitikitavi">
-  <figcaption>Rikitikitavi</figcaption>
+  <figcaption>Touk Sait Ko</figcaption>
 </figure>
 
 ## Ratings

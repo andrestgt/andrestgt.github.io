@@ -9,7 +9,7 @@ subtitle: Street 13, Phnom Penh · International
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/friends-the-restaurant-1.jpg" alt="Friends the Restaurant">
-  <figcaption>Friends the Restaurant</figcaption>
+  <figcaption>Roast Beef Salad</figcaption>
 </figure>
 
 It used to be a good place by Phnom Penh standards a decade ago. Now not really. They charge main-sized prices for tapas portions. The food is alright but unspectacular, and there are much better places to eat for the same money in town. Bad service.
@@ -17,11 +17,11 @@ It used to be a good place by Phnom Penh standards a decade ago. Now not really.
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/friends-the-restaurant-2.jpg" alt="Friends the Restaurant">
-  <figcaption>Friends the Restaurant</figcaption>
+  <figcaption>Crab cakes</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/friends-the-restaurant-3.jpg" alt="Friends the Restaurant">
-  <figcaption>Friends the Restaurant</figcaption>
+  <figcaption>Stir-fried squid</figcaption>
 </figure>
 </div>
 

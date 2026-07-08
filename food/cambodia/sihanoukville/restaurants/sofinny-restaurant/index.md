@@ -9,14 +9,14 @@ subtitle: Otres Village, Sihanoukville · Khmer
 
 <figure>
   <img src="/photos/cambodia/sihanoukville/sofinny-restaurant-1.jpg" alt="Sofinny Restaurant">
-  <figcaption>Sofinny Restaurant</figcaption>
+  <figcaption>CKhmer Chicken Curry</figcaption>
 </figure>
 
 Sofinny is a very good choice in Otres Village for inexpensive, home-style Khmer cooking with genuinely nice flavours throughout. The crab dishes are especially worth ordering.
 
 <figure>
   <img src="/photos/cambodia/sihanoukville/sofinny-restaurant-2.jpg" alt="Sofinny Restaurant">
-  <figcaption>Sofinny Restaurant</figcaption>
+  <figcaption>Fried Vermicelli with Crab</figcaption>
 </figure>
 
 ## Ratings

@@ -21,25 +21,25 @@ Temple Coffee has fantastic décor and is one of the most comfortable café-loun
 </figure>
 <figure>
   <img src="/photos/cambodia/siem-reap/temple-coffee-n-bakery-3.jpg" alt="Temple Coffee n Bakery">
-  <figcaption>Temple Coffee n Bakery</figcaption>
+  <figcaption>Sliders</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/temple-coffee-n-bakery-4.jpg" alt="Temple Coffee n Bakery">
-  <figcaption>Temple Coffee n Bakery</figcaption>
+  <figcaption>Beef Tartare</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/siem-reap/temple-coffee-n-bakery-5.jpg" alt="Temple Coffee n Bakery">
-  <figcaption>Temple Coffee n Bakery</figcaption>
+  <figcaption>Smoked Fish Canapés</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/temple-coffee-n-bakery-6.jpg" alt="Temple Coffee n Bakery">
-  <figcaption>Temple Coffee n Bakery</figcaption>
+  <figcaption>Hot Plate Beef Noodles</figcaption>
 </figure>
 
 </div>
@@ -47,7 +47,7 @@ Temple Coffee has fantastic décor and is one of the most comfortable café-loun
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/temple-coffee-n-bakery-8.jpg" alt="Temple Coffee n Bakery">
-  <figcaption>Temple Coffee n Bakery</figcaption>
+  <figcaption>Tuna 'Carpaccio'</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/siem-reap/temple-coffee-n-bakery-9.jpg" alt="Temple Coffee n Bakery">

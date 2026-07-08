@@ -9,7 +9,7 @@ subtitle: Street 370, Phnom Penh · Café
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/tarraju-cafe-1.jpg" alt="Tarraju Café">
-  <figcaption>Tarraju Café</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 

@@ -9,7 +9,7 @@ subtitle: Wat Bo · Khmer
 
 <figure>
   <img src="/photos/cambodia/siem-reap/slatoum-restaurant-1.jpg" alt="Rohatt Café">
-  <figcaption>Rohatt Café</figcaption>
+  <figcaption>Beef Luc Lac</figcaption>
 </figure>
 
 The coffee and cocktails at Rohatt Café were fairly average and didn't leave much of an impression, but the beef lok lak was genuinely outstanding. Perfectly peppery, with tender cubes of beef and exactly the kind of flavour the dish should have. The restaurant itself is pleasant enough overall.

@@ -9,7 +9,7 @@ subtitle: Phnom Penh · Japanese
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-1.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Salmon and Maguro Sashimi</figcaption>
 </figure>
 
 The Sushi Bar serves fresh sashimi, very decent rolls, and keeps prices relatively affordable by Phnom Penh standards. Still probably my favourite sushi place in the city.
@@ -17,22 +17,22 @@ The Sushi Bar serves fresh sashimi, very decent rolls, and keeps prices relative
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-2.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Spicy Salmon Roll</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-3.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Salmon and Maguro Sashimi</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-4.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Sushi Roll</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/the-sushi-bar-5.jpg" alt="The Sushi Bar">
-  <figcaption>The Sushi Bar</figcaption>
+  <figcaption>Salmon Roll</figcaption>
 </figure>
 </div>
 

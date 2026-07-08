@@ -9,7 +9,7 @@ subtitle: Preah Trasak Paem St, Phnom Penh · Café
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/digbys-2.jpg" alt="Digby's">
-  <figcaption>Digby's</figcaption>
+  <figcaption>Sausage Platter</figcaption>
 </figure>
 
 The delicatessen section at Digby's looks fantastic but is ultimately more style than substance. The café itself, however, is genuinely excellent. Good cappuccinos are still surprisingly rare in Phnom Penh, and they serve some of the best around here alongside very solid international bistro food.
@@ -17,7 +17,7 @@ The delicatessen section at Digby's looks fantastic but is ultimately more style
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/digbys-4.jpg" alt="Digby's">
-  <figcaption>Digby's</figcaption>
+  <figcaption>Salmon Pizza</figcaption>
 </figure>
 
 ## Ratings

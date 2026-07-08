@@ -17,22 +17,22 @@ Touich absolutely deserves its reputation and is well worth leaving the centre o
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/touich-restaurant-2.jpg" alt="Touich Restaurant">
-  <figcaption>Touich Restaurant</figcaption>
+  <figcaption>Stir-fried Beef</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/siem-reap/touich-restaurant-3.jpg" alt="Touich Restaurant">
-  <figcaption>Touich Restaurant</figcaption>
+  <figcaption>Squid with Kampot Pepper</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/touich-restaurant-4.jpg" alt="Touich Restaurant">
-  <figcaption>Touich Restaurant</figcaption>
+  <figcaption>Stir-fried Seafood</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/siem-reap/touich-restaurant-5.jpg" alt="Touich Restaurant">
-  <figcaption>Touich Restaurant</figcaption>
+  <figcaption>Khmer beef curry</figcaption>
 </figure>
 </div>
 

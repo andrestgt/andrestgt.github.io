@@ -21,14 +21,14 @@ Khin's Shack feels like one of the last survivors of the old Otres Beach atmosph
 </figure>
 <figure>
   <img src="/photos/cambodia/sihanoukville/khins-shack-3.jpg" alt="Khin's Shack">
-  <figcaption>Khin's Shack</figcaption>
+  <figcaption>Grilled Barracuda</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/khins-shack-4.jpg" alt="Khin's Shack">
-  <figcaption>Khin's Shack</figcaption>
+  <figcaption>Grilled Scallops</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/sihanoukville/khins-shack-5.jpg" alt="Khin's Shack">
@@ -50,7 +50,7 @@ Khin's Shack feels like one of the last survivors of the old Otres Beach atmosph
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/sihanoukville/khins-shack-8.jpg" alt="Khin's Shack">
-  <figcaption>Khin's Shack</figcaption>
+  <figcaption>Seafood Platter</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/sihanoukville/khins-shack-9.jpg" alt="Khin's Shack">

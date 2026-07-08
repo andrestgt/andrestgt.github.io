@@ -9,7 +9,7 @@ subtitle: Hap Guan St, Siem Reap · Italian
 
 <figure>
   <img src="/photos/cambodia/siem-reap/mamma-shop-1.jpg" alt="Mamma Shop Italian Restaurant">
-  <figcaption>Mamma Shop Italian Restaurant</figcaption>
+  <figcaption>Beef Carpaccio</figcaption>
 </figure>
 
 The aptly named Mamma Shop is a small, cute Italian place with some of the best Italian food you will find in this country. The beef carpaccio was perfect, paper thin slices of meat on a subtle dressing topped with crunchy rucola and parmesan. The ravioli pomodoro were totally convincing, al dente, homemade, with a fresh, tasty sauce. The pizzas are excellent: proper Southern style with generous toppings. Deceptively easy dishes like carpaccio and pasta are often the hardest to get just right, and Mamma Shop delivers every time.
@@ -17,11 +17,11 @@ The aptly named Mamma Shop is a small, cute Italian place with some of the best 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/siem-reap/mamma-shop-2.jpg" alt="Mamma Shop Italian Restaurant">
-  <figcaption>Mamma Shop Italian Restaurant</figcaption>
+  <figcaption>Ravioli</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/siem-reap/mamma-shop-3.jpg" alt="Mamma Shop Italian Restaurant">
-  <figcaption>Mamma Shop Italian Restaurant</figcaption>
+  <figcaption>Pizza Napoli</figcaption>
 </figure>
 </div>
 

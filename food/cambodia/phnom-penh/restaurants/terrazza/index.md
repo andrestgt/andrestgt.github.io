@@ -21,18 +21,18 @@ Terrazza is high-end Italian dining of a high quality. The antipasti dishes were
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/terrazza-3.jpg" alt="Terrazza">
-  <figcaption>Terrazza</figcaption>
+  <figcaption>Bruschette</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/terrazza-4.jpg" alt="Terrazza">
-  <figcaption>Terrazza</figcaption>
+  <figcaption>Rock Lobster</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/terrazza-5.jpg" alt="Terrazza">
-  <figcaption>Terrazza</figcaption>
+  <figcaption>Trio of Seafood Antipasti</figcaption>
 </figure>
 </div>
 

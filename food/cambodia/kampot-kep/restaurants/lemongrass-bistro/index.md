@@ -9,7 +9,7 @@ subtitle: Kampot · Thai, Khmer
 
 <figure>
   <img src="/photos/cambodia/kampot-kep/lemongrass-bistro-1.jpg" alt="Lemongrass Bistro">
-  <figcaption>Lemongrass Bistro</figcaption>
+  <figcaption>Fried Noodles with Chicken</figcaption>
 </figure>
 
 Lemongrass Bistro is a quirky little Thai-Khmer place that comes highly recommended by many people, but I honestly found the food rather underwhelming. The tom yum noodles with chicken were strangely bland and forgettable. At least prices are low.

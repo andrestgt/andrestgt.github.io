@@ -16,7 +16,7 @@ The Kitchen looks inviting enough from the outside, especially in Battambang's a
 
 <figure>
   <img src="/photos/cambodia/battambang/the-kitchen-2.jpg" alt="The Kitchen">
-  <figcaption>The Kitchen</figcaption>
+  <figcaption>Fried Fish with Rice</figcaption>
 </figure>
 
 ## Ratings

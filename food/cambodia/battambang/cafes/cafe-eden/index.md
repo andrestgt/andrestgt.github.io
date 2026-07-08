@@ -19,13 +19,13 @@ I've known this place for a long time. They moved to slightly bigger premises al
 
 <figure>
   <img src="/photos/cambodia/battambang/cafe-eden-3.jpg" alt="Cafe Eden">
-  <figcaption>Cafe Eden</figcaption>
+  <figcaption>Spring rolls</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/cambodia/battambang/cafe-eden-4.jpg" alt="Cafe Eden">
-  <figcaption>Cafe Eden</figcaption>
+  <figcaption>Cream Cheese Cigars</figcaption>
 </figure>
 
 ## Ratings

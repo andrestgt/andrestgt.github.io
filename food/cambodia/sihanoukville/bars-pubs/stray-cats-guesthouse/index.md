@@ -9,7 +9,7 @@ subtitle: Otres Village, Sihanoukville · Bar
 
 <figure>
   <img src="/photos/cambodia/sihanoukville/stray-cats-guesthouse-1.jpg" alt="Stray Cats Guesthouse">
-  <figcaption>Stray Cats Guesthouse</figcaption>
+  <figcaption>Kampot Pepper Crabs</figcaption>
 </figure>
 
 Stray Cats has a relaxed little lounge atmosphere, cheap drinks, and a surprisingly good local restaurant attached to it. The Khmer dishes, especially things like Kampot pepper crab fresh from the wok, are excellent value. Best stick with the local food though, since the Mexican dishes are much less convincing.

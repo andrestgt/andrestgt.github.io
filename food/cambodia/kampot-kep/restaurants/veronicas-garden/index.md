@@ -28,7 +28,7 @@ Good place at the refurbished old market. Pretty nice set-up, standard fare but 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/kampot-kep/veronicas-garden-4.jpg" alt="Veronica's Garden">
-  <figcaption>Veronica's Garden</figcaption>
+  <figcaption>Prawn Tempura</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/kampot-kep/veronicas-garden-5.jpg" alt="Veronica's Garden">

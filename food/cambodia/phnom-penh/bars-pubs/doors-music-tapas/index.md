@@ -17,11 +17,11 @@ Hard to define, club, live music venue, tapas bar, café, restaurant: it really 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/doors-music-tapas-2.jpg" alt="Doors Music + Tapas">
-  <figcaption>Doors Music + Tapas</figcaption>
+  <figcaption>Tuna Salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/doors-music-tapas-3.jpg" alt="Doors Music + Tapas">
-  <figcaption>Doors Music + Tapas</figcaption>
+  <figcaption>Baked Aubergine with Ratatouille</figcaption>
 </figure>
 </div>
 

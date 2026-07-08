@@ -16,7 +16,7 @@ They have very good coffees indeed. Prices are okay for the Riverside, with capp
 
 <figure>
   <img src="/photos/cambodia/phnom-penh/feel-good-cafe-2.jpg" alt="Feel Good Café">
-  <figcaption>Feel Good Café</figcaption>
+  <figcaption>Salmon eggs benedict</figcaption>
 </figure>
 
 ## Ratings

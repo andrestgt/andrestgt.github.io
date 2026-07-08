@@ -17,11 +17,11 @@ Local outdoor eatery with a good, varied English menu of Khmer classics and pers
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/nimol-2.jpg" alt="Nimol">
-  <figcaption>Nimol</figcaption>
+  <figcaption>Fish Amok</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/nimol-3.jpg" alt="Nimol">
-  <figcaption>Nimol</figcaption>
+  <figcaption>Khmer Beef Salad</figcaption>
 </figure>
 </div>
 

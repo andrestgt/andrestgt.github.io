@@ -17,22 +17,22 @@ The modern, air-conditioned Jaan Bai has been a welcome addition to Battambang's
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/battambang/jaan-bai-restaurant-2.jpg" alt="Jaan Bai Restaurant">
-  <figcaption>Jaan Bai Restaurant</figcaption>
+  <figcaption>Coconut Braised Ribs</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/battambang/jaan-bai-restaurant-3.jpg" alt="Jaan Bai Restaurant">
-  <figcaption>Jaan Bai Restaurant</figcaption>
+  <figcaption>Steamed Dumplings</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/battambang/jaan-bai-restaurant-4.jpg" alt="Jaan Bai Restaurant">
-  <figcaption>Jaan Bai Restaurant</figcaption>
+  <figcaption>Fried Calamari</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/battambang/jaan-bai-restaurant-5.jpg" alt="Jaan Bai Restaurant">
-  <figcaption>Jaan Bai Restaurant</figcaption>
+  <figcaption>Banana Blossom Salad with Crispy Bacon</figcaption>
 </figure>
 </div>
 

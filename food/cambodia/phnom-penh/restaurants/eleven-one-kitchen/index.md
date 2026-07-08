@@ -17,11 +17,11 @@ A welcoming, simple restaurant in the residential area south of the Russian Mark
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/cambodia/phnom-penh/eleven-one-kitchen-2.jpg" alt="Eleven One Kitchen">
-  <figcaption>Eleven One Kitchen</figcaption>
+  <figcaption>Fish Amok</figcaption>
 </figure>
 <figure>
   <img src="/photos/cambodia/phnom-penh/eleven-one-kitchen-3.jpg" alt="Eleven One Kitchen">
-  <figcaption>Eleven One Kitchen</figcaption>
+  <figcaption>Beef salad</figcaption>
 </figure>
 </div>
 

@@ -9,7 +9,7 @@ subtitle: Kampot · Chinese, Noodles
 
 <figure>
   <img src="/photos/cambodia/kampot-kep/ecran-noodles-1.jpg" alt="Ecran Noodles">
-  <figcaption>Ecran Noodles</figcaption>
+  <figcaption>Fried Noodles with Chicken</figcaption>
 </figure>
 
 Great place for a quick dumpling fill, or even a whole filling budget meal. The home-made dumplings and noodles are the star of the menu.
