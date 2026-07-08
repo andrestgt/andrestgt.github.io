@@ -19,6 +19,7 @@ Food & drink across the Philippines, organised by island group.
 - [El Nido & the North](/food/philippines/el-nido/)
 - [Puerto Princesa](/food/philippines/puerto-princesa/)
 - [Port Barton & San Vicente](/food/philippines/port-barton-san-vicente/)
+- [Taytay](/food/philippines/taytay/)
 
 ## Visayas
 - [Cebu](/food/philippines/cebu/)

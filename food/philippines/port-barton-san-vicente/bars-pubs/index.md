@@ -17,3 +17,10 @@ Awful décor but the cheapest spot for drinks and food right on the beach, perfe
 → [Read the full review](/food/philippines/port-barton-san-vicente/bars-pubs/the-beach-barn/)
 
 ---
+
+## Prince John Resort
+*Port Barton, San Vicente · Resort Bar*
+A gorgeous, hard-to-reach and rather pricey resort, almost empty when we visited, but the setting alone is worth the ride out for a drink.
+→ [Read the full review](/food/philippines/port-barton-san-vicente/bars-pubs/prince-john-resort/)
+
+---

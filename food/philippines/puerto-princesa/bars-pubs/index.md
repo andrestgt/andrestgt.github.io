@@ -24,3 +24,10 @@ Casual anything-goes place with a decent live band, but mostly DJ nights, most b
 → [Read the full review](/food/philippines/puerto-princesa/bars-pubs/tiki-resto-bar/)
 
 ---
+
+## Palaweño Brewery
+*Puerto Princesa · Craft Beer*
+Puerto's only craft beer microbrewery, tasty if pricey beers and a nice garden, let down by little choice, barely any food and empty tables.
+→ [Read the full review](/food/philippines/puerto-princesa/bars-pubs/palaweno-brewery/)
+
+---

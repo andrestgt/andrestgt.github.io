@@ -9,7 +9,7 @@ subtitle: Restaurants, cafés, and bars in El Nido and northern Palawan
 
 # El Nido & the North
 
-Reviews grouped by category. Also covers the route to El Nido (including Leonida's near Taytay).
+Reviews grouped by category. Also covers the route north to El Nido.
 
 ## Restaurants
 - [Restaurants](/food/philippines/el-nido/restaurants/)

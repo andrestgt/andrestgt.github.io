@@ -24,3 +24,10 @@ Modern minimalist bakery with the most expensive flat white in the Philippines, 
 → [Read the full review](/food/philippines/el-nido/cafes/masa/)
 
 ---
+
+## Blackbird Coffee
+*El Nido Town · Café, Coffee*
+No million-dollar view like Hama, but a tiny, friendly, air-conditioned spot for quality coffee and massive breakfasts.
+→ [Read the full review](/food/philippines/el-nido/cafes/blackbird-coffee/)
+
+---

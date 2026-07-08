@@ -32,5 +32,26 @@ Upmarket carinderia with sea views, solid Filipino food, excellent service, and 
 
 ---
 
+## Majo-Imbiss
+*Puerto Princesa · German*
+Cheap litro bottles of Beer na Beer in a nice garden are the draw; the food, sadly, is amateurish and best skipped.
+→ [Read the full review](/food/philippines/puerto-princesa/restaurants/majo-imbiss/)
+
+---
+
+## Bona's Chao Long Haus
+*Puerto Princesa · Vietnamese-Filipino*
+A basic place doing very tasty, cheap chaolong; a great option for a proper bowl of noodle soup, though skip the banh mi.
+→ [Read the full review](/food/philippines/puerto-princesa/restaurants/bonas-chao-long-haus/)
+
+---
+
+## Kinabuchs (KGB)
+*Rizal Avenue, Puerto Princesa · Filipino, Grill*
+Still the same Puerto institution it was in 2009, a great open-air grill with huge portions and delicious grilled tuna belly.
+→ [Read the full review](/food/philippines/puerto-princesa/restaurants/kinabuchs/)
+
+---
+
 **Price level note:**
 Price levels refer to the approximate cost for **two people** ordering an average meal **without alcoholic drinks**.

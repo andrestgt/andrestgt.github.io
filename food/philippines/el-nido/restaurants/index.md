@@ -18,13 +18,6 @@ Friendly beachfront spot on stunning Nacpan Beach for a cold beer, a coconut or 
 
 ---
 
-## Leonida's
-*Taytay, Palawan · Filipino*
-An unexpected gem in the middle of nowhere, beautifully decorated garden café with outstanding Filipino food and fair prices.
-→ [Read the full review](/food/philippines/el-nido/restaurants/leonidas/)
-
----
-
 ## El Nido Boutique Artcafe
 *El Nido Town · International*
 No longer the focal point for travellers but still gets things right, solid food, nicer décor, and a pleasant second-floor terrace.
@@ -57,6 +50,13 @@ Not the friendliest place in the Philippines, but the location is fantastic and 
 *Bucana Beach, El Nido · Filipino, Seafood*
 Hard to beat for pure beach restaurant atmosphere, cheap cocktails, seafood sizzlers, and gorgeous sunsets on the sand at Bucana Beach.
 → [Read the full review](/food/philippines/el-nido/restaurants/chilln-sea-restaurant/)
+
+---
+
+## Bhabah's Chaolong
+*El Nido Town · Vietnamese-Filipino*
+Extremely basic and right by the busy road, but cheap and with very tasty noodle soup, and seemingly the only chaolong in town.
+→ [Read the full review](/food/philippines/el-nido/restaurants/bhabahs-chaolong/)
 
 ---
 
