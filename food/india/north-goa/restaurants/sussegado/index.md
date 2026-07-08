@@ -17,11 +17,11 @@ Away from the beach in a converted old Portuguese villa, this is possibly the mo
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/north-goa/sussegado-1.jpg" alt="Sussegado">
-  <figcaption>Sussegado</figcaption>
+  <figcaption>Kingfish Curry</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/north-goa/sussegado-3.jpg" alt="Sussegado">
-  <figcaption>Sussegado</figcaption>
+  <figcaption>Chili Calamari</figcaption>
 </figure>
 </div>
 

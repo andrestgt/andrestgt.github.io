@@ -17,11 +17,11 @@ In beautiful, peaceful Assagao, next to a rice paddy, this busy popular family r
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/north-goa/vinayak-family-restaurant-2.jpg" alt="Vinayak Family Restaurant">
-  <figcaption>Vinayak Family Restaurant</figcaption>
+  <figcaption>Masala Fried Squid</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/north-goa/vinayak-family-restaurant-3.jpg" alt="Vinayak Family Restaurant">
-  <figcaption>Vinayak Family Restaurant</figcaption>
+  <figcaption>Masala Fried Squid</figcaption>
 </figure>
 </div>
 

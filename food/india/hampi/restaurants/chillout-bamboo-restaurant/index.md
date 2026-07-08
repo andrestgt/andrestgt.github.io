@@ -17,11 +17,11 @@ Hampi's second most popular restaurant after Mango Tree is a great place to chil
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/hampi/chillout-bamboo-restaurant-2.jpg" alt="Chillout Bamboo Restaurant">
-  <figcaption>Chillout Bamboo Restaurant</figcaption>
+  <figcaption>Spinach Kofta</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/hampi/chillout-bamboo-restaurant-3.jpg" alt="Chillout Bamboo Restaurant">
-  <figcaption>Chillout Bamboo Restaurant</figcaption>
+  <figcaption>Egg Fried Rice</figcaption>
 </figure>
 </div>
 

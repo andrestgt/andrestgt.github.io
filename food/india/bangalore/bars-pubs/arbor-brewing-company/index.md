@@ -17,13 +17,13 @@ For casual visitors to Bangalore, this is the most conveniently located of the c
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/bangalore/arbor-brewing-company-2.jpg" alt="Arbor Brewing Company">
-  <figcaption>Arbor Brewing Company</figcaption>
+  <figcaption>Beer sampler</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/india/bangalore/arbor-brewing-company-4.jpg" alt="Arbor Brewing Company">
-  <figcaption>Arbor Brewing Company</figcaption>
+  <figcaption>Chicken Wings</figcaption>
 </figure>
 
 ## Ratings

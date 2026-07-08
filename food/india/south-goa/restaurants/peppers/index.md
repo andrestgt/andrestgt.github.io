@@ -16,7 +16,7 @@ I doubt you will find better food than this in Margao, indeed it's one of the be
 
 <figure>
   <img src="/photos/india/south-goa/peppers-2.jpg" alt="Pepper's">
-  <figcaption>Pepper's</figcaption>
+  <figcaption>Crispy Bacon Fried Rice</figcaption>
 </figure>
 
 ## Ratings

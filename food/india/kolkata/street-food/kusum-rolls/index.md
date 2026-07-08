@@ -16,7 +16,7 @@ This is the Kolkata version of a doner kebab; you know you want it, and it's rea
 
 <figure>
   <img src="/photos/india/kolkata/kusum-rolls-2.jpg" alt="Kusum Roll's">
-  <figcaption>Kusum Roll's</figcaption>
+  <figcaption>Chicken Kathi Roll</figcaption>
 </figure>
 ## Ratings
 

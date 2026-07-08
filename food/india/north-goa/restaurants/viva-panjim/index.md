@@ -28,11 +28,11 @@ A most attractive restaurant in Panaji's colonial district, this place is perfec
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/north-goa/viva-panjim-4.jpg" alt="Viva Panjim">
-  <figcaption>Viva Panjim</figcaption>
+  <figcaption>Seafood Sizzler</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/north-goa/viva-panjim-5.jpg" alt="Viva Panjim">
-  <figcaption>Viva Panjim</figcaption>
+  <figcaption>Pork Balchao</figcaption>
 </figure>
 </div>
 

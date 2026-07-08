@@ -9,7 +9,7 @@ subtitle: Chowk, Lucknow · Awadhi
 
 <figure>
   <img src="/photos/india/lucknow/mubeens-1.jpg" alt="Mubeen's">
-  <figcaption>Mubeen's</figcaption>
+  <figcaption>Kulcha</figcaption>
 </figure>
 
 Very basic, blokey place that serves incredibly popular Mutton Nihari, a breakfast soup for cold Northern mornings. It's very thick and oily and should be mopped up with a bread called kulcha, which is the star of the show here. The kulcha at Mubeen's is the best, crunchy, fluffy, delicious. Three stars for the nihari (not my favourite dish), but one extra for the kulcha.

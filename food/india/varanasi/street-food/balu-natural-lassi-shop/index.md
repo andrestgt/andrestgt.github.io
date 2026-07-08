@@ -9,7 +9,7 @@ subtitle: Bangali Tola, Varanasi · Indian
 
 <figure>
   <img src="/photos/india/varanasi/balu-natural-lassi-shop-1.jpg" alt="Balu Natural Lassi Shop">
-  <figcaption>Balu Natural Lassi Shop</figcaption>
+  <figcaption>Coconut Lassi</figcaption>
 </figure>
 
 Delicious lassis made from pure buffalo milk, lots of choices, very atmospheric hole-in-the-wall place with a very friendly owner.

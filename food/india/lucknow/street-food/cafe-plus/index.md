@@ -9,7 +9,7 @@ subtitle: Hazratganj, Lucknow · Indian
 
 <figure>
   <img src="/photos/india/lucknow/cafe-plus-1.jpg" alt="Cafe Plus">
-  <figcaption>Cafe Plus</figcaption>
+  <figcaption>Samosa</figcaption>
 </figure>
 
 Basic tea shop with excellent samosas. Great for a quick snack if you're in the area.

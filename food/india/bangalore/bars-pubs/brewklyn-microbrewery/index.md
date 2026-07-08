@@ -8,7 +8,7 @@ subtitle: Kalyan Nagar, Bangalore · Craft Beer Bar
 ---
 <figure>
   <img src="/photos/india/bangalore/brewklyn-microbrewery-3.jpg" alt="Brewklyn Microbrewery">
-  <figcaption>Brewklyn Microbrewery</figcaption>
+  <figcaption>Chicken Tikka Pizza</figcaption>
 </figure>
 
 
@@ -17,11 +17,11 @@ A long way from the city centre and more downscale than the other brew pubs we v
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/bangalore/brewklyn-microbrewery-2.jpg" alt="Brewklyn Microbrewery">
-  <figcaption>Brewklyn Microbrewery</figcaption>
+  <figcaption>Harissa chicken wings</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/bangalore/brewklyn-microbrewery-4.jpg" alt="Brewklyn Microbrewery">
-  <figcaption>Brewklyn Microbrewery</figcaption>
+  <figcaption>Chicken Tikka Pizza</figcaption>
 </figure>
 </div>
 

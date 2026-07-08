@@ -39,7 +39,7 @@ A great place to visit; the bike ride from the southern beaches is very beautifu
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/south-goa/tanshikar-spice-farm-6.jpg" alt="Tanshikar Spice Farm">
-  <figcaption>Tanshikar Spice Farm</figcaption>
+  <figcaption>Veg Thali</figcaption>
 </figure>
 </div>
 

@@ -9,7 +9,7 @@ subtitle: Palolem, South Goa · Goan, International
 
 <figure>
   <img src="/photos/india/south-goa/dreams-of-palolem-1.jpg" alt="Dreams of Palolem Beach Resort">
-  <figcaption>Dreams of Palolem Beach Resort</figcaption>
+  <figcaption>Squid Masala</figcaption>
 </figure>
 
 One of the friendliest and most attractive beach hut operators in Palolem. Reasonable prices, 110 Rs for a large Kingfisher, and competent food with most dishes in the 200–300 Rs range. The prime location guarantees stunning views and sunsets.
@@ -17,11 +17,11 @@ One of the friendliest and most attractive beach hut operators in Palolem. Reaso
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/south-goa/dreams-of-palolem-2.jpg" alt="Dreams of Palolem Beach Resort">
-  <figcaption>Dreams of Palolem Beach Resort</figcaption>
+  <figcaption>Chili Calamari</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/south-goa/dreams-of-palolem-3.jpg" alt="Dreams of Palolem Beach Resort">
-  <figcaption>Dreams of Palolem Beach Resort</figcaption>
+  <figcaption>Chili Calamari</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/south-goa/dreams-of-palolem-4.jpg" alt="Dreams of Palolem Beach Resort">

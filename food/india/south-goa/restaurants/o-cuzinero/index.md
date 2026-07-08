@@ -17,11 +17,11 @@ Large, slightly upmarket countryside restaurant in Goa's heartland. Possibly bec
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/south-goa/o-cuzinero-2.jpg" alt="O' Cuzinero">
-  <figcaption>O' Cuzinero</figcaption>
+  <figcaption>Chicken Pariwar</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/south-goa/o-cuzinero-1.jpg" alt="O' Cuzinero">
-  <figcaption>O' Cuzinero</figcaption>
+  <figcaption>Calamari Chili Fry</figcaption>
 </figure>
 </div>
 

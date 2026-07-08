@@ -16,7 +16,7 @@ Good beach shack in Patnem. They have Bira White and inexpensive cocktails along
 
 <figure>
   <img src="/photos/india/south-goa/om-shanti-beach-stay-2.jpg" alt="Om Shanti Beach Stay">
-  <figcaption>Om Shanti Beach Stay</figcaption>
+  <figcaption>Chili Calamari</figcaption>
 </figure>
 
 ## Ratings

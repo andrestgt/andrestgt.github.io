@@ -9,14 +9,14 @@ subtitle: Palolem, South Goa · Goan, International
 
 <figure>
   <img src="/photos/india/south-goa/holiday-inn-cafe-1.jpg" alt="Holiday Inn Cafe">
-  <figcaption>Holiday Inn Cafe</figcaption>
+  <figcaption>Momos</figcaption>
 </figure>
 
 Simple, friendly eatery on the promontory between Patnem and Palolem. Standard menu, standard quality, very reasonably priced. Their momos are nice. Veg masala could have used more spices, chili calamari were pretty good.
 
 <figure>
   <img src="/photos/india/south-goa/holiday-inn-cafe-2.jpg" alt="Holiday Inn Cafe">
-  <figcaption>Holiday Inn Cafe</figcaption>
+  <figcaption>Chili Calamari</figcaption>
 </figure>
 
 ## Ratings

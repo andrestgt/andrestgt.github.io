@@ -9,14 +9,14 @@ subtitle: Shivala, Varanasi · Indian
 
 <figure>
   <img src="/photos/india/varanasi/eatery-restaurant-1.jpg" alt="Eatery Restaurant">
-  <figcaption>Eatery Restaurant</figcaption>
+  <figcaption>Veg Thali</figcaption>
 </figure>
 
 Friendly little family restaurant in a small, clean air-conditioned environment. They cook mostly for foreigners but seem very passionate about their food and it shows. They do a nice veg thali for 200 Rs, but there's a second menu which is decidedly non-veg and rather more expensive. The meat portions are very generous; that big plate of chili chicken was good value for 350 Rs.
 
 <figure>
   <img src="/photos/india/varanasi/eatery-restaurant-2.jpg" alt="Eatery Restaurant">
-  <figcaption>Eatery Restaurant</figcaption>
+  <figcaption>Chili Chicken</figcaption>
 </figure>
 
 ## Ratings

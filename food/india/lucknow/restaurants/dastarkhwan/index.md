@@ -17,7 +17,7 @@ This rather basic place is so popular that you might have to wait for a table ev
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/lucknow/dastarkhwan-2.jpg" alt="Dastarkhwan">
-  <figcaption>Dastarkhwan</figcaption>
+  <figcaption>Chicken Masala</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/lucknow/dastarkhwan-3.jpg" alt="Dastarkhwan">

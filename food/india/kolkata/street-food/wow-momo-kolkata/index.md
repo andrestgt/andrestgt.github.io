@@ -9,7 +9,7 @@ subtitle: Park Street, Kolkata · Momos
 
 <figure>
   <img src="/photos/india/kolkata/wow-momo-kolkata-1.jpg" alt="Wow! Momo – Kolkata">
-  <figcaption>Wow! Momo – Kolkata</figcaption>
+  <figcaption>Paneer Chicken Momos</figcaption>
 </figure>
 
 For a fast food chain the food here is surprisingly delicious. The prawn dumplings are unbelievably good, especially considering the price. The dough is paper thin and the filling has proper chunks of prawn meat inside. A regular size sizzler comes with 6 large dumplings, noodles and veggies and will fill two easily for just 350 Rs. If all fast food chains were like this, the world would be a better place.
@@ -17,17 +17,17 @@ For a fast food chain the food here is surprisingly delicious. The prawn dumplin
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/kolkata/wow-momo-kolkata-2.jpg" alt="Wow! Momo – Kolkata">
-  <figcaption>Wow! Momo – Kolkata</figcaption>
+  <figcaption>Chciken Tandoori Momo</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/kolkata/wow-momo-kolkata-3.jpg" alt="Wow! Momo – Kolkata">
-  <figcaption>Wow! Momo – Kolkata</figcaption>
+  <figcaption>Paneer Tandoori Momo</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/india/kolkata/wow-momo-kolkata-4.jpg" alt="Wow! Momo – Kolkata">
-  <figcaption>Wow! Momo – Kolkata</figcaption>
+  <figcaption>Szechuan Noodles with prawn momos</figcaption>
 </figure>
 
 ## Ratings

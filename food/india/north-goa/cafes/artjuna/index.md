@@ -17,11 +17,11 @@ I actually prefer the laid-back, casual atmosphere of the German Bakery to the h
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/north-goa/artjuna-2.jpg" alt="Artjuna">
-  <figcaption>Artjuna</figcaption>
+  <figcaption>Artjuna Special Breakfast</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/north-goa/artjuna-3.jpg" alt="Artjuna">
-  <figcaption>Artjuna</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 </div>
 

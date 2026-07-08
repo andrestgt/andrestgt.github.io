@@ -16,7 +16,7 @@ This place caters mainly to rich kids and hipsters wanting to let their hair dow
 
 <figure>
   <img src="/photos/india/kolkata/barf-soda-paani-2.jpg" alt="Barf Soda Paani">
-  <figcaption>Barf Soda Paani</figcaption>
+  <figcaption>Spicy sizzling paneer tikka noodles</figcaption>
 </figure>
 
 ## Ratings

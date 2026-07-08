@@ -9,7 +9,7 @@ subtitle: Assagao, North Goa · Specialty Coffee
 
 <figure>
   <img src="/photos/india/north-goa/g-shot-coffee-roastery-2.jpg" alt="G-Shot Coffee Roastery & Cafe">
-  <figcaption>G-Shot Coffee Roastery & Cafe</figcaption>
+  <figcaption>Flat White</figcaption>
 </figure>
 
 ## Ratings

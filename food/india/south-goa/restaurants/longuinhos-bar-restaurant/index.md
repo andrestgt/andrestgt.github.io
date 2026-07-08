@@ -17,7 +17,7 @@ Margao's most atmospheric place to eat is straight out of a long-gone era; it lo
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/south-goa/longuinhos-bar-restaurant-2.jpg" alt="Longuinhos Bar, Restaurant & Confectioners">
-  <figcaption>Longuinhos Bar, Restaurant & Confectioners</figcaption>
+  <figcaption>Chili Pork</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/south-goa/longuinhos-bar-restaurant-3.jpg" alt="Longuinhos Bar, Restaurant & Confectioners">

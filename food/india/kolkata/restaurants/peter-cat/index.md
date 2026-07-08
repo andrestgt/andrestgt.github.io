@@ -21,7 +21,7 @@ Chic, yet unpretentious, this place is deservedly famous and popular; most of th
 </figure>
 <figure>
   <img src="/photos/india/kolkata/peter-cat-3.jpg" alt="Peter Cat">
-  <figcaption>Peter Cat</figcaption>
+  <figcaption>Afghan Chicken</figcaption>
 </figure>
 </div>
 

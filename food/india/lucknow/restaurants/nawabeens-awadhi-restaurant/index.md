@@ -16,7 +16,7 @@ One of the best places to enjoy traditional Awadhi food in nice surroundings wit
 
 <figure>
   <img src="/photos/india/lucknow/nawabeens-awadhi-restaurant-2.jpg" alt="Nawabeens Awadhi Restaurant">
-  <figcaption>Nawabeens Awadhi Restaurant</figcaption>
+  <figcaption>Dal Makhani</figcaption>
 </figure>
 
 ## Ratings

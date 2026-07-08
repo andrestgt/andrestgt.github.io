@@ -17,18 +17,18 @@ We visited three of Bangalore's biggest brew pubs and Biergarten in Koramangala 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/bangalore/biergarten-brewery-3.jpg" alt="Biergarten Brewery & Kitchen">
-  <figcaption>Biergarten Brewery & Kitchen</figcaption>
+  <figcaption>Falafel</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/bangalore/biergarten-brewery-4.jpg" alt="Biergarten Brewery & Kitchen">
-  <figcaption>Biergarten Brewery & Kitchen</figcaption>
+  <figcaption>Braised lamb shoulder on risotto milanese</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/bangalore/biergarten-brewery-5.jpg" alt="Biergarten Brewery & Kitchen">
-  <figcaption>Biergarten Brewery & Kitchen</figcaption>
+  <figcaption>Greek Salad</figcaption>
 </figure>
 </div>
 

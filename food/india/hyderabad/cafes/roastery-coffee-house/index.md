@@ -16,12 +16,12 @@ A lovely garden café in a converted old bungalow in the leafy suburbs. It's a g
 
 <figure>
   <img src="/photos/india/hyderabad/roastery-coffee-house-2.jpg" alt="Roastery Coffee House">
-  <figcaption>Roastery Coffee House</figcaption>
+  <figcaption>Mutton Lasagne</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/india/hyderabad/roastery-coffee-house-3.jpg" alt="Roastery Coffee House">
-  <figcaption>Roastery Coffee House</figcaption>
+  <figcaption>Spaghetti Mutton Bolognese</figcaption>
 </figure>
 
 

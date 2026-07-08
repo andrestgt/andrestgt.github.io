@@ -9,14 +9,14 @@ subtitle: Church Street, Bangalore · Café
 
 <figure>
   <img src="/photos/india/bangalore/indian-coffee-house-2.jpg" alt="Indian Coffee House">
-  <figcaption>Indian Coffee House</figcaption>
+  <figcaption>Masala Dosa</figcaption>
 </figure>
 
 An amusing antidote to all the fancy hipster cafés of Church Street. This place is super old-school, with turbaned grumpy waiters serving basic breakfast items and coffees. There's no reason to come here for the food; it's OK and not expensive, but rather to experience a survivor of a bygone era.
 
 <figure>
   <img src="/photos/india/bangalore/indian-coffee-house-1.jpg" alt="Indian Coffee House">
-  <figcaption>Indian Coffee House</figcaption>
+  <figcaption>Plain Dosa</figcaption>
 </figure>
 
 ## Ratings

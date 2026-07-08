@@ -9,7 +9,7 @@ subtitle: Patnem, South Goa · Goan, International
 
 <figure>
   <img src="/photos/india/south-goa/vidushis-cow-corner-4.jpg" alt="Vidushi's Cow Corner">
-  <figcaption>Vidushi's Cow Corner</figcaption>
+  <figcaption>Chourico Farfalle</figcaption>
 </figure>
 
 My favourite in Patnem with a lovely garden setting (beware of mosquitoes though). Their menu seems disappointing at first glance, but don't be fooled, they serve some of the most delicious food in Goa at very moderate prices. The chicken Kathi roll is super tasty and comes with homemade chips for only 140 Rs. Their pasta dishes are creative, tasty and far from ordinary. Farfalle with spicy Goan chourico and spaghetti with calamari in dill cream are killer dishes. Pasta around 300–350 Rs but portions are massive.
@@ -17,11 +17,11 @@ My favourite in Patnem with a lovely garden setting (beware of mosquitoes though
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/south-goa/vidushis-cow-corner-2.jpg" alt="Vidushi's Cow Corner">
-  <figcaption>Vidushi's Cow Corner</figcaption>
+  <figcaption>Squid Spaghetti</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/south-goa/vidushis-cow-corner-3.jpg" alt="Vidushi's Cow Corner">
-  <figcaption>Vidushi's Cow Corner</figcaption>
+  <figcaption>Chicken Kathi Roll</figcaption>
 </figure>
 </div>
 

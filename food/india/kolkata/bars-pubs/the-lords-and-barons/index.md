@@ -17,7 +17,7 @@ Dark and atmospheric pub, all wood and cushions. It seems fancy but they actuall
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/kolkata/the-lords-and-barons-3.jpg" alt="The Lords and Barons">
-  <figcaption>The Lords and Barons</figcaption>
+  <figcaption>Harissa Fried Chicken</figcaption>
 </figure>
 </div>
 

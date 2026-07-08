@@ -16,7 +16,7 @@ Come early to get a table here; it's packed to the rafters despite large seating
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/india/lucknow/tunday-kababi-2.jpg" alt="Tunday Kababi">
-  <figcaption>Tunday Kababi</figcaption>
+  <figcaption>Galawat Kebabs</figcaption>
 </figure>
 <figure>
   <img src="/photos/india/lucknow/tunday-kababi-1.jpg" alt="Tunday Kababi">
