@@ -19,7 +19,7 @@ Great to find something resembling a modern coffee shop with an espresso machine
 | ---             | ---    |
 | Coffee          | 6/10    |
 | Service         | 7.5/10    |
-| Value for money | 7/10  |
+| Value for money | 7.5/10  |
 | Atmosphere      | 7/10  |
 | Overall         | 7/10  |
 
