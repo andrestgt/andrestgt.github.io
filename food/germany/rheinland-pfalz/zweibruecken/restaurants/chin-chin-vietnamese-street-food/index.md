@@ -8,7 +8,7 @@ subtitle: Zweibrücken · Vietnamese
 
 <figure>
   <img src="/photos/germany/zweibruecken/chin-chin-1.jpg" alt="Chin Chin Vietnamese Street Food">
-  <figcaption>Chin Chin Vietnamese Street Food</figcaption>
+  <figcaption>Vietnamese Duck Salad</figcaption>
 </figure>
 
 Chin Chin offers a full restaurant atmosphere, minimalist, modern and neat, combined with prices you'd more usually associate with a casual Asian takeaway. This means you get good value for your money. The menu features the usual Asian-takeaway dishes you'd expect in Germany, supplemented by some more distinctly Vietnamese plates with fresh herbs. We tried both: classic duck of the kind you'd know from any Asian takeaway, and a Vietnamese soup. Both were really good. The service is on the grumpy side, but one can live with that. For the prices charged, and an interior well above what you'd expect from a takeaway, Chin Chin is hard to beat.
@@ -16,18 +16,18 @@ Chin Chin offers a full restaurant atmosphere, minimalist, modern and neat, comb
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/zweibruecken/chin-chin-2.jpg" alt="Chin Chin Vietnamese Street Food">
-  <figcaption>Chin Chin Vietnamese Street Food</figcaption>
+  <figcaption>Bun Bo Hue</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/zweibruecken/chin-chin-3.jpg" alt="Chin Chin Vietnamese Street Food">
-  <figcaption>Chin Chin Vietnamese Street Food</figcaption>
+  <figcaption>Duck Fried Noodles</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/zweibruecken/chin-chin-4.jpg" alt="Chin Chin Vietnamese Street Food">
-  <figcaption>Chin Chin Vietnamese Street Food</figcaption>
+  <figcaption>Bun Bo Nam Bo</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Heidelberg · Brewpub, German
 
 <figure>
   <img src="/photos/germany/heidelberg/vetters-alt-heidelberger-brauhaus-1.jpg" alt="Vetter's Alt Heidelberger Brauhaus">
-  <figcaption>Vetter's Alt Heidelberger Brauhaus</figcaption>
+  <figcaption>Schweinshaxe</figcaption>
 </figure>
 
 Vetter is a wonderfully rustic, very German brewpub that always seems to be busy, but for good reason. The food is excellent southern German fare, from crispy pork knuckle to blood sausage potatoes, served in generous portions at very reasonable prices, alongside a selection of fine house-brewed beers.
@@ -19,7 +19,7 @@ Highly recommended.
 
 <figure>
   <img src="/photos/germany/baden-wuerttemberg/heidelberg/DE23-0618.jpg" alt="Vetter's Alt Heidelberger Brauhaus">
-  <figcaption>Vetter's Alt Heidelberger Brauhaus</figcaption>
+  <figcaption>Bratkartoffeln mit Blut- und Leberwurst</figcaption>
 </figure>
 
 ## Ratings

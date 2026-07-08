@@ -8,14 +8,14 @@ subtitle: Neustadt · Excursion Restaurant
 
 <figure>
   <img src="/photos/germany/weinstrasse/weinbiethaus-1.jpg" alt="Weinbiethaus">
-  <figcaption>Weinbiethaus</figcaption>
+  <figcaption>Wildschwein Burger</figcaption>
 </figure>
 
 A pleasant countryside inn in the Pfälzerwald, though complicated to reach by car. The road is hair-raising in places, so it makes much more sense to park down below and walk up. The walk takes a good half hour. Up top, a sociable dining room awaits guests; in good weather you can also sit comfortably outside. Prices are on the higher side for a Palatine inn, but the quality of the food is good, as you'd usually expect around here. The Pfälzer classics, especially the Leberknödel, are pretty much always tasty. I also had a wild boar burger, which was good in flavour, if a little dry. The red cabbage on the burger worked well, as did the coleslaw on the side.
 
 <figure>
   <img src="/photos/germany/weinstrasse/weinbiethaus-2.jpg" alt="Weinbiethaus">
-  <figcaption>Weinbiethaus</figcaption>
+  <figcaption>Leberknödel</figcaption>
 </figure>
 
 ## Ratings

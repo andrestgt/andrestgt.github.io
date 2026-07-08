@@ -8,14 +8,14 @@ subtitle: Neustadt · Forest Restaurant
 
 <figure>
   <img src="/photos/germany/weinstrasse/wanderhuette-waldschenke-1.jpg" alt="Wanderhütte Waldschenke Ludwigsbrunnen">
-  <figcaption>Wanderhütte Waldschenke Ludwigsbrunnen</figcaption>
+  <figcaption>Dreggische Grumbiere</figcaption>
 </figure>
 
 Unlike many other Pfälzer forest restaurants, this one is easy to reach by car and looks rather unassuming from outside. Inside, however, it's surprisingly stylishly furnished for a Pfälzer forest hut. You clearly get the sense that they've deliberately set out to offer a slightly more elevated cuisine and a corresponding atmosphere. According to the menu, only organic ingredients are used, which is naturally reflected in the price. The food quality is good throughout, even if the portions are on the modest side by local standards. The classic, hearty Pfälzer cooking nevertheless is a winner: among other things we had Dreggische Grumbiere, fried potatoes with blood and liver sausage, and the classic Pfälzer Teller with Bratwurst, Saumagen and Leberknödel with sauerkraut.
 
 <figure>
   <img src="/photos/germany/weinstrasse/wanderhuette-waldschenke-2.jpg" alt="Wanderhütte Waldschenke Ludwigsbrunnen">
-  <figcaption>Wanderhütte Waldschenke Ludwigsbrunnen</figcaption>
+  <figcaption>Pfälzer Spezialtäten</figcaption>
 </figure>
 
 ## Ratings

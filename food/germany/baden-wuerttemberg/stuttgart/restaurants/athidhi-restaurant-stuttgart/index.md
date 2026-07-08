@@ -8,7 +8,7 @@ subtitle: Stuttgart · Indian
 
 <figure>
   <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-1.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+  <figcaption>Mysore Dosa</figcaption>
 </figure>
 
 As someone who has been to India several times and considers himself a friend and connoisseur of Indian cuisine, I was both delighted and surprised by Athidhi. The menu is well put together, with dishes from both north and south India, and it shows in the food: precisely the kind of cooking you rarely encounter in Germany.
@@ -18,17 +18,17 @@ Clear recommendation with a slight caveat. On my second visit the chicken tikka 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-2.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+  <figcaption>Lamb Rogan Josh</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-3.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+  <figcaption>Onion Dosa</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/germany/stuttgart/athidhi-restaurant-stuttgart-4.jpg" alt="Athidhi Restaurant Stuttgart">
-  <figcaption>Athidhi Restaurant Stuttgart</figcaption>
+  <figcaption>Chicken Tikka</figcaption>
 </figure>
 
 

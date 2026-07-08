@@ -8,7 +8,7 @@ subtitle: Stuttgart · Thai
 
 <figure>
   <img src="/photos/germany/stuttgart/thai-palace-restaurant-1.jpg" alt="Thai Palace Restaurant">
-  <figcaption>Thai Palace Restaurant</figcaption>
+  <figcaption>Pad Krapao</figcaption>
 </figure>
 
 I was here only for the lunch menu, so I can't judge the regular menu. At lunch they offer 5–6 prepared dishes for €10.50 each, which is very moderate by Stuttgart standards. I ordered a Pad Krapao with chicken, which was labelled spicy and indeed had an authentic kick. To my taste, more holy basil could have been used, but for the price I won't complain. Definitely recommended for a quick lunch.

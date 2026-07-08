@@ -16,11 +16,11 @@ Zum Schwanen is among the less famous and therefore cheaper places in Deidesheim
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/weinstrasse/zum-schwanen-2.jpg" alt="Zum Schwanen">
-  <figcaption>Zum Schwanen</figcaption>
+  <figcaption>Bratkartoffeln mit Blut- und Leberwurst</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/weinstrasse/zum-schwanen-1.jpg" alt="Zum Schwanen">
-  <figcaption>Zum Schwanen</figcaption>
+  <figcaption>Pfälzer Teller</figcaption>
 </figure>
 </div>
 

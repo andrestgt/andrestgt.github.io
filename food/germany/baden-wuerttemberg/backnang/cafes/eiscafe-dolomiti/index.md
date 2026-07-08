@@ -8,7 +8,7 @@ subtitle: Backnang · Italian Café
 
 <figure>
   <img src="/photos/germany/backnang/eiscafe-dolomiti-inh-family-moriello-1.jpg" alt="Eiscafe Dolomiti">
-  <figcaption>Eiscafe Dolomiti</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Italian café in a beautiful half timbered house in the Old Town. A good cappuccino comes in a nice size and goes for only 2,40€

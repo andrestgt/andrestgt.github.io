@@ -23,11 +23,11 @@ Alte Schmiede in the lovely wine village of Rhodt unter Rietburg is a typical Pa
 
 <figure>
   <img src="/photos/germany/weinstrasse/weinstube-alte-schmiede-1.jpg" alt="Weinstube Alte Schmiede">
-  <figcaption>Weinstube Alte Schmiede</figcaption>
+  <figcaption>Leberknödel</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/weinstrasse/weinstube-alte-schmiede-2.jpg" alt="Weinstube Alte Schmiede">
-  <figcaption>Weinstube Alte Schmiede</figcaption>
+  <figcaption>Saumagen</figcaption>
 </figure>
 
 ## Ratings

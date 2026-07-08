@@ -15,7 +15,7 @@ Künstlercafé is a nice old-fashioned café in the pedestrianised centre of Hus
 
 <figure>
   <img src="/photos/germany/schleswig-holstein/husum/DEU18-0036.jpg" alt="Künstlercafé Husum - additional view">
-  <figcaption>Additional view</figcaption>
+  <figcaption>Quiche mit Lachs</figcaption>
 </figure>
 
 ## Ratings

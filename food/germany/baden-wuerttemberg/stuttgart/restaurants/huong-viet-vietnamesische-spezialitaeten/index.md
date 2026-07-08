@@ -8,7 +8,7 @@ subtitle: Stuttgart · Vietnamese
 
 <figure>
   <img src="/photos/germany/stuttgart/huong-viet-vietnamesische-spezialitaeten-1.jpg" alt="Huong Viet - Vietnamesische Spezialitäten">
-  <figcaption>Huong Viet - Vietnamesische Spezialitäten</figcaption>
+  <figcaption>Goi Xoai Tom</figcaption>
 </figure>
 
 This unassuming Vietnamese restaurant, which looks more like a old school German corner pub than an Asian restaurant, serves the most authentic Viet food I've had in Stuttgart. There's no dodgy "Asia Imbiss" items on the menu, but actual Vietnamese dishes with focus on Northern cuisine. We had a delicious bowl of Banh Da Cua, a Haiphong specialty and rare in this part of the world. Tasty Seafood Banh Xeo, goi xoai, bun Bo la lot. All fantastic.
@@ -21,28 +21,28 @@ Fair prices, large portions, highly recommended
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/huong-viet-vietnamesische-spezialitaeten-2.jpg" alt="Huong Viet - Vietnamesische Spezialitäten">
-  <figcaption>Huong Viet - Vietnamesische Spezialitäten</figcaption>
+  <figcaption>Banh Xeo</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/stuttgart/huong-viet-vietnamesische-spezialitaeten-3.jpg" alt="Huong Viet - Vietnamesische Spezialitäten">
-  <figcaption>Huong Viet - Vietnamesische Spezialitäten</figcaption>
+  <figcaption>Banh Da Cu</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/huong-viet-vietnamesische-spezialitaeten-4.jpg" alt="Huong Viet - Vietnamesische Spezialitäten">
-  <figcaption>Huong Viet - Vietnamesische Spezialitäten</figcaption>
+  <figcaption>Cha Ca La Vong</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/stuttgart/huong-viet-vietnamesische-spezialitaeten-5.jpg" alt="Huong Viet - Vietnamesische Spezialitäten">
-  <figcaption>Huong Viet - Vietnamesische Spezialitäten</figcaption>
+  <figcaption>Bun Nem</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/germany/stuttgart/huong-viet-vietnamesische-spezialitaeten-6.jpg" alt="Huong Viet - Vietnamesische Spezialitäten">
-  <figcaption>Huong Viet - Vietnamesische Spezialitäten</figcaption>
+  <figcaption>Bun Bo Hue</figcaption>
 </figure>
 
 

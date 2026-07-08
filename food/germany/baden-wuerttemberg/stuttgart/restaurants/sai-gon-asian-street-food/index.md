@@ -8,7 +8,7 @@ subtitle: Bad Cannstatt · Vietnamese
 
 <figure>
   <img src="/photos/germany/stuttgart/sai-gon-asian-street-food-1.jpg" alt="Sai Gon Asian Street Food">
-  <figcaption>Sai Gon Asian Street Food</figcaption>
+  <figcaption>Duck Curry</figcaption>
 </figure>
 
 Sai Gon street food looks like a basic local eatery on a Bangkok (rather than Saigon) backstreet, and I mean that in a good way. I love the atmosphere here, it feels different to other "Asia Imbisse" in Germany.
@@ -23,7 +23,7 @@ Prices are quite high for such a basic place, but you pay for freshness and auth
 
 <figure>
   <img src="/photos/germany/stuttgart/sai-gon-asian-street-food-2.jpg" alt="Sai Gon Asian Street Food">
-  <figcaption>Sai Gon Asian Street Food</figcaption>
+  <figcaption>Bun Bo Hue</figcaption>
 </figure>
 
 

@@ -8,7 +8,7 @@ subtitle: Stuttgart · Italian
 
 <figure>
   <img src="/photos/germany/stuttgart/ristorante-la-scala-1.jpg" alt="Ristorante La Scala">
-  <figcaption>Ristorante La Scala</figcaption>
+  <figcaption>Vitello Tonnato</figcaption>
 </figure>
 
 The food is very good, yes, my level of home cooking, which is a compliment, but I found the prices extremely high for the small servings here. 3 of us spent over 200€ with wine but decided to go to Vapiano around the corner afterwards for something more substantial
@@ -16,17 +16,17 @@ The food is very good, yes, my level of home cooking, which is a compliment, but
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/ristorante-la-scala-2.jpg" alt="Ristorante La Scala">
-  <figcaption>Ristorante La Scala</figcaption>
+  <figcaption>Alici</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/stuttgart/ristorante-la-scala-3.jpg" alt="Ristorante La Scala">
-  <figcaption>Ristorante La Scala</figcaption>
+  <figcaption>Penne</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/germany/stuttgart/ristorante-la-scala-4.jpg" alt="Ristorante La Scala">
-  <figcaption>Ristorante La Scala</figcaption>
+  <figcaption>Schweinemedallions mit Trüffeln auf Kartoffelpüree</figcaption>
 </figure>
 
 ## Ratings

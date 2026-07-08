@@ -17,11 +17,11 @@ Goldener Adler combines creative, international starters with main courses of he
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/goldener-adler-2.jpg" alt="Goldener Adler">
-  <figcaption>Goldener Adler</figcaption>
+  <figcaption>Geschmorte Ochsenbacke</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/stuttgart/goldener-adler-1.jpg" alt="Goldener Adler">
-  <figcaption>Goldener Adler</figcaption>
+  <figcaption>Zanderterrine</figcaption>
 </figure>
 </div>
 

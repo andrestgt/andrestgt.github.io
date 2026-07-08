@@ -16,11 +16,11 @@ Charming traditional Black Forest farmhouse and an excellent place to stop for a
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/schwarzwald/alte-traenke-2.jpg" alt="Alte Tränke">
-  <figcaption>Alte Tränke</figcaption>
+  <figcaption>Vesperplatte</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/schwarzwald/alte-traenke-3.jpg" alt="Alte Tränke">
-  <figcaption>Alte Tränke</figcaption>
+  <figcaption>Flammekuche</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Stuttgart · Greek
 
 <figure>
   <img src="/photos/germany/stuttgart/taverna-bei-kosta-1.jpg" alt="Taverna bei Kosta">
-  <figcaption>Taverna bei Kosta</figcaption>
+  <figcaption>Meze Platte</figcaption>
 </figure>
 
 A pretty taverna surrounded by greenery on the outskirts of the city, which we discovered largely by chance after all the other places nearby were packed. It turned out to be a very fortunate find.

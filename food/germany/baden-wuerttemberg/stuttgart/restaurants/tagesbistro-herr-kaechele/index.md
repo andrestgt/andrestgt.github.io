@@ -8,7 +8,7 @@ subtitle: Stuttgart · Lunch Bistro
 
 <figure>
   <img src="/photos/germany/stuttgart/tagesbistro-herr-kaechele-1.jpg" alt="Tagesbistro Herr Kächele">
-  <figcaption>Tagesbistro Herr Kächele</figcaption>
+  <figcaption>Schwabenteller</figcaption>
 </figure>
 
 For Stuttgart, this so-called daytime bistro offers very good value for money and is easy to recommend. It is worth knowing, however, that this is not a traditional restaurant with table service but rather an upmarket canteen. Orders are placed at the counter, and the menu is fairly limited, focusing on local specialities.

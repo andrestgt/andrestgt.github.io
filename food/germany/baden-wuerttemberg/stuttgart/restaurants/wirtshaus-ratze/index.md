@@ -8,7 +8,7 @@ subtitle: Stuttgart · Swabian, Wine Bar
 
 <figure>
   <img src="/photos/germany/stuttgart/wirtshaus-ratze-1.jpg" alt="Wirtshaus Ratze">
-  <figcaption>Wirtshaus Ratze</figcaption>
+  <figcaption>Bärlauchkäsespätzle</figcaption>
 </figure>
 
 A rustic restaurant on Stuttgart’s hillside, surrounded by allotment gardens. A young team serves a small but well-curated menu featuring modern takes on Swabian classics, and they do it very well.
@@ -17,7 +17,7 @@ Prices are on the higher side for what is essentially a simple local inn, but it
 
 <figure>
   <img src="/photos/germany/stuttgart/wirtshaus-ratze-2.jpg" alt="Wirtshaus Ratze">
-  <figcaption>Wirtshaus Ratze</figcaption>
+  <figcaption>Sauerbraten</figcaption>
 </figure>
 
 ## Ratings

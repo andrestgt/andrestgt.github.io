@@ -8,14 +8,14 @@ subtitle: Lindau · Regional, Swabian
 
 <figure>
   <img src="/photos/germany/lindau/restaurant-engel-1.jpg" alt="Restaurant Engel">
-  <figcaption>Restaurant Engel</figcaption>
+  <figcaption>Wiener Schnitzel</figcaption>
 </figure>
 
 Restaurant Engel is very popular, but if you turn up early enough you'll definitely find a seat, if necessary sharing a table with other guests. The atmosphere is warm and welcoming. The menu offers a good selection, and the dishes we tried at dinner were fresh and well prepared. The schnitzel, the potato salad and the Käsespätzle were all convincing. The landlady is friendly and ensures a good atmosphere. Overall, a recommended spot for a nice dinner.
 
 <figure>
   <img src="/photos/germany/lindau/restaurant-engel-2.jpg" alt="Restaurant Engel">
-  <figcaption>Restaurant Engel</figcaption>
+  <figcaption>Käsespätzle</figcaption>
 </figure>
 
 ## Ratings

@@ -15,7 +15,7 @@ A bit pricier (a yufka costs just under €10), but in return you get one of the
 
 <figure>
   <img src="/photos/germany/stuttgart/dilgelay-der-stuttgarter-doener-2.jpg" alt="Dilgelay - Der Stuttgarter Döner">
-  <figcaption>Dilgelay - Der Stuttgarter Döner</figcaption>
+  <figcaption>Döner Kebab</figcaption>
 </figure>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">

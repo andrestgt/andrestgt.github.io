@@ -8,7 +8,7 @@ subtitle: Stuttgart · Italian
 
 <figure>
   <img src="/photos/germany/stuttgart/krone-trattoria-pizzeria-1.jpg" alt="KRONE Trattoria-Pizzeria">
-  <figcaption>KRONE Trattoria-Pizzeria</figcaption>
+  <figcaption>Antipasti</figcaption>
 </figure>
 
 Really good Italian food in the east end with friendly service and reasonable prices considering what some other Italian restaurants in Stuttgart charge. Antipasti, pizza, saltimbocca, all excellent quality and really delicious. A positive surprise since, despite being very popular and full most days, this is not one of the most renowned Italians in town.
@@ -16,11 +16,11 @@ Really good Italian food in the east end with friendly service and reasonable pr
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/stuttgart/krone-trattoria-pizzeria-2.jpg" alt="KRONE Trattoria-Pizzeria">
-  <figcaption>KRONE Trattoria-Pizzeria</figcaption>
+  <figcaption>Pizza Napoli</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/stuttgart/krone-trattoria-pizzeria-3.jpg" alt="KRONE Trattoria-Pizzeria">
-  <figcaption>KRONE Trattoria-Pizzeria</figcaption>
+  <figcaption>Linguine con Scampi</figcaption>
 </figure>
 </div>
 

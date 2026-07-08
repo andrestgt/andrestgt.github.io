@@ -18,7 +18,7 @@ Very pleasant countryside inn with a large beer garden in the woods. About 15 mi
   <div style="flex: 1; min-width: 200px;">
     <figure>
   <img src="/photos/germany/weinstrasse/waldschenke-deidesheimer-huette-1.jpg" alt="Waldschenke Deidesheimer Hütte">
-  <figcaption>Waldschenke Deidesheimer Hütte</figcaption>
+  <figcaption>Pfälzer Teller</figcaption>
 </figure>
   </div>
   <div style="flex: 1; min-width: 200px;">

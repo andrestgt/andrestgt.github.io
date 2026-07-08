@@ -8,7 +8,7 @@ subtitle: Lauffen am Neckar · Swabian Beer Garden
 
 <figure>
   <img src="/photos/germany/lauffen/daechle-1.jpg" alt="Dächle – Das schwäbische Wirtshaus">
-  <figcaption>Dächle – Das schwäbische Wirtshaus</figcaption>
+  <figcaption>Schweinskopfsülze</figcaption>
 </figure>
 
 A pleasant traditional Swabian beer garden with hot food served all day and a good house wine. The cooking is authentically local with schnitzels, Maultaschen, potato salad and so on. Don't expect refined Swabian cuisine, but the food is good and reasonably priced, with interesting daily specials.
@@ -16,11 +16,11 @@ A pleasant traditional Swabian beer garden with hot food served all day and a go
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/lauffen/daechle-2.jpg" alt="Dächle – Das schwäbische Wirtshaus">
-  <figcaption>Dächle – Das schwäbische Wirtshaus</figcaption>
+  <figcaption>Schnitzel mit Spätzle</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/lauffen/daechle-3.jpg" alt="Dächle – Das schwäbische Wirtshaus">
-  <figcaption>Dächle – Das schwäbische Wirtshaus</figcaption>
+  <figcaption>Rostbraten</figcaption>
 </figure>
 </div>
 

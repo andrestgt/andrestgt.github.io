@@ -8,7 +8,7 @@ subtitle: Leutkirch · Brewery Inn, Swabian
 
 <figure>
   <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-1.jpg" alt="Brauerei-Gasthof Mohren">
-  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+  <figcaption>Schnitzel mit Pommes</figcaption>
 </figure>
 
 Delightfully old-fashioned brewery inn serving excellent house-brewed beer alongside classic Swabian dishes made with organic ingredients. Prices remain refreshingly moderate, portions are generous enough without being excessive, and the service is quick and friendly.
@@ -16,28 +16,28 @@ Delightfully old-fashioned brewery inn serving excellent house-brewed beer along
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-2.jpg" alt="Brauerei-Gasthof Mohren">
-  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+  <figcaption>Käsespätzle</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-3.jpg" alt="Brauerei-Gasthof Mohren">
-  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+  <figcaption>Cordon Bleu</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-4.jpg" alt="Brauerei-Gasthof Mohren">
-  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+  <figcaption>Allgäuer Dreierlei</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-5.jpg" alt="Brauerei-Gasthof Mohren">
-  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+  <figcaption>Schweinebraten mit Käsespätzle</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/germany/leutkirch/brauerei-gasthof-mohren-6.jpg" alt="Brauerei-Gasthof Mohren">
-  <figcaption>Brauerei-Gasthof Mohren</figcaption>
+  <figcaption>Lamm Rollbraten</figcaption>
 </figure>
 
 ## Ratings

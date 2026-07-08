@@ -15,7 +15,7 @@ Big place in a prime location may look rather tacky and jaded, but don't let thi
 
 <figure>
   <img src="/photos/germany/heidelberg/caf-villa-2.jpg" alt="Café Villa">
-  <figcaption>Café Villa</figcaption>
+  <figcaption>Käsespätzle</figcaption>
 </figure>
 
 ## Ratings

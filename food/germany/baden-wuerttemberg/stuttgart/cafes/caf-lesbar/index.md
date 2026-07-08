@@ -8,7 +8,7 @@ subtitle: Stuttgart City Library · Café
 
 <figure>
   <img src="/photos/germany/baden-wuerttemberg/stuttgart/CT25-0096.jpg" alt="Café Lesbar">
-  <figcaption>Café Lesbar</figcaption>
+  <figcaption>Flat White</figcaption>
 </figure>
 
 Modern café on the top floor of the impressive city library. From some tables you have a fine view over the city. The coffee (flat white) is very respectable.

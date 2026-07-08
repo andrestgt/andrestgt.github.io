@@ -16,11 +16,11 @@ Fresh Kölsch, friendly service, and traditional local food at good prices. The 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/koeln/frueh-em-golde-kappes-2.jpg" alt="FRÜH Em Golde Kappes">
-  <figcaption>FRÜH Em Golde Kappes</figcaption>
+  <figcaption>Mettbrötchen</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/koeln/frueh-em-golde-kappes-3.jpg" alt="FRÜH Em Golde Kappes">
-  <figcaption>FRÜH Em Golde Kappes</figcaption>
+  <figcaption>Kalbsleber mit Kartoffelpüree</figcaption>
 </figure>
 </div>
 

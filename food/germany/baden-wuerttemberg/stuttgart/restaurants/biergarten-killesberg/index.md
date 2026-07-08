@@ -8,14 +8,14 @@ subtitle: Stuttgart · Beer Garden, Swabian
 
 <figure>
   <img src="/photos/germany/stuttgart/biergarten-killesberg-1.jpg" alt="Biergarten Killesberg">
-  <figcaption>Biergarten Killesberg</figcaption>
+  <figcaption>Fleischkäse mit Spiegelei und Kartoffelsalat</figcaption>
 </figure>
 
 Pleasant beer garden in a park with decent Swabian food. Big portions at reasonable prices prices. The Maultaschen with potato salad and Leberkäse with fried egg were absolutely fine. Recommended.
 
 <figure>
   <img src="/photos/germany/stuttgart/biergarten-killesberg-2.jpg" alt="Biergarten Killesberg">
-  <figcaption>Biergarten Killesberg</figcaption>
+  <figcaption>Maultaschen mit Kartoffelsalat</figcaption>
 </figure>
 
 ## Ratings

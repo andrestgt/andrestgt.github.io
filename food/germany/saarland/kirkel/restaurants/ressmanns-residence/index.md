@@ -8,7 +8,7 @@ subtitle: Kirkel · Fine Dining, International
 
 <figure>
   <img src="/photos/germany/kirkel/ressmanns-residence-1.jpg" alt="Ressmanns Residence">
-  <figcaption>Ressmanns Residence</figcaption>
+  <figcaption>Zander- und Lachsterrine</figcaption>
 </figure>
 
 An upmarket establishment with outstanding cooking at genuinely fair prices. I don't know any restaurant in the region with better value, the lunch menu in particular. The cooking is gutbürgerlich rather than creative, but that doesn't have to be a bad thing. Highly recommended.
@@ -16,17 +16,17 @@ An upmarket establishment with outstanding cooking at genuinely fair prices. I d
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/kirkel/ressmanns-residence-2.jpg" alt="Ressmanns Residence">
-  <figcaption>Ressmanns Residence</figcaption>
+  <figcaption>Salmon Tartare</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/kirkel/ressmanns-residence-3.jpg" alt="Ressmanns Residence">
-  <figcaption>Ressmanns Residence</figcaption>
+  <figcaption>Schwarzwurzelsuppe mit Blutwurst</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/germany/kirkel/ressmanns-residence-4.jpg" alt="Ressmanns Residence">
-  <figcaption>Ressmanns Residence</figcaption>
+  <figcaption>Kalbsbraten mit Polenta</figcaption>
 </figure>
 
 ## Ratings
