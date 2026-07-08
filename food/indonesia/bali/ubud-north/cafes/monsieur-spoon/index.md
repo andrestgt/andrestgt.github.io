@@ -9,7 +9,7 @@ subtitle: Ubud · Café & Patisserie
 
 <figure>
   <img src="/photos/indonesia/bali/monsieur-spoon-1.jpg" alt="Monsieur Spoon Ubud">
-  <figcaption>Monsieur Spoon Ubud</figcaption>
+  <figcaption>Croissant</figcaption>
 </figure>
 
 Pretty chic café-patisserie with nice croissants and decent baguettes. The coffee here is good too, but at 35K it's one of the priciest in town.

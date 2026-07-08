@@ -9,7 +9,7 @@ subtitle: Mas · Indonesian
 
 <figure>
   <img src="/photos/indonesia/bali/warung-rama-1.jpg" alt="Warung Rama">
-  <figcaption>Warung Rama</figcaption>
+  <figcaption>Nasi Campur</figcaption>
 </figure>
 
 One of the best nasi campur you can get for 30K. The place is as tiny as the menu, but the reason to come here is the freshly prepared nasi campur, though the lumpia are good, too.

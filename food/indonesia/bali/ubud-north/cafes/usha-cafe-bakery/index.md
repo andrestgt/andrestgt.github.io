@@ -9,7 +9,7 @@ subtitle: Mas · Café & Bakery
 
 <figure>
   <img src="/photos/indonesia/bali/usha-cafe-bakery-1.jpg" alt="Usha Cafe & Bakery">
-  <figcaption>Usha Cafe & Bakery</figcaption>
+  <figcaption>Salmon eggs benedict</figcaption>
 </figure>
 
 The cappuccino here comes in a mug, Starbucks-style, but it's well prepared and surprisingly smooth. 30K a mug, and it comes with a bottle of cold water. Well worth a stop, for their food and breads as well.

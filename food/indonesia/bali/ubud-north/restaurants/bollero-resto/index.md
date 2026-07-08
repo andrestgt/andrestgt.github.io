@@ -9,14 +9,14 @@ subtitle: Ubud · Indonesian
 
 <figure>
   <img src="/photos/indonesia/bali/bollero-resto-1.jpg" alt="Bollero Resto & Bar">
-  <figcaption>Bollero Resto & Bar</figcaption>
+  <figcaption>Duck Rolls</figcaption>
 </figure>
 
 Fantastic ikan pepes. A must try. This place has survived for years despite the silly name and fierce competition in Ubud. Reasonable prices, nice decor. Definitely recommended.
 
 <figure>
   <img src="/photos/indonesia/bali/bollero-resto-2.jpg" alt="Bollero Resto & Bar">
-  <figcaption>Bollero Resto & Bar</figcaption>
+  <figcaption>Ikan Pepes</figcaption>
 </figure>
 
 <figure>
@@ -31,17 +31,17 @@ Fantastic ikan pepes. A must try. This place has survived for years despite the 
 
 <figure>
   <img src="/photos/indonesia/bali/bollero-resto-5.jpg" alt="Bollero Resto & Bar">
-  <figcaption>Bollero Resto & Bar</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/indonesia/bali/bollero-resto-6.jpg" alt="Bollero Resto & Bar">
-  <figcaption>Bollero Resto & Bar</figcaption>
+  <figcaption>Duck Spring Rolls</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/indonesia/bali/bollero-resto-7.jpg" alt="Bollero Resto & Bar">
-  <figcaption>Bollero Resto & Bar</figcaption>
+  <figcaption>Beef Carpaccio</figcaption>
 </figure>
 
 ## Ratings

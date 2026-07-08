@@ -21,17 +21,17 @@ It's all getting a bit scene-y as the day turns into night, but as far as beach 
 
 <figure>
   <img src="/photos/indonesia/bali/ku-de-ta-6.jpg" alt="KU DE TA">
-  <figcaption>KU DE TA</figcaption>
+  <figcaption>Gyoza</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/indonesia/bali/ku-de-ta-8.jpg" alt="KU DE TA">
-  <figcaption>KU DE TA</figcaption>
+  <figcaption>Achim Mohr</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/indonesia/bali/ku-de-ta-9.jpg" alt="KU DE TA">
-  <figcaption>KU DE TA</figcaption>
+  <figcaption>Lebanese Dips with Pita</figcaption>
 </figure>
 
 <figure>

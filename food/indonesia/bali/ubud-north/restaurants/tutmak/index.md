@@ -9,7 +9,7 @@ subtitle: Ubud · Indonesian
 
 <figure>
   <img src="/photos/indonesia/bali/tutmak-1.jpg" alt="Tutmak Warung Kopi">
-  <figcaption>Tutmak Warung Kopi</figcaption>
+  <figcaption>Tuna Rolls</figcaption>
 </figure>
 
 Still going strong after all these years. For coffee there are now better options in town, but their tuna spring rolls are still a favourite, and prices still quite reasonable.

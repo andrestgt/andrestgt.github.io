@@ -9,7 +9,7 @@ subtitle: Mas · Mexican
 
 <figure>
   <img src="/photos/indonesia/bali/taco-casa-1.jpg" alt="Taco Casa Fresh Mexican Grill & Bar">
-  <figcaption>Taco Casa Fresh Mexican Grill & Bar</figcaption>
+  <figcaption>Burrito</figcaption>
 </figure>
 
 For me this is the best Tex-Mex food I've had anywhere in South East Asia. Consistently high quality food at excellent prices. Portions are huge. Horrible location on the noisy, polluted main road, so best get a takeaway.
@@ -17,11 +17,11 @@ For me this is the best Tex-Mex food I've had anywhere in South East Asia. Consi
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/taco-casa-2.jpg" alt="Taco Casa Fresh Mexican Grill & Bar">
-  <figcaption>Taco Casa Fresh Mexican Grill & Bar</figcaption>
+  <figcaption>Burrito</figcaption>
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/taco-casa-3.jpg" alt="Taco Casa Fresh Mexican Grill & Bar">
-  <figcaption>Taco Casa Fresh Mexican Grill & Bar</figcaption>
+  <figcaption>Quesadilla</figcaption>
 </figure>
 </div>
 

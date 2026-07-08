@@ -25,11 +25,11 @@ The most famous roast duck place in Ubud has magical rice paddy views from its b
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/bebek-bengil-4.jpg" alt="Bebek Bengil Ubud">
-  <figcaption>Bebek Bengil Ubud</figcaption>
+  <figcaption>Bebek Bakar</figcaption>
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/bebek-bengil-5.jpg" alt="Bebek Bengil Ubud">
-  <figcaption>Bebek Bengil Ubud</figcaption>
+  <figcaption>Bebek Bakar</figcaption>
 </figure>
 </div>
 

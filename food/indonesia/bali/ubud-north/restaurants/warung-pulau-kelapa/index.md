@@ -9,7 +9,7 @@ subtitle: Kedewatan · Indonesian
 
 <figure>
   <img src="/photos/indonesia/bali/warung-pulau-kelapa-1.jpg" alt="Warung Pulau Kelapa">
-  <figcaption>Warung Pulau Kelapa</figcaption>
+  <figcaption>Nasi Kuning</figcaption>
 </figure>
 
 This used to be one of my favourite cheap warungs in Ubud, with a beautifully designed dining room and lovely dishes, most under 30K. Prices, however, have risen sharply over the years and the quality hasn't kept up. So while the food is still good, it's now rather overpriced.
@@ -17,7 +17,7 @@ This used to be one of my favourite cheap warungs in Ubud, with a beautifully de
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/warung-pulau-kelapa-2.jpg" alt="Warung Pulau Kelapa">
-  <figcaption>Warung Pulau Kelapa</figcaption>
+  <figcaption>Lumpia Ayam</figcaption>
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/warung-pulau-kelapa-3.jpg" alt="Warung Pulau Kelapa">
@@ -32,14 +32,14 @@ This used to be one of my favourite cheap warungs in Ubud, with a beautifully de
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/warung-pulau-kelapa-5.jpg" alt="Warung Pulau Kelapa">
-  <figcaption>Warung Pulau Kelapa</figcaption>
+  <figcaption>Opor Ayam</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/warung-pulau-kelapa-6.jpg" alt="Warung Pulau Kelapa">
-  <figcaption>Warung Pulau Kelapa</figcaption>
+  <figcaption>Calamari Rings</figcaption>
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/warung-pulau-kelapa-7.jpg" alt="Warung Pulau Kelapa">

@@ -17,7 +17,7 @@ Bridges is my favourite fine dining restaurant in Ubud. I had a nice meal at Moz
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/bridges-bali-2.jpg" alt="Bridges Bali Restaurant Ubud">
-  <figcaption>Bridges Bali Restaurant Ubud</figcaption>
+  <figcaption>Achim Mohr</figcaption>
 </figure>
 </div>
 
@@ -41,7 +41,7 @@ Bridges is my favourite fine dining restaurant in Ubud. I had a nice meal at Moz
 
 <figure>
   <img src="/photos/indonesia/bali/bridges-bali-10.jpg" alt="Bridges Bali Restaurant Ubud">
-  <figcaption>Bridges Bali Restaurant Ubud</figcaption>
+  <figcaption>Scallops</figcaption>
 </figure>
 
 ## Ratings

@@ -17,33 +17,33 @@ Very good choice in Penestanan, especially for their gorgeous BBQ goat leg with 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/warung-mendez-2.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
+  <figcaption>Leg of Lamb</figcaption>
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/warung-mendez-3.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
+  <figcaption>Leg of Lamb</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/warung-mendez-4.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
+  <figcaption>Lumpiah</figcaption>
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/warung-mendez-5.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
+  <figcaption>Lumpiah</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/indonesia/bali/warung-mendez-6.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
+  <figcaption>Beef salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/warung-mendez-7.jpg" alt="Warung Mendez">
-  <figcaption>Warung Mendez</figcaption>
+  <figcaption>Oxtail soup</figcaption>
 </figure>
 </div>
 

@@ -21,7 +21,7 @@ Blissfully quiet place above town, away from the busy roads. Perfect for a short
 </figure>
 <figure>
   <img src="/photos/indonesia/bali/lala-and-lili-3.jpg" alt="Lala & Lili Warung">
-  <figcaption>Lala & Lili Warung</figcaption>
+  <figcaption>Nasi Campur</figcaption>
 </figure>
 </div>
 

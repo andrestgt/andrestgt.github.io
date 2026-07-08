@@ -9,7 +9,7 @@ subtitle: Kuta · Japanese
 
 <figure>
   <img src="/photos/indonesia/bali/sushi-tei-beachwalk-1.jpg" alt="Sushi Tei Beachwalk">
-  <figcaption>Sushi Tei Beachwalk</figcaption>
+  <figcaption>Sashimi</figcaption>
 </figure>
 
 Sushi Tei used to be my favourite sushi chain, but recently I have been disappointed more than once. Same in this branch. The salmon sashimi were below standard - slightly chewy instead of melt-in-mouth.
