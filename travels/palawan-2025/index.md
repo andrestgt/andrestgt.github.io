@@ -215,7 +215,14 @@ The first stop was [Kape San Vicente](https://andrestgt.github.io/food/philippin
 
 Further up the coast in Alimanguan, [Kitzmon Food House](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/) turned out to be much neater and cleaner than your average provincial foodhaus, with a good variety of Filipino favourites including chaolong, the Palawan version of Vietnamese beef stew. Prices are very reasonable, the service is friendly, and it is probably the best food option outside the resorts for many miles; we liked it enough to come back the next day.
 
-For the next two nights we stayed at Amwani Sunset Colours on Erawan Beach, north of Alimanguan. Since they paved the roads up from San Vicente, the place feels far less remote than it must have been only months earlier. The resort itself is quite basic, but it would be a great spot for a long-term stay: there is a shared kitchen for everyone to use, they sell beer at cost price, and the food prices are fair, with big portions. Dinner that first evening was delicious grilled squid, three of them for only 300 pesos. The two seaview bungalows were sadly booked out, those are the rooms to try for, but our family room was spacious enough and even had its own small kitchen. The real winner, though, is the beach: stunning, and despite the waves probably the best beach we found in Palawan for actual swimming rather than just lounging, thanks to the steep entrance.
+For the next two nights we stayed at Amwani Sunset Colours on Erawan Beach, north of Alimanguan.
+
+<figure>
+  <img src="photos/SEA25-0400.jpg" alt="Around San Vicente - Amwani Sunset Colours">
+  <em>Around San Vicente - Amwani Sunset Colours</em>
+</figure>
+
+Since they paved the roads up from San Vicente, the place feels far less remote than it must have been only months earlier. The resort itself is quite basic, but it would be a great spot for a long-term stay: there is a shared kitchen for everyone to use, they sell beer at cost price, and the food prices are fair, with big portions. Dinner that first evening was delicious grilled squid, three of them for only 300 pesos. The two seaview bungalows were sadly booked out, those are the rooms to try for, but our family room was spacious enough and even had its own small kitchen. The real winner, though, is the beach: stunning, and despite the waves probably the best beach we found in Palawan for actual swimming rather than just lounging, thanks to the steep entrance.
 
 <div class="photo-row">
 
@@ -233,7 +240,14 @@ For the next two nights we stayed at Amwani Sunset Colours on Erawan Beach, nort
 
 ## 21 March 2025
 
-Today we explored the coastal road north of Erawan, which has recently been paved, well, mostly, as far as Binga; after that it turns back into red dirt. Paved or not, it must be one of the most scenic and least travelled coastal roads in the country.
+Today we explored the coastal road north of Erawan, which has recently been paved, well, mostly, as far as Binga; after that it turns back into red dirt.
+
+<figure>
+  <img src="photos/SEA25-0343.jpg" alt="Around San Vicente">
+  <em>Around San Vicente</em>
+</figure>
+
+Paved or not, it must be one of the most scenic and least travelled coastal roads in the country.
 
 The first stop was Bato ni Ningning, a beautifully manicured viewpoint offering some of the most stunning views on the island, across the coastline and the outlying islands. Despite the remote location it is absolutely worth the trip, and with the new road it is not even a hard journey. Nearby Imuruan Viewpoint offers very pretty views of its own, without an entrance fee.
 
@@ -266,11 +280,13 @@ From there we continued to the very end of the road. Lumambong Beach is about as
   </figure>
 
   <figure>
-    <img src="photos/SEA25-0364.jpg" alt="Around San Vicente - Binga Beach">
+    <img src="photos/SEA25-0361.jpg" alt="Around San Vicente - Binga Beach">
     <em>Around San Vicente - Binga Beach</em>
   </figure>
 
 </div>
+
+On the way back we stopped at Sparkling Beach, a very beautiful spot where the lagoon meets the sea. Access is easy and public, and although the road now makes it simple to get here from San Vicente, it still feels remote, a beach quietly waiting to be discovered.
 
 <div class="photo-row">
 
@@ -280,18 +296,13 @@ From there we continued to the very end of the road. Lumambong Beach is about as
   </figure>
 
   <figure>
-    <img src="photos/SEA25-0361.jpg" alt="Around San Vicente - Binga Beach">
+    <img src="photos/SEA25-0364.jpg" alt="Around San Vicente - Binga Beach">
     <em>Around San Vicente - Binga Beach</em>
   </figure>
 
 </div>
 
-On the way back we stopped at Sparkling Beach, a very beautiful spot where the lagoon meets the sea. Access is easy and public, and although the road now makes it simple to get here from San Vicente, it still feels remote, a beach quietly waiting to be discovered. Dinner was at Kitzmon again, and the evening ended back at Amwani with a sunset that lived up to the resort's name.
-
-<figure>
-  <img src="photos/SEA25-0343.jpg" alt="Around San Vicente">
-  <em>Around San Vicente</em>
-</figure>
+Dinner was at Kitzmon again, and the evening ended back at Amwani with a sunset that lived up to the resort's name.
 
 <div class="photo-row">
 
@@ -310,11 +321,6 @@ On the way back we stopped at Sparkling Beach, a very beautiful spot where the l
 ## 22 March 2025
 
 The longest riding day of the trip so far: from Erawan Beach back through Alimanguan and across the island to Taytay, then up the east coast to Sibaltan.
-
-<figure>
-  <img src="photos/SEA25-0400.jpg" alt="Around San Vicente - Amwani Sunset Colours">
-  <em>Around San Vicente - Amwani Sunset Colours</em>
-</figure>
 
 The reward for the long ride came in the middle of nowhere, somewhere in provincial Palawan near Taytay. [Leonida's](https://andrestgt.github.io/food/philippines/taytay/restaurants/leonidas/) is a proper gem: a beautiful garden café where you least expect one, beautifully decorated, with very friendly service and food on par with some of the better Filipino restaurants in the big cities. The crispy pork kare-kare was absolutely mouth-wateringly delicious, and the prices are very reasonable for this kind of quality in this kind of setting. They even serve really good, proper coffee, if a bit on the pricey side. One of the culinary highlights of the whole trip.
 
