@@ -161,7 +161,7 @@ Today we explored the surroundings of Port Barton. In the late morning we rode o
 
 </div>
 
-Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/bars-pubs/prince-john-resort/), a gorgeous spot that is tricky to reach by road and, perhaps for that reason, almost empty, which is a pity; it is a fancy and rather expensive place for such a hard-to-reach remote part of the coast. The late afternoon belonged to Pamuayan Beach, just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
+Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/bars-pubs/prince-john-resort/), a gorgeous spot that is tricky to reach by road and, perhaps for that reason, almost empty, which is a pity; it is a fancy and rather expensive place for such a hard-to-reach remote part of the coast.
 
 <div class="photo-row">
 
@@ -176,6 +176,8 @@ Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.githu
   </figure>
 
 </div>
+
+The late afternoon belonged to Pamuayan Beach, just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
 
 <div class="photo-row">
 
@@ -204,19 +206,10 @@ Time to move on, northwards to the coast around San Vicente, an area that barely
 
 The interesting part is that there is now a direct coastal road from Port Barton to San Vicente that simply did not exist before, and it still does not appear on Google Maps. It is mostly unpaved, and I would not attempt it in a car, but on a bike it is bumpy without being too hard, at least in the dry season, and it saves the long detour back to the highway.
 
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/SEA25-0322.jpg" alt="Around San Vicente">
-    <em>Around San Vicente</em>
-  </figure>
-
-  <figure>
-    <img src="photos/SEA25-0334.jpg" alt="Around San Vicente">
-    <em>Around San Vicente</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/SEA25-0322.jpg" alt="Around San Vicente">
+  <em>Around San Vicente</em>
+</figure>
 
 The first stop was [Kape San Vicente](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/cafes/kape-san-vicente/) in San Vicente town. It is great to find something resembling a modern coffee shop with a proper espresso machine outside the main tourist centres, and at about half of what you pay in Port Barton, for food and coffee alike. Coffee purists should probably avoid the milk-based drinks, the milk seems to be sweetened or flavoured, but for the price it is well worth the stop.
 
