@@ -8,7 +8,7 @@ subtitle: Lisbon · Bistro
 
 <figure>
   <img src="/photos/portugal/lisbon/maruto-1.jpg" alt="Maruto">
-  <figcaption>Maruto</figcaption>
+  <figcaption>Tiborna de Alheira</figcaption>
 </figure>
 
 Cute little bistro serving good tibornas and other small dishes. The cocktails are not at all convincing, though, so it's probably better to stick with wine or craft beer here.

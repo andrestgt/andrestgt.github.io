@@ -8,7 +8,7 @@ subtitle: Neunkirchen · Vietnamese, Sushi
 
 <figure>
   <img src="/photos/germany/neunkirchen/zakado-1.jpg" alt="Zakado Neunkirchen">
-  <figcaption>Vietnamese Appetisers</figcaption>
+  <figcaption>Salmon Sashimi</figcaption>
 </figure>
 
 For a Vietnamese-run sushi restaurant in the German province, the quality at Zakado is surprisingly respectable. The salmon is fresh and generously portioned. The Vietnamese dishes on the menu are also perfectly fine, even if you shouldn't expect anything particularly authentic or exotic. Reasonably priced, and definitely recommended for Neunkirchen.

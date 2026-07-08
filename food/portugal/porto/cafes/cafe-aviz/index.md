@@ -15,7 +15,7 @@ Very friendly traditional café with good service. The famous francesinha sandwi
 
 <figure>
   <img src="/photos/portugal/porto/cafe-aviz-2.jpg" alt="Café Aviz">
-  <figcaption>Café Aviz</figcaption>
+  <figcaption>Francesinha</figcaption>
 </figure>
 
 ## Ratings

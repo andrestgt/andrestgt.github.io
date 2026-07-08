@@ -17,18 +17,18 @@ The restaurant has a nice Moroccan-themed décor and serves good, authentic food
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/france/lille/le-souk-2.jpg" alt="Le Souk">
-  <figcaption>Le Souk</figcaption>
+  <figcaption>Briouate</figcaption>
 </figure>
 <figure>
   <img src="/photos/france/lille/le-souk-3.jpg" alt="Le Souk">
-  <figcaption>Le Souk</figcaption>
+  <figcaption>Lamb Tajine</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/france/lille/le-souk-4.jpg" alt="Le Souk">
-  <figcaption>Le Souk</figcaption>
+  <figcaption>Couscous Royale</figcaption>
 </figure>
 <figure>
   <img src="/photos/france/lille/le-souk-5.jpg" alt="Le Souk">

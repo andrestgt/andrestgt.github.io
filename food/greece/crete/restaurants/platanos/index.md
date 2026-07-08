@@ -21,7 +21,7 @@ During the evenings this place seems to cater heavily to organised tour groups, 
 </figure>
 <figure>
   <img src="/photos/greece/crete/platanos-3.jpg" alt="Platanos">
-  <figcaption>Platanos</figcaption>
+  <figcaption>Greek Salad</figcaption>
 </figure>
 </div>
 

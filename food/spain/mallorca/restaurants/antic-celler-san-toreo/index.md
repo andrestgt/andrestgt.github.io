@@ -20,18 +20,18 @@ The food here is traditional and good without being especially refined. The real
 </figure>
 <figure>
   <img src="/photos/spain/mallorca/antic-celler-san-toreo-3.jpg" alt="Antic Celler San Toreó">
-  <figcaption>Antic Celler San Toreó</figcaption>
+  <figcaption>Croquetas de Pollo</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/spain/mallorca/antic-celler-san-toreo-4.jpg" alt="Antic Celler San Toreó">
-  <figcaption>Antic Celler San Toreó</figcaption>
+  <figcaption>Veal Tongue</figcaption>
 </figure>
 <figure>
   <img src="/photos/spain/mallorca/antic-celler-san-toreo-5.jpg" alt="Antic Celler San Toreó">
-  <figcaption>Antic Celler San Toreó</figcaption>
+  <figcaption>Pa Amb Oli</figcaption>
 </figure>
 </div>
 

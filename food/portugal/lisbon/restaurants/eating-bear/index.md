@@ -8,7 +8,7 @@ subtitle: Lisbon · Restaurant
 
 <figure>
   <img src="/photos/portugal/lisbon/eating-bear-1.jpg" alt="Eating Bear Taberna Lusitana">
-  <figcaption>Eating Bear Taberna Lusitana</figcaption>
+  <figcaption>Stuffed Bell Pepper with Crab Cheese</figcaption>
 </figure>
 
 Eating Bear serves excellent wine and petiscos with a slight Asian twist. The stuffed pepper with crab cheese was especially good. It's a nice option if you want something a little more modern and different from the usual Lisbon tavern food. The only slight disappointment was the couvert, which was fairly ordinary for the price.
@@ -16,11 +16,11 @@ Eating Bear serves excellent wine and petiscos with a slight Asian twist. The st
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/portugal/lisbon/eating-bear-2.jpg" alt="Eating Bear Taberna Lusitana">
-  <figcaption>Eating Bear Taberna Lusitana</figcaption>
+  <figcaption>Octopus salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/portugal/lisbon/eating-bear-3.jpg" alt="Eating Bear Taberna Lusitana">
-  <figcaption>Eating Bear Taberna Lusitana</figcaption>
+  <figcaption>Beef Carpaccio</figcaption>
 </figure>
 </div>
 

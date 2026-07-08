@@ -9,7 +9,7 @@ subtitle: Paris · Restaurant
 
 <figure>
   <img src="/photos/france/paris/le-mouffetard-2.jpg" alt="Le Mouffetard">
-  <figcaption>Le Mouffetard</figcaption>
+  <figcaption>Smoky Ribs</figcaption>
 </figure>
 
 Le Mouffetard serves large portions of honest French countryside cooking at reasonable prices. Think dishes like tête de veau rather than refined bistro cuisine. The location right on Rue Mouffetard is excellent, yet the place somehow avoids feeling like a tourist trap.
@@ -17,7 +17,7 @@ Le Mouffetard serves large portions of honest French countryside cooking at reas
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/france/paris/le-mouffetard-3.jpg" alt="Le Mouffetard">
-  <figcaption>Le Mouffetard</figcaption>
+  <figcaption>Smoky Ribs</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Nuremberg · Franconian, Traditional
 
 <figure>
   <img src="/photos/germany/nuernberg/goldenes-posthorn-1.jpg" alt="Goldenes Posthorn">
-  <figcaption>Ochsenbäckle in Rotweinsauce mit Brenknödel</figcaption>
+  <figcaption>Ox Cheeks in Red Wine Sauce</figcaption>
 </figure>
 
 Traditional restaurant dating back to medieval times, famous and very popular with visitors. Fortunately, it's also really good. The food and wine are both nice, prices are reasonable, and despite the fame the place still has plenty of atmosphere.

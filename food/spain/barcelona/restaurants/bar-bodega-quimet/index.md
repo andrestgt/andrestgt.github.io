@@ -16,11 +16,11 @@ Classic tapas bar where locals clearly outnumber tourists. Prices are reasonable
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/spain/barcelona/bar-bodega-quimet-2.jpg" alt="Bar Bodega Quimet">
-  <figcaption>Bar Bodega Quimet</figcaption>
+  <figcaption>Embutidos</figcaption>
 </figure>
 <figure>
   <img src="/photos/spain/barcelona/bar-bodega-quimet-3.jpg" alt="Bar Bodega Quimet">
-  <figcaption>Bar Bodega Quimet</figcaption>
+  <figcaption>Aubergine Tartare</figcaption>
 </figure>
 </div>
 

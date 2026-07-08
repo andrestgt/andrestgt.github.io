@@ -21,7 +21,7 @@ This is a tiny Georgian restaurant with just a few tables, and it's quite hard t
 </figure>
 <figure>
   <img src="/photos/france/lille/tbilisi-3.jpg" alt="Tbilisi">
-  <figcaption>Georgian Beef Stew</figcaption>
+  <figcaption>Kharcho</figcaption>
 </figure>
 </div>
 

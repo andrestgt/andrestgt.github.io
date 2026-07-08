@@ -17,13 +17,13 @@ Small village taverna with gorgeous mountain views and very friendly service. Th
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/greece/crete/panorama-cafe-taverna-3.jpg" alt="Panorama Cafe – Taverna">
-  <figcaption>Panorama Cafe – Taverna</figcaption>
+  <figcaption>Moussaka</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/greece/crete/panorama-cafe-taverna-4.jpg" alt="Panorama Cafe – Taverna">
-  <figcaption>Panorama Cafe – Taverna</figcaption>
+  <figcaption>Moussaka</figcaption>
 </figure>
 
 ## Ratings

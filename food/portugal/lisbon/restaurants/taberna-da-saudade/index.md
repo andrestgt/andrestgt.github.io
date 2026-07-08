@@ -8,7 +8,7 @@ subtitle: Lisbon · Restaurant
 
 <figure>
   <img src="/photos/portugal/lisbon/taberna-da-saudade-1.jpg" alt="Taberna da Saudade">
-  <figcaption>Taberna da Saudade</figcaption>
+  <figcaption>Petiscos</figcaption>
 </figure>
 
 Tiny and very cute little restaurant that feels almost like the ultimate Lisbon cliché. Unsurprisingly, that also means it's largely aimed at tourists. Still, the food is good and prices are fairly reasonable, although the drinks should really cost less.
@@ -16,7 +16,7 @@ Tiny and very cute little restaurant that feels almost like the ultimate Lisbon 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/portugal/lisbon/taberna-da-saudade-2.jpg" alt="Taberna da Saudade">
-  <figcaption>Taberna da Saudade</figcaption>
+  <figcaption>Duck Rice</figcaption>
 </figure>
 <figure>
   <img src="/photos/portugal/lisbon/taberna-da-saudade-3.jpg" alt="Taberna da Saudade">

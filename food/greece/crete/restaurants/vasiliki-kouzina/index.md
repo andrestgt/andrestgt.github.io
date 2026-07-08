@@ -24,22 +24,22 @@ Despite the prime tourist location, Vasiliki Kouzina serves honest Mediterranean
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/greece/crete/vasiliki-kouzina-4.jpg" alt="Vasiliki Kouzina">
-  <figcaption>Vasiliki Kouzina</figcaption>
+  <figcaption>Feta Cheesy Fries</figcaption>
 </figure>
 <figure>
   <img src="/photos/greece/crete/vasiliki-kouzina-5.jpg" alt="Vasiliki Kouzina">
-  <figcaption>Vasiliki Kouzina</figcaption>
+  <figcaption>Stuffed Vine Leaves</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/greece/crete/vasiliki-kouzina-6.jpg" alt="Vasiliki Kouzina">
-  <figcaption>Vasiliki Kouzina</figcaption>
+  <figcaption>Stuffed Vine Leaves</figcaption>
 </figure>
 <figure>
   <img src="/photos/greece/crete/vasiliki-kouzina-7.jpg" alt="Vasiliki Kouzina">
-  <figcaption>Vasiliki Kouzina</figcaption>
+  <figcaption>Grilled Sardines</figcaption>
 </figure>
 </div>
 

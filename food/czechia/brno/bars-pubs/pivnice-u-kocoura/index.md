@@ -28,11 +28,11 @@ Pivnice U Kocoura is a fantastic beer pub with excellent comfort food, tasty bee
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/czechia/brno/pivnice-u-kocoura-4.jpg" alt="Pivnice U Kocoura">
-  <figcaption>Rib BBQ Burger and Fries</figcaption>
+  <figcaption>Roasted Pork Ribs</figcaption>
 </figure>
 <figure>
   <img src="/photos/czechia/brno/pivnice-u-kocoura-5.jpg" alt="Pivnice U Kocoura">
-  <figcaption>Rib BBQ Burger and Fries</figcaption>
+  <figcaption>Roasted Pork Ribs</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Lisbon · Restaurant
 
 <figure>
   <img src="/photos/portugal/lisbon/super-mario-1.jpg" alt="Super Mário">
-  <figcaption>Super Mário</figcaption>
+  <figcaption>Seafood and Rice Casserole</figcaption>
 </figure>
 
 With Lisbon now firmly on the international tourist circuit, Super Mário initially looks like it might be a tourist trap. Fortunately, it still feels very much rooted in its working-class origins, serving simple but really tasty food at very fair prices. A large jug of vinho verde together with seafood rice or ribs with homemade chilli sauce still comes to around 20€ or so. Hard to complain about that.
@@ -16,7 +16,7 @@ With Lisbon now firmly on the international tourist circuit, Super Mário initia
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/portugal/lisbon/super-mario-2.jpg" alt="Super Mário">
-  <figcaption>Super Mário</figcaption>
+  <figcaption>Grilled Ribs</figcaption>
 </figure>
 <figure>
   <img src="/photos/portugal/lisbon/super-mario-3.jpg" alt="Super Mário">

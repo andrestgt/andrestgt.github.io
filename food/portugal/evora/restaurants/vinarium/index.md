@@ -15,7 +15,7 @@ Vinarium is a lovely little wine bar, small and intimate, with a good selection 
 
 <figure>
   <img src="/photos/portugal/evora/vinarium-3.jpg" alt="Vinarium Wine & Tapas">
-  <figcaption>Vinarium Wine & Tapas</figcaption>
+  <figcaption>Octopus salad</figcaption>
 </figure>
 
 

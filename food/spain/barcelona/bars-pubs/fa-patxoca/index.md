@@ -8,7 +8,7 @@ subtitle: Barcelona · Wine Bar
 
 <figure>
   <img src="/photos/spain/barcelona/fa-patxoca-1.jpg" alt="Fa Patxoca">
-  <figcaption>Fa Patxoca</figcaption>
+  <figcaption>Jamón Ibérico</figcaption>
 </figure>
 
 Simple and quiet little place in the centre, but away from the worst tourist crowds. The house wine, both white and rosado, costs under 3€ a glass and is very decent. The jamón is good as well.

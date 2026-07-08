@@ -24,7 +24,7 @@ A traditional Swabian restaurant in a beautifully renovated manastery barn in Ba
   <div style="flex: 1; min-width: 200px;">
     <figure>
   <img src="/photos/germany/schwarzwald/klosterscheuer-1.jpg" alt="Klosterscheuer">
-  <figcaption>Klosterpfännle</figcaption>
+  <figcaption>Hackbraten</figcaption>
 </figure>
   </div>
 </div>

@@ -9,14 +9,14 @@ subtitle: Kissamos · Restaurant
 
 <figure>
   <img src="/photos/greece/crete/kouzoumama-1.jpg" alt="Kouzoumama">
-  <figcaption>Kouzoumama</figcaption>
+  <figcaption>Greek Salad</figcaption>
 </figure>
 
 Kouzoumama is one of the best places to eat in Kissamos. The food is fresh and genuinely very good, portions are generous, and prices remain reasonable. Even the inexpensive house white is surprisingly decent, and they finish things off with dessert and generous glasses of raki on the house.
 
 <figure>
   <img src="/photos/greece/crete/kouzoumama-2.jpg" alt="Kouzoumama">
-  <figcaption>Kouzoumama</figcaption>
+  <figcaption>Calamari</figcaption>
 </figure>
 
 ## Ratings

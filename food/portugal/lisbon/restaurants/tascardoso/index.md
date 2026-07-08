@@ -16,11 +16,11 @@ Tascardoso is a small local eatery serving huge portions of simple, tasty food a
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/portugal/lisbon/tascardoso-2.jpg" alt="Tascardoso">
-  <figcaption>Tascardoso</figcaption>
+  <figcaption>Feijoada</figcaption>
 </figure>
 <figure>
   <img src="/photos/portugal/lisbon/tascardoso-3.jpg" alt="Tascardoso">
-  <figcaption>Tascardoso</figcaption>
+  <figcaption>Grilled Chicken</figcaption>
 </figure>
 </div>
 

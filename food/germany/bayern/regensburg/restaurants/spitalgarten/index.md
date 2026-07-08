@@ -8,7 +8,7 @@ subtitle: Regensburg · Beer Garden, Bavarian
 
 <figure>
   <img src="/photos/germany/regensburg/spitalgarten-1.jpg" alt="Spitalgarten">
-  <figcaption>Smoked Trout</figcaption>
+  <figcaption>Geräucherte Forelle</figcaption>
 </figure>
 
 Attractive beer garden with good service, very decent beers, and generous food at fair prices. The smoked trout is especially worth ordering: delicious, huge, and only 10€.

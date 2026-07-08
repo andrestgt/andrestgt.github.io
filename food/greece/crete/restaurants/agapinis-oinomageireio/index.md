@@ -17,7 +17,7 @@ Tiny working-class eatery inside the market serving wonderfully traditional Cret
 
 <figure>
   <img src="/photos/greece/crete/agapinis-oinomageireio-1.jpg" alt="Agapinis Oinomageireio">
-  <figcaption>Agapinis Oinomageireio</figcaption>
+  <figcaption>Fried Lamb Offal</figcaption>
 </figure>
 
 

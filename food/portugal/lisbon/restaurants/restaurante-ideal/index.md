@@ -8,14 +8,14 @@ subtitle: Lisbon · Restaurant
 
 <figure>
   <img src="/photos/portugal/lisbon/restaurante-ideal-1.jpg" alt="Restaurante Ideal">
-  <figcaption>Restaurante Ideal</figcaption>
+  <figcaption>Grilled Chourico</figcaption>
 </figure>
 
 Simple local eatery with cheap wine and reasonably friendly service. Even the grilled fish costs well under 10€, and both the couvert and the rest of the menu are inexpensive. A very good option if you're trying to eat well on a budget.
 
 <figure>
   <img src="/photos/portugal/lisbon/restaurante-ideal-2.jpg" alt="Restaurante Ideal">
-  <figcaption>Restaurante Ideal</figcaption>
+  <figcaption>Grilled Fish</figcaption>
 </figure>
 
 ## Ratings

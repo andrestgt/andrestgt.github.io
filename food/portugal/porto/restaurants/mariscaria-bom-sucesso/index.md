@@ -16,22 +16,22 @@ Fantastic place for fresh seafood at some of the best prices you'll find anywher
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/portugal/porto/mariscaria-bom-sucesso-6.jpg" alt="Mariscaria Bom Sucesso">
-  <figcaption>Mariscaria Bom Sucesso</figcaption>
+  <figcaption>Grilled Fish</figcaption>
 </figure>
 <figure>
   <img src="/photos/portugal/porto/mariscaria-bom-sucesso-3.jpg" alt="Mariscaria Bom Sucesso">
-  <figcaption>Mariscaria Bom Sucesso</figcaption>
+  <figcaption>Percebes</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/portugal/porto/mariscaria-bom-sucesso-4.jpg" alt="Mariscaria Bom Sucesso">
-  <figcaption>Mariscaria Bom Sucesso</figcaption>
+  <figcaption>Percebes</figcaption>
 </figure>
 <figure>
   <img src="/photos/portugal/porto/mariscaria-bom-sucesso-5.jpg" alt="Mariscaria Bom Sucesso">
-  <figcaption>Mariscaria Bom Sucesso</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 </div>
 

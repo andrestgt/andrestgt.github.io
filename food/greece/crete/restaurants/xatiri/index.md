@@ -9,7 +9,7 @@ subtitle: Iraklion · Restaurant
 
 <figure>
   <img src="/photos/greece/crete/xatiri-1.jpg" alt="Xatiri">
-  <figcaption>Xatiri</figcaption>
+  <figcaption>Greek Filo Pastry</figcaption>
 </figure>
 
 Excellent location and a very pleasant place either for a full meal or simply some wine with small snacks alongside.

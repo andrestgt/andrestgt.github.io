@@ -9,7 +9,7 @@ subtitle: Chania · Café
 
 <figure>
   <img src="/photos/greece/crete/bougatsa-iordanis-1.jpg" alt="Bougatsa Iordanis">
-  <figcaption>Bougatsa Iordanis</figcaption>
+  <figcaption>Bougatsa</figcaption>
 </figure>
 
 Excellent place for breakfast or a quick snack. A plate costs around 3€, is surprisingly filling, and the combination of cheese filling and perfectly made dough is hard to beat.

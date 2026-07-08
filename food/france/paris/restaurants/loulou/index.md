@@ -9,7 +9,7 @@ subtitle: Paris · Bistro
 
 <figure>
   <img src="/photos/france/paris/loulou-1.jpg" alt="Loulou">
-  <figcaption>Loulou</figcaption>
+  <figcaption>Steak Tartare</figcaption>
 </figure>
 
 Loulou serves good wine and classic bistro food in the middle of Saint-Germain. The steak tartare costs 17€ and is enormous, easily enough for two people. Prices are high, but that's fairly normal for the neighbourhood.

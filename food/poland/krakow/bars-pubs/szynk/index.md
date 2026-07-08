@@ -20,7 +20,7 @@ Pleasant, traditional beer-and-food pub with good draft beers and local comfort 
 </figure>
 <figure>
   <img src="/photos/poland/krakow/szynk-3.jpg" alt="Szynk">
-  <figcaption>Blood Pudding</figcaption>
+  <figcaption>Pickled Herring</figcaption>
 </figure>
 </div>
 

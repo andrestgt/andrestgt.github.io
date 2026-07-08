@@ -8,7 +8,7 @@ subtitle: Lisbon · Food Market
 
 <figure>
   <img src="/photos/portugal/lisbon/time-out-market-1.jpg" alt="Time Out Market">
-  <figcaption>Time Out Market</figcaption>
+  <figcaption>Pasteis de Nata</figcaption>
 </figure>
 
 Time Out Market is a great concept and basically a paradise for foodies. The downside is that it can get unbelievably crowded, and prices for both food and drinks are high by Lisbon standards.
