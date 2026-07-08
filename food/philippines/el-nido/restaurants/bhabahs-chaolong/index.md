@@ -27,4 +27,4 @@ Extremely basic, almost a dark hole inside, though thankfully there are a few ta
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bhabah%27s%20Chaolong%20El%20Nido%20Palawan)
 🍽️ **Type:** Vietnamese-Filipino, Noodles
-💰 **Price level:** cheap
+💰 **Price level:** ₱ 150-200
