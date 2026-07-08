@@ -17,28 +17,28 @@ Quite simply a wonderful place and well worth a stop on any Alsace trip. The res
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/france/alsace/hotel-restaurant-faller-emmebuckel-2.jpg" alt="Hôtel Restaurant Faller Emmebuckel">
-  <figcaption>Hôtel Restaurant Faller Emmebuckel</figcaption>
+  <figcaption>Beignets de munster à la bière et au cumin sur salade</figcaption>
 </figure>
 <figure>
   <img src="/photos/france/alsace/hotel-restaurant-faller-emmebuckel-3.jpg" alt="Hôtel Restaurant Faller Emmebuckel">
-  <figcaption>Hôtel Restaurant Faller Emmebuckel</figcaption>
+  <figcaption>Foie gras de canard "maison"</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/france/alsace/hotel-restaurant-faller-emmebuckel-4.jpg" alt="Hôtel Restaurant Faller Emmebuckel">
-  <figcaption>Hôtel Restaurant Faller Emmebuckel</figcaption>
+  <figcaption>sauce Apicius</figcaption>
 </figure>
 <figure>
   <img src="/photos/france/alsace/hotel-restaurant-faller-emmebuckel-5.jpg" alt="Hôtel Restaurant Faller Emmebuckel">
-  <figcaption>Hôtel Restaurant Faller Emmebuckel</figcaption>
+  <figcaption>Steak aux Chanterelles</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/france/alsace/hotel-restaurant-faller-emmebuckel-6.jpg" alt="Hôtel Restaurant Faller Emmebuckel">
-  <figcaption>Hôtel Restaurant Faller Emmebuckel</figcaption>
+  <figcaption>Assiette gourmande</figcaption>
 </figure>
 
 ## Ratings

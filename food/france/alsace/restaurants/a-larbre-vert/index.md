@@ -22,7 +22,7 @@ It's genuinely difficult to find even mediocre food in Alsace, and this place is
 </figure>
 <figure>
   <img src="/photos/france/alsace/a-larbre-vert-2.jpg" alt="A l'Arbre Vert">
-  <figcaption>A l'Arbre Vert</figcaption>
+  <figcaption>Steak aux Chanterelles</figcaption>
 </figure>
 </div>
 

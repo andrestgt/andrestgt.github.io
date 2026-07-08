@@ -9,14 +9,14 @@ subtitle: Ambleteuse · Pub & Restaurant
 
 <figure>
   <img src="/photos/france/cote-dopale/la-cave-du-fort-1.jpg" alt="La Cave du Fort">
-  <figcaption>La Cave du Fort</figcaption>
+  <figcaption>Plancha Poissons</figcaption>
 </figure>
 
 Great pub with a small menu of Moules Frites, planchas and a board of changing daily recommendations. The service is extremely friendly and there's good beers from the tap. The food quality is high for a pub and prices are reasonable.
 
 <figure>
   <img src="/photos/france/cote-dopale/la-cave-du-fort-2.jpg" alt="La Cave du Fort">
-  <figcaption>La Cave du Fort</figcaption>
+  <figcaption>Moules Frites</figcaption>
 </figure>
 
 ## Ratings
