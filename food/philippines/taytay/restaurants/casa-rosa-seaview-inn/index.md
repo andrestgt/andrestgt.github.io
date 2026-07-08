@@ -33,7 +33,7 @@ A very quiet resort on a hill above Taytay, with beautiful views over the town a
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 6/10   |
-| Service         | 5.5/10 |
+| Service         | 6/10 |
 | Value for money | 7/10   |
 | Atmosphere      | 8.5/10 |
 | Overall         | 7/10   |
