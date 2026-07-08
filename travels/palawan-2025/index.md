@@ -25,7 +25,7 @@ Our base for the first nights was Filigan's Hotel on Rizal Avenue, a basic RedDo
 
 Puerto Princesa has grown enormously since 2009, but at its core it is still the same likeable, unhurried town, more a place you pass through than a destination in itself. That said, it has always been a good town for eating, and the first evening confirmed it.
 
-Our first stop was Palaweño Brewery, the town's only craft beer microbrewery, a friendly place with a nice garden setting, but with not much choice, barely any food options and hardly any guests. The beer is expensive but tasty, and the place could be great; Puerto, it seems, is simply not ready yet for this kind of thing.
+Our first stop was [Palaweño Brewery](https://andrestgt.github.io/food/philippines/puerto-princesa/bars-pubs/palaweno-brewery/), the town's only craft beer microbrewery, a friendly place with a nice garden setting, but with not much choice, barely any food options and hardly any guests. The beer is expensive but tasty, and the place could be great; Puerto, it seems, is simply not ready yet for this kind of thing.
 
 Dinner made up for everything. [KaLui](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/kalui-seafood/) was the one restaurant I had insisted on revisiting. I first ate here almost two decades ago, alone, working my way through the set seafood menu for two, an incredible deal at 395 pesos at the time. The set menu is now closer to 900, but if anything the place has become even more beautiful, and the service even more attentive. We had a generous portion of tuna sashimi, seafood sisig and squid adobo in its ink, all of impeccable quality, and the whole bill, including beers and a cocktail, stayed under 1,500 pesos. Still a must in Puerto Princesa.
 
@@ -46,7 +46,7 @@ In the late afternoon we rode out to [Neva's Place](https://andrestgt.github.io/
   <em>Puerto Princesa - Neva's Place</em>
 </figure>
 
-The evening brought one of those finds that are great for exactly one reason. Majo-Imbiss is a basic German eatery with a bar and a nice garden, and their litro bottles of Beer na Beer are very cheap, which alone makes it worth knowing about. The food, sadly, is another matter: not professional, not even tasty amateur home cooking, and the burgers came dry, with cold cheese. Come for the cheap beers, eat elsewhere. Elsewhere, that night, was Bona's Chao Long Haus, a basic eatery with very tasty, inexpensive chaolong, a great option for a proper bowl of Viet-style noodle soup. The banh mi is better avoided, though, it is nothing like the real thing.
+The evening brought one of those finds that are great for exactly one reason. [Majo-Imbiss](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/majo-imbiss/) is a basic German eatery with a bar and a nice garden, and their litro bottles of Beer na Beer are very cheap, which alone makes it worth knowing about. The food, sadly, is another matter: not professional, not even tasty amateur home cooking, and the burgers came dry, with cold cheese. Come for the cheap beers, eat elsewhere. Elsewhere, that night, was [Bona's Chao Long Haus](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/bonas-chao-long-haus/), a basic eatery with very tasty, inexpensive chaolong, a great option for a proper bowl of Viet-style noodle soup. The banh mi is better avoided, though, it is nothing like the real thing.
 
 ## 17 March 2025
 
@@ -161,7 +161,7 @@ Today we explored the surroundings of Port Barton. In the late morning we rode o
 
 </div>
 
-Afterwards we stopped for drinks at Prince John Resort, a gorgeous spot that is tricky to reach by road and, perhaps for that reason, almost empty, which is a pity; it is a fancy and rather expensive place for such a hard-to-reach remote part of the coast. The late afternoon belonged to Pamuayan Beach, just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
+Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/bars-pubs/prince-john-resort/), a gorgeous spot that is tricky to reach by road and, perhaps for that reason, almost empty, which is a pity; it is a fancy and rather expensive place for such a hard-to-reach remote part of the coast. The late afternoon belonged to Pamuayan Beach, just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
 
 <div class="photo-row">
 
@@ -535,11 +535,11 @@ After ten days of travelling the hard way, we spent today simply taking full adv
 
 In the afternoon we paid a nostalgic visit to the [El Nido Boutique Artcafe](https://andrestgt.github.io/food/philippines/el-nido/restaurants/el-nido-boutique-artcafe/). When I first came here in the late 00s, the Art Café had unique selling points that sound exotic today: things like cappuccino and WiFi. It was pricier than the competition but a notch above in everything. Nowadays it feels like a relic, a dinosaur whose sheer size makes it stand out in a town of small places. It is no longer the travellers' focal point, but it still gets things right: the décor is nicer than it used to be, prices are now on par with the competition, the second-floor terrace has pleasant views, and in a town not exactly famous for exceptional food, the food here is better than it used to be.
 
-Later we stopped for beers at Odessa Mama, the only craft beer microbrewery in El Nido, and a good one: nice beers, the best in town. I like Ukrainian food, but the prices here were too steep for me, so we stuck to the beer. A sign at the door announces that Russians are not welcome, which, considering the circumstances, is fair enough.
+Later we stopped for beers at [Odessa Mama](https://andrestgt.github.io/food/philippines/el-nido/bars-pubs/odessa-mama/), the only craft beer microbrewery in El Nido, and a good one: nice beers, the best in town. I like Ukrainian food, but the prices here were too steep for me, so we stuck to the beer. A sign at the door announces that Russians are not welcome, which, considering the circumstances, is fair enough.
 
-Sunset drinks at the Yacht Wreck Bar, the cheapest spot with a prime seaside location in town. Strangely you will not find many backpackers here, they seem to prefer the pricier, posher places with louder music, which suits us fine: this rustic beach bar has vibes of the old El Nido from the 00s. The only drawback is that they serve no food at all with the drinks, not even basic pulutan.
+Sunset drinks at the [Yacht Wreck Bar](https://andrestgt.github.io/food/philippines/el-nido/bars-pubs/yacht-wreck-bar/), the cheapest spot with a prime seaside location in town. Strangely you will not find many backpackers here, they seem to prefer the pricier, posher places with louder music, which suits us fine: this rustic beach bar has vibes of the old El Nido from the 00s. The only drawback is that they serve no food at all with the drinks, not even basic pulutan.
 
-For dinner we went to Patron Mexican Restobar. I certainly did not expect authentic Mexican food in El Nido of all places, and to be clear, that is not why the place is packed every night: the food is merely decent and quite tasty. The real draw is the cheerful atmosphere, the cheap long drinks and, by El Nido standards, reasonably priced food, even if the portions are on the smaller side. A thumbs up in a town where good value is hard to come by.
+For dinner we went to [Patron Mexican Restobar](https://andrestgt.github.io/food/philippines/el-nido/restaurants/patron-mexican-restobar/). I certainly did not expect authentic Mexican food in El Nido of all places, and to be clear, that is not why the place is packed every night: the food is merely decent and quite tasty. The real draw is the cheerful atmosphere, the cheap long drinks and, by El Nido standards, reasonably priced food, even if the portions are on the smaller side. A thumbs up in a town where good value is hard to come by.
 
 ## 27 March 2025
 
@@ -582,19 +582,19 @@ The archipelago is still absolutely stunning, one of the most beautiful seascape
   <em>Bacuit Archipelago</em>
 </figure>
 
-Back on land, we had a relaxed last night in preparation for the long way back tomorrow. Bhabah's Chaolong is extremely basic, almost a dark hole, with a few tables thankfully outside, though right by the busy, polluted road. But it is cheap and the Viet-Fil noodle soup is very tasty; not that there was much choice, it seemed to be the only chaolong place in town. Snacks afterwards at [Caliente](https://andrestgt.github.io/food/philippines/el-nido/street-food/caliente-el-nido/), which is more snack bar than restaurant, just a few uncomfortable stools and tables, serving perfect pre-drinking snacks in Filipino-Mexican style. The tacos are very tasty, but since they are just two bites each you could easily eat a dozen, and then they might blow your budget; it may look like a cheap place, but it is not.
+Back on land, we had a relaxed last night in preparation for the long way back tomorrow. [Bhabah's Chaolong](https://andrestgt.github.io/food/philippines/el-nido/restaurants/bhabahs-chaolong/) is extremely basic, almost a dark hole, with a few tables thankfully outside, though right by the busy, polluted road. But it is cheap and the Viet-Fil noodle soup is very tasty; not that there was much choice, it seemed to be the only chaolong place in town. Snacks afterwards at [Caliente](https://andrestgt.github.io/food/philippines/el-nido/street-food/caliente-el-nido/), which is more snack bar than restaurant, just a few uncomfortable stools and tables, serving perfect pre-drinking snacks in Filipino-Mexican style. The tacos are very tasty, but since they are just two bites each you could easily eat a dozen, and then they might blow your budget; it may look like a cheap place, but it is not.
 
 ## 28 March 2025
 
-The long ride back: some 230 kilometres from El Nido to Puerto Princesa in a day, which sounds worse than it is now that the road is good all the way. Fuel for the journey came from Blackbird Coffee in El Nido, which does not have Hama's gorgeous location, but when Hama is too busy it is a great alternative for quality coffee: tiny but air-conditioned, friendly, and the breakfasts looked great and massive.
+The long ride back: some 230 kilometres from El Nido to Puerto Princesa in a day, which sounds worse than it is now that the road is good all the way. Fuel for the journey came from [Blackbird Coffee](https://andrestgt.github.io/food/philippines/el-nido/cafes/blackbird-coffee/) in El Nido, which does not have Hama's gorgeous location, but when Hama is too busy it is a great alternative for quality coffee: tiny but air-conditioned, friendly, and the breakfasts looked great and massive.
 
-Our halfway break was at Casa Rosa in Taytay, a very quiet resort on a hill above the town with beautiful views from the restaurant terrace. The service is slow and the food so-so, but it is a lovely rest stop on the long way back, and with more time it would have been worth breaking the journey here for a night.
+Our halfway break was at [Casa Rosa](https://andrestgt.github.io/food/philippines/taytay/restaurants/casa-rosa-seaview-inn/) in Taytay, a very quiet resort on a hill above the town with beautiful views from the restaurant terrace. The service is slow and the food so-so, but it is a lovely rest stop on the long way back, and with more time it would have been worth breaking the journey here for a night.
 
 <figure>
   <img src="photos/SEA25-0614.jpg" alt="Taytay">
   <em>Taytay</em>
 </figure>
 
-By late afternoon we were back in Puerto Princesa, back at Filigan's, and celebrating the end of the loop the way these things should be celebrated: at Kinabuchs, or KGB, still exactly as it was in 2009, a great open-air grill institution with good food and huge portions. More expensive now, of course, but still reasonable.
+By late afternoon we were back in Puerto Princesa, back at Filigan's, and celebrating the end of the loop the way these things should be celebrated: at [Kinabuchs](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/kinabuchs/), or KGB, still exactly as it was in 2009, a great open-air grill institution with good food and huge portions. More expensive now, of course, but still reasonable.
 
 ---
