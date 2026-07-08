@@ -6,6 +6,11 @@ title: Palaweño Brewery
 subtitle: Puerto Princesa · Craft Beer
 ---
 
+<figure>
+  <img src="/photos/philippines/puerto-princesa/SEA25-0160.jpg" alt="Palaweño Brewery">
+  <figcaption>Palaweño Brewery</figcaption>
+</figure>
+
 Puerto's only craft beer microbrewery, and I really wanted to love it. Nice garden setting, friendly staff, and the beers, pricey as they are, are actually tasty. The problem is there isn't much choice, there's barely any food, and the place was practically empty when we came. Craft beer just doesn't seem to have found its market in Puerto yet, which is a shame, because with a bit more life this could be a great spot.
 
 ## Ratings

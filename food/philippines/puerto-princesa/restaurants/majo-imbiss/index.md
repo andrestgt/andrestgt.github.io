@@ -6,7 +6,17 @@ title: Majo-Imbiss
 subtitle: Puerto Princesa · German
 ---
 
+<figure>
+  <img src="/photos/philippines/puerto-princesa/SEA25-0186.jpg" alt="Majo-Imbiss">
+  <figcaption>Majo-Imbiss</figcaption>
+</figure>
+
 A basic German-run eatery with a bar and a nice garden. The one big reason to come is the litro bottles of Beer na Beer, dirt cheap and a great find at that price. Sadly the food really lets it down: amateurish homemade stuff that isn't even tasty, and the burgers arrived dry with cold cheese. Come for the cheap beers in the garden, and have your dinner elsewhere.
+
+<figure>
+  <img src="/photos/philippines/puerto-princesa/SEA25-0187.jpg" alt="Majo-Imbiss">
+  <figcaption>Majo-Imbiss — Jalapeno Burger</figcaption>
+</figure>
 
 ## Ratings
 

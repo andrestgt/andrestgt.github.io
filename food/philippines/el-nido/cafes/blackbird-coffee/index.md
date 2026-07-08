@@ -6,6 +6,11 @@ title: Blackbird Coffee
 subtitle: El Nido Town · Café, Coffee
 ---
 
+<figure>
+  <img src="/photos/philippines/el-nido/SEA25-0612.jpg" alt="Blackbird Coffee">
+  <figcaption>Blackbird Coffee — Flat White</figcaption>
+</figure>
+
 No million-dollar view like Hama, but when Hama is packed, which is basically always, this is a great alternative for quality coffee. Tiny but air-conditioned and friendly, and the breakfasts look great and come in massive portions.
 
 ## Ratings

@@ -6,6 +6,11 @@ title: Odessa Mama
 subtitle: El Nido Town · Craft Beer, Ukrainian
 ---
 
+<figure>
+  <img src="/photos/philippines/el-nido/SEA25-0556.jpg" alt="Odessa Mama">
+  <figcaption>Odessa Mama</figcaption>
+</figure>
+
 El Nido's only craft beer microbrewery, and a good one at that: the beers are lovely, the best in town in my opinion. It's also a Ukrainian restaurant and I do like Ukrainian food, but the prices were a bit too steep for me, so I stuck to the beer. There's a sign at the door saying Russians aren't welcome which, given the circumstances, is fair enough.
 
 ## Ratings

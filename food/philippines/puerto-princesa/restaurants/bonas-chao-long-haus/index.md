@@ -6,7 +6,17 @@ title: Bona's Chao Long Haus
 subtitle: Puerto Princesa · Vietnamese-Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/puerto-princesa/SEA25-0184.jpg" alt="Bona's Chao Long Haus">
+  <figcaption>Bona's Chao Long Haus — Beef Stew</figcaption>
+</figure>
+
 A basic place doing very tasty and cheap chaolong, the Viet-Filipino beef noodle soup that's a Palawan speciality. If you want a good, inexpensive bowl of noodle soup, this is a great option. Skip the banh mi though; it's nothing like a proper one.
+
+<figure>
+  <img src="/photos/philippines/puerto-princesa/SEA25-0185.jpg" alt="Bona's Chao Long Haus">
+  <figcaption>Bona's Chao Long Haus — Pork and Cheese Banh Mi</figcaption>
+</figure>
 
 ## Ratings
 

@@ -6,6 +6,11 @@ title: Bhabah's Chaolong
 subtitle: El Nido Town · Vietnamese-Filipino
 ---
 
+<figure>
+  <img src="/photos/philippines/el-nido/SEA25-0610.jpg" alt="Bhabah's Chaolong">
+  <figcaption>Bhabah's Chaolong — Beef Noodles</figcaption>
+</figure>
+
 Extremely basic, almost a dark hole inside, though thankfully there are a few tables outside, even if they're right by the busy, polluted road. Still, it's cheap and the Viet-Filipino noodle soup is very tasty. It also seemed to be the only chaolong place in town, so it's not like there's much choice.
 
 ## Ratings
