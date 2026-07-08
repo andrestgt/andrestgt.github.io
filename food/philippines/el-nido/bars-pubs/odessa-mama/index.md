@@ -17,10 +17,10 @@ El Nido's only craft beer microbrewery, and a good one at that: the beers are lo
 
 | Category        | Score  |
 | ---             | ---    |
-| Beer            | 8.5/10 |
+| Beer            | 8/10 |
 | Service         | 7.5/10 |
 | Value for money | 6.5/10 |
-| Atmosphere      | 7.5/10 |
+| Atmosphere      | 8/10 |
 | Overall         | 8/10   |
 
 ### Practical
