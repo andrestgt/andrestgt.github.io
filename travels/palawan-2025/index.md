@@ -329,6 +329,11 @@ By late afternoon we reached Sibaltan on the east coast, the quiet other side of
 <div class="photo-row">
 
   <figure>
+    <img src="photos/SEA25-0484.jpg" alt="Around El Nido - Erlittop Garden, Sibaltan">
+    <em>Around El Nido - Erlittop Garden, Sibaltan</em>
+  </figure>
+
+  <figure>
     <img src="photos/SEA25-0415.jpg" alt="Around El Nido - Erlittop Garden, Sibaltan">
     <em>Around El Nido - Erlittop Garden, Sibaltan</em>
   </figure>
@@ -376,10 +381,19 @@ Duli Beach, with sand more brownish than white, attracts a small crowd of surfer
 
 Dagmay Beach, a little further on, is another beautiful tropical beach that you are likely to have all to yourselves, at least until the resort being built there is finished. For now it is still wonderfully unspoiled, without even a village behind it.
 
-<figure>
-  <img src="photos/SEA25-0445.jpg" alt="Around El Nido - Dagmay Beach">
-  <em>Around El Nido - Dagmay Beach</em>
-</figure>
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/SEA25-0445.jpg" alt="Around El Nido - Dagmay Beach">
+    <em>Around El Nido - Dagmay Beach</em>
+  </figure>
+
+  <figure>
+    <img src="photos/SEA25-0441.jpg" alt="Around El Nido - Dagmay Beach">
+    <em>Around El Nido - Dagmay Beach</em>
+  </figure>
+
+</div>
 
 The best of the three, for us, was Diapela Beach, as far as the road goes north of El Nido. It is not a remote jungle beach, there is actually a fairly big village behind it, but the water is crystal clear and it was the best place to swim in the whole area, much nicer than some of the more famous beaches further south. Getting there is not exactly effortless, the road is bumpy, but in the dry season it is fine even on a scooter, and definitely worth the trip all the way up.
 
@@ -432,23 +446,9 @@ From Sibaltan we crossed over to El Nido's west coast, with a mid-morning break 
 </figure>
 
 <figure>
-  <img src="photos/SEA25-0484.jpg" alt="Around El Nido - Erlittop Garden, Sibaltan">
-  <em>Around El Nido - Erlittop Garden, Sibaltan</em>
+  <img src="photos/SEA25-0458.jpg" alt="Around El Nido">
+  <em>Around El Nido</em>
 </figure>
-
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/SEA25-0458.jpg" alt="Around El Nido">
-    <em>Around El Nido</em>
-  </figure>
-
-  <figure>
-    <img src="photos/SEA25-0441.jpg" alt="Around El Nido - Dagmay Beach">
-    <em>Around El Nido - Dagmay Beach</em>
-  </figure>
-
-</div>
 
 Then came the moment I had been half looking forward to and half dreading: Nacpan Beach. In 2009, Nacpan was still possibly the most beautiful beach in the world, with no beach restaurants and hardly any development at all. Times have changed. Nacpan is much busier these days, the beach has become an obligatory stop on every El Nido itinerary, and yet, it remains a stunning place, at least the northern and southern ends; the central stretch gets very busy.
 
