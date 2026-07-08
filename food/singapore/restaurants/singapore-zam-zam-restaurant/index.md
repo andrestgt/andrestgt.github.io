@@ -8,7 +8,7 @@ subtitle: Kampong Glam · Indian-Muslim
 
 <figure>
   <img src="/photos/singapore/singapore-zam-zam-restaurant-1.jpg" alt="Singapore Zam Zam Restaurant">
-  <figcaption>Singapore Zam Zam Restaurant</figcaption>
+  <figcaption>Mutton Biryani</figcaption>
 </figure>
 
 Old-school Muslim restaurant serving huge portions at very reasonable prices by Singapore standards. The biryani comes with a generous piece of tender mutton and even a small murtabak is large enough to satisfy two hungry people.
@@ -16,11 +16,11 @@ Old-school Muslim restaurant serving huge portions at very reasonable prices by 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/singapore/singapore-zam-zam-restaurant-2.jpg" alt="Singapore Zam Zam Restaurant">
-  <figcaption>Singapore Zam Zam Restaurant</figcaption>
+  <figcaption>Mutton Biryani</figcaption>
 </figure>
 <figure>
   <img src="/photos/singapore/singapore-zam-zam-restaurant-3.jpg" alt="Singapore Zam Zam Restaurant">
-  <figcaption>Singapore Zam Zam Restaurant</figcaption>
+  <figcaption>Murtabak</figcaption>
 </figure>
 </div>
 
