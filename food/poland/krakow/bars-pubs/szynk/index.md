@@ -8,7 +8,7 @@ subtitle: Kraków · Traditional Pub
 
 <figure>
   <img src="/photos/poland/krakow/szynk-1.jpg" alt="Szynk">
-  <figcaption>Szynk</figcaption>
+  <figcaption>Blood Pudding</figcaption>
 </figure>
 
 Pleasant, traditional beer-and-food pub with good draft beers and local comfort food. Pickled herring and blood sausage make a lot of sense here, especially with a beer. Prices are reasonable.
@@ -16,11 +16,11 @@ Pleasant, traditional beer-and-food pub with good draft beers and local comfort 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/poland/krakow/szynk-2.jpg" alt="Szynk">
-  <figcaption>Szynk</figcaption>
+  <figcaption>Pickled Herring</figcaption>
 </figure>
 <figure>
   <img src="/photos/poland/krakow/szynk-3.jpg" alt="Szynk">
-  <figcaption>Szynk</figcaption>
+  <figcaption>Blood Pudding</figcaption>
 </figure>
 </div>
 

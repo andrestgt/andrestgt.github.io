@@ -24,11 +24,11 @@ subtitle: Nové Město nad Metují · Restaurant & Bar
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/czechia/nove-mesto-metuje/zamek-bar-4.jpg" alt="Zámek-Bar Restaurant">
-  <figcaption>Zámek-Bar Restaurant</figcaption>
+  <figcaption>Smoked Fish</figcaption>
 </figure>
 <figure>
   <img src="/photos/czechia/nove-mesto-metuje/zamek-bar-5.jpg" alt="Zámek-Bar Restaurant">
-  <figcaption>Zámek-Bar Restaurant</figcaption>
+  <figcaption>Pork Chop</figcaption>
 </figure>
 </div>
 

@@ -8,14 +8,14 @@ subtitle: Kraków · Polish Restaurant
 
 <figure>
   <img src="/photos/poland/krakow/restauracja-smokolyki-1.jpg" alt="Restauracja Smakołyki">
-  <figcaption>Restauracja Smakołyki</figcaption>
+  <figcaption>Potato Pancakes with Goulash and Sour Cream</figcaption>
 </figure>
 
 Nice, modern eatery with mainly local clientele. It's cheap and filling, and the menu sticks to straightforward Polish staples. The gołąbki are a little bland, though.
 
 <figure>
   <img src="/photos/poland/krakow/restauracja-smokolyki-2.jpg" alt="Restauracja Smakołyki">
-  <figcaption>Restauracja Smakołyki</figcaption>
+  <figcaption>Stuffed Cabbage Roll</figcaption>
 </figure>
 
 ## Ratings

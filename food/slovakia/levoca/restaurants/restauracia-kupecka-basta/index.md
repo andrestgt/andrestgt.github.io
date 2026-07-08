@@ -20,14 +20,14 @@ Atmospheric and popular restaurant inside the old town walls serving very good l
 </figure>
 <figure>
   <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-3.jpg" alt="Reštaurácia Kupecká Bašta">
-  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+  <figcaption>Goat cheese filled dumplings with sour cream and bacon</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-4.jpg" alt="Reštaurácia Kupecká Bašta">
-  <figcaption>Reštaurácia Kupecká Bašta</figcaption>
+  <figcaption>BBQ Platter</figcaption>
 </figure>
 <figure>
   <img src="/photos/slovakia/levoca/restauracia-kupecka-basta-5.jpg" alt="Reštaurácia Kupecká Bašta">

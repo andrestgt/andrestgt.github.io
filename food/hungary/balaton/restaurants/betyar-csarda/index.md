@@ -16,11 +16,11 @@ This beautiful, reed-thatched old farmhouse seems to be the only restaurant in t
 
 <figure>
   <img src="/photos/hungary/balaton/betyar-csarda-2.jpg" alt="Betyár Csárda">
-  <figcaption>Betyár Csárda</figcaption>
+  <figcaption>Zigeunerschnitzel</figcaption>
 </figure>
 <figure>
   <img src="/photos/hungary/balaton/betyar-csarda-1.jpg" alt="Betyár Csárda">
-  <figcaption>Betyár Csárda</figcaption>
+  <figcaption>Cordon Bleu</figcaption>
 </figure>
 
 

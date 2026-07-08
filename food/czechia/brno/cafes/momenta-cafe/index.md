@@ -17,11 +17,11 @@ Probably the nicest café in Brno. Thankfully, it avoids the usual hipster style
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/czechia/brno/momenta-cafe-2.jpg" alt="Momenta Cafe">
-  <figcaption>Momenta Cafe</figcaption>
+  <figcaption>Rabbit Paté</figcaption>
 </figure>
   <figure>
   <img src="/photos/czechia/brno/momenta-cafe-1.jpg" alt="Momenta Cafe">
-  <figcaption>Momenta Cafe</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 </div>
 

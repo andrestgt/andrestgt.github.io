@@ -21,18 +21,18 @@ This is the place to go in the area if you're looking for huge portions at rock-
 </figure>
 <figure>
   <img src="/photos/hungary/balaton/csillagvar-etterem-3.jpg" alt="Csillagvár Étterem">
-  <figcaption>Csillagvár Étterem</figcaption>
+  <figcaption>Pizza Gyros</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/hungary/balaton/csillagvar-etterem-4.jpg" alt="Csillagvár Étterem">
-  <figcaption>Csillagvár Étterem</figcaption>
+  <figcaption>Goulash Soup</figcaption>
 </figure>
 <figure>
   <img src="/photos/hungary/balaton/csillagvar-etterem-5.jpg" alt="Csillagvár Étterem">
-  <figcaption>Csillagvár Étterem</figcaption>
+  <figcaption>Baked Trout</figcaption>
 </figure>
 </div>
 

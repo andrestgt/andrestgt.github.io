@@ -9,7 +9,7 @@ subtitle: Olomouc · Café
 
 <figure>
   <img src="/photos/czechia/olomouc/cafe-new-one-1.jpg" alt="Cafe New One">
-  <figcaption>Cafe New One</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 This place looks extremely fancy, almost intimidatingly so, but it's actually a very friendly and reasonably priced café. Cappuccino is only 45 Kč, the seating is genuinely comfortable, the wifi is fast, and the cakes are unapologetically sinful.

@@ -20,7 +20,7 @@ Brilliant pub with lots of beers on tap, mostly craft beers, at surprisingly goo
 </figure>
 <figure>
   <img src="/photos/slovakia/kosice/dobre-casy-3.jpg" alt="Dobré Časy">
-  <figcaption>Dobré Časy</figcaption>
+  <figcaption>Smoked Ribs</figcaption>
 </figure>
 </div>
 

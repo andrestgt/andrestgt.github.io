@@ -9,7 +9,7 @@ subtitle: Linz · Traditional Café
 
 <figure>
   <img src="/photos/austria/linz/cafe-traxlmayr-1.jpg" alt="Café Traxlmayr">
-  <figcaption>Café Traxlmayr</figcaption>
+  <figcaption>Apfelstrudel</figcaption>
 </figure>
 
 A traditional old-fashioned Austrian coffee house with good coffee and a nice Apfelstrudel. Unfortunately, the prices for coffee and drinks are absurdly high, and that does take away from the experience a bit.

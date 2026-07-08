@@ -9,7 +9,7 @@ subtitle: Budweis · Brewpub
 
 <figure>
   <img src="/photos/czechia/budweis/minipivovar-krajinska-27-1.jpg" alt="Minipivovar Krajinská 27">
-  <figcaption>Minipivovar Krajinská 27</figcaption>
+  <figcaption>Duck Paté</figcaption>
 </figure>
 
 This modern brewpub serves house-brewed craft beer alongside hearty Czech food with a slightly more refined touch. Think pork belly or ribs, but done with a bit more ambition. It's not cheap, but it also feels much more local than touristy. Portions are huge, the IPA is strong, and overall this is pretty much a must in Budweis.
@@ -17,11 +17,11 @@ This modern brewpub serves house-brewed craft beer alongside hearty Czech food w
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/czechia/budweis/minipivovar-krajinska-27-2.jpg" alt="Minipivovar Krajinská 27">
-  <figcaption>Minipivovar Krajinská 27</figcaption>
+  <figcaption>Char Grilled Pork Ribs</figcaption>
 </figure>
 <figure>
   <img src="/photos/czechia/budweis/minipivovar-krajinska-27-3.jpg" alt="Minipivovar Krajinská 27">
-  <figcaption>Minipivovar Krajinská 27</figcaption>
+  <figcaption>Roasted Pork Belly</figcaption>
 </figure>
 </div>
 

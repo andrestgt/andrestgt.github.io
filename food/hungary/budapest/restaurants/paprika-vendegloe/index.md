@@ -9,7 +9,7 @@ subtitle: Budapest · Hungarian Restaurant
 
 <figure>
   <img src="/photos/hungary/budapest/paprika-vendegloe-1.jpg" alt="Paprika Vendéglő">
-  <figcaption>Paprika Vendéglő</figcaption>
+  <figcaption>Roasted Leg of Goose topped with goose liver</figcaption>
 </figure>
 
 Can't go wrong here. Yes, it's touristy, but it tastes and looks like a traditional vendéglő and is the perfect place to sample traditional Hungarian food. The prices are absolutely okay, a soup and a main easily feeds two hungry people. The goose leg, topped with a chunky slice of fatty goose liver, is a must. Friendly service too. My favourite restaurant in Budapest.
@@ -17,18 +17,18 @@ Can't go wrong here. Yes, it's touristy, but it tastes and looks like a traditio
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/hungary/budapest/paprika-vendegloe-3.jpg" alt="Paprika Vendéglő">
-  <figcaption>Paprika Vendéglő</figcaption>
+  <figcaption>Halaszle</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/hungary/budapest/paprika-vendegloe-4.jpg" alt="Paprika Vendéglő">
-  <figcaption>Paprika Vendéglő</figcaption>
+  <figcaption>Roasted leg of goose topped with foie gras</figcaption>
 </figure>
 <figure>
   <img src="/photos/hungary/budapest/paprika-vendegloe-5.jpg" alt="Paprika Vendéglő">
-  <figcaption>Paprika Vendéglő</figcaption>
+  <figcaption>Veal Paprikash</figcaption>
 </figure>
 </div>
 

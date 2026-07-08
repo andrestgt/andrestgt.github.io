@@ -20,7 +20,7 @@ This place is quite a surprise once you make your way through the rather drab co
 </figure>
 <figure>
   <img src="/photos/slovakia/kosice/u-seburgiho-4.jpg" alt="U Seburgiho">
-  <figcaption>U Seburgiho</figcaption>
+  <figcaption>Duck Paté</figcaption>
 </figure>
 </div>
 

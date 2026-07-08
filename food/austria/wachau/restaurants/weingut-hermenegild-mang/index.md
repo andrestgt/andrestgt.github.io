@@ -16,7 +16,7 @@ A beautiful winery and Gasthof in a picturesque village in the Wachau. It's a la
 
 <figure>
   <img src="/photos/austria/wachau/weingut-hermenegild-mang-1.jpg" alt="Weingut Hermenegild Mang">
-  <figcaption>Weingut Hermenegild Mang</figcaption>
+  <figcaption>Jause</figcaption>
 </figure>
 
 ## Ratings

@@ -8,7 +8,7 @@ subtitle: Kraków · Polish Restaurant
 
 <figure>
   <img src="/photos/poland/krakow/przystanek-pierogarnia-1.jpg" alt="Przystanek Pierogarnia">
-  <figcaption>Przystanek Pierogarnia</figcaption>
+  <figcaption>Polish Pierogies</figcaption>
 </figure>
 
 The pierogi are really delicious, and the prices are great. It's a cute little shop, and yes, the hype is justified. For quality and value, this is about as good as it gets.

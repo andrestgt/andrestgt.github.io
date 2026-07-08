@@ -9,14 +9,14 @@ subtitle: Budapest · Neighbourhood Pub
 
 <figure>
   <img src="/photos/hungary/budapest/pepi-soeroezoe-1.jpg" alt="Pépi Söröző">
-  <figcaption>Pépi Söröző</figcaption>
+  <figcaption>Baked Camembert</figcaption>
 </figure>
 
 Seemed at first a little pricey for a neighbourhood pub. But they have a good selection of nice beers and wines, and very tasty home-cooked meals, even fusion dishes like chicken with blue cheese dip. A very local place. No English spoken.
 
 <figure>
   <img src="/photos/hungary/budapest/pepi-soeroezoe-2.jpg" alt="Pépi Söröző">
-  <figcaption>Pépi Söröző</figcaption>
+  <figcaption>Chips with Blue Cheese Dip</figcaption>
 </figure>
 
 ## Ratings

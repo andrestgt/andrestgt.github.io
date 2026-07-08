@@ -8,7 +8,7 @@ subtitle: Kraków · Polish
 
 <figure>
   <img src="/photos/poland/krakow/RTCE17-0819.jpg" alt="Warsztat po Polsku">
-  <figcaption>Warsztat po Polsku</figcaption>
+  <figcaption>Grilled Pork Neck</figcaption>
 </figure>
 
 
@@ -16,7 +16,7 @@ Small place with a mix of tourists and locals, serving simple Polish food. It's 
 
 <figure>
   <img src="/photos/poland/krakow/RTCE17-0818.jpg" alt="Warsztat po Polsku">
-  <figcaption>Warsztat po Polsku</figcaption>
+  <figcaption>Bigos</figcaption>
 </figure>
 
 ## Ratings
