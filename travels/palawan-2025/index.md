@@ -367,7 +367,7 @@ Dinner was at [Carinderia by the Bay](https://andrestgt.github.io/food/philippin
 
 A beach discovery day, riding north along the coast road and having world-class beaches almost entirely to ourselves.
 
-Duli Beach, with sand more brownish than white, attracts a small crowd of surfers and long-stayers drawn by the waves and the generally relaxed lifestyle. It is a very picturesque, coconut-lined beach, and although most of it feels quite secluded, there is a decent choice of bars and restaurants at the northern tip.
+Duli Beach, with sand more brownish than white, attracts a small crowd of surfers and long-termers drawn by the waves and the generally relaxed lifestyle. It is a very picturesque, coconut-lined beach, and although most of it feels quite secluded, there is a decent choice of bars and restaurants at the northern tip.
 
 <figure>
   <img src="photos/SEA25-0452.jpg" alt="Around El Nido - Duli Beach">
