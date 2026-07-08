@@ -23,13 +23,13 @@ A basic German-run eatery with a bar and a nice garden. The one big reason to co
 | Category        | Score  |
 | ---             | ---    |
 | Food            | 5/10   |
-| Service         | 6.5/10 |
+| Service         | 7.5/10 |
 | Value for money | 7.5/10 |
-| Atmosphere      | 7/10   |
-| Overall         | 6/10   |
+| Atmosphere      | 8.5/10   |
+| Overall         | 7/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Majo-Imbiss%20Puerto%20Princesa%20Palawan)
 🍽️ **Type:** German, Bar
-💰 **Price level:** cheap
+💰 **Price level:** ₱ 400-600
