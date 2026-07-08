@@ -19,11 +19,11 @@ Sixteen years after my first long journey through Palawan, we returned to ride t
 
 ## 15 March 2025
 
-We flew in from Manila and reached Puerto Princesa in the afternoon. The bike was already waiting: we had rented a Honda XRM from Palawan Peter Motorcycle (370 pesos per day for thirteen days), and the whole arrangement was as easy and straightforward as motorbike rental gets, very good communication, no passport deposit needed, and the bike delivered to the airport on the evening of our arrival. Highly recommended if you are planning the same trip.
+We flew in from Manila and reached Puerto Princesa in the early evening. The bike was already waiting: we had rented a Honda XRM from Palawan Peter Motorcycle (370 pesos per day for thirteen days), and the whole arrangement was as easy and straightforward as motorbike rental gets, very good communication, no passport deposit needed, and the bike delivered to the airport on the evening of our arrival. 
 
 Our base for the first nights was Filigan's Hotel on Rizal Avenue, a basic RedDoorz place without any charm but clean enough, and at 700 pesos perfectly acceptable for a provincial capital that has never been famous for its accommodation.
 
-Puerto Princesa has grown enormously since 2009, but at its core it is still the same likeable, unhurried town, more a place you pass through than a destination in itself. That said, it has always been a good town for eating, and the first evening confirmed it.
+Puerto Princesa has grown quite a bit since 2009, but at its core it is still the same likeable, unhurried town, a place for practicalities rather than a tourist destination. That said, it has always been a good town for eating, and the first evening confirmed it.
 
 Our first stop was [Palaweño Brewery](https://andrestgt.github.io/food/philippines/puerto-princesa/bars-pubs/palaweno-brewery/), the town's only craft beer microbrewery, a friendly place with a nice garden setting, but with not much choice, barely any food options and hardly any guests. The beer is expensive but tasty, and the place could be great; Puerto, it seems, is simply not ready yet for this kind of thing.
 
@@ -35,7 +35,7 @@ The night ended, well past midnight, at [Tiki Resto Bar](https://andrestgt.githu
 
 ## 16 March 2025
 
-The next day was dedicated to Puerto itself, and mostly to its food. The morning began at [Capheinated](https://andrestgt.github.io/food/philippines/puerto-princesa/cafes/capheinated/), a tiny place serving very authentic Vietnamese cà phê phin; the đen đá is as black as the night and strong enough to curl your toenails. Palawan's Vietnamese heritage, a legacy of the refugee community that settled here in the eighties, survives in these places and in the chaolong joints all over the island, and it is one of the things that make eating here different from the rest of the country.
+The next day was dedicated to Puerto itself, and mostly to its gastronomy. The morning began at [Capheinated](https://andrestgt.github.io/food/philippines/puerto-princesa/cafes/capheinated/), a tiny place serving very authentic Vietnamese cà phê phin; the đen đá is as black as the night and strong enough to curl your toenails. Palawan's Vietnamese heritage, a legacy of the refugee community that settled here in the eighties, survives in these places and in the chaolong joints all over the island, and it is one of the things that make eating here different from the rest of the country.
 
 Lunch was at [Lato](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/lato-coffee-and-restaurant/), an upmarket carinderia with sea views on Puerto's rather forlorn Baywalk. They do a good range of Filipino favourites, kinilaw, ensaladang talong, dinuguan, at prices on the high side for what is essentially canteen style food, but the quality is there and the service is excellent. They even have functioning WiFi, which in this town counts as a rare bonus.
 
@@ -46,7 +46,7 @@ In the late afternoon we rode out to [Neva's Place](https://andrestgt.github.io/
   <em>Puerto Princesa - Neva's Place</em>
 </figure>
 
-The evening brought one of those finds that are great for exactly one reason. [Majo-Imbiss](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/majo-imbiss/) is a basic German eatery with a bar and a nice garden, and their litro bottles of Beer na Beer are very cheap, which alone makes it worth knowing about. The food, sadly, is another matter: not professional, not even tasty amateur home cooking, and the burgers came dry, with cold cheese. Come for the cheap beers, eat elsewhere. Elsewhere, that night, was [Bona's Chao Long Haus](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/bonas-chao-long-haus/), a basic eatery with very tasty, inexpensive chaolong, a great option for a proper bowl of Viet-style noodle soup. The banh mi is better avoided, though, it is nothing like the real thing.
+Our evening started at [Majo-Imbiss](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/majo-imbiss/), a basic German eatery with a bar and a nice garden, and their litro bottles of Beer na Beer are very cheap, which alone makes it worth knowing about. The food, sadly, is another matter: not professional, not even tasty amateur home cooking, and the burgers came dry, with cold cheese. It is a nice place to enjoy some ice cold beers, but dinner is probably better anywhere else. Elsewhere, that night, was [Bona's Chao Long Haus](https://andrestgt.github.io/food/philippines/puerto-princesa/restaurants/bonas-chao-long-haus/), a basic eatery with very tasty, inexpensive chaolong, a great option for a proper bowl of Viet-style noodle soup. The banh mi is better avoided, though, it is nothing like the real thing.
 
 ## 17 March 2025
 
@@ -70,7 +70,7 @@ And so it happened. In 2009 I drank Matador on the beach with the locals, and th
 
 </div>
 
-We checked in at [Dheltor Hilltop](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/), probably the best budget accommodation we found in all of Palawan. The highlight is the lovely little swimming pool, clean, well maintained and never crowded; the bungalows are neat, the shared bathrooms spotless, and the included breakfast surprisingly generous, with both Filipino and Western options. For Port Barton, where accommodation tends to be overpriced, it is a great deal.
+We checked in at [Dheltor Hilltop](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/), probably the best budget accommodation we found in all of Palawan. The highlight is the lovely little swimming pool, clean, well maintained and never crowded; the bungalows are neat, the shared bathrooms spotless, and the included breakfast surprisingly generous, with both Filipino and Western options. For Port Barton, where accommodation tends to be overpriced, it is a great deal for just over 1000 pesos.
 
 <figure>
   <img src="photos/SEA25-0195.jpg" alt="Port Barton - Dheltor Hilltop">
@@ -141,7 +141,7 @@ Sunset drinks were at [The Beach Barn](https://andrestgt.github.io/food/philippi
 
 </div>
 
-Dinner at [Master Chaolong](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/restaurants/master-chaolong/) summed up a certain Filipino restaurant paradox. The place sits right next to Star Apple, the most popular and overpriced restaurant in town, and serves big portions of tasty Vietnamese-Filipino beef noodles and banh-mi-style sandwiches at backpacker prices. It could be a hit. Instead, the uninterested staff, the questionable cleanliness and the uninspired décor make it feel as though they are actively trying to drive customers away. The food deserves better.
+Dinner at [Master Chaolong](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/restaurants/master-chaolong/) was a weird experience. The place sits right next to Star Apple, the most popular and overpriced restaurant in town, and serves big portions of tasty Vietnamese-Filipino beef noodles and banh-mi-style sandwiches at backpacker prices. It could be a hit. Instead, the uninterested staff, the questionable cleanliness and the uninspired décor make it feel as though they are actively trying to drive customers away. The food deserves better.
 
 ## 19 March 2025
 
