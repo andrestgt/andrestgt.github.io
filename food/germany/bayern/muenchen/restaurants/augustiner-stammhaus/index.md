@@ -16,12 +16,12 @@ Very nice traditional place, inside and outside. Beer is quite expensive, but ex
 
 <figure>
   <img src="/photos/germany/muenchen/augustiner-stammhaus-2.jpg" alt="Augustiner Stammhaus">
-  <figcaption>Augustiner Stammhaus</figcaption>
+  <figcaption>Mona Schoch</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/germany/bayern/muenchen/RTCE17-0035.jpg" alt="Augustiner Stammhaus">
-  <figcaption>Augustiner Stammhaus</figcaption>
+  <figcaption>Vesperplatte</figcaption>
 </figure>
 
 ## Ratings

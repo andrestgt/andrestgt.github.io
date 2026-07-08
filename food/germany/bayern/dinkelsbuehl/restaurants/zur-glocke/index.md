@@ -16,11 +16,11 @@ Good god, this place is as old school as it gets. I had no ideas such places sti
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/dinkelsbuehl/zur-glocke-2.jpg" alt="Zur Glocke">
-  <figcaption>Zur Glocke</figcaption>
+  <figcaption>Schweinebraten mit Kartoffelknödel</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/dinkelsbuehl/zur-glocke-3.jpg" alt="Zur Glocke">
-  <figcaption>Zur Glocke</figcaption>
+  <figcaption>Würste mit Kartoffelsalat</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Illingen · Spanish Tapas
 
 <figure>
   <img src="/photos/germany/illingen/petit-bistro-espanol-1.jpg" alt="Petit Bistro Español">
-  <figcaption>Pan con Tomate</figcaption>
+  <figcaption>Tortilla</figcaption>
 </figure>
 
 I was both delighted and surprised to find such a great little Spanish tapas place in Illingen, run by an actual Spaniard - not something you'd expect in small-town Saarland. The menu is pleasantly short and focuses on Spanish classics. What they call tapas are really raciones: portions are quite large, probably because real tapas sizes would feel too small for most Germans. As a result, we ordered far too much.

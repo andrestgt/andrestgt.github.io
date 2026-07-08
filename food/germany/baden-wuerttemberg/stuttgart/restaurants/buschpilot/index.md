@@ -8,7 +8,7 @@ subtitle: Stuttgart · Beer Garden
 
 <figure>
   <img src="/photos/germany/stuttgart/buschpilot-1.jpg" alt="Buschpilot">
-  <figcaption>Wurstsalat</figcaption>
+  <figcaption>Vesperplatte</figcaption>
 </figure>
 
 This is a lovely beer garden inside a rather large park not too far from downtown Stuttgart. It's very popular so it's not easy to get a table, especially on warm spring or summer days. Staff can be a bit surly here, too.

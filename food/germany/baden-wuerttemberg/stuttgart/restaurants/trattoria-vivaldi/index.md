@@ -8,7 +8,7 @@ subtitle: Stuttgart · Italian
 
 <figure>
   <img src="/photos/germany/stuttgart/trattoria-vivaldi-1.jpg" alt="Trattoria Vivaldi">
-  <figcaption>Tagliatelle di Polpo</figcaption>
+  <figcaption>Squid Tagliatelle</figcaption>
 </figure>
 
 Good Italian food at affordable prices. The lunch specials are outstanding value, often under 7€. The place has survived in this location for a long time, so they must be doing something right

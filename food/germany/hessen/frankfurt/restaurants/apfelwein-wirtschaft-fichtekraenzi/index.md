@@ -16,11 +16,11 @@ Honest local food in large portions at reasonable prices. Apple wine is definite
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/frankfurt/apfelwein-wirtschaft-fichtekraenzi-2.jpg" alt="Apfelwein-Wirtschaft Fichtekränzi">
-  <figcaption>Apfelwein-Wirtschaft Fichtekränzi</figcaption>
+  <figcaption>Boiled Ox Breast</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/frankfurt/apfelwein-wirtschaft-fichtekraenzi-3.jpg" alt="Apfelwein-Wirtschaft Fichtekränzi">
-  <figcaption>Apfelwein-Wirtschaft Fichtekränzi</figcaption>
+  <figcaption>Spundekäs</figcaption>
 </figure>
 </div>
 

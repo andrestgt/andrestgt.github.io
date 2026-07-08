@@ -20,7 +20,7 @@ A pleasant traditional Swabian beer garden with hot food served all day and a go
 </figure>
 <figure>
   <img src="/photos/germany/lauffen/daechle-3.jpg" alt="Dächle – Das schwäbische Wirtshaus">
-  <figcaption>Rostbraten</figcaption>
+  <figcaption>Maultasche und Schnitzel</figcaption>
 </figure>
 </div>
 

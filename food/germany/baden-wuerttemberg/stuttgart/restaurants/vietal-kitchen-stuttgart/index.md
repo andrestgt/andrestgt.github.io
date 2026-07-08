@@ -15,7 +15,7 @@ Outstanding healthy food, mostly Asian/Vietnamese influenced. Quite chic for the
 
 <figure>
   <img src="/photos/germany/stuttgart/vietal-kitchen-stuttgart-2.jpg" alt="Vietal Kitchen Stuttgart">
-  <figcaption>Kokosnusssuppe</figcaption>
+  <figcaption>Rindfleisch Mango Salat</figcaption>
 </figure>
 
 ## Ratings

@@ -8,7 +8,7 @@ subtitle: Nuremberg · Franconian, Traditional
 
 <figure>
   <img src="/photos/germany/nuernberg/goldenes-posthorn-1.jpg" alt="Goldenes Posthorn">
-  <figcaption>Goldenes Posthorn</figcaption>
+  <figcaption>Ochsenbäckle in Rotweinsauce mit Brenknödel</figcaption>
 </figure>
 
 Traditional restaurant dating back to medieval times, famous and very popular with visitors. Fortunately, it's also really good. The food and wine are both nice, prices are reasonable, and despite the fame the place still has plenty of atmosphere.
@@ -16,7 +16,7 @@ Traditional restaurant dating back to medieval times, famous and very popular wi
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/germany/nuernberg/goldenes-posthorn-2.jpg" alt="Goldenes Posthorn">
-  <figcaption>Goldenes Posthorn</figcaption>
+  <figcaption>Nürnberger Würste</figcaption>
 </figure>
 <figure>
   <img src="/photos/germany/nuernberg/goldenes-posthorn-3.jpg" alt="Goldenes Posthorn">
