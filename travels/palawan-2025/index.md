@@ -507,19 +507,10 @@ After a last quiet morning on Bucana Beach we moved into town, to The Only Place
 
 In 2009 my main complaint about El Nido was the overpriced accommodation in a town that had just started to become popular. Whatever complaints I had back then seem laughable now: El Nido today is a full-blown resort town, wall-to-wall with hostels, tour agencies and backpacker bars. The setting, those dramatic limestone cliffs rising straight behind the town, remains as spectacular as ever; everything in between has changed.
 
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/SEA25-0553.jpg" alt="El Nido">
-    <em>El Nido</em>
-  </figure>
-
-  <figure>
-    <img src="photos/SEA25-0559.jpg" alt="El Nido">
-    <em>El Nido</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/SEA25-0553.jpg" alt="El Nido">
+  <em>El Nido</em>
+</figure>
 
 <figure>
   <img src="photos/SEA25-0549.jpg" alt="El Nido">
@@ -535,6 +526,11 @@ After ten days of travelling the hard way, we spent today simply taking full adv
 In the afternoon we paid a nostalgic visit to the [El Nido Boutique Artcafe](https://andrestgt.github.io/food/philippines/el-nido/restaurants/el-nido-boutique-artcafe/). When I first came here in the late 00s, the Art Café had unique selling points that sound exotic today: things like cappuccino and WiFi. It was pricier than the competition but a notch above in everything. Nowadays it feels like a relic, a dinosaur whose sheer size makes it stand out in a town of small places. It is no longer the travellers' focal point, but it still gets things right: the décor is nicer than it used to be, prices are now on par with the competition, the second-floor terrace has pleasant views, and in a town not exactly famous for exceptional food, the food here is better than it used to be.
 
 Later we stopped for beers at [Odessa Mama](https://andrestgt.github.io/food/philippines/el-nido/bars-pubs/odessa-mama/), the only craft beer microbrewery in El Nido, and a good one: nice beers, the best in town. I like Ukrainian food, but the prices here were too steep for me, so we stuck to the beer. A sign at the door announces that Russians are not welcome, which, considering the circumstances, is fair enough.
+
+<figure>
+  <img src="photos/SEA25-0559.jpg" alt="El Nido">
+  <em>El Nido</em>
+</figure>
 
 Sunset drinks at the [Yacht Wreck Bar](https://andrestgt.github.io/food/philippines/el-nido/bars-pubs/yacht-wreck-bar/), the cheapest spot with a prime seaside location in town. Strangely you will not find many backpackers here, they seem to prefer the pricier, posher places with louder music, which suits us fine: this rustic beach bar has vibes of the old El Nido from the 00s. The only drawback is that they serve no food at all with the drinks, not even basic pulutan.
 
