@@ -16,7 +16,7 @@ Longstanding Melaka institution in a prime Old Town location. The food is mostly
 
 <figure>
   <img src="/photos/malaysia/melaka/geographer-cafe-1.jpg" alt="Geographér Café">
-  <figcaption>Geographér Café</figcaption>
+  <figcaption>Curry Ramen</figcaption>
 </figure>
 
 

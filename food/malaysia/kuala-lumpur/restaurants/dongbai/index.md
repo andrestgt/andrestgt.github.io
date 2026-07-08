@@ -17,25 +17,25 @@ Cute little family-run restaurant specialising in handmade noodles, dumplings an
   <div style="flex: 1; min-width: 200px;">
     <figure>
       <img src="/photos/malaysia/kuala-lumpur/KL14-0025.jpg" alt="Dongbai" style="width: 100%;">
-      <figcaption>Dongbai</figcaption>
+      <figcaption>Spicy Mutton</figcaption>
     </figure>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <figure>
       <img src="/photos/malaysia/kuala-lumpur/KL14-0026.jpg" alt="Dongbai" style="width: 100%;">
-      <figcaption>Dongbai</figcaption>
+      <figcaption>Pork Noodle Soup</figcaption>
     </figure>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <figure>
       <img src="/photos/malaysia/kuala-lumpur/KL14-0027.jpg" alt="Dongbai" style="width: 100%;">
-      <figcaption>Dongbai</figcaption>
+      <figcaption>Manchurian Chicken</figcaption>
     </figure>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <figure>
       <img src="/photos/malaysia/kuala-lumpur/KL14-0028.jpg" alt="Dongbai" style="width: 100%;">
-      <figcaption>Dongbai</figcaption>
+      <figcaption>Jiaoze</figcaption>
     </figure>
   </div>
 </div>

@@ -8,7 +8,7 @@ subtitle: Jalan Hang Jebat, Melaka · Café
 
 <figure>
   <img src="/photos/malaysia/melaka/the-daily-fix-cafe-4.jpg" alt="The Daily Fix Cafe">
-  <figcaption>The Daily Fix Cafe</figcaption>
+  <figcaption>Durian Pancakes</figcaption>
 </figure>
 
 

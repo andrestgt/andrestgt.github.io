@@ -16,11 +16,11 @@ One of Cenang/Tengah's classiest eateries, slightly let down by the strip mall l
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/langkawi/sun-cafe-4.jpg" alt="Sun Cafe">
-  <figcaption>Sun Cafe</figcaption>
+  <figcaption>Thai Beef Salad</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/langkawi/sun-cafe-3.jpg" alt="Sun Cafe">
-  <figcaption>Sun Cafe</figcaption>
+  <figcaption>Beef Rendang</figcaption>
 </figure>
 </div>
 

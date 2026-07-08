@@ -8,7 +8,7 @@ subtitle: Bukit Bintang, KL · Specialty Coffee
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/feeka-coffee-roasters-1.jpg" alt="Feeka Coffee Roasters">
-  <figcaption>Feeka Coffee Roasters</figcaption>
+  <figcaption>Lamb Kofta with Pita</figcaption>
 </figure>
 
 Lovely café tucked away in the quieter residential side of Bukit Bintang. The cappuccino here is smooth, properly prepared and among the better ones in Kuala Lumpur at around 11 RM. Their lamb kofta is excellent as well.
@@ -16,11 +16,11 @@ Lovely café tucked away in the quieter residential side of Bukit Bintang. The c
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/feeka-coffee-roasters-2.jpg" alt="Feeka Coffee Roasters">
-  <figcaption>Feeka Coffee Roasters</figcaption>
+  <figcaption>Lamb Kofta</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/feeka-coffee-roasters-3.jpg" alt="Feeka Coffee Roasters">
-  <figcaption>Feeka Coffee Roasters</figcaption>
+  <figcaption>Eggs Benedict</figcaption>
 </figure>
 </div>
 

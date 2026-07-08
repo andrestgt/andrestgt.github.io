@@ -16,11 +16,11 @@ The famous chicken wings really are worth the hype and I did not find the servic
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/wong-ah-wah-restaurant-2.jpg" alt="Wong Ah Wah Restaurant">
-  <figcaption>Wong Ah Wah Restaurant</figcaption>
+  <figcaption>Grilled Chicken Wings</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/wong-ah-wah-restaurant-3.jpg" alt="Wong Ah Wah Restaurant">
-  <figcaption>Wong Ah Wah Restaurant</figcaption>
+  <figcaption>Char Koay Teow</figcaption>
 </figure>
 </div>
 

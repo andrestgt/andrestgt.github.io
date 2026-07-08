@@ -8,7 +8,7 @@ subtitle: Pantai Cenang, Langkawi · Fusion, Tapas
 
 <figure>
   <img src="/photos/malaysia/langkawi/tapaz-langkawi-1.jpg" alt="Tapaz Langkawi">
-  <figcaption>Tapaz Langkawi</figcaption>
+  <figcaption>Chicken Paté</figcaption>
 </figure>
 
 Shocking service and very limited wine selection, which is a shame, because this marina-side restaurant serves really good, reasonably priced food in a great location. Chicken liver, squid salad, lamb balls, all wonderful. Cheap happy hour beers. Maybe during high season the staff are less sleepy. Still, recommended.
@@ -16,11 +16,11 @@ Shocking service and very limited wine selection, which is a shame, because this
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/langkawi/tapaz-langkawi-2.jpg" alt="Tapaz Langkawi">
-  <figcaption>Tapaz Langkawi</figcaption>
+  <figcaption>Chicken Paté</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/langkawi/tapaz-langkawi-4.jpg" alt="Tapaz Langkawi">
-  <figcaption>Tapaz Langkawi</figcaption>
+  <figcaption>Albondigas</figcaption>
 </figure>
 </div>
 

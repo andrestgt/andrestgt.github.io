@@ -8,7 +8,7 @@ subtitle: Jalan Wan Alwi, Kuching · Café
 
 <figure>
   <img src="/photos/malaysia/kuching/caffe-ti-amo-1.jpg" alt="Caffè Ti Amo">
-  <figcaption>Caffè Ti Amo</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Very well prepared Illy cappuccinos by staff who clearly know what they are doing. Comfortable seating and fast WiFi make it a good place to spend some time, although the mall location lacks a bit of charm and prices are on the higher side for Kuching.

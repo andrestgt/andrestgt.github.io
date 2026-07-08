@@ -15,7 +15,7 @@ New gastro bar right by the bridge in Ipoh's Old Town, a great location and the 
 
 <figure>
   <img src="/photos/malaysia/ipoh/tin-corner-39-2.jpg" alt="Tin Corner 39">
-  <figcaption>Tin Corner 39</figcaption>
+  <figcaption>Unagi Bowl</figcaption>
 </figure>
 
 ## Ratings

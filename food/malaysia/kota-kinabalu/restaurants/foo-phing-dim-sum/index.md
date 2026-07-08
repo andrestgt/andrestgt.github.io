@@ -8,7 +8,7 @@ subtitle: Luyang, Kota Kinabalu · Chinese, Dim Sum
 
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/foo-phing-dim-sum-1.jpg" alt="Foo Phing Dim Sum">
-  <figcaption>Foo Phing Dim Sum</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 Cantonese dim sum, traditional with dim sum trolley and all. Good quality, reasonable prices, well worth the trip out. RM15 per person pays for a feast of dim sum.
@@ -16,11 +16,11 @@ Cantonese dim sum, traditional with dim sum trolley and all. Good quality, reaso
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/foo-phing-dim-sum-2.jpg" alt="Foo Phing Dim Sum">
-  <figcaption>Foo Phing Dim Sum</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/foo-phing-dim-sum-3.jpg" alt="Foo Phing Dim Sum">
-  <figcaption>Foo Phing Dim Sum</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 </div>
 

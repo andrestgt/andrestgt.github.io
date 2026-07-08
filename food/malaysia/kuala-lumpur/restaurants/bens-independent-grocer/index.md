@@ -8,7 +8,7 @@ subtitle: Publika, KL · Specialty Food & Coffee
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/Malaysia16-0002.jpg" alt="Ben's Independent Grocer">
-  <figcaption>Ben's Independent Grocer</figcaption>
+  <figcaption>Fresh Oysters</figcaption>
 </figure>
 
 One of the best supermarkets anywhere in the region. The selection is enormous and there is very little you cannot find here, including a fantastic variety of imported products, wines. There is even a proper espresso bar, and most importantly Shucked, an oyster bar with an excellent selection.
@@ -17,7 +17,7 @@ One of the best supermarkets anywhere in the region. The selection is enormous a
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/KL17-0003.jpg" alt="Ben's Independent Grocer">
-  <figcaption>Ben's Independent Grocer</figcaption>
+  <figcaption>Fresh Oysters</figcaption>
 </figure>
 
 ## Ratings

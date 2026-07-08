@@ -22,7 +22,7 @@ This popular Old Town café is a bit cramped, but they offer quality food and ve
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/ipoh/auds-cafe-3.jpg" alt="Aud's Cafe">
-  <figcaption>Aud's Cafe</figcaption>
+  <figcaption>Spicy pasta with crispy chicharon</figcaption>
 </figure>
 </div>
 

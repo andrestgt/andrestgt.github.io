@@ -8,7 +8,7 @@ subtitle: Jalan Chan Chin Ann, Kuching · Sarawakian
 
 <figure>
   <img src="/photos/malaysia/kuching/chong-choon-cafe-1.jpg" alt="Chong Choon Cafe">
-  <figcaption>Chong Choon Cafe</figcaption>
+  <figcaption>Sarawak Laksa</figcaption>
 </figure>
 
 Classic old-school breakfast institution that is permanently crowded for good reason. The Sarawak laksa and kolok mee here are both excellent and absolutely essential when visiting Kuching.
@@ -16,11 +16,11 @@ Classic old-school breakfast institution that is permanently crowded for good re
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/chong-choon-cafe-2.jpg" alt="Chong Choon Cafe">
-  <figcaption>Chong Choon Cafe</figcaption>
+  <figcaption>Roasted Pork Wonton Noodles</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/chong-choon-cafe-3.jpg" alt="Chong Choon Cafe">
-  <figcaption>Chong Choon Cafe</figcaption>
+  <figcaption>Linh Truong</figcaption>
 </figure>
 </div>
 

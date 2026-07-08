@@ -8,7 +8,7 @@ subtitle: Old Town, Ipoh · Chinese
 
 <figure>
   <img src="/photos/malaysia/ipoh/restoran-thean-chun-1.jpg" alt="Restoran Thean Chun">
-  <figcaption>Restoran Thean Chun</figcaption>
+  <figcaption>Chicken and Pork Satay</figcaption>
 </figure>
 
 Old school Old Town eatery packed all day with locals and day trippers. Little English spoken but friendly and helpful. The satay at RM1 per piece is excellent (they even do pork), the sauce is to die for. Good popiah and chee cheong fun. Their famous Ipoh sar hor fun (chicken and prawn noodle soup, RM7) was inconsistent, bland on the first visit, flavourful and delicious on the second morning. Touristy these days, but the location is great and the food is good.
@@ -16,17 +16,17 @@ Old school Old Town eatery packed all day with locals and day trippers. Little E
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/ipoh/restoran-thean-chun-2.jpg" alt="Restoran Thean Chun">
-  <figcaption>Restoran Thean Chun</figcaption>
+  <figcaption>Popiah</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/ipoh/restoran-thean-chun-3.jpg" alt="Restoran Thean Chun">
-  <figcaption>Restoran Thean Chun</figcaption>
+  <figcaption>Chicken Hor Fun</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/malaysia/ipoh/restoran-thean-chun-4.jpg" alt="Restoran Thean Chun">
-  <figcaption>Restoran Thean Chun</figcaption>
+  <figcaption>Chee Cheong Fun</figcaption>
 </figure>
 
 ## Ratings

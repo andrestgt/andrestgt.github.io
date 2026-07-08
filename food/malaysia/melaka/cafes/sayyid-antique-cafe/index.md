@@ -15,7 +15,7 @@ Interesting antiques shop that also functions as a café and small restaurant. T
 
 <figure>
   <img src="/photos/malaysia/melaka/sayyid-antique-cafe-3.jpg" alt="Sayyid Antique & Cafe">
-  <figcaption>Sayyid Antique & Cafe</figcaption>
+  <figcaption>Nonya Laksa</figcaption>
 </figure>
 
 

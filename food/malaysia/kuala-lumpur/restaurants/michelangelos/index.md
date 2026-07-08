@@ -16,11 +16,11 @@ A pleasant place for people watching with surprisingly decent house wines during
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/michelangelos-2.jpg" alt="Michelangelo's Ristorante Italiano">
-  <figcaption>Michelangelo's Ristorante Italiano</figcaption>
+  <figcaption>Ravioli Ragú</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/michelangelos-3.jpg" alt="Michelangelo's Ristorante Italiano">
-  <figcaption>Michelangelo's Ristorante Italiano</figcaption>
+  <figcaption>Avocado Prawn Tagliatelle</figcaption>
 </figure>
 </div>
 

@@ -8,7 +8,7 @@ subtitle: Tabuan Rd, Kuching · International
 
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-1.jpg" alt="Zinc Restaurant & Bar">
-  <figcaption>Zinc Restaurant & Bar</figcaption>
+  <figcaption>Escargots</figcaption>
 </figure>
 
 Excellent casual fine dining restaurant with an intimate atmosphere, friendly service and genuinely impressive food. We enjoyed it so much that we returned the following day. Everything we tried, from the foie gras to the laksa pizza and escargots, was superb. Around RM80 per person including drinks feels very fair for the quality on offer.
@@ -16,11 +16,11 @@ Excellent casual fine dining restaurant with an intimate atmosphere, friendly se
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-2.jpg" alt="Zinc Restaurant & Bar">
-  <figcaption>Zinc Restaurant & Bar</figcaption>
+  <figcaption>Foie Gras Poêlé</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-3.jpg" alt="Zinc Restaurant & Bar">
-  <figcaption>Zinc Restaurant & Bar</figcaption>
+  <figcaption>Laksa Pizza</figcaption>
 </figure>
 </div>
 
@@ -42,24 +42,24 @@ Excellent casual fine dining restaurant with an intimate atmosphere, friendly se
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-7.jpg" alt="Zinc Restaurant & Bar">
-  <figcaption>Zinc Restaurant & Bar</figcaption>
+  <figcaption>Boquerones</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-8.jpg" alt="Zinc Restaurant & Bar">
-  <figcaption>Zinc Restaurant & Bar</figcaption>
+  <figcaption>Moules</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-9.jpg" alt="Zinc Restaurant & Bar">
-  <figcaption>Zinc Restaurant & Bar</figcaption>
+  <figcaption>Beef Carpaccio</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/malaysia/kuching/zinc-restaurant-10.jpg" alt="Zinc Restaurant & Bar">
-  <figcaption>Zinc Restaurant & Bar</figcaption>
+  <figcaption>Terrine de Foie Gras</figcaption>
 </figure>
 
 ## Ratings

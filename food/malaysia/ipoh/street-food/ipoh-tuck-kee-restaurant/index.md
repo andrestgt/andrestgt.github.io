@@ -15,7 +15,7 @@ This super popular eatery is famous for their big plates of heart attack noodle 
 
 <figure>
   <img src="/photos/malaysia/ipoh/ipoh-tuck-kee-restaurant-2.jpg" alt="Ipoh Tuck Kee Restaurant">
-  <figcaption>Ipoh Tuck Kee Restaurant</figcaption>
+  <figcaption>Yu Keng Hor</figcaption>
 </figure>
 
 ## Ratings

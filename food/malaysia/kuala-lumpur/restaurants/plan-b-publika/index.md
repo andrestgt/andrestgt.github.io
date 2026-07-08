@@ -8,14 +8,14 @@ subtitle: Publika, KL · Fusion
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/Malaysia16-0035.jpg" alt="Plan B Publika">
-  <figcaption>Plan B Publika</figcaption>
+  <figcaption>Nasi Lemak</figcaption>
 </figure>
 
 Both the nasi lemak and unagi don I tried here were creative and very well executed interpretations of familiar dishes. Coffee is better downstairs at the roastery branch, but the food here is really delicious, if rather expensive.
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/Malaysia16-0036.jpg" alt="Plan B Publika">
-  <figcaption>Plan B Publika</figcaption>
+  <figcaption>Unagi Bowl</figcaption>
 </figure>
 
 ## Ratings

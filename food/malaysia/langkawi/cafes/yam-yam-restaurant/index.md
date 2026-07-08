@@ -8,7 +8,7 @@ subtitle: Pantai Tengah, Langkawi · Café
 
 <figure>
   <img src="/photos/malaysia/langkawi/yam-yam-restaurant-1.jpg" alt="Yam Yam Chinese Restaurant">
-  <figcaption>Yam Yam Chinese Restaurant</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Despite the misleading name, this is really more of a café and still probably the best place for coffee in Langkawi. The cappuccinos are very good and reason enough to visit. The food menu is fairly ordinary, however, and the added service charge feels slightly odd in such a casual setting.

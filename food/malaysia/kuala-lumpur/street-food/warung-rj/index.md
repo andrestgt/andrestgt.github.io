@@ -8,14 +8,14 @@ subtitle: Jalan Alor, KL · Malay
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/warung-rj-1.jpg" alt="Warung R&J">
-  <figcaption>Warung R&J</figcaption>
+  <figcaption>Nasi Lemak</figcaption>
 </figure>
 
 Jalan Alor is dominated by tourist-oriented seafood restaurants, but if you continue towards the parking area you will find this much more local place serving good nasi lemak, nasi goreng and char kway teow for well under 10 RM a dish. Cheap, tasty and refreshingly unpretentious.
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/warung-rj-2.jpg" alt="Warung R&J">
-  <figcaption>Warung R&J</figcaption>
+  <figcaption>Char Koay Teow</figcaption>
 </figure>
 
 ## Ratings

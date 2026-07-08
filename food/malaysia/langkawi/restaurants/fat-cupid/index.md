@@ -8,7 +8,7 @@ subtitle: Pantai Tengah · Malay
 
 <figure>
   <img src="/photos/malaysia/langkawi/fat-cupid-2.jpg" alt="Fat Cupid Café & Restaurant">
-  <figcaption>Fat Cupid Café & Restaurant</figcaption>
+  <figcaption>Assam Pedas</figcaption>
 </figure>
 
 
@@ -18,14 +18,14 @@ Beautifully designed restaurant with excellent atmosphere and impressive present
 
 <figure>
   <img src="/photos/malaysia/langkawi/fat-cupid-3.jpg" alt="Fat Cupid Café & Restaurant">
-  <figcaption>Fat Cupid Café & Restaurant</figcaption>
+  <figcaption>Beef Rendang</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/langkawi/fat-cupid-4.jpg" alt="Fat Cupid Café & Restaurant">
-  <figcaption>Fat Cupid Café & Restaurant</figcaption>
+  <figcaption>Nasi Sambal Udang</figcaption>
 </figure>
 </div>
 

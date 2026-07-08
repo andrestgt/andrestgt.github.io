@@ -8,14 +8,14 @@ subtitle: The Starhill, Bukit Bintang · Chinese, Dim Sum
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/luk-yu-tea-house-1.jpg" alt="Luk Yu Tea House">
-  <figcaption>Luk Yu Tea House</figcaption>
+  <figcaption>Cheong Fun</figcaption>
 </figure>
 
 The dim sum selection is not particularly extensive, but quality is undeniably high and the atmosphere wonderfully elegant. Beverage prices, however, are bordering on absurd.
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/luk-yu-tea-house-2.jpg" alt="Luk Yu Tea House">
-  <figcaption>Luk Yu Tea House</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 ## Ratings

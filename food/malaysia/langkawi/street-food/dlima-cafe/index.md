@@ -8,7 +8,7 @@ subtitle: Pantai Cenang, Langkawi · Malay, Thai
 
 <figure>
   <img src="/photos/malaysia/langkawi/dlima-cafe-1.jpg" alt="D'Lima Cafe">
-  <figcaption>D'Lima Cafe</figcaption>
+  <figcaption>Prawn Fried Rice</figcaption>
 </figure>
 
 Convenient little café in central Cenang serving standard Malay and Thai dishes at reasonable prices. Nothing stands out particularly, but it is a perfectly fine option for a quick inexpensive meal.
@@ -16,11 +16,11 @@ Convenient little café in central Cenang serving standard Malay and Thai dishes
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/langkawi/dlima-cafe-2.jpg" alt="D'Lima Cafe">
-  <figcaption>D'Lima Cafe</figcaption>
+  <figcaption>Char Koay Teow Udang</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/langkawi/dlima-cafe-3.jpg" alt="D'Lima Cafe">
-  <figcaption>D'Lima Cafe</figcaption>
+  <figcaption>Chicken Noodle Soup</figcaption>
 </figure>
 </div>
 

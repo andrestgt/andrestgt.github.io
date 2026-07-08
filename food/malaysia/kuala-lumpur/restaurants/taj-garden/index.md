@@ -15,7 +15,7 @@ Clean and slightly sterile mid-range Indian restaurant in Little India with an o
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/taj-garden-2.jpg" alt="Taj Garden">
-  <figcaption>Taj Garden</figcaption>
+  <figcaption>Garlic Naan</figcaption>
 </figure>
 
 ## Ratings

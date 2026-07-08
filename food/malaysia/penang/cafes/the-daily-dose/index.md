@@ -15,12 +15,12 @@ Another excellent Old Town café with good air conditioning, very decent cappucc
 
 <figure>
   <img src="/photos/malaysia/penang/the-daily-dose-2.jpg" alt="The Daily Dose">
-  <figcaption>The Daily Dose</figcaption>
+  <figcaption>Steamed Dumplings</figcaption>
 </figure>
 
 <figure>
   <img src="/photos/malaysia/penang/the-daily-dose-3.jpg" alt="The Daily Dose">
-  <figcaption>The Daily Dose</figcaption>
+  <figcaption>Fried Chicken Nuggets</figcaption>
 </figure>
 
 

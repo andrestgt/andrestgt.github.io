@@ -16,22 +16,22 @@ Fantastic little bistro and wine bar. Small menu of delicious Mediterranean dish
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-4.jpg" alt="Meet+Wine">
-  <figcaption>Meet+Wine</figcaption>
+  <figcaption>Grilled Squid</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-5.jpg" alt="Meet+Wine">
-  <figcaption>Meet+Wine</figcaption>
+  <figcaption>Pulpitos</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-6.jpg" alt="Meet+Wine">
-  <figcaption>Meet+Wine</figcaption>
+  <figcaption>Cheese Platter</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kota-kinabalu/meet-and-wine-7.jpg" alt="Meet+Wine">
-  <figcaption>Meet+Wine</figcaption>
+  <figcaption>Lamb Ragú Pasta</figcaption>
 </figure>
 </div>
 

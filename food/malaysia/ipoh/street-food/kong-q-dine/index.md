@@ -8,14 +8,14 @@ subtitle: Old Town, Ipoh · Malaysian, Chinese
 
 <figure>
   <img src="/photos/malaysia/ipoh/kong-q-dine-1.jpg" alt="Kong Q Dine">
-  <figcaption>Kong Q Dine</figcaption>
+  <figcaption>Chicken Hor Fun</figcaption>
 </figure>
 
 This uber friendly place may not have the history or popularity of some other eateries in Ipoh's Old Town, but it's a good choice, especially during peak hours when it's nigh impossible to get a table elsewhere. They have a small menu of local favourites such as Nyonya curry mee and their version of the local specialty chicken hor fun was as good as the famous one at Thean Chun. Reasonable prices, with some excellent lunch deals.
 
 <figure>
   <img src="/photos/malaysia/ipoh/kong-q-dine-2.jpg" alt="Kong Q Dine">
-  <figcaption>Kong Q Dine</figcaption>
+  <figcaption>Nyonya Curry Mee</figcaption>
 </figure>
 
 ## Ratings

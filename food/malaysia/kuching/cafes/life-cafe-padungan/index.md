@@ -8,14 +8,14 @@ subtitle: Jalan Padungan, Kuching · Café
 
 <figure>
   <img src="/photos/malaysia/kuching/life-cafe-padungan-1.jpg" alt="Life Cafe Padungan">
-  <figcaption>Life Cafe Padungan</figcaption>
+  <figcaption>Cappuccino</figcaption>
 </figure>
 
 Nicely decorated café serving tasty Chinese-Malay fusion dishes at reasonable prices. Works equally well for a full meal or just a light snack and drink during the afternoon.
 
 <figure>
   <img src="/photos/malaysia/kuching/life-cafe-padungan-2.jpg" alt="Life Cafe Padungan">
-  <figcaption>Life Cafe Padungan</figcaption>
+  <figcaption>Lamb Curry</figcaption>
 </figure>
 
 ## Ratings

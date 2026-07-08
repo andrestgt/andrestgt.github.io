@@ -8,14 +8,14 @@ subtitle: Bukit Bintang, KL · Indian, Malay
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/tgs-bistro-1.jpg" alt="TG's Bistro">
-  <figcaption>TG's Bistro</figcaption>
+  <figcaption>Nasi Kandar</figcaption>
 </figure>
 
 A very useful place to know in Bukit Bintang if you want inexpensive Indian-Malay food in an area dominated by pricier international restaurants. The tandoor dishes and breads are consistently good and the self-service nasi kandar selection is varied and remarkably cheap.
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/tgs-bistro-2.jpg" alt="TG's Bistro">
-  <figcaption>TG's Bistro</figcaption>
+  <figcaption>Chicken Tikka</figcaption>
 </figure>
 
 ## Ratings

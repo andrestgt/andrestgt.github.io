@@ -8,7 +8,7 @@ subtitle: Jalan Padungan, Kuching · Chinese, Malay
 
 <figure>
   <img src="/photos/malaysia/kuching/kapit-cafe-1.jpg" alt="Kapit Cafe">
-  <figcaption>Kapit Cafe</figcaption>
+  <figcaption>Achim Mohr</figcaption>
 </figure>
 
 Simple kopitiam in a convenient location serving very good duck dishes at extremely fair prices. Straightforward and easy to recommend.
@@ -16,17 +16,17 @@ Simple kopitiam in a convenient location serving very good duck dishes at extrem
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/kapit-cafe-2.jpg" alt="Kapit Cafe">
-  <figcaption>Kapit Cafe</figcaption>
+  <figcaption>Duck Fried Rice</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/kapit-cafe-3.jpg" alt="Kapit Cafe">
-  <figcaption>Kapit Cafe</figcaption>
+  <figcaption>Duck Fried Rice</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/malaysia/kuching/kapit-cafe-4.jpg" alt="Kapit Cafe">
-  <figcaption>Kapit Cafe</figcaption>
+  <figcaption>Char Koay Teow</figcaption>
 </figure>
 
 ## Ratings

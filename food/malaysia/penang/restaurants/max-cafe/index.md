@@ -8,14 +8,14 @@ subtitle: Sungai Dua, Penang · Chinese, Dim Sum
 
 <figure>
   <img src="/photos/malaysia/penang/Malaysia15-0323.jpg" alt="Max Cafe">
-  <figcaption>Max Cafe</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 The Thai duck appetiser is particularly good here, and while the dim sum may not look especially refined, they taste excellent and remain very reasonably priced.
 
 <figure>
   <img src="/photos/malaysia/penang/Malaysia15-0324.jpg" alt="Max Cafe">
-  <figcaption>Max Cafe</figcaption>
+  <figcaption>Duck Salad</figcaption>
 </figure>
 
 ## Ratings

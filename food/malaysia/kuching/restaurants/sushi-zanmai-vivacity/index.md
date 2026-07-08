@@ -16,17 +16,17 @@ The same dependable quality found at Sushi Zanmai branches in Kuala Lumpur. Pric
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/sushi-zanmai-vivacity-2.jpg" alt="Sushi Zanmai – Vivacity Megamall">
-  <figcaption>Sushi Zanmai – Vivacity Megamall</figcaption>
+  <figcaption>Salmon Sushi</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/sushi-zanmai-vivacity-3.jpg" alt="Sushi Zanmai – Vivacity Megamall">
-  <figcaption>Sushi Zanmai – Vivacity Megamall</figcaption>
+  <figcaption>Salmon Avocado Salad</figcaption>
 </figure>
 </div>
 
 <figure>
   <img src="/photos/malaysia/kuching/sushi-zanmai-vivacity-4.jpg" alt="Sushi Zanmai – Vivacity Megamall">
-  <figcaption>Sushi Zanmai – Vivacity Megamall</figcaption>
+  <figcaption>Grilled Oyster</figcaption>
 </figure>
 
 ## Ratings

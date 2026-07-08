@@ -8,7 +8,7 @@ subtitle: KLIA, Sepang · Café
 
 <figure>
   <img src="/photos/malaysia/sepang/the-living-room-1.jpg" alt="The Living Room">
-  <figcaption>The Living Room</figcaption>
+  <figcaption>Nasi Lemak</figcaption>
 </figure>
 
 Comfortable airport café that works perfectly while waiting for a flight. Espresso drinks are surprisingly reasonably priced for an airport and the cappuccino is actually quite good. They also do a tasty nasi lemak, the ideal airport snack. 

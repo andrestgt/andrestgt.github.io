@@ -8,7 +8,7 @@ subtitle: NU Sentral, KL · Nyonya
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/peranakan-place-signature-1.jpg" alt="Peranakan Place Signature">
-  <figcaption>Peranakan Place Signature</figcaption>
+  <figcaption>Beef Rendang with Pandan Rice</figcaption>
 </figure>
 
 Popular Nyonya chain serving bold, pungent flavours that thankfully have not been toned down for mall audiences. The rendang with pandan rice is particularly recommended.
@@ -16,7 +16,7 @@ Popular Nyonya chain serving bold, pungent flavours that thankfully have not bee
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/peranakan-place-signature-2.jpg" alt="Peranakan Place Signature">
-  <figcaption>Peranakan Place Signature</figcaption>
+  <figcaption>Nasi Kandar</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/peranakan-place-signature-3.jpg" alt="Peranakan Place Signature">

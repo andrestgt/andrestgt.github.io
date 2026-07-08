@@ -8,7 +8,7 @@ subtitle: Pantai Cenang · Syrian, Middle Eastern
 
 <figure>
   <img src="/photos/malaysia/langkawi/yasmin-syrian-restaurant-1.jpg" alt="Yasmin Syrian Restaurant">
-  <figcaption>Yasmin Syrian Restaurant</figcaption>
+  <figcaption>Babaganoush</figcaption>
 </figure>
 
 Very authentic Syrian and Middle Eastern food with excellent appetisers and particularly good hummus. Prices are noticeably higher than at local restaurants nearby, but the quality is high enough to justify them.

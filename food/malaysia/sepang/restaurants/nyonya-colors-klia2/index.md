@@ -8,7 +8,7 @@ subtitle: KLIA2, Sepang · Nyonya
 
 <figure>
   <img src="/photos/malaysia/sepang/Malaysia16-0010.jpg" alt="Nyonya Colors KLIA2">
-  <figcaption>Nyonya Colors KLIA2</figcaption>
+  <figcaption>Nasi Lemak</figcaption>
 </figure>
 
 The food at this budget Nyonya chain is perfectly acceptable and reasonably priced by airport standards. The dining area itself is not especially pleasant, but compared to many airport food options you could certainly do much worse.

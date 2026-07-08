@@ -8,7 +8,7 @@ subtitle: Pullman Kuching · Chinese, Dim Sum
 
 <figure>
   <img src="/photos/malaysia/kuching/nu-er-hong-restaurant-1.jpg" alt="Nu Er Hong Restaurant">
-  <figcaption>Nu Er Hong Restaurant</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 
 Very respectable dim sum selection considering this is inside a Pullman hotel. Prices are fair by hotel standards and around RM60 is enough for two people with tea included. The spicy prawn dumplings are especially good.
@@ -16,11 +16,11 @@ Very respectable dim sum selection considering this is inside a Pullman hotel. P
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
   <img src="/photos/malaysia/kuching/nu-er-hong-restaurant-2.jpg" alt="Nu Er Hong Restaurant">
-  <figcaption>Nu Er Hong Restaurant</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/nu-er-hong-restaurant-3.jpg" alt="Nu Er Hong Restaurant">
-  <figcaption>Nu Er Hong Restaurant</figcaption>
+  <figcaption>Spicy Wonton</figcaption>
 </figure>
 </div>
 
@@ -31,7 +31,7 @@ Very respectable dim sum selection considering this is inside a Pullman hotel. P
 </figure>
 <figure>
   <img src="/photos/malaysia/kuching/nu-er-hong-restaurant-5.jpg" alt="Nu Er Hong Restaurant">
-  <figcaption>Nu Er Hong Restaurant</figcaption>
+  <figcaption>Dim Sum</figcaption>
 </figure>
 </div>
 

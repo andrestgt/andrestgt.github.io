@@ -8,14 +8,14 @@ subtitle: Tanjung Rhu · British
 
 <figure>
   <img src="/photos/malaysia/langkawi/scarborough-fish-and-chips-1.jpg" alt="Scarborough Fish & Chips – Tanjung Rhu">
-  <figcaption>Scarborough Fish & Chips – Tanjung Rhu</figcaption>
+  <figcaption>Fish & Chips</figcaption>
 </figure>
 
 Excellent fish and chips served directly by the beach with beautiful sea views. The deep-fried snow fish was especially good, with light crisp batter and juicy flesh inside, while the thick-cut chips were properly done as well. Around 30 MYR for a generous portion feels very fair in such a setting.
 
 <figure>
   <img src="/photos/malaysia/langkawi/scarborough-fish-and-chips-2.jpg" alt="Scarborough Fish & Chips – Tanjung Rhu">
-  <figcaption>Scarborough Fish & Chips – Tanjung Rhu</figcaption>
+  <figcaption>Fish & Chips</figcaption>
 </figure>
 
 ## Ratings

@@ -8,14 +8,14 @@ subtitle: Langkawi · Indian
 
 <figure>
   <img src="/photos/malaysia/langkawi/colonial-india-restaurant-1.jpg" alt="Colonial India Restaurant">
-  <figcaption>Colonial India Restaurant</figcaption>
+  <figcaption>Chicken Tikka Masala</figcaption>
 </figure>
 
 The food itself is actually fairly good, but for a comparatively expensive Indian restaurant the atmosphere feels oddly lifeless, service lacks warmth and portions are disappointingly small. The mango lassi in particular was really awful.
 
 <figure>
   <img src="/photos/malaysia/langkawi/colonial-india-restaurant-2.jpg" alt="Colonial India Restaurant">
-  <figcaption>Colonial India Restaurant</figcaption>
+  <figcaption>Biryani</figcaption>
 </figure>
 
 ## Ratings

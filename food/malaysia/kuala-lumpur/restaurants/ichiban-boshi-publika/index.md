@@ -8,14 +8,14 @@ subtitle: Solaris Dutamas · Japanese
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/ichiban-boshi-publika-1.jpg" alt="Ichiban Boshi – Publika">
-  <figcaption>Ichiban Boshi – Publika</figcaption>
+  <figcaption>Unagi Nigiri</figcaption>
 </figure>
 
 Publika lacks some of the better Japanese chains found elsewhere in KL, so Ichiban Boshi works well enough as a reasonably priced fallback option. Quality is slightly below places like Sushi Tei or Zanmai, but still decent.
 
 <figure>
   <img src="/photos/malaysia/kuala-lumpur/ichiban-boshi-publika-2.jpg" alt="Ichiban Boshi – Publika">
-  <figcaption>Ichiban Boshi – Publika</figcaption>
+  <figcaption>Zaru Soba</figcaption>
 </figure>
 
 ## Ratings
