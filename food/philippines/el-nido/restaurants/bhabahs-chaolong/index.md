@@ -17,10 +17,10 @@ Extremely basic, almost a dark hole inside, though thankfully there are a few ta
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10   |
+| Food            | 7.5/10   |
 | Service         | 7/10   |
 | Value for money | 8/10   |
-| Atmosphere      | 5.5/10 |
+| Atmosphere      | 5/10 |
 | Overall         | 7.5/10 |
 
 ### Practical
