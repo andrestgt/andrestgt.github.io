@@ -10,7 +10,8 @@ photos_locked: true
 # Palawan Revisited
 **March 2025**
 
-Sixteen years after my first long journey through Palawan, we returned to ride the island once more, this time as a couple on a rented Honda XRM, from Puerto Princesa up to El Nido and back. Much has changed, some of it beyond recognition; much, thankfully, has not.
+Sixteen years after my first long journey through Palawan, we returned to ride the island once more, this time as a couple on a rented Honda XRM, from Puerto Princesa up to El Nido and back. Much has changed, some of it beyond recognition; one thing, thankfully, has not, the fact that Palawan is one of the most beautiful and spectacular destinations in Asia.
+
 
 ![Bacuit Archipelago](photos/SEA25-0576.jpg)
 *The Bacuit Archipelago off El Nido*
