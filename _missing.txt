@@ -1,0 +1,41 @@
+
+=== da-nang-to-hanoi.md ===
+  MISSING: Hiền Vân — Sumo Cafe
+  MISSING: Nghia Phuc — Chill
+
+=== hanoi-to-danang.md ===
+  MISSING: Hà Tĩnh — Bia Hoi Quảng Dũng — trứng vịt lộn
+  MISSING: Phong Nha — Chào Vietnam — morning coffee
+
+=== hanoi-to-sapa.md ===
+  MISSING: Phú Lộ — phở thịt trâu
+  MISSING: Chợ Chu — nem chua
+  MISSING: Tuần Châu — Cát Bà Ferry
+  MISSING: Hà Nội — bánh cuốn
+
+=== hoi-an-to-nha-trang.md ===
+  MISSING: Hội An — Chips&Fish — lunch — white rose
+  MISSING: Hội An — Bungalow Beach Bar — sundowner — tacos
+  MISSING: Hội An — Baby Mustard — dinner — fish grilled in banana leaf, kho quẹt
+  MISSING: Hội An — Roving Chillhouse — morning coffee — cappuccino
+  MISSING: Hội An — Madame Khanh — bánh mì — breakfast
+  MISSING: Hội An — Madamquan — ốc hương — snack
+  MISSING: Kon Tum — Gỏi Lá Út Cưng — gỏi lá — dinner
+  MISSING: Kon Tum — Eva Café
+  MISSING: Pleiku — Phở Khô Hồng — phở bò, phở trộn
+  MISSING: Buôn Ma Thuột — Daklac Coffee — cappuccino
+
+=== nha-trang-to-da-nang.md ===
+
+=== sapa-to-hanoi-ha-giang.md ===
+  MISSING: Sa Pa — bánh cuốn
+  MISSING: Bắc Hà — Phúc Bản Mề — morning coffee
+  MISSING: Around Vinh Quang — Hoàng Su Phì
+  MISSING: Hà Giang Province — Nam Thy
+  MISSING: Hà Giang — Khánh Chi — cà phê đen đá
+  MISSING: Hà Giang Province — Quản Bạ
+  MISSING: Đồng Văn Market — thắng cổ
+  MISSING: Bắc Mê — bánh cuốn
+  MISSING: The 100 — currywurst, pork schnitzel
+
+Done.

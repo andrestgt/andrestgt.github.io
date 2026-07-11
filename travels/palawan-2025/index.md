@@ -12,7 +12,6 @@ photos_locked: true
 
 Sixteen years after my first long journey through Palawan, we returned to ride the island once more, this time as a couple on a rented Honda XRM, from Puerto Princesa up to El Nido and back. Much has changed, some of it beyond recognition; one thing, thankfully, has not, the fact that Palawan is one of the most beautiful and spectacular destinations in Asia.
 
-
 ![Bacuit Archipelago](photos/SEA25-0576.jpg)
 *The Bacuit Archipelago off El Nido*
 
@@ -20,9 +19,9 @@ Sixteen years after my first long journey through Palawan, we returned to ride t
 
 ## 15 March 2025
 
-We flew in from Manila and reached Puerto Princesa in the early evening. The bike was already waiting: we had rented a Honda XRM from Palawan Peter Motorcycle (370 pesos per day for thirteen days), and the whole arrangement was as easy and straightforward as motorbike rental gets, very good communication, no passport deposit needed, and the bike delivered to the airport on the evening of our arrival. 
+We flew in from Manila and reached Puerto Princesa in the early evening. The bike was already waiting: we had rented a Honda XRM from Palawan Peter Motorcycle (370 pesos per day for thirteen days), and the whole arrangement was as easy and straightforward as motorbike rental gets, very good communication, no passport deposit needed, and the bike delivered to the airport on the evening of our arrival.
 
-Our base for the first nights was Filigan's Hotel on Rizal Avenue, a basic RedDoorz place without any charm but clean enough, and at 700 pesos perfectly acceptable for a provincial capital that has never been famous for its accommodation.
+Our base for the first couple of nights was Filigan's Hotel on Rizal Avenue, a basic RedDoorz place without any charm but clean enough, and at 700 pesos perfectly acceptable for a provincial capital that has never been famous for its accommodation.
 
 Puerto Princesa has grown quite a bit since 2009, but at its core it is still the same likeable, unhurried town, a place for practicalities rather than a tourist destination. That said, it has always been a good town for eating, and the first evening confirmed it.
 
@@ -142,11 +141,11 @@ Sunset drinks were at [The Beach Barn](https://andrestgt.github.io/food/philippi
 
 </div>
 
-Dinner at [Master Chaolong](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/restaurants/master-chaolong/) was a weird experience. The place sits right next to Star Apple, the most popular and overpriced restaurant in town, and serves big portions of tasty Vietnamese-Filipino beef noodles and banh-mi-style sandwiches at backpacker prices. It could be a hit. Instead, the uninterested staff, the questionable cleanliness and the uninspired décor make it feel as though they are actively trying to drive customers away. The food deserves better.
+Dinner at [Master Chaolong](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/restaurants/master-chaolong/) summed up a certain Filipino restaurant paradox. The place sits right next to Star Apple, the most popular and overpriced restaurant in town, and serves big portions of tasty Vietnamese-Filipino beef noodles and banh-mi-style sandwiches at backpacker prices. It could be a hit. Instead, the uninterested staff, the questionable cleanliness and the uninspired décor make it feel as though they are actively trying to drive customers away. The food deserves better.
 
 ## 19 March 2025
 
-Today we explored the surroundings of Port Barton. In the late morning we rode out to Bigaho Falls, a lovely little waterfall tucked away in the jungle north of town. The road is mostly unpaved and I would not recommend it on a scooter in the rainy season, but the short walk in is pleasant and well maintained, and the 40 peso entrance fee is entirely fair, since the locals keep the path and the village in good condition. The main pool can get crowded, but there are smaller pools downstream where you can have the water to yourself.
+Today we explored the surroundings of Port Barton. In the late morning we rode out to Bigaho Falls, a lovely little waterfall tucked away in the jungle north of town. The road is mostly unpaved and I would not recommend it on a scooter in the rainy season, but the short walk in is pleasant and well maintained, and the 40 peso entrance fee is entirely fair, since the locals keep the path and the village in good condition. The main pool can get crowded with backpackers on guided tours, but there are smaller pools downstream where you can have the water to yourself.
 
 <div class="photo-row">
 
@@ -162,7 +161,9 @@ Today we explored the surroundings of Port Barton. In the late morning we rode o
 
 </div>
 
-Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/bars-pubs/prince-john-resort/), a gorgeous spot that is tricky to reach by road and, perhaps for that reason, almost empty, which is a pity; it is a fancy and rather expensive place for such a hard-to-reach remote part of the coast.
+Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/bars-pubs/prince-john-resort/), a gorgeous spot that is tricky to reach by road and, perhaps for that reason, almost empty, which is a pity; it is quite a fancy and expensive place for such a hard-to-reach remote part of the coast.
+
+In the late afternoon we visited Pamuayan Beach, just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
 
 <div class="photo-row">
 
@@ -177,8 +178,6 @@ Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.githu
   </figure>
 
 </div>
-
-The late afternoon belonged to Pamuayan Beach, just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
 
 <div class="photo-row">
 
@@ -214,16 +213,9 @@ The interesting part is that there is now a direct coastal road from Port Barton
 
 The first stop was [Kape San Vicente](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/cafes/kape-san-vicente/) in San Vicente town. It is great to find something resembling a modern coffee shop with a proper espresso machine outside the main tourist centres, and at about half of what you pay in Port Barton, for food and coffee alike. Coffee purists should probably avoid the milk-based drinks, the milk seems to be sweetened or flavoured, but for the price it is well worth the stop.
 
-Further up the coast in Alimanguan, [Kitzmon Food House](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/) turned out to be much neater and cleaner than your average provincial foodhaus, with a good variety of Filipino favourites including chaolong, the Palawan version of Vietnamese beef stew. Prices are very reasonable, the service is friendly, and it is probably the best food option outside the resorts for many miles; we liked it enough to come back the next day.
+Further up the coast in Alimanguan, [Kitzmon Food House](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/) turned out to be much neater and cleaner than your average provincial carinderia, with a good variety of Filipino favourites including chaolong, the Palawan version of Vietnamese beef stew. Prices are very reasonable, the service is friendly, and it is probably the best food option outside the resorts for many miles; we liked it enough to come back the next day.
 
-For the next two nights we stayed at Amwani Sunset Colours on Erawan Beach, north of Alimanguan.
-
-<figure>
-  <img src="photos/SEA25-0400.jpg" alt="Around San Vicente - Amwani Sunset Colours">
-  <em>Around San Vicente - Amwani Sunset Colours</em>
-</figure>
-
-Since they paved the roads up from San Vicente, the place feels far less remote than it must have been only months earlier. The resort itself is quite basic, but it would be a great spot for a long-term stay: there is a shared kitchen for everyone to use, they sell beer at cost price, and the food prices are fair, with big portions. Dinner that first evening was delicious grilled squid, three of them for only 300 pesos. The two seaview bungalows were sadly booked out, those are the rooms to try for, but our family room was spacious enough and even had its own small kitchen. The real winner, though, is the beach: stunning, and despite the waves probably the best beach we found in Palawan for actual swimming rather than just lounging, thanks to the steep entrance.
+For the next two nights we stayed at Amwani Sunset Colours on Erawan Beach, north of Alimanguan. Since they recently paved the roads up from San Vicente, the place feels far less remote than it must have been only months earlier. The resort itself is quite basic, but it would be a great spot for a long-term stay: there is a shared kitchen for everyone to use, they sell beer at cost price, and the food prices are fair, with big portions. Dinner that first evening was delicious grilled squid, three of them for only 300 pesos. The two seaview bungalows were sadly booked out, those are the rooms to try for, but our family room was spacious enough and even had its own small kitchen. The real winner, though, is the beach: stunning, and despite the waves probably the best beach we found in Palawan for actual swimming rather than just lounging, thanks to the steep entrance.
 
 <div class="photo-row">
 
@@ -241,23 +233,9 @@ Since they paved the roads up from San Vicente, the place feels far less remote 
 
 ## 21 March 2025
 
-Today we explored the coastal road north of Erawan, which has recently been paved, well, mostly, as far as Binga; after that it turns back into red dirt.
+Today we explored the coastal road north of Erawan, which has very recently been paved, well, mostly, as far as Binga; after that it turns back into red dirt. Paved or not, it must be one of the most scenic and least travelled coastal roads in the country.
 
-<figure>
-  <img src="photos/SEA25-0343.jpg" alt="Around San Vicente">
-  <em>Around San Vicente</em>
-</figure>
-
-Paved or not, it must be one of the most scenic and least travelled coastal roads in the country.
-
-The first stop was Bato ni Ningning, a beautifully manicured viewpoint offering some of the most stunning views on the island, across the coastline and the outlying islands. Despite the remote location it is absolutely worth the trip, and with the new road it is not even a hard journey. Nearby Imuruan Viewpoint offers very pretty views of its own, without an entrance fee.
-
-<figure>
-  <img src="photos/SEA25-0374.jpg" alt="Around San Vicente - Bato ni Ningning">
-  <em>Around San Vicente - Bato ni Ningning</em>
-</figure>
-
-From there we continued to the very end of the road. Lumambong Beach is about as far up as you can go from San Vicente along this part of the coast; the last six or seven kilometres are quite rough, but it is absolutely worth it if you are looking for a beautiful, unspoiled tropical beach. You can reach it through Binga Beach Resort, or take the adventurous route across a rickety wooden bridge over a small creek just past the resort. Chances are you will have the whole beach to yourselves, and it is a great spot for swimming too.
+We rode all the way to the very end of the road. Lumambong Beach which is about as far up as you can go from San Vicente along this part of the coast; the last six or seven kilometres are quite rough, but it is absolutely worth it if you are looking for a beautiful, unspoiled tropical beach. You can reach it through Binga Beach Resort, or take the adventurous route across a rickety wooden bridge over a small creek just past the resort. Chances are you will have the whole beach to yourselves, and it is a great spot for swimming too.
 
 <div class="photo-row">
 
@@ -281,13 +259,11 @@ From there we continued to the very end of the road. Lumambong Beach is about as
   </figure>
 
   <figure>
-    <img src="photos/SEA25-0361.jpg" alt="Around San Vicente - Binga Beach">
+    <img src="photos/SEA25-0364.jpg" alt="Around San Vicente - Binga Beach">
     <em>Around San Vicente - Binga Beach</em>
   </figure>
 
 </div>
-
-On the way back we stopped at Sparkling Beach, a very beautiful spot where the lagoon meets the sea. Access is easy and public, and although the road now makes it simple to get here from San Vicente, it still feels remote, a beach quietly waiting to be discovered.
 
 <div class="photo-row">
 
@@ -297,13 +273,27 @@ On the way back we stopped at Sparkling Beach, a very beautiful spot where the l
   </figure>
 
   <figure>
-    <img src="photos/SEA25-0364.jpg" alt="Around San Vicente - Binga Beach">
+    <img src="photos/SEA25-0361.jpg" alt="Around San Vicente - Binga Beach">
     <em>Around San Vicente - Binga Beach</em>
   </figure>
 
 </div>
 
+On the way back we stopped at Sparkling Beach, a very beautiful spot where the lagoon meets the sea. Access is easy and public, and although the road now makes it simple to get here from San Vicente, it still feels remote, a beach quietly waiting to be discovered.
+
+The final stop was Bato ni Ningning, a beautifully manicured viewpoint offering some of the most stunning views over the coast and Erawan Beach. Despite the remote location it is absolutely worth the trip, and with the new road it is not even a hard journey. Nearby Imuruan Viewpoint offered very pretty views of its own, without an entrance fee.
+
+<figure>
+  <img src="photos/SEA25-0374.jpg" alt="Around San Vicente - Bato ni Ningning">
+  <em>Around San Vicente - Bato ni Ningning</em>
+</figure>
+
 Dinner was at Kitzmon again, and the evening ended back at Amwani with a sunset that lived up to the resort's name.
+
+<figure>
+  <img src="photos/SEA25-0343.jpg" alt="Around San Vicente">
+  <em>Around San Vicente</em>
+</figure>
 
 <div class="photo-row">
 
@@ -323,16 +313,16 @@ Dinner was at Kitzmon again, and the evening ended back at Amwani with a sunset 
 
 The longest riding day of the trip so far: from Erawan Beach back through Alimanguan and across the island to Taytay, then up the east coast to Sibaltan.
 
+<figure>
+  <img src="photos/SEA25-0400.jpg" alt="Around San Vicente - Amwani Sunset Colours">
+  <em>Around San Vicente - Amwani Sunset Colours</em>
+</figure>
+
 The reward for the long ride came in the middle of nowhere, somewhere in provincial Palawan near Taytay. [Leonida's](https://andrestgt.github.io/food/philippines/taytay/restaurants/leonidas/) is a proper gem: a beautiful garden café where you least expect one, beautifully decorated, with very friendly service and food on par with some of the better Filipino restaurants in the big cities. The crispy pork kare-kare was absolutely mouth-wateringly delicious, and the prices are very reasonable for this kind of quality in this kind of setting. They even serve really good, proper coffee, if a bit on the pricey side. One of the culinary highlights of the whole trip.
 
-By late afternoon we reached Sibaltan on the east coast, the quiet other side of El Nido municipality, and checked in at Erlittop Garden for three nights: a simple but beautiful resort set in nature on a hill far above the coast, with huts built from natural materials, a veranda, a sea view and a surprisingly nice en-suite bathroom for a budget resort, all for 1,100 pesos, which is great value. There is a good restaurant too. It is very quiet up there and you really want your own wheels when staying here, but I can highly recommend it.
+By late afternoon we reached Sibaltan on the east coast, the quiet other side of El Nido municipality, and checked in at Erlittop Garden for three nights: a simple but beautiful resort set in nature on a hill far above the coast, with huts built from natural materials, a veranda, sea views and a surprisingly nice en-suite bathroom for a budget resort, all for 1,100 pesos, which is great value. There is a good restaurant too. It is very quiet up there and you really want your own wheels when staying here, but I can highly recommend it.
 
 <div class="photo-row">
-
-  <figure>
-    <img src="photos/SEA25-0484.jpg" alt="Around El Nido - Erlittop Garden, Sibaltan">
-    <em>Around El Nido - Erlittop Garden, Sibaltan</em>
-  </figure>
 
   <figure>
     <img src="photos/SEA25-0415.jpg" alt="Around El Nido - Erlittop Garden, Sibaltan">
@@ -346,7 +336,7 @@ By late afternoon we reached Sibaltan on the east coast, the quiet other side of
 
 </div>
 
-Sibaltan deserves a word of its own. While El Nido town on the west coast has been transformed almost beyond recognition by mass tourism, the east coast still feels like Palawan did a generation ago: a long, quiet beach, a scattering of low-key places to stay and hardly a tourist in sight.
+Sibaltan deserves a word of its own. While El Nido town on the west coast has been transformed almost beyond recognition by mass tourism, the east coast still feels like Palawan did a generation ago: a long, quiet beach, a scattering of low-key places to stay and apart from a few divers, hardly a tourist in sight.
 
 <div class="photo-row">
 
@@ -382,19 +372,10 @@ Duli Beach, with sand more brownish than white, attracts a small crowd of surfer
 
 Dagmay Beach, a little further on, is another beautiful tropical beach that you are likely to have all to yourselves, at least until the resort being built there is finished. For now it is still wonderfully unspoiled, without even a village behind it.
 
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/SEA25-0445.jpg" alt="Around El Nido - Dagmay Beach">
-    <em>Around El Nido - Dagmay Beach</em>
-  </figure>
-
-  <figure>
-    <img src="photos/SEA25-0441.jpg" alt="Around El Nido - Dagmay Beach">
-    <em>Around El Nido - Dagmay Beach</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/SEA25-0445.jpg" alt="Around El Nido - Dagmay Beach">
+  <em>Around El Nido - Dagmay Beach</em>
+</figure>
 
 The best of the three, for us, was Diapela Beach, as far as the road goes north of El Nido. It is not a remote jungle beach, there is actually a fairly big village behind it, but the water is crystal clear and it was the best place to swim in the whole area, much nicer than some of the more famous beaches further south. Getting there is not exactly effortless, the road is bumpy, but in the dry season it is fine even on a scooter, and definitely worth the trip all the way up.
 
@@ -428,9 +409,9 @@ The best of the three, for us, was Diapela Beach, as far as the road goes north 
 
 ## 24 March 2025
 
-I had picked up a bit of a cold, so I took it easy. Linh went off on a Bacuit tour for the day, while I stayed behind to see for myself just how much El Nido had changed since my last visit in 2009.
+I had picked up a bit of a cold, so I took it easy today. Linh went off on a Bacuit tour for the day, while I stayed behind to see for myself just how much El Nido had changed since my last visit in 2009.
 
-The changes are insane. I recognised the beach, the rocks and the little alleys around the Boutique Artcafé, and almost nothing else. The most startling of all was Corong-Corong: back then it was a secluded stretch of beautiful beach, today it is mostly a shopping mall, with a narrow strip of sand left over and hemmed in by resorts. The views across the bay are still spectacular, though.
+The changes are insane. I recognised the beach, the rocks and the little alleys around the Boutique Artcafé, and almost nothing else. The most startling of all was Corong-Corong: back then it was a secluded stretch of beautiful beach, today it is mostly a shopping mall, with just a narrow strip of sand left and resort next to resort. The views across the bay are still spectacular, though.
 
 <figure>
   <img src="photos/SEA25-0478.jpg" alt="Around El Nido - Corong-Corong">
@@ -447,9 +428,23 @@ From Sibaltan we crossed over to El Nido's west coast, with a mid-morning break 
 </figure>
 
 <figure>
-  <img src="photos/SEA25-0458.jpg" alt="Around El Nido">
-  <em>Around El Nido</em>
+  <img src="photos/SEA25-0484.jpg" alt="Around El Nido - Erlittop Garden, Sibaltan">
+  <em>Around El Nido - Erlittop Garden, Sibaltan</em>
 </figure>
+
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/SEA25-0458.jpg" alt="Around El Nido">
+    <em>Around El Nido</em>
+  </figure>
+
+  <figure>
+    <img src="photos/SEA25-0441.jpg" alt="Around El Nido - Dagmay Beach">
+    <em>Around El Nido - Dagmay Beach</em>
+  </figure>
+
+</div>
 
 Then came the moment I had been half looking forward to and half dreading: Nacpan Beach. In 2009, Nacpan was still possibly the most beautiful beach in the world, with no beach restaurants and hardly any development at all. Times have changed. Nacpan is much busier these days, the beach has become an obligatory stop on every El Nido itinerary, and yet, it remains a stunning place, at least the northern and southern ends; the central stretch gets very busy.
 
@@ -474,7 +469,7 @@ Then came the moment I had been half looking forward to and half dreading: Nacpa
 
 Lunch was at [Nacpan Grill](https://andrestgt.github.io/food/philippines/el-nido/restaurants/nacpan-grill/), a friendly beachfront spot and, of all the places along the beach, the one that appealed to us most: a cold beer, a fresh coconut, a hearty serving of sinuglaw, and a convenient place to leave your belongings while you swim. Prices are still reasonable for such a prime location.
 
-For the night we stayed at Femya Native House on Bucana Beach, just south of El Nido town: super basic, but friendly and right by the beach, and at 750 pesos for a tiny native room one of the few bargains left in the area.
+For the night we stayed at Femya Native House on Bucana Beach, an hour north of El Nido town: super basic, but friendly and right by the beach, and at just over 750 pesos for a tiny native room one of the few bargains left in the area.
 
 <figure>
   <img src="photos/SEA25-0522.jpg" alt="Around El Nido - Bucana">
@@ -506,12 +501,21 @@ After a last quiet morning on Bucana Beach we moved into town, to The Only Place
 
 </div>
 
-In 2009 my main complaint about El Nido was the overpriced accommodation in a town that had just started to become popular. Whatever complaints I had back then seem laughable now: El Nido today is a full-blown resort town, wall-to-wall with hostels, tour agencies and backpacker bars. The setting, those dramatic limestone cliffs rising straight behind the town, remains as spectacular as ever; everything in between has changed.
+In 2009 my main complaint about El Nido was the overpriced accommodation in a town that had just started to become popular. Whatever complaints I had back then seem laughable now: El Nido today is a full-blown resort town, wall-to-wall with resorts, hostels, tour agencies and backpacker bars. The setting, those dramatic limestone cliffs rising straight behind the town, remains as spectacular as ever; everything in between has changed.
 
-<figure>
-  <img src="photos/SEA25-0553.jpg" alt="El Nido">
-  <em>El Nido</em>
-</figure>
+<div class="photo-row">
+
+  <figure>
+    <img src="photos/SEA25-0553.jpg" alt="El Nido">
+    <em>El Nido</em>
+  </figure>
+
+  <figure>
+    <img src="photos/SEA25-0559.jpg" alt="El Nido">
+    <em>El Nido</em>
+  </figure>
+
+</div>
 
 <figure>
   <img src="photos/SEA25-0549.jpg" alt="El Nido">
@@ -527,11 +531,6 @@ After ten days of travelling the hard way, we spent today simply taking full adv
 In the afternoon we paid a nostalgic visit to the [El Nido Boutique Artcafe](https://andrestgt.github.io/food/philippines/el-nido/restaurants/el-nido-boutique-artcafe/). When I first came here in the late 00s, the Art Café had unique selling points that sound exotic today: things like cappuccino and WiFi. It was pricier than the competition but a notch above in everything. Nowadays it feels like a relic, a dinosaur whose sheer size makes it stand out in a town of small places. It is no longer the travellers' focal point, but it still gets things right: the décor is nicer than it used to be, prices are now on par with the competition, the second-floor terrace has pleasant views, and in a town not exactly famous for exceptional food, the food here is better than it used to be.
 
 Later we stopped for beers at [Odessa Mama](https://andrestgt.github.io/food/philippines/el-nido/bars-pubs/odessa-mama/), the only craft beer microbrewery in El Nido, and a good one: nice beers, the best in town. I like Ukrainian food, but the prices here were too steep for me, so we stuck to the beer. A sign at the door announces that Russians are not welcome, which, considering the circumstances, is fair enough.
-
-<figure>
-  <img src="photos/SEA25-0559.jpg" alt="El Nido">
-  <em>El Nido</em>
-</figure>
 
 Sunset drinks at the [Yacht Wreck Bar](https://andrestgt.github.io/food/philippines/el-nido/bars-pubs/yacht-wreck-bar/), the cheapest spot with a prime seaside location in town. Strangely you will not find many backpackers here, they seem to prefer the pricier, posher places with louder music, which suits us fine: this rustic beach bar has vibes of the old El Nido from the 00s. The only drawback is that they serve no food at all with the drinks, not even basic pulutan.
 
@@ -578,13 +577,13 @@ The archipelago is still absolutely stunning, one of the most beautiful seascape
   <em>Bacuit Archipelago</em>
 </figure>
 
-Back on land, we had a relaxed last night in preparation for the long way back tomorrow. [Bhabah's Chaolong](https://andrestgt.github.io/food/philippines/el-nido/restaurants/bhabahs-chaolong/) is extremely basic, almost a dark hole, with a few tables thankfully outside, though right by the busy, polluted road. But it is cheap and the Viet-Fil noodle soup is very tasty; not that there was much choice, it seemed to be the only chaolong place in town. Snacks afterwards at [Caliente](https://andrestgt.github.io/food/philippines/el-nido/street-food/caliente-el-nido/), which is more snack bar than restaurant, just a few uncomfortable stools and tables, serving perfect pre-drinking snacks in Filipino-Mexican style. The tacos are very tasty, but since they are just two bites each you could easily eat a dozen, and then they might blow your budget; it may look like a cheap place, but it is not.
+Back on land, we had a relaxed last night in preparation for the long way back tomorrow. [Bhabah's Chaolong](https://andrestgt.github.io/food/philippines/el-nido/street-food/bhabahs-chaolong/) is extremely basic, almost a dark hole, with a few tables thankfully outside, though right by the busy, polluted road. But it is cheap and the Viet-Fil noodle soup is very tasty; not that there was much choice, it seemed to be the only chaolong place in town. Snacks afterwards at [Caliente](https://andrestgt.github.io/food/philippines/el-nido/street-food/caliente-el-nido/), which is more snack bar than restaurant, just a few uncomfortable stools and tables, serving perfect pre-drinking snacks in Filipino-Mexican style. The tacos are very tasty, but since they are just two bites each you could easily eat a dozen, and then they might blow your budget; it may look like a cheap place, but it is not.
 
 ## 28 March 2025
 
 The long ride back: some 230 kilometres from El Nido to Puerto Princesa in a day, which sounds worse than it is now that the road is good all the way. Fuel for the journey came from [Blackbird Coffee](https://andrestgt.github.io/food/philippines/el-nido/cafes/blackbird-coffee/) in El Nido, which does not have Hama's gorgeous location, but when Hama is too busy it is a great alternative for quality coffee: tiny but air-conditioned, friendly, and the breakfasts looked great and massive.
 
-Our halfway break was at [Casa Rosa](https://andrestgt.github.io/food/philippines/taytay/restaurants/casa-rosa-seaview-inn/) in Taytay, a very quiet resort on a hill above the town with beautiful views from the restaurant terrace. The service is slow and the food so-so, but it is a lovely rest stop on the long way back, and with more time it would have been worth breaking the journey here for a night.
+Our halfway break was at [Casa Rosa](https://andrestgt.github.io/food/philippines/taytay/restaurants/casa-rosa-seaview-inn/) in Taytay, a very quiet resort on a hill above town with beautiful views from the restaurant terrace. Service is slow and the food so-so, but it is a lovely rest stop on the long way back, and with more time it would have been worth breaking the journey here for a night.
 
 <figure>
   <img src="photos/SEA25-0614.jpg" alt="Taytay">

@@ -22,14 +22,14 @@ A basic place doing very tasty and cheap chaolong, the Viet-Filipino beef noodle
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 7.5/10   |
+| Food            | 8/10   |
 | Service         | 7.5/10 |
-| Value for money | 8/10 |
-| Atmosphere      | 7/10 |
-| Overall         | 7.5/10   |
+| Value for money | 8.5/10 |
+| Atmosphere      | 6.5/10 |
+| Overall         | 8/10   |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Bona%27s%20Chao%20Long%20Haus%20Puerto%20Princesa%20Palawan)
 🍽️ **Type:** Vietnamese-Filipino, Noodles
-💰 **Price level:** ₱150
+💰 **Price level:** ₱200–350

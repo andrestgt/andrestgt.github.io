@@ -17,14 +17,14 @@ KGB, as everyone calls it, is still exactly as I remembered it from 2009, a grea
 
 | Category        | Score  |
 | ---             | ---    |
-| Food            | 8/10 |
+| Food            | 8.5/10 |
 | Service         | 8/10   |
-| Value for money | 8/10 |
-| Atmosphere      | 8/10   |
-| Overall         | 8/10 |
+| Value for money | 7.5/10 |
+| Atmosphere      | 9/10   |
+| Overall         | 8.5/10 |
 
 ### Practical
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Kinabuchs%20Puerto%20Princesa%20Palawan)
 🍽️ **Type:** Filipino, Grill
-💰 **Price level:** ₱600-800
+💰 **Price level:** ₱700–1100
