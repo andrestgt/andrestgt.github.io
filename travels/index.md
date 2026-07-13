@@ -17,6 +17,10 @@ Raja Ampat &middot; Banda Islands &middot; Kei Islands
 Puerto Princesa &middot; Port Barton &middot; San Vicente &middot; El Nido
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/palawan-2025/)
 
+## Vietnam in the Time of Corona (2020)
+Nha Trang &middot; Central Coast &middot; Northern Loop &middot; Ho Chi Minh Trail
+&rarr; [Read the full travelogue](https://andrestgt.github.io/travels/vietnam-2020/)
+
 ## Palawan and Borneo (2009)
 Palawan &middot; Malaysian Borneo
 &rarr; [Read the full travelogue](https://andrestgt.github.io/travels/palawan-borneo-2009/)
