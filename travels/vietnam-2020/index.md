@@ -22,7 +22,7 @@ The short trip turned into an epic 6,600-kilometre loop that took us through mos
 
 ## 1 June 2020
 
-We left Nha Trang in the morning and headed up the coast. First stop was [Dai Lanh](https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BA%A1i+L%C3%A3nh%2C+Ph%C3%BA+Y%C3%AAn), a picturesque fishing village on a long, beautiful, but not particularly clean beach. Then past the scenic Dai Lanh pass to [Bai Mon](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+M%C3%B4n%2C+Ph%C3%BA+Y%C3%AAn), one of the most stunning beaches in the country. There is a small entrance fee but the place itself is completely unspoilt and magnificent. There is no shade at all, so it is best visited outside the hottest months of the year.
+We left Nha Trang in the morning and headed up the coast. First stop was [Dai Lanh](https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BA%A1i+L%C3%A3nh%2C+Ph%C3%BA+Y%C3%AAn), a picturesque fishing village on a long, beautiful, but not particularly clean beach.
 
 <div class="photo-row">
 
@@ -38,33 +38,31 @@ We left Nha Trang in the morning and headed up the coast. First stop was [Dai La
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0141.jpg" alt="Dai Lanh">
+  <em>Dai Lanh</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0141.jpg" alt="Dai Lanh">
-    <em>Dai Lanh</em>
-  </figure>
+Then past the scenic Dai Lanh pass to [Bai Mon](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+M%C3%B4n%2C+Ph%C3%BA+Y%C3%AAn), one of the most stunning beaches in the country. There is a small entrance fee but the place itself is completely unspoilt and magnificent. There is no shade at all, so it is best visited outside the hottest months of the year.
+
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-0153.jpg" alt="Bai Mon">
     <em>Bai Mon</em>
   </figure>
 
-</div>
-
-<div class="photo-row">
-
   <figure>
     <img src="photos/Vietnam20-0155.jpg" alt="Bai Mon">
     <em>Bai Mon</em>
   </figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0168.jpg" alt="Bai Mon">
-    <em>Bai Mon</em>
-  </figure>
-
 </div>
+
+<figure>
+  <img src="photos/Vietnam20-0168.jpg" alt="Bai Mon">
+  <em>Bai Mon</em>
+</figure>
 
 We had a late lunch on the outskirts of Tuy Hoa at [Quán Binh Xin](https://andrestgt.github.io/food/vietnam/phu-yen/tuy-hoa/restaurants/quan-binh-xin/), packed with locals well past lunchtime. The seafood fried rice was tasty but a bit expensive at 90k. The gỏi cá mai, a raw anchovy salad, was absolutely gorgeous and generous at 60k, worth stopping here just for that.
 
@@ -119,19 +117,15 @@ Before Song Cau we crossed [Cau Go Ong Cop](https://www.google.com/maps/search/?
 
 Around Song Cau we stopped twice, first for refreshments and beautiful sea views at Nhà hàng Nhất Tự Sơn, and then along Highway 1 just past the town for a quick lunch at Quán cơm Phương Thảo, one of those basic truckers' and motorists' rest stops where you usually get nice food at great prices.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0204.jpg" alt="Song Cau - Nhà hàng Nhất Tự Sơn">
+  <em>Song Cau - Nhà hàng Nhất Tự Sơn</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0204.jpg" alt="Song Cau - Nhà hàng Nhất Tự Sơn">
-    <em>Song Cau - Nhà hàng Nhất Tự Sơn</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0207.jpg" alt="Quán cơm Phương Thảo - mực xào chua ngọt and rau muống">
-    <em>Quán cơm Phương Thảo - mực xào chua ngọt and rau muống</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0207.jpg" alt="Quán cơm Phương Thảo - mực xào chua ngọt and rau muống">
+  <em>Quán cơm Phương Thảo - mực xào chua ngọt and rau muống</em>
+</figure>
 
 The peninsula facing Song Cau has a lot of tourist potential, but was ultimately a bit disappointing. [Bai bien Om](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+bi%E1%BB%83n+%C3%94m%2C+S%C3%B4ng+C%E1%BA%A7u) looks beautiful in pictures but the place was off limits to the public because of a big construction site, another beauty spot spoilt by rampant development. [Bai Bien Vinh Hoa](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+Bi%E1%BB%83n+V%E1%BB%8Bnh+H%C3%B2a%2C+S%C3%B4ng+C%E1%BA%A7u) is picturesque enough but a village beach, not very clean, and not terribly inviting for a swim.
 
@@ -142,24 +136,24 @@ The peninsula facing Song Cau has a lot of tourist potential, but was ultimately
 
 In the late afternoon we stopped for a swim at [Bai bien Quy Hoa](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+bi%E1%BB%83n+Quy+H%C3%B2a%2C+Quy+Nh%C6%A1n). The water was a bit murky, but the bay itself is beautiful and usually empty; as a former leper colony, most locals still avoid this beach.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0210.jpg" alt="Phu Yen - Xuan Hai">
+  <em>Phu Yen - Xuan Hai</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0210.jpg" alt="Phu Yen - Xuan Hai">
-    <em>Phu Yen - Xuan Hai</em>
-  </figure>
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-0212.jpg" alt="Quy Nhon - Quy Hoa">
     <em>Quy Nhon - Quy Hoa</em>
   </figure>
 
-</div>
+  <figure>
+    <img src="photos/Vietnam20-0215.jpg" alt="Quy Nhon - Quy Hoa">
+    <em>Quy Nhon - Quy Hoa</em>
+  </figure>
 
-<figure>
-  <img src="photos/Vietnam20-0215.jpg" alt="Quy Nhon - Quy Hoa">
-  <em>Quy Nhon - Quy Hoa</em>
-</figure>
+</div>
 
 For the night we stayed at [La Cactus Hotel 1](https://www.google.com/maps/search/?api=1&query=La+Cactus+Hotel+Quy+Nhon), not a bad place but there is no elevator and no fridge in the room. We got a very cheap online deal, so no complaints, but for the walk-in rates they charge, you should at least get a fridge, which is standard in Vietnam.
 
@@ -209,19 +203,15 @@ Quy Nhon deserved another day of exploring. Morning coffee at [Homebrew Coffee](
 
 Breakfast at [Bánh canh Bà O](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/street-food/banh-canh-ba-o/), a basic hole-in-the-wall popular for its bánh canh noodle soup, which is very good here. The real star, however, is the bánh cuốn, which here resembles Malaysian popiah and is dipped in peanut sauce. 52k for a bowl of soup and two rolls, on the high side for this kind of basic eatery but worth it.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0236.jpg" alt="Bánh canh Bà O - bánh canh and gỏi cuốn">
+  <em>Bánh canh Bà O - bánh canh and gỏi cuốn</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0236.jpg" alt="Bánh canh Bà O - bánh canh and gỏi cuốn">
-    <em>Bánh canh Bà O - bánh canh and gỏi cuốn</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0237.jpg" alt="Quy Nhon">
-    <em>Quy Nhon</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0237.jpg" alt="Quy Nhon">
+  <em>Quy Nhon</em>
+</figure>
 
 Lunchtime drinks at the [Quy Nhon Country Club](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/bars-pubs/quy-nhon-country-club/). To call this place quirky would be an understatement. It operates on several levels of a hill above town with superb views, and decor ranges from old tandem bicycles to boarded-up bathtubs used as tables. For reasons unknown, most of the beer selection comes from little-known breweries in Southern Germany, most of them sadly out of stock, but we managed a Schwabenbräu Hefeweizen for 100k. Tiger is 30k. No food, which is a pity; the location would be fantastic for a restaurant.
 
@@ -317,19 +307,15 @@ Early start north. [Vinh Hoi](https://www.google.com/maps/search/?api=1&query=B%
 
 Further north in Quang Ngai Province, [Bai Tam Chau Me 2](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+T%E1%BA%AFm+Ch%C3%A2u+Me%2C+%C4%90%E1%BB%A9c+Ph%E1%BB%95%2C+Qu%E1%BA%A3ng+Ng%C3%A3i) is a nice and quiet beach with easy access but not much development yet. It is pretty rather than spectacular, but a good spot for an undisturbed dip in the sea.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0290.jpg" alt="Bai Tam Chau Me 2">
+  <em>Bai Tam Chau Me 2</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0290.jpg" alt="Bai Tam Chau Me 2">
-    <em>Bai Tam Chau Me 2</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0298.jpg" alt="Quang Ngai Province">
-    <em>Quang Ngai Province</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0298.jpg" alt="Quang Ngai Province">
+  <em>Quang Ngai Province</em>
+</figure>
 
 Lunch in Quang Ngai town at [Ram Thịt Nướng Loan](https://andrestgt.github.io/food/vietnam/quang-ngai/quang-ngai/street-food/ram-thit-nuong-loan/). Ram thịt nướng is a local specialty of several grilled meats including bò lá lốt and nem nướng, wrapped and rolled in rice paper with salad and herbs. 70k might seem steep for a basic eatery, but we got a lot of meat including deliciously marinated beef, and it was worth every đồng.
 
@@ -340,40 +326,36 @@ Lunch in Quang Ngai town at [Ram Thịt Nướng Loan](https://andrestgt.github.
 
 In the late afternoon we crossed by ferry onto [Tam Hai](https://www.google.com/maps/search/?api=1&query=Tam+H%E1%BA%A3i%2C+N%C3%BAi+Th%C3%A0nh%2C+Qu%E1%BA%A3ng+Nam) island and continued to [Tam Thanh](https://www.google.com/maps/search/?api=1&query=L%C3%A0ng+b%C3%ADch+h%E1%BB%8Da+Tam+Thanh%2C+Tam+K%E1%BB%B3), an attractive little seaside village with a picturesque beach and gorgeous sunsets. We stayed at [Homestay Ngọc Lan](https://www.google.com/maps/search/?api=1&query=Homestay+Ngoc+Lan+Tam+Thanh) for 250k, with its simple but modern and spotlessly clean rooms, a good choice in a village of few options.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0303.jpg" alt="Tam Hai">
+  <em>Tam Hai</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0303.jpg" alt="Tam Hai">
-    <em>Tam Hai</em>
-  </figure>
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-0307.jpg" alt="Tam Thanh">
     <em>Tam Thanh</em>
   </figure>
 
-</div>
-
-<figure>
-  <img src="photos/Vietnam20-0313.jpg" alt="Tam Thanh">
-  <em>Tam Thanh</em>
-</figure>
-
-Dinner of selected grilled meats at basic [Quán 78](https://www.google.com/maps/search/?api=1&query=Quan+78+Tam+Thanh), one of only a handful of eateries in town.
-
-<div class="photo-row">
-
   <figure>
-    <img src="photos/Vietnam20-0322.jpg" alt="Tam Thanh">
+    <img src="photos/Vietnam20-0313.jpg" alt="Tam Thanh">
     <em>Tam Thanh</em>
   </figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0323.jpg" alt="Tam Thanh - Quán 78">
-    <em>Tam Thanh - Quán 78</em>
-  </figure>
-
 </div>
+
+Dinner of selected grilled meats at basic [Quán 78](https://www.google.com/maps/search/?api=1&query=Quan+78+Tam+Thanh), one of only a handful of eateries in town.
+
+<figure>
+  <img src="photos/Vietnam20-0322.jpg" alt="Tam Thanh">
+  <em>Tam Thanh</em>
+</figure>
+
+<figure>
+  <img src="photos/Vietnam20-0323.jpg" alt="Tam Thanh - Quán 78">
+  <em>Tam Thanh - Quán 78</em>
+</figure>
 
 ## 5 June 2020
 
@@ -442,19 +424,15 @@ Afternoon drinks at [7 Bridges Taproom](https://andrestgt.github.io/food/vietnam
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0360.jpg" alt="7 Bridges Taproom - beer sampler">
+  <em>7 Bridges Taproom - beer sampler</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0360.jpg" alt="7 Bridges Taproom - beer sampler">
-    <em>7 Bridges Taproom - beer sampler</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0361.jpg" alt="Da Nang">
-    <em>Da Nang</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0361.jpg" alt="Da Nang">
+  <em>Da Nang</em>
+</figure>
 
 A snack at [Ốc Hút 277](https://andrestgt.github.io/food/vietnam/da-nang/street-food/oc-hut-277/), a friendly hole in the wall specialising in ốc hút, the most popular mussel dish in Da Nang. Accompanied by mít trộn (jackfruit salad), it is a great pre-dinner snack.
 
@@ -474,21 +452,24 @@ Dinner at [Hops & Crust](https://andrestgt.github.io/food/vietnam/da-nang/bars-p
 
 A day in Da Nang. Breakfast at [Mỳ Quảng Bà Mua](https://andrestgt.github.io/food/vietnam/da-nang/street-food/my-quang-ba-mua/), a neat mì quảng eatery with several branches around the city and a tasty frog version of the dish. Morning coffee at [La Bella Bistro](https://andrestgt.github.io/food/vietnam/da-nang/cafes/la-bella-bistro-da-nang/), a lovely shady place around a koi pond with excellent coffees, both espresso and Vietnamese style. Perfect for a coffee break even on a hot summer day without AC.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0381.jpg" alt="Mỳ Quảng Bà Mua - mì quảng ếch">
+  <em>Mỳ Quảng Bà Mua - mì quảng ếch</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0381.jpg" alt="Mỳ Quảng Bà Mua - mì quảng ếch">
-    <em>Mỳ Quảng Bà Mua - mì quảng ếch</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0383.jpg" alt="Da Nang - La Bella Bistro">
-    <em>Da Nang - La Bella Bistro</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0383.jpg" alt="Da Nang - La Bella Bistro">
+  <em>Da Nang - La Bella Bistro</em>
+</figure>
 
 For the second night we switched hotels and moved out to the beach side of town, to the [Happy Sky Hotel](https://www.google.com/maps/search/?api=1&query=Happy+Sky+Hotel+Da+Nang), offering spotless 3-star quality rooms and even a small shady pool in a good location for both the beach and downtown.
+
+<figure>
+  <img src="photos/Vietnam20-0405.jpg" alt="Da Nang - Happy Sky Hotel">
+  <em>Da Nang - Happy Sky Hotel</em>
+</figure>
+
+In the afternoon we took the scenic coastal road along the south side of the Da Nang peninsula all the way to where the road ends, and on the way back we went for a swim at [Bãi Nam](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+Nam%2C+S%C6%A1n+Tr%C3%A0%2C+%C4%90%C3%A0+N%E1%BA%B5ng), a pretty cove with white sand, photogenic round boats and fantastic views over Da Nang's skyline.
 
 <div class="photo-row">
 
@@ -504,21 +485,10 @@ For the second night we switched hotels and moved out to the beach side of town,
 
 </div>
 
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/Vietnam20-0394.jpg" alt="Da Nang">
-    <em>Da Nang</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0405.jpg" alt="Da Nang - Happy Sky Hotel">
-    <em>Da Nang - Happy Sky Hotel</em>
-  </figure>
-
-</div>
-
-In the afternoon we took the scenic coastal road along the south side of the Da Nang peninsula all the way to where the road ends, and on the way back we went for a swim at [Bãi Nam](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+Nam%2C+S%C6%A1n+Tr%C3%A0%2C+%C4%90%C3%A0+N%E1%BA%B5ng), a pretty cove with white sand, photogenic round boats and fantastic views over Da Nang's skyline.
+<figure>
+  <img src="photos/Vietnam20-0394.jpg" alt="Da Nang">
+  <em>Da Nang</em>
+</figure>
 
 <figure>
   <img src="photos/Vietnam20-0398.JPG" alt="Da Nang">
@@ -585,49 +555,37 @@ Down the other side to the beautiful [Lăng Cô](https://www.google.com/maps/sea
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0436.jpg" alt="Lăng Cô">
+  <em>Lăng Cô</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0436.jpg" alt="Lăng Cô">
-    <em>Lăng Cô</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0439.jpg" alt="Bai Bien Chan May">
-    <em>Bai Bien Chan May</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0439.jpg" alt="Bai Bien Chan May">
+  <em>Bai Bien Chan May</em>
+</figure>
 
 Further on, past Tan Canh Duong and Thon Phu An, a coffee break at [Sumo Café](https://www.google.com/maps/search/?api=1&query=Sumo+Cafe+Hien+Van+Hue) in Hien Van, then on through Mai Vinh to Hue.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0444.jpg" alt="Tan Canh Duong">
+  <em>Tan Canh Duong</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0444.jpg" alt="Tan Canh Duong">
-    <em>Tan Canh Duong</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-0446.jpg" alt="Thon Phu An">
+  <em>Thon Phu An</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0446.jpg" alt="Thon Phu An">
-    <em>Thon Phu An</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-0453.jpg" alt="Hien Van - Sumo Cafe">
+  <em>Hien Van - Sumo Cafe</em>
+</figure>
 
-</div>
-
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/Vietnam20-0453.jpg" alt="Hien Van - Sumo Cafe">
-    <em>Hien Van - Sumo Cafe</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0456.jpg" alt="Mai Vinh">
-    <em>Mai Vinh</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0456.jpg" alt="Mai Vinh">
+  <em>Mai Vinh</em>
+</figure>
 
 Brunch stop at [Bai Bien Thuan An](https://www.google.com/maps/search/?api=1&query=B%C3%A3i+bi%E1%BB%83n+Thu%E1%BA%ADn+An%2C+Hu%E1%BA%BF), Hue's city beach. It is long and golden and wild. With the wooden fishing boats and seafood shacks it is incredibly photogenic, but there is not much privacy for relaxed swimming or sunbathing and the water is rarely crystal clear. It is a great place for a seafood lunch and a few cold Hudas though.
 
@@ -675,19 +633,15 @@ Late lunch at [Hot Tuna](https://andrestgt.github.io/food/vietnam/hue/restaurant
 
 Afternoon snack at [Cơm hến Hoà Đồng](https://andrestgt.github.io/food/vietnam/hue/street-food/com-hen-hoa-dong-2/) (as we found out later, not to be confused with its quasi namesake further down the alley). Not a copycat or a rip-off, and you get perfectly decent mussel rice and Hue cakes here for very little money. The problem is that there is no real reason to eat here when just 50 metres down the road you get an excellent version of the same dishes for the same price.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0477.jpg" alt="Cơm hến Hoà Đồng - mì hến">
+  <em>Cơm hến Hoà Đồng - mì hến</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0477.jpg" alt="Cơm hến Hoà Đồng - mì hến">
-    <em>Cơm hến Hoà Đồng - mì hến</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0480.jpg" alt="Hue">
-    <em>Hue</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0480.jpg" alt="Hue">
+  <em>Hue</em>
+</figure>
 
 Dinner at [Bún Bò O Ty](https://andrestgt.github.io/food/vietnam/hue/street-food/bun-bo-o-ty/). There are lots of overpriced tourist bún bò joints in Hue; this is definitely not one of them. A friendly local neighbourhood place with excellent bowls for a mere 25k. The broth is smooth and balanced and the quality of the meat and meat balls is outstanding for such a cheap bowl.
 
@@ -701,29 +655,24 @@ Evening drinks at [DMZ Bar](https://andrestgt.github.io/food/vietnam/hue/bars-pu
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Vietnam20-0484.jpg" alt="Hue - DMZ Bar">
-    <em>Hue - DMZ Bar</em>
-  </figure>
-
-  <figure>
     <img src="photos/Vietnam20-0488.jpg" alt="Hue">
     <em>Hue</em>
   </figure>
 
-</div>
+  <figure>
+    <img src="photos/Vietnam20-0491.jpg" alt="Hue">
+    <em>Hue</em>
+  </figure>
 
-<figure>
-  <img src="photos/Vietnam20-0491.jpg" alt="Hue">
-  <em>Hue</em>
-</figure>
+</div>
 
 ## 8 June 2020
 
 A day in Hue. Breakfast at the original [Cơm Hến Hoa Đông](https://andrestgt.github.io/food/vietnam/hue/street-food/com-hen-hoa-dong/), for good reason considered the best cơm hến (baby mussels rice) place on Hen Island, and the most popular too. A regular bowl is 10k and a bigger bowl with the lot goes for 15k. Their bánh bèo platter (20k) puts some of the fancier Hue cake restaurants in town to shame.
 
 <figure>
-  <img src="photos/Vietnam20-0492.jpg" alt="Hue - Cơm Hến Hoa Đông">
-  <em>Hue - Cơm Hến Hoa Đông</em>
+  <img src="photos/Vietnam20-0493.jpg" alt="Cơm Hến Hoa Đông - bánh bèo">
+  <em>Cơm Hến Hoa Đông - bánh bèo</em>
 </figure>
 
 Morning coffee at [Hue Roastery](https://andrestgt.github.io/food/vietnam/hue/cafes/hue-roastery/), a nicely decorated air-conditioned space with decent espresso drinks, a cappuccino for 28k and a Vietnamese coffee for 12k. Comfy seating is limited but the small wooden chairs had a view over the canal.
@@ -858,19 +807,15 @@ North from Hue into Quang Tri Province through incredibly idyllic scenery, with 
 
 Breakfast in Dong Ha at [Phở Hằng](https://andrestgt.github.io/food/vietnam/quang-tri/dong-ha/street-food/pho-hang/), a neat modern eatery serving very good bowls of Northern-style phở at moderate prices, a large đặc biệt with a generous amount of delicious soft beef tendons for 35k.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0582.jpg" alt="Dong Ha - Phở Hằng">
+  <em>Dong Ha - Phở Hằng</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0582.jpg" alt="Dong Ha - Phở Hằng">
-    <em>Dong Ha - Phở Hằng</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0585.jpg" alt="Along Hwy 15">
-    <em>Along Hwy 15</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0585.jpg" alt="Along Hwy 15">
+  <em>Along Hwy 15</em>
+</figure>
 
 We took Highway 15 rather than Highway 1, which is the much more pleasant route north, though still not exactly scenic.
 
@@ -899,35 +844,27 @@ In Dong Hoi we checked in at [ADP Homestay](https://www.google.com/maps/search/?
 
 Sundowners at [Buffalo Beach Bar](https://andrestgt.github.io/food/vietnam/quang-binh/dong-hoi/bars-pubs/buffalo-beach-bar/) which has a superb beachfront location. It is a very likeable bar with friendly service, cold beers from 20k and even Beer Lao at a fair 30k. With its small food menu, it worked well for sunset drinks by the sea.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0592.jpg" alt="Dong Hoi">
+  <em>Dong Hoi</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0592.jpg" alt="Dong Hoi">
-    <em>Dong Hoi</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0597.jpg" alt="Dong Hoi - Buffalo Beach Bar">
-    <em>Dong Hoi - Buffalo Beach Bar</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0597.jpg" alt="Dong Hoi - Buffalo Beach Bar">
+  <em>Dong Hoi - Buffalo Beach Bar</em>
+</figure>
 
 Dinner at [Quán Nước Mắm Cá Đen](https://andrestgt.github.io/food/vietnam/quang-binh/dong-hoi/street-food/quan-nuoc-mam-ca-den/). We had originally planned to go to the more modern-looking B52 next door, but B52 was empty whereas this place was full of locals. It turned out to be an absolute winner, not only for the kegs of cheap bia hơi (50k for 2 litres) but for the adventurous food: river snails in bamboo (ốc nhồi ống nứa, 120k), or stir-fried venison (nai xào, 130k) which was served on a bed of fried rice crust, an absolute killer dish.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0602.jpg" alt="Quán Nước Mắm Cá Đen - ốc nhồi ống nứa">
+  <em>Quán Nước Mắm Cá Đen - ốc nhồi ống nứa</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0600.jpg" alt="Dong Hoi - Quán Nước Mắm Cá Đen">
-    <em>Dong Hoi - Quán Nước Mắm Cá Đen</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0605.jpg" alt="Dong Hoi">
-    <em>Dong Hoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0605.jpg" alt="Dong Hoi">
+  <em>Dong Hoi</em>
+</figure>
 
 ## 10 June 2020
 
@@ -947,19 +884,15 @@ Lunch at [You and Me Restaurant](https://andrestgt.github.io/food/vietnam/quang-
 
 In the afternoon we paid a visit to [Phong Nha Cave](https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BB%99ng+Phong+Nha). A beautiful boat trip combined with a cave with an underground river, what's not to like? I am sure this place is a complete circus during the tourist season, looking at the dozens of boats parked idly along the river shore, but with the country essentially closed to foreign tourists it was quite wonderful. We had the whole place to ourselves, the only drawback being the outrageous price for renting a boat to get to the cave: 550k for an hour or so is daylight robbery.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0631.jpg" alt="Phong Nha">
+  <em>Phong Nha</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0631.jpg" alt="Phong Nha">
-    <em>Phong Nha</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0637.jpg" alt="Phong Nha Cave">
-    <em>Phong Nha Cave</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0637.jpg" alt="Phong Nha Cave">
+  <em>Phong Nha Cave</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1005,19 +938,15 @@ In the afternoon we paid a visit to [Phong Nha Cave](https://www.google.com/maps
 
 Sundowner drinks at [Momma D](https://andrestgt.github.io/food/vietnam/quang-binh/phong-nha/bars-pubs/momma-d/), a fantastic rooftop bar with stunning views and great drink specials such as quality G&T for 40k. They offer a small selection of pub grub from their own kitchen, and you can order more substantial meals from a couple of other restaurants in town, including Indian from Omar's. This is an absolute must in Phong Nha.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0710.jpg" alt="Phong Nha">
+  <em>Phong Nha</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0710.jpg" alt="Phong Nha">
-    <em>Phong Nha</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0712.jpg" alt="Bella Café - gỏi xoài tôm thịt">
-    <em>Bella Café - gỏi xoài tôm thịt</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0712.jpg" alt="Bella Café - gỏi xoài tôm thịt">
+  <em>Bella Café - gỏi xoài tôm thịt</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1037,33 +966,29 @@ Sundowner drinks at [Momma D](https://andrestgt.github.io/food/vietnam/quang-bin
 
 A full day riding around [Phong Nha Ke Bang National Park](https://www.google.com/maps/search/?api=1&query=V%C6%B0%E1%BB%9Dn+qu%E1%BB%91c+gia+Phong+Nha+K%E1%BA%BB+B%C3%A0ng). Morning at [Paradise Cave](https://www.google.com/maps/search/?api=1&query=%C4%90%E1%BB%99ng+Thi%C3%AAn+%C4%90%C6%B0%E1%BB%9Dng%2C+Qu%E1%BA%A3ng+B%C3%ACnh). Yes, this cave is a spectacular sight but we were super lucky to have visited during Covid times early on a weekday. We had the cave all to ourselves until some small groups arrived on the way back, and even those few people were so noisy that I can't imagine what it must be like on a busy day.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0731.jpg" alt="Phong Nha Ke Bang">
+  <em>Phong Nha Ke Bang</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0731.jpg" alt="Phong Nha Ke Bang">
-    <em>Phong Nha Ke Bang</em>
-  </figure>
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-0758.jpg" alt="Phong Nha Ke Bang - Paradise Cave">
     <em>Phong Nha Ke Bang - Paradise Cave</em>
   </figure>
 
-</div>
-
-<div class="photo-row">
-
   <figure>
     <img src="photos/Vietnam20-0763.jpg" alt="Phong Nha Ke Bang - Paradise Cave">
     <em>Phong Nha Ke Bang - Paradise Cave</em>
   </figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0771.jpg" alt="Phong Nha Ke Bang">
-    <em>Phong Nha Ke Bang</em>
-  </figure>
-
 </div>
+
+<figure>
+  <img src="photos/Vietnam20-0771.jpg" alt="Phong Nha Ke Bang">
+  <em>Phong Nha Ke Bang</em>
+</figure>
 
 Late morning at [Phong Nha Botanic Garden](https://www.google.com/maps/search/?api=1&query=Phong+Nha+Botanic+Garden). A bit of a misnomer, this place is more of a jungle trekking place than a garden. The trek to a swimming hole and the waterfall with a sweaty detour up to the viewpoint took us around 90 minutes including swimming. This was a proper trek in parts, not a walk in the park, but it was very rewarding, the waterfall is absolutely beautiful.
 
@@ -1113,19 +1038,15 @@ The Tu Lan one-day tour with [Oxalis](https://www.google.com/maps/search/?api=1&
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0807.jpg" alt="Tu Lan">
+  <em>Tu Lan</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0807.jpg" alt="Tu Lan">
-    <em>Tu Lan</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0825.jpg" alt="Phong Nha">
-    <em>Phong Nha</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0825.jpg" alt="Phong Nha">
+  <em>Phong Nha</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1182,19 +1103,15 @@ Dinner at [Thang Nhung Heo Quay](https://andrestgt.github.io/food/vietnam/quang-
 
 A little trip down to Dong Hoi to meet some friends.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0881.jpg" alt="Phong Nha">
+  <em>Phong Nha</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0881.jpg" alt="Phong Nha">
-    <em>Phong Nha</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0883.jpg" alt="Dong Hoi">
-    <em>Dong Hoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0883.jpg" alt="Dong Hoi">
+  <em>Dong Hoi</em>
+</figure>
 
 Lunch in Dong Hoi at [Hoàng Linh Sushi](https://andrestgt.github.io/food/vietnam/quang-binh/dong-hoi/restaurants/hoang-linh-sushi-nha-hang-nhat-ban/), the only sushi place in town and perfectly adequate. If we lived in Dong Hoi we would probably eat here once in a while, but for casual visitors there is more interesting food to try in the city.
 
@@ -1230,33 +1147,25 @@ Dinner at [Quán Phở Bắc](https://andrestgt.github.io/food/vietnam/quang-bin
 
 A long, uneventful ride north on the Ho Chi Minh Trail. Beef fried rice at some nameless roadside eatery in Than An, near the tea plantations. A coffee break at [Chill](https://www.google.com/maps/search/?api=1&query=Chill+Coffee+Nghia+Phuc) in Nghia Phuc, a surprisingly stylish little café in the middle of nowhere, and a quick visit to [Thac Bon](https://www.google.com/maps/search/?api=1&query=Th%C3%A1c+B%E1%BB%93n+Giai+Xu%C3%A2n+Ngh%E1%BB%87+An) waterfall on the way into Nghe An Province.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0924.jpg" alt="Than An">
+  <em>Than An</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0924.jpg" alt="Than An">
-    <em>Than An</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-0928.jpg" alt="Than An - beef fried rice">
+  <em>Than An - beef fried rice</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0928.jpg" alt="Than An - beef fried rice">
-    <em>Than An - beef fried rice</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-0929.jpg" alt="Nghia Phuc - Chill">
+  <em>Nghia Phuc - Chill</em>
+</figure>
 
-</div>
-
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/Vietnam20-0929.jpg" alt="Nghia Phuc - Chill">
-    <em>Nghia Phuc - Chill</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0935.jpg" alt="Thác Bồn">
-    <em>Thác Bồn</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0935.jpg" alt="Thác Bồn">
+  <em>Thác Bồn</em>
+</figure>
 
 <figure>
   <img src="photos/Vietnam20-0937.jpg" alt="Nghe An">
@@ -1267,7 +1176,14 @@ For the night we stopped in Yen Le at [Nhà Nghỉ Thu Hoa](https://www.google.c
 
 ## 15 June 2020
 
-Another half day's ride took us north towards Hanoi, with only a few short stops along the way, including breakfast at [Quán Bánh Cuốn Nam Mai](https://www.google.com/maps/search/?api=1&query=Quan+banh+cuon+Nam+Mai+Ngoc+Phung) for some excellent bánh cuốn and bún chả. The countryside along the way was beautiful, and the area just south of Hanoi was particularly scenic, with picturesque old villages, verdant limestone karsts and lotus ponds.
+Another half day's ride took us north towards Hanoi, with only a few short stops along the way, including breakfast at [Quán Bánh Cuốn Nam Mai](https://www.google.com/maps/search/?api=1&query=Quan+banh+cuon+Nam+Mai+Ngoc+Phung) for some excellent bánh cuốn and bún chả.
+
+<figure>
+  <img src="photos/Vietnam20-0958.jpg" alt="Quán Bánh Cuốn Nam Mai - bánh cuốn and bún chả">
+  <em>Quán Bánh Cuốn Nam Mai - bánh cuốn and bún chả</em>
+</figure>
+
+The countryside along the way was beautiful, and the area just south of Hanoi was particularly scenic, with picturesque old villages, verdant limestone karsts and lotus ponds.
 
 <div class="photo-row">
 
@@ -1283,19 +1199,15 @@ Another half day's ride took us north towards Hanoi, with only a few short stops
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0955.jpg" alt="Thanh Hoa Province">
+  <em>Thanh Hoa Province</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0955.jpg" alt="Thanh Hoa Province">
-    <em>Thanh Hoa Province</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0969.jpg" alt="Around Hanoi">
-    <em>Around Hanoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0969.jpg" alt="Around Hanoi">
+  <em>Around Hanoi</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1310,11 +1222,6 @@ Another half day's ride took us north towards Hanoi, with only a few short stops
   </figure>
 
 </div>
-
-<figure>
-  <img src="photos/Vietnam20-0958.jpg" alt="Quán Bánh Cuốn Nam Mai - bánh cuốn and bún chả">
-  <em>Quán Bánh Cuốn Nam Mai - bánh cuốn and bún chả</em>
-</figure>
 
 In Hanoi we checked in at the [Avatar Hotel](https://www.google.com/maps/search/?api=1&query=Avatar+Hotel+Hanoi), a nice little place in a very good Old Quarter location, but it seemed we were the only guests at this spotless, modern and good-value hotel.
 
@@ -1332,19 +1239,15 @@ Late lunch at [Vietstreet @ Vincom](https://andrestgt.github.io/food/vietnam/han
 
 Evening drinks at [Pateta](https://andrestgt.github.io/food/vietnam/hanoi/restaurants/pateta/), a friendly place with a big balcony overlooking an old town street, serving cheap Larue draft (18k, even cheaper during happy hour) and tasty baguettes.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0986.jpg" alt="Hanoi">
+  <em>Hanoi</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0986.jpg" alt="Hanoi">
-    <em>Hanoi</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0988.jpg" alt="Hanoi - Pateta">
-    <em>Hanoi - Pateta</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0988.jpg" alt="Hanoi - Pateta">
+  <em>Hanoi - Pateta</em>
+</figure>
 
 Dinner at [Bún Cá Sâm Cây Si](https://andrestgt.github.io/food/vietnam/hanoi/street-food/bun-ca-sam-cay-si/), one of the best bowls of soup we found in Hanoi, deeply satisfying, generously portioned and excellent value at 40k.
 
@@ -1355,19 +1258,15 @@ Dinner at [Bún Cá Sâm Cây Si](https://andrestgt.github.io/food/vietnam/hanoi
 
 Late-night drinks at [Lúa Craft Beer](https://andrestgt.github.io/food/vietnam/hanoi/bars-pubs/lua-craft-beer/), a fantastic craft-beer place with balcony seating overlooking the night market. Prices are really good for Old Town Hanoi, with beers around 40k and half a delicious roast duck for 150k.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-0997.jpg" alt="Lúa Craft Beer - smoked duck">
+  <em>Lúa Craft Beer - smoked duck</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-0997.jpg" alt="Lúa Craft Beer - smoked duck">
-    <em>Lúa Craft Beer - smoked duck</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-0998.jpg" alt="Hanoi">
-    <em>Hanoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-0998.jpg" alt="Hanoi">
+  <em>Hanoi</em>
+</figure>
 
 ## 16 June 2020
 
@@ -1382,35 +1281,27 @@ Breakfast at [Bánh Mì 25](https://andrestgt.github.io/food/vietnam/hanoi/stree
 
 Morning coffee at [Tranquil Artisan Coffee](https://andrestgt.github.io/food/vietnam/hanoi/cafes/tranquil-artisan-coffee-08-nguyen-quang-bich/), a tiny but cute coffee shop with excellent flat whites for 50k.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1006.jpg" alt="Hanoi - Little Tranquil Coffee">
+  <em>Hanoi - Little Tranquil Coffee</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1006.jpg" alt="Hanoi - Little Tranquil Coffee">
-    <em>Hanoi - Little Tranquil Coffee</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1010.jpg" alt="Hanoi">
-    <em>Hanoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1010.jpg" alt="Hanoi">
+  <em>Hanoi</em>
+</figure>
 
 Second breakfast at [Bún Bò Nam Bộ Bách Phương](https://andrestgt.github.io/food/vietnam/hanoi/street-food/bun-bo-nam-bo-bach-phuong/). Bún bò nam bộ is one of these Vietnamese dishes that is particularly suited to Western sensibilities without needing to be altered or toned down. This place does a very good job with a generous amount of marinated meat and a nicely balanced sauce. 65k for a big bowl. Packed every day even in Corona times.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1013.jpg" alt="Hanoi - Bún Bò Nam Bộ Bách Phương">
+  <em>Hanoi - Bún Bò Nam Bộ Bách Phương</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1013.jpg" alt="Hanoi - Bún Bò Nam Bộ Bách Phương">
-    <em>Hanoi - Bún Bò Nam Bộ Bách Phương</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1014.jpg" alt="Hanoi">
-    <em>Hanoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1014.jpg" alt="Hanoi">
+  <em>Hanoi</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1454,37 +1345,31 @@ Lunch at [Bia Hơi Thu Hằng](https://andrestgt.github.io/food/vietnam/hanoi/ba
 
 Afternoon drinks at [The 100 Garden](https://andrestgt.github.io/food/vietnam/hanoi/bars-pubs/the-100-garden/). Hands down the best beer garden in Hanoi. The location is a bit inconvenient but well worth seeking out. During happy hour from 4 to 6 p.m. we got three glasses of any Furbrew craft beer for a mere 100k. What makes it really special is the food, which is also excellent value. There is a choice of Central European food prepared by a German chef and Mediterranean food prepared by a Spanish chef. Ironically we paid less for this kind of food here than for local food at some Hanoi bia hơi joints.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1032.jpg" alt="Hanoi - The 100 Garden">
+  <em>Hanoi - The 100 Garden</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1032.jpg" alt="Hanoi - The 100 Garden">
-    <em>Hanoi - The 100 Garden</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1035.jpg" alt="Hanoi">
-    <em>Hanoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1035.jpg" alt="Hanoi">
+  <em>Hanoi</em>
+</figure>
 
 ## 17 June 2020
 
-North out of Hanoi, heading up towards Thai Nguyen, with a stop for delicious buffalo phở on Highway 3 near the airport. Past Thai Nguyen we followed beautiful little country roads through wild, remote mountain scenery towards Ba Be, our planned destination for the day, with a short stop at the [Thac Mua Roi](https://www.google.com/maps/search/?api=1&query=Th%C3%A1c+M%C6%B0a+R%C6%A1i%2C+Th%C3%A1i+Nguy%C3%AAn) waterfall along the way.
+North out of Hanoi, heading up towards Thai Nguyen, with a stop for delicious buffalo phở on Highway 3 near the airport.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1039.jpg" alt="Phu Lo - phở thịt trâu">
+  <em>Phu Lo - phở thịt trâu</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1039.jpg" alt="Phu Lo - phở thịt trâu">
-    <em>Phu Lo - phở thịt trâu</em>
-  </figure>
+Past Thai Nguyen we followed beautiful little country roads through wild, remote mountain scenery towards Ba Be, our planned destination for the day, with a short stop at the [Thac Mua Roi](https://www.google.com/maps/search/?api=1&query=Th%C3%A1c+M%C6%B0a+R%C6%A1i%2C+Th%C3%A1i+Nguy%C3%AAn) waterfall along the way.
 
-  <figure>
-    <img src="photos/Vietnam20-1043.jpg" alt="Thac Mua Roi">
-    <em>Thac Mua Roi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1043.jpg" alt="Thac Mua Roi">
+  <em>Thac Mua Roi</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1521,19 +1406,15 @@ North out of Hanoi, heading up towards Thai Nguyen, with a stop for delicious bu
 
 By the time we reached the market in Cho Chu for lunch it had started to rain, so we changed plans and turned back southwards towards Ha Long, where the weather forecast promised sunshine. Late lunch of fried fish and cold bia hơi at [Bia Hơi Nhở Kiên](https://www.google.com/maps/search/?api=1&query=Bia+Hoi+Nho+Kien+Trai+Cau) in Trai Cau, and then on country roads into the coal-mining area of Southern Bac Ninh, an unreal place that looks like something out of a different age, where men with blackened faces go about their business and everything is covered in soot.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1060.jpg" alt="Cho Chu - nem chua">
+  <em>Cho Chu - nem chua</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1060.jpg" alt="Cho Chu - nem chua">
-    <em>Cho Chu - nem chua</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1062.jpg" alt="Bia Hơi Nhở Kiên - fried fish">
-    <em>Bia Hơi Nhở Kiên - fried fish</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1062.jpg" alt="Bia Hơi Nhở Kiên - fried fish">
+  <em>Bia Hơi Nhở Kiên - fried fish</em>
+</figure>
 
 <figure>
   <img src="photos/Vietnam20-1063.jpg" alt="Bac Giang Province">
@@ -1549,37 +1430,33 @@ For the night we stopped in Thanh Son at [Nhà Nghỉ Đương Soài](https://ww
 
 ## 18 June 2020
 
-Down to Tuan Chau for the Cat Ba ferry, with a bowl of bún riêu at the marina to kill some time before boarding. The ferry ride itself is an inexpensive but gorgeous way to reach the island, a trip through the beautiful karst formations of Ha Long Bay. It dropped us at the northern end of Cat Ba, a magnificent twenty-kilometre ride away from town, with a quick rest stop at [Catba Green](https://www.google.com/maps/search/?api=1&query=Catba+Green+Cat+Ba) on the way into town, but the 50k they wanted to charge us for a 1-litre bottle of bia hơi was way too expensive for a rural village eatery, so we did not order any food.
+Down to Tuan Chau for the Cat Ba ferry, with a bowl of bún riêu at the marina to kill some time before boarding.
+
+<figure>
+  <img src="photos/Vietnam20-1065.jpg" alt="Tuan Chau Marina - bún riêu">
+  <em>Tuan Chau Marina - bún riêu</em>
+</figure>
+
+The ferry ride itself is an inexpensive but gorgeous way to reach the island, a trip through the beautiful karst formations of Ha Long Bay. It dropped us at the northern end of Cat Ba, a magnificent twenty-kilometre ride away from town, with a quick rest stop at [Catba Green](https://www.google.com/maps/search/?api=1&query=Catba+Green+Cat+Ba) on the way into town, but the 50k they wanted to charge us for a 1-litre bottle of bia hơi was way too expensive for a rural village eatery, so we did not order any food.
 
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Vietnam20-1065.jpg" alt="Tuan Chau Marina - bún riêu">
-    <em>Tuan Chau Marina - bún riêu</em>
+    <img src="photos/Vietnam20-1069.jpg" alt="Cat Ba Ferry">
+    <em>Cat Ba Ferry</em>
   </figure>
 
   <figure>
-    <img src="photos/Vietnam20-1069.jpg" alt="Tuan Chau - Cat Ba Ferry">
-    <em>Tuan Chau - Cat Ba Ferry</em>
+    <img src="photos/Vietnam20-1083.jpg" alt="Cat Ba Ferry">
+    <em>Cat Ba Ferry</em>
   </figure>
 
 </div>
 
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/Vietnam20-1083.jpg" alt="Tuan Chau - Cat Ba Ferry">
-    <em>Tuan Chau - Cat Ba Ferry</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1084.jpg" alt="Cat Ba">
-    <em>Cat Ba</em>
-  </figure>
-
-</div>
-
-In Cat Ba town we checked in at [Cat Ba Dream Hotel](https://www.google.com/maps/search/?api=1&query=Cat+Ba+Dream+Hotel). Our room had a million-dollar view and the location is as central as it gets. Rooms are a bit tired but great value during the week. Prices double or triple on weekends, but only masochists would stay in Cat Ba on Saturdays or Sundays anyway.
+<figure>
+  <img src="photos/Vietnam20-1084.jpg" alt="Cat Ba">
+  <em>Cat Ba</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1595,19 +1472,17 @@ In Cat Ba town we checked in at [Cat Ba Dream Hotel](https://www.google.com/maps
 
 </div>
 
-<div class="photo-row">
+In Cat Ba town we checked in at [Cat Ba Dream Hotel](https://www.google.com/maps/search/?api=1&query=Cat+Ba+Dream+Hotel). Our room had a million-dollar view and the location is as central as it gets. Rooms are a bit tired but great value during the week. Prices double or triple on weekends, but only masochists would stay in Cat Ba on Saturdays or Sundays anyway.
 
-  <figure>
-    <img src="photos/Vietnam20-1090.jpg" alt="Cat Ba Dream Hotel">
-    <em>Cat Ba Dream Hotel</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-1090.jpg" alt="Cat Ba Dream Hotel">
+  <em>Cat Ba Dream Hotel</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1091.jpg" alt="Cat Ba">
-    <em>Cat Ba</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1091.jpg" alt="Cat Ba">
+  <em>Cat Ba</em>
+</figure>
 
 After a long beautiful walk around the headland with its beautiful coves and a refreshing dip at the deserted Cat Co 3 Beach, we had lunch at [Yummy 2](https://andrestgt.github.io/food/vietnam/hai-phong/cat-ba/restaurants/yummy-2-restaurant/). There is a good reason why Yummy is the most popular traveller café in Cat Ba. Friendly, inexpensive, and the food is better value than many places that cater to local tourists. Mostly Vietnamese with a few Thai and Western dishes thrown in. Even most seafood dishes cost less than 100k, a bottle of Haiphong Bia is 15k, and there is good bia hơi for 9k a mug.
 
@@ -1752,19 +1627,15 @@ Afternoon drinks at [Turtle Lake Brewing Company](https://andrestgt.github.io/fo
 
 Second attempt to leave the lowlands. West out of Hanoi, heading up towards the northern mountains.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1205.jpg" alt="Hanoi - bánh cuốn">
+  <em>Hanoi - bánh cuốn</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1205.jpg" alt="Hanoi - bánh cuốn">
-    <em>Hanoi - bánh cuốn</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1207.jpg" alt="Around Hanoi">
-    <em>Around Hanoi</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1207.jpg" alt="Around Hanoi">
+  <em>Around Hanoi</em>
+</figure>
 
 <figure>
   <img src="photos/Vietnam20-1210.jpg" alt="Yen Bai Province">
@@ -1829,19 +1700,15 @@ Highway 32 through Mu Cang Chai is possibly the most scenic drive in Vietnam. Ev
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1262.JPG" alt="Mu Cang Chai">
+  <em>Mu Cang Chai</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1262.JPG" alt="Mu Cang Chai">
-    <em>Mu Cang Chai</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1263.jpg" alt="Mu Cang Chai">
-    <em>Mu Cang Chai</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1263.jpg" alt="Mu Cang Chai">
+  <em>Mu Cang Chai</em>
+</figure>
 
 For the night we stayed at [Nhà Nghỉ Gà Tre](https://www.google.com/maps/search/?api=1&query=Nha+Nghi+Ga+Tre+Mu+Cang+Chai) in a simple but clean ensuite room for 200k. A good choice in this area of gorgeous rice terraces.
 
@@ -1935,19 +1802,15 @@ From there we crossed north into Lai Chau Province, passing over the [O Quy Ho P
 
 In Sa Pa we checked in at [Oyo Mangcay House](https://www.google.com/maps/search/?api=1&query=Mangcay+House+Sapa). We paid just 150k for a very nice and spacious room, so while I understand some of the modest reviews, here there is not much to complain about. The location is very noisy because of all the construction going on in Sa Pa, but it is right in the centre, walking distance from everywhere. Staff don't speak English and are not exactly helpful, but the room itself was lovely, spotless and spacious, with everything in working order.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1338.jpg" alt="Sa Pa - Oyo Mangcay House">
+  <em>Sa Pa - Oyo Mangcay House</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1338.jpg" alt="Sa Pa - Oyo Mangcay House">
-    <em>Sa Pa - Oyo Mangcay House</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1342.jpg" alt="Sa Pa">
-    <em>Sa Pa</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1342.jpg" alt="Sa Pa">
+  <em>Sa Pa</em>
+</figure>
 
 <div class="photo-row">
 
@@ -1965,19 +1828,15 @@ In Sa Pa we checked in at [Oyo Mangcay House](https://www.google.com/maps/search
 
 Lunch at [Paradise Restaurant](https://andrestgt.github.io/food/vietnam/lao-cai/sa-pa/restaurants/paradise-restaurant/), one of the few old traveller cafés still standing after Covid. Spectacular views of Fansipan and the rice terraces, and the food is very good tourist fare at acceptable prices, with excellent pork spring rolls for 60k and Lào Cai Beer at 20k.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1350.jpg" alt="Sa Pa">
+  <em>Sa Pa</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1350.jpg" alt="Sa Pa">
-    <em>Sa Pa</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1355.jpg" alt="Paradise Restaurant - fried noodles with pork and spring rolls">
-    <em>Paradise Restaurant - fried noodles with pork and spring rolls</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1355.jpg" alt="Paradise Restaurant - fried noodles with pork and spring rolls">
+  <em>Paradise Restaurant - fried noodles with pork and spring rolls</em>
+</figure>
 
 <div class="photo-row">
 
@@ -2087,35 +1946,27 @@ Our final destination was the rice terraces of [Ruong Bac Thang Ngai Thau](https
 
 Late lunch back down in Muong Hum at [Quán Giang Nguyên](https://andrestgt.github.io/food/vietnam/lao-cai/muong-hum/street-food/quan-giang-nguyen/). The small town of Muong Hum is surrounded by gorgeous scenery but there are not a whole lot of food options. This is the only place we saw that resembles a sit-down restaurant. Very decent phở gà for 30k a big bowl.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1477.jpg" alt="Muong Hum">
+  <em>Muong Hum</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1477.jpg" alt="Muong Hum">
-    <em>Muong Hum</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-1478.jpg" alt="Quán Giang Nguyên - phở gà">
+  <em>Quán Giang Nguyên - phở gà</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1478.jpg" alt="Quán Giang Nguyên - phở gà">
-    <em>Quán Giang Nguyên - phở gà</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1483.jpg" alt="Sa Pa">
+  <em>Sa Pa</em>
+</figure>
 
 Back to Sa Pa for dinner at [A Phủ](https://andrestgt.github.io/food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/), an attractive restaurant with a hill tribe theme that caters to tourists and locals with a menu of all the usual Sa Pa standards at Sa Pa prices. The grilled horse for 180k came with a nice dipping sauce and the fries and mushroom soup were both tasty, if the mushroom selection was a bit disappointing for a place in Sa Pa (50k a bowl). The salmon was slightly disappointing: fresh but with bones in a sashimi cut, a definite no-no, and the flavour of the farmed salmon in this region is a little lacking, at 250k for a rather small portion. Still one of the better places to eat in Sa Pa where good value is hard to find.
 
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/Vietnam20-1483.jpg" alt="Sa Pa">
-    <em>Sa Pa</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1497.jpg" alt="A Phủ - grilled horse and mushroom soup">
-    <em>A Phủ - grilled horse and mushroom soup</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1497.jpg" alt="A Phủ - grilled horse and mushroom soup">
+  <em>A Phủ - grilled horse and mushroom soup</em>
+</figure>
 
 <figure>
   <img src="photos/Vietnam20-1500.jpg" alt="Sa Pa">
@@ -2133,19 +1984,15 @@ After a tasty breakfast of bánh cuốn, we started riding east from Sa Pa towar
 
 Morning coffee break at [Xa Lao Chai](https://www.google.com/maps/search/?api=1&query=Xa+Lao+Chai+Sapa) in the beautiful village of the same name.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1508.jpg" alt="Around Sa Pa">
+  <em>Around Sa Pa</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1508.jpg" alt="Around Sa Pa">
-    <em>Around Sa Pa</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1521.jpg" alt="Xa Lao Chai">
-    <em>Xa Lao Chai</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1521.jpg" alt="Xa Lao Chai">
+  <em>Xa Lao Chai</em>
+</figure>
 
 <div class="photo-row">
 
@@ -2376,24 +2223,24 @@ Breakfast at [Bánh Cuốn Thanh Tân](https://andrestgt.github.io/food/vietnam/
 
 En route to Hà Giang, along another spectacular stretch of mountain road, we came across some of the most picturesque rice terraces in Vietnam around [Nam Ty](https://www.google.com/maps/search/?api=1&query=N%E1%BA%ADm+T%E1%BB%B5%2C+Ho%C3%A0ng+Su+Ph%C3%AC).
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1702.jpg" alt="Hà Giang Province">
+  <em>Hà Giang Province</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1702.jpg" alt="Hà Giang Province">
-    <em>Hà Giang Province</em>
-  </figure>
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-1715.jpg" alt="Hà Giang Province - Nam Ty">
     <em>Hà Giang Province - Nam Ty</em>
   </figure>
 
-</div>
+  <figure>
+    <img src="photos/Vietnam20-1722.jpg" alt="Hà Giang Province - Nam Ty">
+    <em>Hà Giang Province - Nam Ty</em>
+  </figure>
 
-<figure>
-  <img src="photos/Vietnam20-1722.jpg" alt="Hà Giang Province - Nam Ty">
-  <em>Hà Giang Province - Nam Ty</em>
-</figure>
+</div>
 
 Mid-morning coffee at [Khánh Chi](https://www.google.com/maps/search/?api=1&query=Khanh+Chi+cafe+Ha+Giang) in Hà Giang town.
 
@@ -2540,19 +2387,15 @@ The village of [Pho Bang](https://www.google.com/maps/search/?api=1&query=Ph%C3%
 
 In Dong Van we checked in at [Lâm Tùng Hotel](https://www.google.com/maps/search/?api=1&query=Lam+Tung+Hotel+Dong+Van). I am not sure I am happy that there is a seven-floor hotel right next to the traditional hilltribe market, but to be fair the location is absolutely perfect and the rooms are good too. 270k on the weekend for a spacious room with a view, friendly management.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-1867.jpg" alt="Dong Van">
+  <em>Dong Van</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-1867.jpg" alt="Dong Van">
-    <em>Dong Van</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-1868.jpg" alt="Dong Van - Lâm Tùng Hotel">
-    <em>Dong Van - Lâm Tùng Hotel</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-1868.jpg" alt="Dong Van - Lâm Tùng Hotel">
+  <em>Dong Van - Lâm Tùng Hotel</em>
+</figure>
 
 Then we rode out to the [Ma Pi Leng Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng), a spectacular mountain pass and one of the best and most breathtaking motorcycle rides you could possibly wish for.
 
@@ -2688,19 +2531,15 @@ Then we continued the loop, back over the Ma Pi Leng Pass, this time towards Mè
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2009.jpg" alt="Ma Pi Leng Pass">
+  <em>Ma Pi Leng Pass</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2009.jpg" alt="Ma Pi Leng Pass">
-    <em>Ma Pi Leng Pass</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2013.jpg" alt="Mèo Vạc">
-    <em>Mèo Vạc</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2013.jpg" alt="Mèo Vạc">
+  <em>Mèo Vạc</em>
+</figure>
 
 From Mèo Vạc the road towards Du Già gets really bad and takes you through gorgeous scenery to the village of [Du Già](https://www.google.com/maps/search/?api=1&query=Du+Gi%C3%A0%2C+H%C3%A0+Giang) and on towards Highway 34. Du Già is the most attractive and remote main stop on the Hà Giang loop. It is the kind of place where you could probably spend weeks just ambling through the fields, enjoying the vistas and the mountain air. Looking back, I regret not spending more time in this area.
 
@@ -2732,38 +2571,38 @@ From Mèo Vạc the road towards Du Già gets really bad and takes you through g
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2049.jpg" alt="Mèo Vạc to Du Già">
+  <em>Mèo Vạc to Du Già</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2049.jpg" alt="Mèo Vạc to Du Già">
-    <em>Mèo Vạc to Du Già</em>
-  </figure>
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-2053.jpg" alt="Du Già">
     <em>Du Già</em>
   </figure>
 
-</div>
-
-<div class="photo-row">
-
   <figure>
     <img src="photos/Vietnam20-2062.jpg" alt="Du Già">
     <em>Du Già</em>
   </figure>
+
+</div>
+
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-2066.jpg" alt="Hwy 176">
     <em>Hwy 176</em>
   </figure>
 
-</div>
+  <figure>
+    <img src="photos/Vietnam20-2074.jpg" alt="Hwy 176">
+    <em>Hwy 176</em>
+  </figure>
 
-<figure>
-  <img src="photos/Vietnam20-2074.jpg" alt="Hwy 176">
-  <em>Hwy 176</em>
-</figure>
+</div>
 
 For the night we stopped in Bac Me at the basic but adequate [Nhà Nghỉ Hương Lan](https://www.google.com/maps/search/?api=1&query=Nha+Nghi+Huong+Lan+Bac+Me). Takeaway dinner of vịt quay back in our room.
 
@@ -2776,19 +2615,15 @@ For the night we stopped in Bac Me at the basic but adequate [Nhà Nghỉ Hươn
 
 Instead of looping back into Hà Giang, we took Highway 176, another remote and spectacular mountain road, into Bac Kan Province, heading for Ba Be.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2080.jpg" alt="Bac Me - bánh cuốn">
+  <em>Bac Me - bánh cuốn</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2080.jpg" alt="Bac Me - bánh cuốn">
-    <em>Bac Me - bánh cuốn</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2082.jpg" alt="Hwy 176">
-    <em>Hwy 176</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2082.jpg" alt="Hwy 176">
+  <em>Hwy 176</em>
+</figure>
 
 <div class="photo-row">
 
@@ -2887,19 +2722,15 @@ We spent the night at [Ba Be Lake View Homestay](https://www.google.com/maps/sea
 
 Back to Hanoi. A long but uneventful ride through Thai Nguyen province.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2135.jpg" alt="Bac Kan Province">
+  <em>Bac Kan Province</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2135.jpg" alt="Bac Kan Province">
-    <em>Bac Kan Province</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2140.jpg" alt="Thai Nguyen Province">
-    <em>Thai Nguyen Province</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2140.jpg" alt="Thai Nguyen Province">
+  <em>Thai Nguyen Province</em>
+</figure>
 
 In Hanoi we checked in at [Hanoi Prime Center Hotel](https://www.google.com/maps/search/?api=1&query=Hanoi+Prime+Center+Hotel). Despite the great location, free bike parking and spotless, good-value rooms I would not recommend this place. A disastrous Wi-Fi connection is a definite deal breaker in a big-city hotel in 2020, but even worse is dishonest service. They wrote that coffee, tea and Alaska water (350 ml bottles) were free of charge. However, there was no coffee, tea or 350 ml Alaska water in the room. There was, however, 450 ml Alaska, for which we got charged at the end of our stay. Upon our questioning this rather deceptive move, the receptionist was disarmingly honest about it, saying that because the rooms are so cheap, they do it this way.
 
@@ -2942,19 +2773,15 @@ Last full day in Hanoi before going back south. We spent most of the day in the 
 
 Coffee first at [Little Tranquil](https://andrestgt.github.io/food/vietnam/hanoi/cafes/little-tranquil-coffee-3-hang-manh/), followed by breakfast phở at [Phở Gia Truyền](https://andrestgt.github.io/food/vietnam/hanoi/street-food/pho-gia-truyen-bat-dan/), the most famous phở place in the Old Town, packed with locals at any time of day. It generally doesn't take too long to get a table though, and service is helpful. The phở is Northern style with coriander and a very clear broth. I personally prefer my broth a little more pungent, Southern style, but there is no denying that this is a very fine bowl of phở, and coriander always makes me happy. 60k, a reasonable price for this quality.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2150.jpg" alt="Hanoi - Little Tranquil Coffee">
+  <em>Hanoi - Little Tranquil Coffee</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2150.jpg" alt="Hanoi - Little Tranquil Coffee">
-    <em>Hanoi - Little Tranquil Coffee</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2151.jpg" alt="Phở Gia Truyền - phở bò">
-    <em>Phở Gia Truyền - phở bò</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2151.jpg" alt="Phở Gia Truyền - phở bò">
+  <em>Phở Gia Truyền - phở bò</em>
+</figure>
 
 Lunch snack at [Nhà Hàng Bia Sửu](https://andrestgt.github.io/food/vietnam/hanoi/street-food/nha-hang-bia-suu/), a classic Hanoi street drinking joint with good bia hơi at 12k a glass and very tasty grilled pork belly to accompany it. Service could be better though; in a bia hơi place, you should never have to wait long to get your glass refilled.
 
@@ -2981,19 +2808,15 @@ Back to The 100 for one last afternoon of currywurst and pork schnitzel.
 
 South out of Hanoi, the long way back home starting properly now. We took only backroads, partly through industrial wasteland around Tan Thanh which left us covered in grey cement dust, partly through wonderful landscapes around the limestone hills of [Trang An](https://www.google.com/maps/search/?api=1&query=Tr%C3%A0ng+An%2C+Ninh+B%C3%ACnh).
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2168.jpg" alt="Around Ninh Binh">
+  <em>Around Ninh Binh</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2168.jpg" alt="Around Ninh Binh">
-    <em>Around Ninh Binh</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2171.jpg" alt="Trang An">
-    <em>Trang An</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2171.jpg" alt="Trang An">
+  <em>Trang An</em>
+</figure>
 
 For the night we stopped in Thanh Hoa at the [Camellia Hotel](https://www.google.com/maps/search/?api=1&query=Camellia+Hotel+Thanh+Hoa). This is how all budget provincial town hotels should be. Welcoming, with spotlessly clean simple rooms with hot water shower, cool AC and functioning Wi-Fi. 220k for a double with balcony.
 
@@ -3041,24 +2864,24 @@ Lunch in Vinh at [Hồng Sơn](https://andrestgt.github.io/food/vietnam/nghe-an/
 
 Afternoon coffee at [Nocenco](https://andrestgt.github.io/food/vietnam/nghe-an/vinh/cafes/nocenco-coffee/), a unique café with a stunningly designed interior and views over the city. Prices are not much higher than elsewhere. A definite must-do in Vinh.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2191.jpg" alt="Vinh - Nocenco">
+  <em>Vinh - Nocenco</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2191.jpg" alt="Vinh - Nocenco">
-    <em>Vinh - Nocenco</em>
-  </figure>
+<div class="photo-row">
 
   <figure>
     <img src="photos/Vietnam20-2192.jpg" alt="Vinh">
     <em>Vinh</em>
   </figure>
 
-</div>
+  <figure>
+    <img src="photos/Vietnam20-2194.jpg" alt="Vinh">
+    <em>Vinh</em>
+  </figure>
 
-<figure>
-  <img src="photos/Vietnam20-2194.jpg" alt="Vinh">
-  <em>Vinh</em>
-</figure>
+</div>
 
 For the night we stopped in Ha Tinh at [Thanh Bình Hotel](https://www.google.com/maps/search/?api=1&query=Thanh+Binh+Hotel+Ha+Tinh), which looked a little run down from outside but the rooms were newly renovated, neat and bright. A good deal for 200k, especially considering that accommodation options in Ha Tinh aren't exactly plentiful or good value in general.
 
@@ -3225,19 +3048,15 @@ More of the Ho Chi Minh Trail West, down to Prao, then east back towards the coa
 
 Coffee stop in Prao at [Café Minh Thắng](https://andrestgt.github.io/food/vietnam/quang-nam/dong-giang/cafes/cafe-minh-thang/). A basic café that was worth a stop for its attached bakery where they bake baguettes in an old-school wood-fired oven, so we got nice bánh mì sandwiches with our coffee for a mere 10k each.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2257.jpg" alt="Prao - Café Minh Thắng">
+  <em>Prao - Café Minh Thắng</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2257.jpg" alt="Prao - Café Minh Thắng">
-    <em>Prao - Café Minh Thắng</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2261.jpg" alt="Quang Nam Province">
-    <em>Quang Nam Province</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2261.jpg" alt="Quang Nam Province">
+  <em>Quang Nam Province</em>
+</figure>
 
 Back in Da Nang, this time we stayed at [Nemo](https://www.google.com/maps/search/?api=1&query=Nemo+Hotel+Da+Nang), a friendly family-run mini hotel ideally located halfway between the beach and downtown, in an area full of good local and tourist cafés and eateries. The rooms were smallish but well designed and had everything you need: cool AC, an extra fan, stable Wi-Fi, hot water shower and a fridge that keeps running even when you are not in the room (this is strangely not a given in Vietnam). Under 200k, a right bargain.
 
@@ -3250,19 +3069,15 @@ Coffee at [Why Coffee Roastery](https://andrestgt.github.io/food/vietnam/da-nang
 
 Dinner at 7 Bridges, this time to try the phở pizza.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2265.jpg" alt="Da Nang">
+  <em>Da Nang</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2265.jpg" alt="Da Nang">
-    <em>Da Nang</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2267.jpg" alt="7 Bridges - phở pizza">
-    <em>7 Bridges - phở pizza</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2267.jpg" alt="7 Bridges - phở pizza">
+  <em>7 Bridges - phở pizza</em>
+</figure>
 
 ## 7 July 2020
 
@@ -3282,19 +3097,15 @@ In Hoi An we checked in at [Cococha](https://www.google.com/maps/search/?api=1&q
 
 Lunch at [Chips&Fish](https://andrestgt.github.io/food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/). This used to be my favourite place in town, but after a three-year hiatus of dining here, I am not convinced anymore. Prices have become disproportionately inflated, double to triple of what they used to be. 69k for a few small white rose dumplings? The food is still good, but there is better value to be had elsewhere these days.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2272.jpg" alt="Hoi An - Chips&Fish">
+  <em>Hoi An - Chips&Fish</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2272.jpg" alt="Hoi An - Chips&Fish">
-    <em>Hoi An - Chips&Fish</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2273.jpg" alt="Chips&Fish - white rose">
-    <em>Chips&Fish - white rose</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2273.jpg" alt="Chips&Fish - white rose">
+  <em>Chips&Fish - white rose</em>
+</figure>
 
 Second lunch at [Cao Lầu Không Gian Xanh](https://andrestgt.github.io/food/vietnam/hoi-an/street-food/cao-lau-khong-gian-xanh/), a basic, authentic place for delicious hến trộn (35k) with bánh tráng, essentially tiny mussels with rice bread, and yes, it's much better than it sounds. They also do what I consider the best cao lầu in town, an almost dry version with delicious saté and crunchy chicharon (40k). The strategic location essentially at the entrance of the best part of the Old Town makes it look like a tourist trap, but it's definitely not. The few dishes they serve are great and prices are very moderate by 2020 Hoi An standards.
 
@@ -3312,19 +3123,15 @@ Second lunch at [Cao Lầu Không Gian Xanh](https://andrestgt.github.io/food/vi
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2281.jpg" alt="Cao Lầu Không Gian Xanh - cao lầu">
+  <em>Cao Lầu Không Gian Xanh - cao lầu</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2281.jpg" alt="Cao Lầu Không Gian Xanh - cao lầu">
-    <em>Cao Lầu Không Gian Xanh - cao lầu</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2285.jpg" alt="Hoi An">
-    <em>Hoi An</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2285.jpg" alt="Hoi An">
+  <em>Hoi An</em>
+</figure>
 
 <div class="photo-row">
 
@@ -3347,35 +3154,27 @@ Second lunch at [Cao Lầu Không Gian Xanh](https://andrestgt.github.io/food/vi
 
 Sundowners at [Bungalow Beach Bar](https://andrestgt.github.io/food/vietnam/hoi-an/bars-pubs/bungalow-beach-bar/). Not strictly a beach bar as it is not right on the beach, but it does have the vibes of one, and there is a nice little swimming pool that is free to use for guests. Good variety of craft beers on tap (it is a self-declared Tiger-free zone) and a nice happy hour between 5 and 7 p.m. Some international pub grub with an emphasis on Tex-Mex, and they make some really good tacos (only 25k on Tuesdays). It is a very friendly place, and no surprise it is popular with the local expats.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2309.jpg" alt="Bungalow Beach Bar - tacos">
+  <em>Bungalow Beach Bar - tacos</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2309.jpg" alt="Bungalow Beach Bar - tacos">
-    <em>Bungalow Beach Bar - tacos</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2310.jpg" alt="Hoi An">
-    <em>Hoi An</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2310.jpg" alt="Hoi An">
+  <em>Hoi An</em>
+</figure>
 
 Dinner at [Baby Mustard](https://andrestgt.github.io/food/vietnam/hoi-an/restaurants/baby-mustard/), one of the loveliest restaurants in the Hoi An area. A simple bamboo house with huge vegetable gardens in the back where they source most ingredients from. Everything is freshly prepared, so this was not a quick meal. Nice fried spring rolls and the steamed vegetables for their rau kho quẹt were super fresh and crunchy. The grilled lemongrass chicken was possibly a little too adapted to Western palates but rather delicious nonetheless. Prices are reasonable for a tourist-oriented place in such nice surroundings, with most dishes under 100k.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2313.jpg" alt="Hoi An">
+  <em>Hoi An</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2313.jpg" alt="Hoi An">
-    <em>Hoi An</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2320.jpg" alt="Baby Mustard - fish grilled in banana leaf and kho quẹt">
-    <em>Baby Mustard - fish grilled in banana leaf and kho quẹt</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2320.jpg" alt="Baby Mustard - fish grilled in banana leaf and kho quẹt">
+  <em>Baby Mustard - fish grilled in banana leaf and kho quẹt</em>
+</figure>
 
 ## 8 July 2020
 
@@ -3383,65 +3182,49 @@ A day in Hoi An.
 
 Morning coffee at [Roving Chillhouse](https://andrestgt.github.io/food/vietnam/hoi-an/cafes/roving-chill-house/), the most exciting newcomer to Hoi An's already impressive café scene. They have clearly created something beautiful here in the middle of the rice fields. The coffees are good too, and moderately priced considering the location. A cappuccino is 50k.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2326.jpg" alt="Roving Chillhouse - cappuccino">
+  <em>Roving Chillhouse - cappuccino</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2326.jpg" alt="Roving Chillhouse - cappuccino">
-    <em>Roving Chillhouse - cappuccino</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2330.jpg" alt="Hoi An - Roving Chillhouse">
-    <em>Hoi An - Roving Chillhouse</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2330.jpg" alt="Hoi An - Roving Chillhouse">
+  <em>Hoi An - Roving Chillhouse</em>
+</figure>
 
 Breakfast at [Madame Khánh](https://andrestgt.github.io/food/vietnam/hoi-an/street-food/madam-khanh-the-banh-mi-queen/), where the 30k bánh mì is one of the best in the country. I am particularly fond of their chilli jam, which gives it a distinctive edge. Usually less crowded than Phượng but every bit as good.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2333.jpg" alt="Hoi An - mì quảng">
+  <em>Hoi An - mì quảng</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2333.jpg" alt="Hoi An - mì quảng">
-    <em>Hoi An - mì quảng</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2334.jpg" alt="Madame Khánh - bánh mì">
-    <em>Madame Khánh - bánh mì</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2334.jpg" alt="Madame Khánh - bánh mì">
+  <em>Madame Khánh - bánh mì</em>
+</figure>
 
 Lunch of chicken curry at [Madam Kiều](https://www.google.com/maps/search/?api=1&query=Madam+Kieu+Hoi+An), a nicely decorated, rather pricey restaurant in a prime location opposite the Old Town.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2339.jpg" alt="Madam Kiều - chicken curry">
+  <em>Madam Kiều - chicken curry</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2339.jpg" alt="Madam Kiều - chicken curry">
-    <em>Madam Kiều - chicken curry</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-2359.jpg" alt="Hoi An">
+  <em>Hoi An</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2359.jpg" alt="Hoi An">
-    <em>Hoi An</em>
-  </figure>
+<figure>
+  <img src="photos/Vietnam20-2363.jpg" alt="Hoi An - Mot">
+  <em>Hoi An - Mot</em>
+</figure>
 
-</div>
-
-<div class="photo-row">
-
-  <figure>
-    <img src="photos/Vietnam20-2363.jpg" alt="Hoi An - Mot">
-    <em>Hoi An - Mot</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2366.jpg" alt="Hoi An">
-    <em>Hoi An</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2366.jpg" alt="Hoi An">
+  <em>Hoi An</em>
+</figure>
 
 Snack at [Madamquan](https://andrestgt.github.io/food/vietnam/hoi-an/restaurants/madamquan/), which is located right next to Cococha, but it is an authentic local quán nhậu drinking place with an extensive menu of mouth-watering dishes. They have two menus, the aforementioned in Vietnamese only and a shorter English one. We went for the former, not to miss out on their best dishes such as gỏi cá trích, a fish salad (55k), and ốc hương (59k), fragrant shells in spicy sauce. Prices are very good for Hoi An and beer is cheap too.
 
@@ -3503,19 +3286,15 @@ Pit stop at [Quán Cây Sung](https://andrestgt.github.io/food/vietnam/kon-tum/k
 
 In Kon Tum we checked into [Window 2](https://www.google.com/maps/search/?api=1&query=Hotel+Window+2+Kon+Tum), a rather fancy place for a provincial budget hotel where rooms go for as little as 160k. Big comfy bed, fridge, cool AC. Extremely good value.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2402.jpg" alt="Kon Tum - Hotel Window 2">
+  <em>Kon Tum - Hotel Window 2</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2402.jpg" alt="Kon Tum - Hotel Window 2">
-    <em>Kon Tum - Hotel Window 2</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2404.jpg" alt="Gỏi Lá Út Cưng - gỏi lá">
-    <em>Gỏi Lá Út Cưng - gỏi lá</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2404.jpg" alt="Gỏi Lá Út Cưng - gỏi lá">
+  <em>Gỏi Lá Út Cưng - gỏi lá</em>
+</figure>
 
 Dinner at [Gỏi Lá Út Cưng](https://andrestgt.github.io/food/vietnam/kon-tum/kon-tum/restaurants/goi-la-ut-cung/), possibly Kon Tum's most famous restaurant. This large open-air place has a very popular version of gỏi lá, literally leaf salad, which is a specialty in this area. This dish consists of a massive plate of different edible leaves, plus some fillings to wrap around: some lard, some prawns, some pork skin, peanuts, and a lovely dipping sauce. Not all the leaves are very tasty, but some have surprisingly distinct and interesting flavours. The whole dish cost less than 100k for two. For carbs, we made the mistake of ordering fries and they come with sugar instead of salt here.
 
@@ -3523,19 +3302,15 @@ Dinner at [Gỏi Lá Út Cưng](https://andrestgt.github.io/food/vietnam/kon-tum
 
 Morning coffee at the quirky [Eva Café](https://www.google.com/maps/search/?api=1&query=Eva+Cafe+Kon+Tum) in Kon Tum, then a short visit to [Kon K'Tu](https://www.google.com/maps/search/?api=1&query=Kon+K%C6%A1+Tu%2C+Kon+Tum), a very traditional and picturesque hilltribe village a nice short ride out of town.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2408.jpg" alt="Kon Tum">
+  <em>Kon Tum</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2408.jpg" alt="Kon Tum">
-    <em>Kon Tum</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2412.jpg" alt="Kon Tum - Eva Café">
-    <em>Kon Tum - Eva Café</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2412.jpg" alt="Kon Tum - Eva Café">
+  <em>Kon Tum - Eva Café</em>
+</figure>
 
 <div class="photo-row">
 
@@ -3590,19 +3365,15 @@ In Buon Ma Thuot we stayed at [Ngọc Mai](https://www.google.com/maps/search/?a
 
 Coffee on [Duong Sach Ca Phe](https://www.google.com/maps/search/?api=1&query=%C4%90%C6%B0%E1%BB%9Dng+s%C3%A1ch+C%C3%A0+ph%C3%AA+Bu%C3%B4n+Ma+Thu%E1%BB%99t), the pedestrianised coffee book street in the heart of town and probably the main attraction here.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2447.jpg" alt="Buon Ma Thuot">
+  <em>Buon Ma Thuot</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2447.jpg" alt="Buon Ma Thuot">
-    <em>Buon Ma Thuot</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2448.jpg" alt="Buon Ma Thuot - Duong Sach Ca Phe">
-    <em>Buon Ma Thuot - Duong Sach Ca Phe</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2448.jpg" alt="Buon Ma Thuot - Duong Sach Ca Phe">
+  <em>Buon Ma Thuot - Duong Sach Ca Phe</em>
+</figure>
 
 Dinner at [Beer Zone](https://andrestgt.github.io/food/vietnam/dak-lak/buon-ma-thuot/restaurants/beer-zone-the-gioi-nhau/), a huge beer garden with dishes from all over Vietnam. The food was good, the staff almost too attentive, and prices were reasonable.
 
@@ -3619,19 +3390,15 @@ It shouldn't come as a surprise that it is easy to get great coffee in Vietnam's
 
 Morning coffee at [Daklac Coffee](https://andrestgt.github.io/food/vietnam/dak-lak/buon-ma-thuot/cafes/daklac-coffee/), a fancy café with cushioned seats and local art on the walls, where we got a beautiful cappuccino for just 30k and a Vietnamese filter coffee for half.
 
-<div class="photo-row">
+<figure>
+  <img src="photos/Vietnam20-2455.jpg" alt="Daklac Coffee - cappuccino">
+  <em>Daklac Coffee - cappuccino</em>
+</figure>
 
-  <figure>
-    <img src="photos/Vietnam20-2455.jpg" alt="Daklac Coffee - cappuccino">
-    <em>Daklac Coffee - cappuccino</em>
-  </figure>
-
-  <figure>
-    <img src="photos/Vietnam20-2457.jpg" alt="Dak Lak Province - bún bò Hue and bún riêu">
-    <em>Dak Lak Province - bún bò Hue and bún riêu</em>
-  </figure>
-
-</div>
+<figure>
+  <img src="photos/Vietnam20-2457.jpg" alt="Dak Lak Province - bún bò Hue and bún riêu">
+  <em>Dak Lak Province - bún bò Hue and bún riêu</em>
+</figure>
 
 We chose once again to take the road less travelled, country road 692 instead of Highway 26, a rather adventurous rugged road, often unpaved and badly potholed through some of the most destitute hilltribe villages we have encountered on this trip. Hard to believe that this impoverished area is only a couple of hours away from the skyscrapers and 21st century lifestyle of Nha Trang.
 
@@ -3671,3 +3438,4 @@ A late-afternoon stop at [Bia Đen Đức 2](https://www.google.com/maps/search/
 </figure>
 
 And back to Nha Trang. Six weeks, 6,600 kilometres, and a Vietnam we will probably never see again quite like this. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
