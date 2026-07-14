@@ -1256,8 +1256,7 @@ Dinner at [Bún Cá Sâm Cây Si](https://andrestgt.github.io/food/vietnam/hanoi
   <em>Bún Cá Sâm Cây Si - bún cá</em>
 </figure>
 
-Late-night drinks at [Lúa Craft Beer](https://andrestgt.github.io/food/vietnam/hanoi/bars-pubs/lua-craft-beer/), a fantastic craft-beer place with balcony seating overlooking the night market. Prices are really good for Old Town Hanoi, with beers around 40k and half a delicious roast duck for 150k.
-
+Late-night drinks at [Lúa Craft Beer](https://andrestgt.github.io/food/vietnam/hanoi/bars-pubs/lua-craft-beer/), a fantastic craft-beer place with balcony seating overlooking the night market. Prices are really good for Old Town Hanoi, with beers around 40k and a nice platter of smoked duck breast.
 <figure>
   <img src="photos/Vietnam20-0997.jpg" alt="Lúa Craft Beer - smoked duck">
   <em>Lúa Craft Beer - smoked duck</em>
