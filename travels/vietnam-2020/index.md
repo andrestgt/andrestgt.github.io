@@ -213,7 +213,7 @@ Breakfast at [Bánh canh Bà O](https://andrestgt.github.io/food/vietnam/binh-di
   <em>Quy Nhon</em>
 </figure>
 
-Lunchtime drinks at the [Quy Nhon Country Club](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/bars-pubs/quy-nhon-country-club/). To call this place quirky would be an understatement. It operates on several levels of a hill above town with superb views, and decor ranges from old tandem bicycles to boarded-up bathtubs used as tables. For reasons unknown, most of the beer selection comes from little-known breweries in Southern Germany, most of them sadly out of stock, but we managed a Schwabenbräu Hefeweizen for 100k. Tiger is 30k. No food, which is a pity; the location would be fantastic for a restaurant.
+Lunchtime drinks at the [Quy Nhon Country Club](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/bars-pubs/quy-nhon-country-club/). To call this place quirky would be an understatement. It operates on several levels on a hill above town with superb views, and decor ranges from old tandem bicycles to boarded-up bathtubs used as tables. For reasons unknown, most of the beer selection comes from little-known breweries in Southern Germany, most of them sadly out of stock, but we managed a Schwabenbräu Hefeweizen for 100k. Tiger is 30k. No food, which is a pity; the location would be fantastic for a restaurant.
 
 <div class="photo-row">
 
