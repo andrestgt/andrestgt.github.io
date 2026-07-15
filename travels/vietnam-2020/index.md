@@ -2604,7 +2604,9 @@ From Mèo Vạc the road towards Du Già gets really bad and takes you through g
 
 </div>
 
-For the night we stopped in Bac Me at the basic but adequate [Nhà Nghỉ Hương Lan](https://www.google.com/maps/search/?api=1&query=Nha+Nghi+Huong+Lan+Bac+Me). Takeaway dinner of vịt quay back in our room.
+For the night we stopped in Bac Me at the basic but adequate [Nhà Nghỉ Hương Lan](https://www.google.com/maps/search/?api=1&query=Nha+Nghi+Huong+Lan+Bac+Me). 
+
+Dinner at Bia Hơi Đặng Lệ, the only bia hơi place we found in town. Friendly owners, large two-litre jugs of very fresh bia hơi. Not many food options, but the rau trộn (mixed vegetable dish) was really great here. It came with two kinds of carbs (rice cake and fries) plus fried tofu and sausage. Perfect comfort drinking food.
 
 <figure>
   <img src="photos/Vietnam20-2079.jpg" alt="Bia Hơi Đặng Lệ - đậu hũ chiên">
