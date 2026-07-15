@@ -1764,7 +1764,7 @@ We spent the morning touring the [Mu Cang Chai rice terraces](https://www.google
   <em>Mu Cang Chai</em>
 </figure>
 
-From there we crossed north into Lai Chau Province, passing over the [O Quy Ho Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+%C3%94+Quy+H%E1%BB%93) at an elevation of over 2,000 metres.
+From there we crossed north into Lai Chau Province, the spectacular road climbing over [O Quy Ho Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+%C3%94+Quy+H%E1%BB%93) at an elevation of over 2,000 metres.
 
 <div class="photo-row">
 
