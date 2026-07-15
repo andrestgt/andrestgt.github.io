@@ -6,7 +6,17 @@ title: Prince John Resort
 subtitle: Port Barton, San Vicente · Resort Bar
 ---
 
+<figure>
+  <img src="/photos/philippines/port-barton-san-vicente/prince-john-resort-1.jpg" alt="Prince John Resort">
+  <figcaption>Prince John Resort</figcaption>
+</figure>
+
 We only stopped for drinks, but the setting is absolutely gorgeous, easily one of the most beautiful spots around Port Barton. It's tricky to reach and was almost empty when we visited, and yes, it's on the expensive side, but for a location like this the prices are totally justified. Well worth the ride out for a drink with a view.
+
+<figure>
+  <img src="/photos/philippines/port-barton-san-vicente/prince-john-resort-2.jpg" alt="Prince John Resort">
+  <figcaption>Prince John Resort</figcaption>
+</figure>
 
 ## Ratings
 
