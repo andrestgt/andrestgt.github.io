@@ -2099,7 +2099,7 @@ Dinner at [Quán Bia Quý Diễn](https://andrestgt.github.io/food/vietnam/lao-c
 
 ## 25 June 2020
 
-East from Bac Ha towards Vinh Quang, along the back road 197, which turned out to be yet another of the great scenic drives of the North.
+East from Bac Ha towards Vinh Quang, taking the back roads through Hoang Su Phi, which turned out to be yet another of the great scenic drives of the North.
 
 Morning coffee at [Phúc Bản Mề](https://andrestgt.github.io/food/vietnam/lao-cai/bac-ha/cafes/phuc-ban-me/) in Bac Ha.
 
