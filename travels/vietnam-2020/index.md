@@ -1256,7 +1256,8 @@ Dinner at [Bún Cá Sâm Cây Si](https://andrestgt.github.io/food/vietnam/hanoi
   <em>Bún Cá Sâm Cây Si - bún cá</em>
 </figure>
 
-Late-night drinks at [Lúa Craft Beer](https://andrestgt.github.io/food/vietnam/hanoi/bars-pubs/lua-craft-beer/), a fantastic craft-beer place with balcony seating overlooking the night market. Prices are really good for Old Town Hanoi, with beers around 40k and a nice platter of smoked duck breast.
+Late-night drinks at [Lúa Craft Beer](https://andrestgt.github.io/food/vietnam/hanoi/bars-pubs/lua-craft-beer/), a fantastic craft-beer place with balcony seating overlooking the night market. Prices are really good for Old Town Hanoi, with beers around 40k and half a delicious roast duck for 150k.
+
 <figure>
   <img src="photos/Vietnam20-0997.jpg" alt="Lúa Craft Beer - smoked duck">
   <em>Lúa Craft Beer - smoked duck</em>
@@ -1981,7 +1982,7 @@ After a tasty breakfast of bánh cuốn, we started riding east from Sa Pa towar
   <em>Sa Pa - bánh cuốn</em>
 </figure>
 
-Morning coffee break at [Xa Lao Chai](https://www.google.com/maps/search/?api=1&query=Xa+Lao+Chai+Sapa) in the beautiful village of the same name.
+Morning coffee break at [Xa Lao Chải](https://www.google.com/maps/search/?api=1&query=Xa%20Lao%20Ch%E1%BA%A3i%2C%20T%E1%BA%A3%20Van%2C%20L%C3%A0o%20Cai) in the beautiful village of the same name.
 
 <figure>
   <img src="photos/Vietnam20-1508.jpg" alt="Around Sa Pa">
@@ -1989,8 +1990,8 @@ Morning coffee break at [Xa Lao Chai](https://www.google.com/maps/search/?api=1&
 </figure>
 
 <figure>
-  <img src="photos/Vietnam20-1521.jpg" alt="Xa Lao Chai">
-  <em>Xa Lao Chai</em>
+  <img src="photos/Vietnam20-1521.jpg" alt="Xa Lao Chải">
+  <em>Xa Lao Chải</em>
 </figure>
 
 <div class="photo-row">
