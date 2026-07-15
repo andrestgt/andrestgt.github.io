@@ -1765,7 +1765,7 @@ We spent the morning touring the [Mu Cang Chai rice terraces](https://www.google
   <em>Mu Cang Chai</em>
 </figure>
 
-From there we crossed north into Lai Chau Province, the spectacular road climbing over [O Quy Ho Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+%C3%94+Quy+H%E1%BB%93) at an elevation of over 2,000 metres.
+From there we crossed north into Lai Chau Province, passing over the [O Quy Ho Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+%C3%94+Quy+H%E1%BB%93) at an elevation of over 2,000 metres.
 
 <div class="photo-row">
 
@@ -1961,7 +1961,7 @@ Late lunch back down in Muong Hum at [Quán Giang Nguyên](https://andrestgt.git
   <em>Sa Pa</em>
 </figure>
 
-Back to Sa Pa for dinner at [A Phủ](https://andrestgt.github.io/food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/), an attractive restaurant with a hill tribe theme that caters to tourists and locals with a menu of all the usual Sa Pa standards at Sa Pa prices. The grilled horse for 180k came with a nice dipping sauce and the fries and mushroom soup were both tasty, although the mushroom selection was a bit underwhelming for a place in Sa Pa (50k a bowl). The salmon was slightly disappointing: fresh but with bones in a sashimi cut, a definite no-no, and the flavour of the farmed salmon in this region is a little lacking, at 250k for a rather small portion. Still one of the better places to eat in Sa Pa where good value is hard to find.
+Back to Sa Pa for dinner at [A Phủ](https://andrestgt.github.io/food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/), an attractive restaurant with a hill tribe theme that caters to tourists and locals with a menu of all the usual Sa Pa standards at Sa Pa prices. The grilled horse for 180k came with a nice dipping sauce and the fries and mushroom soup were both tasty, if the mushroom selection was a bit disappointing for a place in Sa Pa (50k a bowl). The salmon was slightly disappointing: fresh but with bones in a sashimi cut, a definite no-no, and the flavour of the farmed salmon in this region is a little lacking, at 250k for a rather small portion. Still one of the better places to eat in Sa Pa where good value is hard to find.
 
 <figure>
   <img src="photos/Vietnam20-1497.jpg" alt="A Phủ - grilled horse and mushroom soup">
@@ -1975,7 +1975,7 @@ Back to Sa Pa for dinner at [A Phủ](https://andrestgt.github.io/food/vietnam/l
 
 ## 24 June 2020
 
-After a tasty breakfast of bánh cuốn, we started riding east from Sa Pa towards Bắc Hà, taking the scenic back road rather than the highway, a magnificent ride all the way.
+After a tasty breakfast of bánh cuốn, we started riding east from Sa Pa towards Bac Ha, taking the scenic back road rather than the highway, a magnificent ride all the way.
 
 <figure>
   <img src="photos/Vietnam20-1503.jpg" alt="Sa Pa - bánh cuốn">
@@ -2013,7 +2013,7 @@ Morning coffee break at [Xa Lao Chải](https://www.google.com/maps/search/?api=
   <em>Around Sa Pa</em>
 </figure>
 
-Ideal pit stop almost exactly halfway between Sa Pa and Bắc Hà at [Quán Cường Tích](https://andrestgt.github.io/food/vietnam/lao-cai/bao-thang/street-food/quan-cuong-tich/) in Xuan Giao. They serve mugs of cold bia hơi and nice food with homemade condiments such as pickled bamboo and chilli sauce. A huge portion of beef fried rice and three beers was 65k, a real relief after the Sa Pa prices.
+Ideal pit stop almost exactly halfway between Sa Pa and Bac Ha at [Quán Cường Tích](https://andrestgt.github.io/food/vietnam/lao-cai/bao-thang/street-food/quan-cuong-tich/) in Xuan Giao. They serve mugs of cold bia hơi and nice food with homemade condiments such as pickled bamboo and chilli sauce. A huge portion of beef fried rice and three beers was 65k, a real relief after the Sa Pa prices.
 
 <div class="photo-row">
 
@@ -2034,18 +2034,18 @@ Ideal pit stop almost exactly halfway between Sa Pa and Bắc Hà at [Quán Cư�
   <em>Quán Cường Tích - beef fried rice</em>
 </figure>
 
-In Bắc Hà we stayed at [Pac Kha Guesthouse](https://www.google.com/maps/search/?api=1&query=Pac+Kha+Guesthouse+Bac+Ha), perfectly adequate for one night. Rooms are basic but spotless, there is Wi-Fi and hot water plus a warm blanket, all for 200k a room, and they have a cheap bia hơi place out front.
+In Bac Ha we stayed at [Pac Kha Guesthouse](https://www.google.com/maps/search/?api=1&query=Pac+Kha+Guesthouse+Bac+Ha), perfectly adequate for one night. Rooms are basic but spotless, there is Wi-Fi and hot water plus a warm blanket, all for 200k a room, and they have a cheap bia hơi place out front.
 
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Vietnam20-1570.jpg" alt="Bắc Hà">
-    <em>Bắc Hà</em>
+    <img src="photos/Vietnam20-1570.jpg" alt="Bac Ha">
+    <em>Bac Ha</em>
   </figure>
 
   <figure>
-    <img src="photos/Vietnam20-1572.jpg" alt="Bắc Hà">
-    <em>Bắc Hà</em>
+    <img src="photos/Vietnam20-1572.jpg" alt="Bac Ha">
+    <em>Bac Ha</em>
   </figure>
 
 </div>
@@ -2053,13 +2053,13 @@ In Bắc Hà we stayed at [Pac Kha Guesthouse](https://www.google.com/maps/searc
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Vietnam20-1582.jpg" alt="Bắc Hà">
-    <em>Bắc Hà</em>
+    <img src="photos/Vietnam20-1582.jpg" alt="Bac Ha">
+    <em>Bac Ha</em>
   </figure>
 
   <figure>
-    <img src="photos/Vietnam20-1592.jpg" alt="Bắc Hà">
-    <em>Bắc Hà</em>
+    <img src="photos/Vietnam20-1592.jpg" alt="Bac Ha">
+    <em>Bac Ha</em>
   </figure>
 
 </div>
@@ -2067,27 +2067,27 @@ In Bắc Hà we stayed at [Pac Kha Guesthouse](https://www.google.com/maps/searc
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Vietnam20-1595.jpg" alt="Bắc Hà">
-    <em>Bắc Hà</em>
+    <img src="photos/Vietnam20-1595.jpg" alt="Bac Ha">
+    <em>Bac Ha</em>
   </figure>
 
   <figure>
-    <img src="photos/Vietnam20-1596.jpg" alt="Bắc Hà">
-    <em>Bắc Hà</em>
+    <img src="photos/Vietnam20-1596.jpg" alt="Bac Ha">
+    <em>Bac Ha</em>
   </figure>
 
 </div>
 
 <figure>
-  <img src="photos/Vietnam20-1598.jpg" alt="Bắc Hà">
-  <em>Bắc Hà</em>
+  <img src="photos/Vietnam20-1598.jpg" alt="Bac Ha">
+  <em>Bac Ha</em>
 </figure>
 
-In Bắc Hà's traditional market we bought a snack of delicious khâu nhục, a local braised pork belly specialty.
+In Bac Ha's traditional market we bought a snack of delicious khâu nhục, a local braised pork belly specialty.
 
 <figure>
-  <img src="photos/Vietnam20-1605.jpg" alt="Bắc Hà - khâu nhục">
-  <em>Bắc Hà - khâu nhục</em>
+  <img src="photos/Vietnam20-1605.jpg" alt="Bac Ha - khâu nhục">
+  <em>Bac Ha - khâu nhục</em>
 </figure>
 
 Dinner at [Quán Bia Quý Diễn](https://andrestgt.github.io/food/vietnam/lao-cai/bac-ha/street-food/quan-bia-quy-dien/), an old-school, noisy bia hơi joint near the market. The beer is good, 25k a jug (1.5 litres), and the spicy fried tofu here is the best I have ever had, crispy outside, super soft inside, absolutely delicious for 30k. They do a nice leaf omelette too (30k), though sadly most meat dishes are only available in large portions for groups.
@@ -2099,32 +2099,32 @@ Dinner at [Quán Bia Quý Diễn](https://andrestgt.github.io/food/vietnam/lao-c
 
 ## 25 June 2020
 
-East from Bắc Hà towards Vinh Quang, along the back road 197, which turned out to be yet another of the great scenic drives of the North.
+East from Bac Ha towards Vinh Quang, along the back road 197, which turned out to be yet another of the great scenic drives of the North.
 
-Morning coffee at [Phúc Bản Mề](https://andrestgt.github.io/food/vietnam/lao-cai/bac-ha/cafes/phuc-ban-me/) in Bắc Hà.
+Morning coffee at [Phúc Bản Mề](https://andrestgt.github.io/food/vietnam/lao-cai/bac-ha/cafes/phuc-ban-me/) in Bac Ha.
 
 <figure>
-  <img src="photos/Vietnam20-1608.jpg" alt="Bắc Hà - Phúc Bản Mề">
-  <em>Bắc Hà - Phúc Bản Mề</em>
+  <img src="photos/Vietnam20-1608.jpg" alt="Bac Ha - Phúc Bản Mề">
+  <em>Bac Ha - Phúc Bản Mề</em>
 </figure>
 
-Breakfast at [Phở Lý Thi](https://andrestgt.github.io/food/vietnam/lao-cai/bac-ha/street-food/pho-bac-ha-ly-thi/), a very special place. With many spots in Bắc Hà catering mostly to weekend tourists, this old-school eatery with its communal wooden tables and shelves stacked with home-made rice wine is a very local experience, packed for breakfast even on a regular weekday, with highlanders of various tribes speaking a wild mix of languages. They serve two kinds of phở, using home-made purplish noodles from red rice. The phở chua (sour phở) is a very unusual noodle soup served cold, a strange choice for a cold place like Bắc Hà, and while not at all unpleasant I wasn't entirely taken with its acquired taste. More to my liking was the phở trộn, a dry noodle dish which comes with hot broth on the side and a choice of pork or chicken, which I found very tasty. 20 to 30k a bowl, depending on the meat.
+Breakfast at [Phở Lý Thi](https://andrestgt.github.io/food/vietnam/lao-cai/bac-ha/street-food/pho-bac-ha-ly-thi/), a very special place. With many spots in Bac Ha catering mostly to weekend tourists, this old-school eatery with its communal wooden tables and shelves stacked with home-made rice wine is a very local experience, packed for breakfast even on a regular weekday, with highlanders of various tribes speaking a wild mix of languages. They serve two kinds of phở, using home-made purplish noodles from red rice. The phở chua (sour phở) is a very unusual noodle soup served cold, a strange choice for a cold place like Bac Ha, and while not at all unpleasant I wasn't entirely taken with its acquired taste. More to my liking was the phở trộn, a dry noodle dish which comes with hot broth on the side and a choice of pork or chicken, which I found very tasty. 20 to 30k a bowl, depending on the meat.
 
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Vietnam20-1609.jpg" alt="Bắc Hà - Phở Lý Thi">
-    <em>Bắc Hà - Phở Lý Thi</em>
+    <img src="photos/Vietnam20-1609.jpg" alt="Bac Ha - Phở Lý Thi">
+    <em>Bac Ha - Phở Lý Thi</em>
   </figure>
 
   <figure>
-    <img src="photos/Vietnam20-1612.jpg" alt="Bắc Hà - Phở Lý Thi">
-    <em>Bắc Hà - Phở Lý Thi</em>
+    <img src="photos/Vietnam20-1612.jpg" alt="Bac Ha - Phở Lý Thi">
+    <em>Bac Ha - Phở Lý Thi</em>
   </figure>
 
 </div>
 
-The [Ruộng Bậc Thang Hoàng Su Phì](https://www.google.com/maps/search/?api=1&query=Ru%E1%BB%99ng+B%E1%BA%ADc+Thang+Ho%C3%A0ng+Su+Ph%C3%AC) are off-the-beaten-track rice terraces that are among the most spectacular in the country. It was not just this spot, though; there are plenty of amazing terrace vistas along the alternative back roads 194C and 197B between Bắc Hà and Hoàng Su Phì.
+The [Ruộng Bậc Thang Hoàng Su Phì](https://www.google.com/maps/search/?api=1&query=Ru%E1%BB%99ng+B%E1%BA%ADc+Thang+Ho%C3%A0ng+Su+Ph%C3%AC) are off-the-beaten-track rice terraces that are among the most spectacular in the country. It was not just this spot, though; there are plenty of amazing terrace vistas along the alternative back roads 194C and 197B between Bac Ha and Hoàng Su Phì.
 
 <div class="photo-row">
 
@@ -2471,7 +2471,7 @@ Dinner at [Phố Cổ](https://andrestgt.github.io/food/vietnam/ha-giang/dong-va
 
 ## 28 June 2020
 
-Early morning at the [Dong Van Market](https://www.google.com/maps/search/?api=1&query=Ch%E1%BB%A3+%C4%90%E1%BB%93ng+V%C4%83n%2C+H%C3%A0+Giang), one of the great hilltribe markets of the North, less famous and thankfully less touristy and more remote than the one in Bắc Hà. Only held on Saturdays, it is an endlessly fascinating place and an opportunity to try the famous thắng cố, an offal soup traditionally prepared with horse meat, and not something I would order again.
+Early morning at the [Dong Van Market](https://www.google.com/maps/search/?api=1&query=Ch%E1%BB%A3+%C4%90%E1%BB%93ng+V%C4%83n%2C+H%C3%A0+Giang), one of the great hilltribe markets of the North, less famous and thankfully less touristy and more remote than the one in Bac Ha. Only held on Saturdays, it is an endlessly fascinating place and an opportunity to try the famous thắng cố, an offal soup traditionally prepared with horse meat, and not something I would order again.
 
 <div class="photo-row">
 
