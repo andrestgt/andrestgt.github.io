@@ -235,6 +235,11 @@ For the next two nights we stayed at [Amwani Sunset Colours](https://www.google.
 
 Today we explored the coastal road north of Erawan, which has very recently been paved, well, mostly, as far as Binga; after that it turns back into red dirt. Paved or not, it must be one of the most scenic and least travelled coastal roads in the country.
 
+<figure>
+  <img src="photos/SEA25-0343.jpg" alt="Around San Vicente">
+  <em>Around San Vicente</em>
+</figure>
+
 We rode all the way to the very end of the road. [Lumambong Beach](https://www.google.com/maps/search/?api=1&query=Lumambong%20Beach%20San%20Vicente%20Palawan) which is about as far up as you can go from San Vicente along this part of the coast; the last six or seven kilometres are quite rough, but it is absolutely worth it if you are looking for a beautiful, unspoiled tropical beach. You can reach it through [Binga Beach Resort](https://www.google.com/maps/search/?api=1&query=Binga%20Beach%20Resort%20San%20Vicente%20Palawan), or take the adventurous route across a rickety wooden bridge over a small creek just past the resort. Chances are you will have the whole beach to yourselves, and it is a great spot for swimming too.
 
 <div class="photo-row">
@@ -289,11 +294,6 @@ The final stop was [Bato ni Ningning](https://www.google.com/maps/search/?api=1&
 </figure>
 
 Dinner was at Kitzmon again, and the evening ended back at Amwani with a sunset that lived up to the resort's name.
-
-<figure>
-  <img src="photos/SEA25-0343.jpg" alt="Around San Vicente">
-  <em>Around San Vicente</em>
-</figure>
 
 <div class="photo-row">
 
