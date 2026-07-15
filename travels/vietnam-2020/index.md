@@ -213,7 +213,7 @@ Breakfast at [Bánh canh Bà O](https://andrestgt.github.io/food/vietnam/binh-di
   <em>Quy Nhon</em>
 </figure>
 
-Lunchtime drinks at the [Quy Nhon Country Club](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/bars-pubs/quy-nhon-country-club/). To call this place quirky would be an understatement. It operates on several levels on a hill above town with superb views, and decor ranges from old tandem bicycles to boarded-up bathtubs used as tables. For reasons unknown, most of the beer selection comes from little-known breweries in Southern Germany, most of them sadly out of stock, but we managed a Schwabenbräu Hefeweizen for 100k. Tiger is 30k. No food, which is a pity; the location would be fantastic for a restaurant.
+Lunchtime drinks at the [Quy Nhon Country Club](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/bars-pubs/quy-nhon-country-club/). To call this place quirky would be an understatement. It operates on several levels of a hill above town with superb views, and decor ranges from old tandem bicycles to boarded-up bathtubs used as tables. For reasons unknown, most of the beer selection comes from little-known breweries in Southern Germany, most of them sadly out of stock, but we managed a Schwabenbräu Hefeweizen for 100k. Tiger is 30k. No food, which is a pity; the location would be fantastic for a restaurant.
 
 <div class="photo-row">
 
@@ -1711,18 +1711,18 @@ Highway 32 through Mu Cang Chai is possibly the most scenic drive in Vietnam. Ev
 
 For the night we stayed at [Nhà Nghỉ Gà Tre](https://www.google.com/maps/search/?api=1&query=Nha+Nghi+Ga+Tre+Mu+Cang+Chai) in a simple but clean ensuite room for 200k. A good choice in this area of gorgeous rice terraces.
 
-Dinner at [Quán Ăn Ngọc Trâm](https://www.google.com/maps/search/?api=1&query=Quan+An+Ngoc+Tram+Mu+Cang+Chai), an attractive homestay and eatery in a village of few choices. They don't have many dishes, but it's a friendly place and we got a nice big plate of grilled river fish, enough for two to share.
+Dinner at [Trạm Pa Pinh Top](https://www.google.com/maps/search/?api=1&query=Tr%E1%BA%A1m%20Pa%20Pinh%20Top%20Mu%20Cang%20Chai), an attractive homestay and eatery in a village of few choices. They don't have many dishes, but it's a friendly place and we got a nice big plate of grilled river fish, enough for two to share.
 
 <div class="photo-row">
 
   <figure>
-    <img src="photos/Vietnam20-1266.jpg" alt="Quán Ăn Ngọc Trâm - grilled fish">
-    <em>Quán Ăn Ngọc Trâm - grilled fish</em>
+    <img src="photos/Vietnam20-1266.jpg" alt="Trạm Pa Pinh Top - grilled fish">
+    <em>Trạm Pa Pinh Top - grilled fish</em>
   </figure>
 
   <figure>
-    <img src="photos/Vietnam20-1267.jpg" alt="Quán Ăn Ngọc Trâm - grilled fish">
-    <em>Quán Ăn Ngọc Trâm - grilled fish</em>
+    <img src="photos/Vietnam20-1267.jpg" alt="Trạm Pa Pinh Top - grilled fish">
+    <em>Trạm Pa Pinh Top - grilled fish</em>
   </figure>
 
 </div>
