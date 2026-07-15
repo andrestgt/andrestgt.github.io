@@ -236,7 +236,7 @@ Afternoon coffee at [Marina Royale](https://andrestgt.github.io/food/vietnam/bin
   <em>Quy Nhon - Marina Royale</em>
 </figure>
 
-Afternoon drinks back at the Surf Bar, followed by a snack at [Quán Ốc Hảo](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/), which offers a great variety of shells and mussels at 25k a dish. It is difficult to choose the right ones if you are not an expert; some are delicious, others rather bland, but at that price you can't really go wrong.
+Afternoon drinks back at [Surf Bar](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/bars-pubs/surf-bar/), followed by a snack at [Quán Ốc Hảo](https://andrestgt.github.io/food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/), which offers a great variety of shells and mussels at 25k a dish. It is difficult to choose the right ones if you are not an expert; some are delicious, others rather bland, but at that price you can't really go wrong.
 
 <div class="photo-row">
 
@@ -394,7 +394,7 @@ Morning coffee at [Nhã Na Coffee](https://andrestgt.github.io/food/vietnam/hoi-
   <em>Nhã Na Coffee - flat white</em>
 </figure>
 
-Onwards to Da Nang, where we checked in at the [Pacific Hotel](https://www.google.com/maps/search/?api=1&query=Pacific+Hotel+Phan+Chau+Trinh+Da+Nang). It has seen better days but for the prices they are charging now, the old-fashioned rooms (200k) are a steal considering the downtown location. Everything old but in working order and clean.
+Onwards to Da Nang, where we checked in at [Pacific Hotel](https://www.google.com/maps/search/?api=1&query=Pacific+Hotel+Phan+Chau+Trinh+Da+Nang). It has seen better days but for the prices they are charging now, the old-fashioned rooms (200k) are a steal considering the downtown location. Everything old but in working order and clean.
 
 <figure>
   <img src="photos/Vietnam20-0347.jpg" alt="Da Nang - Pacific Hotel">
@@ -1223,7 +1223,7 @@ The countryside along the way was beautiful, and the area just south of Hanoi wa
 
 </div>
 
-In Hanoi we checked in at the [Avatar Hotel](https://www.google.com/maps/search/?api=1&query=Avatar+Hotel+Hanoi), a nice little place in a very good Old Quarter location, but it seemed we were the only guests at this spotless, modern and good-value hotel.
+In Hanoi we checked in at [Avatar Hotel](https://www.google.com/maps/search/?api=1&query=Avatar+Hotel+Hanoi), a nice little place in a very good Old Quarter location, but it seemed we were the only guests at this spotless, modern and good-value hotel.
 
 <figure>
   <img src="photos/Vietnam20-0979.jpg" alt="Hanoi - Avatar Hotel">
@@ -2099,7 +2099,7 @@ Dinner at [Quán Bia Quý Diễn](https://andrestgt.github.io/food/vietnam/lao-c
 
 ## 25 June 2020
 
-East from Bac Ha towards Vinh Quang, taking the back roads through Hoang Su Phi, which turned out to be yet another of the great scenic drives of the North.
+East from Bac Ha towards Vinh Quang, along the back road 197, which turned out to be yet another of the great scenic drives of the North.
 
 Morning coffee at [Phúc Bản Mề](https://andrestgt.github.io/food/vietnam/lao-cai/bac-ha/cafes/phuc-ban-me/) in Bac Ha.
 
@@ -2471,7 +2471,7 @@ Dinner at [Phố Cổ](https://andrestgt.github.io/food/vietnam/ha-giang/dong-va
 
 ## 28 June 2020
 
-Early morning at the [Dong Van Market](https://www.google.com/maps/search/?api=1&query=Ch%E1%BB%A3+%C4%90%E1%BB%93ng+V%C4%83n%2C+H%C3%A0+Giang), one of the great hilltribe markets of the North, less famous and thankfully less touristy and more remote than the one in Bac Ha. Only held on Saturdays, it is an endlessly fascinating place and an opportunity to try the famous thắng cố, an offal soup traditionally prepared with horse meat, and not something I would order again.
+Early morning at [Dong Van Market](https://www.google.com/maps/search/?api=1&query=Ch%E1%BB%A3+%C4%90%E1%BB%93ng+V%C4%83n%2C+H%C3%A0+Giang), one of the great hilltribe markets of the North, less famous and thankfully less touristy and more remote than the one in Bac Ha. Only held on Saturdays, it is an endlessly fascinating place and an opportunity to try the famous thắng cố, an offal soup traditionally prepared with horse meat, and not something I would order again.
 
 <div class="photo-row">
 
@@ -2820,7 +2820,7 @@ South out of Hanoi, the long way back home starting properly now. We took only b
   <em>Trang An</em>
 </figure>
 
-For the night we stopped in Thanh Hoa at the [Camellia Hotel](https://www.google.com/maps/search/?api=1&query=Camellia+Hotel+Thanh+Hoa). This is how all budget provincial town hotels should be. Welcoming, with spotlessly clean simple rooms with hot water shower, cool AC and functioning Wi-Fi. 220k for a double with balcony.
+For the night we stopped in Thanh Hoa at [Camellia Hotel](https://www.google.com/maps/search/?api=1&query=Camellia+Hotel+Thanh+Hoa). This is how all budget provincial town hotels should be. Welcoming, with spotlessly clean simple rooms with hot water shower, cool AC and functioning Wi-Fi. 220k for a double with balcony.
 
 <figure>
   <img src="photos/Vietnam20-2173.jpg" alt="Thanh Hoa - Camellia Hotel">
