@@ -2762,7 +2762,7 @@ Street snack at [Dồi Sụn Nướng Hà Nguyệt](https://andrestgt.github.io/
   <em>Dồi Sụn Nướng Hà Nguyệt - dồi sụn</em>
 </figure>
 
-Late dinner of vịt quay.
+Late takeaway dinner of delicious vịt quay.
 
 <figure>
   <img src="photos/Vietnam20-2149.jpg" alt="Hanoi - vịt quay">
