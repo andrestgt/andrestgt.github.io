@@ -2385,7 +2385,7 @@ The village of [Pho Bang](https://www.google.com/maps/search/?api=1&query=Ph%C3%
 
 </div>
 
-In Dong Van we checked in at [Lâm Tùng Hotel](https://www.google.com/maps/search/?api=1&query=Lam+Tung+Hotel+Dong+Van). I am not sure I am happy that there is a seven-floor hotel right next to the traditional hilltribe market, but to be fair the location is absolutely perfect and the rooms are good too. 270k at the weekend for a spacious room with a view, friendly management.
+In Dong Van we checked in at [Lâm Tùng Hotel](https://www.google.com/maps/search/?api=1&query=Lam+Tung+Hotel+Dong+Van). I am not sure I am happy that there is a seven-floor hotel right next to the traditional hilltribe market, but to be fair the location is absolutely perfect and the rooms are good too. 270k on the weekend for a spacious room with a view, friendly management.
 
 <figure>
   <img src="photos/Vietnam20-1867.jpg" alt="Dong Van">
@@ -2397,7 +2397,7 @@ In Dong Van we checked in at [Lâm Tùng Hotel](https://www.google.com/maps/sear
   <em>Dong Van - Lâm Tùng Hotel</em>
 </figure>
 
-Then we rode out to [Ma Pi Leng Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng), a spectacular mountain pass and one of the best and most breathtaking motorcycle rides you could possibly wish for.
+Then we rode out to the [Ma Pi Leng Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng), a spectacular mountain pass and one of the best and most breathtaking motorcycle rides you could possibly wish for.
 
 <div class="photo-row">
 
@@ -2604,9 +2604,7 @@ From Mèo Vạc the road towards Du Già gets really bad and takes you through g
 
 </div>
 
-For the night we stopped in Bac Me at the basic but adequate [Nhà Nghỉ Hương Lan](https://www.google.com/maps/search/?api=1&query=Nha+Nghi+Huong+Lan+Bac+Me). 
-
-Dinner at Bia Hơi Đặng Lệ, the only bia hơi place we found in town. Friendly owners, large two-litre jugs of very fresh bia hơi. Not many food options, but the rau trộn (mixed vegetable dish) was really great here. It came with two kinds of carbs (rice cake and fries) plus fried tofu and sausage. Perfect comfort drinking food.
+For the night we stopped in Bac Me at the basic but adequate [Nhà Nghỉ Hương Lan](https://www.google.com/maps/search/?api=1&query=Nha+Nghi+Huong+Lan+Bac+Me). Takeaway dinner of vịt quay back in our room.
 
 <figure>
   <img src="photos/Vietnam20-2079.jpg" alt="Bia Hơi Đặng Lệ - đậu hũ chiên">
@@ -2762,7 +2760,7 @@ Street snack at [Dồi Sụn Nướng Hà Nguyệt](https://andrestgt.github.io/
   <em>Dồi Sụn Nướng Hà Nguyệt - dồi sụn</em>
 </figure>
 
-Late takeaway dinner of delicious vịt quay.
+Late dinner of vịt quay.
 
 <figure>
   <img src="photos/Vietnam20-2149.jpg" alt="Hanoi - vịt quay">
@@ -2940,7 +2938,7 @@ Lunch at [Phong Nha Underground](https://andrestgt.github.io/food/vietnam/quang-
   <em>Phong Nha Underground - falafel sandwich</em>
 </figure>
 
-Dinner at [Chào Vietnam](https://www.google.com/maps/search/?api=1&query=Chao+Vietnam+Phong+Nha), a French-run restaurant that had been the fanciest option in town before Covid and had just reopened a few days earlier with a condensed menu of mostly Vietnamese dishes. I found the food a little bland, but it was a very nice place to eat.
+Dinner at Chào Vietnam, a French-run restaurant that had been the fanciest option in town before Covid and had just reopened a few days earlier with a condensed menu of mostly Vietnamese dishes. I found the food a little bland, but it was a very nice place to eat.
 
 <figure>
   <img src="photos/Vietnam20-2211.jpg" alt="Chào Vietnam - aubergines and mushroom stir-fry">
