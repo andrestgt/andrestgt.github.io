@@ -2385,7 +2385,7 @@ The village of [Pho Bang](https://www.google.com/maps/search/?api=1&query=Ph%C3%
 
 </div>
 
-In Dong Van we checked in at [Lâm Tùng Hotel](https://www.google.com/maps/search/?api=1&query=Lam+Tung+Hotel+Dong+Van). I am not sure I am happy that there is a seven-floor hotel right next to the traditional hilltribe market, but to be fair the location is absolutely perfect and the rooms are good too. 270k on the weekend for a spacious room with a view, friendly management.
+In Dong Van we checked in at [Lâm Tùng Hotel](https://www.google.com/maps/search/?api=1&query=Lam+Tung+Hotel+Dong+Van). I am not sure I am happy that there is a seven-floor hotel right next to the traditional hilltribe market, but to be fair the location is absolutely perfect and the rooms are good too. 270k at the weekend for a spacious room with a view, friendly management.
 
 <figure>
   <img src="photos/Vietnam20-1867.jpg" alt="Dong Van">
@@ -2397,7 +2397,7 @@ In Dong Van we checked in at [Lâm Tùng Hotel](https://www.google.com/maps/sear
   <em>Dong Van - Lâm Tùng Hotel</em>
 </figure>
 
-Then we rode out to the [Ma Pi Leng Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng), a spectacular mountain pass and one of the best and most breathtaking motorcycle rides you could possibly wish for.
+Then we rode out to [Ma Pi Leng Pass](https://www.google.com/maps/search/?api=1&query=%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng), a spectacular mountain pass and one of the best and most breathtaking motorcycle rides you could possibly wish for.
 
 <div class="photo-row">
 
