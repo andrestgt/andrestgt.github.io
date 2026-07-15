@@ -1960,7 +1960,7 @@ Late lunch back down in Muong Hum at [Quán Giang Nguyên](https://andrestgt.git
   <em>Sa Pa</em>
 </figure>
 
-Back to Sa Pa for dinner at [A Phủ](https://andrestgt.github.io/food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/), an attractive restaurant with a hill tribe theme that caters to tourists and locals with a menu of all the usual Sa Pa standards at Sa Pa prices. The grilled horse for 180k came with a nice dipping sauce and the fries and mushroom soup were both tasty, if the mushroom selection was a bit disappointing for a place in Sa Pa (50k a bowl). The salmon was slightly disappointing: fresh but with bones in a sashimi cut, a definite no-no, and the flavour of the farmed salmon in this region is a little lacking, at 250k for a rather small portion. Still one of the better places to eat in Sa Pa where good value is hard to find.
+Back to Sa Pa for dinner at [A Phủ](https://andrestgt.github.io/food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/), an attractive restaurant with a hill tribe theme that caters to tourists and locals with a menu of all the usual Sa Pa standards at Sa Pa prices. The grilled horse for 180k came with a nice dipping sauce and the fries and mushroom soup were both tasty, although the mushroom selection was a bit underwhelming for a place in Sa Pa (50k a bowl). The salmon was slightly disappointing: fresh but with bones in a sashimi cut, a definite no-no, and the flavour of the farmed salmon in this region is a little lacking, at 250k for a rather small portion. Still one of the better places to eat in Sa Pa where good value is hard to find.
 
 <figure>
   <img src="photos/Vietnam20-1497.jpg" alt="A Phủ - grilled horse and mushroom soup">
