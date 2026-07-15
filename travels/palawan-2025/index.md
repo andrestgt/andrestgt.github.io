@@ -70,7 +70,7 @@ And so it happened. In 2009 I drank Matador on the beach with the locals, and th
 
 </div>
 
-We checked in at [Dheltor Hilltop](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/), probably the best budget accommodation we found in all of Palawan. The highlight is the lovely little swimming pool, clean, well maintained and never crowded; the bungalows are neat, the shared bathrooms spotless, and the included breakfast surprisingly generous, with both Filipino and Western options. For Port Barton, where accommodation tends to be overpriced, it is a great deal for just over 1000 pesos.
+We checked in at [Dheltor Hilltop](https://www.google.com/maps/search/?api=1&query=Dheltor%20Hilltop%20Port%20Barton%20Palawan), probably the best budget accommodation we found in all of Palawan. The highlight is the lovely little swimming pool, clean, well maintained and never crowded; the bungalows are neat, the shared bathrooms spotless, and the included breakfast surprisingly generous, with both Filipino and Western options. For Port Barton, where accommodation tends to be overpriced, it is a great deal for just over 1000 pesos.
 
 <figure>
   <img src="photos/SEA25-0195.jpg" alt="Port Barton - Dheltor Hilltop">
