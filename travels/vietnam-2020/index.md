@@ -2242,7 +2242,7 @@ En route to Hà Giang, along another spectacular stretch of mountain road, we ca
 
 </div>
 
-Mid-morning coffee at [Khánh Chi](https://www.google.com/maps/search/?api=1&query=Khanh+Chi+cafe+Ha+Giang) in Hà Giang town.
+Mid-morning coffee at Khánh Chi in Hà Giang town.
 
 <figure>
   <img src="photos/Vietnam20-1737.jpg" alt="Khánh Chi - cà phê đen đá">
