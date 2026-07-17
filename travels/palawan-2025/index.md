@@ -168,8 +168,6 @@ Today we explored the surroundings of Port Barton. In the late morning we rode o
 
 Afterwards we stopped for drinks at [Prince John Resort](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/bars-pubs/prince-john-resort/), a gorgeous spot that is tricky to reach by road and, perhaps for that reason, almost empty, which is a pity; it is quite a fancy and expensive place for such a hard-to-reach remote part of the coast.
 
-In the late afternoon we visited [Pamuayan Beach](https://www.google.com/maps/search/?api=1&query=Pamuayan%20Beach%20Port%20Barton%20Palawan), just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
-
 <div class="photo-row">
 
   <figure>
@@ -183,6 +181,8 @@ In the late afternoon we visited [Pamuayan Beach](https://www.google.com/maps/se
   </figure>
 
 </div>
+
+In the late afternoon we visited [Pamuayan Beach](https://www.google.com/maps/search/?api=1&query=Pamuayan%20Beach%20Port%20Barton%20Palawan), just a short but bumpy ride from Port Barton. It is far less popular than White Beach and yet stunningly picturesque; with the bankas and the sandbar it looks like something straight out of a travel magazine.
 
 <div class="photo-row">
 
