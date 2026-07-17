@@ -91,8 +91,8 @@ The day began with a nice breakfast at our resort, followed by a very good Itali
 In the afternoon we rode out to [White Beach](https://www.google.com/maps/search/?api=1&query=White%20Beach%20Port%20Barton%20Palawan), and took the hard way there on purpose, through the mountains, so we could make a loop of it. That route is often nothing more than a rugged, narrow trail, would be impossible in the rainy season, and is really only for experienced riders, but we had it entirely to ourselves; backpackers seem to be less adventurous these days. Even the coastal road between Port Barton and White Beach, the normal way in, is still very rugged and tricky in places, a small reminder of what all the roads here used to be like.
 
 <figure>
-  <img src="photos/SEA25-0224.jpg" alt="Port Barton">
-  <em>Port Barton</em>
+  <img src="photos/SEA25-0224.jpg" alt="Back road to White Beach">
+  <em>Back road to White Beach</em>
 </figure>
 
 White Beach itself is absolutely stunning, one of the most beautiful beaches in Palawan: soft sand, crystal-clear water and a thoroughly relaxed atmosphere. It is popular, especially with backpackers, so you should not expect a secluded paradise, and they charge a 50 peso entrance fee while providing precisely zero amenities, no toilets, no changing rooms, nothing; where that money goes is anyone's guess. The beach is still entirely worth it.
