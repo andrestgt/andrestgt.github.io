@@ -261,35 +261,31 @@ We rode all the way to the very end of the road. [Lumambong Beach](https://www.g
 
 </div>
 
-<div class="photo-row">
+<figure>
+  <img src="photos/SEA25-0345.jpg" alt="Around San Vicente - Lumambong Beach">
+  <em>Around San Vicente - Lumambong Beach</em>
+</figure>
 
-  <figure>
-    <img src="photos/SEA25-0345.jpg" alt="Around San Vicente - Lumambong Beach">
-    <em>Around San Vicente - Lumambong Beach</em>
-  </figure>
+On the way back we stopped at [Sparkling Beach](https://www.google.com/maps/search/?api=1&query=Sparkling%20Beach%20San%20Vicente%20Palawan), a very beautiful spot where the lagoon meets the sea. Access is easy and public, and although the road now makes it simple to get here from San Vicente, it still feels remote, a beach quietly waiting to be discovered.
+
+<div class="photo-row">
 
   <figure>
     <img src="photos/SEA25-0364.jpg" alt="Around San Vicente - Binga Beach">
     <em>Around San Vicente - Binga Beach</em>
   </figure>
 
-</div>
-
-<div class="photo-row">
-
   <figure>
     <img src="photos/SEA25-0370.jpg" alt="Around San Vicente - Binga Beach">
     <em>Around San Vicente - Binga Beach</em>
   </figure>
 
-  <figure>
-    <img src="photos/SEA25-0361.jpg" alt="Around San Vicente - Binga Beach">
-    <em>Around San Vicente - Binga Beach</em>
-  </figure>
-
 </div>
 
-On the way back we stopped at [Sparkling Beach](https://www.google.com/maps/search/?api=1&query=Sparkling%20Beach%20San%20Vicente%20Palawan), a very beautiful spot where the lagoon meets the sea. Access is easy and public, and although the road now makes it simple to get here from San Vicente, it still feels remote, a beach quietly waiting to be discovered.
+<figure>
+  <img src="photos/SEA25-0361.jpg" alt="Around San Vicente - Binga Beach">
+  <em>Around San Vicente - Binga Beach</em>
+</figure>
 
 The final stop was [Bato ni Ningning](https://www.google.com/maps/search/?api=1&query=Bato%20ni%20Ningning%20San%20Vicente%20Palawan), a beautifully manicured viewpoint offering some of the most stunning views over the coast and Erawan Beach. Despite the remote location it is absolutely worth the trip, and with the new road it is not even a hard journey. Nearby [Imuruan Viewpoint](https://www.google.com/maps/search/?api=1&query=Imuruan%20Viewpoint%20San%20Vicente%20Palawan) offered very pretty views of its own, without an entrance fee.
 
