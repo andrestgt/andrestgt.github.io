@@ -83,6 +83,11 @@ Dinner was at [Ayette's Bamboo Balai Balai](https://andrestgt.github.io/food/phi
 
 The day began with a nice breakfast at our resort, followed by a very good Italian coffee at [Milano Café](https://andrestgt.github.io/food/philippines/port-barton-san-vicente/cafes/milano-cafe/), expertly prepared (a rarity in the Philippines) in a modern, fan-cooled setting, although the milk had that distinct UHT aftertaste that even the "fresh" milk on Palawan never quite escapes. Prices are on par with Europe or Manila, but then again, Port Barton is generally expensive these days.
 
+<figure>
+  <img src="photos/SEA25-0212.jpg" alt="Port Barton - Dheltor Hilltop">
+  <em>Port Barton - Dheltor Hilltop</em>
+</figure>
+
 In the afternoon we rode out to [White Beach](https://www.google.com/maps/search/?api=1&query=White%20Beach%20Port%20Barton%20Palawan), and took the hard way there on purpose, through the mountains, so we could make a loop of it. That route is often nothing more than a rugged, narrow trail, would be impossible in the rainy season, and is really only for experienced riders, but we had it entirely to ourselves; backpackers seem to be less adventurous these days. Even the coastal road between Port Barton and White Beach, the normal way in, is still very rugged and tricky in places, a small reminder of what all the roads here used to be like.
 
 <figure>
