@@ -26,9 +26,9 @@ The tables and benches sit beneath large old trees, which makes the hut a perfec
 |-----------------|--------|
 | Food            | 7.5/10 |
 | Service         | 7/10 |
-| Value for money | 8/10 |
+| Value for money | 8.5/10 |
 | Atmosphere      | 8/10 |
-| Overall         | 8/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 
@@ -36,4 +36,4 @@ The tables and benches sit beneath large old trees, which makes the hut a perfec
 
 📍 Schänzelstraße, 67480 Edenkoben, Germany
 
-💰 **Price level:** €15–30
+💰 **Price level:** €25–30
