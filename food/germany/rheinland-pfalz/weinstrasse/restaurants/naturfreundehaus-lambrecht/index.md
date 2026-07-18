@@ -3,7 +3,7 @@ layout: default
 section: food
 review: true
 title: Naturfreundehaus Lambrecht
-subtitle: Elmstein · Pfälzerwald, Excursion Restaurant
+subtitle: Elmstein · Pfälzerwald
 ---
 
 <figure>
@@ -24,11 +24,11 @@ There's a nice outdoor terrace, though it's better suited to the autumn or sprin
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8/10 |
-| Service         | 7.5/10 |
-| Value for money | 8/10 |
+| Food            | 7.5/10 |
+| Service         | 7/10 |
+| Value for money | 8.5/10 |
 | Atmosphere      | 8.5/10 |
-| Overall         | 8.5/10 |
+| Overall         | 8/10 |
 
 ### Practical
 
@@ -36,4 +36,4 @@ There's a nice outdoor terrace, though it's better suited to the autumn or sprin
 
 📍 Im Kohlbachtal Helmbach, 67471 Elmstein, Germany
 
-💰 **Price level:** €30–45
+💰 **Price level:** €25-30
