@@ -42,4 +42,4 @@ This used to be the best farang breakfast place in town a decade ago, and is sti
 
 🗺️ **Google Maps:** [Open in Google Maps](https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x396b439682b8efc7)
 🍽️ **Type:** Western, Breakfast
-💰 **Price level:** ฿300
+💰 **Price level:** ฿300-500
