@@ -36,11 +36,11 @@ The prices are considerably higher than the simple setting would suggest, but th
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8.5/10 |
+| Food            | 8/10 |
 | Service         | 7/10 |
-| Value for money | 7/10 |
+| Value for money | 7.5/10 |
 | Atmosphere      | 6.5/10 |
-| Overall         | 8/10 |
+| Overall         | 7.5/10 |
 
 ### Practical
 
@@ -48,4 +48,4 @@ The prices are considerably higher than the simple setting would suggest, but th
 
 📍 Bebelstraße 27, 70193 Stuttgart, Germany
 
-💰 **Price level:** €30–45 · Lunch
+💰 **Price level:** €30–45 
