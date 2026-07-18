@@ -29,7 +29,7 @@ Unapologetically aimed at tourists, but prices remain surprisingly reasonable, e
 ## Rebelot 
 Barcelona · Natural Wine Bar
 Great little place in Barceloneta with good tapas, friendly service, and fair prices. The mussels are especially good.
-→ [Read the full review](./la-violeta/)
+→ [Read the full review](./rebelot/)
 
 ## ZODIACO
 Barcelona · Pinchos Bar

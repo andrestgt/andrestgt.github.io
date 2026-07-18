@@ -11,5 +11,4 @@ subtitle: Food & drink in Porto
 ## Categories
 - [Restaurants](/food/portugal/porto/restaurants/)
 - [Cafés](/food/portugal/porto/cafes/)
-- [Street Food](/food/portugal/porto/street-food/)
 - [Bars & Pubs](/food/portugal/porto/bars-pubs/)

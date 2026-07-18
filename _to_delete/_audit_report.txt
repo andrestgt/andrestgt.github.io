@@ -1,0 +1,1042 @@
+DOUBLED_WORD	food/austria/kleinwalsertal/restaurants/baergunt-huette/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/battambang/cafes/cafe-eden/index.md	
+DOUBLED_WORD	food/cambodia/battambang/cafes/cafe-eden/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/battambang/restaurants/jaan-bai-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/battambang/restaurants/jaan-bai-restaurant/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/battambang/restaurants/khmer-delight-restaurant/index.md	
+LONE_IN_GRID	food/cambodia/battambang/restaurants/khmer-delight-restaurant/index.md	
+DOUBLED_WORD	food/cambodia/battambang/restaurants/khmer-delight-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/battambang/restaurants/khmer-delight-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/battambang/restaurants/khmer-delight-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampong-cham/restaurants/smile-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampong-chhnang/restaurants/angkor-thmey-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampot-kep/cafes/cafe-espresso-roastery/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampot-kep/cafes/cafe-espresso-roastery/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampot-kep/cafes/cafe-malay/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/kampot-kep/cafes/saravoan-kep/index.md	
+DOUBLED_WORD	food/cambodia/kampot-kep/cafes/saravoan-kep/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/kampot-kep/restaurants/rikitikitavi/index.md	
+DOUBLED_WORD	food/cambodia/kampot-kep/restaurants/rikitikitavi/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampot-kep/restaurants/rikitikitavi/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampot-kep/restaurants/veronicas-garden/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/kampot-kep/restaurants/veronicas-garden/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/bars-pubs/doors-music-tapas/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/phnom-penh/cafes/la-croisette/index.md	
+DOUBLED_WORD	food/cambodia/phnom-penh/cafes/la-croisette/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/dim-sum-emperors/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/eleven-one-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/friends-the-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/nimol/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/phnom-penh/restaurants/open-wine/index.md	
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/open-wine/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/open-wine/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/terrazza/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/terrazza/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/the-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/the-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/the-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/the-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/yi-sang/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/yi-sang/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/phnom-penh/restaurants/yi-sang/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/siem-reap/cafes/temple-coffee-n-bakery/index.md	
+DOUBLED_WORD	food/cambodia/siem-reap/cafes/temple-coffee-n-bakery/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/cafes/temple-coffee-n-bakery/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/cafes/temple-coffee-n-bakery/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/cafes/temple-coffee-n-bakery/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/chanrey-tree/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/chanrey-tree/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/mamma-shop/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/olive-cuisine-de-saison/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/olive-cuisine-de-saison/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/olive-cuisine-de-saison/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/olive-cuisine-de-saison/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/palate-angkor/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/palate-angkor/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/palate-angkor/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/touich-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/touich-restaurant/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/siem-reap/restaurants/viva-mexican-khmer/index.md	
+LONE_IN_GRID	food/cambodia/siem-reap/restaurants/viva-mexican-khmer/index.md	
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/viva-mexican-khmer/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/viva-mexican-khmer/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/siem-reap/restaurants/viva-mexican-khmer/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/sihanoukville/bars-pubs/moorea-beach/index.md	
+LONE_IN_GRID	food/cambodia/sihanoukville/bars-pubs/moorea-beach/index.md	
+DOUBLED_WORD	food/cambodia/sihanoukville/bars-pubs/moorea-beach/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/bars-pubs/moorea-beach/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/bars-pubs/moorea-beach/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/bars-pubs/moorea-beach/index.md	1fr 1fr
+LONE_IN_GRID	food/cambodia/sihanoukville/bars-pubs/otres-sailing-club/index.md	
+DOUBLED_WORD	food/cambodia/sihanoukville/bars-pubs/otres-sailing-club/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/bars-pubs/otres-sailing-club/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/khins-shack/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/khins-shack/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/khins-shack/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/khins-shack/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/lotus-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/lotus-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/sandan/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/sandan/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/the-deck-at-sokha-beach/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/the-deck-at-sokha-beach/index.md	1fr 1fr
+DOUBLED_WORD	food/cambodia/sihanoukville/restaurants/the-deck-at-sokha-beach/index.md	1fr 1fr
+LONE_IN_GRID	food/czechia/bohemia/nove-mesto-metuje/restaurants/zamek-bar/index.md	
+DOUBLED_WORD	food/czechia/bohemia/nove-mesto-metuje/restaurants/zamek-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/czechia/bohemia/nove-mesto-metuje/restaurants/zamek-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/czechia/brno/bars-pubs/pivnice-u-kocoura/index.md	1fr 1fr
+DOUBLED_WORD	food/czechia/brno/bars-pubs/pivnice-u-kocoura/index.md	1fr 1fr
+DOUBLED_WORD	food/czechia/brno/cafes/momenta-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/czechia/budweis/restaurants/minipivovar-krajinska-27/index.md	1fr 1fr
+DOUBLED_WORD	food/czechia/pilsen/bars-pubs/na-parkanu/index.md	1fr 1fr
+LONE_IN_GRID	food/czechia/prague/restaurants/u-magistra-kelly/index.md	
+DOUBLED_WORD	food/czechia/prague/restaurants/u-magistra-kelly/index.md	1fr 1fr
+MOJIBAKE	food/france/alsace/restaurants/index.md	
+DOUBLED_WORD	food/france/alsace/restaurants/a-larbre-vert/index.md	1fr 1fr
+DOUBLED_WORD	food/france/alsace/restaurants/auberge-des-sauterelles/index.md	1fr 1fr
+DOUBLED_WORD	food/france/alsace/restaurants/auberge-des-trois-chateaux/index.md	1fr 1fr
+DOUBLED_WORD	food/france/alsace/restaurants/auberge-des-trois-chateaux/index.md	1fr 1fr
+DOUBLED_WORD	food/france/alsace/restaurants/hotel-restaurant-faller-emmebuckel/index.md	1fr 1fr
+DOUBLED_WORD	food/france/alsace/restaurants/hotel-restaurant-faller-emmebuckel/index.md	1fr 1fr
+DOUBLED_WORD	food/france/lille/restaurants/index.md	LILLE
+Lille
+DOUBLED_WORD	food/france/lille/restaurants/le-souk/index.md	1fr 1fr
+DOUBLED_WORD	food/france/lille/restaurants/le-souk/index.md	1fr 1fr
+DOUBLED_WORD	food/france/lille/restaurants/le-souk/index.md	1fr 1fr
+DOUBLED_WORD	food/france/lille/restaurants/tbilisi/index.md	1fr 1fr
+DOUBLED_WORD	food/france/lille/restaurants/tbilisi/index.md	1fr 1fr
+LONE_IN_GRID	food/france/paris/restaurants/le-mouffetard/index.md	
+DOUBLED_WORD	food/france/paris/restaurants/le-mouffetard/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/aulendorf/restaurants/index.md	AULENDORF
+Aulendorf
+DOUBLED_WORD	food/germany/baden-wuerttemberg/goeppingen/restaurants/index.md	GÖPPINGEN
+Göppingen
+DOUBLED_WORD	food/germany/baden-wuerttemberg/goeppingen/restaurants/barfuesser-hausbrauerei-goeppingen/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/lauffen-am-neckar/restaurants/daechle-das-schwaebische-wirtshaus/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/leutkirch/restaurants/brauerei-gasthof-mohren/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/leutkirch/restaurants/brauerei-gasthof-mohren/index.md	1fr 1fr
+LONE_IN_GRID	food/germany/baden-wuerttemberg/mosbach/cafes/eiscafe-venezia/index.md	
+DOUBLED_WORD	food/germany/baden-wuerttemberg/mosbach/cafes/eiscafe-venezia/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/schwaebische-alb/restaurants/brauerei-gasthof-lamm-speidels-braumanufaktur/index.md	1fr 1fr
+LONE_IN_GRID	food/germany/baden-wuerttemberg/schwaebische-alb/restaurants/zwiefalter-klosterbraeu-brauhaus-wirtshaus/index.md	
+DOUBLED_WORD	food/germany/baden-wuerttemberg/schwaebische-alb/restaurants/zwiefalter-klosterbraeu-brauhaus-wirtshaus/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/schwarzwald/restaurants/alte-traenke/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/index.md	STUTTGART
+Stuttgart
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/index.md	CHEN CHEN
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/index.md	STUTTGART
+Stuttgart
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/athidhi-restaurant-stuttgart/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/besenwirtschaft-rauscher/index.md	and and
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/biergarten-killesberg/index.md	prices prices
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/chen-chen-rice-noodle-kitchen/index.md	Chen Chen
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/chen-chen-rice-noodle-kitchen/index.md	Chen Chen
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/chen-chen-rice-noodle-kitchen/index.md	Chen Chen
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/chen-chen-rice-noodle-kitchen/index.md	Chen Chen
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/cq-flavour/index.md	1fr 1fr
+LONE_IN_GRID	food/germany/baden-wuerttemberg/stuttgart/restaurants/dilgelay-der-stuttgarter-doener/index.md	
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/dilgelay-der-stuttgarter-doener/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/goldener-adler/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/huong-viet-vietnamesische-spezialitaeten/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/huong-viet-vietnamesische-spezialitaeten/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/krone-trattoria-pizzeria/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/l-ulivo/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/ristorante-la-scala/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/sichuan-china-restaurant/index.md	Dan Dan
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/sichuan-china-restaurant/index.md	1fr 1fr
+LONE_IN_GRID	food/germany/baden-wuerttemberg/stuttgart/restaurants/thai-palace-restaurant/index.md	
+DOUBLED_WORD	food/germany/baden-wuerttemberg/stuttgart/restaurants/thai-palace-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/bayern/dinkelsbuehl/restaurants/zur-glocke/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/bayern/nuernberg/restaurants/index.md	Traditional
+Traditional
+DOUBLED_WORD	food/germany/bayern/nuernberg/restaurants/goldenes-posthorn/index.md	1fr 1fr
+BLANK_PRICE	food/germany/bayern/nuernberg/restaurants/wirtshaus-huettn/index.md	
+DOUBLED_WORD	food/germany/berlin/berlin/restaurants/song-nguu-wasserbueffel/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/hessen/frankfurt/restaurants/apfelwein-wirtschaft-fichtekraenzi/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/nrw/duesseldorf/restaurants/takumi/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/nrw/koeln/restaurants/index.md	KÖLN
+Köln
+DOUBLED_WORD	food/germany/nrw/koeln/restaurants/frueh-em-golde-kappes/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/nrw/koeln/restaurants/tandir-tuerkisches-restaurant-koeln/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/rheinland-pfalz/weinstrasse/restaurants/index.md	EDENKOBEN
+Edenkoben
+DOUBLED_WORD	food/germany/rheinland-pfalz/weinstrasse/restaurants/naturfreundehaus-edenkoben/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/rheinland-pfalz/weinstrasse/restaurants/restaurant-altes-jagdhaus/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/rheinland-pfalz/weinstrasse/restaurants/zum-schwanen/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/index.md	CHIN CHIN
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/index.md	Chin Chin
+LONE_IN_GRID	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	Chin Chin
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	Chin Chin
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	Chin Chin
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	Chin Chin
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	Chin Chin
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	Chin Chin
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/rheinland-pfalz/zweibruecken/restaurants/chin-chin-vietnamese-street-food/index.md	Chin Chin
+DOUBLED_WORD	food/germany/saarland/illingen/restaurants/petit-bistro-espa-ol/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/saarland/kirkel/restaurants/ressmanns-residence/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/saarland/merzig/restaurants/saarfuerst-brauhaus-am-yachthafen/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/saarland/merzig/restaurants/saarfuerst-brauhaus-am-yachthafen/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/saarland/neunkirchen/restaurants/zakado-neunkirchen-sushibar-vietnamesische-kueche/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/saarland/saarbruecken/bars-pubs/index.md	SAARBRÜCKEN
+Saarbrücken
+DOUBLED_WORD	food/germany/saarland/schaumberg/restaurants/schaumberg-alm/index.md	1fr 1fr
+DOUBLED_WORD	food/germany/sachsen/leipzig/bars-pubs/index.md	LEIPZIG
+Leipzig
+DOUBLED_WORD	food/germany/schleswig-holstein/husum/cafes/index.md	HUSUM
+Husum
+DOUBLED_WORD	food/germany/thueringen/erfurt/cafes/index.md	ERFURT
+Erfurt
+ORPHAN_PHOTO	photos/germany/stuttgart/brauhaus-schoenbuch-1.jpg	
+ORPHAN_PHOTO	photos/germany/stuttgart/brauhaus-schoenbuch-2.jpg	
+ORPHAN_PHOTO	photos/germany/weinstrasse/naturfreundehaus-edenkoben-1.jpg	
+ORPHAN_PHOTO	photos/germany/weinstrasse/naturfreundehaus-edenkoben-2.jpg	
+DOUBLED_WORD	food/greece/crete/cafes/index.md	KOSTA KOSTA
+DOUBLED_WORD	food/greece/crete/cafes/kosta-kosta-cafe/index.md	Kosta Kosta
+DOUBLED_WORD	food/greece/crete/cafes/kosta-kosta-cafe/index.md	Kosta Kosta
+DOUBLED_WORD	food/greece/crete/cafes/kosta-kosta-cafe/index.md	Kosta Kosta
+LONE_IN_GRID	food/greece/crete/restaurants/blue-house/index.md	
+DOUBLED_WORD	food/greece/crete/restaurants/blue-house/index.md	1fr 1fr
+DOUBLED_WORD	food/greece/crete/restaurants/koukouvagia/index.md	1fr 1fr
+LONE_IN_GRID	food/greece/crete/restaurants/panorama-cafe-taverna/index.md	
+DOUBLED_WORD	food/greece/crete/restaurants/panorama-cafe-taverna/index.md	1fr 1fr
+DOUBLED_WORD	food/greece/crete/restaurants/platanos/index.md	1fr 1fr
+LONE_IN_GRID	food/greece/crete/restaurants/vasiliki-kouzina/index.md	
+DOUBLED_WORD	food/greece/crete/restaurants/vasiliki-kouzina/index.md	1fr 1fr
+DOUBLED_WORD	food/greece/crete/restaurants/vasiliki-kouzina/index.md	1fr 1fr
+DOUBLED_WORD	food/greece/crete/restaurants/vasiliki-kouzina/index.md	1fr 1fr
+DOUBLED_WORD	food/hungary/balaton/restaurants/csillagvar-etterem/index.md	1fr 1fr
+DOUBLED_WORD	food/hungary/balaton/restaurants/csillagvar-etterem/index.md	1fr 1fr
+BROKEN_LINK	food/hungary/budapest/index.md	/food/hungary/budapest/street-food
+DOUBLED_WORD	food/hungary/budapest/bars-pubs/szimpla-kert/index.md	1fr 1fr
+LONE_IN_GRID	food/hungary/budapest/restaurants/paprika-vendegloe/index.md	
+DOUBLED_WORD	food/hungary/budapest/restaurants/paprika-vendegloe/index.md	1fr 1fr
+DOUBLED_WORD	food/hungary/budapest/restaurants/paprika-vendegloe/index.md	1fr 1fr
+LONE_IN_GRID	food/india/bangalore/bars-pubs/arbor-brewing-company/index.md	
+DOUBLED_WORD	food/india/bangalore/bars-pubs/arbor-brewing-company/index.md	1fr 1fr
+LONE_IN_GRID	food/india/bangalore/bars-pubs/biergarten-brewery/index.md	
+DOUBLED_WORD	food/india/bangalore/bars-pubs/biergarten-brewery/index.md	1fr 1fr
+DOUBLED_WORD	food/india/bangalore/bars-pubs/biergarten-brewery/index.md	1fr 1fr
+DOUBLED_WORD	food/india/bangalore/bars-pubs/brewklyn-microbrewery/index.md	1fr 1fr
+DOUBLED_WORD	food/india/bangalore/restaurants/hotel-new-grand/index.md	1fr 1fr
+LONE_IN_GRID	food/india/bangalore/restaurants/nagarjuna-restaurant/index.md	
+LONE_IN_GRID	food/india/bangalore/restaurants/nagarjuna-restaurant/index.md	
+DOUBLED_WORD	food/india/bangalore/restaurants/nagarjuna-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/bangalore/restaurants/nagarjuna-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/hampi/restaurants/chillout-bamboo-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/hampi/restaurants/mango-tree-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/hampi/restaurants/mango-tree-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/hyderabad/restaurants/hotel-shadab/index.md	1fr 1fr
+LONE_IN_GRID	food/india/kolkata/bars-pubs/the-lords-and-barons/index.md	
+DOUBLED_WORD	food/india/kolkata/bars-pubs/the-lords-and-barons/index.md	1fr 1fr
+LONE_IN_GRID	food/india/kolkata/cafes/sienna/index.md	
+DOUBLED_WORD	food/india/kolkata/cafes/sienna/index.md	1fr 1fr
+DOUBLED_WORD	food/india/kolkata/restaurants/peter-cat/index.md	1fr 1fr
+DOUBLED_WORD	food/india/kolkata/restaurants/the-bhoj-company/index.md	1fr 1fr
+DOUBLED_WORD	food/india/kolkata/street-food/wow-momo-kolkata/index.md	1fr 1fr
+DOUBLED_WORD	food/india/lucknow/restaurants/dastarkhwan/index.md	1fr 1fr
+DOUBLED_WORD	food/india/lucknow/street-food/tunday-kababi/index.md	1fr 1fr
+DOUBLED_WORD	food/india/mysore/bars-pubs/pelican-pub/index.md	1fr 1fr
+DOUBLED_WORD	food/india/mysore/restaurants/dicky-tibet-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/north-goa/cafes/artjuna/index.md	1fr 1fr
+DOUBLED_WORD	food/india/north-goa/cafes/german-bakery-anjuna/index.md	1fr 1fr
+DOUBLED_WORD	food/india/north-goa/restaurants/piccola-roma-pizza/index.md	1fr 1fr
+DOUBLED_WORD	food/india/north-goa/restaurants/sussegado/index.md	1fr 1fr
+DOUBLED_WORD	food/india/north-goa/restaurants/vinayak-family-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/north-goa/restaurants/viva-panjim/index.md	1fr 1fr
+DOUBLED_WORD	food/india/north-goa/restaurants/viva-panjim/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/cafes/german-bakery-palolem/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/dreams-of-palolem/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/longuinhos-bar-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/o-cuzinero/index.md	1fr 1fr
+LONE_IN_GRID	food/india/south-goa/restaurants/tanshikar-spice-farm/index.md	
+DOUBLED_WORD	food/india/south-goa/restaurants/tanshikar-spice-farm/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/tanshikar-spice-farm/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/tanshikar-spice-farm/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/tantra-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/tantra-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/india/south-goa/restaurants/vidushis-cow-corner/index.md	1fr 1fr
+LONE_IN_GRID	food/india/varanasi/cafes/brown-bread-bakery/index.md	
+DOUBLED_WORD	food/india/varanasi/cafes/brown-bread-bakery/index.md	1fr 1fr
+DOUBLED_WORD	food/india/varanasi/cafes/brown-bread-bakery/index.md	1fr 1fr
+LONE_IN_GRID	food/india/varanasi/cafes/open-hand-cafe/index.md	
+DOUBLED_WORD	food/india/varanasi/cafes/open-hand-cafe/index.md	1fr 1fr
+LONE_IN_GRID	food/indonesia/bali/ubud-north/restaurants/bebek-bengil/index.md	
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/bebek-bengil/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/bebek-bengil/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/bebek-bengil/index.md	1fr 1fr
+LONE_IN_GRID	food/indonesia/bali/ubud-north/restaurants/bridges-bali/index.md	
+LONE_IN_GRID	food/indonesia/bali/ubud-north/restaurants/bridges-bali/index.md	
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/bridges-bali/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/bridges-bali/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/bridges-bali/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/lala-and-lili/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/taco-casa/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/warung-mendez/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/warung-mendez/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/warung-mendez/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/warung-pulau-kelapa/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/warung-pulau-kelapa/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/warung-pulau-kelapa/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/bali/ubud-north/restaurants/warung-pulau-kelapa/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/cafe-batavia/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/ce-wei-bbq/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/grand-duck-king/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/jj-royal-brasserie/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/jj-royal-brasserie/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/jj-royal-brasserie/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/lamian-palace-grand-indonesia/index.md	1fr 1fr
+LONE_IN_GRID	food/indonesia/java/jakarta/restaurants/lara-djonggrang/index.md	
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/lara-djonggrang/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/lara-djonggrang/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/lara-djonggrang/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/lara-djonggrang/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/sushi-groove/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/jakarta/restaurants/taste-paradise/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/surabaya/cafes/fifteenth-coffee/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/surabaya/restaurants/imperial-kitchen-pakuwon/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/java/surabaya/restaurants/sushi-tei-tp/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/banda-islands/cafes/cilu-bintang-estate/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/banda-islands/restaurants/delfika-1/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/banda-islands/restaurants/spice-island-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/banda-islands/restaurants/spice-island-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/kei-islands/restaurants/forganza-resto/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/kei-islands/restaurants/forganza-resto/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/kei-islands/restaurants/forganza-resto/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/maluku/kei-islands/restaurants/ten-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/indonesia/sumatra/medan/restaurants/batiks/index.md	1fr 1fr
+LONE_IN_GRID	food/laos/luang-prabang/bars-pubs/redbul-bar/index.md	
+DOUBLED_WORD	food/laos/luang-prabang/bars-pubs/redbul-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/luang-prabang/bars-pubs/utopia-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/luang-prabang/cafes/le-cafe-ban-vat-sene/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/index.md	Lao Lao
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/index.md	Lao Lao
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/lao-lao-garden/index.md	Lao Lao
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/lao-lao-garden/index.md	Lao Lao
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/lao-lao-garden/index.md	Lao Lao
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/pizza-phan-luang/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/secret-pizza/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/luang-prabang/restaurants/tamarind/index.md	1fr 1fr
+LONE_IN_GRID	food/laos/nong-khiaw/restaurants/coco-home-bar/index.md	
+DOUBLED_WORD	food/laos/nong-khiaw/restaurants/coco-home-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/nong-khiaw/restaurants/coco-home-bar/index.md	1fr 1fr
+LONE_IN_GRID	food/laos/nong-khiaw/restaurants/ma-ma-alex-restaurant/index.md	
+DOUBLED_WORD	food/laos/nong-khiaw/restaurants/ma-ma-alex-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/vientiane/bars-pubs/kong-view/index.md	1fr 1fr
+LONE_IN_GRID	food/laos/vientiane/cafes/naked-espresso/index.md	
+DOUBLED_WORD	food/laos/vientiane/cafes/naked-espresso/index.md	1fr 1fr
+DOUBLED_WORD	food/laos/vientiane/cafes/naked-espresso/index.md	1fr 1fr
+LONE_IN_GRID	food/malaysia/ipoh/cafes/auds-cafe/index.md	
+DOUBLED_WORD	food/malaysia/ipoh/cafes/auds-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/ipoh/restaurants/foh-san-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/ipoh/street-food/restoran-thean-chun/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kota-kinabalu/cafes/lucys-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kota-kinabalu/cafes/lucys-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kota-kinabalu/restaurants/foo-phing-dim-sum/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kota-kinabalu/restaurants/meet-and-wine/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kota-kinabalu/restaurants/meet-and-wine/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kota-kinabalu/restaurants/meet-and-wine/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuala-lumpur/cafes/feeka-coffee-roasters/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuala-lumpur/restaurants/dolly-dim-sum-nu-sentral/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuala-lumpur/restaurants/michelangelos/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuala-lumpur/restaurants/peranakan-place-signature/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuala-lumpur/street-food/wong-ah-wah-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/restaurants/nu-er-hong-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/restaurants/nu-er-hong-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/restaurants/sushi-zanmai-vivacity/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/restaurants/zinc-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/restaurants/zinc-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/restaurants/zinc-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/restaurants/zinc-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/street-food/chong-choon-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/kuching/street-food/kapit-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/langkawi/cafes/index.md	Yam Yam
+DOUBLED_WORD	food/malaysia/langkawi/cafes/yam-yam-restaurant/index.md	Yam Yam
+DOUBLED_WORD	food/malaysia/langkawi/cafes/yam-yam-restaurant/index.md	Yam Yam
+LONE_IN_GRID	food/malaysia/langkawi/restaurants/fat-cupid/index.md	
+LONE_IN_GRID	food/malaysia/langkawi/restaurants/fat-cupid/index.md	
+DOUBLED_WORD	food/malaysia/langkawi/restaurants/fat-cupid/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/langkawi/restaurants/fat-cupid/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/langkawi/restaurants/sun-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/langkawi/restaurants/tapaz-langkawi/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/langkawi/street-food/dlima-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/malaysia/melaka/cafes/the-daily-fix-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/baguio/restaurants/index.md	Lapu Lapu
+DOUBLED_WORD	food/philippines/baguio/restaurants/good-taste-cafe/index.md	Lapu Lapu
+DOUBLED_WORD	food/philippines/bohol-panglao/cafes/tamper-coffee/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/bohol-farm/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/bohol-farm/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/bohol-farm/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/bougainvillea/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/bougainvillea/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/bougainvillea/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/bougainvillea/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/giuseppe-pizzeria/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/giuseppe-pizzeria/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/giuseppe-pizzeria/index.md	1fr 1fr
+LONE_IN_GRID	food/philippines/bohol-panglao/restaurants/nuts-and-huts/index.md	
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/nuts-and-huts/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/nuts-and-huts/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/nuts-and-huts/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/bohol-panglao/restaurants/the-buzzz-cafe-galleria/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/boracay/cafes/latte-coffee-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/boracay/restaurants/aria-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/boracay/restaurants/lemoni-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/boracay/restaurants/lemoni-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/boracay/restaurants/wokeria/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/boracay/restaurants/wokeria/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/cebu/restaurants/apgujeong/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/cebu/restaurants/apgujeong/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/cebu/restaurants/apgujeong/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/cebu/restaurants/gilligans/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/cebu/restaurants/han-guk-kwan/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/cebu/restaurants/kalachuchi/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/cebu/restaurants/oriental-spice-gourmet/index.md	1fr 1fr
+LONE_IN_GRID	food/philippines/davao/restaurants/belitos/index.md	
+DOUBLED_WORD	food/philippines/davao/restaurants/belitos/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/belitos/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/belitos/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/belitos/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/bulgogi-brothers/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/bulgogi-brothers/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/bulgogi-brothers/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/claudes-le-cafe-de-ville/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/claudes-le-cafe-de-ville/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/roadhouse-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/swiss-deli/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/the-white-house/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/the-white-house/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/the-white-house/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/the-white-house/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/davao/restaurants/tiny-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/cafes/sans-rival-boulevard/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/allegre-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/andys-golden-grill/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/casablanca/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/casablanca/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/casablanca/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/casablanca/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/flip-flops-restobar/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/flip-flops-restobar/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/kri-catering/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/kri-catering/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/kri-catering/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/kri-catering/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/lantaw-native-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/dumaguete/restaurants/soban-korean-restaurant/index.md	1fr 1fr
+LONE_IN_GRID	food/philippines/el-nido/cafes/hama-coffee-el-nido/index.md	
+DOUBLED_WORD	food/philippines/el-nido/cafes/hama-coffee-el-nido/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/el-nido/restaurants/nacpan-grill/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/el-nido/street-food/socorro-hills-view/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/bars-pubs/el-chupacabra/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/bars-pubs/oarhouse-pub/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/cafes/cafe-mary-grace-naia/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/cafes/refinery/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/cafes/wildflour-bgc/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/cafes/wildflour-bgc/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/cafes/wildflour-legazpi-village/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/cafes/wildflour-legazpi-village/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/crystal-jade-bgc/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/crystal-jade-bgc/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/las-flores/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/las-flores/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/lentrecote-bgc/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/lugang-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/manam-comfort-filipino/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/mongkok/index.md	1fr 1fr
+LONE_IN_GRID	food/philippines/manila/restaurants/munchen-grill-bar/index.md	
+DOUBLED_WORD	food/philippines/manila/restaurants/munchen-grill-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/munchen-grill-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/nihonbashitei/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/nihonbashitei/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/nihonbashitei/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/nihonbashitei/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/nihonbashitei/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/nihonbashitei/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/passion-chinese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/rambla/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/rambla/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/rambla/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/village-tavern/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/manila/restaurants/yoree-korean-dining/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/port-barton-san-vicente/restaurants/kitzmon-food-house/index.md	1fr 1fr
+LONE_IN_GRID	food/philippines/puerto-princesa/restaurants/kalui-seafood/index.md	
+DOUBLED_WORD	food/philippines/puerto-princesa/restaurants/kalui-seafood/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/puerto-princesa/restaurants/kalui-seafood/index.md	1fr 1fr
+LONE_IN_GRID	food/philippines/siquijor/restaurants/baha-bar/index.md	
+DOUBLED_WORD	food/philippines/siquijor/restaurants/baha-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/siquijor/restaurants/baha-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/tacloban/restaurants/dream-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/tacloban/restaurants/dream-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/vigan/restaurants/cafe-leona/index.md	1fr 1fr
+DOUBLED_WORD	food/philippines/vigan/restaurants/cafe-leona/index.md	1fr 1fr
+BROKEN_LINK	food/poland/krakow/index.md	/food/poland/krakow/street-food
+DOUBLED_WORD	food/poland/krakow/bars-pubs/szynk/index.md	1fr 1fr
+LONE_IN_GRID	food/portugal/evora/bars-pubs/moi-te/index.md	
+DOUBLED_WORD	food/portugal/evora/bars-pubs/moi-te/index.md	1fr 1fr
+BROKEN_LINK	food/portugal/lisbon/index.md	/food/portugal/lisbon/street-food
+DOUBLED_WORD	food/portugal/lisbon/restaurants/eating-bear/index.md	1fr 1fr
+DOUBLED_WORD	food/portugal/lisbon/restaurants/super-mario/index.md	1fr 1fr
+DOUBLED_WORD	food/portugal/lisbon/restaurants/taberna-da-saudade/index.md	1fr 1fr
+DOUBLED_WORD	food/portugal/lisbon/restaurants/tascardoso/index.md	1fr 1fr
+BROKEN_LINK	food/portugal/porto/index.md	/food/portugal/porto/street-food
+DOUBLED_WORD	food/portugal/porto/restaurants/mariscaria-bom-sucesso/index.md	1fr 1fr
+DOUBLED_WORD	food/portugal/porto/restaurants/mariscaria-bom-sucesso/index.md	1fr 1fr
+LONE_IN_GRID	food/portugal/porto/restaurants/pisca/index.md	
+DOUBLED_WORD	food/portugal/porto/restaurants/pisca/index.md	1fr 1fr
+MOJIBAKE	food/portugal/vila-vicosa/restaurants/index.md	
+DOUBLED_WORD	food/singapore/restaurants/index.md	Zam Zam
+DOUBLED_WORD	food/singapore/restaurants/mouth-restaurant-di-mao-guan/index.md	1fr 1fr
+DOUBLED_WORD	food/singapore/restaurants/singapore-zam-zam-restaurant/index.md	Zam Zam
+DOUBLED_WORD	food/singapore/restaurants/singapore-zam-zam-restaurant/index.md	Zam Zam
+DOUBLED_WORD	food/singapore/restaurants/singapore-zam-zam-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/singapore/restaurants/singapore-zam-zam-restaurant/index.md	Zam Zam
+DOUBLED_WORD	food/singapore/restaurants/singapore-zam-zam-restaurant/index.md	Zam Zam
+DOUBLED_WORD	food/slovakia/kosice/bars-pubs/barrique-pivoteka-vinoteka/index.md	1fr 1fr
+DOUBLED_WORD	food/slovakia/kosice/bars-pubs/dobre-casy/index.md	1fr 1fr
+DOUBLED_WORD	food/slovakia/kosice/bars-pubs/u-seburgiho/index.md	1fr 1fr
+DOUBLED_WORD	food/slovakia/levoca/restaurants/restauracia-kupecka-basta/index.md	1fr 1fr
+DOUBLED_WORD	food/slovakia/levoca/restaurants/restauracia-kupecka-basta/index.md	1fr 1fr
+DOUBLED_WORD	food/slovakia/levoca/restaurants/restauracia-kupecka-basta/index.md	1fr 1fr
+BROKEN_LINK	food/spain/barcelona/restaurants/index.md	./la-violeta
+DOUBLED_WORD	food/spain/barcelona/restaurants/bar-bodega-quimet/index.md	1fr 1fr
+DOUBLED_WORD	food/spain/barcelona/restaurants/el-pintxo-de-petritxol/index.md	1fr 1fr
+LONE_IN_GRID	food/spain/barcelona/restaurants/la-fonda/index.md	
+DOUBLED_WORD	food/spain/barcelona/restaurants/la-fonda/index.md	1fr 1fr
+DOUBLED_WORD	food/spain/mallorca/restaurants/antic-celler-san-toreo/index.md	1fr 1fr
+DOUBLED_WORD	food/spain/mallorca/restaurants/antic-celler-san-toreo/index.md	1fr 1fr
+DOUBLED_WORD	food/spain/mallorca/restaurants/es-cruce/index.md	1fr 1fr
+DOUBLED_WORD	food/taiwan/tainan/cafes/lazy-day/index.md	1fr 1fr
+ORPHAN_PHOTO	photos/taiwan/tainan/lin-family-shantou-noodles-1.jpg	
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/moonshine-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/octave-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/octave-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/octave-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/octave-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/river-vibe/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/samkaew-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/bars-pubs/tawandang/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/av-izakaya/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/badmotel/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/capri/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/duklong/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/gastro-kafe/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/gastro-kafe/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/hiro-omakase/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/hiro-omakase/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/hiro-omakase/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/kabocha-sushi/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/kabocha-sushi/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/kabocha-sushi/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/kabocha-sushi/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/krua-apsorn/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/krua-apsorn/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/krua-apsorn/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/kubkao-kubpla/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/reflections/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/reflections/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/sushi-den-ctw/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/sushi-den-ctw/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/sushi-den-paragon/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/sushiro/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/sushiro/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/sushiro/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/wine-connection/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/wine-connection/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/wine-i-love-you/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/wine-i-love-you/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/yong-he-dou-jiang/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/restaurants/yong-he-dou-jiang/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/street-food/jodd-fairs/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/street-food/laab-ubon/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/street-food/madamzabb/index.md	1fr 1fr
+LONE_IN_GRID	food/thailand/bangkok/street-food/sooksiam/index.md	
+DOUBLED_WORD	food/thailand/bangkok/street-food/sooksiam/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/street-food/sooksiam/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/street-food/sooksiam/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/street-food/sung-phochana/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/bangkok/street-food/zabb-one/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/bars-pubs/globe-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/bars-pubs/thai-1-on-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/32-coffee-hill/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/baristro-asian-style/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/bear-hug-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/chomnok-chommai/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/chomnok-chommai/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/clay-studio-coffee/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/lung-pud-pa-peng-coffee/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/lung-pud-pa-peng-coffee/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/overstand-coffee/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/cafes/ristr8to/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/index.md	Big Big
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/big-big-shabu/index.md	Big Big
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/big-big-shabu/index.md	Big Big
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/big-big-shabu/index.md	Big Big
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/big-big-shabu/index.md	Big Big
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/big-big-shabu/index.md	Big Big
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/big-big-shabu/index.md	Big Big
+LONE_IN_GRID	food/thailand/chiang-mai/restaurants/blue-diamond-breakfast-club/index.md	
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/blue-diamond-breakfast-club/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/dao-chinese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/davids-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/davids-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/davids-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/davids-kitchen/index.md	1fr 1fr
+LONE_IN_GRID	food/thailand/chiang-mai/restaurants/deck-1/index.md	
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/deck-1/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/deck-1/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/huen-jai-yong/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/khaomao-khaofang/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/musashi-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/musashi-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/musashi-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/musashi-sushi-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/okada-izakaya/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/tha-chang-hill/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/restaurants/thaan-aoan/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/barnakarn-kitchen/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/chang-phuak-market/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/chang-phuak-market/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/coconut-shell-thai-food/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/neng-roasted-pork/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/neng-roasted-pork/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/sorn-chan/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/sp-chicken/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/chiang-mai/street-food/sp-chicken/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/koh-samui/restaurants/red-moon/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/koh-samui/restaurants/red-moon/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/koh-samui/restaurants/red-moon/index.md	1fr 1fr
+DOUBLED_WORD	food/thailand/koh-samui/restaurants/the-fish-restaurant/index.md	1fr 1fr
+ORPHAN_PHOTO	photos/thailand/chiang-mai/blue-diamond-breakfast-club-3.jpg	
+ORPHAN_PHOTO	photos/thailand/chiang-mai/deck-1-2.jpg	
+LONE_IN_GRID	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	
+DOUBLED_WORD	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/binh-dinh/quy-nhon/bars-pubs/surf-bar/index.md	
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/bars-pubs/surf-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/restaurants/quan-nam-them/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/quan-banh-xeo-tom-nhay-rau-mam/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/quan-nhau-97/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/can-tho/cafes/spa-gony/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/can-tho/restaurants/phuong-nam-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/con-dao/restaurants/beach-house-restaurant-cocktails-con-dao/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/con-dao/restaurants/beach-house-restaurant-cocktails-con-dao/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/con-dao/restaurants/beach-house-restaurant-cocktails-con-dao/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/cafes/tiem-ca-phe-cheo-veooo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/cut-kit/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/german-beer-house-dalat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/primavera-italian-restaurant/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/da-lat/restaurants/quan-gio/index.md	
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/quan-gio/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/street-food/index.md	Tuk Tuk
+DOUBLED_WORD	food/vietnam/da-lat/street-food/bun-bo-thuy/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/street-food/quan-cu-duc/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/street-food/tuk-tuk-grilled-chicken-restaurant/index.md	Tuk Tuk
+DOUBLED_WORD	food/vietnam/da-lat/street-food/tuk-tuk-grilled-chicken-restaurant/index.md	Tuk Tuk
+DOUBLED_WORD	food/vietnam/da-nang/bars-pubs/7-bridges/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/bushido-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/bushido-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/nha-hang-madame-lan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/waterfront-restaurant-bar-da-nang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/waterfront-restaurant-bar-da-nang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/dak-lak/buon-ma-thuot/restaurants/beer-zone-the-gioi-nhau/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ha-giang/dong-van/street-food/pho-co/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hai-phong/cat-ba/restaurants/yummy-2-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/bars-pubs/bia-hoi-thu-hang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/bars-pubs/the-100-garden/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/chaka-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/chaka-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/net-hue-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/pateta/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/pateta/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/quan-an-ngon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/quan-an-ngon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/banh-mi-25/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-bo-nam-bo-bach-phuong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-ca-sam-cay-si/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-cha-tuyet-34/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-cha-tuyet-34/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/pho-10-ly-quoc-su/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/tue-an-banh-cuon-nong-pho-bo-bao-khanh/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/biacraft-truong-sa-dphu-nhuan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/biacraft-truong-sa-dphu-nhuan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/biacraft-truong-sa-dphu-nhuan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/bittersweet-brewing-co-khong-tu/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/khoai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/khoai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/chiyoda-sushi-ben-thanh/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/khang-dim-sum-bar-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/korean-bbq-restaurant-lee-cho/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/quan-bui-garden/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/san-fu-lou-restaurant-hot-pot-ab-tower/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/sushi-hokkaido-sachi/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/sushi-tei-vietnam/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/sushi-tei-vietnam/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/the-german-beer-hall/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/the-german-beer-hall/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/tokyo-deli-crescent/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/tokyo-deli-crescent/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/tokyo-deli-crescent/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/bo-tung-xeo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/bo-tung-xeo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/bo-tung-xeo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/thoc-grill-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/thoc-grill-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/thoc-grill-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/index.md	same same
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/baby-mustard/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/baby-mustard/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/baby-mustard/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/french-bakery-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/green-mango-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/green-mango-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/madamquan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/mango-rooms/index.md	same same
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/mango-rooms/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/morning-glory-original/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/street-food/cao-lau-khong-gian-xanh/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/restaurants/banh-beo-nam-loc-ba-do/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/restaurants/gecko/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/street-food/com-hen-hoa-dong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/street-food/com-hen-hoa-dong-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/khanh-hoa/cam-ranh/street-food/quan-nhau-thanh-nguyet/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/kon-tum/kon-tum/restaurants/goi-la-ut-cung/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/kon-tum/kon-tum/restaurants/goi-la-ut-cung/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/lao-cai/bac-ha/street-food/pho-bac-ha-ly-thi/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/alley-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/alley-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/craft-beer-ub-eatrang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/j-cafe-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/kilo-distillery-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/kilo-distillery-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+MOJIBAKE	food/vietnam/nha-trang/cafes/index.md	
+DOUBLED_WORD	food/vietnam/nha-trang/cafes/cafe-culture/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/cafes/cafe-culture/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/cafes/cafe-culture/index.md	1fr 1fr
+MOJIBAKE	food/vietnam/nha-trang/cafes/than-cafe-pho-tay/index.md	
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/a-phat-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/a-phat-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ari-arirang-korean-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cactus-bogosov-mexican-food/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cactus-bogosov-mexican-food/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cheng-an-dimsum/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/com-nha-goc-ha-noi/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cui-quan-an-ngon-re-sach-se/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/dam-tram-chim/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/dam-tram-chim/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/dam-tram-chim/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	Piri Piri
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ganesh-indian-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ganesh-indian-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/gogi-house/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/gogi-house/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/golden-bamboo-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-cala-gusto-italiano/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-petite-maison-de-song-cai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-petite-maison-de-song-cai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-petite-maison-de-song-cai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lac-canh-beef-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lang-nghe-nha-trang-xua/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lang-nghe-nha-trang-xua/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/livin-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lousiane-brewhouse-nha-trang-restaurant-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/marinelli/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/men-tuoi-bia-thu-cong-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mister-lai-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mitami-japanese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mitami-japanese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mitami-japanese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mix-greek-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nam-son-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ngo-ri-coriander-thai-cuisine/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	Nom nom
+LONE_IN_GRID	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	
+DOUBLED_WORD	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/an-giang/chau-doc/street-food/quan-mekong/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/binh-dinh/quy-nhon/bars-pubs/surf-bar/index.md	
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/bars-pubs/surf-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/restaurants/quan-nam-them/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/oc-hao-hao-duong-ngoc-han-cong-chua/index.md	Hảo Hảo
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/quan-banh-xeo-tom-nhay-rau-mam/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/binh-dinh/quy-nhon/street-food/quan-nhau-97/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/can-tho/cafes/spa-gony/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/can-tho/restaurants/phuong-nam-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/con-dao/restaurants/beach-house-restaurant-cocktails-con-dao/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/con-dao/restaurants/beach-house-restaurant-cocktails-con-dao/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/con-dao/restaurants/beach-house-restaurant-cocktails-con-dao/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/cafes/tiem-ca-phe-cheo-veooo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/cut-kit/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/german-beer-house-dalat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/primavera-italian-restaurant/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/da-lat/restaurants/quan-gio/index.md	
+DOUBLED_WORD	food/vietnam/da-lat/restaurants/quan-gio/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/street-food/index.md	Tuk Tuk
+DOUBLED_WORD	food/vietnam/da-lat/street-food/bun-bo-thuy/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/street-food/quan-cu-duc/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-lat/street-food/tuk-tuk-grilled-chicken-restaurant/index.md	Tuk Tuk
+DOUBLED_WORD	food/vietnam/da-lat/street-food/tuk-tuk-grilled-chicken-restaurant/index.md	Tuk Tuk
+DOUBLED_WORD	food/vietnam/da-nang/bars-pubs/7-bridges/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/bushido-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/bushido-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/nha-hang-madame-lan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/waterfront-restaurant-bar-da-nang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/da-nang/restaurants/waterfront-restaurant-bar-da-nang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/dak-lak/buon-ma-thuot/restaurants/beer-zone-the-gioi-nhau/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ha-giang/dong-van/street-food/pho-co/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hai-phong/cat-ba/restaurants/yummy-2-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/bars-pubs/bia-hoi-thu-hang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/bars-pubs/the-100-garden/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/chaka-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/chaka-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/net-hue-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/pateta/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/pateta/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/quan-an-ngon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/restaurants/quan-an-ngon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/banh-mi-25/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-bo-nam-bo-bach-phuong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-ca-sam-cay-si/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-cha-tuyet-34/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/bun-cha-tuyet-34/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/pho-10-ly-quoc-su/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hanoi/street-food/tue-an-banh-cuon-nong-pho-bo-bao-khanh/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/biacraft-truong-sa-dphu-nhuan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/biacraft-truong-sa-dphu-nhuan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/biacraft-truong-sa-dphu-nhuan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/bittersweet-brewing-co-khong-tu/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/khoai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/bars-pubs/khoai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/chiyoda-sushi-ben-thanh/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/khang-dim-sum-bar-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/korean-bbq-restaurant-lee-cho/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/quan-bui-garden/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/san-fu-lou-restaurant-hot-pot-ab-tower/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/sushi-hokkaido-sachi/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/sushi-tei-vietnam/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/sushi-tei-vietnam/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/the-german-beer-hall/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/the-german-beer-hall/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/tokyo-deli-crescent/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/tokyo-deli-crescent/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/restaurants/tokyo-deli-crescent/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/asiana-food-town-cho-am-thuc-duoi-long-dat/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/bo-tung-xeo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/bo-tung-xeo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/bo-tung-xeo/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/thoc-grill-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/thoc-grill-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/ho-chi-minh-city/street-food/thoc-grill-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/index.md	same same
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/baby-mustard/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/baby-mustard/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/baby-mustard/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/chips-n-fish-n-stuff/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/french-bakery-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/green-mango-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/green-mango-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/madamquan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/mango-rooms/index.md	same same
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/mango-rooms/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/restaurants/morning-glory-original/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hoi-an/street-food/cao-lau-khong-gian-xanh/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/restaurants/banh-beo-nam-loc-ba-do/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/restaurants/gecko/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/street-food/com-hen-hoa-dong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/hue/street-food/com-hen-hoa-dong-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/khanh-hoa/cam-ranh/street-food/quan-nhau-thanh-nguyet/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/kon-tum/kon-tum/restaurants/goi-la-ut-cung/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/kon-tum/kon-tum/restaurants/goi-la-ut-cung/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/lao-cai/bac-ha/street-food/pho-bac-ha-ly-thi/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/lao-cai/sa-pa/restaurants/a-phu-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/alley-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/alley-cafe/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/craft-beer-ub-eatrang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/j-cafe-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/kilo-distillery-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/kilo-distillery-bar/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/bars-pubs/sunshine-bar-rooftop/index.md	1fr 1fr
+MOJIBAKE	food/vietnam/nha-trang/cafes/index.md	
+DOUBLED_WORD	food/vietnam/nha-trang/cafes/cafe-culture/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/cafes/cafe-culture/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/cafes/cafe-culture/index.md	1fr 1fr
+MOJIBAKE	food/vietnam/nha-trang/cafes/than-cafe-pho-tay/index.md	
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/a-phat-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/a-phat-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ari-arirang-korean-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cactus-bogosov-mexican-food/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cactus-bogosov-mexican-food/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cheng-an-dimsum/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/com-nha-goc-ha-noi/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/cui-quan-an-ngon-re-sach-se/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/dam-tram-chim/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/dam-tram-chim/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/dam-tram-chim/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	Piri Piri
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/fork-n-lekker/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ganesh-indian-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ganesh-indian-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/gogi-house/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/gogi-house/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/golden-bamboo-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/jejuga/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/kimchi-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-cala-gusto-italiano/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-mancha/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-petite-maison-de-song-cai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-petite-maison-de-song-cai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/la-petite-maison-de-song-cai/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lac-canh-beef-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lang-nghe-nha-trang-xua/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lang-nghe-nha-trang-xua/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lanterns/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/livin-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/los-chilangos/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/lousiane-brewhouse-nha-trang-restaurant-craft-beer/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/marinelli/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/men-tuoi-bia-thu-cong-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mister-lai-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mitami-japanese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mitami-japanese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mitami-japanese-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/mix-greek-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nam-son-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/ngo-ri-coriander-thai-cuisine/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nha-hang-kiwami-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/nom-nom/index.md	Nom nom
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/pita-restaurant/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/pizza-4ps-sheraton-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/pizza-4ps-sheraton-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/pizza-4ps-sheraton-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/quan-lang-nuong-phu-nong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/roly-buffet/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/sailing-club-nha-trang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/steam-n-spice/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/swiss-house-la-casserole/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/swiss-house-la-casserole/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/time-house-bistro/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/yes-chef-kitchen-and-more/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/yes-chef-kitchen-and-more/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/yes-chef-kitchen-and-more/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/restaurants/yes-chef-kitchen-and-more/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/street-food/mi-bo-cho-lon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/street-food/mi-bo-cho-lon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/street-food/mi-bo-cho-lon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/street-food/mi-bo-cho-lon/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/street-food/nha-hang-bong-crazy/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/street-food/pho-hanh-phuc/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/nha-trang/street-food/quan-hai-san-thanh-suong-2/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/phu-yen/tuy-hoa/restaurants/quan-ba-tam-ca-ngu-dai-duong/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/quang-binh/dong-hoi/street-food/quan-nuoc-mam-ca-den/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/quang-binh/phong-nha/bars-pubs/momma-d/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/quang-ngai/quang-ngai/street-food/ram-thit-nuong-loan/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/quang-tri/dong-ha/street-food/pho-hang/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/soc-trang/soc-trang/restaurants/nha-hang-hang-ky/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/thanh-hoa/thanh-hoa/restaurants/quan-luong-van/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/thanh-hoa/thuong-xuan/street-food/quan-banh-cuon-nam-mai/index.md	for for
+DOUBLED_WORD	food/vietnam/tra-vinh/tra-vinh/restaurants/nha-hang-la-vang-tra-vinh-com-trua-com-tour/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/vung-tau/bars-pubs/numptys-bar/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/vung-tau/cafes/cariban-coffee/index.md	
+DOUBLED_WORD	food/vietnam/vung-tau/cafes/cariban-coffee/index.md	1fr 1fr
+DOUBLED_WORD	food/vietnam/vung-tau/restaurants/co-ba-restaurant/index.md	1fr 1fr
+LONE_IN_GRID	food/vietnam/vung-tau/restaurants/ganh-hao-2-seafood-restaurant/index.md	
+DOUBLED_WORD	food/vietnam/vung-tau/restaurants/ganh-hao-2-seafood-restaurant/index.md	1fr 1fr
+NO_FRONTMATTER	food/vietnam/yen-bai/mu-cang-chai/restaurants/index.md	

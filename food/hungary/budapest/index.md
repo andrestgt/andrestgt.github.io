@@ -11,5 +11,4 @@ subtitle: Food & drink in Budapest
 ## Categories
 - [Restaurants](/food/hungary/budapest/restaurants/)
 - [Cafés](/food/hungary/budapest/cafes/)
-- [Street Food](/food/hungary/budapest/street-food/)
 - [Bars & Pubs](/food/hungary/budapest/bars-pubs/)
