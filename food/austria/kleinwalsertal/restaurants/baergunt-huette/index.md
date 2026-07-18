@@ -5,9 +5,8 @@ review: true
 title: Bärgunt-Hütte
 subtitle: Kleinwalsertal · Alpine Hut
 ---
-
 <figure>
-  <img src="/photos/austria/kleinwalsertal/baergunt-huette-1.jpg" alt="Bärgunt-Hütte">
+  <img src="/photos/austria/kleinwalsertal/baergunt-huette-2.jpg" alt="Bärgunt-Hütte">
   <figcaption>Bärgunt-Hütte</figcaption>
 </figure>
 
@@ -17,9 +16,10 @@ What more could you want?
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
-  <img src="/photos/austria/kleinwalsertal/baergunt-huette-2.jpg" alt="Bärgunt-Hütte">
+  <img src="/photos/austria/kleinwalsertal/baergunt-huette-1.jpg" alt="Bärgunt-Hütte">
   <figcaption>Bärgunt-Hütte</figcaption>
 </figure>
+
 <figure>
   <img src="/photos/austria/kleinwalsertal/baergunt-huette-3.jpg" alt="Bärgunt-Hütte">
   <figcaption>Kleinwalsertal</figcaption>
@@ -30,10 +30,9 @@ What more could you want?
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 8/10 |
-| Service         | 8/10 |
+| Service         | 7/10 |
 | Value for money | 8/10 |
-| Atmosphere      | 9/10 |
+| Atmosphere      | 9.5/10 |
 | Overall         | 8.5/10 |
 
 ### Practical
