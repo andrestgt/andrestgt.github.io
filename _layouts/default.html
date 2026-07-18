@@ -70,6 +70,8 @@
 
     figure { margin: 1.5rem auto; text-align: center; }
     figcaption { font-family: "DM Sans", sans-serif; font-size: .82rem; color: var(--text-muted); margin-top: .5rem; letter-spacing: 0.01em; }
+    /* a lone photo left in a 2-col grid renders half-width; make it full width (leaves genuine pairs untouched) */
+    div[style*="display:grid"]:has(> figure:only-child){ grid-template-columns: 1fr !important; }
 
     /* ---------------------------
        SITE NAVIGATION (CLASSY REFINEMENTS)
