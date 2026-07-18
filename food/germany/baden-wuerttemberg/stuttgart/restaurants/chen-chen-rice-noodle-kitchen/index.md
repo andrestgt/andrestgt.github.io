@@ -38,4 +38,4 @@ Highly recommended for a small bite between meals, but also for a proper meal to
 
 📍 Hirschstraße 27, 70173 Stuttgart, Germany
 
-💰 **Price level:** €15–30 · Dinner
+💰 **Price level:** €25–30 · Dinner
