@@ -16,10 +16,6 @@ This used to be the best farang breakfast place in town a decade ago, and is sti
 
 2024 update: still overall 4 stars. I had a tasty tempeh avocado sandwich, but was very disappointed with the mango juice. Now in May, during the height of the mango season, I would have expected a perfect shake, but it tasted bland and very diluted. Definitely not worth the high price.
 
-<figure>
-  <img src="/photos/thailand/chiang-mai/blue-diamond-breakfast-club-4.jpg" alt="Blue Diamond The Breakfast Club">
-  <figcaption>Blue Diamond The Breakfast Club</figcaption>
-</figure>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
@@ -27,7 +23,7 @@ This used to be the best farang breakfast place in town a decade ago, and is sti
   <figcaption>Kuay Tiaw Nam</figcaption>
 </figure>
 <figure>
-  <img src="/photos/thailand/chiang-mai/blue-diamond-breakfast-club-3.jpg" alt="Blue Diamond The Breakfast Club">
+  <img src="/photos/thailand/chiang-mai/blue-diamond-breakfast-club-4.jpg" alt="Blue Diamond The Breakfast Club">
   <figcaption>Blue Diamond The Breakfast Club</figcaption>
 </figure>
 </div>
