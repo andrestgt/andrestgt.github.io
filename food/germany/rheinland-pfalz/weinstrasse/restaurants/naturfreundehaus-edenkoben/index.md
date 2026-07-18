@@ -25,6 +25,17 @@ This Naturfreundehaus is both easy to reach by car and a lovely walk. The interi
 </figure>
 </div>
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+<figure>
+  <img src="/photos/germany/weinstrasse/naturfreundehaus-edenkoben-1.jpg" alt="Naturfreundehaus Edenkoben">
+  <figcaption>Naturfreundehaus Edenkoben</figcaption>
+</figure>
+<figure>
+  <img src="/photos/germany/weinstrasse/naturfreundehaus-edenkoben-2.jpg" alt="Naturfreundehaus Edenkoben">
+  <figcaption>Naturfreundehaus Edenkoben</figcaption>
+</figure>
+</div>
+
 ## Ratings
 
 | Category        | Score  |

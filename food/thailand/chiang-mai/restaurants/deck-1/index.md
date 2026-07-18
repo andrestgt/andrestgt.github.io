@@ -16,6 +16,10 @@ Very fancy riverside place with good views and atmosphere. Food is okay, nothing
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
 <figure>
+  <img src="/photos/thailand/chiang-mai/deck-1-2.jpg" alt="Deck 1">
+  <figcaption>Deck 1</figcaption>
+</figure>
+<figure>
   <img src="/photos/thailand/chiang-mai/deck-1-3.jpg" alt="Deck 1">
   <figcaption>Deck 1</figcaption>
 </figure>
