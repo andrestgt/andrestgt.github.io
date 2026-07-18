@@ -10,7 +10,6 @@ subtitle: Restaurants in Stuttgart
 
 # Restaurants in Stuttgart
 
-
 ## ATHIDHI RESTAURANT STUTTGART
 Stuttgart · Indian
 As someone who has been to India several times and considers himself a genuine friend and...
@@ -40,6 +39,11 @@ This is a lovely beer garden inside a rather large park not too far from downtow
 Stuttgart · Brewpub, Swabian
 With its prime location, modern interior, and a very nice alfresco area overlooking Stuttg...
 → [Read the full review](./carls-brewery/)
+
+## CHEN CHEN RICE NOODLE KITCHEN
+Stuttgart · Chinese, Sichuan
+A small, modern canteen-style place where you really do feel like you're in Asia.
+→ [Read the full review](./chen-chen-rice-noodle-kitchen/)
 
 ## CQ FLAVOUR
 Stuttgart · Chinese, Sichuan
@@ -100,6 +104,11 @@ The food is very good, honest Italian cooking at a decent level. I found the pri
 Bad Cannstatt · Vietnamese
 Sai Gon looks like a basic local eatery, but there are two menus. The regular German menu...
 → [Read the full review](./sai-gon-asian-street-food/)
+
+## SICHUAN CHINA RESTAURANT
+Stuttgart-West · Sichuan, Chinese
+From the outside this place doesn't look like much, and the décor is more reminiscent of...
+→ [Read the full review](./sichuan-china-restaurant/)
 
 ## TAGESBISTRO HERR KÄCHELE
 Stuttgart · Lunch Bistro

@@ -13,3 +13,4 @@ hero_overlay: false
 
 - [Thanh Hóa](/food/vietnam/thanh-hoa/thanh-hoa/)
 - [Pù Luông](/food/vietnam/thanh-hoa/pu-luong/)
+- [Thường Xuân](/food/vietnam/thanh-hoa/thuong-xuan/)

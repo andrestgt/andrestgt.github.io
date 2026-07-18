@@ -14,6 +14,7 @@ hero_overlay: false
 
 - [Aulendorf](/food/germany/baden-wuerttemberg/aulendorf/)
 - [Backnang](/food/germany/baden-wuerttemberg/backnang/)
+- [Göppingen](/food/germany/baden-wuerttemberg/goeppingen/)
 - [Heidelberg](/food/germany/baden-wuerttemberg/heidelberg/)
 - [Karlsruhe](/food/germany/baden-wuerttemberg/karlsruhe/)
 - [Lauffen am Neckar](/food/germany/baden-wuerttemberg/lauffen-am-neckar/)

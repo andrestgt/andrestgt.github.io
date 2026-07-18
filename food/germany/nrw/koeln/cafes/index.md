@@ -10,6 +10,10 @@ subtitle: Cafés in Köln
 
 # Cafés in Köln
 
+## CAFÉ JAKUBOWSKI
+Köln-Mülheim · Café
+A lovely, homely café in an old building with a cosy atmosphere and outdoor seating.
+→ [Read the full review](./cafe-jakubowski/)
 
 ## ESPRESSO PERFETTO KÖLN GMBH
 Köln · Espresso Bar

@@ -12,5 +12,6 @@ hero_overlay: false
 
 # Nordrhein-Westfalen
 
+- [Düsseldorf](/food/germany/nrw/duesseldorf/)
 - [Köln](/food/germany/nrw/koeln/)
 - [Münster](/food/germany/nrw/muenster/)

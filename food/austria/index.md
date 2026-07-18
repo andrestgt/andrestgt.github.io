@@ -12,6 +12,7 @@ hero: /photos/background/austriahero.jpg
 Food & drink in Austria.
 
 ## Destinations
+- [Kleinwalsertal](/food/austria/kleinwalsertal/)
 - [Linz](/food/austria/linz/)
 - [Salzburg](/food/austria/salzburg/)
 - [Wachau](/food/austria/wachau/)
