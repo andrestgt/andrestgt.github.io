@@ -19,20 +19,20 @@ The concrete jungle of Göppingen's city centre is certainly not the most atmosp
   <figcaption>Wurstsalat</figcaption>
 </figure>
 <figure>
-  <img src="/photos/germany/goeppingen/barfuesser-hausbrauerei-goeppingen-3.jpg" alt="Barfüßer Hausbrauerei Göppingen">
-  <figcaption>Barfüßer Hausbrauerei</figcaption>
-</figure>
-</div>
-<figure>
   <img src="/photos/germany/goeppingen/barfuesser-hausbrauerei-goeppingen-4.jpg" alt="Barfüßer Hausbrauerei Göppingen">
   <figcaption>Barfüßer Hausbrauerei</figcaption>
 </figure>
+</div>
 
+<figure>
+  <img src="/photos/germany/goeppingen/barfuesser-hausbrauerei-goeppingen-3.jpg" alt="Barfüßer Hausbrauerei Göppingen">
+  <figcaption>Barfüßer Hausbrauerei</figcaption>
+</figure>
 ## Ratings
 
 | Category        | Score  |
 |-----------------|--------|
-| Food            | 7.5/10 |
+| Food            | 8/10 |
 | Service         | 7.5/10 |
 | Value for money | 7.5/10 |
 | Atmosphere      | 7/10 |
