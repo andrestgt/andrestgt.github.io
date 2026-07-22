@@ -10,7 +10,7 @@ subtitle: Street food in Chiang Mai
 
 # Street food & basic eateries
 
-Chiang Mai has some of the best street food in Thailand, from Anthony Bourdain's famous pork leg stall to proper Santitham Road local spots that put most tourist restaurants to shame.
+Chiang Mai has some of the best street food in Thailand, from Anthony Bourdain's famous pork leg stall to Santitham Road local spots.
 
 ---
 
