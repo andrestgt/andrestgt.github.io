@@ -10,7 +10,7 @@ subtitle: Street food and basic eateries in Bangkok
 
 # Street food & basic eateries
 
-Bangkok has one of the great street food cultures in the world, from 25 Bt charcoal-grilled ho mok in Chinatown to Michelin-recommended noodle shops and legendary canal-side hole-in-the-wall spots.
+Bangkok has one of the great street food cultures in the world, from 25 Bt charcoal-grilled ho mok in Chinatown to Michelin-recommended noodle shops.
 
 ---
 
