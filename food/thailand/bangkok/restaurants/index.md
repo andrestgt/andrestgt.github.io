@@ -10,7 +10,7 @@ subtitle: Restaurants in Bangkok
 
 # Restaurants
 
-Bangkok has one of the greatest and most varied restaurant scenes in the world, from cheap Michelin-starred noodle shops to extraordinary fine dining at remarkably accessible prices.
+Bangkok has one of the greatest and most varied restaurant scenes in the world.
 
 ---
 
