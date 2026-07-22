@@ -3,5 +3,8 @@ description: Personal travel writing, restaurant reviews, and photos
 markdown: kramdown
 kramdown:
   input: GFM
-
+url: "https://andrestgt.github.io"
+plugins:
+  - jekyll-sitemap
+  
 
