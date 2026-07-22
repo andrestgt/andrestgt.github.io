@@ -13,7 +13,7 @@ photos_locked: true
 
 We had originally planned a short bike trip from Nha Trang up to Quy Nhon, three or four days, no more than that. But once we got going, it became clear that this was an unusual moment to be travelling in Vietnam. The country was closed to the outside world because of Covid-19, but inside, everything was still open, and the roads, beaches, caves and mountains were essentially empty of foreign tourists. It was too good an opportunity to pass up.
 
-The short trip turned into an epic 6,600-kilometre loop that took us through most of the country: up the central coast, along the Ho Chi Minh Trail into the far north, around the Hà Giang loop, and back down through the highlands to Nha Trang. Six weeks of riding through the country we thought we knew, with hardly any other tourists on the road.
+The short trip turned into an epic 6,600-kilometre loop that took us through most of the country: up the central coast, along the Ho Chi Minh Trail into the far north, around the Hà Giang loop, and back down through the highlands to Nha Trang. Six weeks of riding through this incredible country, with hardly any other tourists on the road.
 
 ![Hà Giang Province](photos/Vietnam20-1746.jpg)
 *Hà Giang Province*
