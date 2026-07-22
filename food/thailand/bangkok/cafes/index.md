@@ -10,7 +10,7 @@ subtitle: Coffee shops in Bangkok
 
 # Cafés
 
-Bangkok has an extraordinary café scene, with hundreds of quality roasters spread across the city, from atmospheric canal-side spots to polished Sukhumvit specialty roasters.
+Bangkok has an extraordinary café scene, with hundreds of quality roasters spread across the city, from atmospheric canal-side spots to Sukhumvit specialty roasters.
 
 ---
 
