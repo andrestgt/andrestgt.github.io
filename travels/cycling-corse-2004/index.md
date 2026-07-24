@@ -792,7 +792,7 @@ in the narrow lanes.
 
 After a long stay in town we rode another 20-odd
 kilometres on a demanding but scenic route to Pianottoli, where we
-pitched our tent at Camping Le Domier, unfortunately quite a long way off
+pitched our tent at Camping Le Damier, unfortunately quite a long way off
 our route down towards the beach. Average pitches, decent facilities,
 fairly cheap (€9.20).
 
