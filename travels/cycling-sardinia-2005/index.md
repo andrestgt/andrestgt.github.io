@@ -566,8 +566,7 @@ walls, with its atmospheric, often rather run-down, palazzi.
 </div>
 
 This upper
-town, Cagliari’s real centre, offers splendid views, original streets of
-houses and dark alleys, but surprisingly few tourist facilities or
+town, Cagliari’s real centre, offers splendid views, original streetscapes with historic houses and dark alleyways, but surprisingly few tourist facilities or
 places to eat, apart from the magnificent Terrazza Umberto. From there
 you can admire the entire city and a large part of the surrounding
 coastline, and there are some wonderful, cosy open-air cafés.
