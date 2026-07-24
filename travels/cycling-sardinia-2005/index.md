@@ -975,7 +975,7 @@ A very good choice: the sanitary facilities are miserably Italian, but
 the huge pool with its sunbathing lawn right on the Golfo di Cugnana is
 excellent. It’s also not too busy yet, I have peace and quiet, and the
 restaurant serves wood-fired pizza. I don’t plan to spend the entire
-rest of the time at the pool, but most of it. I do still have a few aims,
+rest of the time at the pool, but most of it. I do still have a few goals,
 though: a thorough exploration of the Costa Smeralda and the Aranci
 peninsula, plus Olbia.
 
@@ -984,7 +984,7 @@ peninsula, plus Olbia.
 The last days were exactly as I’d imagined. I spent two days by the
 pool, reading and doing absolutely nothing else. On Monday I cycled the
 Costa Smeralda once more as far as Porto Cervo, but it was the same
-problem as south of Olbia: even though most of the dream bays can only
+problem as south of Olbia: even though most of the magnificent bays can only
 be reached via dusty, bumpy tracks, you can be sure you’ll hardly see
 any sand for sun loungers. That doesn’t diminish the coast’s beauty, of
 course, and in May or October the area is guaranteed to be a dream.
@@ -1007,7 +1007,7 @@ Porto Cervo too (that playground of millionaires, stylishly and
 tastefully conjured out of the ground by Aga Khan and company) really
 appealed to me. Architecturally and visually, it’s a very successful
 holiday town in a beautiful setting, with a café-lined piazza, designer
-boutiques and wonderfully inflated prices: a true one-off.
+boutiques and wonderfully inflated prices: a truly unique place.
 
 <div class="photo-row">
 
@@ -1043,10 +1043,10 @@ sea, so it offers fine panoramic views.
   <em>Around Porto Rotondo</em>
 </figure>
 
-Olbia itself, apart from its exceptionally beautiful setting, also has a
+Olbia itself, aling with its exceptionally beautiful setting, also has a
 nice little old town. It’s heavily geared towards tourism, but with its
 promenade (Corso Umberto), palm-lined piazzas and splendid palazzi,
-Olbia is certainly worth a detour.
+Olbia is certainly worth a visit.
 
 <figure>
   <img src="photos/CyclingSarde05-0412.jpg" alt="Olbia">
