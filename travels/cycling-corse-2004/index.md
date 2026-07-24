@@ -324,8 +324,7 @@ Languedoc, with a small detour into the pretty old town of Capestang.
 </figure>
 
 From Béziers there was once again a cycle path for a few kilometres
-along the Canal du Midi, and via little lanes we eventually reached
-Agde, a fairly attractive but touristy town.
+along the Canal du Midi, and following quiet little lanes, we ultimately made our way to Agde, a fairly attractive but touristy town.
 
 <figure>
   <img src="photos/CyclingCorse2004-0029.jpg" alt="Béziers">
