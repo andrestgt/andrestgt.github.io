@@ -1224,7 +1224,7 @@ charcuterie and pastries, enough to make your mouth water.
 The remaining
 25 kilometres back to Bastia followed the coast, with lots of small but
 nasty little climbs. The east coast of Cap Corse is less wild and
-spectacular, but the Riviera between the pretty old coastal village of
+spectacular, but the Riviera between the pretty, old-fashioned coastal village of
 Erbalunga and Bastia was particularly charming.
 
 <figure>
@@ -1234,7 +1234,7 @@ Erbalunga and Bastia was particularly charming.
 
 In Bastia we stayed at
 Hôtel Napoléon (\*\*) just a minute’s walk from Place Saint-Nicolas: a
-pretty old city hotel with small but neatly furnished rooms for €60. We
+nice, old city hotel with small but neatly furnished rooms for €60. We
 had an excellent Moroccan dinner at Le Zagora on a little balcony
 overlooking the old harbour: pastilla with pigeon (€13.50) and couscous
 royal (€20.50). Not cheap, but delicious, and very friendly service.
