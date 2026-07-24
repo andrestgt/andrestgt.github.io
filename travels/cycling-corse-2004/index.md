@@ -1109,7 +1109,7 @@ with polenta (€12.50) and broconcini (veal roulade stuffed with Corsican
 ham and cheese, €18). For dessert, chestnut cake with marron ice cream
 (€7) and Corsican cheese.
 
-Overnight at Camping Le Castor (\*\*\*) very close to town and beach.
+Overnight at Camping Les Castors (\*\*\*) very close to town and beach.
 Expensive (€20) as high season had begun, but with beautiful grassy
 pitches and excellent facilities.
 
