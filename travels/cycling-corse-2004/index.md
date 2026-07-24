@@ -862,7 +862,7 @@ and decent solar-powered facilities; sadly, it was far too expensive
 Serra-di-Ferro — Portiglio — Ajaccio\
 The first part of the day was all about long, steep climbs and descents
 through empty, beautiful coastal mountains on the narrow D155, which
-was in miserable condition in places. First we climbed to a belvedere
+was in deplorable condition in places. First we climbed to a belvedere
 with wonderful views over the Anse d’Orzo; then we climbed again, past
 Aqua Doria, followed by a long descent down to Portiglio, the first town
 on the Gulf of Ajaccio.
