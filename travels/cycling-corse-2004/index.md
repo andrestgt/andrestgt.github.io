@@ -49,7 +49,7 @@ side of the river there’s also a compact but gorgeous old town, packed
 with bars, cafés and a superb central plaza surrounded by arcades. With
 such an absurdly large selection of fantastic tapas bars, you really
 have to try a few bits and pieces. We chose the venerable, beautifully
-fitted-out Café Iruña.
+decorated Café Iruña.
 
 <figure>
   <img src="photos/CyclingCorse2004-0003.jpg" alt="Bilbao - Café Iruña">
