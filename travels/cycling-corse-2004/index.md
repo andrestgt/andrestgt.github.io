@@ -187,8 +187,8 @@ Hendaye and the venerable seaside resort of St Jean de Luz.
 </figure>
 
 Biarritz is
-also pretty, even if it’s no longer glowing with the glamour of former
-days, though the many grand old villas still testify to the time when it
+also pretty, even if it’s no longer glowing with the glamour of the old
+days, though the many grand old villas still are still testimony to a time when it
 was one of Europe’s most fashionable resorts.
 
 <div class="photo-row">
