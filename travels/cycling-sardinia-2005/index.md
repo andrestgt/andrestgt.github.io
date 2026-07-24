@@ -908,7 +908,7 @@ beach that stretches for four kilometres to the next town, La Caletta.
 My plan today was to leave the bike behind again and head inland for a
 bit, but I wasn’t prepared to pay €40 for a battered 125cc scooter, so I
 carried on towards Olbia, with plenty of stops. First in the old town of
-Posada, picturesquely crowned by a castle on a hill, a truly original, cosy place, despite its proximity to the tourist centres of
+Posada, picturesquely crowned by a castle on a hill, a truly authentic and idyllic place, despite its proximity to the tourist centres of
 Baronia.
 
 <figure>
