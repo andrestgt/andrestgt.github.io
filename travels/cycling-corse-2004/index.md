@@ -85,8 +85,7 @@ great beaches, and the postcard-perfect, undeveloped Playa de Laga.
 
 But
 really, the whole Costa Vasca is stunning; the only fly in the
-ointment, like everywhere in the Basque Country, is that many of the small
-towns have unlovely architecture that doesn’t fit the landscape at all.
+ointment, like everywhere in the Basque Country, is that many small towns suffer from drab architecture at odds with their dramatic surroundings.
 Overnight at Camping Igeldo near San Sebastián. Expensive (€20), but
 good facilities and nice pitches.
 
