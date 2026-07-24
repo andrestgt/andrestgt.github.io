@@ -521,7 +521,7 @@ cities, and the food scene is great too.
 </div>
 
 In the evening we took the night
-ferry to Bastia on the sleek Danielle Casanova (with a pool!).
+ferry to Bastia on the swanky Danielle Casanova (with a pool!).
 
 <div class="photo-row">
 
