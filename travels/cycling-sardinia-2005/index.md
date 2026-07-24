@@ -1043,7 +1043,7 @@ sea, so it offers fine panoramic views.
   <em>Around Porto Rotondo</em>
 </figure>
 
-Olbia itself, aling with its exceptionally beautiful setting, also has a
+Olbia itself, apart from its exceptionally beautiful setting, also has a
 nice little old town. It’s heavily geared towards tourism, but with its
 promenade (Corso Umberto), palm-lined piazzas and splendid palazzi,
 Olbia is certainly worth a visit.
