@@ -521,7 +521,7 @@ cities, and the food scene is great too.
 </div>
 
 In the evening we took the night
-ferry to Bastia on the swanky Danielle Casanova (with a pool!).
+ferry to Bastia on the swanky Danielle Casanova (complete with a pool!).
 
 <div class="photo-row">
 
@@ -558,7 +558,7 @@ We reached Bastia early in the morning and started with a bit of
 
 sightseeing. Bastia is made up of three distinct quarters. First there’s
 the “new town”, or centre, around the pretty Place Saint-Nicolas lined
-with palms and cafés. Further south is the old harbour with a small old
+with palmtrees and cafés. Further south is the old harbour with a small old
 town, an absolute gem clinging to the slopes of a mountain ridge, full of
 character, with some charmingly run-down residential buildings. On a
 rocky outcrop on the south side of the harbour sits the still-inhabited
