@@ -131,7 +131,7 @@ good facilities and nice pitches.
 
 </div>
 
-For its setting, San Sebastián is one of the most beautiful cities in
+For its setting alone, San Sebastián is one of the most beautiful cities in
 Europe: tucked into a semicircular bay with two city beaches and a
 little island just offshore.
 
