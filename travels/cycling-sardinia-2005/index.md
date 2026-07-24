@@ -346,7 +346,7 @@ stopped for the night.
 
 **Turas – Cuglieri – Oristano – Marina di Arborea**
 
-Today began with a long climb that went on for kilometres up to
+Today began with a long climb that went on for miles up to
 Cuglieri, a mountain village at 500 metres. Apart from an authentic,
 tourist-free atmosphere, it didn’t have much else to offer.
 
