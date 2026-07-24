@@ -644,7 +644,7 @@ sand for sun loungers.
 Over a headland I then reached the east coast and
 took my lunch break at a beautiful white-sand beach without sun loungers
 but with a bar, south of Costa del Rei. Costa del Rei itself is very
-touristy, though it does have a magnificent kilometre-long white-sand
+touristy, though it does have a magnificent, miles-long white sand
 beach.
 
 <figure>
