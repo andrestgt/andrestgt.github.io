@@ -772,8 +772,7 @@ modern, fairly small motorboat and was, on the whole, worth the money.
 
 </div>
 
-We travelled along the entire gulf, Europe’s most impressive cliff
-coast, and had plenty of time to swim and sunbathe in the many bays.
+We travelled along the entire gulf, Europe’s most spectacular coastal cliffs, and had plenty of time to swim and sunbathe in the many bays.
 
 <div class="photo-row">
 
