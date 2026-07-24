@@ -405,7 +405,7 @@ lakes with pink flamingos.
 </figure>
 
 No larger settlement interrupted the
-idyll, which, over time, became slightly uncomfortable. After crossing
+idyll, which, over time, became slightly discomforting. After crossing
 the Rhône by ferry, we entered a vast industrial area stretching from
 Port-Saint-Louis to Fos-sur-Mer. Here the only option was the busy
 national road, partly four-lane; luckily, with a tailwind we made quick
