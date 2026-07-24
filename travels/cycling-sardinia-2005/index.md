@@ -451,7 +451,7 @@ the hottest hours of the day. The town is famous for tuna specialities,
 so of course I couldn’t resist trying Tonno alla Carloforte in one of
 the many restaurants, tuna steak in a tomato, sage and basil sauce. Very
 tasty. The town itself is really lovely too, with colourful pastel
-houses and plenty of street cafés by deep-blue sea.
+houses and plenty of outdoor cafés by deep-blue sea.
 
 <div class="photo-row">
 
