@@ -923,10 +923,7 @@ service.
 ## Day 16 – 1 July (84 km)
 
 Ajaccio — Cargèse — Piana — Porto\
-To begin with, it was uphill for a long time, over two cols, to more
-than 400 metres. Then came a long descent to the bay of Sagone, whose
-curve we followed for a few kilometres on a beautiful, flat coastal
-road: a wonderfully spacious bay with many beaches and smaller coves.
+We started with a long, steady climb over two passes, reaching over 400 metres before descending to the Bay of Sagone. From there, we followed its gentle curve for a few kilometres along a flat, stunning coastal road; a sweeping bay with wide beaches and hidden coves
 
 <div class="photo-row">
 
